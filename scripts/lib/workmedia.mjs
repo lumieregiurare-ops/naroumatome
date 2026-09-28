@@ -26,7 +26,18 @@ function videoScore(title, channel) {
   return 0;
 }
 // サイト共通のロゴなど、作品の画像ではないものを弾く
-const BAD_IMAGE = /logo|noimage|no_image|default|common\/|ogp\.png$|og-image\.png$|favicon/i;
+const BAD_IMAGE = /logo|noimage|no_image|default|common\/|ogp\.png$|og-?image\.png$|favicon/i;
+// 記事の見出しから、画像が作品の絵（キービジュアル・PV・書影）か、声優などの写真かを見当づける。
+// 声優の出演・イベントの記事の画像は人物写真で、作品の画像に見えないので使わない
+export function imageScore(title) {
+  if (/声優|キャスト(が|の)|登壇|イベント|レポート|インタビュー|ステージ|生放送|配信番組|挑戦|対談|舞台挨拶|握手|サイン会|コスプレ|実写|料理|たこ焼|オーディオドラマ|ドラマCD|朗読|ラジオ/.test(title)) return -1;
+  let score = 1;
+  if (/キービジュアル|ビジュアル|KV|ティザー|PV|アニメ化|放送決定|放送開始|制作決定/.test(title)) score = 3;
+  else if (/書影|表紙|コミカライズ|単行本|最新刊|\d+巻/.test(title)) score = 2;
+  // ゲーム版の絵はアニメ・原作の絵より後にする
+  if (/ゲーム|事前登録|G123|スマホ|アプリ/.test(title)) score = Math.min(score, 1);
+  return score;
+}
 
 async function oembed(id) {
   try {
@@ -58,12 +69,13 @@ async function scanWork(w, articles, { timeoutMs = 8000, budgetEnd }) {
       }
       const html = await fetchText(url, { timeoutMs });
       const img = a.image || ogImage(html);
-      if (img && !BAD_IMAGE.test(img) && !images.some((x) => x.url === img)) images.push({ url: img, from: url, at: a.publishedAt || "" });
+      const score = imageScore(a.title);
+      if (img && score > 0 && !BAD_IMAGE.test(img) && !images.some((x) => x.url === img)) images.push({ url: img, from: url, title: a.title, score, at: a.publishedAt || "" });
       for (const m of html.matchAll(YT_RE)) if (!videos.has(m[1])) videos.set(m[1], a.publishedAt || "");
     } catch {
       /* 開けない記事は飛ばす */
     }
-    if (images.length >= 4 && videos.size >= 10) break;
+    if (images.length >= 6 && videos.size >= 10) break;
   }
   let pv = null;
   for (const [id, at] of [...videos].slice(0, 16)) {
@@ -73,6 +85,8 @@ async function scanWork(w, articles, { timeoutMs = 8000, budgetEnd }) {
     if (!score) continue;
     if (!pv || score > pv.score || (score === pv.score && at > pv.at)) pv = { id, title: o.title, channel: o.channel, score, at };
   }
+  // 作品の絵らしいものを先に、同じ点なら新しいものを先に
+  images.sort((a, b) => b.score - a.score || (a.at < b.at ? 1 : -1));
   return { images: images.slice(0, 4), pv };
 }
 
@@ -112,7 +126,7 @@ export async function updateWorkMedia(root, config, now = new Date(), { log = de
     const prev = media[w.id] || {};
     media[w.id] = {
       // 見つからなかったときは前回の結果を残す
-      images: r.images.length ? r.images : prev.images || [],
+      images: r.images.length ? r.images : (prev.images || []).filter((x) => x.score > 0),
       pv: r.pv ? { id: r.pv.id, title: r.pv.title, channel: r.pv.channel } : prev.pv || null,
       checkedAt: now.toISOString(),
     };

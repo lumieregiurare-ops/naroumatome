@@ -11,6 +11,7 @@ import { loadArchive, jstDay } from "./archive.mjs";
 import { loadNovels } from "./novels.mjs";
 import { GENRES, BIG_GENRES, RANK_TYPES } from "./narou.mjs";
 import { readJson } from "./util.mjs";
+import { imageScore } from "./workmedia.mjs";
 
 export function minifyHtml(html) {
   return html
@@ -22,6 +23,10 @@ export function minifyHtml(html) {
 
 const WD = ["日", "月", "火", "水", "木", "金", "土"];
 const LIST_MAX = 60;
+// 画像が読み込めないとき。data-fb（PV のサムネイル）があればそれに替え、無ければ作品名の札にする
+const IMG_ONERROR = "var f=this.getAttribute('data-fb');if(f){this.removeAttribute('data-fb');this.src=f}else{this.parentNode.classList.add('noimg');this.remove()}";
+// ページの先頭へ戻るボタン（少しスクロールしたら出す）
+const TOTOP = `<button type="button" class="to-top" id="toTop" aria-label="ページの先頭へ" hidden>▲</button><script>(function(){var b=document.getElementById("toTop");addEventListener("scroll",function(){b.hidden=scrollY<400},{passive:true});b.onclick=function(){scrollTo({top:0,behavior:"smooth"})}})()</script>`;
 const LIST_DAYS = 180;
 const MIN_INDEXABLE = 3;
 
@@ -246,6 +251,7 @@ export async function renderPages(root, { log = () => {} } = {}) {
       <p class="copy">© ${year} ${esc(SITE)}</p>
     </div>
   </footer>
+  ${TOTOP}
   ${scripts.map((s) => `<script src="${s}" defer></script>`).join("")}
 </body>
 </html>`;
@@ -379,6 +385,7 @@ export async function renderPages(root, { log = () => {} } = {}) {
       .replace("<!--ssr:nav-->", navHtml())
       .replace("<!--ssr:list-->", listHtml)
       .replace("<!--ssr:footer-links-->", footerLinks())
+      .replace("<!--ssr:totop-->", TOTOP)
       .replace('<span id="meta">読み込み中…</span>', `<span id="meta">${esc(meta)}</span>`)
       .replace(/href="assets\/app\.css"/, `href="assets/app.css?v=${ver.css}"`)
       .replace(/src="assets\/app\.js"/, `src="assets/app.js?v=${ver.app}"`);
@@ -391,27 +398,26 @@ export async function renderPages(root, { log = () => {} } = {}) {
   // 複数の作品で同じ画像が出てくるのは媒体のロゴなどなので使わない
   const imgCount = new Map();
   for (const m of Object.values(media)) for (const im of m.images || []) imgCount.set(im.url, (imgCount.get(im.url) || 0) + 1);
-  const hostOf = (u) => {
-    try {
-      return new URL(u).hostname.replace(/^www\./, "");
-    } catch {
-      return "";
-    }
-  };
   function visualOf(w, newsItems = []) {
     const m = media[w.id] || {};
     const pv = w.pv ? { id: w.pv, title: "", channel: "" } : m.pv || null;
-    if (w.image) return { src: w.image, credit: w.imageCredit || "", href: "", pv };
-    const im = (m.images || []).find((x) => imgCount.get(x.url) === 1);
-    if (im) return { src: im.url, credit: hostOf(im.from), href: im.from, pv };
-    if (pv) return { src: `https://i.ytimg.com/vi/${pv.id}/hqdefault.jpg`, credit: "YouTube", href: `https://www.youtube.com/watch?v=${pv.id}`, pv };
+    // 記事の画像が無い・読み込めないときは PV のサムネイルを使う
+    const fallback = pv ? `https://img.youtube.com/vi/${pv.id}/hqdefault.jpg` : "";
+    if (w.image) return { src: w.image, fallback, pv };
+    // 見出しの判定は後から直すことがあるので、ここでも付け直して並べる
+    const im = (m.images || [])
+      .map((x) => ({ ...x, score: imageScore(x.title || "") }))
+      .filter((x) => x.score > 0 && imgCount.get(x.url) === 1)
+      .sort((a, b) => b.score - a.score || (a.at < b.at ? 1 : -1))[0];
+    if (im) return { src: im.url, fallback, pv };
+    if (fallback) return { src: fallback, fallback: "", pv };
     const it = newsItems.find((x) => x.image);
-    if (it) return { src: it.image, credit: it.source, href: it.url, pv };
-    return { src: "", credit: "", href: "", pv };
+    if (it) return { src: it.image, fallback: "", pv };
+    return { src: "", fallback: "", pv };
   }
   function visualHtml(v, title, cls) {
     if (!v.src) return `<div class="${cls} noimg"><span>${esc(title)}</span></div>`;
-    return `<div class="${cls}"><img src="${esc(v.src)}" alt="${esc(title)}" loading="lazy" decoding="async" referrerpolicy="no-referrer" onerror="this.parentNode.classList.add('noimg');this.remove()"></div>`;
+    return `<div class="${cls}"><img src="${esc(v.src)}"${v.fallback ? ` data-fb="${esc(v.fallback)}"` : ""} alt="${esc(title)}" loading="lazy" decoding="async" referrerpolicy="no-referrer" onerror="${IMG_ONERROR}"></div>`;
   }
   const statusOf = (n) => (n ? (n.short ? "短編" : n.finished ? "完結済み" : "連載中") : "");
 
@@ -425,7 +431,7 @@ export async function renderPages(root, { log = () => {} } = {}) {
     const items = allNews.slice(0, LIST_MAX);
     const path = `/works/${w.id}/`;
     const v = visualOf(w, allNews);
-    index[w.id] = { title: w.title, short: w.short || w.title, path, image: v.src };
+    index[w.id] = { title: w.title, short: w.short || w.title, path, image: v.src, fallback: v.fallback };
     const catCount = {};
     for (const it of allNews) for (const c of it.categories || []) catCount[c] = (catCount[c] || 0) + 1;
     const catSummary = cats
@@ -450,7 +456,7 @@ export async function renderPages(root, { log = () => {} } = {}) {
     const body = `
       <div class="work-top">
         <div class="work-visual">${visualHtml(v, w.title, "work-img")}
-        ${v.src && v.credit ? `<p class="img-credit">画像: ${v.href ? `<a href="${esc(v.href)}" target="_blank" rel="noopener">${esc(v.credit)}</a>` : esc(v.credit)}</p>` : ""}</div>
+</div>
         <div class="work-info">
           ${novelFacts(n)}
           ${w.ncode ? `<p class="work-links"><a class="link-btn" href="${narouUrl(w.ncode)}" target="_blank" rel="noopener">小説家になろうで読む</a></p>` : ""}
@@ -708,7 +714,7 @@ export async function renderPages(root, { log = () => {} } = {}) {
       body: `<div class="prose">
         <p>${esc(SITE)}は、小説家になろう発の作品や異世界ものの作品のニュースを集めているまとめサイトです。30分おきに更新しています。個人の運営で、小説家になろう（株式会社ヒナプロジェクト）・作者・出版社とは関係ありません。</p>
         <h2>載せているもの</h2>
-        <p>ニュースは見出しと要約の一部、元記事へのリンクだけです。本文は転載していません。作品ページの画像は、その作品を扱ったニュース記事の紹介用画像（og:image）で、出典を画像の下に書いています。PVはYouTubeの公式動画を埋め込んでいます。</p>
+        <p>ニュースは見出しと要約の一部、元記事へのリンクだけです。本文は転載していません。作品ページの画像は、その作品を扱ったニュース記事の紹介用画像（og:image）か、YouTubeのPVのサムネイルです。PVはYouTubeの公式動画を埋め込んでいます。</p>
         <p>作品の情報・あらすじの冒頭・ランキングは、小説家になろうの公式APIのデータです。</p>
         <p>ジャンルや作品の振り分けは見出しの言葉から機械的に判定しているので、間違っていることがあります。</p>
         <h2>コメント</h2>

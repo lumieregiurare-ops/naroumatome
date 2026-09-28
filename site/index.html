@@ -71,13 +71,7 @@
         <section class="feed" id="feedSection">
           <h2 class="sec-title">新着ニュース</h2>
           <div class="cat-tabs" id="catList" role="group" aria-label="ジャンル"></div>
-          <div class="filter-bar">
-            <form class="search" id="searchForm" role="search">
-              <svg viewBox="0 0 24 24" width="16" height="16" aria-hidden="true"><circle cx="11" cy="11" r="7" fill="none" stroke="currentColor" stroke-width="2.2"/><path d="M16.5 16.5 L21 21" stroke="currentColor" stroke-width="2.2" stroke-linecap="round"/></svg>
-              <input type="search" id="searchInput" placeholder="キーワード検索" autocomplete="off" aria-label="ことばで探す">
-            </form>
-            <div class="work-filter" id="workFilter" hidden></div>
-          </div>
+          <div class="work-filter" id="workFilter" hidden></div>
           <p class="count" id="count"></p>
           <div id="list"><!--ssr:list--></div>
           <button class="more-btn" id="listMore" type="button" hidden></button>
@@ -126,6 +120,7 @@
     </div>
   </footer>
 
+  <!--ssr:totop-->
   <script src="assets/app.js"></script>
 </body>
 </html>

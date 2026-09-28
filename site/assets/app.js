@@ -10,7 +10,7 @@
   var $ = function (id) {
     return document.getElementById(id);
   };
-  var state = { cat: "all", q: "", work: "", shown: PAGE };
+  var state = { cat: "all", work: "", shown: PAGE };
   var news = null;
   var workMap = {};
   var catMap = {};
@@ -134,11 +134,12 @@
       .map(function (id) {
         var w = workMap[id];
         var img = index && index[id] && index[id].image;
+        var fb = (index && index[id] && index[id].fallback) || "";
         var cc = counts && counts[id] ? '<span class="wcard-c">コメント' + counts[id] + "</span>" : "";
         return (
           '<li class="wcard"><a href="works/' + id + '/">' +
           (img
-            ? '<div class="wcard-img"><img src="' + esc(img) + '" alt="' + esc(w.short) + '" loading="lazy" referrerpolicy="no-referrer" onerror="this.parentNode.classList.add(\'noimg\');this.remove()"></div>'
+            ? '<div class="wcard-img"><img src="' + esc(img) + '"' + (fb ? ' data-fb="' + esc(fb) + '"' : "") + ' alt="' + esc(w.short) + '" loading="lazy" referrerpolicy="no-referrer" onerror="var f=this.getAttribute(\'data-fb\');if(f){this.removeAttribute(\'data-fb\');this.src=f}else{this.parentNode.classList.add(\'noimg\');this.remove()}"></div>'
             : '<div class="wcard-img noimg"><span>' + esc(w.short) + "</span></div>") +
           '<span class="wcard-title">' + esc(w.title) + "</span></a>" +
           '<span class="wcard-n">ニュース' + n[id] + "件" + cc + "</span></li>"
@@ -155,21 +156,13 @@
     });
     if (!topics.length) return;
     $("topicList").innerHTML = topics
-      .slice(0, 4)
+      .slice(0, 6)
       .map(function (t, i) {
-        var others = (t.articles || [])
-          .slice(0, 4)
-          .map(function (a) {
-            return '<li><a href="' + esc(a.url) + '" target="_blank" rel="noopener">' + esc(a.source) + "</a></li>";
-          })
-          .join("");
         return (
           '<article class="topic' + (i === 0 ? " topic-lead" : "") + '">' +
           (i === 0 && t.image ? '<div class="topic-img"><img src="' + esc(t.image) + '" alt="" loading="lazy" referrerpolicy="no-referrer" onerror="this.parentNode.remove()"></div>' : "") +
-          '<div class="topic-body"><span class="topic-n">' + t.sourceCount + "媒体</span>" +
           '<a class="topic-title" href="' + esc(t.url) + '" target="_blank" rel="noopener">' + esc(t.title) + "</a>" +
-          '<p class="topic-meta">' + esc(t.leadSource) + " ・ " + ago(t.publishedAt) + (others ? "</p><ul class=\"topic-others\">" + others + "</ul>" : "</p>") +
-          "</div></article>"
+          "</article>"
         );
       })
       .join("");
@@ -178,12 +171,10 @@
 
   // ---------- 新着ニュース ----------
   function filtered() {
-    var q = state.q.trim().toLowerCase();
     return news.items.filter(function (it) {
       if (hidden(it)) return false;
       if (state.cat !== "all" && (it.categories || []).indexOf(state.cat) === -1) return false;
       if (state.work && (it.works || []).indexOf(state.work) === -1) return false;
-      if (q && (it.title + " " + (it.summary || "") + " " + it.source).toLowerCase().indexOf(q) === -1) return false;
       return true;
     });
   }
@@ -237,7 +228,7 @@
     renderWorkFilter();
   }
   function persist() {
-    save("narou:state", { cat: state.cat, q: state.q });
+    save("narou:state", { cat: state.cat });
   }
 
   // ---------- サイド ----------
@@ -297,19 +288,6 @@
       persist();
       renderList();
     });
-    var timer = null;
-    $("searchInput").addEventListener("input", function (e) {
-      clearTimeout(timer);
-      timer = setTimeout(function () {
-        state.q = e.target.value;
-        state.shown = PAGE;
-        persist();
-        renderList();
-      }, 150);
-    });
-    $("searchForm").addEventListener("submit", function (e) {
-      e.preventDefault();
-    });
     $("workFilter").addEventListener("click", function (e) {
       if (e.target.id !== "workClear") return;
       state.work = "";
@@ -346,11 +324,9 @@
     $("year").textContent = new Date().getFullYear();
     var saved = load("narou:state", {});
     state.cat = saved.cat || "all";
-    state.q = saved.q || "";
     var m = location.search.match(/[?&]work=([a-z0-9-]+)/);
     if (m) state.work = m[1];
     ng = load("narou:ng", []);
-    $("searchInput").value = state.q;
     renderNg();
     bind();
 
