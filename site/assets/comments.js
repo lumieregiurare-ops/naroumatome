@@ -33,7 +33,7 @@
   }
   function when(iso) {
     var d = new Date(new Date(iso).getTime() + 9 * 3600000);
-    return d.getUTCFullYear() + "/" + (d.getUTCMonth() + 1) + "/" + d.getUTCDate() + " " + pad(d.getUTCHours()) + ":" + pad(d.getUTCMinutes());
+    return d.getUTCFullYear() + "/" + pad(d.getUTCMonth() + 1) + "/" + pad(d.getUTCDate()) + "(" + "日月火水木金土"[d.getUTCDay()] + ") " + pad(d.getUTCHours()) + ":" + pad(d.getUTCMinutes());
   }
   function randomKey() {
     var a = new Uint8Array(16);
@@ -74,7 +74,7 @@
         var counts = (j && j.counts) || {};
         Array.prototype.forEach.call(els, function (el) {
           var n = counts[el.getAttribute("data-count-for")];
-          if (n) el.textContent = "コメント " + n;
+          if (n) el.textContent = "コメント" + n;
         });
       })
       .catch(function () {});
@@ -95,9 +95,9 @@
     if (savedName) form.name.value = savedName;
 
     function render() {
-      $("cCount").textContent = items.length ? items.length + " 件" : "";
+      $("cCount").textContent = items.length ? "（" + items.length + "）" : "";
       if (!items.length) {
-        $("cList").innerHTML = '<p class="c-empty">まだコメントはありません。最初のひとことをどうぞ。</p>';
+        $("cList").innerHTML = '<p class="c-empty">まだコメントはありません。</p>';
         return;
       }
       $("cList").innerHTML = items
@@ -106,8 +106,8 @@
           var body = esc(c.body).replace(/\n/g, "<br>");
           return (
             '<article class="c-item' + (mine ? " is-mine" : "") + '" id="c-' + c.no + '">' +
-            '<div class="c-head"><span class="c-no">' + c.no + '</span><b class="c-name">' + esc(c.name) + '</b><span class="c-uid">ID:' + esc(c.uid) + '</span><time datetime="' + esc(c.at) + '">' + when(c.at) + "</time></div>" +
-            (c.sp ? '<details class="c-spoiler"><summary>ネタバレを含むコメントです（押すと表示）</summary><p class="c-text">' + body + "</p></details>" : '<p class="c-text">' + body + "</p>") +
+            '<div class="c-head"><span class="c-no">' + c.no + '</span>：<b class="c-name">' + esc(c.name) + '</b>：<time datetime="' + esc(c.at) + '">' + when(c.at) + '</time> <span class="c-uid">ID:' + esc(c.uid) + "</span></div>" +
+            (c.sp ? '<details class="c-spoiler"><summary>ネタバレ（クリックで表示）</summary><p class="c-text">' + body + "</p></details>" : '<p class="c-text">' + body + "</p>") +
             '<div class="c-acts">' +
             (mine
               ? '<button type="button" data-act="delete" data-id="' + c.id + '">削除</button>'

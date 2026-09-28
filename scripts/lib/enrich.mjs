@@ -6,7 +6,7 @@
 import { fetchText, hostOf } from "./util.mjs";
 import { decodeEntities } from "./xml.mjs";
 
-function ogImage(html) {
+export function ogImage(html) {
   const re = /<meta[^>]+(?:property|name)=["']og:image[^"']*["'][^>]*>/gi;
   for (const m of html.matchAll(re)) {
     const c = m[0].match(/content=["']([^"']+)["']/i);
@@ -26,7 +26,7 @@ function gnAttrs(html) {
   return id && ts && sg ? { id, ts, sg } : null;
 }
 
-async function resolveGoogleNewsUrl(gnUrl, timeoutMs) {
+export async function resolveGoogleNewsUrl(gnUrl, timeoutMs) {
   const html = await fetchText(gnUrl, { timeoutMs });
   const attrs = gnAttrs(html);
   if (!attrs) return "";

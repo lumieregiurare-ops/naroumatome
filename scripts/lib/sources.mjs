@@ -32,7 +32,7 @@ export async function fetchFeed(feed) {
 
 // Google ニュースはキーワード検索の結果を RSS で返す。媒体名が source 要素に入る
 export async function fetchGoogleNews(query, { within = "2d", perQuery = 40 } = {}) {
-  const q = encodeURIComponent(`${query} when:${within}`);
+  const q = encodeURIComponent(within ? `${query} when:${within}` : query);
   const xml = await fetchText(`https://news.google.com/rss/search?q=${q}&hl=ja&gl=JP&ceid=JP:ja`, { timeoutMs: 20000 });
   const blocks = xml.split(/<item>/).slice(1, perQuery + 1);
   const out = [];

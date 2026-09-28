@@ -8,6 +8,7 @@ import { enrichImages } from "./lib/enrich.mjs";
 import { buildTopics } from "./lib/cluster.mjs";
 import { updateArchive } from "./lib/archive.mjs";
 import { updateNarou } from "./lib/novels.mjs";
+import { updateWorkMedia } from "./lib/workmedia.mjs";
 import { renderPages } from "./lib/pages.mjs";
 
 const ROOT = join(dirname(fileURLToPath(import.meta.url)), "..");
@@ -254,6 +255,14 @@ if (config.narou?.enabled !== false) {
   } catch (e) {
     log("なろうの情報の取得に失敗:", e.stack || e.message);
   }
+}
+
+// ---------- 5.5 作品の画像と PV ----------
+// 1 回に数作品ずつ、3 日おきに調べ直す（記事を開いて回るので時間がかかるため）
+try {
+  await updateWorkMedia(ROOT, config, now, { log });
+} catch (e) {
+  log("作品の画像・PV の取得に失敗:", e.stack || e.message);
 }
 
 // ---------- 6. 過去の記事を貯めて、検索エンジン向けのページを作り直す ----------

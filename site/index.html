@@ -13,7 +13,7 @@
   </script>
   <title>なろう系まとめ｜なろう発アニメ・コミカライズ・書籍化ニュースとランキング</title>
   <meta name="description" content="小説家になろう発の作品や異世界ものの、アニメ化・コミカライズ・書籍化・グッズのニュースをあちこちの媒体から集めています。なろうのランキングと、作品ごとのページ・コメント欄もあります。">
-  <meta name="theme-color" content="#1e5b47">
+  <meta name="theme-color" content="#2c6fbb">
   <meta property="og:site_name" content="なろう系まとめ">
   <meta property="og:title" content="なろう系まとめ｜なろう発アニメ・コミカライズ・書籍化ニュースとランキング">
   <meta property="og:description" content="なろう発の作品のアニメ化・コミカライズ・書籍化のニュースと、小説家になろうのランキングをまとめています。作品ごとにコメントもできます。">
@@ -40,17 +40,13 @@
   </script>
   <!-- ssr:head / ssr:nav / ssr:list / ssr:footer-links は scripts/lib/pages.mjs が中身に置き換える -->
   <!--ssr:head-->
-  <link rel="preconnect" href="https://fonts.googleapis.com">
-  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-  <link rel="preload" as="style" href="https://fonts.googleapis.com/css2?family=Shippori+Mincho+B1:wght@700;800&family=Zen+Kaku+Gothic+New:wght@400;500;700&display=swap" onload="this.onload=null;this.rel='stylesheet'">
-  <noscript><link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Shippori+Mincho+B1:wght@700;800&family=Zen+Kaku+Gothic+New:wght@400;500;700&display=swap"></noscript>
   <link rel="stylesheet" href="assets/app.css">
 </head>
 <body>
   <header class="header">
     <div class="wrap header-inner">
-      <h1 class="logo-h"><a class="logo" href="./"><span class="logo-mark" aria-hidden="true">な</span><span class="logo-text">なろう系<b>まとめ</b></span></a></h1>
-      <p class="tagline">なろう発の作品のアニメ化・コミカライズ・書籍化ニュース</p>
+      <h1 class="logo-h"><a class="logo" href="./">なろう系<span>まとめ</span></a></h1>
+      <p class="tagline">なろう系作品のアニメ・漫画・書籍ニュース</p>
       <p class="header-meta"><span id="meta">読み込み中…</span><span class="churn" id="churn" hidden></span></p>
     </div>
     <!--ssr:nav-->
@@ -60,40 +56,32 @@
     <div class="layout">
       <div class="col-main">
 
-        <!-- 作品ごとの動き。いちばん上に置くこのサイトの看板。数はこの 7 日に見出しへ作品名が出た記事の本数 -->
+        <!-- この 7 日に見出しへ作品名が出た記事が多い作品 -->
         <section class="moving" id="movingSection" hidden>
-          <div class="sec-head">
-            <h2 class="sec-title">いま動いている作品</h2>
-            <p class="sec-desc">この 7 日間に、見出しに作品名が出たニュースの本数です。</p>
-          </div>
-          <ol class="moving-list" id="movingList"></ol>
-          <a class="more-link" href="works/">作品一覧へ</a>
+          <h2 class="sec-title">ニュースが多い作品<span class="sec-n">この7日間</span></h2>
+          <ul class="wgrid" id="movingList"></ul>
+          <p class="more"><a href="works/">作品一覧 »</a></p>
         </section>
 
         <section class="topics" id="topicsSection" hidden>
-          <div class="sec-head">
-            <h2 class="sec-title">複数の媒体が報じた話題</h2>
-            <p class="sec-desc">同じ出来事を報じた記事をまとめています。数字は報じた媒体の数です。</p>
-          </div>
+          <h2 class="sec-title">話題のニュース</h2>
           <div id="topicList"></div>
         </section>
 
         <section class="feed" id="feedSection">
-          <div class="sec-head">
-            <h2 class="sec-title">新着ニュース</h2>
-          </div>
+          <h2 class="sec-title">新着ニュース</h2>
           <div class="cat-tabs" id="catList" role="group" aria-label="ジャンル"></div>
           <div class="filter-bar">
             <form class="search" id="searchForm" role="search">
               <svg viewBox="0 0 24 24" width="16" height="16" aria-hidden="true"><circle cx="11" cy="11" r="7" fill="none" stroke="currentColor" stroke-width="2.2"/><path d="M16.5 16.5 L21 21" stroke="currentColor" stroke-width="2.2" stroke-linecap="round"/></svg>
-              <input type="search" id="searchInput" placeholder="作品名やことばで探す" autocomplete="off" aria-label="ことばで探す">
+              <input type="search" id="searchInput" placeholder="キーワード検索" autocomplete="off" aria-label="ことばで探す">
             </form>
             <div class="work-filter" id="workFilter" hidden></div>
           </div>
           <p class="count" id="count"></p>
           <div id="list"><!--ssr:list--></div>
           <button class="more-btn" id="listMore" type="button" hidden></button>
-          <p class="empty" id="empty" hidden>見つかりませんでした。ほかのジャンルやことばで探してみてください。</p>
+          <p class="empty" id="empty" hidden>該当するニュースはありません。</p>
         </section>
       </div>
 
@@ -102,18 +90,18 @@
           <h2 class="mod-head">なろう日間ランキング</h2>
           <p class="mod-desc" id="rankDate"></p>
           <ol class="mini-rank" id="rankList"></ol>
-          <a class="mod-link" href="ranking/">週間・月間も見る</a>
+          <a class="mod-link" href="ranking/">週間・月間ランキング »</a>
         </section>
 
         <section class="mod" id="commentMod" hidden>
           <h2 class="mod-head">新しいコメント</h2>
           <ul class="recent-comments" id="recentComments"></ul>
-          <a class="mod-link" href="works/">作品ページでコメントする</a>
+          
         </section>
 
         <section class="mod" id="ngMod">
           <h2 class="mod-head">見たくないことば</h2>
-          <p class="mod-desc">このことばを含むニュースを隠します（このブラウザだけ）。</p>
+          <p class="mod-desc">登録した言葉を含むニュースを表示しません。</p>
           <div class="ng-list" id="ngList"></div>
           <form class="ng-form" id="ngForm">
             <input type="text" id="ngInput" placeholder="例: 作品名" autocomplete="off" aria-label="見たくないことばを追加">
@@ -122,7 +110,7 @@
         </section>
 
         <section class="mod" id="otherMod" hidden>
-          <h2 class="mod-head">同じニュースのほかの媒体</h2>
+          <h2 class="mod-head">ほかの媒体の記事</h2>
           <ul class="other-list" id="otherList"></ul>
         </section>
       </aside>
@@ -132,9 +120,7 @@
   <footer class="footer">
     <div class="wrap">
       <!--ssr:footer-links-->
-      <p><strong>なろう系まとめ</strong> は、小説家になろう発の作品や異世界ものの作品について、アニメ化・コミカライズ・書籍化などのニュースと、なろうのランキングを集めているまとめサイトです。30 分おきに更新しています。</p>
-      <p>掲載しているのは見出し・要約の一部・元記事へのリンクと、元記事が設定している紹介用の画像、小説家になろうの公式 API で公開されている作品の情報のみです。作品の本文や記事の本文は転載していません。権利はそれぞれの作者・発行元に帰属します。</p>
-      <p class="notice">当サイトは個人が運営する非公式のまとめサイトで、株式会社ヒナプロジェクト（小説家になろう）・各作品の作者・出版社とは関係ありません。</p>
+      <p>なろう系まとめは、小説家になろう発の作品のニュースを集めている非公式のまとめサイトです。記事の本文は転載していません。画像・動画の権利は各権利者に帰属します。</p>
       <p class="sources">収集元: <span id="sourceList"></span></p>
       <p class="copy">© <span id="year"></span> なろう系まとめ</p>
     </div>

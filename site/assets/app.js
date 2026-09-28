@@ -4,7 +4,7 @@
 
   var PAGE = 40;
   var WD = ["日", "月", "火", "水", "木", "金", "土"];
-  var CAT_INK = { anime: "#2f5d8a", comic: "#8a3f5d", book: "#1e6b52", web: "#6b5a1e", game: "#5a3f8a", goods: "#8a5a2f", other: "#55606e" };
+  var CAT_INK = { anime: "#e4007f", comic: "#0091db", book: "#1b9e3e", web: "#f08c00", game: "#7b3fa0", goods: "#d9302c", other: "#777777" };
   var GENRES = { 101: "異世界〔恋愛〕", 102: "現実世界〔恋愛〕", 201: "ハイファンタジー", 202: "ローファンタジー", 301: "純文学", 302: "ヒューマンドラマ", 303: "歴史", 304: "推理", 305: "ホラー", 306: "アクション", 307: "コメディー", 401: "VRゲーム", 402: "宇宙", 403: "空想科学", 404: "パニック", 9801: "ノンジャンル", 9901: "童話", 9902: "詩", 9903: "エッセイ", 9904: "リプレイ", 9999: "その他" };
 
   var $ = function (id) {
@@ -96,7 +96,7 @@
       if (w) b.push('<a class="badge badge-work" href="works/' + id + '/">' + esc(w.short) + "</a>");
     });
     if (it.isPR) b.push('<span class="badge badge-pr">PR</span>');
-    if (it.isNew) b.push('<span class="badge badge-new">新着</span>');
+    if (it.isNew) b.push('<span class="badge badge-new">NEW</span>');
     return (
       '<article class="row">' +
       thumb(it) +
@@ -109,8 +109,8 @@
     );
   }
 
-  // ---------- いま動いている作品 ----------
-  function renderMoving(counts) {
+  // ---------- ニュースが多い作品 ----------
+  function renderMoving(counts, index) {
     var since = Date.now() - 7 * 86400000;
     var latest = {};
     var n = {};
@@ -128,28 +128,27 @@
       .sort(function (a, b) {
         return n[b] - n[a] || (latest[a].publishedAt < latest[b].publishedAt ? 1 : -1);
       })
-      .slice(0, 8);
+      .slice(0, 6);
     if (!list.length) return;
-    var max = n[list[0]];
     $("movingList").innerHTML = list
-      .map(function (id, i) {
+      .map(function (id) {
         var w = workMap[id];
-        var it = latest[id];
-        var cc = counts && counts[id] ? '<span class="mv-c">コメント ' + counts[id] + "</span>" : "";
+        var img = index && index[id] && index[id].image;
+        var cc = counts && counts[id] ? '<span class="wcard-c">コメント' + counts[id] + "</span>" : "";
         return (
-          '<li class="mv' + (i === 0 ? " mv-lead" : "") + '">' +
-          '<a class="mv-name" href="works/' + id + '/">' + esc(w.title) + "</a>" +
-          '<span class="mv-bar" style="--pct:' + Math.max(8, Math.round((n[id] / max) * 100)) + '%"><b>' + n[id] + "</b> 本</span>" +
-          '<a class="mv-latest" href="' + esc(it.url) + '" target="_blank" rel="noopener"><time>' + ago(it.publishedAt) + "</time>" + esc(it.title) + "</a>" +
-          cc +
-          "</li>"
+          '<li class="wcard"><a href="works/' + id + '/">' +
+          (img
+            ? '<div class="wcard-img"><img src="' + esc(img) + '" alt="' + esc(w.short) + '" loading="lazy" referrerpolicy="no-referrer" onerror="this.parentNode.classList.add(\'noimg\');this.remove()"></div>'
+            : '<div class="wcard-img noimg"><span>' + esc(w.short) + "</span></div>") +
+          '<span class="wcard-title">' + esc(w.title) + "</span></a>" +
+          '<span class="wcard-n">ニュース' + n[id] + "件" + cc + "</span></li>"
         );
       })
       .join("");
     $("movingSection").hidden = false;
   }
 
-  // ---------- 複数の媒体が報じた話題 ----------
+  // ---------- 話題のニュース（複数の媒体が報じたもの） ----------
   function renderTopics() {
     var topics = (news.topics || []).filter(function (t) {
       return !hidden(t);
@@ -167,7 +166,7 @@
         return (
           '<article class="topic' + (i === 0 ? " topic-lead" : "") + '">' +
           (i === 0 && t.image ? '<div class="topic-img"><img src="' + esc(t.image) + '" alt="" loading="lazy" referrerpolicy="no-referrer" onerror="this.parentNode.remove()"></div>' : "") +
-          '<div class="topic-body"><span class="topic-n"><b>' + t.sourceCount + "</b> 媒体</span>" +
+          '<div class="topic-body"><span class="topic-n">' + t.sourceCount + "媒体</span>" +
           '<a class="topic-title" href="' + esc(t.url) + '" target="_blank" rel="noopener">' + esc(t.title) + "</a>" +
           '<p class="topic-meta">' + esc(t.leadSource) + " ・ " + ago(t.publishedAt) + (others ? "</p><ul class=\"topic-others\">" + others + "</ul>" : "</p>") +
           "</div></article>"
@@ -229,11 +228,11 @@
         return '<section class="day"><h3 class="day-head"><span class="day-label">' + mdw(g.k) + '</span><span class="day-n">' + g.items.length + " 件</span></h3><div class=\"rows\">" + g.items.map(row).join("") + "</div></section>";
       })
       .join("");
-    $("count").textContent = items.length + " 件" + (state.cat !== "all" || state.q || state.work ? "（しぼりこみ中）" : "");
+    $("count").textContent = items.length + "件";
     $("empty").hidden = items.length > 0;
     var more = $("listMore");
     more.hidden = items.length <= state.shown;
-    more.textContent = "もっと見る（あと " + Math.max(0, items.length - state.shown) + " 件）";
+    more.textContent = "もっと見る";
     renderCats();
     renderWorkFilter();
   }
@@ -245,7 +244,7 @@
   function renderRanking(data) {
     var r = data && data.rankings && data.rankings.d;
     if (!r || !r.list.length) return;
-    $("rankDate").textContent = r.date.replace(/^(\d+)-0?(\d+)-0?(\d+)$/, "$1年$2月$3日") + " 集計分";
+    $("rankDate").textContent = r.date.replace(/^(\d+)-0?(\d+)-0?(\d+)$/, "$2/$3") + "集計";
     $("rankList").innerHTML = r.list
       .slice(0, 10)
       .map(function (x) {
@@ -263,7 +262,7 @@
       .map(function (c) {
         return (
           '<li><a class="rc-work" href="' + esc(c.path) + '#comments">' + esc(c.title) + "</a>" +
-          '<p class="rc-body">' + (c.sp ? '<span class="rc-sp">ネタバレを含むコメント</span>' : esc(c.body)) + "</p>" +
+          '<p class="rc-body">' + (c.sp ? '<span class="rc-sp">（ネタバレ）</span>' : esc(c.body)) + "</p>" +
           '<span class="rc-meta">' + esc(c.name) + " ・ " + ago(c.at) + "</span></li>"
         );
       })
@@ -358,6 +357,9 @@
     var comments = getJson("api/comments.php?recent=1").catch(function () {
       return null;
     });
+    var index = getJson("data/works-index.json").catch(function () {
+      return null;
+    });
 
     getJson("data/news.json")
       .then(function (data) {
@@ -370,9 +372,9 @@
         });
         if (state.cat !== "all" && !catMap[state.cat]) state.cat = "all";
         var u = jst(data.updatedAt);
-        $("meta").textContent = data.total + " 本のニュース ・ きょう " + data.todayCount + " 本 ・ 最終更新 " + (u.getUTCMonth() + 1) + "/" + u.getUTCDate() + " " + hhmm(data.updatedAt);
+        $("meta").textContent = "最終更新 " + (u.getUTCMonth() + 1) + "/" + u.getUTCDate() + " " + hhmm(data.updatedAt) + "（今日のニュース " + data.todayCount + "件）";
         if (data.churn && data.churn.newCount > 0) {
-          $("churn").textContent = "前回の更新から +" + data.churn.newCount + " 本";
+          $("churn").textContent = "+" + data.churn.newCount + "件";
           $("churn").hidden = false;
         }
         $("sourceList").textContent = (data.sources || [])
@@ -383,9 +385,9 @@
           .join(" / ");
         renderTopics();
         renderList();
-        return comments.then(function (c) {
-          renderMoving(c && c.counts);
-          renderRecentComments(c);
+        return Promise.all([comments, index]).then(function (r) {
+          renderMoving(r[0] && r[0].counts, r[1]);
+          renderRecentComments(r[0]);
         });
       })
       .catch(function () {

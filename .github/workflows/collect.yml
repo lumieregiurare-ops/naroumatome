@@ -75,7 +75,7 @@ jobs:
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
           # state.json は次回の「新着」判定と更新間隔の計算に使うので一緒にコミットする。
           # data/archive/ は過去の記事（ジャンル別・作品別・日別のページの材料）、data/novels/ はなろうの作品情報
-          git add docs data/state.json data/archive data/novels data/narou-state.json
+          git add docs data/state.json data/archive data/novels data/narou-state.json data/works-media.json
           git diff --cached --quiet && echo "no changes" && exit 0
           git commit -m "chore: collect $(TZ=Asia/Tokyo date +'%Y-%m-%d %H:%M JST')"
           git push
