@@ -1,0 +1,19 @@
+{
+  "name": "naroumatome",
+  "version": "1.0.0",
+  "description": "なろう系作品のニュースとなろうランキングをまとめる静的サイト（コメントは PHP）",
+  "type": "module",
+  "private": true,
+  "engines": {
+    "node": ">=20"
+  },
+  "scripts": {
+    "build": "node scripts/build.mjs",
+    "collect": "node scripts/collect.mjs",
+    "start": "npm run build && node server.mjs"
+  },
+  "devDependencies": {
+    "esbuild": "^0.24.2",
+    "sharp": "^0.33.5"
+  }
+}

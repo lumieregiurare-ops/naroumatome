@@ -1,0 +1,172 @@
+{
+  "port": 3290,
+  "host": "127.0.0.1",
+  "watchdogMinutes": 15,
+  "maxArticleAgeDays": 7,
+
+  "site": {
+    "title": "なろう系まとめ",
+    "tagline": "小説家になろう発の作品のアニメ化・コミカライズ・書籍化のニュースと、なろうのランキングをまとめています。",
+    "url": "https://naroumatome.gamelab.website/",
+    "contactUrl": ""
+  },
+
+  "note4": "pages は収集のたびに作る静的ページ（検索エンジン向け）の文言。googleSiteVerification は Search Console の HTML タグの content の値。",
+  "pages": {
+    "googleSiteVerification": "",
+    "genres": {
+      "anime": { "title": "なろう系アニメの最新情報", "desc": "小説家になろう発の作品や異世界ものの、アニメ化決定・放送・配信・PV・キャスト・劇場版のニュースをまとめています。" },
+      "comic": { "title": "なろう系コミカライズの最新情報", "desc": "なろう系作品のコミカライズ開始・連載・単行本のニュースをまとめています。" },
+      "book": { "title": "なろう系の書籍化・ラノベ新刊情報", "desc": "Web 小説の書籍化決定、ライトノベルの新刊・重版のニュースをまとめています。" },
+      "web": { "title": "小説家になろう・Web小説の話題", "desc": "小説家になろうをはじめとする Web 小説サイトの話題、コンテスト・受賞のニュースをまとめています。" },
+      "game": { "title": "なろう系のゲーム・アプリ情報", "desc": "なろう系作品のゲーム化・スマホアプリ・コラボイベントのニュースをまとめています。" },
+      "goods": { "title": "なろう系のグッズ・コラボ・イベント情報", "desc": "なろう系作品のグッズ・くじ・コラボカフェ・展示会・舞台などのニュースをまとめています。" }
+    }
+  },
+
+  "feeds": [
+    { "name": "ラノベニュースオンライン", "url": "https://ln-news.com/feed" },
+    { "name": "アニメイトタイムズ", "url": "https://www.animatetimes.com/rss/news.xml" },
+    { "name": "アニメ！アニメ！", "url": "https://animeanime.jp/rss20/index.rdf" },
+    { "name": "コミックナタリー", "url": "https://natalie.mu/comic/feed/news" },
+    { "name": "PR TIMES", "url": "https://prtimes.jp/index.rdf", "strict": true }
+  ],
+
+  "steamNews": { "enabled": false, "apps": [] },
+
+  "googleNews": {
+    "enabled": true,
+    "within": "3d",
+    "perQuery": 40,
+    "queries": [
+      "小説家になろう",
+      "なろう系",
+      "なろう 書籍化",
+      "なろう コミカライズ",
+      "異世界 アニメ化",
+      "異世界 TVアニメ",
+      "悪役令嬢 アニメ",
+      "異世界転生 アニメ",
+      "異世界 コミカライズ",
+      "転スラ",
+      "無職転生",
+      "薬屋のひとりごと",
+      "本好きの下剋上",
+      "リゼロ",
+      "陰の実力者になりたくて",
+      "盾の勇者の成り上がり",
+      "片田舎のおっさん、剣聖になる",
+      "サイレント・ウィッチ"
+    ]
+  },
+
+  "note5": "keywords はニュースを載せるかどうかの判定。works の keywords もここに自動で足される。strict: true のフィード（PR TIMES など総合的なもの）は「なろう」と作品名にしか反応させない。",
+  "keywords": [
+    "なろう",
+    "小説家になろう",
+    "異世界",
+    "転生",
+    "悪役令嬢",
+    "ざまぁ",
+    "Web小説",
+    "WEB小説",
+    "ウェブ小説"
+  ],
+
+  "note1": "works は作品ページを作る作品。ncode は小説家になろうの作品コード（小文字）。keywords はニュースの見出しにこの語があればその作品のニュースとする。作品を足したら ncode を API で確かめること（README 参照）。",
+  "works": [
+    { "id": "tensura", "title": "転生したらスライムだった件", "short": "転スラ", "ncode": "n6316bn", "keywords": ["転生したらスライム", "転スラ"] },
+    { "id": "mushoku", "title": "無職転生 ～異世界行ったら本気だす～", "short": "無職転生", "ncode": "n9669bk", "keywords": ["無職転生"] },
+    { "id": "rezero", "title": "Re:ゼロから始める異世界生活", "short": "リゼロ", "ncode": "n2267be", "keywords": ["リゼロ", "Re[:：]ゼロ", "Ｒｅ：ゼロ", "ゼロから始める異世界生活"] },
+    { "id": "honzuki", "title": "本好きの下剋上", "short": "本好き", "ncode": "n4830bu", "keywords": ["本好きの下剋上"] },
+    { "id": "kusuriya", "title": "薬屋のひとりごと", "short": "薬屋", "ncode": "n9636x", "keywords": ["薬屋のひとりごと"] },
+    { "id": "kagejitsu", "title": "陰の実力者になりたくて！", "short": "陰の実力者", "ncode": "n0611em", "keywords": ["陰の実力者", "かげじつ"] },
+    { "id": "tate", "title": "盾の勇者の成り上がり", "short": "盾の勇者", "ncode": "n3009bk", "keywords": ["盾の勇者"] },
+    { "id": "kumo", "title": "蜘蛛ですが、なにか？", "short": "蜘蛛ですが", "ncode": "n7975cr", "keywords": ["蜘蛛ですが"] },
+    { "id": "arifureta", "title": "ありふれた職業で世界最強", "short": "ありふれ", "ncode": "n8611bv", "keywords": ["ありふれた職業"] },
+    { "id": "hachinan", "title": "八男って、それはないでしょう！", "short": "八男", "ncode": "n8802bq", "keywords": ["八男って"] },
+    { "id": "isekai-shokudo", "title": "異世界食堂", "short": "異世界食堂", "ncode": "n1701bm", "keywords": ["異世界食堂"] },
+    { "id": "hamefura", "title": "乙女ゲームの破滅フラグしかない悪役令嬢に転生してしまった…", "short": "はめふら", "ncode": "n5040ce", "keywords": ["はめふら", "破滅フラグしかない"] },
+    { "id": "tondemo", "title": "とんでもスキルで異世界放浪メシ", "short": "とんでもスキル", "ncode": "n2710db", "keywords": ["とんでもスキル", "とんスキ"] },
+    { "id": "bofuri", "title": "痛いのは嫌なので防御力に極振りしたいと思います。", "short": "防振り", "ncode": "n0358dh", "keywords": ["防振り", "防御力に極振り"] },
+    { "id": "kenja-no-mago", "title": "賢者の孫", "short": "賢者の孫", "ncode": "n5881cl", "keywords": ["賢者の孫(?!娘)"] },
+    { "id": "desumachi", "title": "デスマーチからはじまる異世界狂想曲", "short": "デスマ", "ncode": "n9902bn", "keywords": ["デスマーチからはじまる"] },
+    { "id": "gaikotsu", "title": "骸骨騎士様、只今異世界へお出掛け中", "short": "骸骨騎士様", "ncode": "n6266ci", "keywords": ["骸骨騎士様"] },
+    { "id": "isesuma", "title": "異世界はスマートフォンとともに。", "short": "イセスマ", "ncode": "n1443bp", "keywords": ["異世界はスマートフォン", "イセスマ"] },
+    { "id": "seijo-maryoku", "title": "聖女の魔力は万能です", "short": "聖女の魔力", "ncode": "n8139dg", "keywords": ["聖女の魔力は万能"] },
+    { "id": "katainaka", "title": "片田舎のおっさん、剣聖になる", "short": "片田舎のおっさん", "ncode": "n6895gp", "keywords": ["片田舎のおっさん"] },
+    { "id": "nozomanu", "title": "望まぬ不死の冒険者", "short": "望まぬ不死", "ncode": "n8577dn", "keywords": ["望まぬ不死の冒険者"] },
+    { "id": "tenten", "title": "転生王女と天才令嬢の魔法革命", "short": "転天", "ncode": "n8558fh", "keywords": ["転生王女と天才令嬢", "転天"] },
+    { "id": "shinnonakama", "title": "真の仲間じゃないと勇者のパーティーを追い出されたので、辺境でスローライフすることにしました", "short": "真の仲間", "ncode": "n3527ei", "keywords": ["真の仲間じゃない"] },
+    { "id": "maougakuin", "title": "魔王学院の不適合者", "short": "魔王学院", "ncode": "n1578dx", "keywords": ["魔王学院の不適合者"] },
+    { "id": "dahliya", "title": "魔導具師ダリヤはうつむかない", "short": "ダリヤ", "ncode": "n7787eq", "keywords": ["魔導具師ダリヤ"] },
+    { "id": "silent-witch", "title": "サイレント・ウィッチ", "short": "サイレント・ウィッチ", "ncode": "n8356ga", "keywords": ["サイレント・ウィッチ", "サイレントウィッチ"] },
+    { "id": "kamitachi", "title": "神達に拾われた男", "short": "神達に拾われた男", "ncode": "n5824ct", "keywords": ["神達に拾われた男"] },
+    { "id": "isekai-yakkyoku", "title": "異世界薬局", "short": "異世界薬局", "ncode": "n8541cr", "keywords": ["異世界薬局"] },
+    { "id": "log-horizon", "title": "ログ・ホライズン", "short": "ログホラ", "ncode": "n8725k", "keywords": ["ログ・ホライズン", "ログホラ"] },
+    { "id": "tenken", "title": "転生したら剣でした", "short": "転剣", "ncode": "n6006cw", "keywords": ["転生したら剣でした", "転剣"] },
+    { "id": "rupunana", "title": "ループ7回目の悪役令嬢は、元敵国で自由気ままな花嫁生活を満喫する", "short": "ルプなな", "ncode": "n1784ga", "keywords": ["ループ7回目", "ループ７回目", "ルプなな"] },
+    { "id": "nageki", "title": "嘆きの亡霊は引退したい", "short": "嘆きの亡霊", "ncode": "n6093en", "keywords": ["嘆きの亡霊"] },
+    { "id": "hazurewaku", "title": "ハズレ枠の【状態異常スキル】で最強になった俺がすべてを蹂躙するまで", "short": "ハズレ枠", "ncode": "n1785ek", "keywords": ["ハズレ枠の"] },
+    { "id": "maousama-retry", "title": "魔王様、リトライ！", "short": "魔王様、リトライ！", "ncode": "n6789do", "keywords": ["魔王様、リトライ", "魔王様リトライ"] },
+    { "id": "tensei-kizoku", "title": "転生貴族、鑑定スキルで成り上がる", "short": "転生貴族", "ncode": "n5619fv", "keywords": ["転生貴族、鑑定スキル", "転生貴族 鑑定スキル"] },
+    { "id": "kuro-no-shokanshi", "title": "黒の召喚士", "short": "黒の召喚士", "ncode": "n1222ci", "keywords": ["黒の召喚士"] },
+    { "id": "world-teacher", "title": "ワールド・ティーチャー -異世界式教育エージェント-", "short": "ワールド・ティーチャー", "ncode": "n4237cd", "keywords": ["ワールド・ティーチャー"] },
+    { "id": "chiyumaho", "title": "治癒魔法の間違った使い方", "short": "治癒魔法", "ncode": "n2468ca", "keywords": ["治癒魔法の間違った使い方"] },
+    { "id": "kanteishi", "title": "最強の鑑定士って誰のこと？", "short": "最強の鑑定士", "ncode": "n7216dr", "keywords": ["最強の鑑定士って誰"] },
+    { "id": "akuyaku-lv99", "title": "悪役令嬢レベル99", "short": "悪役令嬢レベル99", "ncode": "n0284ev", "keywords": ["悪役令嬢レベル99", "悪役令嬢レベル９９"] },
+    { "id": "nonbiri-noka", "title": "異世界のんびり農家", "short": "のんびり農家", "ncode": "n3289ds", "keywords": ["異世界のんびり農家"] }
+  ],
+
+  "categories": [
+    { "id": "anime", "label": "アニメ", "keywords": ["アニメ", "放送", "配信", "PV", "声優", "キャスト", "第\\d+期", "[2-9]期", "主題歌", "劇場版", "映画", "OP", "ED", "先行上映", "第\\d+話", "【第", "第[一二三四五六七八九十]+章", "あらすじ", "先行カット", "最終回", "クール"] },
+    { "id": "comic", "label": "コミカライズ", "keywords": ["コミカライズ", "コミック", "漫画", "マンガ", "連載"] },
+    { "id": "book", "label": "書籍・ラノベ", "keywords": ["書籍化", "小説", "ラノベ", "ライトノベル", "文庫", "ノベルス", "ブックス", "新刊", "重版", "\\d+巻", "特装版"] },
+    { "id": "web", "label": "Web小説・賞", "keywords": ["なろう", "Web小説", "WEB小説", "ウェブ小説", "カクヨム", "コンテスト", "大賞", "受賞", "ランキング", "投稿"] },
+    { "id": "game", "label": "ゲーム", "keywords": ["ゲーム", "アプリ", "Switch", "スマホ", "事前登録", "ガチャ", "モンスト", "パズドラ"] },
+    { "id": "goods", "label": "グッズ・イベント", "keywords": ["グッズ", "フィギュア", "ねんどろいど", "Blu-ray", "BD", "くじ", "コラボ", "カフェ", "ポップアップ", "展示", "原画展", "イベント", "舞台", "ステージ", "香水"] }
+  ],
+  "fallbackCategory": { "id": "other", "label": "そのほか" },
+
+  "prSources": ["PR TIMES", "プレスリリース", "@Press", "ValuePress"],
+
+  "note3": "媒体名がこれに当たるものは載せない。動画・SNS の投稿が Google ニュースに混ざってくるため。",
+  "blockSources": ["^YouTube$", "^t\\.co$", "^X$", "^TikTok$", "^Instagram$", "^note$", "^Yahoo!知恵袋$", "^abema\\.tv$", "^comic-report\\.com$", "^Togetter$"],
+
+  "note2": "見出しがこれに当たるものは載せない。画像ギャラリーのページや、転生を題材にしていても関係のない話題（宗教・占いなど）が混ざるため。",
+  "blockTitlePatterns": [
+    "^[＜<]?\\s*画像\\s*\\d+\\s*[/／]\\s*\\d+\\s*[＞>]",
+    "^\\s*\\d+\\s*[/／]\\s*\\d+\\s*[＞>]",
+    "\\d+\\s*枚目の(写真|画像)",
+    "[＜<]\\s*画像\\s*\\d+\\s*[/／]\\s*\\d+\\s*[＞>]",
+    "写真・画像\\s*\\d+\\s*[/／]\\s*\\d+\\s*枚",
+    "\\(@[A-Za-z0-9_]+\\) on X$",
+    "^画像・写真",
+    "【写真・画像】",
+    "ネタバレ全話",
+    "試し見",
+    "輪廻転生",
+    "転生前",
+    "前世占い"
+  ],
+
+  "cluster": {
+    "enabled": true,
+    "windowHours": 48,
+    "minSources": 2,
+    "threshold": 0.34,
+    "stopwords": [
+      "アニメ", "異世界", "転生", "なろう", "発売", "開催", "限定", "登場", "予約", "販売", "新作", "情報", "公開",
+      "配信", "画像", "写真", "記事", "今日", "本日", "最新", "話題", "決定", "放送", "開始", "予定", "紹介",
+      "コミカライズ", "書籍化", "コミック", "小説", "com", "www", "https"
+    ]
+  },
+
+  "entities": [],
+
+  "note6": "narou は小説家になろうの公式 API から取るランキングの設定。rankLimit は各ランキングで作品ページを作る件数。",
+  "narou": {
+    "enabled": true,
+    "rankLimit": 30
+  }
+}

@@ -1,0 +1,8 @@
+# コメントの保存先。外から読ませない（ファイルは .php で先頭に exit があるので、効かなくても中身は出ない）
+<IfModule mod_authz_core.c>
+  Require all denied
+</IfModule>
+<IfModule !mod_authz_core.c>
+  Order allow,deny
+  Deny from all
+</IfModule>

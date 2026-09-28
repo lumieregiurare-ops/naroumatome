@@ -1,0 +1,6 @@
+node_modules/
+data/last-run.json
+scripts/fonts/
+# ローカルで php -S を動かしたときにできるコメントの保存ファイル。サーバーのものを上書きしないよう絶対に入れない
+docs/api/data/*
+!docs/api/data/.htaccess
