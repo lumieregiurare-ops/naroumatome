@@ -30,7 +30,11 @@ jobs:
     runs-on: ubuntu-latest
     timeout-minutes: 20
     steps:
+      # 起動した時点のコミットではなく、いまの main の先頭を取る。
+      # 手動実行や cron が重なって待たされた run は、待っている間にほかの run が push しているため
       - uses: actions/checkout@v4
+        with:
+          ref: main
       # 10 分おきの cron と外部トリガー（repository_dispatch）の両方で起動するので、
       # 前回の収集から間がないときはここで終わる。外部サービスが二重に叩いても
       # 余計な収集が走らない。手動実行（workflow_dispatch）だけは間隔を無視する。
@@ -78,7 +82,14 @@ jobs:
           git add docs data/state.json data/archive data/novels data/narou-state.json data/works-media.json
           git diff --cached --quiet && echo "no changes" && exit 0
           git commit -m "chore: collect $(TZ=Asia/Tokyo date +'%Y-%m-%d %H:%M JST')"
-          git push
+          # それでも先に push されていたら、取り込んでから push し直す。
+          # 収集で作るファイル（docs/・data/）がぶつかったときは、いま作ったほうを残す
+          for i in 1 2 3; do
+            git push && exit 0
+            echo "push が拒否されたので main を取り込んでやり直す（$i 回目）"
+            git pull --rebase -X theirs origin main
+          done
+          exit 1
       # GITHUB_TOKEN による push は deploy ワークフローを起動しないので、ここでもアップロードする。
       # 収集のたびに news.json のほか、トップ・ジャンル別などの HTML と sitemap.xml も作り直すので
       # docs/ 全体を渡す（前回から変わったファイルだけが送られる）。
