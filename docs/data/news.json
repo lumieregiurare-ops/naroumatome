@@ -1,23 +1,23 @@
 {
-  "updatedAt": "2026-09-29T19:00:21.719Z",
+  "updatedAt": "2026-09-29T19:30:21.905Z",
   "site": {
     "title": "なろう系まとめ",
     "tagline": "小説家になろう発の作品のアニメ化・コミカライズ・書籍化のニュースと、なろうのランキングをまとめています。",
     "url": "https://naroumatome.gamelab.website/",
     "contactUrl": "https://docs.google.com/forms/d/e/1FAIpQLSesWyhmZ6sRS_ve-c3X2KqF_wC5PK2TgwgQbTKmnQltSlg5Jw/viewform"
   },
-  "total": 134,
+  "total": 133,
   "todayCount": 5,
   "categories": [
     {
       "id": "anime",
       "label": "アニメ",
-      "count": 95
+      "count": 93
     },
     {
       "id": "comic",
       "label": "コミカライズ",
-      "count": 6
+      "count": 7
     },
     {
       "id": "book",
@@ -74,13 +74,13 @@
       "id": "kusuriya",
       "title": "薬屋のひとりごと",
       "short": "薬屋",
-      "count": 33
+      "count": 32
     },
     {
       "id": "kagejitsu",
       "title": "陰の実力者になりたくて！",
       "short": "陰の実力者",
-      "count": 2
+      "count": 1
     },
     {
       "id": "tate",
@@ -323,7 +323,15 @@
       "count": 5
     },
     {
+      "name": "アニメ！アニメ！",
+      "count": 5
+    },
+    {
       "name": "オタク総研",
+      "count": 4
+    },
+    {
+      "name": "news.nicovideo.jp",
       "count": 4
     },
     {
@@ -331,11 +339,11 @@
       "count": 4
     },
     {
-      "name": "アニメ！アニメ！",
+      "name": "ナタリー",
       "count": 4
     },
     {
-      "name": "ナタリー",
+      "name": "GameWith",
       "count": 4
     },
     {
@@ -347,19 +355,11 @@
       "count": 3
     },
     {
-      "name": "ニコニコニュース",
-      "count": 3
-    },
-    {
       "name": "Infoseek",
       "count": 2
     },
     {
       "name": "ｄメニューニュース",
-      "count": 2
-    },
-    {
-      "name": "エンタのおはなし",
       "count": 2
     },
     {
@@ -375,15 +375,7 @@
       "count": 2
     },
     {
-      "name": "gamewith.jp",
-      "count": 2
-    },
-    {
       "name": "オリコンニュース",
-      "count": 2
-    },
-    {
-      "name": "xn--eckwa2aa3a9c8j8bve9d.gamewith.jp",
       "count": 2
     },
     {
@@ -407,15 +399,11 @@
       "count": 1
     },
     {
-      "name": "ウォーカープラス",
+      "name": "walkerplus.com",
       "count": 1
     },
     {
       "name": "千葉テレビ放送株式会社",
-      "count": 1
-    },
-    {
-      "name": "ドリームニュース",
       "count": 1
     },
     {
@@ -427,15 +415,11 @@
       "count": 1
     },
     {
-      "name": "キャラグー",
-      "count": 1
-    },
-    {
       "name": "山形新聞",
       "count": 1
     },
     {
-      "name": "Appliv Games",
+      "name": "games.app-liv.jp",
       "count": 1
     },
     {
@@ -463,6 +447,10 @@
       "count": 1
     },
     {
+      "name": "エンタのおはなし",
+      "count": 1
+    },
+    {
       "name": "TVer",
       "count": 1
     },
@@ -479,7 +467,7 @@
       "count": 1
     },
     {
-      "name": "koubo.jp",
+      "name": "公募ガイド",
       "count": 1
     }
   ],
@@ -506,14 +494,14 @@
         {
           "title": "アニメ『無職転生III』第2クールが2027年放送決定、津田健次郎の録り下ろしボイス入り映像も公開で高まるファンの期待",
           "url": "https://news.nicovideo.jp/watch/nw19814750",
-          "source": "ニコニコニュース",
+          "source": "news.nicovideo.jp",
           "publishedAt": "2026-09-28T09:51:18.000Z",
           "isPR": false
         },
         {
           "title": "無職転生lll＞第2クールが2027年放送決定、津田健次郎演じるオルステッド「逃がしはしない」最新映像も公開",
           "url": "https://news.nicovideo.jp/watch/nw19814239",
-          "source": "ニコニコニュース",
+          "source": "news.nicovideo.jp",
           "publishedAt": "2026-09-28T07:57:14.000Z",
           "isPR": false
         },
@@ -569,15 +557,16 @@
       "image": "https://www.pashplus.jp/wp-content/uploads/6ceb6de434b3f46f439088a455b4fde6.jpg",
       "leadSource": "PASH! PLUS",
       "publishedAt": "2026-09-29T13:59:31.000Z",
-      "sourceCount": 7,
-      "articleCount": 7,
+      "sourceCount": 9,
+      "articleCount": 9,
       "categories": [
-        "anime"
+        "anime",
+        "other"
       ],
       "keywords": [
-        "カット",
         "リゼロ",
-        "season"
+        "カット",
+        "プレアデス"
       ],
       "articles": [
         {
@@ -589,15 +578,29 @@
         },
         {
           "title": "『Re:ゼロ』4th season最終回、45分拡大SPで放送 プレアデス監視塔攻略が最終局面へ",
-          "url": "https://entametalk.com/news/205398/?view",
-          "source": "エンタのおはなし",
-          "publishedAt": "2026-09-29T09:01:48.000Z",
+          "url": "https://news.nicovideo.jp/watch/nw19819412",
+          "source": "news.nicovideo.jp",
+          "publishedAt": "2026-09-29T09:18:20.000Z",
+          "isPR": false
+        },
+        {
+          "title": "「リゼロ」85話。旅の全ての力結集したプレアデス監視塔攻略の結末は",
+          "url": "https://www.ota-suke.jp/news/292044",
+          "source": "おた☆スケ",
+          "publishedAt": "2026-09-29T09:15:00.000Z",
           "isPR": false
         },
         {
           "title": "プレアデス監視塔攻略、最終局面…アニメ『リゼロ』4期第85話あらすじ＆先行カット公開",
           "url": "https://news.infoseek.co.jp/amp/article/abematimes_10275698/",
           "source": "Infoseek",
+          "publishedAt": "2026-09-29T09:00:00.000Z",
+          "isPR": false
+        },
+        {
+          "title": "リゼロ＞テレビアニメ第4期 「奪還編」最終話は45分拡大SP プレアデス監視塔攻略、最終局面！（MANTANWEB）",
+          "url": "https://news.yahoo.co.jp/articles/793b50e10408f08355aa2250ed989c3797d93e2a",
+          "source": "Yahoo!ニュース",
           "publishedAt": "2026-09-29T09:00:00.000Z",
           "isPR": false
         },
@@ -653,8 +656,8 @@
         },
         {
           "title": "『ドラゴンポーカー』×TVアニメ『無職転生 ～異世界行ったら本気だす～』「コラボ開催記念！豪華プレゼントキャンペーン」を9月29日(火)よりXで実施！",
-          "url": "https://www.dreamnews.jp/press/0000363846",
-          "source": "ドリームニュース",
+          "url": "https://animeanime.jp/release/dreamnews/20260929/315890.html",
+          "source": "アニメ！アニメ！",
           "publishedAt": "2026-09-29T04:30:00.000Z",
           "isPR": false
         },
@@ -885,16 +888,16 @@
       ],
       "articles": [
         {
-          "title": "【モンスト】エミリアαの評価とわくわくの実｜リゼロ - xn--eckwa2aa3a9c8j8bve9d.gamewith.jp",
+          "title": "【モンスト】エミリアαの評価とわくわくの実｜リゼロ",
           "url": "https://xn--eckwa2aa3a9c8j8bve9d.gamewith.jp/article/show/379887",
-          "source": "xn--eckwa2aa3a9c8j8bve9d.gamewith.jp",
+          "source": "GameWith",
           "publishedAt": "2026-09-27T10:16:15.000Z",
           "isPR": false
         },
         {
-          "title": "【モンスト】レムαの評価とわくわくの実｜リゼロ - xn--eckwa2aa3a9c8j8bve9d.gamewith.jp",
+          "title": "【モンスト】レムαの評価とわくわくの実｜リゼロ",
           "url": "https://xn--eckwa2aa3a9c8j8bve9d.gamewith.jp/article/show/379886",
-          "source": "xn--eckwa2aa3a9c8j8bve9d.gamewith.jp",
+          "source": "GameWith",
           "publishedAt": "2026-09-27T07:09:08.000Z",
           "isPR": false
         },
@@ -908,7 +911,7 @@
         {
           "title": "モンスト×リゼロ第2弾コラボが9月27日開催決定！",
           "url": "https://koubo.jp/article/125002",
-          "source": "koubo.jp",
+          "source": "公募ガイド",
           "publishedAt": "2026-09-27T00:06:08.000Z",
           "isPR": false
         }
@@ -1050,42 +1053,41 @@
       ]
     },
     {
-      "id": "f6932037957d",
-      "title": "「リゼロ」85話。旅の全ての力結集したプレアデス監視塔攻略の結末は",
+      "id": "ceebeb315b01",
+      "title": "『転スラ』映画の本編映像＆場面カット解禁 『ZIP！』コラボ特番放送で出演は岡咲美保、堂本光一ら",
       "summary": "",
-      "url": "https://www.ota-suke.jp/news/292044",
-      "image": "http://www.ota-suke.jp/images/editor/tak/image2026/0929_35.webp",
-      "leadSource": "おた☆スケ",
-      "publishedAt": "2026-09-29T09:15:00.000Z",
+      "url": "https://www.sanyonews.jp/article/1872685",
+      "image": "https://static.sanyonews.jp/image/article/size1/a/f/9/7/af9788c6f5960e0ec3dd823f7f942b2d_1.jpg",
+      "leadSource": "山陽新聞",
+      "publishedAt": "2026-09-29T02:43:43.000Z",
       "sourceCount": 2,
       "articleCount": 2,
       "categories": [
-        "other",
-        "anime"
+        "anime",
+        "goods"
       ],
       "keywords": [
-        "リゼロ",
-        "プレアデス",
-        "監視塔攻略"
+        "カット",
+        "解禁"
       ],
       "articles": [
         {
-          "title": "リゼロ＞テレビアニメ第4期 「奪還編」最終話は45分拡大SP プレアデス監視塔攻略、最終局面！（MANTANWEB）",
-          "url": "https://news.yahoo.co.jp/articles/793b50e10408f08355aa2250ed989c3797d93e2a",
-          "source": "Yahoo!ニュース",
-          "publishedAt": "2026-09-29T09:00:00.000Z",
+          "title": "アニメ『転生したら剣でしたII』第1話「空に浮かんでるのは島でした」のあらすじ＆先行カット解禁",
+          "url": "https://ln-news.com/articles/126759",
+          "source": "ラノベニュースオンライン",
+          "publishedAt": "2026-09-27T10:00:00.000Z",
           "isPR": false
         }
       ]
     }
   ],
   "churn": {
-    "previousAt": "2026-09-29T18:30:23.284Z",
-    "previousCount": 138,
+    "previousAt": "2026-09-29T19:00:21.719Z",
+    "previousCount": 134,
     "newCount": 4
   },
   "updateGapMin": 30,
-  "nextUpdateAt": "2026-09-29T19:30:21.719Z",
+  "nextUpdateAt": "2026-09-29T20:00:21.905Z",
   "items": [
     {
       "id": "b1620fa3b080",
@@ -1105,7 +1107,7 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "2fa872010a78",
@@ -1606,6 +1608,26 @@
       "isNew": false
     },
     {
+      "id": "b89553f0c3b6",
+      "title": "『Re:ゼロ』4th season最終回、45分拡大SPで放送 プレアデス監視塔攻略が最終局面へ",
+      "url": "https://news.nicovideo.jp/watch/nw19819412",
+      "host": "news.nicovideo.jp",
+      "source": "news.nicovideo.jp",
+      "summary": "",
+      "publishedAt": "2026-09-29T09:18:20.000Z",
+      "image": "",
+      "categories": [
+        "anime"
+      ],
+      "works": [
+        "rezero"
+      ],
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": false
+    },
+    {
       "id": "f6932037957d",
       "title": "「リゼロ」85話。旅の全ての力結集したプレアデス監視塔攻略の結末は",
       "url": "https://www.ota-suke.jp/news/292044",
@@ -1634,26 +1656,6 @@
       "summary": "",
       "publishedAt": "2026-09-29T09:07:09.000Z",
       "image": "https://eeo.today/media/wp-content/uploads/2026/09/ReZero_ep85_fix_0016.jpg",
-      "categories": [
-        "anime"
-      ],
-      "works": [
-        "rezero"
-      ],
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": false
-    },
-    {
-      "id": "b89553f0c3b6",
-      "title": "『Re:ゼロ』4th season最終回、45分拡大SPで放送 プレアデス監視塔攻略が最終局面へ",
-      "url": "https://entametalk.com/news/205398/?view",
-      "host": "entametalk.com",
-      "source": "エンタのおはなし",
-      "summary": "",
-      "publishedAt": "2026-09-29T09:01:48.000Z",
-      "image": "https://entametalk.com/wp-content/uploads/2026/09/s-ReZero_ep85_fix_0016.jpg",
       "categories": [
         "anime"
       ],
@@ -1864,26 +1866,6 @@
       "isNew": false
     },
     {
-      "id": "f6f5b132f70c",
-      "title": "KADOKAWAグループ作品6万点以上に使える最大60％OFFクーポン配布！「陰の実力者」「聖剣学院の魔剣使い」など秋アニメ作品もお得に",
-      "url": "https://www.walkerplus.com/article/1163318/",
-      "host": "walkerplus.com",
-      "source": "ウォーカープラス",
-      "summary": "",
-      "publishedAt": "2026-09-29T07:47:31.000Z",
-      "image": "https://news.walkerplus.com/article/1163318/12301909_615.jpg",
-      "categories": [
-        "anime"
-      ],
-      "works": [
-        "kagejitsu"
-      ],
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": false
-    },
-    {
       "id": "192217a7b94b",
       "title": "「TVアニメ『薬屋のひとりごと』第3期放送直前SPステージ」の公式レポートが公開！",
       "url": "https://eeo.today/media/2026/09/29/398007/",
@@ -1941,6 +1923,24 @@
       "viaGoogle": false,
       "sourceKind": "news",
       "isNew": false
+    },
+    {
+      "id": "76cbfec4034a",
+      "title": "【異世界漫画】『ぷちっとキレた令嬢パトリシアは人生を謳歌することにした』（画像ページ1 / 2）",
+      "url": "https://www.walkerplus.com/article/1325898/",
+      "host": "walkerplus.com",
+      "source": "walkerplus.com",
+      "summary": "",
+      "publishedAt": "2026-09-29T06:19:36.000Z",
+      "image": "https://news.walkerplus.com/article/1325898/16175852_615.jpg",
+      "categories": [
+        "comic"
+      ],
+      "works": [],
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": true
     },
     {
       "id": "8bdad10a76fc",
@@ -2046,12 +2046,12 @@
     {
       "id": "65087e684279",
       "title": "『ドラゴンポーカー』×TVアニメ『無職転生 ～異世界行ったら本気だす～』「コラボ開催記念！豪華プレゼントキャンペーン」を9月29日(火)よりXで実施！",
-      "url": "https://www.dreamnews.jp/press/0000363846",
-      "host": "dreamnews.jp",
-      "source": "ドリームニュース",
+      "url": "https://animeanime.jp/release/dreamnews/20260929/315890.html",
+      "host": "animeanime.jp",
+      "source": "アニメ！アニメ！",
       "summary": "",
       "publishedAt": "2026-09-29T04:30:00.000Z",
-      "image": "https://www.dreamnews.jp/press/0000363846/images/bodyimage1",
+      "image": "https://animeanime.jp/release/imgs/list/557528.jpg",
       "categories": [
         "anime",
         "goods"
@@ -2344,46 +2344,6 @@
       "isNew": false
     },
     {
-      "id": "0b4b2643ca59",
-      "title": "TVアニメ『薬屋のひとりごと』 簪型のペン｜猫のプライズ 入荷予定・取扱店舗",
-      "url": "https://charagoo.jp/prize/item/606572002a12/",
-      "host": "charagoo.jp",
-      "source": "キャラグー",
-      "summary": "",
-      "publishedAt": "2026-09-28T23:31:44.000Z",
-      "image": "",
-      "categories": [
-        "anime"
-      ],
-      "works": [
-        "kusuriya"
-      ],
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": true
-    },
-    {
-      "id": "f5ca037cd8b5",
-      "title": "「やだ…」『薬屋のひとりごと』注目ガシャの壬氏の“情けない顔”にファン悶絶「かわいい」「絶対ほしい」 (マグミクス)",
-      "url": "https://news.yahoo.co.jp/articles/d5b2c53057066454b6d61ebe98eda770a378fb17/images/000",
-      "host": "news.yahoo.co.jp",
-      "source": "Yahoo!ニュース",
-      "summary": "",
-      "publishedAt": "2026-09-28T23:10:00.000Z",
-      "image": "https://news-pctr.c.yimg.jp/uUzvQ3lML_bkIqyakc1vFhNrRI0RUQxg5aFkrX0xDg1_T0wXrbEJjtNGtrf1o9y30FuE9u6zLBRO4B_aRTKNgNt1SEbw06Llg8y-mwKnDqszJ_5H5MX5pFxOtIffnnC9HL-AG19rrBSrOYOqabtA3xt5HxjEfN9GncL4jCx0UfviE1wRcxlRaxI_edBNi6sucAHuFXwfHd-5MkBTQP0lWA==",
-      "categories": [
-        "other"
-      ],
-      "works": [
-        "kusuriya"
-      ],
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": false
-    },
-    {
       "id": "290356e94753",
       "title": "マンガのタイトル、15年で平均“2倍”も長くなっていた…その理由は？「転生」「令嬢」ワード急増の傾向も顕著",
       "url": "https://0115765.com/archives/207309",
@@ -2423,10 +2383,10 @@
     },
     {
       "id": "649b704173f6",
-      "title": "【#コンパス】 『陰の実力者になりたくて！』コラボカード＆コスチューム一挙紹介！豊富な【周】カードや新効果の【癒】カードが目玉!!",
+      "title": "【#コンパス】 『陰の実力者になりたくて！』コラボカード＆コスチューム一挙紹介！豊富な【周】カードや新効果の【癒】カードが目玉!! - games.app-liv.jp",
       "url": "https://games.app-liv.jp/archives/573775",
       "host": "games.app-liv.jp",
-      "source": "Appliv Games",
+      "source": "games.app-liv.jp",
       "summary": "",
       "publishedAt": "2026-09-28T19:54:23.000Z",
       "image": "",
@@ -2466,7 +2426,7 @@
       "title": "シリーズ累計450万部突破の人気作、待望のTVアニメ化！『転生した大聖女は、聖女であることをひた隠す』ABEMAで10",
       "url": "https://news.nicovideo.jp/watch/nw19815570?news_ref",
       "host": "news.nicovideo.jp",
-      "source": "ニコニコニュース",
+      "source": "news.nicovideo.jp",
       "summary": "",
       "publishedAt": "2026-09-28T13:18:34.000Z",
       "image": "",
@@ -2583,7 +2543,7 @@
       "title": "アニメ『無職転生III』第2クールが2027年放送決定、津田健次郎の録り下ろしボイス入り映像も公開で高まるファンの期待",
       "url": "https://news.nicovideo.jp/watch/nw19814750",
       "host": "news.nicovideo.jp",
-      "source": "ニコニコニュース",
+      "source": "news.nicovideo.jp",
       "summary": "",
       "publishedAt": "2026-09-28T09:51:18.000Z",
       "image": "",
@@ -2623,7 +2583,7 @@
       "title": "『転生したらスライムだった件 魔王と竜の建国譚』新ストーリーイベント「テンペスト流 秘書のシカク」開催！",
       "url": "https://gamewith.jp/gamedb/6668/articles/63774",
       "host": "gamewith.jp",
-      "source": "gamewith.jp",
+      "source": "GameWith",
       "summary": "",
       "publishedAt": "2026-09-28T09:14:59.000Z",
       "image": "https://img.gamewith.jp/article/thumbnail/gamearticle/6668/rectangle/63774.png?t=1790588331",
@@ -2681,7 +2641,7 @@
       "title": "無職転生lll＞第2クールが2027年放送決定、津田健次郎演じるオルステッド「逃がしはしない」最新映像も公開",
       "url": "https://news.nicovideo.jp/watch/nw19814239",
       "host": "news.nicovideo.jp",
-      "source": "ニコニコニュース",
+      "source": "news.nicovideo.jp",
       "summary": "",
       "publishedAt": "2026-09-28T07:57:14.000Z",
       "image": "",
@@ -2695,6 +2655,26 @@
       "viaGoogle": false,
       "sourceKind": "news",
       "isNew": false
+    },
+    {
+      "id": "6ebcfba59f08",
+      "title": "「待って…」『薬屋のひとりごと』ガシャの壬氏の“情けない顔”にファン驚愕 「悲しそう」「かわいい」（マグミクス）",
+      "url": "https://news.yahoo.co.jp/articles/e201df7e645f5dc14067abbc3d16726751f11bc0",
+      "host": "news.yahoo.co.jp",
+      "source": "Yahoo!ニュース",
+      "summary": "",
+      "publishedAt": "2026-09-28T07:53:00.000Z",
+      "image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260924-00376919-magmix-000-11-view.jpg?exp=10800",
+      "categories": [
+        "other"
+      ],
+      "works": [
+        "kusuriya"
+      ],
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": true
     },
     {
       "id": "5b253665bbe6",
@@ -3158,7 +3138,7 @@
       "title": "【グラクロ】スバル&ベアトリス(リゼロ)の評価とおすすめ装備【七つの大罪】",
       "url": "https://gamewith.jp/7taizai/article/show/557264",
       "host": "gamewith.jp",
-      "source": "gamewith.jp",
+      "source": "GameWith",
       "summary": "",
       "publishedAt": "2026-09-28T02:30:50.000Z",
       "image": "https://img.gamewith.jp/article/thumbnail/rectangle/557264.png?date=1776861394",
@@ -3453,11 +3433,11 @@
       "isNew": false
     },
     {
-      "id": "e308bd5e5f16",
-      "title": "【モンスト】エミリアαの評価とわくわくの実｜リゼロ - xn--eckwa2aa3a9c8j8bve9d.gamewith.jp",
+      "id": "d0271d413d43",
+      "title": "【モンスト】エミリアαの評価とわくわくの実｜リゼロ",
       "url": "https://xn--eckwa2aa3a9c8j8bve9d.gamewith.jp/article/show/379887",
       "host": "xn--eckwa2aa3a9c8j8bve9d.gamewith.jp",
-      "source": "xn--eckwa2aa3a9c8j8bve9d.gamewith.jp",
+      "source": "GameWith",
       "summary": "",
       "publishedAt": "2026-09-27T10:16:15.000Z",
       "image": "https://img.gamewith.jp/article/thumbnail/rectangle/379887.png?date=1671109518",
@@ -3551,11 +3531,11 @@
       "isNew": false
     },
     {
-      "id": "1f2c11d8e1f9",
-      "title": "【モンスト】レムαの評価とわくわくの実｜リゼロ - xn--eckwa2aa3a9c8j8bve9d.gamewith.jp",
+      "id": "9ab7be442f6c",
+      "title": "【モンスト】レムαの評価とわくわくの実｜リゼロ",
       "url": "https://xn--eckwa2aa3a9c8j8bve9d.gamewith.jp/article/show/379886",
       "host": "xn--eckwa2aa3a9c8j8bve9d.gamewith.jp",
-      "source": "xn--eckwa2aa3a9c8j8bve9d.gamewith.jp",
+      "source": "GameWith",
       "summary": "",
       "publishedAt": "2026-09-27T07:09:08.000Z",
       "image": "https://img.gamewith.jp/article/thumbnail/rectangle/379886.png?date=1671109447",
@@ -3656,7 +3636,7 @@
       "title": "モンスト×リゼロ第2弾コラボが9月27日開催決定！",
       "url": "https://koubo.jp/article/125002",
       "host": "koubo.jp",
-      "source": "koubo.jp",
+      "source": "公募ガイド",
       "summary": "",
       "publishedAt": "2026-09-27T00:06:08.000Z",
       "image": "https://koubo-dz7cn3ci.s3.ap-northeast-1.amazonaws.com/strapi/article_125002_keyvisual_7ae8ea19e0.jpeg",
