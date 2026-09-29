@@ -1,23 +1,23 @@
 {
-  "updatedAt": "2026-09-29T20:30:23.189Z",
+  "updatedAt": "2026-09-29T21:00:21.541Z",
   "site": {
     "title": "なろう系まとめ",
     "tagline": "小説家になろう発の作品のアニメ化・コミカライズ・書籍化のニュースと、なろうのランキングをまとめています。",
     "url": "https://naroumatome.gamelab.website/",
     "contactUrl": "https://docs.google.com/forms/d/e/1FAIpQLSesWyhmZ6sRS_ve-c3X2KqF_wC5PK2TgwgQbTKmnQltSlg5Jw/viewform"
   },
-  "total": 134,
-  "todayCount": 5,
+  "total": 136,
+  "todayCount": 7,
   "categories": [
     {
       "id": "anime",
       "label": "アニメ",
-      "count": 94
+      "count": 95
     },
     {
       "id": "comic",
       "label": "コミカライズ",
-      "count": 7
+      "count": 8
     },
     {
       "id": "book",
@@ -32,7 +32,7 @@
     {
       "id": "game",
       "label": "ゲーム",
-      "count": 6
+      "count": 7
     },
     {
       "id": "goods",
@@ -74,7 +74,7 @@
       "id": "kusuriya",
       "title": "薬屋のひとりごと",
       "short": "薬屋",
-      "count": 32
+      "count": 33
     },
     {
       "id": "kagejitsu",
@@ -299,12 +299,12 @@
       "count": 20
     },
     {
-      "name": "Yahoo!ニュース",
-      "count": 12
+      "name": "ラノベニュースオンライン",
+      "count": 13
     },
     {
-      "name": "ラノベニュースオンライン",
-      "count": 12
+      "name": "Yahoo!ニュース",
+      "count": 13
     },
     {
       "name": "AppMedia",
@@ -363,7 +363,7 @@
       "count": 2
     },
     {
-      "name": "PR TIMES",
+      "name": "prtimes.jp",
       "count": 2
     },
     {
@@ -427,7 +427,7 @@
       "count": 1
     },
     {
-      "name": "asahi.com",
+      "name": "朝日新聞",
       "count": 1
     },
     {
@@ -700,7 +700,7 @@
       "leadSource": "WEBザテレビジョン",
       "publishedAt": "2026-09-29T16:26:47.000Z",
       "sourceCount": 5,
-      "articleCount": 9,
+      "articleCount": 10,
       "categories": [
         "anime"
       ],
@@ -753,17 +753,17 @@
           "isPR": false
         },
         {
+          "title": "「少し聴いただけでもう…すごくいい」アニメ『薬屋のひとりごと』第3期PV解禁！EveのED曲に原作者も「中毒になってしまいます」",
+          "url": "https://news.yahoo.co.jp/articles/60067f5bd6ea19c83974f9f5ba2d760ef4f2939b/images/000",
+          "source": "Yahoo!ニュース",
+          "publishedAt": "2026-09-28T10:06:16.000Z",
+          "isPR": false
+        },
+        {
           "title": "TVアニメ『薬屋のひとりごと』第3期のEDテーマはEveの「AIYOU」に決定！ 壬氏に新たな試練が立ちはだかることを予感させる第2弾PVも公開",
           "url": "https://eeo.today/media/2026/09/28/397417/",
           "source": "eeo",
           "publishedAt": "2026-09-28T05:15:54.000Z",
-          "isPR": false
-        },
-        {
-          "title": "アニメ『薬屋のひとりごと 第3期』EveによるEDテーマ「AIYOU」の音源も解禁された第2弾PVが公開",
-          "url": "https://ln-news.com/articles/126772",
-          "source": "ラノベニュースオンライン",
-          "publishedAt": "2026-09-28T04:00:00.000Z",
           "isPR": false
         }
       ]
@@ -989,9 +989,9 @@
         {
           "title": "「小説家になろう」黎明からの名作、１５年の歳月を経て待望の書籍化！ GCノベルズ新作『テレポーター ～出来損ないの魔法使いは、いずれ神域へと至る～ １』11月30日発売！",
           "url": "https://prtimes.jp/main/html/rd/p/000002840.000048095.html",
-          "source": "PR TIMES",
+          "source": "prtimes.jp",
           "publishedAt": "2026-09-27T10:00:02.000Z",
-          "isPR": true
+          "isPR": false
         }
       ]
     },
@@ -1046,9 +1046,9 @@
         {
           "title": "アニメ『転生したらスライムだった件』ダイカットステッカーの受注を開始しました！",
           "url": "https://prtimes.jp/main/html/rd/p/000000821.000080345.html",
-          "source": "PR TIMES",
+          "source": "prtimes.jp",
           "publishedAt": "2026-09-29T09:00:01.000Z",
-          "isPR": true
+          "isPR": false
         }
       ]
     },
@@ -1082,13 +1082,52 @@
     }
   ],
   "churn": {
-    "previousAt": "2026-09-29T20:00:17.632Z",
+    "previousAt": "2026-09-29T20:30:23.189Z",
     "previousCount": 134,
     "newCount": 2
   },
   "updateGapMin": 30,
-  "nextUpdateAt": "2026-09-29T21:00:23.189Z",
+  "nextUpdateAt": "2026-09-29T21:30:21.541Z",
   "items": [
+    {
+      "id": "cf5338f0ef9f",
+      "title": "『怠惰な悪役王子に転生した俺、悪のおっぱい王国を築く ～ゲーム世界で好き勝手に生きていたのに、なぜか美少女達が俺を離さない件～』のコミカライズ連載が開始",
+      "url": "https://ln-news.com/articles/126755",
+      "host": "ln-news.com",
+      "source": "ラノベニュースオンライン",
+      "summary": "",
+      "publishedAt": "2026-09-29T21:00:00.000Z",
+      "image": "https://assets.ln-news.com/images/medias/930c9ce0f1ca4de1b097c45c41f2106b.jpg",
+      "categories": [
+        "comic",
+        "game"
+      ],
+      "works": [],
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": true
+    },
+    {
+      "id": "4da3141c792d",
+      "title": "＜無職転生III＞老ルーデウスの遺した言葉を胸に、ルーデウスは託された日記を開く…第13話あらすじ＆先行カット公開",
+      "url": "https://thetv.jp/news/detail/1442038/18558393/",
+      "host": "thetv.jp",
+      "source": "WEBザテレビジョン",
+      "summary": "",
+      "publishedAt": "2026-09-29T19:08:31.000Z",
+      "image": "https://thetv.jp/i/nw/1442038/18558393.jpg?w=1284",
+      "categories": [
+        "anime"
+      ],
+      "works": [
+        "mushoku"
+      ],
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": false
+    },
     {
       "id": "b1620fa3b080",
       "title": "【まおりゅう】秘書ディアブロ[第二秘書]の評価とスキル【転スラ】",
@@ -1258,26 +1297,6 @@
       "summary": "",
       "publishedAt": "2026-09-29T12:21:40.000Z",
       "image": "",
-      "categories": [
-        "anime"
-      ],
-      "works": [
-        "mushoku"
-      ],
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": false
-    },
-    {
-      "id": "4da3141c792d",
-      "title": "＜無職転生III＞老ルーデウスの遺した言葉を胸に、ルーデウスは託された日記を開く…第13話あらすじ＆先行カット公開",
-      "url": "https://thetv.jp/news/detail/1442038/18558392/",
-      "host": "thetv.jp",
-      "source": "WEBザテレビジョン",
-      "summary": "",
-      "publishedAt": "2026-09-29T12:02:51.000Z",
-      "image": "https://thetv.jp/i/nw/1442038/18558392.jpg?w=1284",
       "categories": [
         "anime"
       ],
@@ -1605,7 +1624,7 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "939ab37b3533",
@@ -1692,7 +1711,7 @@
       "title": "アニメ『転生したらスライムだった件』ダイカットステッカーの受注を開始しました！",
       "url": "https://prtimes.jp/main/html/rd/p/000000821.000080345.html",
       "host": "prtimes.jp",
-      "source": "PR TIMES",
+      "source": "prtimes.jp",
       "summary": "",
       "publishedAt": "2026-09-29T09:00:01.000Z",
       "image": "https://prcdn.freetls.fastly.net/release_image/80345/821/80345-821-fe1c5633cff7999e1fd955755417901a-1000x1000.jpg?format=jpeg&auto=webp&fit=bounds&width=2400&height=1260",
@@ -1702,7 +1721,7 @@
       "works": [
         "tensura"
       ],
-      "isPR": true,
+      "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
       "isNew": false
@@ -1980,7 +1999,7 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "8bdad10a76fc",
@@ -2559,6 +2578,26 @@
       "isNew": false
     },
     {
+      "id": "3fb2775a3a16",
+      "title": "「少し聴いただけでもう…すごくいい」アニメ『薬屋のひとりごと』第3期PV解禁！EveのED曲に原作者も「中毒になってしまいます」",
+      "url": "https://news.yahoo.co.jp/articles/60067f5bd6ea19c83974f9f5ba2d760ef4f2939b/images/000",
+      "host": "news.yahoo.co.jp",
+      "source": "Yahoo!ニュース",
+      "summary": "",
+      "publishedAt": "2026-09-28T10:06:16.000Z",
+      "image": "https://news-pctr.c.yimg.jp/uUzvQ3lML_bkIqyakc1vFhNrRI0RUQxg5aFkrX0xDg1_T0wXrbEJjtNGtrf1o9y30FuE9u6zLBRO4B_aRTKNgEDK8m6F7gkONd3CfiZs83AYldMKTuBipm2jAWrlEcA-9F0BvwSDyxCIcVzRPF8oYprPKqbhPO8RM9IviiD_DCz2VNQcolj7U_l8F8mdhQUbOFxFo8_mWDCvq1LOgB36KQ==",
+      "categories": [
+        "anime"
+      ],
+      "works": [
+        "kusuriya"
+      ],
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": true
+    },
+    {
       "id": "415f7d59dbd8",
       "title": "アニメ『無職転生III』第2クールが2027年放送決定、津田健次郎の録り下ろしボイス入り映像も公開で高まるファンの期待",
       "url": "https://news.nicovideo.jp/watch/nw19814750",
@@ -2781,7 +2820,7 @@
       "title": "知念実希人、初の異世界転生モノ『偽世界転生』待望のコミカライズが『マンガがうがう』にて8月29日（土）より連載開始！",
       "url": "https://www.asahi.com/and/pressrelease/16820215",
       "host": "asahi.com",
-      "source": "asahi.com",
+      "source": "朝日新聞",
       "summary": "",
       "publishedAt": "2026-09-28T07:19:47.000Z",
       "image": "",
@@ -3477,7 +3516,7 @@
       "title": "「小説家になろう」黎明からの名作、１５年の歳月を経て待望の書籍化！ GCノベルズ新作『テレポーター ～出来損ないの魔法使いは、いずれ神域へと至る～ １』11月30日発売！",
       "url": "https://prtimes.jp/main/html/rd/p/000002840.000048095.html",
       "host": "prtimes.jp",
-      "source": "PR TIMES",
+      "source": "prtimes.jp",
       "summary": "",
       "publishedAt": "2026-09-27T10:00:02.000Z",
       "image": "https://prcdn.freetls.fastly.net/release_image/48095/2840/48095-2840-18209a09f922ff6cb36ec37cff764298-1078x1500.jpg?format=jpeg&auto=webp&fit=bounds&width=2400&height=1260",
@@ -3486,7 +3525,7 @@
         "web"
       ],
       "works": [],
-      "isPR": true,
+      "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
       "isNew": false
