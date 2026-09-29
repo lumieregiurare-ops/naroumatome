@@ -13,6 +13,7 @@
   </script>
   <title>なろう系まとめ｜なろう発アニメ・コミカライズ・書籍化ニュースとランキング</title>
   <meta name="description" content="小説家になろう発の作品や異世界ものの、アニメ化・コミカライズ・書籍化・グッズのニュースをあちこちの媒体から集めています。なろうのランキングと、作品ごとのページ・コメント欄もあります。">
+  <meta name="robots" content="max-image-preview:large">
   <meta name="theme-color" content="#2c6fbb">
   <meta property="og:site_name" content="なろう系まとめ">
   <meta property="og:title" content="なろう系まとめ｜なろう発アニメ・コミカライズ・書籍化ニュースとランキング">
@@ -59,13 +60,13 @@
         <!-- この 7 日に見出しへ作品名が出た記事が多い作品 -->
         <section class="moving" id="movingSection" hidden>
           <h2 class="sec-title">ニュースが多い作品<span class="sec-n">この7日間</span></h2>
-          <ul class="wgrid" id="movingList"></ul>
+          <ul class="wgrid" id="movingList"><!--ssr:moving--></ul>
           <p class="more"><a href="works/">作品一覧 »</a></p>
         </section>
 
         <section class="topics" id="topicsSection" hidden>
           <h2 class="sec-title">話題のニュース</h2>
-          <div id="topicList"></div>
+          <div id="topicList"><!--ssr:topics--></div>
         </section>
 
         <section class="feed" id="feedSection">
@@ -93,15 +94,6 @@
           
         </section>
 
-        <section class="mod" id="ngMod">
-          <h2 class="mod-head">見たくないことば</h2>
-          <p class="mod-desc">登録した言葉を含むニュースを表示しません。</p>
-          <div class="ng-list" id="ngList"></div>
-          <form class="ng-form" id="ngForm">
-            <input type="text" id="ngInput" placeholder="例: 作品名" autocomplete="off" aria-label="見たくないことばを追加">
-            <button type="submit">追加</button>
-          </form>
-        </section>
 
         <section class="mod" id="otherMod" hidden>
           <h2 class="mod-head">ほかの媒体の記事</h2>

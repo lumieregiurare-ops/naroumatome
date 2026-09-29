@@ -164,9 +164,10 @@
 
   "entities": [],
 
-  "note6": "narou は小説家になろうの公式 API から取るランキングの設定。rankLimit は各ランキングで作品ページを作る件数。",
+  "note6": "narou は小説家になろうの公式 API から取るランキングの設定。rankLimit は各ランキングで作品ページを作る件数。indexNovelPages を true にするとランキング作品のページ（/novel/）も検索に出す（中身がなろうの作品ページとほぼ同じなので、初期値は出さない）。",
   "narou": {
     "enabled": true,
-    "rankLimit": 30
+    "rankLimit": 30,
+    "indexNovelPages": false
   }
 }

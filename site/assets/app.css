@@ -671,41 +671,6 @@ main.wrap {
   font-size: 11px;
   color: #999;
 }
-.ng-list {
-  display: flex;
-  flex-wrap: wrap;
-  gap: 4px;
-  margin-bottom: 6px;
-}
-.ng-chip {
-  display: inline-flex;
-  align-items: center;
-  padding: 0 2px 0 6px;
-  background: #eee;
-  border: 1px solid #ccc;
-  font-size: 12px;
-}
-.ng-chip button {
-  border: 0;
-  background: none;
-  cursor: pointer;
-}
-.ng-form {
-  display: flex;
-  gap: 4px;
-}
-.ng-form input {
-  flex: 1;
-  min-width: 0;
-  padding: 3px 6px;
-  border: 1px solid #bbb;
-}
-.ng-form button {
-  padding: 3px 10px;
-  border: 1px solid #999;
-  background: #f3f3f3;
-  cursor: pointer;
-}
 .other-list {
   margin: 4px 0 0;
   padding: 0;

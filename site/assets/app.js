@@ -14,7 +14,6 @@
   var news = null;
   var workMap = {};
   var catMap = {};
-  var ng = [];
 
   // ---------- 保存（使えないブラウザでも動くように） ----------
   function load(key, fallback) {
@@ -68,13 +67,6 @@
     return fetch(url, { cache: "no-cache" }).then(function (r) {
       if (!r.ok) throw new Error(r.status);
       return r.json();
-    });
-  }
-  function hidden(it) {
-    if (!ng.length) return false;
-    var t = (it.title + " " + (it.summary || "")).toLowerCase();
-    return ng.some(function (w) {
-      return t.indexOf(w.toLowerCase()) !== -1;
     });
   }
 
@@ -151,9 +143,7 @@
 
   // ---------- 話題のニュース（複数の媒体が報じたもの） ----------
   function renderTopics() {
-    var topics = (news.topics || []).filter(function (t) {
-      return !hidden(t);
-    });
+    var topics = news.topics || [];
     if (!topics.length) return;
     $("topicList").innerHTML = topics
       .slice(0, 6)
@@ -172,7 +162,6 @@
   // ---------- 新着ニュース ----------
   function filtered() {
     return news.items.filter(function (it) {
-      if (hidden(it)) return false;
       if (state.cat !== "all" && (it.categories || []).indexOf(state.cat) === -1) return false;
       if (state.work && (it.works || []).indexOf(state.work) === -1) return false;
       return true;
@@ -260,13 +249,6 @@
       .join("");
     $("commentMod").hidden = false;
   }
-  function renderNg() {
-    $("ngList").innerHTML = ng
-      .map(function (w, i) {
-        return '<span class="ng-chip">' + esc(w) + '<button type="button" data-ng="' + i + '" aria-label="' + esc(w) + ' を外す">×</button></span>';
-      })
-      .join("");
-  }
   function renderOther(data) {
     var items = ((data && data.items) || []).slice(0, 8);
     if (!items.length) return;
@@ -298,25 +280,6 @@
       state.shown += PAGE;
       renderList();
     });
-    $("ngForm").addEventListener("submit", function (e) {
-      e.preventDefault();
-      var v = $("ngInput").value.trim();
-      if (v && ng.indexOf(v) === -1) {
-        ng.push(v);
-        save("narou:ng", ng);
-        renderNg();
-        renderList();
-      }
-      $("ngInput").value = "";
-    });
-    $("ngList").addEventListener("click", function (e) {
-      var b = e.target.closest("button[data-ng]");
-      if (!b) return;
-      ng.splice(Number(b.getAttribute("data-ng")), 1);
-      save("narou:ng", ng);
-      renderNg();
-      renderList();
-    });
   }
 
   // ---------- はじめ ----------
@@ -326,8 +289,6 @@
     state.cat = saved.cat || "all";
     var m = location.search.match(/[?&]work=([a-z0-9-]+)/);
     if (m) state.work = m[1];
-    ng = load("narou:ng", []);
-    renderNg();
     bind();
 
     var comments = getJson("api/comments.php?recent=1").catch(function () {

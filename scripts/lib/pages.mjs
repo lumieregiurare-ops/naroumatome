@@ -192,7 +192,7 @@ export async function renderPages(root, { log = () => {} } = {}) {
   ${gtag}
   <title>${esc(fullTitle)}</title>
   <meta name="description" content="${esc(desc)}">
-  ${noindex ? '<meta name="robots" content="noindex, follow">' : ""}
+  <meta name="robots" content="${noindex ? "noindex, follow" : "max-image-preview:large"}">
   ${verify}
   <meta name="theme-color" content="#2c6fbb">
   ${path === "/404.html" ? "" : `<link rel="canonical" href="${abs(path)}">`}
@@ -364,34 +364,6 @@ export async function renderPages(root, { log = () => {} } = {}) {
     </section>`;
   }
 
-  // ---------- トップ ----------
-  if (indexTpl) {
-    const items = news?.items || [];
-    const listHtml = items.length
-      ? groupedHtml(items.slice(0, 30), "h3")
-      : '<div class="loading"><span class="spinner" role="status" aria-label="読み込み中"></span><span>ニュースを読み込んでいます…</span></div>';
-    let meta = "読み込み中…";
-    if (news) {
-      const u = jst(news.updatedAt);
-      meta = `${news.total} 本のニュース ・ きょう ${news.todayCount} 本 ・ 最終更新 ${u.getUTCMonth() + 1}/${u.getUTCDate()} ${hhmm(news.updatedAt)}`;
-    }
-    const head = [
-      verify,
-      ld({ "@context": "https://schema.org", "@type": "Organization", name: SITE, url: BASE, logo: abs("/apple-touch-icon.png") }),
-      items.length ? ld(itemList(items, "なろう系の新着ニュース")) : "",
-    ].join("");
-    const html = indexTpl
-      .replace("<!--ssr:head-->", head)
-      .replace("<!--ssr:nav-->", navHtml())
-      .replace("<!--ssr:list-->", listHtml)
-      .replace("<!--ssr:footer-links-->", footerLinks())
-      .replace("<!--ssr:totop-->", TOTOP)
-      .replace('<span id="meta">読み込み中…</span>', `<span id="meta">${esc(meta)}</span>`)
-      .replace(/href="assets\/app\.css"/, `href="assets/app.css?v=${ver.css}"`)
-      .replace(/src="assets\/app\.js"/, `src="assets/app.js?v=${ver.app}"`);
-    await out("/", html, { lastmod: news?.updatedAt });
-  }
-
   // ---------- 作品の画像と PV ----------
   // data/works-media.json（workmedia.mjs が記事から拾ったもの）より、config.json の image / pv を優先する
   const media = (await readJson(join(root, "data", "works-media.json"), {})) || {};
@@ -509,12 +481,80 @@ export async function renderPages(root, { log = () => {} } = {}) {
       h1: "作品一覧",
       body: `<ul class="wgrid">${workCards.map((c) => c.html).join("")}</ul>`,
       crumbs: [{ name: "作品一覧", path: "/works/" }],
+      jsonld: [
+        {
+          "@context": "https://schema.org",
+          "@type": "ItemList",
+          name: "作品一覧",
+          numberOfItems: workCards.length,
+          itemListElement: workCards.map((c, i) => ({ "@type": "ListItem", position: i + 1, url: abs(`/works/${c.w.id}/`), name: c.w.title })),
+        },
+      ],
       scripts: [`/assets/comments.js?v=${ver.comments}`],
     }),
     { lastmod: news?.updatedAt }
   );
 
+  // ---------- トップ ----------
+  if (indexTpl) {
+    const items = news?.items || [];
+    const listHtml = items.length
+      ? groupedHtml(items.slice(0, 30), "h3")
+      : '<div class="loading"><span class="spinner" role="status" aria-label="読み込み中"></span><span>ニュースを読み込んでいます…</span></div>';
+    let meta = "読み込み中…";
+    if (news) {
+      const u = jst(news.updatedAt);
+      meta = `最終更新 ${u.getUTCMonth() + 1}/${u.getUTCDate()} ${hhmm(news.updatedAt)}（今日のニュース ${news.todayCount}件）`;
+    }
+    // ニュースが多い作品（この 7 日）と話題のニュースも HTML に書いておく（app.js が描き直す）
+    const since = now.getTime() - 7 * 86400000;
+    const wn = {};
+    for (const it of items) {
+      if (new Date(it.publishedAt).getTime() < since) continue;
+      for (const id of it.works || []) wn[id] = (wn[id] || 0) + 1;
+    }
+    const movingIds = Object.keys(wn)
+      .filter((id) => index[id])
+      .sort((a, b) => wn[b] - wn[a])
+      .slice(0, 6);
+    const movingHtml = movingIds
+      .map((id) => {
+        const x = index[id];
+        return `<li class="wcard"><a href="/works/${id}/">${visualHtml({ src: x.image, fallback: x.fallback }, x.short, "wcard-img")}<span class="wcard-title">${esc(x.title)}</span></a><span class="wcard-n">ニュース${wn[id]}件</span></li>`;
+      })
+      .join("");
+    const topicsHtml = (news?.topics || [])
+      .slice(0, 6)
+      .map(
+        (t, i) =>
+          `<article class="topic${i === 0 ? " topic-lead" : ""}">${i === 0 && t.image ? `<div class="topic-img"><img src="${esc(t.image)}" alt="" loading="lazy" referrerpolicy="no-referrer" onerror="this.parentNode.remove()"></div>` : ""}<a class="topic-title" href="${esc(t.url)}" target="_blank" rel="noopener">${esc(t.title)}</a></article>`
+      )
+      .join("");
+    const head = [
+      verify,
+      ld({ "@context": "https://schema.org", "@type": "Organization", name: SITE, url: BASE, logo: abs("/apple-touch-icon.png") }),
+      items.length ? ld(itemList(items, "なろう系の新着ニュース")) : "",
+    ].join("");
+    const html = indexTpl
+      .replace("<!--ssr:head-->", head)
+      .replace("<!--ssr:nav-->", navHtml())
+      .replace("<!--ssr:list-->", listHtml)
+      .replace("<!--ssr:moving-->", movingHtml)
+      .replace("<!--ssr:topics-->", topicsHtml)
+      .replace('id="movingSection" hidden', movingHtml ? 'id="movingSection"' : 'id="movingSection" hidden')
+      .replace('id="topicsSection" hidden', topicsHtml ? 'id="topicsSection"' : 'id="topicsSection" hidden')
+      .replace("<!--ssr:footer-links-->", footerLinks())
+      .replace("<!--ssr:totop-->", TOTOP)
+      .replace('<span id="meta">読み込み中…</span>', `<span id="meta">${esc(meta)}</span>`)
+      .replace(/href="assets\/app\.css"/, `href="assets/app.css?v=${ver.css}"`)
+      .replace(/src="assets\/app\.js"/, `src="assets/app.js?v=${ver.app}"`);
+    await out("/", html, { lastmod: news?.updatedAt });
+  }
+
   // ---------- ランキング作品のページ ----------
+  // 中身はなろうの API の値とあらすじの冒頭で、なろうの作品ページとほぼ同じになるので、
+  // 検索には出さない（noindex）。コメント欄のためにページは作る。config.json の narou.indexNovelPages で切り替え
+  const indexNovels = !!config.narou?.indexNovelPages;
   // 登録作品（works）に入っているものは作品ページがあるので作らない
   for (const n of novels.values()) {
     if (workByNcode.has(n.ncode) || !Object.keys(n.ranks || {}).length) continue;
@@ -530,7 +570,7 @@ export async function renderPages(root, { log = () => {} } = {}) {
       path,
       page({
         path,
-        title: `${truncate(n.title, 60)}（${n.writer}）`,
+        title: `${truncate(n.title.replace(/^(【[^】]*】\s*)+|(\s*【[^】]*】)+$/g, ""), 50)}（${truncate(n.writer, 12)}）`,
         desc: truncate(`小説家になろうのランキングに入った『${n.title}』（${n.writer}）の作品情報とあらすじの冒頭、読者のコメント。${n.story || ""}`, 120),
         h1: n.title,
         body: `<div class="work-info work-info-wide">${novelFacts(n)}<p class="work-links"><a class="link-btn" href="${narouUrl(n.ncode)}" target="_blank" rel="noopener">小説家になろうで読む</a></p></div>
@@ -542,10 +582,11 @@ export async function renderPages(root, { log = () => {} } = {}) {
           { name: truncate(n.title, 24), path },
         ],
         jsonld: [{ "@context": "https://schema.org", "@type": "Book", name: n.title, author: { "@type": "Person", name: n.writer }, url: narouUrl(n.ncode), inLanguage: "ja" }],
+        noindex: !indexNovels,
         scripts: [`/assets/comments.js?v=${ver.comments}`],
         ogType: "article",
       }),
-      { lastmod: n.lastUp || undefined }
+      { lastmod: n.lastUp || undefined, index: indexNovels }
     );
   }
 
@@ -591,6 +632,17 @@ export async function renderPages(root, { log = () => {} } = {}) {
         lead: "小説家になろう公式ランキングの上位30作品です。",
         body,
         crumbs: [{ name: "なろうランキング", path: "/ranking/" }],
+        jsonld: rk.d
+          ? [
+              {
+                "@context": "https://schema.org",
+                "@type": "ItemList",
+                name: "小説家になろう 日間ランキング",
+                numberOfItems: rk.d.list.length,
+                itemListElement: rk.d.list.map((x) => ({ "@type": "ListItem", position: x.rank, url: abs(x.workId ? `/works/${x.workId}/` : `/novel/${x.ncode}/`), name: x.title })),
+              },
+            ]
+          : [],
         scripts: [`/assets/ranking.js?v=${ver.ranking}`],
       }),
       { lastmod: ranking?.updatedAt, index: types.length > 0 }
@@ -605,7 +657,7 @@ export async function renderPages(root, { log = () => {} } = {}) {
       page({
         path: `/${c.id}/`,
         title: `${c.title}（最新ニュースまとめ）`,
-        desc: c.desc,
+        desc: truncate(`${c.desc}${items.length ? `最近の記事：${items.slice(0, 2).map((it) => `「${it.title}」`).join("")}` : ""}`, 120),
         h1: c.title,
         lead: esc(c.desc),
         body: items.length ? groupedHtml(items) : '<p class="empty">いまはこのジャンルのニュースがありません。</p>',
@@ -687,7 +739,7 @@ export async function renderPages(root, { log = () => {} } = {}) {
     page({
       path: "/archive/",
       title: "過去のなろう系ニュース",
-      desc: "これまでに集めたなろう系のニュースを、月ごと・日ごとに見られます。",
+      desc: "これまでに集めたなろう系作品のアニメ化・コミカライズ・書籍化・グッズのニュースを、月ごと・日ごとにさかのぼって見られます。",
       h1: "過去のニュース",
       body: months.size
         ? `<ul class="archive-months">${[...months]
