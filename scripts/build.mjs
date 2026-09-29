@@ -39,6 +39,12 @@ for (const file of await walk(SRC)) {
   const ext = extname(file).toLowerCase();
 
   // 画像は表示サイズに合わせて縮小・再圧縮する（元ファイルは site/ にそのまま残す）
+  // OGP 画像は 1200x630 のまま使うので縮めない（meta で 1200x630 と書いているため）
+  if (rel.split(/[\\/]/).join("/") === "assets/og.png") {
+    await writeFile(dest, await readFile(file));
+    count++;
+    continue;
+  }
   if (ext === ".jpg" || ext === ".jpeg" || ext === ".png") {
     const buf = await readFile(file);
     const meta = await sharp(buf).metadata();
