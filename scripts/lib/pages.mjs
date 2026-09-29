@@ -161,11 +161,16 @@ export async function renderPages(root, { log = () => {} } = {}) {
     return `<nav class="site-nav" aria-label="ページ"><div class="wrap nav-inner">${links.map(([h, t]) => `<a href="${h}">${esc(t)}</a>`).join("")}</div></nav>`;
   }
   function footerLinks() {
+    const sisters = (config.sisterSites || [])
+      .map((x) => `<a href="${esc(x.url)}" target="_blank" rel="noopener noreferrer">${esc(x.name)}</a>`)
+      .join("");
     return `<nav class="footer-nav" aria-label="サイト内のページ">
       <a href="/">トップ</a><a href="/works/">作品一覧</a><a href="/ranking/">なろうランキング</a>
       ${genreLinks.map((c) => `<a href="/${c.id}/">${esc(c.title || c.label)}</a>`).join("")}
       <a href="/archive/">過去のニュース</a><a href="/about/">このサイトについて</a><a href="/feed.xml">RSS</a>
-    </nav>`;
+    </nav>
+    ${sisters ? `<nav class="footer-nav footer-sisters" aria-label="運営サイト"><span class="footer-nav-label">運営サイト</span>${sisters}</nav>` : ""}
+    ${config.site?.contactUrl ? `<p class="contact"><a href="${esc(config.site.contactUrl)}" target="_blank" rel="noopener noreferrer">お問い合わせはこちら</a></p>` : ""}`;
   }
   const verify = config.pages?.googleSiteVerification ? `<meta name="google-site-verification" content="${esc(config.pages.googleSiteVerification)}">` : "";
   const gtag = GA
@@ -774,7 +779,7 @@ export async function renderPages(root, { log = () => {} } = {}) {
         <h2>アクセス解析</h2>
         <p>Googleアナリティクスを使っています。</p>
         ${sourceNames.length ? `<h2>おもな収集元</h2><p>${sourceNames.slice(0, 40).map(esc).join(" / ")}</p>` : ""}
-        ${config.site?.contactUrl ? `<h2>お問い合わせ</h2><p><a href="${esc(config.site.contactUrl)}">お問い合わせフォーム</a></p>` : ""}
+        ${config.site?.contactUrl ? `<h2>お問い合わせ</h2><p><a href="${esc(config.site.contactUrl)}" target="_blank" rel="noopener noreferrer">お問い合わせフォーム（Googleフォーム）</a></p>` : ""}
       </div>`,
       crumbs: [{ name: "このサイトについて", path: "/about/" }],
     }),

@@ -1083,6 +1083,27 @@ main.wrap {
   gap: 2px 12px;
   margin-bottom: 10px;
 }
+.footer-sisters {
+  padding-top: 8px;
+  border-top: 1px solid #4a4a4a;
+}
+.footer-nav-label {
+  color: #999;
+}
+.footer .contact {
+  margin: 4px 0 10px;
+}
+.footer .contact a {
+  display: inline-block;
+  padding: 3px 12px;
+  border: 1px solid #777;
+  color: #fff;
+  text-decoration: none;
+}
+.footer .contact a:hover {
+  background: #e8590c;
+  border-color: #e8590c;
+}
 .footer p {
   margin: 0 0 4px;
 }
