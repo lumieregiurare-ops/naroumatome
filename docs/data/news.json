@@ -1,18 +1,18 @@
 {
-  "updatedAt": "2026-09-30T08:30:19.901Z",
+  "updatedAt": "2026-09-30T09:00:21.023Z",
   "site": {
     "title": "なろう系まとめ",
     "tagline": "小説家になろう発の作品のアニメ化・コミカライズ・書籍化のニュースと、なろうのランキングをまとめています。",
     "url": "https://naroumatome.gamelab.website/",
     "contactUrl": "https://docs.google.com/forms/d/e/1FAIpQLSesWyhmZ6sRS_ve-c3X2KqF_wC5PK2TgwgQbTKmnQltSlg5Jw/viewform"
   },
-  "total": 163,
+  "total": 162,
   "todayCount": 59,
   "categories": [
     {
       "id": "anime",
       "label": "アニメ",
-      "count": 114
+      "count": 112
     },
     {
       "id": "comic",
@@ -27,7 +27,7 @@
     {
       "id": "web",
       "label": "Web小説・賞",
-      "count": 16
+      "count": 15
     },
     {
       "id": "game",
@@ -42,7 +42,7 @@
     {
       "id": "other",
       "label": "そのほか",
-      "count": 20
+      "count": 21
     }
   ],
   "works": [
@@ -74,7 +74,7 @@
       "id": "kusuriya",
       "title": "薬屋のひとりごと",
       "short": "薬屋",
-      "count": 33
+      "count": 34
     },
     {
       "id": "kagejitsu",
@@ -299,20 +299,16 @@
       "count": 20
     },
     {
+      "name": "Yahoo!ニュース",
+      "count": 14
+    },
+    {
       "name": "ラノベニュースオンライン",
       "count": 14
     },
     {
-      "name": "Yahoo!ニュース",
-      "count": 13
-    },
-    {
       "name": "AppMedia",
       "count": 10
-    },
-    {
-      "name": "アニメ！アニメ！",
-      "count": 6
     },
     {
       "name": "電撃オンライン",
@@ -335,7 +331,7 @@
       "count": 5
     },
     {
-      "name": "千葉テレビ放送株式会社",
+      "name": "アニメ！アニメ！",
       "count": 5
     },
     {
@@ -348,6 +344,14 @@
     },
     {
       "name": "ABEMA",
+      "count": 3
+    },
+    {
+      "name": "千葉テレビ放送株式会社",
+      "count": 3
+    },
+    {
+      "name": "オリコンニュース",
       "count": 3
     },
     {
@@ -379,14 +383,6 @@
       "count": 2
     },
     {
-      "name": "産経ニュース",
-      "count": 2
-    },
-    {
-      "name": "オリコンニュース",
-      "count": 2
-    },
-    {
       "name": "ABEMA TIMES",
       "count": 2
     },
@@ -405,6 +401,10 @@
     {
       "name": "Gamer",
       "count": 2
+    },
+    {
+      "name": "Koubo",
+      "count": 1
     },
     {
       "name": "coamix.co.jp",
@@ -483,6 +483,10 @@
       "count": 1
     },
     {
+      "name": "産経ニュース",
+      "count": 1
+    },
+    {
       "name": "BS朝日",
       "count": 1
     },
@@ -491,7 +495,7 @@
       "count": 1
     },
     {
-      "name": "GameWith",
+      "name": "xn--eckwa2aa3a9c8j8bve9d.gamewith.jp",
       "count": 1
     }
   ],
@@ -1086,17 +1090,55 @@
     }
   ],
   "churn": {
-    "previousAt": "2026-09-30T08:00:19.091Z",
-    "previousCount": 154,
-    "newCount": 12
+    "previousAt": "2026-09-30T08:30:19.901Z",
+    "previousCount": 163,
+    "newCount": 2
   },
   "updateGapMin": 30,
-  "nextUpdateAt": "2026-09-30T09:00:19.901Z",
+  "nextUpdateAt": "2026-09-30T09:30:21.023Z",
   "items": [
+    {
+      "id": "74202584b4b4",
+      "title": "「いなくなった」の言葉に隠された真相とは？「薬屋のひとりごと」猫猫が閃いた“赤子入れ替え説”にファン戦慄（ABEMA TIMES）",
+      "url": "https://news.yahoo.co.jp/articles/f61690b04745bc81d610eb0e35187ab23482aabd",
+      "host": "news.yahoo.co.jp",
+      "source": "Yahoo!ニュース",
+      "summary": "",
+      "publishedAt": "2026-09-30T08:54:16.000Z",
+      "image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260930-10271463-abemad-000-1-view.jpg?exp=10800",
+      "categories": [
+        "other"
+      ],
+      "works": [
+        "kusuriya"
+      ],
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": true
+    },
+    {
+      "id": "4c1a052f221a",
+      "title": "【本日発売】ヒーローコミックス初の単行本が本日9月30日（水）発売！『小さな魔女と野良犬騎士』、『康太の異世界ごはん』など人気シリーズ計7作品が単行本化！",
+      "url": "https://koubo.jp/press-release/prtimes/c7785_r1801",
+      "host": "koubo.jp",
+      "source": "Koubo",
+      "summary": "",
+      "publishedAt": "2026-09-30T08:31:11.000Z",
+      "image": "",
+      "categories": [
+        "comic"
+      ],
+      "works": [],
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": false
+    },
     {
       "id": "88a7b5dd732e",
       "title": "TVアニメ3期放送記念！『薬屋のひとりごと』特製POPがもらえる書店フェアが10月1日より開催",
-      "url": "https://news.infoseek.co.jp/article/abematimes_10275872/",
+      "url": "https://news.infoseek.co.jp/amp/article/abematimes_10275872/",
       "host": "news.infoseek.co.jp",
       "source": "Infoseek",
       "summary": "",
@@ -1111,7 +1153,7 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "d7dcac18e46c",
@@ -1148,7 +1190,7 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "393c8e4d7b29",
@@ -1168,24 +1210,6 @@
       "viaGoogle": false,
       "sourceKind": "news",
       "isNew": false
-    },
-    {
-      "id": "ddfbfa135a32",
-      "title": "驚愕！元凶の正体は……「異世界ハーレムマッサージ 神の指圧で悩めるモンスター娘たちを揉みほぐす！」第8話が無料公開",
-      "url": "https://www.chiba-tv.com/plus/detail/amp/2026092059058",
-      "host": "chiba-tv.com",
-      "source": "千葉テレビ放送株式会社",
-      "summary": "",
-      "publishedAt": "2026-09-30T05:39:38.000Z",
-      "image": "https://img.jp.ekkowassets.com/c_limit,w_360,f_auto,q_auto:eco/ch/images/1477903174524339473/origin_1.jpg",
-      "categories": [
-        "anime"
-      ],
-      "works": [],
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": true
     },
     {
       "id": "2469ce91ff49",
@@ -1266,7 +1290,7 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "7f55975caf4f",
@@ -1447,44 +1471,6 @@
       "isNew": false
     },
     {
-      "id": "afbba66d3b9d",
-      "title": "芦田愛菜『薬屋のひとりごと』実写主演 ビジュアル原作者が説明でネット注目「写真をよくよく見直したら」",
-      "url": "https://www.sankei.com/article/20260930-JFHK74HFKBN4LNRRLN66QG5JEY/",
-      "host": "sankei.com",
-      "source": "産経ニュース",
-      "summary": "",
-      "publishedAt": "2026-09-30T03:31:08.000Z",
-      "image": "https://www.sankei.com/resizer/v2/ST5KV3EL7JKM5OCU7X2XGP47DU.jpg?auth=7c5a56860edcd035241162df8215642af9512cf057815c50290b3b8ff4d32324&quality=50&smart=true&width=1200&height=675",
-      "categories": [
-        "other"
-      ],
-      "works": [
-        "kusuriya"
-      ],
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": false
-    },
-    {
-      "id": "4c1a052f221a",
-      "title": "【本日発売】ヒーローコミックス初の単行本が本日9月30日（水）発売！『小さな魔女と野良犬騎士』、『康太の異世界ごはん』など人気シリーズ計7作品が単行本化！",
-      "url": "https://animeanime.jp/release/prtimes/20260930/316356.html",
-      "host": "animeanime.jp",
-      "source": "アニメ！アニメ！",
-      "summary": "",
-      "publishedAt": "2026-09-30T03:30:00.000Z",
-      "image": "https://animeanime.jp/release/imgs/list/558168.jpg",
-      "categories": [
-        "comic"
-      ],
-      "works": [],
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": false
-    },
-    {
       "id": "061ac57c9862",
       "title": "リゼロ＞第4期最終回「シャウラ／英雄」 45分拡大SP 監視塔攻略の最終局面 旅の全ての力を結集！（MANTANWEB）",
       "url": "https://news.yahoo.co.jp/articles/4b917d66999e5892b9eb13c3d1e175e687033ce9",
@@ -1556,6 +1542,26 @@
         "book"
       ],
       "works": [],
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": false
+    },
+    {
+      "id": "afbba66d3b9d",
+      "title": "芦田愛菜『薬屋のひとりごと』実写主演 ビジュアル原作者が説明でネット注目「写真をよくよく見直したら」",
+      "url": "https://www.oricon.co.jp/news/2483416/full/",
+      "host": "oricon.co.jp",
+      "source": "オリコンニュース",
+      "summary": "",
+      "publishedAt": "2026-09-30T02:55:00.000Z",
+      "image": "https://contents.oricon.co.jp/upimg/news/2484000/2483416/20260904_115925_p_o_71844971.jpg",
+      "categories": [
+        "other"
+      ],
+      "works": [
+        "kusuriya"
+      ],
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
@@ -1660,7 +1666,7 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "e4fe3f06a657",
@@ -2670,7 +2676,7 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "a9ceb764ba24",
@@ -2883,7 +2889,7 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "8bdad10a76fc",
@@ -3320,7 +3326,7 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "2fbb0de9fc91",
@@ -3380,7 +3386,7 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "415f7d59dbd8",
@@ -3715,7 +3721,7 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "d0517b21c482",
@@ -4157,7 +4163,7 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "69adb9cb392c",
@@ -4238,14 +4244,14 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": true
+      "isNew": false
     },
     {
-      "id": "d0271d413d43",
-      "title": "【モンスト】エミリアαの評価とわくわくの実｜リゼロ",
+      "id": "e308bd5e5f16",
+      "title": "【モンスト】エミリアαの評価とわくわくの実｜リゼロ - xn--eckwa2aa3a9c8j8bve9d.gamewith.jp",
       "url": "https://xn--eckwa2aa3a9c8j8bve9d.gamewith.jp/article/show/379887",
       "host": "xn--eckwa2aa3a9c8j8bve9d.gamewith.jp",
-      "source": "GameWith",
+      "source": "xn--eckwa2aa3a9c8j8bve9d.gamewith.jp",
       "summary": "",
       "publishedAt": "2026-09-27T10:16:15.000Z",
       "image": "https://img.gamewith.jp/article/thumbnail/rectangle/379887.png?date=1671109518",
@@ -4258,7 +4264,7 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": false
+      "isNew": true
     },
     {
       "id": "1a87e4d49371",
@@ -4296,25 +4302,6 @@
       ],
       "isPR": false,
       "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": false
-    },
-    {
-      "id": "d2d4ada49626",
-      "title": "“ストレス過多な昨今”を象徴する異世界アニメ？特大チートスキルを楽しむサバイバル物語【DMM TV 今週のランキング／アニメ おすすめ DMM】",
-      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1xcmk5NGtlbkRROEdqUGl1QXdwY1hQdFlDWmtWbERkSl96Nl93MmJvOW9aV2tBa1RRYVVyVkgwUEswMDBVVnFkVnptRF9EQ3VteW1VN0x5bzliODh4MldR?oc=5",
-      "host": "chiba-tv.com",
-      "source": "千葉テレビ放送株式会社",
-      "summary": "",
-      "publishedAt": "2026-09-27T08:47:19.000Z",
-      "image": "",
-      "categories": [
-        "anime",
-        "web"
-      ],
-      "works": [],
-      "isPR": false,
-      "viaGoogle": true,
       "sourceKind": "news",
       "isNew": false
     }
