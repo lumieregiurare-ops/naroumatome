@@ -1,18 +1,18 @@
 {
-  "updatedAt": "2026-09-30T22:30:19.211Z",
+  "updatedAt": "2026-09-30T23:00:17.668Z",
   "site": {
     "title": "なろう系まとめ",
     "tagline": "小説家になろう発の作品のアニメ化・コミカライズ・書籍化のニュースと、なろうのランキングをまとめています。",
     "url": "https://naroumatome.gamelab.website/",
     "contactUrl": "https://docs.google.com/forms/d/e/1FAIpQLSesWyhmZ6sRS_ve-c3X2KqF_wC5PK2TgwgQbTKmnQltSlg5Jw/viewform"
   },
-  "total": 170,
+  "total": 163,
   "todayCount": 13,
   "categories": [
     {
       "id": "anime",
       "label": "アニメ",
-      "count": 117
+      "count": 114
     },
     {
       "id": "comic",
@@ -22,27 +22,27 @@
     {
       "id": "book",
       "label": "書籍・ラノベ",
-      "count": 11
+      "count": 12
     },
     {
       "id": "web",
       "label": "Web小説・賞",
-      "count": 15
+      "count": 16
     },
     {
       "id": "game",
       "label": "ゲーム",
-      "count": 7
+      "count": 6
     },
     {
       "id": "goods",
       "label": "グッズ・イベント",
-      "count": 13
+      "count": 14
     },
     {
       "id": "other",
       "label": "そのほか",
-      "count": 23
+      "count": 19
     }
   ],
   "works": [
@@ -50,19 +50,19 @@
       "id": "tensura",
       "title": "転生したらスライムだった件",
       "short": "転スラ",
-      "count": 33
+      "count": 29
     },
     {
       "id": "mushoku",
       "title": "無職転生 ～異世界行ったら本気だす～",
       "short": "無職転生",
-      "count": 30
+      "count": 26
     },
     {
       "id": "rezero",
       "title": "Re:ゼロから始める異世界生活",
       "short": "リゼロ",
-      "count": 25
+      "count": 23
     },
     {
       "id": "honzuki",
@@ -80,7 +80,7 @@
       "id": "kagejitsu",
       "title": "陰の実力者になりたくて！",
       "short": "陰の実力者",
-      "count": 1
+      "count": 2
     },
     {
       "id": "tate",
@@ -164,7 +164,7 @@
       "id": "katainaka",
       "title": "片田舎のおっさん、剣聖になる",
       "short": "片田舎のおっさん",
-      "count": 7
+      "count": 6
     },
     {
       "id": "nozomanu",
@@ -315,10 +315,6 @@
       "count": 10
     },
     {
-      "name": "youtu.be",
-      "count": 9
-    },
-    {
       "name": "電撃オンライン",
       "count": 7
     },
@@ -331,11 +327,15 @@
       "count": 6
     },
     {
+      "name": "ニコニコニュース",
+      "count": 6
+    },
+    {
       "name": "アニメ！アニメ！",
       "count": 5
     },
     {
-      "name": "アニメイトタイムズ",
+      "name": "animatetimes.com",
       "count": 5
     },
     {
@@ -343,24 +343,20 @@
       "count": 5
     },
     {
-      "name": "ニコニコニュース",
-      "count": 5
-    },
-    {
       "name": "news.livedoor.com",
       "count": 5
     },
     {
-      "name": "MANTANWEB",
+      "name": "Unisba Media",
       "count": 5
+    },
+    {
+      "name": "MANTANWEB",
+      "count": 4
     },
     {
       "name": "ｄメニューニュース",
       "count": 4
-    },
-    {
-      "name": "山陽新聞",
-      "count": 3
     },
     {
       "name": "ABEMA TIMES",
@@ -368,10 +364,6 @@
     },
     {
       "name": "PR TIMES",
-      "count": 3
-    },
-    {
-      "name": "Unisba Media",
       "count": 3
     },
     {
@@ -459,6 +451,14 @@
       "count": 1
     },
     {
+      "name": "山陽新聞",
+      "count": 1
+    },
+    {
+      "name": "games.app-liv.jp",
+      "count": 1
+    },
+    {
       "name": "れポたま！",
       "count": 1
     },
@@ -467,7 +467,7 @@
       "count": 1
     },
     {
-      "name": "はてなブログ",
+      "name": "anisaki.hatenadiary.com",
       "count": 1
     },
     {
@@ -480,6 +480,10 @@
     },
     {
       "name": "gamebiz【ゲームビズ】",
+      "count": 1
+    },
+    {
+      "name": "産経ニュース",
       "count": 1
     },
     {
@@ -546,7 +550,7 @@
         {
           "title": "秋アニメ『薬屋のひとりごと』第3期 謎解き新企画「#猫猫謎謎」 がスタート",
           "url": "https://www.animatetimes.com/news/details.php?id",
-          "source": "アニメイトタイムズ",
+          "source": "animatetimes.com",
           "publishedAt": "2026-09-30T11:00:00.000Z",
           "isPR": false
         },
@@ -574,10 +578,11 @@
       "image": "https://thetv.jp/i/nw/1444136/18654595.jpg?w=1284",
       "leadSource": "ニコニコニュース",
       "publishedAt": "2026-09-28T09:51:18.000Z",
-      "sourceCount": 9,
-      "articleCount": 11,
+      "sourceCount": 10,
+      "articleCount": 12,
       "categories": [
-        "anime"
+        "anime",
+        "book"
       ],
       "keywords": [
         "無職転生",
@@ -629,16 +634,16 @@
         },
         {
           "title": "『無職転生Ⅲ』第2クール 2027年放送決定！第2クール発表映像解禁",
-          "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9VNXVWTDNmZDdDMjVJb3VHUkE2SzNQajl2aVF1dEJONTVIdE1Zcm11N1U1ZFRLZk1IT2d6QkwzUk9keGZQOWhqMXN3ZXlzWUlfTHhxaE5xRUFYZWpZYUFYaEpNNFgxTTNseG9r?oc=5",
-          "source": "アニメイトタイムズ",
+          "url": "https://www.animatetimes.com/news/details.php?id",
+          "source": "animatetimes.com",
           "publishedAt": "2026-09-28T02:00:00.000Z",
           "isPR": false
         },
         {
-          "title": "『無職転生』第3期、第2クールは来年放送 “龍神オルステッド”津田健次郎録り下ろしの新映像公開",
-          "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9sVEM1eVFqUjEzZWhjLUpQWURMOXQzckdUc09GbGdwdTJKa3lZWEVVdFVCZGE3Q0YyQjBJdG5TaGpMb2hITlpXTzRXWldQX0hQdzZKRDdB?oc=5",
-          "source": "オリコンニュース",
-          "publishedAt": "2026-09-28T01:54:00.000Z",
+          "title": "『無職転生』第3期第2クール発表映像サムネイル（C）理不尽な孫の手/MFブックス/「無職転生Ⅲ」製作委員会",
+          "url": "https://www.sankei.com/article/20260928-D64OHOQIUFNUHBZVF6N6JAEZ24/photo/WISA4OSF35MLDO6VJWBVPNSADM/",
+          "source": "産経ニュース",
+          "publishedAt": "2026-09-28T01:54:42.000Z",
           "isPR": false
         }
       ]
@@ -708,7 +713,7 @@
         {
           "title": "『リゼロ』4th season エピローグビジュアル公開｜小林裕介、水瀬いのりよりコメント到着",
           "url": "https://www.animatetimes.com/news/details.php?id",
-          "source": "アニメイトタイムズ",
+          "source": "animatetimes.com",
           "publishedAt": "2026-09-30T14:45:00.000Z",
           "isPR": false
         },
@@ -842,15 +847,15 @@
       "image": "https://www.pashplus.jp/wp-content/uploads/6ceb6de434b3f46f439088a455b4fde6.jpg",
       "leadSource": "PASH! PLUS",
       "publishedAt": "2026-09-30T03:36:05.000Z",
-      "sourceCount": 5,
-      "articleCount": 5,
+      "sourceCount": 4,
+      "articleCount": 4,
       "categories": [
         "anime"
       ],
       "keywords": [
+        "カット",
         "リゼロ",
-        "season",
-        "カット"
+        "season"
       ],
       "articles": [
         {
@@ -868,16 +873,9 @@
           "isPR": false
         },
         {
-          "title": "【リゼロ】4th season第19話(第85話)「シャウラ／英雄」WEB予告│TVアニメ『Re:ゼロから始める異世界生活』4th season《奪還編》好評放送中",
-          "url": "https://youtu.be/5nP8mnq8hAM?si",
-          "source": "youtu.be",
-          "publishedAt": "2026-09-29T09:00:29.000Z",
-          "isPR": false
-        },
-        {
           "title": "『リゼロ』4th season 第19話（最終回）あらすじ＆場面カット",
           "url": "https://www.animatetimes.com/news/details.php?id",
-          "source": "アニメイトタイムズ",
+          "source": "animatetimes.com",
           "publishedAt": "2026-09-29T09:00:00.000Z",
           "isPR": false
         }
@@ -1066,59 +1064,71 @@
           "isPR": false
         },
         {
-          "title": "「小説家になろう」黎明からの名作、１５年の歳月を経て待望の書籍化！ GCノベルズ新作『テレポーター ～出来損ないの魔法使いは、いずれ神域へと至る～ １』11月30日発売！",
-          "url": "https://mantan-web.jp/prtimes/article/20260928prt00m200000039a.html",
-          "source": "MANTANWEB",
-          "publishedAt": "2026-09-28T08:22:34.000Z",
+          "title": "「小説家になろう」黎明からの名作、１５年の歳月を経て待望の書籍化！ GCノベルズ新作『テレポーター ～出来損ないの魔法",
+          "url": "https://news.nicovideo.jp/watch/nw19812513",
+          "source": "ニコニコニュース",
+          "publishedAt": "2026-09-28T01:00:33.000Z",
           "isPR": false
         }
       ]
     },
     {
-      "id": "a31f4fb881fa",
-      "title": "【まおりゅう】強すぎ！秘書シオン、ディアブロ 使ってみた！ これが最強の奥義速攻型だ！ / ラズルの闘破戦 絶 破滅級4 攻略&解説！ 転生したらスライムだった件 魔王と竜の建国譚",
+      "id": "950ef6d0aca8",
+      "title": "【2026年10月1日】本日発売のマンガ単行本リスト 「囚人転生」5巻ほか",
       "summary": "",
-      "url": "https://youtu.be/Z61Sx92gan0",
-      "image": "https://img.gamewith.jp/article/thumbnail/gamearticle/6668/rectangle/63774.png?t=1790588331",
-      "leadSource": "youtu.be",
-      "publishedAt": "2026-09-28T11:06:08.000Z",
-      "sourceCount": 3,
-      "articleCount": 3,
+      "url": "https://natalie.mu/comic/news/691190",
+      "image": "",
+      "leadSource": "ナタリー",
+      "publishedAt": "2026-09-30T15:00:00.000Z",
+      "sourceCount": 2,
+      "articleCount": 2,
       "categories": [
-        "other",
-        "goods"
+        "comic",
+        "book"
       ],
       "keywords": [
-        "スライム",
-        "魔王",
-        "建国譚"
+        "本日発売",
+        "単行本"
       ],
       "articles": [
         {
-          "title": "『転生したらスライムだった件 魔王と竜の建国譚』新ストーリーイベント「テンペスト流 秘書のシカク」開催！",
-          "url": "https://gamewith.jp/gamedb/6668/articles/63774",
-          "source": "GameWith",
-          "publishedAt": "2026-09-28T09:14:59.000Z",
-          "isPR": false
-        },
-        {
-          "title": "「転生したらスライムだった件 魔王と竜の建国譚」新スカウトにディアブロ、シオンが登場！まおりゅう初登場のラズルとマリアが手に入るイベントも",
-          "url": "https://www.gamer.ne.jp/news/202609280025/image/2/",
-          "source": "Gamer",
-          "publishedAt": "2026-09-28T07:33:29.000Z",
+          "title": "【本日発売】ヒーローコミックス初の単行本が本日9月30日（水）発売！『小さな魔女と野良犬騎士』、『康太の異世界ごはん』など人気シリーズ計7作品が単行本化！",
+          "url": "https://koubo.jp/press-release/prtimes/c7785_r1801",
+          "source": "Koubo",
+          "publishedAt": "2026-09-30T08:31:11.000Z",
           "isPR": false
         }
       ]
     }
   ],
   "churn": {
-    "previousAt": "2026-09-30T22:00:19.632Z",
-    "previousCount": 164,
-    "newCount": 11
+    "previousAt": "2026-09-30T22:30:19.211Z",
+    "previousCount": 170,
+    "newCount": 4
   },
   "updateGapMin": 30,
-  "nextUpdateAt": "2026-09-30T23:00:19.211Z",
+  "nextUpdateAt": "2026-09-30T23:30:17.668Z",
   "items": [
+    {
+      "id": "988d7d31450d",
+      "title": "アニメ『転生したら剣でした』全12話オールナイト上映会が立川シネマシティにて10月10日（土）開催",
+      "url": "https://ln-news.com/articles/126792",
+      "host": "ln-news.com",
+      "source": "ラノベニュースオンライン",
+      "summary": "",
+      "publishedAt": "2026-09-30T23:00:00.000Z",
+      "image": "https://assets.ln-news.com/images/medias/1376b1a542fb44e09cc4f82b2b258494.jpeg",
+      "categories": [
+        "anime"
+      ],
+      "works": [
+        "tenken"
+      ],
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": true
+    },
     {
       "id": "b1620fa3b080",
       "title": "【まおりゅう】秘書ディアブロ[第二秘書]の評価とスキル【転スラ】",
@@ -1137,7 +1147,7 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "edf1cb71c91b",
@@ -1257,26 +1267,6 @@
       "viaGoogle": false,
       "sourceKind": "news",
       "isNew": false
-    },
-    {
-      "id": "222470106423",
-      "title": "『無職転生』第3期の第7話あらすじ＆場面カット解禁 ナナホシがルーデウスにある提案",
-      "url": "https://www.sanyonews.jp/article/1967886?kw",
-      "host": "sanyonews.jp",
-      "source": "山陽新聞",
-      "summary": "",
-      "publishedAt": "2026-09-30T17:54:23.000Z",
-      "image": "https://static.sanyonews.jp/image/article/size1/4/9/6/9/4969ef0bf106a8ea8486b6d91e910210_1.jpg",
-      "categories": [
-        "anime"
-      ],
-      "works": [
-        "mushoku"
-      ],
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": true
     },
     {
       "id": "97c4d3b30678",
@@ -1500,7 +1490,7 @@
       "title": "『リゼロ』4th season エピローグビジュアル公開｜小林裕介、水瀬いのりよりコメント到着",
       "url": "https://www.animatetimes.com/news/details.php?id",
       "host": "animatetimes.com",
-      "source": "アニメイトタイムズ",
+      "source": "animatetimes.com",
       "summary": "",
       "publishedAt": "2026-09-30T14:45:00.000Z",
       "image": "https://www.animatetimes.com/img/ogimage.png",
@@ -1572,28 +1562,6 @@
       "viaGoogle": false,
       "sourceKind": "news",
       "isNew": false
-    },
-    {
-      "id": "e619b5c3d82f",
-      "title": "【転スラ4期】クロノア編の伏線回収がヤバすぎる…無職転生やリゼロと並ぶ運命に立ち向かう勇者の覚醒",
-      "url": "https://youtu.be/DLxxL7YUOdo?si",
-      "host": "youtu.be",
-      "source": "youtu.be",
-      "summary": "",
-      "publishedAt": "2026-09-30T13:52:00.000Z",
-      "image": "",
-      "categories": [
-        "anime"
-      ],
-      "works": [
-        "tensura",
-        "mushoku",
-        "rezero"
-      ],
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": true
     },
     {
       "id": "b78427ac4229",
@@ -1736,26 +1704,6 @@
       "isNew": false
     },
     {
-      "id": "29e3052aa5e5",
-      "title": "【MAD】いつかのあなたのために - ターニングポイント4 -【無職転生】※ネタバレ注意",
-      "url": "https://youtu.be/Tr_bPbsgbiQ?si",
-      "host": "youtu.be",
-      "source": "youtu.be",
-      "summary": "",
-      "publishedAt": "2026-09-30T11:00:14.000Z",
-      "image": "",
-      "categories": [
-        "other"
-      ],
-      "works": [
-        "mushoku"
-      ],
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": true
-    },
-    {
       "id": "613b42b4dae1",
       "title": "TVアニメ『薬屋のひとりごと』新企画「#猫猫謎謎」始動 芹沢仁菜が謎解きを作成",
       "url": "https://realsound.jp/movie/2026/09/post-2539067.html",
@@ -1820,7 +1768,7 @@
       "title": "秋アニメ『薬屋のひとりごと』第3期 謎解き新企画「#猫猫謎謎」 がスタート",
       "url": "https://www.animatetimes.com/news/details.php?id",
       "host": "animatetimes.com",
-      "source": "アニメイトタイムズ",
+      "source": "animatetimes.com",
       "summary": "",
       "publishedAt": "2026-09-30T11:00:00.000Z",
       "image": "https://www.animatetimes.com/img/ogimage.png",
@@ -2118,26 +2066,6 @@
       "isNew": false
     },
     {
-      "id": "63eb6d5312f6",
-      "title": "【転スラ】前作では、ベニマル編で今回はゴブタ編じゃあ次の作品は◯◯編？楽しみ👍",
-      "url": "https://youtu.be/7QJITHCuzeI?si",
-      "host": "youtu.be",
-      "source": "youtu.be",
-      "summary": "",
-      "publishedAt": "2026-09-30T09:08:15.000Z",
-      "image": "",
-      "categories": [
-        "other"
-      ],
-      "works": [
-        "tensura"
-      ],
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": true
-    },
-    {
       "id": "1e7d42e48b37",
       "title": "「U-NEXT」の秋アニメ配信ラインナップが公開！『薬屋のひとりごと』第3期のほか『ドラゴンボール超 ビルス』『ケロロ軍曹☆』など50作品以上が配信決定",
       "url": "https://eeo.today/media/2026/09/30/398440/",
@@ -2235,26 +2163,6 @@
       "isNew": false
     },
     {
-      "id": "39d3723807dc",
-      "title": "【クロエコ】ハロウィン衣装のかぼちゃエリス狙って50連ガチャ回した結果がヤバすぎた！？【無職転生クロニクル・オブ・エコーズ】",
-      "url": "https://youtu.be/aOLbPG5GF80?si",
-      "host": "youtu.be",
-      "source": "youtu.be",
-      "summary": "",
-      "publishedAt": "2026-09-30T08:39:24.000Z",
-      "image": "",
-      "categories": [
-        "game"
-      ],
-      "works": [
-        "mushoku"
-      ],
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": true
-    },
-    {
       "id": "4c1a052f221a",
       "title": "【本日発売】ヒーローコミックス初の単行本が本日9月30日（水）発売！『小さな魔女と野良犬騎士』、『康太の異世界ごはん』など人気シリーズ計7作品が単行本化！",
       "url": "https://koubo.jp/press-release/prtimes/c7785_r1801",
@@ -2271,26 +2179,6 @@
       "viaGoogle": false,
       "sourceKind": "news",
       "isNew": false
-    },
-    {
-      "id": "f1e344fb9da2",
-      "title": "#同時視聴 】神アニメの続編開幕！『無職転生（3期）』を見よう！！ 第14話（61話） #2026年夏アニメ Ep14（Ep61） #reaction #雪月天音",
-      "url": "https://youtu.be/zM4_Kn_qp2E?si",
-      "host": "youtu.be",
-      "source": "youtu.be",
-      "summary": "",
-      "publishedAt": "2026-09-30T08:00:04.000Z",
-      "image": "",
-      "categories": [
-        "anime"
-      ],
-      "works": [
-        "mushoku"
-      ],
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": true
     },
     {
       "id": "88a7b5dd732e",
@@ -2331,6 +2219,45 @@
       "viaGoogle": false,
       "sourceKind": "news",
       "isNew": false
+    },
+    {
+      "id": "4b45b3bdb7bd",
+      "title": "冷酷すぎる胸糞主人公…2026年夏の失速なろう系アニメ2選【おっさん剣聖2期・ブチ切れ令嬢】 Louis Varland (aHFmHllBey)",
+      "url": "https://media.unisba.ac.id/f4c7f2bd/dc448698gxTP4Q6EPi0",
+      "host": "media.unisba.ac.id",
+      "source": "Unisba Media",
+      "summary": "",
+      "publishedAt": "2026-09-30T07:02:57.000Z",
+      "image": "",
+      "categories": [
+        "anime",
+        "web"
+      ],
+      "works": [],
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": true
+    },
+    {
+      "id": "23aa6eb6b4ae",
+      "title": "藍井エイル「絵空事」Lyric Video（TVアニメ『転生したらスライムだった件 第4期』オープニング主題歌） Anna Tatangelo (sq3FThiWg2)",
+      "url": "https://media.unisba.ac.id/c31c6f46/dc079618OgEUAzB7EygKQQ0",
+      "host": "media.unisba.ac.id",
+      "source": "Unisba Media",
+      "summary": "",
+      "publishedAt": "2026-09-30T06:04:02.000Z",
+      "image": "",
+      "categories": [
+        "anime"
+      ],
+      "works": [
+        "tensura"
+      ],
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": true
     },
     {
       "id": "ddfbfa135a32",
@@ -2959,26 +2886,6 @@
       "isNew": false
     },
     {
-      "id": "649b704173f6",
-      "title": "【 #同時視聴 】『転生したらスライムだった件』完全初見！17話~24話【彩巴輝レア/ #vtuber 】",
-      "url": "https://youtu.be/9C3B8gEnz-A?si",
-      "host": "youtu.be",
-      "source": "youtu.be",
-      "summary": "",
-      "publishedAt": "2026-09-29T12:00:34.000Z",
-      "image": "",
-      "categories": [
-        "other"
-      ],
-      "works": [
-        "tensura"
-      ],
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": false
-    },
-    {
       "id": "671bfdfbedac",
       "title": "『無職転生』が首位、10月に新シーズン開幕の『薬屋のひとりごと』もランクイン！9月21日週アニメ週間ランキング発表",
       "url": "https://news.infoseek.co.jp/article/abematimes_10275721/",
@@ -3177,26 +3084,6 @@
       "isNew": false
     },
     {
-      "id": "054faf246818",
-      "title": "【リゼロ】4th season第19話(第85話)「シャウラ／英雄」WEB予告│TVアニメ『Re:ゼロから始める異世界生活』4th season《奪還編》好評放送中",
-      "url": "https://youtu.be/5nP8mnq8hAM?si",
-      "host": "youtu.be",
-      "source": "youtu.be",
-      "summary": "",
-      "publishedAt": "2026-09-29T09:00:29.000Z",
-      "image": "",
-      "categories": [
-        "anime"
-      ],
-      "works": [
-        "rezero"
-      ],
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": true
-    },
-    {
       "id": "96bdf4c7688f",
       "title": "プレアデス監視塔攻略、最終局面…アニメ『リゼロ』4期第85話あらすじ＆先行カット公開",
       "url": "https://news.infoseek.co.jp/amp/article/abematimes_10275698/",
@@ -3221,7 +3108,7 @@
       "title": "『リゼロ』4th season 第19話（最終回）あらすじ＆場面カット",
       "url": "https://www.animatetimes.com/news/details.php?id",
       "host": "animatetimes.com",
-      "source": "アニメイトタイムズ",
+      "source": "animatetimes.com",
       "summary": "",
       "publishedAt": "2026-09-29T09:00:00.000Z",
       "image": "https://www.animatetimes.com/img/ogimage.png",
@@ -3731,6 +3618,26 @@
       "isNew": false
     },
     {
+      "id": "649b704173f6",
+      "title": "【#コンパス】 『陰の実力者になりたくて！』コラボカード＆コスチューム一挙紹介！豊富な【周】カードや新効果の【癒】カードが目玉!! - games.app-liv.jp",
+      "url": "https://games.app-liv.jp/archives/573775",
+      "host": "games.app-liv.jp",
+      "source": "games.app-liv.jp",
+      "summary": "",
+      "publishedAt": "2026-09-28T19:54:23.000Z",
+      "image": "",
+      "categories": [
+        "goods"
+      ],
+      "works": [
+        "kagejitsu"
+      ],
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": false
+    },
+    {
       "id": "e8484b814572",
       "title": "シリーズ累計450万部突破の人気作、待望のTVアニメ化！『転生した大聖女は、聖女であることをひた隠す』ABEMAで10",
       "url": "https://news.nicovideo.jp/watch/nw19815570?news_ref",
@@ -3766,46 +3673,6 @@
       "viaGoogle": false,
       "sourceKind": "news",
       "isNew": false
-    },
-    {
-      "id": "a31f4fb881fa",
-      "title": "【まおりゅう】強すぎ！秘書シオン、ディアブロ 使ってみた！ これが最強の奥義速攻型だ！ / ラズルの闘破戦 絶 破滅級4 攻略&解説！ 転生したらスライムだった件 魔王と竜の建国譚",
-      "url": "https://youtu.be/Z61Sx92gan0",
-      "host": "youtu.be",
-      "source": "youtu.be",
-      "summary": "",
-      "publishedAt": "2026-09-28T11:06:08.000Z",
-      "image": "",
-      "categories": [
-        "other"
-      ],
-      "works": [
-        "tensura"
-      ],
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": true
-    },
-    {
-      "id": "bdeb26ad9118",
-      "title": "Daoko「TACTIC」(TVアニメ『転生したらスライムだった件』&blackboard version)",
-      "url": "https://youtu.be/R2XevfOnsFQ?si",
-      "host": "youtu.be",
-      "source": "youtu.be",
-      "summary": "",
-      "publishedAt": "2026-09-28T11:00:09.000Z",
-      "image": "",
-      "categories": [
-        "anime"
-      ],
-      "works": [
-        "tensura"
-      ],
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": true
     },
     {
       "id": "2fbb0de9fc91",
@@ -3898,25 +3765,6 @@
       "image": "https://assets.ln-news.com/images/medias/410540c68ef942e99e6ebc58f960ddb8.jpg",
       "categories": [
         "comic"
-      ],
-      "works": [],
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": false
-    },
-    {
-      "id": "1a87e4d49371",
-      "title": "「小説家になろう」黎明からの名作、１５年の歳月を経て待望の書籍化！ GCノベルズ新作『テレポーター ～出来損ないの魔法使いは、いずれ神域へと至る～ １』11月30日発売！",
-      "url": "https://mantan-web.jp/prtimes/article/20260928prt00m200000039a.html",
-      "host": "mantan-web.jp",
-      "source": "MANTANWEB",
-      "summary": "",
-      "publishedAt": "2026-09-28T08:22:34.000Z",
-      "image": "https://prtimes.jp/img/48095/2840/resize/d48095-2840-bbf6bdf6bace974c1164-2.jpg",
-      "categories": [
-        "book",
-        "web"
       ],
       "works": [],
       "isPR": false,
@@ -4029,7 +3877,7 @@
       "title": "『ヘルモード ～やり込み好きのゲーマーは廃設定の異世界で無双する～ 3rd Season』作品情報",
       "url": "https://www.animatetimes.com/tag/details.php?id",
       "host": "animatetimes.com",
-      "source": "アニメイトタイムズ",
+      "source": "animatetimes.com",
       "summary": "",
       "publishedAt": "2026-09-28T07:00:00.000Z",
       "image": "",
@@ -4126,7 +3974,7 @@
       "title": "骸骨騎士様3期はある？放送時期とアニメ2期の続きは原作どこから",
       "url": "https://anisaki.hatenadiary.com/entry/gaikotsu-kishi-season3",
       "host": "anisaki.hatenadiary.com",
-      "source": "はてなブログ",
+      "source": "anisaki.hatenadiary.com",
       "summary": "",
       "publishedAt": "2026-09-28T05:22:03.000Z",
       "image": "https://cdn.image.st-hatena.com/image/scale/a8e4669b821e1e489dea17551d8e3a82d4f71c5d/backend=imagemagick;version=1;width=1300/https%3A%2F%2Fskeleton-knight.com%2Fwp%2Fwp-content%2Fuploads%2F2026%2F09%2FSK2_ED_ep11_02_pub.jpg",
@@ -4324,12 +4172,12 @@
     {
       "id": "981353bb309a",
       "title": "『無職転生Ⅲ』第2クール 2027年放送決定！第2クール発表映像解禁",
-      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9VNXVWTDNmZDdDMjVJb3VHUkE2SzNQajl2aVF1dEJONTVIdE1Zcm11N1U1ZFRLZk1IT2d6QkwzUk9keGZQOWhqMXN3ZXlzWUlfTHhxaE5xRUFYZWpZYUFYaEpNNFgxTTNseG9r?oc=5",
+      "url": "https://www.animatetimes.com/news/details.php?id",
       "host": "animatetimes.com",
-      "source": "アニメイトタイムズ",
+      "source": "animatetimes.com",
       "summary": "",
       "publishedAt": "2026-09-28T02:00:00.000Z",
-      "image": "",
+      "image": "https://www.animatetimes.com/img/ogimage.png",
       "categories": [
         "anime"
       ],
@@ -4337,19 +4185,40 @@
         "mushoku"
       ],
       "isPR": false,
-      "viaGoogle": true,
+      "viaGoogle": false,
       "sourceKind": "news",
       "isNew": false
     },
     {
+      "id": "4c23ede1172c",
+      "title": "『無職転生』第3期第2クール発表映像サムネイル（C）理不尽な孫の手/MFブックス/「無職転生Ⅲ」製作委員会",
+      "url": "https://www.sankei.com/article/20260928-D64OHOQIUFNUHBZVF6N6JAEZ24/photo/WISA4OSF35MLDO6VJWBVPNSADM/",
+      "host": "sankei.com",
+      "source": "産経ニュース",
+      "summary": "",
+      "publishedAt": "2026-09-28T01:54:42.000Z",
+      "image": "https://www.sankei.com/resizer/v2/WISA4OSF35MLDO6VJWBVPNSADM.jpg?auth=3dd524be9ae0bc9a9bb6c8b6124fa6d40545be76b7f20a197ae2e44f55d3ebb6&quality=50&smart=true&width=1200&height=675",
+      "categories": [
+        "anime",
+        "book"
+      ],
+      "works": [
+        "mushoku"
+      ],
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": true
+    },
+    {
       "id": "1fd3c9635f17",
       "title": "『無職転生』第3期、第2クールは来年放送 “龍神オルステッド”津田健次郎録り下ろしの新映像公開",
-      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9sVEM1eVFqUjEzZWhjLUpQWURMOXQzckdUc09GbGdwdTJKa3lZWEVVdFVCZGE3Q0YyQjBJdG5TaGpMb2hITlpXTzRXWldQX0hQdzZKRDdB?oc=5",
+      "url": "https://www.oricon.co.jp/news/2482925/full/",
       "host": "oricon.co.jp",
       "source": "オリコンニュース",
       "summary": "",
       "publishedAt": "2026-09-28T01:54:00.000Z",
-      "image": "",
+      "image": "https://contents.oricon.co.jp/upimg/news/2483000/2482925/20260928_102202_p_o_76856342.jpg",
       "categories": [
         "anime"
       ],
@@ -4357,33 +4226,33 @@
         "mushoku"
       ],
       "isPR": false,
-      "viaGoogle": true,
+      "viaGoogle": false,
       "sourceKind": "news",
       "isNew": false
     },
     {
       "id": "42bf1dac29dc",
       "title": "『捨てられ聖女の異世界ごはん旅 隠れスキルでキャンピングカーを召喚しました』のトレーディング缶バッジなどの受注を開始！！アニメ・漫画のオリジナルグッズを販売する「AMNIBUS」にて",
-      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE83LTUzekFubHdpOVJMRElhdlBUR2pFemRQbHNIdDlUdVVGVW5scUUwMXNuT2F3Q25vMVdiX3Izcm80dG1BcjNFUkFwLWxmeVpXa2tFeXVRNTMtVXhyeHNxWkJfVWxpa2JsUS1ySk81c2plQQ?oc=5",
+      "url": "https://news.infoseek.co.jp/article/prtimes_000009601_000016064/",
       "host": "news.infoseek.co.jp",
       "source": "Infoseek",
       "summary": "",
       "publishedAt": "2026-09-28T01:47:11.000Z",
-      "image": "",
+      "image": "https://media.image.infoseek.co.jp/isnews/pc/img/noimage_203x120_busi-econ-1.0.png",
       "categories": [
         "anime",
         "comic"
       ],
       "works": [],
       "isPR": false,
-      "viaGoogle": true,
+      "viaGoogle": false,
       "sourceKind": "news",
       "isNew": false
     },
     {
       "id": "3e96e82cffa5",
       "title": "「無職転生Ⅲ」第2クールは2027年放送、津田健次郎の録り下ろしボイス収めた映像公開（動画あり）",
-      "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE1VMW1MLVN3Z1QzMTNzWFBfVXQ4TXZiaHBsVDZQQkJwVHZxam5DN1o2U1FJeTE4S2M1NWZaVzdRaGpFcjQwMFA1VVV4ZzE?oc=5",
+      "url": "https://natalie.mu/comic/news/691319",
       "host": "natalie.mu",
       "source": "ナタリー",
       "summary": "",
@@ -4396,19 +4265,19 @@
         "mushoku"
       ],
       "isPR": false,
-      "viaGoogle": true,
+      "viaGoogle": false,
       "sourceKind": "news",
       "isNew": false
     },
     {
       "id": "ec2e8c88695e",
       "title": "無職転生III＞テレビアニメ第2クール 2027年放送 発表映像に龍神オルステッド（MANTANWEB）",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5aa2hiTHFRQU1WbUlsd3NBS2lETVFlSElDM0k2QS1RQUhMNTdiRThkRTVZbDROWHRSVW1KRzhDeElWLXBZaEk4QWU0cnV2N3lEYlJiZ1EzV2hHUG5JZmRfRjRGWjRhVmNCbGhjX2NtVWc0NlIwbWc2RzdSOXFVX0k?oc=5",
+      "url": "https://news.yahoo.co.jp/articles/091e35d7c6e265fcad2d1b84c545a674434cec41",
       "host": "news.yahoo.co.jp",
       "source": "Yahoo!ニュース",
       "summary": "",
       "publishedAt": "2026-09-28T01:27:00.000Z",
-      "image": "",
+      "image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260928-00000023-mantan-000-1-view.jpg?exp=10800",
       "categories": [
         "anime"
       ],
@@ -4416,7 +4285,26 @@
         "mushoku"
       ],
       "isPR": false,
-      "viaGoogle": true,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": false
+    },
+    {
+      "id": "1a87e4d49371",
+      "title": "「小説家になろう」黎明からの名作、１５年の歳月を経て待望の書籍化！ GCノベルズ新作『テレポーター ～出来損ないの魔法",
+      "url": "https://news.nicovideo.jp/watch/nw19812513",
+      "host": "news.nicovideo.jp",
+      "source": "ニコニコニュース",
+      "summary": "",
+      "publishedAt": "2026-09-28T01:00:33.000Z",
+      "image": "",
+      "categories": [
+        "book",
+        "web"
+      ],
+      "works": [],
+      "isPR": false,
+      "viaGoogle": false,
       "sourceKind": "news",
       "isNew": false
     },
@@ -4437,46 +4325,6 @@
       ],
       "isPR": false,
       "viaGoogle": true,
-      "sourceKind": "news",
-      "isNew": false
-    },
-    {
-      "id": "ea525af1a8b1",
-      "title": "『片田舎のおっさん、剣聖になる』第2期あらすじ＆場面カット解禁 狼の姿をした影が教師たち襲う",
-      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1zZU1SN0NaTEVtcGVfSndiWXA2S3lMS3dyd0NtWTJIajNfbTFZYzlsWUkyWnRieTFKUnhPdUcwSXZ3dW9BXzc1VVJBT0JQZXU5U2R0SURDRTNHUGFHWXZMVlM2d3MzeV81NzZhMjRQVQ?oc=5",
-      "host": "sanyonews.jp",
-      "source": "山陽新聞",
-      "summary": "",
-      "publishedAt": "2026-09-27T23:31:42.000Z",
-      "image": "",
-      "categories": [
-        "anime"
-      ],
-      "works": [
-        "katainaka"
-      ],
-      "isPR": false,
-      "viaGoogle": true,
-      "sourceKind": "news",
-      "isNew": true
-    },
-    {
-      "id": "6a368f757a1a",
-      "title": "アニメ『転生したら剣でしたII』第1話「空に浮かんでるのは島でした」のあらすじ＆先行カット解禁",
-      "url": "https://ln-news.com/articles/126759",
-      "host": "ln-news.com",
-      "source": "ラノベニュースオンライン",
-      "summary": "",
-      "publishedAt": "2026-09-27T10:00:00.000Z",
-      "image": "",
-      "categories": [
-        "anime"
-      ],
-      "works": [
-        "tenken"
-      ],
-      "isPR": false,
-      "viaGoogle": false,
       "sourceKind": "news",
       "isNew": false
     }
