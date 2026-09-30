@@ -1,18 +1,18 @@
 {
-  "updatedAt": "2026-09-30T21:00:20.326Z",
+  "updatedAt": "2026-09-30T21:30:19.736Z",
   "site": {
     "title": "なろう系まとめ",
     "tagline": "小説家になろう発の作品のアニメ化・コミカライズ・書籍化のニュースと、なろうのランキングをまとめています。",
     "url": "https://naroumatome.gamelab.website/",
     "contactUrl": "https://docs.google.com/forms/d/e/1FAIpQLSesWyhmZ6sRS_ve-c3X2KqF_wC5PK2TgwgQbTKmnQltSlg5Jw/viewform"
   },
-  "total": 161,
+  "total": 163,
   "todayCount": 10,
   "categories": [
     {
       "id": "anime",
       "label": "アニメ",
-      "count": 114
+      "count": 116
     },
     {
       "id": "comic",
@@ -37,7 +37,7 @@
     {
       "id": "goods",
       "label": "グッズ・イベント",
-      "count": 13
+      "count": 14
     },
     {
       "id": "other",
@@ -50,7 +50,7 @@
       "id": "tensura",
       "title": "転生したらスライムだった件",
       "short": "転スラ",
-      "count": 27
+      "count": 28
     },
     {
       "id": "mushoku",
@@ -304,14 +304,14 @@
     },
     {
       "name": "WEBザテレビジョン",
-      "count": 11
-    },
-    {
-      "name": "AppMedia",
-      "count": 9
+      "count": 12
     },
     {
       "name": "ナタリー",
+      "count": 10
+    },
+    {
+      "name": "AppMedia",
       "count": 9
     },
     {
@@ -323,15 +323,19 @@
       "count": 6
     },
     {
+      "name": "eeo",
+      "count": 6
+    },
+    {
       "name": "Unisba Media",
       "count": 5
     },
     {
-      "name": "アニメイトタイムズ",
+      "name": "アニメ！アニメ！",
       "count": 5
     },
     {
-      "name": "eeo",
+      "name": "アニメイトタイムズ",
       "count": 5
     },
     {
@@ -347,23 +351,19 @@
       "count": 5
     },
     {
-      "name": "アニメ！アニメ！",
-      "count": 4
-    },
-    {
       "name": "ライブドアニュース",
       "count": 4
     },
     {
-      "name": "PR TIMES",
+      "name": "ｄメニューニュース",
       "count": 4
     },
     {
-      "name": "ｄメニューニュース",
+      "name": "times.abema.tv",
       "count": 3
     },
     {
-      "name": "times.abema.tv",
+      "name": "PR TIMES",
       "count": 3
     },
     {
@@ -375,11 +375,7 @@
       "count": 2
     },
     {
-      "name": "realsound.jp",
-      "count": 2
-    },
-    {
-      "name": "オリコンニュース",
+      "name": "Real Sound｜リアルサウンド",
       "count": 2
     },
     {
@@ -447,10 +443,6 @@
       "count": 1
     },
     {
-      "name": "article.auone.jp",
-      "count": 1
-    },
-    {
       "name": "ムビコレ",
       "count": 1
     },
@@ -489,6 +481,10 @@
     {
       "name": "gamebiz【ゲームビズ】",
       "count": 1
+    },
+    {
+      "name": "オリコンニュース",
+      "count": 1
     }
   ],
   "topics": [
@@ -499,17 +495,17 @@
       "url": "https://www.pashplus.jp/anime/497321/",
       "image": "https://www.pashplus.jp/wp-content/uploads/35ab13d0d19466cfcca3d411bca96010.jpg",
       "leadSource": "PASH! PLUS",
-      "publishedAt": "2026-09-30T17:45:36.000Z",
+      "publishedAt": "2026-09-30T21:00:00.000Z",
       "sourceCount": 11,
-      "articleCount": 12,
+      "articleCount": 13,
       "categories": [
         "anime",
         "other"
       ],
       "keywords": [
         "薬屋",
-        "謎解",
-        "企画"
+        "猫猫謎謎",
+        "謎解"
       ],
       "articles": [
         {
@@ -529,7 +525,7 @@
         {
           "title": "TVアニメ『薬屋のひとりごと』新企画「#猫猫謎謎」始動 芹沢仁菜が謎解きを作成",
           "url": "https://realsound.jp/movie/2026/09/post-2539067.html",
-          "source": "realsound.jp",
+          "source": "Real Sound｜リアルサウンド",
           "publishedAt": "2026-09-30T11:00:11.000Z",
           "isPR": false
         },
@@ -620,7 +616,7 @@
         {
           "title": "TVアニメ『無職転生III』第2クール2027年放送 津田健次郎録り下ろしボイスの発表映像も",
           "url": "https://realsound.jp/movie/2026/09/post-2536192.html",
-          "source": "realsound.jp",
+          "source": "Real Sound｜リアルサウンド",
           "publishedAt": "2026-09-28T02:10:18.000Z",
           "isPR": false
         },
@@ -1101,13 +1097,33 @@
     }
   ],
   "churn": {
-    "previousAt": "2026-09-30T20:30:18.498Z",
-    "previousCount": 164,
-    "newCount": 4
+    "previousAt": "2026-09-30T21:00:20.326Z",
+    "previousCount": 161,
+    "newCount": 3
   },
   "updateGapMin": 30,
-  "nextUpdateAt": "2026-09-30T21:30:20.326Z",
+  "nextUpdateAt": "2026-09-30T22:00:19.736Z",
   "items": [
+    {
+      "id": "edf1cb71c91b",
+      "title": "アニメ『薬屋のひとりごと』第3期放送に向けた新企画「#猫猫謎謎」がスタート！ 次回エピソードのキーワードを導き出す謎解きを出題",
+      "url": "https://www.pashplus.jp/anime/497321/",
+      "host": "pashplus.jp",
+      "source": "PASH! PLUS",
+      "summary": "",
+      "publishedAt": "2026-09-30T21:00:00.000Z",
+      "image": "https://www.pashplus.jp/wp-content/uploads/35ab13d0d19466cfcca3d411bca96010.jpg",
+      "categories": [
+        "anime"
+      ],
+      "works": [
+        "kusuriya"
+      ],
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": false
+    },
     {
       "id": "58d3f9e9592d",
       "title": "『転生したらスライムだった件』32巻 感想・ネタバレ｜元勇者グランベルの圧とディアブロ×ギィが濃すぎる！",
@@ -1126,7 +1142,7 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "167649bb2a0a",
@@ -1160,26 +1176,6 @@
       "categories": [
         "book",
         "comic"
-      ],
-      "works": [
-        "kusuriya"
-      ],
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": false
-    },
-    {
-      "id": "edf1cb71c91b",
-      "title": "アニメ『薬屋のひとりごと』第3期放送に向けた新企画「#猫猫謎謎」がスタート！ 次回エピソードのキーワードを導き出す謎解きを出題",
-      "url": "https://www.pashplus.jp/anime/497321/",
-      "host": "pashplus.jp",
-      "source": "PASH! PLUS",
-      "summary": "",
-      "publishedAt": "2026-09-30T17:45:36.000Z",
-      "image": "https://www.pashplus.jp/wp-content/uploads/35ab13d0d19466cfcca3d411bca96010.jpg",
-      "categories": [
-        "anime"
       ],
       "works": [
         "kusuriya"
@@ -1563,6 +1559,26 @@
       "isNew": false
     },
     {
+      "id": "e7a9feba5ca9",
+      "title": "『薬屋のひとりごと』本格謎解き企画が始動 人気クリエイターが謎を作成 (オリコン)",
+      "url": "https://news.yahoo.co.jp/articles/e7e49b50e6d7d79e93a7b80defa4174babc71ff7/images/000",
+      "host": "news.yahoo.co.jp",
+      "source": "Yahoo!ニュース",
+      "summary": "",
+      "publishedAt": "2026-09-30T11:24:57.000Z",
+      "image": "https://news-pctr.c.yimg.jp/uUzvQ3lML_bkIqyakc1vFhNrRI0RUQxg5aFkrX0xDg1_T0wXrbEJjtNGtrf1o9y30FuE9u6zLBRO4B_aRTKNgE04-lQCaS8Ar5iU_cXlqnqwBefTz15hA8p7MQU2eZczw3tpI5hS2ZWAXsZIK9ryXlMOMAgb3idVNv_0rz1kAOZDc1mZXfhw2ufM8Ylu8uvo",
+      "categories": [
+        "other"
+      ],
+      "works": [
+        "kusuriya"
+      ],
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": false
+    },
+    {
       "id": "a71cb9070e43",
       "title": "＜本好きの下剋上＞シャルロッテが黒ずくめの男たちに誘拐される…第二十三章あらすじ紹介",
       "url": "https://thetv.jp/news/detail/1443762/landing/",
@@ -1627,7 +1643,7 @@
       "title": "TVアニメ『薬屋のひとりごと』新企画「#猫猫謎謎」始動 芹沢仁菜が謎解きを作成",
       "url": "https://realsound.jp/movie/2026/09/post-2539067.html",
       "host": "realsound.jp",
-      "source": "realsound.jp",
+      "source": "Real Sound｜リアルサウンド",
       "summary": "",
       "publishedAt": "2026-09-30T11:00:11.000Z",
       "image": "https://realsound.jp/wp-content/uploads/2026/09/20260930-kusuriya-01.jpg",
@@ -1733,26 +1749,6 @@
       "image": "",
       "categories": [
         "anime"
-      ],
-      "works": [
-        "kusuriya"
-      ],
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": false
-    },
-    {
-      "id": "e7a9feba5ca9",
-      "title": "『薬屋のひとりごと』本格謎解き企画が始動 人気クリエイターが謎を作成",
-      "url": "https://www.oricon.co.jp/news/2483629/full/",
-      "host": "oricon.co.jp",
-      "source": "オリコンニュース",
-      "summary": "",
-      "publishedAt": "2026-09-30T11:00:00.000Z",
-      "image": "https://contents.oricon.co.jp/upimg/news/2484000/2483629/20260930_194354_p_o_55599445.jpg",
-      "categories": [
-        "other"
       ],
       "works": [
         "kusuriya"
@@ -1986,6 +1982,25 @@
       "isNew": false
     },
     {
+      "id": "393c8e4d7b29",
+      "title": "【新連載】話題映画のコミカライズ、追放系異世界スキルファンタジー、インモラルサスペンス、一挙３作品が9月から順次「マンガBANG」にて配信開始！",
+      "url": "https://animeanime.jp/release/prtimes/20260930/316442.html",
+      "host": "animeanime.jp",
+      "source": "アニメ！アニメ！",
+      "summary": "",
+      "publishedAt": "2026-09-30T09:16:48.000Z",
+      "image": "https://animeanime.jp/release/imgs/list/558325.jpg",
+      "categories": [
+        "comic",
+        "anime"
+      ],
+      "works": [],
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": false
+    },
+    {
       "id": "2b240bfd8e36",
       "title": "第50話 薬屋のひとりごと 第3期",
       "url": "https://thetv.jp/program/0001067396/2/",
@@ -2177,25 +2192,6 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": true
-    },
-    {
-      "id": "393c8e4d7b29",
-      "title": "【新連載】話題映画のコミカライズ、追放系異世界スキルファンタジー、インモラルサスペンス、一挙３作品が9月から順次「マンガBANG」にて配信開始！",
-      "url": "https://prtimes.jp/main/html/rd/p/000000053.000009539.html",
-      "host": "prtimes.jp",
-      "source": "PR TIMES",
-      "summary": "",
-      "publishedAt": "2026-09-30T06:30:01.000Z",
-      "image": "https://prcdn.freetls.fastly.net/release_image/9539/53/9539-53-4fccbac22ad1a05324831d715b175e5d-602x856.jpg?format=jpeg&auto=webp&fit=bounds&width=2400&height=1260",
-      "categories": [
-        "comic",
-        "anime"
-      ],
-      "works": [],
-      "isPR": true,
-      "viaGoogle": false,
-      "sourceKind": "news",
       "isNew": false
     },
     {
@@ -2298,7 +2294,7 @@
     },
     {
       "id": "aec8a136045f",
-      "title": "TVアニメ第3期放送記念！『薬屋のひとりごと～猫猫の後宮謎解き手帳～』の特製棚差しクリアPOPがもらえる書店フェアを順次開催！",
+      "title": "TVアニメ第3期放送記念！『薬屋のひとりごと～猫猫の後宮謎解き手帳～』の特製棚差しクリアPOPがもらえる書店フェアを順次開催！ | 株式会社小学館のプレスリリース",
       "url": "https://prtimes.jp/main/html/rd/p/000003876.000013640.html",
       "host": "prtimes.jp",
       "source": "PR TIMES",
@@ -2508,7 +2504,7 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "e4fe3f06a657",
@@ -2550,24 +2546,24 @@
       "isNew": false
     },
     {
-      "id": "e66be1943e0e",
-      "title": "『8番出口』『薬屋のひとりごと』『SAKAMOTO DAYS』など、Prime Videoで10月配信（リアルサウンド）",
-      "url": "https://news.yahoo.co.jp/articles/9ebb7bccd9486333b5e006a54119b12bf44a0a8c",
-      "host": "news.yahoo.co.jp",
-      "source": "Yahoo!ニュース",
+      "id": "76a599614341",
+      "title": "転スラ 第4期＞クロエとヒナタを救うため、リムルはクロノアの無限牢獄に干渉する 第96話あらすじ＆場面カット公開",
+      "url": "https://thetv.jp/news/detail/1442655/landing/",
+      "host": "thetv.jp",
+      "source": "WEBザテレビジョン",
       "summary": "",
-      "publishedAt": "2026-09-30T01:01:40.000Z",
-      "image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260930-00010013-realsound-000-1-view.jpg?exp=10800",
+      "publishedAt": "2026-09-30T01:32:15.000Z",
+      "image": "",
       "categories": [
         "anime"
       ],
       "works": [
-        "kusuriya"
+        "tensura"
       ],
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": false
+      "isNew": true
     },
     {
       "id": "9a683a7f1b7a",
@@ -2743,7 +2739,7 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "10afaac1fce3",
@@ -2941,6 +2937,24 @@
       "viaGoogle": false,
       "sourceKind": "news",
       "isNew": false
+    },
+    {
+      "id": "4a538c73c5a4",
+      "title": "「TVアニメ『凶乱令嬢ニア・リストン 病弱令嬢に転生した神殺しの武人の華麗なる無双録』普及活動会議」バナー",
+      "url": "https://natalie.mu/comic/gallery/news/691550/2979486",
+      "host": "natalie.mu",
+      "source": "ナタリー",
+      "summary": "",
+      "publishedAt": "2026-09-29T10:10:55.000Z",
+      "image": "",
+      "categories": [
+        "anime"
+      ],
+      "works": [],
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": true
     },
     {
       "id": "5f9adcaf7f24",
@@ -3143,12 +3157,12 @@
     {
       "id": "1c23ec292d27",
       "title": "【2026夏アニメ】アニメライターが選ぶ“ヒロイン推しキャラ”は？ 「天幕のジャードゥーガル」「無職転生」「攻殻機動隊」「ふつつかな悪女」",
-      "url": "https://article.auone.jp/article/5651182f-209d-4bf6-ad14-a6e3450cfbd9",
-      "host": "article.auone.jp",
-      "source": "article.auone.jp",
+      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOVGY3bmRma2tQcEtpUTE1NkkyUHUweG15WnZwczRrbjc1ckRrNlc5d0Z3MDliUVpvWnotYXRpbUEtS3c0QWpuWkc5NFhuVkViMko5WklUSlU3SlVRREk2NDlfU3JleXhOWHVrMHpJNXZxbjFtblVlQUZxdS1jUGZCYl9PemRMOE1ZelJVOER3cE9vWFnSAY8BQVVfeXFMTUVzLUs3RVNkZFdra0NaUl9GR2hiV1hQakg5ZTd0cmNETE1fNFJiMEdXZ0plZFRZYlR5cExyY1pyWm95cF9rYkl2bkU2bm8yVkNnd1g2bFJiUHhxMGI5eTh4TE9SRHJYdVNxYTh2TjBRY1gtc2pmdE5TbEN3c0I3OGQzbVd4SXhLdTZPdndkZ1E?oc=5",
+      "host": "topics.smt.docomo.ne.jp",
+      "source": "ｄメニューニュース",
       "summary": "",
-      "publishedAt": "2026-09-29T08:04:00.000Z",
-      "image": "https://newportal.portal.auone.jp/media/thumbnails/2026/09/30/https___news_jp_i_1477577300636369796_w452.webp",
+      "publishedAt": "2026-09-29T08:00:00.000Z",
+      "image": "",
       "categories": [
         "anime"
       ],
@@ -3156,7 +3170,7 @@
         "mushoku"
       ],
       "isPR": false,
-      "viaGoogle": false,
+      "viaGoogle": true,
       "sourceKind": "news",
       "isNew": false
     },
@@ -3179,6 +3193,27 @@
       "viaGoogle": false,
       "sourceKind": "news",
       "isNew": false
+    },
+    {
+      "id": "192217a7b94b",
+      "title": "「TVアニメ『薬屋のひとりごと』第3期放送直前SPステージ」の公式レポートが公開！",
+      "url": "https://eeo.today/media/2026/09/29/398007/",
+      "host": "eeo.today",
+      "source": "eeo",
+      "summary": "",
+      "publishedAt": "2026-09-29T07:33:06.000Z",
+      "image": "https://eeo.today/media/wp-content/uploads/2026/09/2026anine-4193.jpg",
+      "categories": [
+        "anime",
+        "goods"
+      ],
+      "works": [
+        "kusuriya"
+      ],
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": true
     },
     {
       "id": "8b25f613abc7",
@@ -4111,7 +4146,7 @@
       "title": "TVアニメ『無職転生III』第2クール2027年放送 津田健次郎録り下ろしボイスの発表映像も",
       "url": "https://realsound.jp/movie/2026/09/post-2536192.html",
       "host": "realsound.jp",
-      "source": "realsound.jp",
+      "source": "Real Sound｜リアルサウンド",
       "summary": "",
       "publishedAt": "2026-09-28T02:10:18.000Z",
       "image": "https://realsound.jp/wp-content/uploads/2026/09/20260928-musyoku-01.jpg",
@@ -4273,7 +4308,7 @@
       "source": "ラノベニュースオンライン",
       "summary": "",
       "publishedAt": "2026-09-27T10:00:00.000Z",
-      "image": "https://assets.ln-news.com/images/medias/13ff98b2611047e6976e383e6a49e930.jpg",
+      "image": "",
       "categories": [
         "anime"
       ],
