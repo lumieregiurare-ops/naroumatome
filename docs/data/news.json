@@ -1,18 +1,18 @@
 {
-  "updatedAt": "2026-10-02T06:30:19.173Z",
+  "updatedAt": "2026-10-02T06:58:36.692Z",
   "site": {
     "title": "なろう系まとめ",
     "tagline": "小説家になろう発の作品のアニメ化・コミカライズ・書籍化のニュースと、なろうのランキングをまとめています。",
     "url": "https://naroumatome.gamelab.website/",
     "contactUrl": "https://docs.google.com/forms/d/e/1FAIpQLSesWyhmZ6sRS_ve-c3X2KqF_wC5PK2TgwgQbTKmnQltSlg5Jw/viewform"
   },
-  "total": 171,
-  "todayCount": 41,
+  "total": 167,
+  "todayCount": 39,
   "categories": [
     {
       "id": "anime",
       "label": "アニメ",
-      "count": 127
+      "count": 124
     },
     {
       "id": "comic",
@@ -32,7 +32,7 @@
     {
       "id": "game",
       "label": "ゲーム",
-      "count": 5
+      "count": 4
     },
     {
       "id": "goods",
@@ -42,7 +42,7 @@
     {
       "id": "other",
       "label": "そのほか",
-      "count": 15
+      "count": 14
     }
   ],
   "works": [
@@ -56,7 +56,7 @@
       "id": "mushoku",
       "title": "無職転生 ～異世界行ったら本気だす～",
       "short": "無職転生",
-      "count": 27
+      "count": 26
     },
     {
       "id": "rezero",
@@ -74,7 +74,7 @@
       "id": "kusuriya",
       "title": "薬屋のひとりごと",
       "short": "薬屋",
-      "count": 38
+      "count": 36
     },
     {
       "id": "kagejitsu",
@@ -296,7 +296,7 @@
   "sources": [
     {
       "name": "Yahoo!ニュース",
-      "count": 21
+      "count": 20
     },
     {
       "name": "ラノベニュースオンライン",
@@ -304,7 +304,7 @@
     },
     {
       "name": "アニメ！アニメ！",
-      "count": 11
+      "count": 10
     },
     {
       "name": "Unisba Media",
@@ -315,15 +315,15 @@
       "count": 8
     },
     {
+      "name": "PR TIMES",
+      "count": 8
+    },
+    {
       "name": "Infoseek",
       "count": 8
     },
     {
       "name": "電撃オンライン",
-      "count": 7
-    },
-    {
-      "name": "PR TIMES",
       "count": 7
     },
     {
@@ -391,7 +391,7 @@
       "count": 2
     },
     {
-      "name": "walkerplus.com",
+      "name": "ウォーカープラス",
       "count": 2
     },
     {
@@ -419,15 +419,11 @@
       "count": 1
     },
     {
-      "name": "vietnam.vn",
+      "name": "Vietnam.vn",
       "count": 1
     },
     {
       "name": "Koubo",
-      "count": 1
-    },
-    {
-      "name": "ABEMA",
       "count": 1
     },
     {
@@ -459,15 +455,7 @@
       "count": 1
     },
     {
-      "name": "はてなブログ",
-      "count": 1
-    },
-    {
       "name": "Appliv Games",
-      "count": 1
-    },
-    {
-      "name": "ファミ通",
       "count": 1
     },
     {
@@ -1021,12 +1009,12 @@
     }
   ],
   "churn": {
-    "previousAt": "2026-10-02T06:00:18.072Z",
-    "previousCount": 169,
-    "newCount": 4
+    "previousAt": "2026-10-02T06:30:19.173Z",
+    "previousCount": 171,
+    "newCount": 0
   },
   "updateGapMin": 30,
-  "nextUpdateAt": "2026-10-02T07:00:19.173Z",
+  "nextUpdateAt": "2026-10-02T07:28:36.692Z",
   "items": [
     {
       "id": "bc9193360f6f",
@@ -1047,7 +1035,7 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "036925343fd3",
@@ -1132,31 +1120,11 @@
       "isNew": false
     },
     {
-      "id": "006e208f14cb",
-      "title": "芦田愛菜主演『薬屋のひとりごと』“イケメン宦官”役にファン注目 原作者も「リアル壬氏」とお墨付き（マグミクス）",
-      "url": "https://news.yahoo.co.jp/articles/c07aa7f5f4b8cba91b35b42d8382f0906b68694d",
-      "host": "news.yahoo.co.jp",
-      "source": "Yahoo!ニュース",
-      "summary": "",
-      "publishedAt": "2026-10-02T04:51:09.000Z",
-      "image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20261001-00378823-magmix-000-24-view.jpg?exp=10800",
-      "categories": [
-        "other"
-      ],
-      "works": [
-        "kusuriya"
-      ],
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": false
-    },
-    {
       "id": "cbe54fa3601f",
       "title": "2026年秋に必見の異世界アニメ7選",
       "url": "https://www.vietnam.vn/ja/7-anime-isekai-dang-xem-trong-mua-thu-2026",
       "host": "vietnam.vn",
-      "source": "vietnam.vn",
+      "source": "Vietnam.vn",
       "summary": "",
       "publishedAt": "2026-10-02T04:36:46.000Z",
       "image": "https://vstatic.vietnam.vn/vietnam/resource/IMAGE/2026/10/02/1790913328090_magic-knight-rayearth-17908451243271786286464-0-0-622-1188-crop-17908457156271930670876.png",
@@ -1313,26 +1281,6 @@
       "isNew": false
     },
     {
-      "id": "8d0b136bf245",
-      "title": "『サイレント・ウィッチ』原作刊行5周年記念！藤実なんな氏描き下ろしB4キャラファイングラフ登場！依空まつり氏＆藤実なんな氏のダブル直筆サイン入り限定版がカドストで抽選販売決定！",
-      "url": "https://prtimes.jp/main/html/rd/p/000020231.000007006.html",
-      "host": "prtimes.jp",
-      "source": "PR TIMES",
-      "summary": "[株式会社KADOKAWA] [画像1: https://prcdn.freetls.fastly.net/release_image/7006/20231/7006-20231-a91815b3b86af0be094e184dcd90e629-1140x640.jpg?width=536&quality=85%2C…",
-      "publishedAt": "2026-10-02T03:40:48.000Z",
-      "image": "https://prcdn.freetls.fastly.net/release_image/7006/20231/7006-20231-a91815b3b86af0be094e184dcd90e629-1140x640.jpg?format=jpeg&auto=webp&fit=bounds&width=2400&height=1260",
-      "categories": [
-        "other"
-      ],
-      "works": [
-        "silent-witch"
-      ],
-      "isPR": true,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": false
-    },
-    {
       "id": "11ff5432d9b8",
       "title": "＜薬屋のひとりごと＞壬氏初の“猫猫”名前呼びに「刺激が強すぎる」とファン悶絶、幽霊の正体も明らかに【第38話】",
       "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPYTdYWU9QalJ3LUhVN0V3cHM5TFo1Q3p1Q0QtLUJaeHhyYS1sN2Ixa1ZCX0JmQTJuX1BSTmpmblFPXzhpSEFmNWNTaEFKYmdKYkZSb2ZxTkhZaGNQNEhuMUtPY0l5Wk5mOVlDS1VwSE1aM1E2LVhwazZLMURRb1B1RHFMY9IBgwFBVV95cUxPYTdYWU9QalJ3LUhVN0V3cHM5TFo1Q3p1Q0QtLUJaeHhyYS1sN2Ixa1ZCX0JmQTJuX1BSTmpmblFPXzhpSEFmNWNTaEFKYmdKYkZSb2ZxTkhZaGNQNEhuMUtPY0l5Wk5mOVlDS1VwSE1aM1E2LVhwazZLMURRb1B1RHFMYw?oc=5",
@@ -1413,6 +1361,26 @@
       "isNew": false
     },
     {
+      "id": "8d0b136bf245",
+      "title": "『サイレント・ウィッチ』原作刊行5周年記念！藤実なんな氏描き下ろしB4キャラファイングラフ登場！依空まつり氏＆藤実なんな氏のダブル直筆サイン入り限定版がカドストで抽選販売決定！",
+      "url": "https://prtimes.jp/main/html/rd/p/000020231.000007006.html",
+      "host": "prtimes.jp",
+      "source": "PR TIMES",
+      "summary": "",
+      "publishedAt": "2026-10-02T03:00:02.000Z",
+      "image": "https://prcdn.freetls.fastly.net/release_image/7006/20231/7006-20231-a91815b3b86af0be094e184dcd90e629-1140x640.jpg?format=jpeg&auto=webp&fit=bounds&width=2400&height=1260",
+      "categories": [
+        "other"
+      ],
+      "works": [
+        "silent-witch"
+      ],
+      "isPR": true,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": false
+    },
+    {
       "id": "2e589af9b117",
       "title": "TVアニメ『薬屋のひとりごと』より、「猫猫」の1/7スケールフィギュアが再販！青いバラを握った物憂げな姿を情景たっぷりに立体化!!",
       "url": "https://hobby.dengeki.com/news/3176787/",
@@ -1458,7 +1426,7 @@
       "title": "【スカッと漫画】「あなたのものはぜーんぶ私のもの！」ゲス女に婚約者を略奪された女性の再起を描いた話題の異世界漫画について作者に話を聞いた",
       "url": "https://www.walkerplus.com/article/1325915/",
       "host": "walkerplus.com",
-      "source": "walkerplus.com",
+      "source": "ウォーカープラス",
       "summary": "",
       "publishedAt": "2026-10-02T02:57:04.000Z",
       "image": "https://news.walkerplus.com/article/1325915/16176126_615.jpg",
@@ -1469,7 +1437,7 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "4da3141c792d",
@@ -1791,24 +1759,6 @@
       "isNew": false
     },
     {
-      "id": "86c279374abe",
-      "title": "異世界・ファンタジーアニメ5チャンネル | 無料で放送中の番組や配信中の話題作が見放題",
-      "url": "https://abema.tv/now-on-air/isekai-anime-5",
-      "host": "abema.tv",
-      "source": "ABEMA",
-      "summary": "",
-      "publishedAt": "2026-10-01T15:00:00.000Z",
-      "image": "",
-      "categories": [
-        "anime"
-      ],
-      "works": [],
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": false
-    },
-    {
       "id": "63a9059fcbdf",
       "title": "「一番くじちょこっと 転生したらスライムだった件」本日より順次発売！（HOBBY Watch）",
       "url": "https://news.yahoo.co.jp/articles/cf26524444756d661edb1fa09582b86224d2de87",
@@ -1944,7 +1894,7 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "d99c9a805d40",
@@ -2409,12 +2359,12 @@
     {
       "id": "60e5b1d432ba",
       "title": "『無職転生』ルディ、あんまり見ないで下さい…。ロキシーの新作フィギュアはルーデウスと結ばれたシーンの寝間着姿",
-      "url": "https://dengekionline.com/article/images/202610/89659/888304",
+      "url": "https://dengekionline.com/article/images/202610/89659/888301",
       "host": "dengekionline.com",
       "source": "電撃オンライン",
       "summary": "",
       "publishedAt": "2026-10-01T04:07:00.000Z",
-      "image": "https://cimg.kgl-systems.io/camion/files/dengeki/89659/ad0096ec6c83575373e3a21d129ff8fef.jpg?x=1280",
+      "image": "https://cimg.kgl-systems.io/camion/files/dengeki/89659/af3ccdd27d2000e3f9255a7e3e2c48800.jpg?x=1280",
       "categories": [
         "goods"
       ],
@@ -2822,26 +2772,6 @@
       "isNew": false
     },
     {
-      "id": "b8f8227e16db",
-      "title": "無職転生3期第2クールはいつから？2027年の放送時期と原作範囲",
-      "url": "https://anisaki.hatenadiary.com/entry/mushoku-tensei-season3-cour2",
-      "host": "anisaki.hatenadiary.com",
-      "source": "はてなブログ",
-      "summary": "",
-      "publishedAt": "2026-09-30T16:35:53.000Z",
-      "image": "https://ogimage.blog.st-hatena.com/17179246901325532692/14945776032084459932/1790785864",
-      "categories": [
-        "anime"
-      ],
-      "works": [
-        "mushoku"
-      ],
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": false
-    },
-    {
       "id": "d6726594db56",
       "title": "【アニメ異世界】最強の魔獣と仲間になった俺、万能スキルで異世界をのんびり満喫します！【アニメ異世界】 Viareggio (ddK9mDR5xM)",
       "url": "https://media.unisba.ac.id/3ba26c45/ead67570CjceCgpnH1cwMhE",
@@ -3058,26 +2988,6 @@
       "isNew": false
     },
     {
-      "id": "28a0607c27ed",
-      "title": "『リゼロ』4th season エピローグビジュアル公開｜小林裕介、水瀬いのりよりコメント到着",
-      "url": "https://www.animatetimes.com/news/details.php?id",
-      "host": "animatetimes.com",
-      "source": "アニメイトタイムズ",
-      "summary": "",
-      "publishedAt": "2026-09-30T14:45:00.000Z",
-      "image": "https://www.animatetimes.com/img/ogimage.png",
-      "categories": [
-        "other"
-      ],
-      "works": [
-        "rezero"
-      ],
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": false
-    },
-    {
       "id": "24bacb754a55",
       "title": "＜リゼロ＞「レム、会いたかった」 スバルを見つめるレム テレビアニメ第4期エピローグビジュアル 水瀬いのり「やっと会えました」",
       "url": "https://news.yahoo.co.jp/articles/c30b52e9ddade7be69391debaa179151ca1d4acc",
@@ -3088,6 +2998,26 @@
       "image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260930-00000080-mantan-000-1-view.jpg?exp=10800",
       "categories": [
         "anime"
+      ],
+      "works": [
+        "rezero"
+      ],
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": false
+    },
+    {
+      "id": "28a0607c27ed",
+      "title": "『リゼロ』4th season エピローグビジュアル公開｜小林裕介、水瀬いのりよりコメント到着",
+      "url": "https://www.animatetimes.com/news/details.php?id",
+      "host": "animatetimes.com",
+      "source": "アニメイトタイムズ",
+      "summary": "",
+      "publishedAt": "2026-09-30T14:45:00.000Z",
+      "image": "https://www.animatetimes.com/img/ogimage.png",
+      "categories": [
+        "other"
       ],
       "works": [
         "rezero"
@@ -3259,27 +3189,6 @@
       "isNew": false
     },
     {
-      "id": "6c0606627528",
-      "title": "【2026年10月】秋アニメまとめ一覧。『幻想水滸伝』『エッジランナーズ2』などゲーム原作の大本命登場。『レイアース』『PSYREN』『チート付与』、劇場版控える『薬屋のひとりごと』第3 期も (1/7)",
-      "url": "https://www.famitsu.com/article/202609/89441",
-      "host": "famitsu.com",
-      "source": "ファミ通",
-      "summary": "",
-      "publishedAt": "2026-09-30T10:30:00.000Z",
-      "image": "https://cimg.kgl-systems.io/camion/files/89441/thumbnail_Zywn.jpg?x=1280",
-      "categories": [
-        "anime",
-        "game"
-      ],
-      "works": [
-        "kusuriya"
-      ],
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": false
-    },
-    {
       "id": "cce88664defe",
       "title": "フルーツ王国の参加賞はマスカット色のTシャツ！ 11月8日「おかやまマラソン2026」 転スラ声優・岡咲さんらのライブも",
       "url": "http://www.excite.co.jp/news/article/ksb_1477970593807663110/",
@@ -3355,25 +3264,6 @@
       "works": [
         "tensura"
       ],
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": false
-    },
-    {
-      "id": "393c8e4d7b29",
-      "title": "【新連載】話題映画のコミカライズ、追放系異世界スキルファンタジー、インモラルサスペンス、一挙３作品が9月から順次「マンガBANG」にて配信開始！",
-      "url": "https://animeanime.jp/release/prtimes/20260930/316442.html",
-      "host": "animeanime.jp",
-      "source": "アニメ！アニメ！",
-      "summary": "",
-      "publishedAt": "2026-09-30T09:16:48.000Z",
-      "image": "https://animeanime.jp/release/imgs/list/558325.jpg",
-      "categories": [
-        "comic",
-        "anime"
-      ],
-      "works": [],
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
@@ -3548,6 +3438,25 @@
         "tensura"
       ],
       "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": false
+    },
+    {
+      "id": "393c8e4d7b29",
+      "title": "【新連載】話題映画のコミカライズ、追放系異世界スキルファンタジー、インモラルサスペンス、一挙３作品が9月から順次「マンガBANG」にて配信開始！",
+      "url": "https://prtimes.jp/main/html/rd/p/000000053.000009539.html",
+      "host": "prtimes.jp",
+      "source": "PR TIMES",
+      "summary": "",
+      "publishedAt": "2026-09-30T06:30:01.000Z",
+      "image": "https://prcdn.freetls.fastly.net/release_image/9539/53/9539-53-4fccbac22ad1a05324831d715b175e5d-602x856.jpg?format=jpeg&auto=webp&fit=bounds&width=2400&height=1260",
+      "categories": [
+        "comic",
+        "anime"
+      ],
+      "works": [],
+      "isPR": true,
       "viaGoogle": false,
       "sourceKind": "news",
       "isNew": false
@@ -4141,7 +4050,7 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "3bd35a26524f",
@@ -4325,12 +4234,12 @@
     {
       "id": "f6f5b132f70c",
       "title": "KADOKAWAグループ作品6万点以上に使える最大60％OFFクーポン配布！「陰の実力者」「聖剣学院の魔剣使い」など秋アニメ作品もお得に",
-      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE94Nmc4QkpwZlhsczBZYlNQaVVmdzFpNHZocEZ1SFJSRDRoeWNjNXBHOW54d01XMHRoem1KMFNKa2g4RGJCdTNvRkR4ZVNyQzhweVNWVzVn0gFbQVVfeXFMT0VnVVhISDFabC1OMk5oUnNGbnFfVWsyUXZKeDY2cHBlX042NU9nTUJUbUpnN2N2a3hHNFVfeV9jM19rTVFZdmkzMVpvSmhCcVFSblUzcE9SSlpWQQ?oc=5",
+      "url": "https://www.walkerplus.com/article/1163318/",
       "host": "walkerplus.com",
-      "source": "walkerplus.com",
+      "source": "ウォーカープラス",
       "summary": "",
       "publishedAt": "2026-09-29T07:47:31.000Z",
-      "image": "",
+      "image": "https://news.walkerplus.com/article/1163318/12301909_615.jpg",
       "categories": [
         "anime"
       ],
@@ -4338,14 +4247,14 @@
         "kagejitsu"
       ],
       "isPR": false,
-      "viaGoogle": true,
+      "viaGoogle": false,
       "sourceKind": "news",
       "isNew": false
     },
     {
       "id": "8b25f613abc7",
       "title": "非道がまかり通る異世界を稀代の詐欺師が手玉に取る「天才詐欺師の異世界世直し」1巻",
-      "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE1ER1NyMWpNWE41U0VLVEZGX2IzZEFUcVhoUGZnM3VLSmFWQjdFOEFnby03OVozaWp0TjhmeGlBYWI3V21fSXdGbHJtMGM?oc=5",
+      "url": "https://natalie.mu/comic/news/691495",
       "host": "natalie.mu",
       "source": "natalie.mu",
       "summary": "",
@@ -4356,32 +4265,32 @@
       ],
       "works": [],
       "isPR": false,
-      "viaGoogle": true,
+      "viaGoogle": false,
       "sourceKind": "news",
       "isNew": false
     },
     {
       "id": "b67bee3f94b6",
       "title": "【闘病】27歳で乳がん告知。「一緒におばあちゃんになろうね」の言葉に救われた1年半",
-      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5FRjUwM045b2ZvSTgwSFZLRDVxVHV2UFU2ZW5EaTlSTWNpTXQ3eUNMYzloU1NNMGh4SXdTay1NWk5XTmdfWEFqMVU1ckpRbW9aSzlkY05hX25sSTdSVGtmaFJIdw?oc=5",
+      "url": "https://medicaldoc.jp/m/my-experience/ta-202608e0038/",
       "host": "medicaldoc.jp",
       "source": "メディカルドック",
       "summary": "",
       "publishedAt": "2026-09-29T07:00:00.000Z",
-      "image": "",
+      "image": "https://media.medicaldoc.jp/wp-content/uploads/2026/08/979074890928b9501824813b22761528.png",
       "categories": [
         "web"
       ],
       "works": [],
       "isPR": false,
-      "viaGoogle": true,
+      "viaGoogle": false,
       "sourceKind": "news",
       "isNew": false
     },
     {
       "id": "e2d05471eb8c",
       "title": "5ページ目 転生したらスライムだった件 第4期｜アニメキャスト・感想レビュー・2026春・2027夏アニメ最新情報一覧",
-      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9FN3VCTnFLUl9rY0dHX1pueVRja2oyQjM4UDFFbzdSY1BUVHdydlg4Q2hleDZqd0pHUUJpTUpqc1NnVHd1TGRFekRmOF9fV3ZMVUdod2Itbk1zbEtLX3RCN1JtZThUT210?oc=5",
+      "url": "https://www.animatetimes.com/tag/details.php?id",
       "host": "animatetimes.com",
       "source": "アニメイトタイムズ",
       "summary": "",
@@ -4394,7 +4303,7 @@
         "tensura"
       ],
       "isPR": false,
-      "viaGoogle": true,
+      "viaGoogle": false,
       "sourceKind": "news",
       "isNew": false
     },
