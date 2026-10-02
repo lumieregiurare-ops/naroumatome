@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-02T22:00:19.592Z",
+  "updatedAt": "2026-10-02T22:30:19.469Z",
   "site": {
     "title": "なろう系まとめ",
     "tagline": "小説家になろう発の作品のアニメ化・コミカライズ・書籍化のニュースと、なろうのランキングをまとめています。",
@@ -7,7 +7,7 @@
     "contactUrl": "https://docs.google.com/forms/d/e/1FAIpQLSesWyhmZ6sRS_ve-c3X2KqF_wC5PK2TgwgQbTKmnQltSlg5Jw/viewform"
   },
   "total": 176,
-  "todayCount": 16,
+  "todayCount": 17,
   "categories": [
     {
       "id": "anime",
@@ -62,7 +62,7 @@
       "id": "rezero",
       "title": "Re:ゼロから始める異世界生活",
       "short": "リゼロ",
-      "count": 32
+      "count": 31
     },
     {
       "id": "honzuki",
@@ -296,7 +296,7 @@
   "sources": [
     {
       "name": "Yahoo!ニュース",
-      "count": 19
+      "count": 18
     },
     {
       "name": "アニメ！アニメ！",
@@ -307,7 +307,7 @@
       "count": 11
     },
     {
-      "name": "ニコニコニュース",
+      "name": "news.nicovideo.jp",
       "count": 10
     },
     {
@@ -315,15 +315,15 @@
       "count": 9
     },
     {
-      "name": "PR TIMES",
-      "count": 8
+      "name": "prtimes.jp",
+      "count": 7
     },
     {
       "name": "キャラグー",
       "count": 7
     },
     {
-      "name": "電撃オンライン",
+      "name": "dengekionline.com",
       "count": 6
     },
     {
@@ -383,6 +383,10 @@
       "count": 3
     },
     {
+      "name": "0115765.com",
+      "count": 2
+    },
+    {
       "name": "TVer",
       "count": 2
     },
@@ -401,6 +405,10 @@
     {
       "name": "PASH! PLUS",
       "count": 2
+    },
+    {
+      "name": "PR TIMES",
+      "count": 1
     },
     {
       "name": "x.com",
@@ -443,7 +451,7 @@
       "count": 1
     },
     {
-      "name": "ドリームニュース",
+      "name": "dreamnews.jp",
       "count": 1
     },
     {
@@ -500,10 +508,6 @@
     },
     {
       "name": "coamix.co.jp",
-      "count": 1
-    },
-    {
-      "name": "オタク総研",
       "count": 1
     }
   ],
@@ -592,7 +596,7 @@
       "summary": "",
       "url": "https://news.nicovideo.jp/watch/nw19831343",
       "image": "https://media.eiga.com/images/anime/news/127571/photo/38f65e15cf0c227b/640.jpg",
-      "leadSource": "ニコニコニュース",
+      "leadSource": "news.nicovideo.jp",
       "publishedAt": "2026-10-01T11:54:09.000Z",
       "sourceCount": 7,
       "articleCount": 8,
@@ -616,7 +620,7 @@
         {
           "title": "アニメ『リゼロ』「――レム、会いたかった」4期最終回を記念したエピローグビジュアルが公開。小林裕介、水瀬いのりからコメントも到着",
           "url": "https://dengekionline.com/article/202609/89622",
-          "source": "電撃オンライン",
+          "source": "dengekionline.com",
           "publishedAt": "2026-09-30T14:51:00.000Z",
           "isPR": false
         },
@@ -653,6 +657,70 @@
           "url": "https://www.animatetimes.com/news/details.php?id",
           "source": "アニメイトタイムズ",
           "publishedAt": "2026-09-30T14:45:00.000Z",
+          "isPR": false
+        }
+      ]
+    },
+    {
+      "id": "857ffedc57d2",
+      "title": "『無職転生Ⅲ』第1クール終了を記念して、10/3よりABEMAで第3期全14話が初の全話無料配信",
+      "summary": "",
+      "url": "https://dengekionline.com/article/202610/89847",
+      "image": "https://cimg.kgl-systems.io/camion/files/89847/ogp_DuNJ.jpg?x=1280",
+      "leadSource": "dengekionline.com",
+      "publishedAt": "2026-10-02T21:40:02.000Z",
+      "sourceCount": 7,
+      "articleCount": 7,
+      "categories": [
+        "anime",
+        "goods"
+      ],
+      "keywords": [
+        "無職転生",
+        "abema",
+        "クール"
+      ],
+      "articles": [
+        {
+          "title": "TVアニメ『無職転生III ～異世界行ったら本気だす～』第1クール終了記念！ABEMAで10月3日（土）に第3期初の全話無料一挙放送が決定",
+          "url": "https://prtimes.jp/main/html/rd/p/000004057.000064643.html",
+          "source": "PR TIMES",
+          "publishedAt": "2026-10-02T21:40:02.000Z",
+          "isPR": true
+        },
+        {
+          "title": "アニメ『無職転生III』第1クール完結！10月3日（土）に全14話の振り返り一挙放送が決定（ABEMA TIMES）",
+          "url": "https://news.yahoo.co.jp/articles/9ba43ff46f33b79bc92ac03bcee548f24c1ad085",
+          "source": "Yahoo!ニュース",
+          "publishedAt": "2026-10-02T09:15:33.000Z",
+          "isPR": false
+        },
+        {
+          "title": "アニメ『無職転生』第3期第1クールの全話無料一挙放送がABEMAにて実施決定。エリスの成長やルーデウスを待ち受ける新た",
+          "url": "https://news.nicovideo.jp/watch/nw19836055?news_ref",
+          "source": "news.nicovideo.jp",
+          "publishedAt": "2026-10-02T07:51:15.000Z",
+          "isPR": false
+        },
+        {
+          "title": "『ドラゴンポーカー』×TVアニメ『無職転生 ～異世界行ったら本気だす～』10月2日(金)よりコラボ開催！",
+          "url": "https://www.dreamnews.jp/press/0000364224",
+          "source": "dreamnews.jp",
+          "publishedAt": "2026-10-02T04:00:00.000Z",
+          "isPR": false
+        },
+        {
+          "title": "「ドラゴンポーカー」でアニメ「無職転生～異世界行ったら本気だす～」とのコラボイベントが開催！新規収録したコラボ限定役ボイスも追加",
+          "url": "https://www.gamer.ne.jp/news/202610020018/",
+          "source": "Gamer",
+          "publishedAt": "2026-10-02T03:53:00.000Z",
+          "isPR": false
+        },
+        {
+          "title": "TVアニメ『無職転生Ⅲ ～異世界行ったら本気だす～』第1クール終了記念！ABEMAで10月3日（土）に第3期初の全話無料一挙放送が決定",
+          "url": "https://prtimes.jp/main/html/rd/p/000004057.000064643.html",
+          "source": "prtimes.jp",
+          "publishedAt": "2026-10-02T03:30:01.000Z",
           "isPR": false
         }
       ]
@@ -729,70 +797,6 @@
       ]
     },
     {
-      "id": "857ffedc57d2",
-      "title": "『無職転生Ⅲ』第1クール終了を記念して、10/3よりABEMAで第3期全14話が初の全話無料配信",
-      "summary": "",
-      "url": "https://dengekionline.com/article/202610/89847",
-      "image": "https://cimg.kgl-systems.io/camion/files/89847/ogp_DuNJ.jpg?x=1280",
-      "leadSource": "電撃オンライン",
-      "publishedAt": "2026-10-02T21:40:02.000Z",
-      "sourceCount": 6,
-      "articleCount": 7,
-      "categories": [
-        "anime",
-        "goods"
-      ],
-      "keywords": [
-        "無職転生",
-        "abema",
-        "クール"
-      ],
-      "articles": [
-        {
-          "title": "TVアニメ『無職転生III ～異世界行ったら本気だす～』第1クール終了記念！ABEMAで10月3日（土）に第3期初の全話無料一挙放送が決定",
-          "url": "https://prtimes.jp/main/html/rd/p/000004057.000064643.html",
-          "source": "PR TIMES",
-          "publishedAt": "2026-10-02T21:40:02.000Z",
-          "isPR": true
-        },
-        {
-          "title": "アニメ『無職転生III』第1クール完結！10月3日（土）に全14話の振り返り一挙放送が決定（ABEMA TIMES）",
-          "url": "https://news.yahoo.co.jp/articles/9ba43ff46f33b79bc92ac03bcee548f24c1ad085",
-          "source": "Yahoo!ニュース",
-          "publishedAt": "2026-10-02T09:15:33.000Z",
-          "isPR": false
-        },
-        {
-          "title": "アニメ『無職転生』第3期第1クールの全話無料一挙放送がABEMAにて実施決定。エリスの成長やルーデウスを待ち受ける新た",
-          "url": "https://news.nicovideo.jp/watch/nw19836055?news_ref",
-          "source": "ニコニコニュース",
-          "publishedAt": "2026-10-02T07:51:15.000Z",
-          "isPR": false
-        },
-        {
-          "title": "『ドラゴンポーカー』×TVアニメ『無職転生 ～異世界行ったら本気だす～』10月2日(金)よりコラボ開催！",
-          "url": "https://www.dreamnews.jp/press/0000364224",
-          "source": "ドリームニュース",
-          "publishedAt": "2026-10-02T04:00:00.000Z",
-          "isPR": false
-        },
-        {
-          "title": "「ドラゴンポーカー」でアニメ「無職転生～異世界行ったら本気だす～」とのコラボイベントが開催！新規収録したコラボ限定役ボイスも追加",
-          "url": "https://www.gamer.ne.jp/news/202610020018/",
-          "source": "Gamer",
-          "publishedAt": "2026-10-02T03:53:00.000Z",
-          "isPR": false
-        },
-        {
-          "title": "TVアニメ『無職転生Ⅲ ～異世界行ったら本気だす～』第1クール終了記念！ABEMAで10月3日（土）に第3期初の全話無料一挙放送が決定",
-          "url": "https://prtimes.jp/main/html/rd/p/000004057.000064643.html",
-          "source": "PR TIMES",
-          "publishedAt": "2026-10-02T03:30:01.000Z",
-          "isPR": true
-        }
-      ]
-    },
-    {
       "id": "2373c0692c7f",
       "title": "『転スラ』リムル様、大忙し！ラミリスから緊急連絡 尊いミリムの表情…第84話あらすじ＆場面カット解禁",
       "summary": "",
@@ -845,48 +849,6 @@
           "url": "https://appmedia.jp/ten-sura-m/27053896",
           "source": "AppMedia",
           "publishedAt": "2026-09-30T07:00:00.000Z",
-          "isPR": false
-        }
-      ]
-    },
-    {
-      "id": "930d7c63d819",
-      "title": "「シャウラ役がファイルーズあいさんで本当に良かった！」「40分間で２回泣かされた……」45分拡大版でもまだ足りない！5期への期待感が高まった『リゼロ』4期最終回の結末は!?【ネタバレあり反応まとめ】",
-      "summary": "TVアニメ『Re:ゼロから始める異世界生活』4th season第85話「シャウラ／英雄」。“終わり”は“新たなる始まり”への第一歩でした。",
-      "url": "https://animeanime.jp/article/2026/10/01/103420.html",
-      "image": "https://animeanime.jp/imgs/rss/937758.jpg",
-      "leadSource": "アニメ！アニメ！",
-      "publishedAt": "2026-10-01T10:30:03.000Z",
-      "sourceCount": 3,
-      "articleCount": 4,
-      "categories": [
-        "anime"
-      ],
-      "keywords": [
-        "リゼロ",
-        "最終回",
-        "シャウラ"
-      ],
-      "articles": [
-        {
-          "title": "【リゼロ4期】黒いモノリスと6つの手形を発見したエミリアに対し、意識を取り戻したボルカニカは…!? アニメ『Re:ゼロから始める異世界生活』4th season最終回(第85話)「シャウラ/英雄」あらすじ＆先行カット",
-          "url": "https://www.pashplus.jp/anime/497178/",
-          "source": "PASH! PLUS",
-          "publishedAt": "2026-09-30T03:36:05.000Z",
-          "isPR": false
-        },
-        {
-          "title": "リゼロ＞第4期最終回「シャウラ／英雄」 45分拡大SP 監視塔攻略の最終局面 旅の全ての力を結集！（MANTANWEB）",
-          "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBKZUxYMHFlTEs1Q1BXTWZ0dnFSa0QtcFpfcHNyTURBaEtyR3JBMV9xUkVaWWhfeGRMMmEyUFhPY2YyYk5RNW42cGJXOGh1ZFdqdlNKdlVhRzMtMk5kTk5tdWNwTjZTNTJOdF95MDhNZTRsQ05uak52REJzc3F3cVk?oc=5",
-          "source": "Yahoo!ニュース",
-          "publishedAt": "2026-09-30T03:13:00.000Z",
-          "isPR": false
-        },
-        {
-          "title": "『リゼロ』2クールにわたる第4期の最終回は“45分拡大”で放送！奪還編ラストをお見逃しなく【先行カット】（オタク総研）",
-          "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1mVVllTlppZk5uakkzcDQ3UGtRRnQ0MHdiODk0TFdNOHVNR05hUGhtNnlHY1pKNENkcHRHdDVtN0U5T09TRDZZZktlMDVqaHV0Wnc1aW56S0p2eDM4N1NBTEl6LWtBckxDdXYtM1Z6R1lLWDlicjJDaHJoVEZyb1k?oc=5",
-          "source": "Yahoo!ニュース",
-          "publishedAt": "2026-09-29T22:12:00.000Z",
           "isPR": false
         }
       ]
@@ -963,12 +925,47 @@
       ]
     },
     {
+      "id": "930d7c63d819",
+      "title": "「シャウラ役がファイルーズあいさんで本当に良かった！」「40分間で２回泣かされた……」45分拡大版でもまだ足りない！5期への期待感が高まった『リゼロ』4期最終回の結末は!?【ネタバレあり反応まとめ】",
+      "summary": "TVアニメ『Re:ゼロから始める異世界生活』4th season第85話「シャウラ／英雄」。“終わり”は“新たなる始まり”への第一歩でした。",
+      "url": "https://animeanime.jp/article/2026/10/01/103420.html",
+      "image": "https://animeanime.jp/imgs/rss/937758.jpg",
+      "leadSource": "アニメ！アニメ！",
+      "publishedAt": "2026-10-01T10:30:03.000Z",
+      "sourceCount": 3,
+      "articleCount": 3,
+      "categories": [
+        "anime"
+      ],
+      "keywords": [
+        "リゼロ",
+        "シャウラ",
+        "最終回"
+      ],
+      "articles": [
+        {
+          "title": "【リゼロ4期】黒いモノリスと6つの手形を発見したエミリアに対し、意識を取り戻したボルカニカは…!? アニメ『Re:ゼロから始める異世界生活』4th season最終回(第85話)「シャウラ/英雄」あらすじ＆先行カット",
+          "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE1reWtPREdUMXBjNnU5MHRxQTVGdk1uci1Jd014OU93S0NsY1IwT254MEhMd1JRRW9meENDM0MxV0NfRmk2d3Q1WlJHVGU3UQ?oc=5",
+          "source": "PASH! PLUS",
+          "publishedAt": "2026-09-30T03:36:05.000Z",
+          "isPR": false
+        },
+        {
+          "title": "リゼロ＞第4期最終回「シャウラ／英雄」 45分拡大SP 監視塔攻略の最終局面 旅の全ての力を結集！（MANTANWEB）",
+          "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBKZUxYMHFlTEs1Q1BXTWZ0dnFSa0QtcFpfcHNyTURBaEtyR3JBMV9xUkVaWWhfeGRMMmEyUFhPY2YyYk5RNW42cGJXOGh1ZFdqdlNKdlVhRzMtMk5kTk5tdWNwTjZTNTJOdF95MDhNZTRsQ05uak52REJzc3F3cVk?oc=5",
+          "source": "Yahoo!ニュース",
+          "publishedAt": "2026-09-30T03:13:00.000Z",
+          "isPR": false
+        }
+      ]
+    },
+    {
       "id": "5c90b81bdbc6",
       "title": "本日発売】ヒーローコミックス初の単行本が本日9月30日（水）発売！『小さな魔女と野良犬騎士』、『康太の異世界ごはん",
       "summary": "",
       "url": "https://news.nicovideo.jp/watch/nw19826217",
       "image": "",
-      "leadSource": "ニコニコニュース",
+      "leadSource": "news.nicovideo.jp",
       "publishedAt": "2026-09-30T16:00:23.000Z",
       "sourceCount": 3,
       "articleCount": 3,
@@ -1113,13 +1110,31 @@
     }
   ],
   "churn": {
-    "previousAt": "2026-10-02T21:30:19.673Z",
-    "previousCount": 173,
-    "newCount": 5
+    "previousAt": "2026-10-02T22:00:19.592Z",
+    "previousCount": 176,
+    "newCount": 1
   },
   "updateGapMin": 30,
-  "nextUpdateAt": "2026-10-02T22:30:19.592Z",
+  "nextUpdateAt": "2026-10-02T23:00:19.469Z",
   "items": [
+    {
+      "id": "1063f4fee60b",
+      "title": "【秋アニメ】今期は「リボ払い」と「異世界」が融合!?異色すぎる新作がテレ朝系全国ネットで始まる【先行カット】",
+      "url": "https://0115765.com/archives/207934",
+      "host": "0115765.com",
+      "source": "0115765.com",
+      "summary": "",
+      "publishedAt": "2026-10-02T22:10:52.000Z",
+      "image": "https://0115765.com/wp-content/uploads/2026/10/20261002-h5ow2efc-1024x576.jpg",
+      "categories": [
+        "anime"
+      ],
+      "works": [],
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": true
+    },
     {
       "id": "5a1204fe8410",
       "title": "TVアニメ『無職転生III ～異世界行ったら本気だす～』第1クール終了記念！ABEMAで10月3日（土）に第3期初の全話無料一挙放送が決定",
@@ -1138,7 +1153,7 @@
       "isPR": true,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "584c7d54d889",
@@ -1238,7 +1253,7 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "cfaf78bce62f",
@@ -1541,7 +1556,7 @@
       "title": "『無職転生Ⅲ』第1クール終了を記念して、10/3よりABEMAで第3期全14話が初の全話無料配信",
       "url": "https://dengekionline.com/article/202610/89847",
       "host": "dengekionline.com",
-      "source": "電撃オンライン",
+      "source": "dengekionline.com",
       "summary": "",
       "publishedAt": "2026-10-02T10:40:00.000Z",
       "image": "https://cimg.kgl-systems.io/camion/files/89847/ogp_DuNJ.jpg?x=1280",
@@ -1942,7 +1957,7 @@
       "title": "アニメ『無職転生』第3期第1クールの全話無料一挙放送がABEMAにて実施決定。エリスの成長やルーデウスを待ち受ける新た",
       "url": "https://news.nicovideo.jp/watch/nw19836055?news_ref",
       "host": "news.nicovideo.jp",
-      "source": "ニコニコニュース",
+      "source": "news.nicovideo.jp",
       "summary": "",
       "publishedAt": "2026-10-02T07:51:15.000Z",
       "image": "",
@@ -2038,7 +2053,7 @@
       "title": "『無職転生Ⅲ』第2クール続報や人気投票、『いちご100％』北大路さつきのCuteなフィギュアなど【今週の注目記事7選】",
       "url": "https://dengekionline.com/article/202610/89790",
       "host": "dengekionline.com",
-      "source": "電撃オンライン",
+      "source": "dengekionline.com",
       "summary": "",
       "publishedAt": "2026-10-02T06:00:00.000Z",
       "image": "https://cimg.kgl-systems.io/camion/files/89790/ogp_VDDK.png?x=1280",
@@ -2059,7 +2074,7 @@
       "title": "劇場版『薬屋のひとりごと』コラボスクラッチくじが10/7発売！ このドキドキは夢のある最高のお薬!?",
       "url": "https://dengekionline.com/article/202610/89786",
       "host": "dengekionline.com",
-      "source": "電撃オンライン",
+      "source": "dengekionline.com",
       "summary": "",
       "publishedAt": "2026-10-02T05:55:00.000Z",
       "image": "https://cimg.kgl-systems.io/camion/files/89786/ogp_QiTo.jpg?x=1280",
@@ -2118,7 +2133,7 @@
       "title": "TVアニメ『薬屋のひとりごと』 × 茨城県、コラボスタンプラリー第2弾『IBARAKI is Blossoming 続 薬屋の巡遊録』開催！",
       "url": "https://prtimes.jp/main/html/rd/p/000000018.000165784.html",
       "host": "prtimes.jp",
-      "source": "PR TIMES",
+      "source": "prtimes.jp",
       "summary": "",
       "publishedAt": "2026-10-02T04:00:02.000Z",
       "image": "https://prcdn.freetls.fastly.net/release_image/165784/18/165784-18-9165e4f55f0441a7d38319cd9af68084-1920x1080.png?format=jpeg&auto=webp&fit=bounds&width=2400&height=1260",
@@ -2129,7 +2144,7 @@
       "works": [
         "kusuriya"
       ],
-      "isPR": true,
+      "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
       "isNew": false
@@ -2157,10 +2172,10 @@
       "title": "『ドラゴンポーカー』×TVアニメ『無職転生 ～異世界行ったら本気だす～』10月2日(金)よりコラボ開催！",
       "url": "https://www.dreamnews.jp/press/0000364224",
       "host": "dreamnews.jp",
-      "source": "ドリームニュース",
+      "source": "dreamnews.jp",
       "summary": "",
       "publishedAt": "2026-10-02T04:00:00.000Z",
-      "image": "https://www.dreamnews.jp/press/0000364224/images/bodyimage1",
+      "image": "",
       "categories": [
         "anime",
         "goods"
@@ -2231,14 +2246,14 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "ded9fcc42afb",
       "title": "TVアニメ『無職転生Ⅲ ～異世界行ったら本気だす～』第1クール終了記念！ABEMAで10月3日（土）に第3期初の全話無料一挙放送が決定",
       "url": "https://prtimes.jp/main/html/rd/p/000004057.000064643.html",
       "host": "prtimes.jp",
-      "source": "PR TIMES",
+      "source": "prtimes.jp",
       "summary": "",
       "publishedAt": "2026-10-02T03:30:01.000Z",
       "image": "https://prcdn.freetls.fastly.net/release_image/64643/4057/64643-4057-eb6820994bb5249397f6f76247f2026a-1648x928.jpg?format=jpeg&auto=webp&fit=bounds&width=2400&height=1260",
@@ -2248,7 +2263,7 @@
       "works": [
         "mushoku"
       ],
-      "isPR": true,
+      "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
       "isNew": false
@@ -2298,7 +2313,7 @@
       "title": "『サイレント・ウィッチ』原作刊行5周年記念！藤実なんな氏描き下ろしB4キャラファイングラフ登場！依空まつり氏＆藤実なんな氏のダブル直筆サイン入り限定版がカドストで抽選販売決定！",
       "url": "https://prtimes.jp/main/html/rd/p/000020231.000007006.html",
       "host": "prtimes.jp",
-      "source": "PR TIMES",
+      "source": "prtimes.jp",
       "summary": "",
       "publishedAt": "2026-10-02T03:00:02.000Z",
       "image": "https://prcdn.freetls.fastly.net/release_image/7006/20231/7006-20231-a91815b3b86af0be094e184dcd90e629-1140x640.jpg?format=jpeg&auto=webp&fit=bounds&width=2400&height=1260",
@@ -2308,7 +2323,7 @@
       "works": [
         "silent-witch"
       ],
-      "isPR": true,
+      "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
       "isNew": false
@@ -2594,7 +2609,7 @@
       "title": "TVアニメ『陰の実力者になりたくて！』オンラインくじが再販決定！",
       "url": "https://news.nicovideo.jp/watch/nw19833255",
       "host": "news.nicovideo.jp",
-      "source": "ニコニコニュース",
+      "source": "news.nicovideo.jp",
       "summary": "",
       "publishedAt": "2026-10-01T22:00:30.000Z",
       "image": "",
@@ -2628,7 +2643,7 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "36eed87c5eb2",
@@ -2735,7 +2750,7 @@
       "title": "「無職転生lll」第2クール、27年に放送 津田健次郎が演じるオルステッドの新録ボイスを収録した映像披露",
       "url": "https://news.nicovideo.jp/watch/nw19831616",
       "host": "news.nicovideo.jp",
-      "source": "ニコニコニュース",
+      "source": "news.nicovideo.jp",
       "summary": "",
       "publishedAt": "2026-10-01T13:00:32.000Z",
       "image": "",
@@ -2755,7 +2770,7 @@
       "title": "Re:ゼロ＞《奪還編》最終話放送記念エピローグビジュアル公開 小林裕介＆水瀬いのりからコメント到着",
       "url": "https://news.nicovideo.jp/watch/nw19831343",
       "host": "news.nicovideo.jp",
-      "source": "ニコニコニュース",
+      "source": "news.nicovideo.jp",
       "summary": "",
       "publishedAt": "2026-10-01T11:54:09.000Z",
       "image": "",
@@ -2855,7 +2870,7 @@
       "title": "「リゼロに出会えたことに感謝」とファンからの声殺到！『Re:ゼロから始める異世界生活』season4完結記念の集合絵公開",
       "url": "https://news.nicovideo.jp/watch/nw19830704",
       "host": "news.nicovideo.jp",
-      "source": "ニコニコニュース",
+      "source": "news.nicovideo.jp",
       "summary": "",
       "publishedAt": "2026-10-01T09:45:17.000Z",
       "image": "",
@@ -3016,7 +3031,7 @@
       "title": "新連載＞『幽閉された王女ですが、生きのびるために努力していたら強くなりすぎてました～レベリング好きゲーマーの異世界無",
       "url": "https://news.nicovideo.jp/watch/nw19837448?news_ref",
       "host": "news.nicovideo.jp",
-      "source": "ニコニコニュース",
+      "source": "news.nicovideo.jp",
       "summary": "",
       "publishedAt": "2026-10-01T09:00:00.000Z",
       "image": "",
@@ -3027,7 +3042,7 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "c48747ae1252",
@@ -3214,7 +3229,7 @@
       "title": "『無職転生』ルディ、あんまり見ないで下さい…。ロキシーの新作フィギュアはルーデウスと結ばれたシーンの寝間着姿",
       "url": "https://dengekionline.com/article/images/202610/89659/888301",
       "host": "dengekionline.com",
-      "source": "電撃オンライン",
+      "source": "dengekionline.com",
       "summary": "",
       "publishedAt": "2026-10-01T04:07:00.000Z",
       "image": "https://cimg.kgl-systems.io/camion/files/dengeki/89659/af3ccdd27d2000e3f9255a7e3e2c48800.jpg?x=1280",
@@ -3274,7 +3289,7 @@
       "title": "【2026年10月】秋アニメまとめ『薬屋のひとりごと 第3期』『アオアシ Season2』『らんま1/2",
       "url": "https://news.nicovideo.jp/watch/nw19828672?news_ref",
       "host": "news.nicovideo.jp",
-      "source": "ニコニコニュース",
+      "source": "news.nicovideo.jp",
       "summary": "",
       "publishedAt": "2026-10-01T03:03:19.000Z",
       "image": "",
@@ -3294,7 +3309,7 @@
       "title": "【本日10/1発売開始】シリーズ累計230万部突破！『断罪された悪役令嬢は、逆行して完璧な悪女を目指す』など、アニメ化企画進行中の話題作のTOブックス新刊が続々登場！ | 株式会社ＴＯブックスのプレスリリース",
       "url": "https://prtimes.jp/main/html/rd/p/000000209.000174060.html",
       "host": "prtimes.jp",
-      "source": "PR TIMES",
+      "source": "prtimes.jp",
       "summary": "",
       "publishedAt": "2026-10-01T03:00:02.000Z",
       "image": "https://prcdn.freetls.fastly.net/release_image/174060/209/174060-209-9df924154622a06e3ab98759a04be311-1400x900.jpg?format=jpeg&auto=webp&fit=bounds&width=2400&height=1260",
@@ -3303,7 +3318,7 @@
         "anime"
       ],
       "works": [],
-      "isPR": true,
+      "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
       "isNew": false
@@ -3587,7 +3602,7 @@
       "title": "本日発売】ヒーローコミックス初の単行本が本日9月30日（水）発売！『小さな魔女と野良犬騎士』、『康太の異世界ごはん",
       "url": "https://news.nicovideo.jp/watch/nw19826217",
       "host": "news.nicovideo.jp",
-      "source": "ニコニコニュース",
+      "source": "news.nicovideo.jp",
       "summary": "",
       "publishedAt": "2026-09-30T16:00:23.000Z",
       "image": "",
@@ -3665,7 +3680,7 @@
       "title": "アニメ『リゼロ』「――レム、会いたかった」4期最終回を記念したエピローグビジュアルが公開。小林裕介、水瀬いのりからコメントも到着",
       "url": "https://dengekionline.com/article/202609/89622",
       "host": "dengekionline.com",
-      "source": "電撃オンライン",
+      "source": "dengekionline.com",
       "summary": "",
       "publishedAt": "2026-09-30T14:51:00.000Z",
       "image": "https://cimg.kgl-systems.io/camion/files/89622/ogp_qvRU.jpg?x=1280",
@@ -3865,7 +3880,7 @@
       "title": "エリスで始まりエリスで締める！アニメ『無職転生III』描き下ろしエンドカードに「最高の終わり方」「第2クールが楽しみ」の声殺到",
       "url": "https://news.nicovideo.jp/watch/nw19825432",
       "host": "news.nicovideo.jp",
-      "source": "ニコニコニュース",
+      "source": "news.nicovideo.jp",
       "summary": "",
       "publishedAt": "2026-09-30T11:57:24.000Z",
       "image": "",
@@ -4027,7 +4042,7 @@
       "title": "新連載『転生したら剣でした My Dish』スタート！月刊Webコミック誌「コミックライド 10月号」配信！",
       "url": "https://prtimes.jp/main/html/rd/p/000002829.000048095.html",
       "host": "prtimes.jp",
-      "source": "PR TIMES",
+      "source": "prtimes.jp",
       "summary": "",
       "publishedAt": "2026-09-30T09:00:01.000Z",
       "image": "https://prcdn.freetls.fastly.net/release_image/48095/2829/48095-2829-a68f6ac8d26350d39dcc28b99af58e4a-1125x1600.jpg?format=jpeg&auto=webp&fit=bounds&width=2400&height=1260",
@@ -4038,7 +4053,7 @@
       "works": [
         "tenken"
       ],
-      "isPR": true,
+      "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
       "isNew": false
@@ -4048,7 +4063,7 @@
       "title": "TVアニメ「おデブ悪女に転生したら、なぜかラスボス王子様に執着されています」 TOKYO MX、ＢＳ日テレ、AT-X、CBCテレビほかにて 2027年1月より放送開始！dアニメストアでの配信も決定！",
       "url": "https://prtimes.jp/main/html/rd/p/000000172.000086721.html",
       "host": "prtimes.jp",
-      "source": "PR TIMES",
+      "source": "prtimes.jp",
       "summary": "",
       "publishedAt": "2026-09-30T09:00:01.000Z",
       "image": "https://prcdn.freetls.fastly.net/release_image/86721/172/86721-172-e85b6bc9215ee2276028b1f29e64b2f9-1908x2700.png?format=jpeg&auto=webp&fit=bounds&width=2400&height=1260",
@@ -4056,7 +4071,7 @@
         "anime"
       ],
       "works": [],
-      "isPR": true,
+      "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
       "isNew": false
@@ -4260,7 +4275,7 @@
       "title": "【新連載】話題映画のコミカライズ、追放系異世界スキルファンタジー、インモラルサスペンス、一挙３作品が9月から順次「マンガBANG」にて配信開始！",
       "url": "https://prtimes.jp/main/html/rd/p/000000053.000009539.html",
       "host": "prtimes.jp",
-      "source": "PR TIMES",
+      "source": "prtimes.jp",
       "summary": "",
       "publishedAt": "2026-09-30T06:30:01.000Z",
       "image": "https://prcdn.freetls.fastly.net/release_image/9539/53/9539-53-4fccbac22ad1a05324831d715b175e5d-602x856.jpg?format=jpeg&auto=webp&fit=bounds&width=2400&height=1260",
@@ -4269,7 +4284,7 @@
         "anime"
       ],
       "works": [],
-      "isPR": true,
+      "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
       "isNew": false
@@ -4392,12 +4407,12 @@
     {
       "id": "bdda8e6230b5",
       "title": "【リゼロ4期】黒いモノリスと6つの手形を発見したエミリアに対し、意識を取り戻したボルカニカは…!? アニメ『Re:ゼロから始める異世界生活』4th season最終回(第85話)「シャウラ/英雄」あらすじ＆先行カット",
-      "url": "https://www.pashplus.jp/anime/497178/",
+      "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE1reWtPREdUMXBjNnU5MHRxQTVGdk1uci1Jd014OU93S0NsY1IwT254MEhMd1JRRW9meENDM0MxV0NfRmk2d3Q1WlJHVGU3UQ?oc=5",
       "host": "pashplus.jp",
       "source": "PASH! PLUS",
       "summary": "",
       "publishedAt": "2026-09-30T03:36:05.000Z",
-      "image": "https://www.pashplus.jp/wp-content/uploads/6ceb6de434b3f46f439088a455b4fde6.jpg",
+      "image": "",
       "categories": [
         "anime"
       ],
@@ -4405,7 +4420,7 @@
         "rezero"
       ],
       "isPR": false,
-      "viaGoogle": false,
+      "viaGoogle": true,
       "sourceKind": "news",
       "isNew": false
     },
@@ -4452,7 +4467,7 @@
       "title": "夏アニメ最終盤、波乱の展開続いた『無職転生』が2週連続トップ！早くも“秋アニメ競合”が頭角表す【ABEMA週間ランキング】",
       "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE1BR0oxazFyRjR2MklFXzVxWGJkQzktd0ZjRFQ5cFYtaEJId2FlTkRESV9yV0U5WVk0cVl0VGtKM3M4dHFxMWNNYlpDZw?oc=5",
       "host": "0115765.com",
-      "source": "オタク総研",
+      "source": "0115765.com",
       "summary": "",
       "publishedAt": "2026-09-30T02:40:48.000Z",
       "image": "",
@@ -4473,7 +4488,7 @@
       "title": "【リゼロ】ラムがブライズメイド衣装で《MeloDoll Figure》に登場！ 布製ドレス＆ドール風の瞳が可憐",
       "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFAzOGpDVk5WcGk2Rmw3OUppLVhmeUtKWEdHWjBDRS1nVnFEX0lnRnFuSVc0T2tyZmlSRXc3eUxxTVp0VWhvYnRWdG5zSVczQ1NUd2J2RFRxXzlWZw?oc=5",
       "host": "dengekionline.com",
-      "source": "電撃オンライン",
+      "source": "dengekionline.com",
       "summary": "",
       "publishedAt": "2026-09-30T02:30:00.000Z",
       "image": "",
@@ -4552,7 +4567,7 @@
       "title": "アニメ『転生したらスライムだった件』ダイカットステッカーの受注を開始しました！",
       "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBrcGJxaGtVY2xBYXUzRFVlV1dyV2o5RWlRenVOa3RzeDBGRUZoQVdkRDg2cjRQU09ybklmeThUVXFKLTk2YldGN1VHRHN5VV9IR0FlYg?oc=5",
       "host": "news.nicovideo.jp",
-      "source": "ニコニコニュース",
+      "source": "news.nicovideo.jp",
       "summary": "",
       "publishedAt": "2026-09-29T23:00:16.000Z",
       "image": "",
@@ -4580,26 +4595,6 @@
         "anime"
       ],
       "works": [],
-      "isPR": false,
-      "viaGoogle": true,
-      "sourceKind": "news",
-      "isNew": false
-    },
-    {
-      "id": "c3060c0419dd",
-      "title": "『リゼロ』2クールにわたる第4期の最終回は“45分拡大”で放送！奪還編ラストをお見逃しなく【先行カット】（オタク総研）",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1mVVllTlppZk5uakkzcDQ3UGtRRnQ0MHdiODk0TFdNOHVNR05hUGhtNnlHY1pKNENkcHRHdDVtN0U5T09TRDZZZktlMDVqaHV0Wnc1aW56S0p2eDM4N1NBTEl6LWtBckxDdXYtM1Z6R1lLWDlicjJDaHJoVEZyb1k?oc=5",
-      "host": "news.yahoo.co.jp",
-      "source": "Yahoo!ニュース",
-      "summary": "",
-      "publishedAt": "2026-09-29T22:12:00.000Z",
-      "image": "",
-      "categories": [
-        "anime"
-      ],
-      "works": [
-        "rezero"
-      ],
       "isPR": false,
       "viaGoogle": true,
       "sourceKind": "news",
