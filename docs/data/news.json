@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-05T11:00:28.400Z",
+  "updatedAt": "2026-10-05T11:30:17.588Z",
   "site": {
     "title": "なろう系まとめ",
     "tagline": "小説家になろう発の作品のアニメ化・コミカライズ・書籍化のニュースと、なろうのランキングをまとめています。",
@@ -22,7 +22,7 @@
     {
       "id": "book",
       "label": "書籍・ラノベ",
-      "count": 11
+      "count": 12
     },
     {
       "id": "web",
@@ -37,7 +37,7 @@
     {
       "id": "goods",
       "label": "グッズ・イベント",
-      "count": 15
+      "count": 14
     },
     {
       "id": "other",
@@ -68,13 +68,13 @@
       "id": "honzuki",
       "title": "本好きの下剋上",
       "short": "本好き",
-      "count": 18
+      "count": 17
     },
     {
       "id": "kusuriya",
       "title": "薬屋のひとりごと",
       "short": "薬屋",
-      "count": 30
+      "count": 28
     },
     {
       "id": "kagejitsu",
@@ -164,7 +164,7 @@
       "id": "katainaka",
       "title": "片田舎のおっさん、剣聖になる",
       "short": "片田舎のおっさん",
-      "count": 3
+      "count": 5
     },
     {
       "id": "nozomanu",
@@ -296,23 +296,27 @@
   "sources": [
     {
       "name": "Yahoo!ニュース",
-      "count": 16
+      "count": 15
     },
     {
       "name": "WEBザテレビジョン",
-      "count": 14
+      "count": 12
     },
     {
       "name": "ラノベニュースオンライン",
       "count": 10
     },
     {
+      "name": "山陽新聞",
+      "count": 8
+    },
+    {
       "name": "アニメ！アニメ！",
       "count": 7
     },
     {
-      "name": "山陽新聞",
-      "count": 7
+      "name": "ニコニコニュース",
+      "count": 6
     },
     {
       "name": "ナタリー",
@@ -323,15 +327,11 @@
       "count": 6
     },
     {
-      "name": "ニコニコニュース",
-      "count": 5
-    },
-    {
       "name": "MANTANWEB",
       "count": 5
     },
     {
-      "name": "oricon.co.jp",
+      "name": "オリコンニュース",
       "count": 4
     },
     {
@@ -351,6 +351,10 @@
       "count": 3
     },
     {
+      "name": "PR TIMES",
+      "count": 2
+    },
+    {
       "name": "eeo",
       "count": 2
     },
@@ -367,6 +371,10 @@
       "count": 2
     },
     {
+      "name": "ｄメニューニュース",
+      "count": 2
+    },
+    {
       "name": "TVer",
       "count": 2
     },
@@ -376,10 +384,6 @@
     },
     {
       "name": "Koubo",
-      "count": 2
-    },
-    {
-      "name": "電撃ホビーウェブ",
       "count": 2
     },
     {
@@ -404,14 +408,6 @@
     },
     {
       "name": "インサイド",
-      "count": 1
-    },
-    {
-      "name": "PR TIMES",
-      "count": 1
-    },
-    {
-      "name": "ｄメニューニュース",
       "count": 1
     },
     {
@@ -471,6 +467,10 @@
       "count": 1
     },
     {
+      "name": "電撃ホビーウェブ",
+      "count": 1
+    },
+    {
       "name": "ライブドアニュース",
       "count": 1
     },
@@ -519,13 +519,6 @@
           "isPR": false
         },
         {
-          "title": "＜本好きの下剋上＞シャルロッテが黒ずくめの男たちに誘拐される…第二十三章あらすじ紹介",
-          "url": "https://thetv.jp/news/detail/1443762/landing/",
-          "source": "WEBザテレビジョン",
-          "publishedAt": "2026-10-04T12:35:18.000Z",
-          "isPR": false
-        },
-        {
           "title": "『本好きの下剋上 第四部「貴族院の自称図書委員」』TVアニメ化決定 アニメーション制作はWIT STUDIOが担当",
           "url": "https://ln-news.com/articles/126859",
           "source": "ラノベニュースオンライン",
@@ -537,6 +530,13 @@
           "url": "https://dengekionline.com/article/202610/89981",
           "source": "電撃オンライン",
           "publishedAt": "2026-10-04T05:30:00.000Z",
+          "isPR": false
+        },
+        {
+          "title": "＜本好きの下剋上＞シャルロッテが黒ずくめの男たちに誘拐される…第二十三章あらすじ紹介",
+          "url": "https://thetv.jp/news/detail/1443762/landing/",
+          "source": "WEBザテレビジョン",
+          "publishedAt": "2026-10-03T21:41:45.000Z",
           "isPR": false
         },
         {
@@ -563,63 +563,6 @@
       ]
     },
     {
-      "id": "889706901cac",
-      "title": "『薬屋のひとりごと』第3期、猫猫＆壬氏に新たな試練、『鑑定スキル』など話題作続々 J:COM STREAM秋アニメ発表",
-      "summary": "",
-      "url": "https://news.nicovideo.jp/watch/nw19846108",
-      "image": "https://news.mynavi.jp/article/20261005-5077635/ogp_images/ogp.jpg",
-      "leadSource": "ニコニコニュース",
-      "publishedAt": "2026-10-05T07:03:28.000Z",
-      "sourceCount": 5,
-      "articleCount": 6,
-      "categories": [
-        "anime",
-        "goods"
-      ],
-      "keywords": [
-        "薬屋",
-        "猫猫",
-        "壬氏"
-      ],
-      "articles": [
-        {
-          "title": "J:COM STREAM、2026年秋アニメを順次配信 - 「薬屋のひとりごと」第3期など",
-          "url": "https://news.mynavi.jp/article/20261005-5077635/",
-          "source": "マイナビニュース",
-          "publishedAt": "2026-10-05T05:16:09.000Z",
-          "isPR": false
-        },
-        {
-          "title": "茨城県『薬屋のひとりごと』 コラボスタンプラリー第2弾開催 猫猫や壬氏の描き下ろしカードがもらえる",
-          "url": "https://www.sanyonews.jp/article/1998480",
-          "source": "山陽新聞",
-          "publishedAt": "2026-10-04T22:57:42.000Z",
-          "isPR": false
-        },
-        {
-          "title": "「薬屋のひとりごと」第3期ほか、人気異世界系作品も続々【J:COM STREAM 2026秋アニメ】（TVガイドWeb）",
-          "url": "https://news.yahoo.co.jp/articles/5982e29a6dd735dfe9175f993e683c02a51b7ac3",
-          "source": "Yahoo!ニュース",
-          "publishedAt": "2026-10-04T22:00:00.000Z",
-          "isPR": false
-        },
-        {
-          "title": "【セリア】ラス1だった「薬屋のひとりごと」ダイカットステッカー、ミニキャラの猫猫＆壬氏がかわいい…！（くろねこ） - エキスパート",
-          "url": "https://news.yahoo.co.jp/expert/articles/56ed009e9d8191e0eba1fa7fd5515951c8aeb9fc",
-          "source": "Yahoo!ニュース",
-          "publishedAt": "2026-10-04T21:55:14.000Z",
-          "isPR": false
-        },
-        {
-          "title": "薬屋のひとりごと＞「過去一ドキドキした」猫猫に迫る壬氏の色気と“蛙”を巡る攻防に視聴者大熱狂【第36話】",
-          "url": "https://thetv.jp/news/detail/1444567/landing/",
-          "source": "WEBザテレビジョン",
-          "publishedAt": "2026-10-04T13:26:17.000Z",
-          "isPR": false
-        }
-      ]
-    },
-    {
       "id": "40698e815f0b",
       "title": "TVアニメ「魔法騎士レイアース」第1話「異世界より」場面カット [画像・動画ギャラリー 5/11]",
       "summary": "",
@@ -628,16 +571,23 @@
       "leadSource": "ナタリー",
       "publishedAt": "2026-10-03T06:44:22.000Z",
       "sourceCount": 5,
-      "articleCount": 6,
+      "articleCount": 7,
       "categories": [
         "anime"
       ],
       "keywords": [
         "レイアース",
-        "カット",
-        "魔法騎士"
+        "魔法騎士",
+        "カット"
       ],
       "articles": [
+        {
+          "title": "TVアニメ「魔法騎士レイアース」第1話「異世界より」予告映像 [画像・動画ギャラリー 10/11]",
+          "url": "https://natalie.mu/comic/gallery/news/692175/media/142742",
+          "source": "ナタリー",
+          "publishedAt": "2026-10-03T06:43:32.000Z",
+          "isPR": false
+        },
         {
           "title": "アニメ『魔法騎士レイアース』異世界「セフィーロ」を救うべく、三人の少女が召喚される…！ 第1話「異世界より」あらすじ＆先行カット",
           "url": "https://www.pashplus.jp/anime/497655/",
@@ -671,6 +621,106 @@
           "url": "https://www.animatetimes.com/news/details.php?id",
           "source": "アニメイトタイムズ",
           "publishedAt": "2026-10-03T04:00:00.000Z",
+          "isPR": false
+        }
+      ]
+    },
+    {
+      "id": "889706901cac",
+      "title": "『薬屋のひとりごと』第3期、猫猫＆壬氏に新たな試練、『鑑定スキル』など話題作続々 J:COM STREAM秋アニメ発表",
+      "summary": "",
+      "url": "https://news.nicovideo.jp/watch/nw19846108",
+      "image": "https://news.mynavi.jp/article/20261005-5077635/ogp_images/ogp.jpg",
+      "leadSource": "ニコニコニュース",
+      "publishedAt": "2026-10-05T07:03:28.000Z",
+      "sourceCount": 4,
+      "articleCount": 5,
+      "categories": [
+        "anime",
+        "goods"
+      ],
+      "keywords": [
+        "薬屋",
+        "stream",
+        "猫猫"
+      ],
+      "articles": [
+        {
+          "title": "J:COM STREAM、2026年秋アニメを順次配信 - 「薬屋のひとりごと」第3期など",
+          "url": "https://news.mynavi.jp/article/20261005-5077635/",
+          "source": "マイナビニュース",
+          "publishedAt": "2026-10-05T05:16:09.000Z",
+          "isPR": false
+        },
+        {
+          "title": "茨城県『薬屋のひとりごと』 コラボスタンプラリー第2弾開催 猫猫や壬氏の描き下ろしカードがもらえる",
+          "url": "https://www.sanyonews.jp/article/1998480",
+          "source": "山陽新聞",
+          "publishedAt": "2026-10-04T22:57:42.000Z",
+          "isPR": false
+        },
+        {
+          "title": "「薬屋のひとりごと」第3期ほか、人気異世界系作品も続々【J:COM STREAM 2026秋アニメ】（TVガイドWeb）",
+          "url": "https://news.yahoo.co.jp/articles/5982e29a6dd735dfe9175f993e683c02a51b7ac3",
+          "source": "Yahoo!ニュース",
+          "publishedAt": "2026-10-04T22:00:00.000Z",
+          "isPR": false
+        },
+        {
+          "title": "【セリア】ラス1だった「薬屋のひとりごと」ダイカットステッカー、ミニキャラの猫猫＆壬氏がかわいい…！（くろねこ） - エキスパート",
+          "url": "https://news.yahoo.co.jp/expert/articles/56ed009e9d8191e0eba1fa7fd5515951c8aeb9fc",
+          "source": "Yahoo!ニュース",
+          "publishedAt": "2026-10-04T21:55:14.000Z",
+          "isPR": false
+        }
+      ]
+    },
+    {
+      "id": "ddd55aa4ccea",
+      "title": "『片田舎のおっさん、剣聖になる』第3期制作決定 平田広明のお祝い映像公開",
+      "summary": "",
+      "url": "https://www.sanyonews.jp/article/1993408",
+      "image": "https://static.sanyonews.jp/image/article/size1/0/5/5/9/0559c9ca53af5a5500ca2c2956d5bc81_1.jpg",
+      "leadSource": "山陽新聞",
+      "publishedAt": "2026-10-05T01:48:49.000Z",
+      "sourceCount": 4,
+      "articleCount": 5,
+      "categories": [
+        "anime",
+        "goods"
+      ],
+      "keywords": [
+        "片田舎のおっさん",
+        "片田舎",
+        "剣聖"
+      ],
+      "articles": [
+        {
+          "title": "片田舎のおっさん、剣聖になるII Blu-ray 上巻",
+          "url": "https://www.oricon.co.jp/prof/692886/products/1581023/1/",
+          "source": "オリコンニュース",
+          "publishedAt": "2026-10-05T00:12:10.000Z",
+          "isPR": false
+        },
+        {
+          "title": "＜片田舎のおっさん、剣聖になるII＞王女の護衛団員としてベリルが教都に到着…第9話先行カット公開＆イベント開催決定",
+          "url": "https://thetv.jp/news/detail/1436732/18373729/",
+          "source": "WEBザテレビジョン",
+          "publishedAt": "2026-10-04T01:35:18.000Z",
+          "isPR": false
+        },
+        {
+          "title": "「片田舎のおっさん、剣聖になる」第3期が製作決定 主役の平田広明からお祝いコメント（映画.com）",
+          "url": "https://news.yahoo.co.jp/articles/8f8970a43eb31f2e7909f4b477521cc79a527c6a",
+          "source": "Yahoo!ニュース",
+          "publishedAt": "2026-10-03T22:00:00.000Z",
+          "isPR": false
+        },
+        {
+          "title": "片田舎のおっさん、剣聖になるII＞「傭兵団は味方？」王女たちを守る一行に、意外な人物が助力する…第11話あらすじ公開",
+          "url": "https://thetv.jp/news/detail/1440438/landing/",
+          "source": "WEBザテレビジョン",
+          "publishedAt": "2026-10-03T18:00:07.000Z",
           "isPR": false
         }
       ]
@@ -796,42 +846,6 @@
       ]
     },
     {
-      "id": "423a98f1def6",
-      "title": "片田舎のおっさん、剣聖になるII Blu-ray 上巻",
-      "summary": "",
-      "url": "https://www.oricon.co.jp/prof/692886/products/1581023/1/",
-      "image": "https://m.media-amazon.com/images/I/51HlVHSCcPL._SL500_.jpg",
-      "leadSource": "oricon.co.jp",
-      "publishedAt": "2026-10-05T00:12:10.000Z",
-      "sourceCount": 3,
-      "articleCount": 3,
-      "categories": [
-        "goods",
-        "anime"
-      ],
-      "keywords": [
-        "片田舎のおっさん",
-        "片田舎",
-        "剣聖"
-      ],
-      "articles": [
-        {
-          "title": "＜片田舎のおっさん、剣聖になるII＞王女の護衛団員としてベリルが教都に到着…第9話先行カット公開＆イベント開催決定",
-          "url": "https://thetv.jp/news/detail/1436732/18373729/",
-          "source": "WEBザテレビジョン",
-          "publishedAt": "2026-10-04T01:35:18.000Z",
-          "isPR": false
-        },
-        {
-          "title": "「片田舎のおっさん、剣聖になる」第3期が製作決定 主役の平田広明からお祝いコメント（映画.com）",
-          "url": "https://news.yahoo.co.jp/articles/8f8970a43eb31f2e7909f4b477521cc79a527c6a",
-          "source": "Yahoo!ニュース",
-          "publishedAt": "2026-10-03T22:00:00.000Z",
-          "isPR": false
-        }
-      ]
-    },
-    {
       "id": "3c1e97a006f4",
       "title": "アニメ1週間：全日本模型ホビーショーにガンプラ新商品続々 「無職転生III」第2クール2027年放送",
       "summary": "",
@@ -943,7 +957,7 @@
       "summary": "",
       "url": "https://www.oricon.co.jp/news/2484532/comment/",
       "image": "https://contents.oricon.co.jp/upimg/news/2485000/2484532/20261005_141110_p_l_61382761.jpg",
-      "leadSource": "oricon.co.jp",
+      "leadSource": "オリコンニュース",
       "publishedAt": "2026-10-05T08:26:30.000Z",
       "sourceCount": 2,
       "articleCount": 3,
@@ -960,7 +974,7 @@
         {
           "title": "アニメーターの桂憲一郎さん死去 59歳 『マクロス7』『ナイツ&マジック』『転スラ』などに参加",
           "url": "https://www.oricon.co.jp/news/2484532/full/",
-          "source": "oricon.co.jp",
+          "source": "オリコンニュース",
           "publishedAt": "2026-10-05T05:14:00.000Z",
           "isPR": false
         },
@@ -1009,12 +1023,12 @@
     }
   ],
   "churn": {
-    "previousAt": "2026-10-05T10:30:18.482Z",
-    "previousCount": 139,
-    "newCount": 3
+    "previousAt": "2026-10-05T11:00:28.400Z",
+    "previousCount": 134,
+    "newCount": 4
   },
   "updateGapMin": 30,
-  "nextUpdateAt": "2026-10-05T11:30:28.400Z",
+  "nextUpdateAt": "2026-10-05T12:00:17.588Z",
   "items": [
     {
       "id": "35968b4baedf",
@@ -1032,7 +1046,7 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "8580fd81b0c4",
@@ -1053,7 +1067,7 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "2a3f90c6eeb8",
@@ -1070,24 +1084,6 @@
       "works": [
         "rezero"
       ],
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": false
-    },
-    {
-      "id": "7d5942b42145",
-      "title": "TVアニメ「魔法騎士レイアース」第1話「異世界より」予告映像 [画像・動画ギャラリー 19/20]",
-      "url": "https://natalie.mu/comic/gallery/news/692239/media/142742",
-      "host": "natalie.mu",
-      "source": "ナタリー",
-      "summary": "",
-      "publishedAt": "2026-10-05T09:40:40.000Z",
-      "image": "",
-      "categories": [
-        "anime"
-      ],
-      "works": [],
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
@@ -1135,6 +1131,24 @@
       "isNew": false
     },
     {
+      "id": "71ac1f1c2476",
+      "title": "「悪役令嬢の躾け方」1巻 ハイスペ侍女が悪役令嬢の悪堕ちフラグを叩き折る",
+      "url": "https://news.nicovideo.jp/watch/nw19846527?news_ref",
+      "host": "news.nicovideo.jp",
+      "source": "ニコニコニュース",
+      "summary": "",
+      "publishedAt": "2026-10-05T08:51:11.000Z",
+      "image": "",
+      "categories": [
+        "book"
+      ],
+      "works": [],
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": true
+    },
+    {
       "id": "a3b53e01d156",
       "title": "＜弱気MAX令嬢＞乙女ゲームのモブ悪役令嬢に転生したピアは国外追放される運命だと悟る…第1話あらすじ＆先行カット公開",
       "url": "https://thetv.jp/news/detail/1445545/18702006/",
@@ -1158,7 +1172,7 @@
       "title": "コメント | アニメーターの桂憲一郎さん死去 59歳 『マクロス7』『ナイツ&マジック』『転スラ』などに参加",
       "url": "https://www.oricon.co.jp/news/2484532/comment/",
       "host": "oricon.co.jp",
-      "source": "oricon.co.jp",
+      "source": "オリコンニュース",
       "summary": "",
       "publishedAt": "2026-10-05T08:26:30.000Z",
       "image": "https://contents.oricon.co.jp/upimg/news/2485000/2484532/20261005_141110_p_l_61382761.jpg",
@@ -1192,6 +1206,26 @@
       "viaGoogle": false,
       "sourceKind": "news",
       "isNew": false
+    },
+    {
+      "id": "067859ea4863",
+      "title": "『無職転生III』は検索1位、『ヤニねこ』は3倍急伸、『ゆめ♾️みた』はXで圧倒――データで決める2026夏アニメアワード",
+      "url": "https://prtimes.jp/main/html/rd/p/000009783.000014827.html",
+      "host": "prtimes.jp",
+      "source": "PR TIMES",
+      "summary": "[株式会社ブシロード] 株式会社ブシロード (本社:東京都中野区、代表取締役社長：木谷高明)のグループ分析組織にあたるアニメデータインサイトラボ（代表：大貫佑介）は、2026年夏アニメにおける調査を実施しました。今回は、2026年夏...",
+      "publishedAt": "2026-10-05T08:15:22.000Z",
+      "image": "https://prcdn.freetls.fastly.net/release_image/14827/9783/14827-9783-63e7b55fb25bea501c32775c6c164625-1920x1080.jpg?format=jpeg&auto=webp&fit=bounds&width=2400&height=1260",
+      "categories": [
+        "anime"
+      ],
+      "works": [
+        "mushoku"
+      ],
+      "isPR": true,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": true
     },
     {
       "id": "8fdecc559ce9",
@@ -1262,7 +1296,7 @@
       "source": "Yahoo!ニュース",
       "summary": "",
       "publishedAt": "2026-10-05T08:02:52.000Z",
-      "image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20261005-00379362-magmix-000-8-view.jpg?exp=10800",
+      "image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20261005-00379362-magmix-000-9-view.jpg?exp=10800",
       "categories": [
         "anime"
       ],
@@ -1416,7 +1450,7 @@
       "title": "アニメーターの桂憲一郎さん死去 59歳 『マクロス7』『ナイツ&マジック』『転スラ』などに参加",
       "url": "https://www.oricon.co.jp/news/2484532/full/",
       "host": "oricon.co.jp",
-      "source": "oricon.co.jp",
+      "source": "オリコンニュース",
       "summary": "",
       "publishedAt": "2026-10-05T05:14:00.000Z",
       "image": "https://contents.oricon.co.jp/upimg/news/2485000/2484532/20261005_141110_p_o_13391750.jpg",
@@ -1438,7 +1472,7 @@
       "host": "animeanime.jp",
       "source": "アニメ！アニメ！",
       "summary": "",
-      "publishedAt": "2026-10-05T03:00:00.000Z",
+      "publishedAt": "2026-10-05T04:46:33.000Z",
       "image": "https://animeanime.jp/release/imgs/list/559898.jpg",
       "categories": [
         "other"
@@ -1511,6 +1545,26 @@
       "isNew": false
     },
     {
+      "id": "ddd55aa4ccea",
+      "title": "『片田舎のおっさん、剣聖になる』第3期制作決定 平田広明のお祝い映像公開",
+      "url": "https://www.sanyonews.jp/article/1993408",
+      "host": "sanyonews.jp",
+      "source": "山陽新聞",
+      "summary": "",
+      "publishedAt": "2026-10-05T01:48:49.000Z",
+      "image": "https://static.sanyonews.jp/image/article/size1/0/5/5/9/0559c9ca53af5a5500ca2c2956d5bc81_1.jpg",
+      "categories": [
+        "anime"
+      ],
+      "works": [
+        "katainaka"
+      ],
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": true
+    },
+    {
       "id": "05c1b2551afa",
       "title": "【きょうから】『薬屋のひとりごと』第1期・第2期全話が順次無料配信 TVerで期間限定",
       "url": "https://www.sanyonews.jp/photo/detail?article_id",
@@ -1528,7 +1582,7 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "7280a6a661eb",
@@ -1674,7 +1728,7 @@
       "title": "片田舎のおっさん、剣聖になるII Blu-ray 上巻",
       "url": "https://www.oricon.co.jp/prof/692886/products/1581023/1/",
       "host": "oricon.co.jp",
-      "source": "oricon.co.jp",
+      "source": "オリコンニュース",
       "summary": "",
       "publishedAt": "2026-10-05T00:12:10.000Z",
       "image": "https://m.media-amazon.com/images/I/51HlVHSCcPL._SL500_.jpg",
@@ -1890,26 +1944,6 @@
       "isNew": false
     },
     {
-      "id": "e419236110ec",
-      "title": "「アニメ化してくれて本当にありがとう」“圧巻”の美しさで魔術表現した作画にファン熱狂＜本好きの下剋上＞",
-      "url": "https://thetv.jp/news/detail/1431261/18190496/",
-      "host": "thetv.jp",
-      "source": "WEBザテレビジョン",
-      "summary": "",
-      "publishedAt": "2026-10-04T19:57:49.000Z",
-      "image": "https://thetv.jp/i/nw/1431261/18190496.jpg?w=1284",
-      "categories": [
-        "anime"
-      ],
-      "works": [
-        "honzuki"
-      ],
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": false
-    },
-    {
       "id": "bf5e9e535a73",
       "title": "＜転スラ 第4期＞クロエとヒナタを救うため、リムルはクロノアの無限牢獄に干渉する 第96話あらすじ＆場面カット公開",
       "url": "https://thetv.jp/news/detail/1442655/18575914/",
@@ -1990,26 +2024,6 @@
       "isNew": false
     },
     {
-      "id": "f58c5701f649",
-      "title": "＜薬屋のひとりごと＞第3期OP、ヨルシカの「雲を抜け風下へ私だけ」に決定 n-buna「この作品ときっと…」コメント全文掲載",
-      "url": "https://thetv.jp/news/detail/1432975/18254991/",
-      "host": "thetv.jp",
-      "source": "WEBザテレビジョン",
-      "summary": "",
-      "publishedAt": "2026-10-04T16:09:32.000Z",
-      "image": "https://thetv.jp/i/nw/1432975/18254991.jpg?w=1284",
-      "categories": [
-        "anime"
-      ],
-      "works": [
-        "kusuriya"
-      ],
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": false
-    },
-    {
       "id": "16563f292a6c",
       "title": "第1話 転生ゴブリンだけど質問ある？「転生ゴブリンだけど質問ある？」",
       "url": "https://thetv.jp/program/0001077857/1/",
@@ -2061,46 +2075,6 @@
         "comic"
       ],
       "works": [],
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": false
-    },
-    {
-      "id": "167649bb2a0a",
-      "title": "薬屋のひとりごと＞「過去一ドキドキした」猫猫に迫る壬氏の色気と“蛙”を巡る攻防に視聴者大熱狂【第36話】",
-      "url": "https://thetv.jp/news/detail/1444567/landing/",
-      "host": "thetv.jp",
-      "source": "WEBザテレビジョン",
-      "summary": "",
-      "publishedAt": "2026-10-04T13:26:17.000Z",
-      "image": "",
-      "categories": [
-        "anime"
-      ],
-      "works": [
-        "kusuriya"
-      ],
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": false
-    },
-    {
-      "id": "a71cb9070e43",
-      "title": "＜本好きの下剋上＞シャルロッテが黒ずくめの男たちに誘拐される…第二十三章あらすじ紹介",
-      "url": "https://thetv.jp/news/detail/1443762/landing/",
-      "host": "thetv.jp",
-      "source": "WEBザテレビジョン",
-      "summary": "",
-      "publishedAt": "2026-10-04T12:35:18.000Z",
-      "image": "",
-      "categories": [
-        "anime"
-      ],
-      "works": [
-        "honzuki"
-      ],
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
@@ -2593,6 +2567,26 @@
       "isNew": false
     },
     {
+      "id": "a71cb9070e43",
+      "title": "＜本好きの下剋上＞シャルロッテが黒ずくめの男たちに誘拐される…第二十三章あらすじ紹介",
+      "url": "https://thetv.jp/news/detail/1443762/landing/",
+      "host": "thetv.jp",
+      "source": "WEBザテレビジョン",
+      "summary": "",
+      "publishedAt": "2026-10-03T21:41:45.000Z",
+      "image": "",
+      "categories": [
+        "anime"
+      ],
+      "works": [
+        "honzuki"
+      ],
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": false
+    },
+    {
       "id": "4b8c9d747153",
       "title": "【転スラ】0306宣伝用場面写01 | あなたが観たい",
       "url": "https://news.google.com/rss/articles/CBMigAJBVV95cUxOa0xWZ2FiUEVLT1R1MnFqYllBelBhQ2hxYnNRTjFrQzRBSEZQaU9aR29scmF4d21JZUo1VWxtN3NsVENPZ0s0TFNHSE0yWWx0eVpUQm1PeEl3RDRBemNxakZiMl9GNW9sTHNRb0hKdWhUd2V6Y0lVUjQ0OURzeWk2ZGNfRkdKT056clFicnN2S05YaXpVX3Y3SjhEWWwwWVVlVzhJYlRCYlJ6bzJ3dGNjeUlvZHo2aEt3Q2hrd3BmbUJRd0NoUzc1NzhzTU4wWHkwS2JLcXlSMzRuek5URmN3V3gwaUh5UlAtLWJ5Z0VLMGRrRWpnVElXcXZ1eVlVOHpr?oc=5",
@@ -2650,6 +2644,26 @@
       "viaGoogle": false,
       "sourceKind": "news",
       "isNew": false
+    },
+    {
+      "id": "9a683a7f1b7a",
+      "title": "片田舎のおっさん、剣聖になるII＞「傭兵団は味方？」王女たちを守る一行に、意外な人物が助力する…第11話あらすじ公開",
+      "url": "https://thetv.jp/news/detail/1440438/landing/",
+      "host": "thetv.jp",
+      "source": "WEBザテレビジョン",
+      "summary": "",
+      "publishedAt": "2026-10-03T18:00:07.000Z",
+      "image": "",
+      "categories": [
+        "anime"
+      ],
+      "works": [
+        "katainaka"
+      ],
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": true
     },
     {
       "id": "4108ed967ea6",
@@ -2951,7 +2965,7 @@
       "title": "『本好きの下剋上』続編「貴族院の自称図書委員」編アニメ化決定 制作はWIT STUDIO",
       "url": "https://www.oricon.co.jp/news/2484063/photo/2/",
       "host": "oricon.co.jp",
-      "source": "oricon.co.jp",
+      "source": "オリコンニュース",
       "summary": "",
       "publishedAt": "2026-10-03T09:00:00.000Z",
       "image": "https://contents.oricon.co.jp/upimg/news/2485000/2484063/20261002_141607_p_o_32307558.jpg",
@@ -2988,13 +3002,13 @@
     },
     {
       "id": "e7da5ed76ff2",
-      "title": "「美腹筋すごっ！」『無職転生』香港美女コスプレイヤーによる“エリス”に「すばらしい」「ウェストきれい」 (マグミクス)",
-      "url": "https://news.yahoo.co.jp/articles/f016fcd5c09ecd18f1ae71f39fe7dc3220850d36/images/000",
-      "host": "news.yahoo.co.jp",
-      "source": "Yahoo!ニュース",
+      "title": "「美腹筋すごっ！」『無職転生』香港美女コスプレイヤーによる“エリス”に「すばらしい」「ウェストきれい」",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOb01KYVJIUmdZN0RoM21ubWRDejZIMHpDbE1FTWFkWHQ5OW1yc0M3XzlURG1FM2w1a1dhckVibTdtUDliMEdTMFV4MGwwU0czdDhuTUZPajNxbWwtay1LVklzNGhia1dZUHdKUjhDSS1TcGdzYUNESkl3c01GS0ZHNjA5SGPSAYQBQVVfeXFMTm9NSmFSSFJnWTdEaDNtbm1kQ3o2SDB6Q2xNRU1hZFh0OTltcnNDN185VERtRTNsNWtXYXJFYm03bVA5YjBHUzBVeDBsMFNHM3Q4bk1GT2ozcW1sLWstS1ZJczRoYmtXWVB3SlI4Q0ktU3Bnc2FDREpJd3NNRktGRzYwOUhj?oc=5",
+      "host": "topics.smt.docomo.ne.jp",
+      "source": "ｄメニューニュース",
       "summary": "",
       "publishedAt": "2026-10-03T08:25:00.000Z",
-      "image": "https://news-pctr.c.yimg.jp/uUzvQ3lML_bkIqyakc1vFhNrRI0RUQxg5aFkrX0xDg1_T0wXrbEJjtNGtrf1o9y3xudcUclfbXjZqAvGT8NJncBG38KcF1Ge50rRi2pyClkYnxLW1ycoYhfsj0kvNNpgGyEwxfklC0n3T81JmalS_aWM1AtnqePOxw4MS_KwlO78qC0BYundDKwBn3jNe_H5",
+      "image": "",
       "categories": [
         "other"
       ],
@@ -3002,27 +3016,7 @@
         "mushoku"
       ],
       "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": false
-    },
-    {
-      "id": "1abd32599bc0",
-      "title": "2026年10月予約開始予定のセクシー神官が降臨！『無職転生』『生徒会にも穴はある！』『着せ恋』などのフィギュアが秋葉原で展示！",
-      "url": "https://hobby.dengeki.com/news/3185164/",
-      "host": "hobby.dengeki.com",
-      "source": "電撃ホビーウェブ",
-      "summary": "",
-      "publishedAt": "2026-10-03T08:00:00.000Z",
-      "image": "https://hobby.dengeki.com/ss/hobby/2026/10/barh478er-2_hwx-C0t5H71t2wJDMlLXh57XxV5BNhuv_mCflRwGtprHD9K1VsKp2dc8OO4uFMWit.jpg",
-      "categories": [
-        "goods"
-      ],
-      "works": [
-        "mushoku"
-      ],
-      "isPR": false,
-      "viaGoogle": false,
+      "viaGoogle": true,
       "sourceKind": "news",
       "isNew": false
     },
@@ -3072,6 +3066,24 @@
       "source": "ナタリー",
       "summary": "",
       "publishedAt": "2026-10-03T06:44:22.000Z",
+      "image": "",
+      "categories": [
+        "anime"
+      ],
+      "works": [],
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": false
+    },
+    {
+      "id": "7d5942b42145",
+      "title": "TVアニメ「魔法騎士レイアース」第1話「異世界より」予告映像 [画像・動画ギャラリー 10/11]",
+      "url": "https://natalie.mu/comic/gallery/news/692175/media/142742",
+      "host": "natalie.mu",
+      "source": "ナタリー",
+      "summary": "",
+      "publishedAt": "2026-10-03T06:43:32.000Z",
       "image": "",
       "categories": [
         "anime"
