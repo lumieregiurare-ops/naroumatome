@@ -1,28 +1,28 @@
 {
-  "updatedAt": "2026-10-05T05:30:54.142Z",
+  "updatedAt": "2026-10-05T06:00:19.680Z",
   "site": {
     "title": "なろう系まとめ",
     "tagline": "小説家になろう発の作品のアニメ化・コミカライズ・書籍化のニュースと、なろうのランキングをまとめています。",
     "url": "https://naroumatome.gamelab.website/",
     "contactUrl": "https://docs.google.com/forms/d/e/1FAIpQLSesWyhmZ6sRS_ve-c3X2KqF_wC5PK2TgwgQbTKmnQltSlg5Jw/viewform"
   },
-  "total": 147,
-  "todayCount": 32,
+  "total": 167,
+  "todayCount": 33,
   "categories": [
     {
       "id": "anime",
       "label": "アニメ",
-      "count": 111
+      "count": 121
     },
     {
       "id": "comic",
       "label": "コミカライズ",
-      "count": 11
+      "count": 12
     },
     {
       "id": "book",
       "label": "書籍・ラノベ",
-      "count": 12
+      "count": 13
     },
     {
       "id": "web",
@@ -32,17 +32,17 @@
     {
       "id": "game",
       "label": "ゲーム",
-      "count": 2
+      "count": 8
     },
     {
       "id": "goods",
       "label": "グッズ・イベント",
-      "count": 14
+      "count": 17
     },
     {
       "id": "other",
       "label": "そのほか",
-      "count": 12
+      "count": 16
     }
   ],
   "works": [
@@ -50,43 +50,43 @@
       "id": "tensura",
       "title": "転生したらスライムだった件",
       "short": "転スラ",
-      "count": 13
+      "count": 12
     },
     {
       "id": "mushoku",
       "title": "無職転生 ～異世界行ったら本気だす～",
       "short": "無職転生",
-      "count": 26
+      "count": 29
     },
     {
       "id": "rezero",
       "title": "Re:ゼロから始める異世界生活",
       "short": "リゼロ",
-      "count": 9
+      "count": 20
     },
     {
       "id": "honzuki",
       "title": "本好きの下剋上",
       "short": "本好き",
-      "count": 16
+      "count": 18
     },
     {
       "id": "kusuriya",
       "title": "薬屋のひとりごと",
       "short": "薬屋",
-      "count": 35
+      "count": 36
     },
     {
       "id": "kagejitsu",
       "title": "陰の実力者になりたくて！",
       "short": "陰の実力者",
-      "count": 1
+      "count": 2
     },
     {
       "id": "tate",
       "title": "盾の勇者の成り上がり",
       "short": "盾の勇者",
-      "count": 0
+      "count": 1
     },
     {
       "id": "kumo",
@@ -164,7 +164,7 @@
       "id": "katainaka",
       "title": "片田舎のおっさん、剣聖になる",
       "short": "片田舎のおっさん",
-      "count": 3
+      "count": 4
     },
     {
       "id": "nozomanu",
@@ -295,15 +295,19 @@
   ],
   "sources": [
     {
-      "name": "news.yahoo.co.jp",
+      "name": "Yahoo!ニュース",
       "count": 23
     },
     {
-      "name": "ラノベニュースオンライン",
-      "count": 11
+      "name": "youtu.be",
+      "count": 18
     },
     {
       "name": "WEBザテレビジョン",
+      "count": 13
+    },
+    {
+      "name": "ラノベニュースオンライン",
       "count": 11
     },
     {
@@ -311,20 +315,20 @@
       "count": 8
     },
     {
-      "name": "MANTANWEB",
-      "count": 7
+      "name": "mantan-web.jp",
+      "count": 8
     },
     {
       "name": "ナタリー",
       "count": 6
     },
     {
-      "name": "電撃オンライン",
+      "name": "キャラグー",
       "count": 6
     },
     {
-      "name": "キャラグー",
-      "count": 6
+      "name": "電撃オンライン",
+      "count": 5
     },
     {
       "name": "ニコニコニュース",
@@ -339,7 +343,7 @@
       "count": 3
     },
     {
-      "name": "オリコンニュース",
+      "name": "山陽新聞",
       "count": 3
     },
     {
@@ -347,19 +351,19 @@
       "count": 3
     },
     {
-      "name": "ABEMA",
+      "name": "アニメイトタイムズ",
       "count": 3
     },
     {
-      "name": "おた☆スケ",
+      "name": "ota-suke.jp",
+      "count": 2
+    },
+    {
+      "name": "オリコンニュース",
       "count": 2
     },
     {
       "name": "日本テレビ",
-      "count": 2
-    },
-    {
-      "name": "山陽新聞",
       "count": 2
     },
     {
@@ -375,15 +379,11 @@
       "count": 2
     },
     {
-      "name": "DMMぱちタウン",
+      "name": "p-town.dmm.com",
       "count": 2
     },
     {
       "name": "アニメハック",
-      "count": 2
-    },
-    {
-      "name": "animatetimes.com",
       "count": 2
     },
     {
@@ -403,6 +403,10 @@
       "count": 2
     },
     {
+      "name": "ｄメニューニュース",
+      "count": 1
+    },
+    {
       "name": "日本経済新聞",
       "count": 1
     },
@@ -415,7 +419,7 @@
       "count": 1
     },
     {
-      "name": "ｄメニューニュース",
+      "name": "PR TIMES",
       "count": 1
     },
     {
@@ -427,11 +431,19 @@
       "count": 1
     },
     {
+      "name": "Unisba Media",
+      "count": 1
+    },
+    {
+      "name": "ウォーカープラス",
+      "count": 1
+    },
+    {
       "name": "オタク総研",
       "count": 1
     },
     {
-      "name": "Excite エキサイト",
+      "name": "excite.co.jp",
       "count": 1
     },
     {
@@ -489,10 +501,6 @@
     {
       "name": "スポカレ",
       "count": 1
-    },
-    {
-      "name": "毎日キレイ",
-      "count": 1
     }
   ],
   "topics": [
@@ -504,8 +512,8 @@
       "image": "https://animeanime.jp/imgs/rss/938420.jpg",
       "leadSource": "アニメ！アニメ！",
       "publishedAt": "2026-10-05T03:00:00.000Z",
-      "sourceCount": 13,
-      "articleCount": 16,
+      "sourceCount": 14,
+      "articleCount": 17,
       "categories": [
         "anime",
         "book"
@@ -531,6 +539,13 @@
           "isPR": false
         },
         {
+          "title": "＜本好きの下剋上＞シャルロッテが黒ずくめの男たちに誘拐される…第二十三章あらすじ紹介",
+          "url": "https://thetv.jp/news/detail/1443762/landing/",
+          "source": "WEBザテレビジョン",
+          "publishedAt": "2026-10-04T12:35:18.000Z",
+          "isPR": false
+        },
+        {
           "title": "『本好きの下剋上 第四部「貴族院の自称図書委員」』TVアニメ化決定 アニメーション制作はWIT STUDIOが担当",
           "url": "https://ln-news.com/articles/126859",
           "source": "ラノベニュースオンライン",
@@ -540,7 +555,7 @@
         {
           "title": "『本好きの下剋上』続編「貴族院の自称図書委員」編アニメ化決定 制作はWIT STUDIO (オリコン)",
           "url": "https://news.yahoo.co.jp/articles/a437fcb36b3889f21a6564887597857419590f54/images/000",
-          "source": "news.yahoo.co.jp",
+          "source": "Yahoo!ニュース",
           "publishedAt": "2026-10-04T08:12:47.000Z",
           "isPR": false
         },
@@ -552,24 +567,17 @@
           "isPR": false
         },
         {
-          "title": "＜本好きの下剋上＞シャルロッテが黒ずくめの男たちに誘拐される…第二十三章あらすじ紹介",
-          "url": "https://thetv.jp/news/detail/1443762/landing/",
-          "source": "WEBザテレビジョン",
-          "publishedAt": "2026-10-03T21:41:45.000Z",
+          "title": "【本好きの下剋上 領主の養女】最終回の感想【2026夏アニメ】",
+          "url": "https://youtu.be/pL4Bfhi2tgY?si",
+          "source": "youtu.be",
+          "publishedAt": "2026-10-04T02:12:33.000Z",
           "isPR": false
         },
         {
           "title": "アニメ『本好きの下剋上 貴族院の自称図書委員』TVアニメ化決定 制作はWIT STUDIO (クランクイン！)",
           "url": "https://news.yahoo.co.jp/articles/4a2dd8401342fd03f024b620752ba4b71ca4ca14/images/000",
-          "source": "news.yahoo.co.jp",
+          "source": "Yahoo!ニュース",
           "publishedAt": "2026-10-03T14:10:35.000Z",
-          "isPR": false
-        },
-        {
-          "title": "「本好きの下剋上 ～司書になるためには手段を選んでいられません～ 第四部 貴族院の自称図書委員1」© Miya Kazuki / TO Books. Illustrated by You Shiina [画像ギャラリー 1/2]",
-          "url": "https://natalie.mu/comic/gallery/news/692238/2983324",
-          "source": "ナタリー",
-          "publishedAt": "2026-10-03T12:21:22.000Z",
           "isPR": false
         }
       ]
@@ -610,7 +618,7 @@
         {
           "title": "＜魔法騎士レイアース＞異世界セフィーロへ召喚された光たちは伝説の魔法騎士を目指す 第1話あらすじ＆先行カット公開",
           "url": "https://news.yahoo.co.jp/articles/058ad47c6b7e8824edcb82614cf9019c9b41d7c4",
-          "source": "news.yahoo.co.jp",
+          "source": "Yahoo!ニュース",
           "publishedAt": "2026-10-03T04:00:00.000Z",
           "isPR": false
         },
@@ -631,7 +639,7 @@
         {
           "title": "『魔法騎士レイアース』第1話「異世界より」のあらすじ＆先行場面カット＆予告映像が公開！",
           "url": "https://www.animatetimes.com/news/details.php?id",
-          "source": "animatetimes.com",
+          "source": "アニメイトタイムズ",
           "publishedAt": "2026-10-03T04:00:00.000Z",
           "isPR": false
         }
@@ -643,7 +651,7 @@
       "summary": "",
       "url": "https://news.yahoo.co.jp/articles/4a0ace5b08977d64ffd2ba6a49266f482cef1999",
       "image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260930-10275938-abemad-000-2-view.jpg?exp=10800",
-      "leadSource": "news.yahoo.co.jp",
+      "leadSource": "Yahoo!ニュース",
       "publishedAt": "2026-10-02T11:42:00.000Z",
       "sourceCount": 4,
       "articleCount": 6,
@@ -657,9 +665,16 @@
       ],
       "articles": [
         {
+          "title": "TVアニメ『無職転生III ～異世界行ったら本気だす～』第1クール終了記念！ABEMAで10月3日（土）に第3期初の全話無料一挙放送が決定 - mantan-web.jp",
+          "url": "https://mantan-web.jp/prtimes/article/20261002prt00m200000814a.html",
+          "source": "mantan-web.jp",
+          "publishedAt": "2026-10-02T09:35:57.000Z",
+          "isPR": false
+        },
+        {
           "title": "アニメ『無職転生III』第1クール完結！10月3日（土）に全14話の振り返り一挙放送が決定（ABEMA TIMES）",
           "url": "https://news.yahoo.co.jp/articles/9ba43ff46f33b79bc92ac03bcee548f24c1ad085",
-          "source": "news.yahoo.co.jp",
+          "source": "Yahoo!ニュース",
           "publishedAt": "2026-10-02T09:15:33.000Z",
           "isPR": false
         },
@@ -683,12 +698,48 @@
           "source": "電ファミニコゲーマー",
           "publishedAt": "2026-10-02T07:49:00.000Z",
           "isPR": false
+        }
+      ]
+    },
+    {
+      "id": "d8532c2a4e11",
+      "title": "無職転生Ⅲ ～異世界行ったら本気だす～",
+      "summary": "",
+      "url": "https://tver.jp/episodes/epmkehc27v",
+      "image": "",
+      "leadSource": "TVer",
+      "publishedAt": "2026-10-04T15:16:45.000Z",
+      "sourceCount": 4,
+      "articleCount": 4,
+      "categories": [
+        "other",
+        "goods"
+      ],
+      "keywords": [
+        "無職転生",
+        "異世界行",
+        "本気"
+      ],
+      "articles": [
+        {
+          "title": "無職転生 Ⅲ ～異世界行ったら本気出す～",
+          "url": "https://youtu.be/YawKu3BcMLI",
+          "source": "youtu.be",
+          "publishedAt": "2026-10-04T03:00:10.000Z",
+          "isPR": false
         },
         {
-          "title": "TVアニメ『無職転生III ～異世界行ったら本気だす～』第1クール終了記念！ABEMAで10月3日（土）に第3期初の全話無料一挙放送が決定",
-          "url": "https://mainichikirei.jp/prtimes/article/20261002prt00m100000603a.html",
-          "source": "毎日キレイ",
-          "publishedAt": "2026-10-02T05:53:47.000Z",
+          "title": "「ドラゴンポーカー」でアニメ「無職転生～異世界行ったら本気だす～」とのコラボイベントが開催！新規収録したコラボ限定役ボイスも追加",
+          "url": "https://www.gamer.ne.jp/news/202610020018/image/9/",
+          "source": "Gamer",
+          "publishedAt": "2026-10-03T06:19:35.000Z",
+          "isPR": false
+        },
+        {
+          "title": "無職転生～異世界行ったら本気だす～ハイプレミアムフィギュアエリス｜無職転生のプライズ 入荷予定・取扱店舗",
+          "url": "https://charagoo.jp/prize/item/8c14d1042a75/",
+          "source": "キャラグー",
+          "publishedAt": "2026-10-02T23:33:06.000Z",
           "isPR": false
         }
       ]
@@ -748,7 +799,7 @@
       "summary": "",
       "url": "https://news.yahoo.co.jp/articles/1121578ac8ec7fd611cdacc38d4df7914fbd0d58",
       "image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20261003-10276489-abemad-000-3-view.jpg?exp=10800",
-      "leadSource": "news.yahoo.co.jp",
+      "leadSource": "Yahoo!ニュース",
       "publishedAt": "2026-10-02T15:27:16.000Z",
       "sourceCount": 3,
       "articleCount": 5,
@@ -764,7 +815,7 @@
         {
           "title": "薬屋のひとりごと＞猫猫と壬氏の軌跡 かんざしを手に テレビアニメ第3期のED映像公開（MANTANWEB）",
           "url": "https://news.yahoo.co.jp/articles/0ce2a0ba0ee324003a9f456133fc388e395938f3",
-          "source": "news.yahoo.co.jp",
+          "source": "Yahoo!ニュース",
           "publishedAt": "2026-10-02T15:05:00.000Z",
           "isPR": false
         },
@@ -778,49 +829,15 @@
         {
           "title": "薬屋のひとりごと＞テレビアニメ第3期のヒントが！？ 猫猫と壬氏の旅路を暗示 ノンクレジットOP映像公開 (MANTANWEB)",
           "url": "https://news.yahoo.co.jp/articles/85793c355465999c853ec90a2b75af6243981a00/images/000",
-          "source": "news.yahoo.co.jp",
+          "source": "Yahoo!ニュース",
           "publishedAt": "2026-10-02T09:24:00.000Z",
           "isPR": false
         },
         {
-          "title": "薬屋のひとりごと：テレビアニメ第3期のヒントが！？ 猫猫と壬氏の旅路を暗示 ノンクレジットOP映像公開",
+          "title": "薬屋のひとりごと：テレビアニメ第3期のヒントが！？ 猫猫と壬氏の旅路を暗示 ノンクレジットOP映像公開 - mantan-web.jp",
           "url": "https://mantan-web.jp/article/20261002dog00m200078000a.html",
-          "source": "MANTANWEB",
+          "source": "mantan-web.jp",
           "publishedAt": "2026-10-02T09:08:20.000Z",
-          "isPR": false
-        }
-      ]
-    },
-    {
-      "id": "08319db89b84",
-      "title": "J:COM STREAM、2026年秋アニメを順次配信 - 「薬屋のひとりごと」第3期など",
-      "summary": "",
-      "url": "https://news.infoseek.co.jp/article/mynavi_3233519/",
-      "image": "https://media.image.infoseek.co.jp/isnews/photos/mynavi/mynavi_3233519_0-enlarge.jpg",
-      "leadSource": "Infoseek",
-      "publishedAt": "2026-10-05T05:16:09.000Z",
-      "sourceCount": 3,
-      "articleCount": 3,
-      "categories": [
-        "anime"
-      ],
-      "keywords": [
-        "薬屋",
-        "stream"
-      ],
-      "articles": [
-        {
-          "title": "「薬屋のひとりごと」ミニアニメ第49話「蝗」が公開",
-          "url": "https://www.ota-suke.jp/news/292153",
-          "source": "おた☆スケ",
-          "publishedAt": "2026-10-05T03:19:00.000Z",
-          "isPR": false
-        },
-        {
-          "title": "「薬屋のひとりごと」第3期ほか、人気異世界系作品も続々【J:COM STREAM 2026秋アニメ】（TVガイドWeb）",
-          "url": "https://news.yahoo.co.jp/articles/5982e29a6dd735dfe9175f993e683c02a51b7ac3",
-          "source": "news.yahoo.co.jp",
-          "publishedAt": "2026-10-04T22:00:00.000Z",
           "isPR": false
         }
       ]
@@ -834,7 +851,7 @@
       "leadSource": "オリコンニュース",
       "publishedAt": "2026-10-05T00:12:10.000Z",
       "sourceCount": 3,
-      "articleCount": 3,
+      "articleCount": 4,
       "categories": [
         "goods",
         "anime"
@@ -855,8 +872,15 @@
         {
           "title": "「片田舎のおっさん、剣聖になる」第3期が製作決定 主役の平田広明からお祝いコメント（映画.com）",
           "url": "https://news.yahoo.co.jp/articles/8f8970a43eb31f2e7909f4b477521cc79a527c6a",
-          "source": "news.yahoo.co.jp",
+          "source": "Yahoo!ニュース",
           "publishedAt": "2026-10-03T22:00:00.000Z",
+          "isPR": false
+        },
+        {
+          "title": "片田舎のおっさん、剣聖になるII＞「傭兵団は味方？」王女たちを守る一行に、意外な人物が助力する…第11話あらすじ公開",
+          "url": "https://thetv.jp/news/detail/1440438/landing/",
+          "source": "WEBザテレビジョン",
+          "publishedAt": "2026-10-03T18:00:07.000Z",
           "isPR": false
         }
       ]
@@ -867,7 +891,7 @@
       "summary": "",
       "url": "https://news.yahoo.co.jp/articles/0839d81dba62288e381d4ec6ec37c4a1f4be3cfb",
       "image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20261005-00000002-eiga-000-1-view.jpg?exp=10800",
-      "leadSource": "news.yahoo.co.jp",
+      "leadSource": "Yahoo!ニュース",
       "publishedAt": "2026-10-04T22:00:00.000Z",
       "sourceCount": 3,
       "articleCount": 3,
@@ -897,48 +921,12 @@
       ]
     },
     {
-      "id": "d8532c2a4e11",
-      "title": "無職転生Ⅲ ～異世界行ったら本気だす～",
-      "summary": "",
-      "url": "https://tver.jp/episodes/epmkehc27v",
-      "image": "",
-      "leadSource": "TVer",
-      "publishedAt": "2026-10-04T15:16:45.000Z",
-      "sourceCount": 3,
-      "articleCount": 3,
-      "categories": [
-        "other",
-        "goods"
-      ],
-      "keywords": [
-        "無職転生",
-        "異世界行",
-        "本気"
-      ],
-      "articles": [
-        {
-          "title": "「ドラゴンポーカー」でアニメ「無職転生～異世界行ったら本気だす～」とのコラボイベントが開催！新規収録したコラボ限定役ボイスも追加",
-          "url": "https://www.gamer.ne.jp/news/202610020018/image/9/",
-          "source": "Gamer",
-          "publishedAt": "2026-10-03T06:19:35.000Z",
-          "isPR": false
-        },
-        {
-          "title": "無職転生～異世界行ったら本気だす～ハイプレミアムフィギュアエリス｜無職転生のプライズ 入荷予定・取扱店舗",
-          "url": "https://charagoo.jp/prize/item/8c14d1042a75/",
-          "source": "キャラグー",
-          "publishedAt": "2026-10-02T23:33:06.000Z",
-          "isPR": false
-        }
-      ]
-    },
-    {
       "id": "cae53e64ef1f",
-      "title": "薬屋のひとりごと：テレビアニメ第2期 名場面誕生の裏側 山場の「なあに」 “カエル”の表現 筆坂明規監督インタビュー",
+      "title": "薬屋のひとりごと：テレビアニメ第2期 名場面誕生の裏側 山場の「なあに」 “カエル”の表現 筆坂明規監督インタビュー - mantan-web.jp",
       "summary": "",
       "url": "https://mantan-web.jp/article/20261002dog00m200122000a.html",
       "image": "https://storage.mantan-web.jp/w=1280,h=720,icr=0:0.1:1:1,a=2,g=2,f=webp:auto/images/2026/10/02/20261002dog00m200122000a/001.jpg",
-      "leadSource": "MANTANWEB",
+      "leadSource": "mantan-web.jp",
       "publishedAt": "2026-10-04T05:24:46.000Z",
       "sourceCount": 3,
       "articleCount": 3,
@@ -954,7 +942,7 @@
         {
           "title": "＜薬屋のひとりごと＞テレビアニメ第2期 名場面誕生の裏側 山場の「なあに」 “カエル”の表現 筆坂明規監督インタビュー",
           "url": "https://news.yahoo.co.jp/articles/3b035948ceafc7fdf23ad2e157957da3bfed2583/images/000",
-          "source": "news.yahoo.co.jp",
+          "source": "Yahoo!ニュース",
           "publishedAt": "2026-10-03T22:35:00.000Z",
           "isPR": false
         },
@@ -968,12 +956,47 @@
       ]
     },
     {
+      "id": "daea2b931feb",
+      "title": "アニメ『凶乱令嬢ニア・リストン 病弱令嬢に転生した神殺しの武人の華麗なる無双録』第1話「闇より浮かびて」のあらすじ＆先行カット解禁",
+      "summary": "",
+      "url": "https://ln-news.com/articles/126845",
+      "image": "https://assets.ln-news.com/images/medias/1f6c647319964a04b914b9a8d31904d3.jpg",
+      "leadSource": "ラノベニュースオンライン",
+      "publishedAt": "2026-10-03T10:00:00.000Z",
+      "sourceCount": 3,
+      "articleCount": 3,
+      "categories": [
+        "anime"
+      ],
+      "keywords": [
+        "リストン",
+        "凶乱令嬢",
+        "神殺"
+      ],
+      "articles": [
+        {
+          "title": "神殺しの英雄が、“病弱な令嬢”に転生!? アニメ『凶乱令嬢ニア・リストン』第1話あらすじ・先行カット解禁",
+          "url": "https://news.infoseek.co.jp/article/abematimes_10276438/",
+          "source": "Infoseek",
+          "publishedAt": "2026-10-02T10:40:00.000Z",
+          "isPR": false
+        },
+        {
+          "title": "TVアニメ『凶乱令嬢ニア・リストン 病弱令嬢に転生した神殺しの武人の華麗なる無双録』普及活動会議",
+          "url": "https://youtu.be/6WXLIi8T8Ew?si",
+          "source": "youtu.be",
+          "publishedAt": "2026-10-02T09:00:18.000Z",
+          "isPR": false
+        }
+      ]
+    },
+    {
       "id": "a3b53e01d156",
       "title": "＜弱気MAX令嬢＞乙女ゲームのモブ悪役令嬢に転生したピアは国外追放される運命だと悟る…第1話あらすじ＆先行カット公開",
       "summary": "",
       "url": "https://news.yahoo.co.jp/articles/8dade5ad8fdc97be1ff7fa9d9af30cb3ebc69ce3",
       "image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20261002-01445545-the_tv-000-1-view.jpg?exp=10800",
-      "leadSource": "news.yahoo.co.jp",
+      "leadSource": "Yahoo!ニュース",
       "publishedAt": "2026-10-02T09:32:09.000Z",
       "sourceCount": 3,
       "articleCount": 3,
@@ -1004,49 +1027,47 @@
       ]
     },
     {
-      "id": "dbdf5813e90e",
-      "title": "無職転生の最新刊は25巻【2026年10月】発売日・完結・次巻の発売予定",
+      "id": "b46d93df2f9b",
+      "title": "【秋アニメ】今期新作に「古のスレタイ風」のタイトル…その名も『転生ゴブリンだけど質問ある？』MX系で開幕【先行カット】",
       "summary": "",
-      "url": "https://charagoo.jp/mushokutensei-comic-latest/",
-      "image": "",
-      "leadSource": "キャラグー",
-      "publishedAt": "2026-10-04T22:10:12.000Z",
+      "url": "https://news.infoseek.co.jp/amp/article/otakulab_208166/",
+      "image": "https://media.image.infoseek.co.jp/isnews/photos/otakulab/otakulab_208166_0-enlarge.jpg",
+      "leadSource": "Infoseek",
+      "publishedAt": "2026-10-04T22:08:07.000Z",
       "sourceCount": 2,
       "articleCount": 3,
       "categories": [
-        "book",
         "anime"
       ],
       "keywords": [
-        "薬屋",
-        "最新刊",
-        "発売日"
+        "ゴブリン",
+        "質問"
       ],
       "articles": [
         {
-          "title": "薬屋のひとりごとの最新刊は17巻【2026年10月】発売日・完結・次巻の発売予定",
-          "url": "https://charagoo.jp/kusuriyanohitorigoto-comic-latest/",
-          "source": "キャラグー",
-          "publishedAt": "2026-10-03T22:10:24.000Z",
+          "title": "第1話 転生ゴブリンだけど質問ある？「転生ゴブリンだけど質問ある？」",
+          "url": "https://thetv.jp/program/0001077857/1/",
+          "source": "WEBザテレビジョン",
+          "publishedAt": "2026-10-04T15:42:47.000Z",
           "isPR": false
         },
         {
-          "title": "薬屋のひとりごと 第3期 #50・見逃し放送",
-          "url": "https://abema.tv/channels/abema-anime/slots/9QLZ4M3eFLg8D5",
-          "source": "ABEMA",
-          "publishedAt": "2026-10-03T00:01:14.000Z",
+          "title": "第2話 転生ゴブリンだけど質問ある？",
+          "url": "https://thetv.jp/program/0001077857/2/",
+          "source": "WEBザテレビジョン",
+          "publishedAt": "2026-10-03T15:12:43.000Z",
           "isPR": false
         }
       ]
     }
   ],
   "churn": {
-    "previousAt": "2026-10-05T05:00:19.273Z",
-    "previousCount": 149,
-    "newCount": 11
+    "previousAt": "2026-10-05T05:30:54.142Z",
+    "previousCount": 147,
+    "newCount": 30
   },
   "updateGapMin": 30,
-  "nextUpdateAt": "2026-10-05T06:00:54.142Z",
+  "nextUpdateAt": "2026-10-05T06:30:19.680Z",
   "items": [
     {
       "id": "55dd716666ca",
@@ -1064,7 +1085,7 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "08319db89b84",
@@ -1084,17 +1105,17 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "e7df6b0980df",
       "title": "アニメーターの桂憲一郎さん死去 59歳 『マクロス7』『ナイツ&マジック』『転スラ』などに参加",
-      "url": "https://www.oricon.co.jp/news/2484532/",
-      "host": "oricon.co.jp",
-      "source": "オリコンニュース",
+      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNdnN0ZU1rV3h3LVJMV3ZHOW9IaTVZN2dDS3BUTTN2OXZVb1FVdUF4blFWQ2NMbUVjazhMSlZ4emFpWHVYWlI4c3dMLWVrZW5UZTZuanlvdXhXVGMtRnBGQUI4QmZKUWRYY3dRV1pYMUcyZmZSQy1VVGlyam8xeWJ1edIBhgFBVV95cUxQNjRINXZDNmNiYzZMZHlqRFpHQmZqcEREVVYtdlBkRUQzOUExdmpiTVA0YjlEcFg0a3U2TUxodGN1SE1qdFY0YnU2RlJzTWIzamVOWEFISW1fMHltWWRPTTE2UTk5YnczdkhhdWRiRDB6dzliU20yemkyRVFmSk9kai15NDJhdw?oc=5",
+      "host": "topics.smt.docomo.ne.jp",
+      "source": "ｄメニューニュース",
       "summary": "",
       "publishedAt": "2026-10-05T05:14:00.000Z",
-      "image": "https://contents.oricon.co.jp/upimg/news/2485000/2484532/20261005_141110_p_o_13391750.jpg",
+      "image": "",
       "categories": [
         "anime"
       ],
@@ -1102,16 +1123,16 @@
         "tensura"
       ],
       "isPR": false,
-      "viaGoogle": false,
+      "viaGoogle": true,
       "sourceKind": "news",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "19f1a7b8143c",
       "title": "「ショック…」『薬屋のひとりごと』3期初回、壬氏の“お顔”にファン騒然 「苦しい」「むしろ魅力的」（マグミクス）",
       "url": "https://news.yahoo.co.jp/articles/b4badf578dd145f92196816ae9e315c07d886382",
       "host": "news.yahoo.co.jp",
-      "source": "news.yahoo.co.jp",
+      "source": "Yahoo!ニュース",
       "summary": "",
       "publishedAt": "2026-10-05T05:10:00.000Z",
       "image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20261005-00379362-magmix-000-1-view.jpg?exp=10800",
@@ -1124,14 +1145,14 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": true
+      "isNew": false
     },
     {
-      "id": "2779fa3afbd2",
-      "title": "「薬屋のひとりごと」ミニアニメ第49話「蝗」が公開",
+      "id": "467c40274f83",
+      "title": "「薬屋のひとりごと」ミニアニメ第49話「蝗」が公開 - ota-suke.jp",
       "url": "https://www.ota-suke.jp/news/292153",
       "host": "ota-suke.jp",
-      "source": "おた☆スケ",
+      "source": "ota-suke.jp",
       "summary": "",
       "publishedAt": "2026-10-05T03:19:00.000Z",
       "image": "http://www.ota-suke.jp/images/editor/tak/image2026/0816_03.webp",
@@ -1144,7 +1165,7 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": false
+      "isNew": true
     },
     {
       "id": "4298716c202a",
@@ -1162,7 +1183,7 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "aee214a0cf29",
@@ -1267,12 +1288,12 @@
     {
       "id": "7280a6a661eb",
       "title": "アベイルで「薬屋のひとりごと」グッズが再販へ！猫猫たちデザインのショルダーバッグや巾着ほか、カードケースなどラインナップ",
-      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNeXJhQXQycmRRcXJsY1lGN19RcWtsRmRMa09JVTF4QmM5NGZRdW9BUXFndUpaUVBrY3M2RjB2RWk1T2hEYTFSdVozdmQ2REtZd1E2dG9lUXFhWFFPS2hISmNVTkt2aVpqRlQwTk5jdGhRTjJNNkF4YXRvU2xLeFdkZWpsYlNLMVXSAYcBQVVfeXFMTXlyYUF0MnJkUXFybGNZRjdfUXFrbEZkTGtPSVUxeEJjOTRmUXVvQVFxZ3VKWlFQa2NzNkYwdkVpNU9oRGExUnVaM3ZkNkRLWXdRNnRvZVFxYVhRT0toSEpjVU5LdmlaakZUME5OY3RoUU4yTTZBeGF0b1NsS3hXZGVqbGJTSzFV?oc=5",
-      "host": "topics.smt.docomo.ne.jp",
-      "source": "ｄメニューニュース",
+      "url": "https://news.yahoo.co.jp/articles/9ccf20346674ef3afddec97c3255b1767904a01f",
+      "host": "news.yahoo.co.jp",
+      "source": "Yahoo!ニュース",
       "summary": "",
-      "publishedAt": "2026-10-05T01:40:00.000Z",
-      "image": "",
+      "publishedAt": "2026-10-05T01:40:02.000Z",
+      "image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20261005-00000009-isd-000-1-view.jpg?exp=10800",
       "categories": [
         "goods"
       ],
@@ -1280,7 +1301,7 @@
         "kusuriya"
       ],
       "isPR": false,
-      "viaGoogle": true,
+      "viaGoogle": false,
       "sourceKind": "news",
       "isNew": false
     },
@@ -1302,6 +1323,27 @@
       "viaGoogle": false,
       "sourceKind": "news",
       "isNew": false
+    },
+    {
+      "id": "4f7875377b68",
+      "title": "リンデロンVs × TVアニメ『薬屋のひとりごと』秋冬の皮膚の謎（ミステリー）コラボキャンペーン第2弾が10月1日よりスタート",
+      "url": "https://prtimes.jp/main/html/rd/p/000000128.000048538.html",
+      "host": "prtimes.jp",
+      "source": "PR TIMES",
+      "summary": "",
+      "publishedAt": "2026-10-05T01:00:02.000Z",
+      "image": "https://prcdn.freetls.fastly.net/release_image/48538/128/48538-128-69b9955c927c731b57d7c776353cb641-1440x810.jpg?format=jpeg&auto=webp&fit=bounds&width=2400&height=1260",
+      "categories": [
+        "anime",
+        "goods"
+      ],
+      "works": [
+        "kusuriya"
+      ],
+      "isPR": true,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": true
     },
     {
       "id": "01a1a3cbe221",
@@ -1424,7 +1466,7 @@
       "title": "「薬屋のひとりごと」第3期ほか、人気異世界系作品も続々【J:COM STREAM 2026秋アニメ】（TVガイドWeb）",
       "url": "https://news.yahoo.co.jp/articles/5982e29a6dd735dfe9175f993e683c02a51b7ac3",
       "host": "news.yahoo.co.jp",
-      "source": "news.yahoo.co.jp",
+      "source": "Yahoo!ニュース",
       "summary": "",
       "publishedAt": "2026-10-04T22:00:00.000Z",
       "image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20261005-00000006-tvguidew-000-1-view.jpg?exp=10800",
@@ -1444,7 +1486,7 @@
       "title": "「無職転生lll」第2クール、27年に放送 津田健次郎が演じるオルステッドの新録ボイスを収録した映像披露（映画.com）",
       "url": "https://news.yahoo.co.jp/articles/0839d81dba62288e381d4ec6ec37c4a1f4be3cfb",
       "host": "news.yahoo.co.jp",
-      "source": "news.yahoo.co.jp",
+      "source": "Yahoo!ニュース",
       "summary": "",
       "publishedAt": "2026-10-04T22:00:00.000Z",
       "image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20261005-00000002-eiga-000-1-view.jpg?exp=10800",
@@ -1464,7 +1506,7 @@
       "title": "【セリア】ラス1だった「薬屋のひとりごと」ダイカットステッカー、ミニキャラの猫猫＆壬氏がかわいい…！（くろねこ） - エキスパート",
       "url": "https://news.yahoo.co.jp/expert/articles/56ed009e9d8191e0eba1fa7fd5515951c8aeb9fc",
       "host": "news.yahoo.co.jp",
-      "source": "news.yahoo.co.jp",
+      "source": "Yahoo!ニュース",
       "summary": "",
       "publishedAt": "2026-10-04T21:55:13.000Z",
       "image": "https://newsatcl-pctr.c.yimg.jp/t/iwiz-yn/creators/kuroneko/02735318/title-1791080307137.jpeg?exp=10800",
@@ -1481,10 +1523,10 @@
     },
     {
       "id": "3c1e97a006f4",
-      "title": "アニメ1週間：全日本模型ホビーショーにガンプラ新商品続々 「無職転生III」第2クール2027年放送",
+      "title": "アニメ1週間：全日本模型ホビーショーにガンプラ新商品続々 「無職転生III」第2クール2027年放送 - mantan-web.jp",
       "url": "https://mantan-web.jp/article/20261003dog00m200038000a.html",
       "host": "mantan-web.jp",
-      "source": "MANTANWEB",
+      "source": "mantan-web.jp",
       "summary": "",
       "publishedAt": "2026-10-04T21:39:23.000Z",
       "image": "https://storage.mantan-web.jp/w=1280,h=720,icr=0:0.1:1:1,a=2,g=2,f=webp:auto/images/2026/10/03/20261003dog00m200038000a/001.jpg",
@@ -1501,10 +1543,10 @@
     },
     {
       "id": "388c55c9a50a",
-      "title": "今週の新刊：アニメも人気の「転スラ」 「税金で買った本」「ゆるキャン△」「魔入りました！入間くん」も",
+      "title": "今週の新刊：アニメも人気の「転スラ」 「税金で買った本」「ゆるキャン△」「魔入りました！入間くん」も - mantan-web.jp",
       "url": "https://mantan-web.jp/article/20260928dog00m200082000a.html",
       "host": "mantan-web.jp",
-      "source": "MANTANWEB",
+      "source": "mantan-web.jp",
       "summary": "",
       "publishedAt": "2026-10-04T21:14:23.000Z",
       "image": "https://storage.mantan-web.jp/w=1280,h=720,icr=0:0.1:1:1,a=2,g=2,f=webp:auto/images/2026/09/28/20260928dog00m200082000a/001.jpg",
@@ -1542,24 +1584,24 @@
       "isNew": false
     },
     {
-      "id": "bf5e9e535a73",
-      "title": "＜転スラ 第4期＞クロエとヒナタを救うため、リムルはクロノアの無限牢獄に干渉する 第96話あらすじ＆場面カット公開",
-      "url": "https://thetv.jp/news/detail/1442655/18575914/",
+      "id": "e419236110ec",
+      "title": "「アニメ化してくれて本当にありがとう」“圧巻”の美しさで魔術表現した作画にファン熱狂＜本好きの下剋上＞",
+      "url": "https://thetv.jp/news/detail/1431261/18190496/",
       "host": "thetv.jp",
       "source": "WEBザテレビジョン",
       "summary": "",
-      "publishedAt": "2026-10-04T19:51:05.000Z",
-      "image": "https://thetv.jp/i/nw/1442655/18575914.jpg?w=1284",
+      "publishedAt": "2026-10-04T19:57:49.000Z",
+      "image": "https://thetv.jp/i/nw/1431261/18190496.jpg?w=1284",
       "categories": [
         "anime"
       ],
       "works": [
-        "tensura"
+        "honzuki"
       ],
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": false
+      "isNew": true
     },
     {
       "id": "80f0fa301e95",
@@ -1603,6 +1645,26 @@
       "isNew": false
     },
     {
+      "id": "72a8588ce136",
+      "title": "『盾の勇者の成り上がり』第5期は2027年放送 場面カットとPV解禁",
+      "url": "https://www.sanyonews.jp/article/1949408?kw",
+      "host": "sanyonews.jp",
+      "source": "山陽新聞",
+      "summary": "",
+      "publishedAt": "2026-10-04T17:31:51.000Z",
+      "image": "https://static.sanyonews.jp/image/article/size1/2/0/3/d/203dd8d2a06617d9be0dfd9be918dee4_1.jpg",
+      "categories": [
+        "anime"
+      ],
+      "works": [
+        "tate"
+      ],
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": true
+    },
+    {
       "id": "36eed87c5eb2",
       "title": "『転スラ』第4期の第3クールは来年7月放送 公式スピンオフ『クレイマンREVENGE』アニメ化で4月放送",
       "url": "https://www.sanyonews.jp/article/1994683?kw",
@@ -1620,7 +1682,7 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "16563f292a6c",
@@ -1661,13 +1723,33 @@
       "isNew": false
     },
     {
-      "id": "86c279374abe",
-      "title": "異世界・ファンタジーアニメ5チャンネル | 無料で放送中の番組や配信中の話題作が見放題",
-      "url": "https://abema.tv/now-on-air/isekai-anime-5",
-      "host": "abema.tv",
-      "source": "ABEMA",
+      "id": "bdecf2792ae8",
+      "title": "【薬屋のひとりごと3期第49話】おかえり壬猫❣ 蝗害の前触れ、謎の白い女、壬氏の「花選び」",
+      "url": "https://youtu.be/Avp-4dZw4x8?si",
+      "host": "youtu.be",
+      "source": "youtu.be",
       "summary": "",
-      "publishedAt": "2026-10-04T15:00:00.000Z",
+      "publishedAt": "2026-10-04T14:31:04.000Z",
+      "image": "",
+      "categories": [
+        "anime"
+      ],
+      "works": [
+        "kusuriya"
+      ],
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": true
+    },
+    {
+      "id": "69cc96c3f025",
+      "title": "【魔力リボ1話感想】借金した結果、ケバくなるざまぁ系幼馴染…「チー付与」と合わせて君も観よう【2026年秋アニメ】【貸した魔力は【リボ払い】で強制徴収】",
+      "url": "https://youtu.be/eqag1lJ2KOM?si",
+      "host": "youtu.be",
+      "source": "youtu.be",
+      "summary": "",
+      "publishedAt": "2026-10-04T14:25:03.000Z",
       "image": "",
       "categories": [
         "anime"
@@ -1676,7 +1758,7 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": false
+      "isNew": true
     },
     {
       "id": "9016514f584e",
@@ -1692,6 +1774,85 @@
         "book"
       ],
       "works": [],
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": false
+    },
+    {
+      "id": "e9edaf9f1f67",
+      "title": "【アニメ異世界】無数の日本料理を召喚する能力を授かり、現代料理で死後の世界を征服した！Episode 3【マンガ動画】 Iran Supreme Leader Injuries (pJZpF2yPFU)",
+      "url": "https://media.unisba.ac.id/501eb971/16e5b0c4i1WLS1IRQok",
+      "host": "media.unisba.ac.id",
+      "source": "Unisba Media",
+      "summary": "",
+      "publishedAt": "2026-10-04T13:45:05.000Z",
+      "image": "",
+      "categories": [
+        "anime",
+        "comic"
+      ],
+      "works": [],
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": true
+    },
+    {
+      "id": "51e03d135967",
+      "title": "【リゼロ】Recollect 歌ってみた cover 蜂屋ひまわり",
+      "url": "https://youtu.be/uCTrKFlAsmk?si",
+      "host": "youtu.be",
+      "source": "youtu.be",
+      "summary": "",
+      "publishedAt": "2026-10-04T12:52:44.000Z",
+      "image": "https://i.ytimg.com/vi/uCTrKFlAsmk/maxresdefault.jpg",
+      "categories": [
+        "other"
+      ],
+      "works": [
+        "rezero"
+      ],
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": true
+    },
+    {
+      "id": "a71cb9070e43",
+      "title": "＜本好きの下剋上＞シャルロッテが黒ずくめの男たちに誘拐される…第二十三章あらすじ紹介",
+      "url": "https://thetv.jp/news/detail/1443762/landing/",
+      "host": "thetv.jp",
+      "source": "WEBザテレビジョン",
+      "summary": "",
+      "publishedAt": "2026-10-04T12:35:18.000Z",
+      "image": "",
+      "categories": [
+        "anime"
+      ],
+      "works": [
+        "honzuki"
+      ],
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": false
+    },
+    {
+      "id": "4d25ed3e9bf7",
+      "title": "Realize - 鈴木このみ / covered by 黒咲ルシア【リゼロ / 歌ってみた】",
+      "url": "https://youtu.be/ZCGx0V4QqcA?si",
+      "host": "youtu.be",
+      "source": "youtu.be",
+      "summary": "",
+      "publishedAt": "2026-10-04T12:00:10.000Z",
+      "image": "",
+      "categories": [
+        "anime"
+      ],
+      "works": [
+        "rezero"
+      ],
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
@@ -1718,11 +1879,31 @@
       "isNew": false
     },
     {
+      "id": "f6f5b132f70c",
+      "title": "KADOKAWAグループ作品6万点以上に使える最大60％OFFクーポン配布！「陰の実力者」「聖剣学院の魔剣使い」など秋アニメ作品もお得に",
+      "url": "https://www.walkerplus.com/article/1163318/",
+      "host": "walkerplus.com",
+      "source": "ウォーカープラス",
+      "summary": "",
+      "publishedAt": "2026-10-04T11:15:41.000Z",
+      "image": "https://news.walkerplus.com/article/1163318/12301909_615.jpg",
+      "categories": [
+        "anime"
+      ],
+      "works": [
+        "kagejitsu"
+      ],
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": true
+    },
+    {
       "id": "cf38249b1a67",
       "title": "アニメ1週間＞全日本模型ホビーショーにガンプラ新商品続々 「無職転生III」第2クール2027年放送（MANTANWEB）",
       "url": "https://news.yahoo.co.jp/articles/1c5e88d97485ef4b5622afbe52a97b763db866ca?page",
       "host": "news.yahoo.co.jp",
-      "source": "news.yahoo.co.jp",
+      "source": "Yahoo!ニュース",
       "summary": "",
       "publishedAt": "2026-10-04T10:05:00.000Z",
       "image": "",
@@ -1800,7 +1981,7 @@
       "title": "今週の新刊＞アニメも人気の「転スラ」 「税金で買った本」「ゆるキャン△」「魔入りました！入間くん」も（MANTANWEB）",
       "url": "https://news.yahoo.co.jp/articles/be1503228c245d7a611cc06be3f8cfe0dc7cad21?page",
       "host": "news.yahoo.co.jp",
-      "source": "news.yahoo.co.jp",
+      "source": "Yahoo!ニュース",
       "summary": "",
       "publishedAt": "2026-10-04T09:35:00.000Z",
       "image": "",
@@ -1859,7 +2040,7 @@
       "title": "『本好きの下剋上』続編「貴族院の自称図書委員」編アニメ化決定 制作はWIT STUDIO (オリコン)",
       "url": "https://news.yahoo.co.jp/articles/a437fcb36b3889f21a6564887597857419590f54/images/000",
       "host": "news.yahoo.co.jp",
-      "source": "news.yahoo.co.jp",
+      "source": "Yahoo!ニュース",
       "summary": "",
       "publishedAt": "2026-10-04T08:12:47.000Z",
       "image": "https://news-pctr.c.yimg.jp/uUzvQ3lML_bkIqyakc1vFhNrRI0RUQxg5aFkrX0xDg1_T0wXrbEJjtNGtrf1o9y3xudcUclfbXjZqAvGT8NJndPUz2xfgVx3_HBy_xE0821_JZMOdSIWJyHHAo-dV-VHQdl0dM7f_JCIccVJXwNhH3e9KONhkhNSqQrjhzJ0h83VzMrqJnlEHTSF8PI0kxMV",
@@ -1932,10 +2113,10 @@
     },
     {
       "id": "cae53e64ef1f",
-      "title": "薬屋のひとりごと：テレビアニメ第2期 名場面誕生の裏側 山場の「なあに」 “カエル”の表現 筆坂明規監督インタビュー",
+      "title": "薬屋のひとりごと：テレビアニメ第2期 名場面誕生の裏側 山場の「なあに」 “カエル”の表現 筆坂明規監督インタビュー - mantan-web.jp",
       "url": "https://mantan-web.jp/article/20261002dog00m200122000a.html",
       "host": "mantan-web.jp",
-      "source": "MANTANWEB",
+      "source": "mantan-web.jp",
       "summary": "",
       "publishedAt": "2026-10-04T05:24:46.000Z",
       "image": "https://storage.mantan-web.jp/w=1280,h=720,icr=0:0.1:1:1,a=2,g=2,f=webp:auto/images/2026/10/02/20261002dog00m200122000a/001.jpg",
@@ -1951,11 +2132,51 @@
       "isNew": false
     },
     {
+      "id": "bf5e9e535a73",
+      "title": "＜転スラ 第4期＞クロエとヒナタを救うため、リムルはクロノアの無限牢獄に干渉する 第96話あらすじ＆場面カット公開",
+      "url": "https://thetv.jp/news/detail/1442655/18575916/",
+      "host": "thetv.jp",
+      "source": "WEBザテレビジョン",
+      "summary": "",
+      "publishedAt": "2026-10-04T05:24:11.000Z",
+      "image": "https://thetv.jp/i/nw/1442655/18575916.jpg?w=1284",
+      "categories": [
+        "anime"
+      ],
+      "works": [
+        "tensura"
+      ],
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": false
+    },
+    {
+      "id": "4596d7002ecc",
+      "title": "【無職転生】3期 14話 VTuber・海外の反応集 「ナナホシの危機」 | Mushoku Tensei S3 Ep 14 Reaction Mashup",
+      "url": "https://youtu.be/65uAOLqsLXI?si",
+      "host": "youtu.be",
+      "source": "youtu.be",
+      "summary": "",
+      "publishedAt": "2026-10-04T05:00:13.000Z",
+      "image": "",
+      "categories": [
+        "anime"
+      ],
+      "works": [
+        "mushoku"
+      ],
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": true
+    },
+    {
       "id": "6ec96772d028",
       "title": "薬屋のひとりごと・「壬氏が卒倒しそう」な猫猫の姿が限定グッズ化 10月30日より登場 (マグミクス)",
       "url": "https://news.yahoo.co.jp/articles/03ad2c488ce13b0515047ca8e66cc61b6e5195c2/images/000",
       "host": "news.yahoo.co.jp",
-      "source": "news.yahoo.co.jp",
+      "source": "Yahoo!ニュース",
       "summary": "",
       "publishedAt": "2026-10-04T03:20:00.000Z",
       "image": "https://news-pctr.c.yimg.jp/uUzvQ3lML_bkIqyakc1vFhNrRI0RUQxg5aFkrX0xDg1_T0wXrbEJjtNGtrf1o9y3xudcUclfbXjZqAvGT8NJnfnFGpXDIlH3nk2lDUBqDKx7AoPrR-bHCHqmgHHiAzLpCnGpgtWTX7-9gSMPTtvwJFr60rgEp04GYED07fu5MjSNE23GLRkwKfUd9OnVu1OD4KVfhnoHnHDorp5guHeqTg==",
@@ -1971,11 +2192,51 @@
       "isNew": false
     },
     {
-      "id": "ae3d227fb755",
-      "title": "【勘違い】異世界ファンタジー「どれなの」TVアニメ化。ビジュアル",
+      "id": "2e40e961d474",
+      "title": "無職転生 Ⅲ ～異世界行ったら本気出す～",
+      "url": "https://youtu.be/YawKu3BcMLI",
+      "host": "youtu.be",
+      "source": "youtu.be",
+      "summary": "",
+      "publishedAt": "2026-10-04T03:00:10.000Z",
+      "image": "",
+      "categories": [
+        "other"
+      ],
+      "works": [
+        "mushoku"
+      ],
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": true
+    },
+    {
+      "id": "35ec59d815aa",
+      "title": "【衝撃】チャンネル史上最速でガチャを終わらせた男！神引きにも程があるw【#モンスト / #リゼロ 】",
+      "url": "https://youtu.be/TVpT48dcq9Y?si",
+      "host": "youtu.be",
+      "source": "youtu.be",
+      "summary": "",
+      "publishedAt": "2026-10-04T02:59:05.000Z",
+      "image": "",
+      "categories": [
+        "game"
+      ],
+      "works": [
+        "rezero"
+      ],
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": true
+    },
+    {
+      "id": "b89a65d47c79",
+      "title": "【勘違い】異世界ファンタジー「どれなの」TVアニメ化。ビジュアル - ota-suke.jp",
       "url": "https://www.ota-suke.jp/news/292128",
       "host": "ota-suke.jp",
-      "source": "おた☆スケ",
+      "source": "ota-suke.jp",
       "summary": "",
       "publishedAt": "2026-10-04T02:49:00.000Z",
       "image": "http://www.ota-suke.jp/images/editor/tak/image2026/1004_19.webp",
@@ -1986,7 +2247,7 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": false
+      "isNew": true
     },
     {
       "id": "2a94e30574f5",
@@ -2007,11 +2268,31 @@
       "isNew": false
     },
     {
+      "id": "0ebaaac53f7f",
+      "title": "【本好きの下剋上 領主の養女】最終回の感想【2026夏アニメ】",
+      "url": "https://youtu.be/pL4Bfhi2tgY?si",
+      "host": "youtu.be",
+      "source": "youtu.be",
+      "summary": "",
+      "publishedAt": "2026-10-04T02:12:33.000Z",
+      "image": "",
+      "categories": [
+        "anime"
+      ],
+      "works": [
+        "honzuki"
+      ],
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": true
+    },
+    {
       "id": "44c4862957ef",
-      "title": "奴隷からの期待と評価のせいで搾取できないのだが：テレビアニメ化 電撃の新文芸の異世界勘違いコメディー",
+      "title": "奴隷からの期待と評価のせいで搾取できないのだが：テレビアニメ化 電撃の新文芸の異世界勘違いコメディー - mantan-web.jp",
       "url": "https://mantan-web.jp/article/20261003dog00m200039000a.html",
       "host": "mantan-web.jp",
-      "source": "MANTANWEB",
+      "source": "mantan-web.jp",
       "summary": "",
       "publishedAt": "2026-10-04T02:08:30.000Z",
       "image": "https://storage.mantan-web.jp/w=1280,h=720,icr=0:0.1:1:1,a=2,g=2,f=webp:auto/images/2026/10/03/20261003dog00m200039000a/001.jpg",
@@ -2105,29 +2386,11 @@
       "isNew": false
     },
     {
-      "id": "bdc701d57212",
-      "title": "TVアニメ「転生した大聖女は、聖女であることをひた隠す」放送直前特番 (アニメ) | 無料動画・見逃し配信を見るなら",
-      "url": "https://abema.tv/video/title/218-929",
-      "host": "abema.tv",
-      "source": "ABEMA",
-      "summary": "",
-      "publishedAt": "2026-10-04T00:40:44.000Z",
-      "image": "",
-      "categories": [
-        "anime"
-      ],
-      "works": [],
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": false
-    },
-    {
       "id": "6004816fd36e",
       "title": "＜薬屋のひとりごと＞テレビアニメ第2期 名場面誕生の裏側 山場の「なあに」 “カエル”の表現 筆坂明規監督インタビュー",
       "url": "https://news.yahoo.co.jp/articles/3b035948ceafc7fdf23ad2e157957da3bfed2583/images/000",
       "host": "news.yahoo.co.jp",
-      "source": "news.yahoo.co.jp",
+      "source": "Yahoo!ニュース",
       "summary": "",
       "publishedAt": "2026-10-03T22:35:00.000Z",
       "image": "https://news-pctr.c.yimg.jp/uUzvQ3lML_bkIqyakc1vFhNrRI0RUQxg5aFkrX0xDg1_T0wXrbEJjtNGtrf1o9y3xudcUclfbXjZqAvGT8NJnQvyyEExT2iZeWRvuEALr_kCfdFPIwNPIJhLiDuSrBq9It4k5iYoPe0MW8lnu_3OufBJbPb__RjM7i7P162j2gV2zGe4lnHj1w63CLBpmsLFcAT3VATBu3KM2liYMHjBng==",
@@ -2147,7 +2410,7 @@
       "title": "2026年夏アニメは『さよならララ』『無職転生III』『ふつつかな悪女ではございますが』など話題のアニメが大人気！ 満足度ランキングTOP10を発表",
       "url": "http://www.excite.co.jp/news/article/pashplus_EXCITE_497712/",
       "host": "excite.co.jp",
-      "source": "Excite エキサイト",
+      "source": "excite.co.jp",
       "summary": "",
       "publishedAt": "2026-10-03T22:27:15.000Z",
       "image": "",
@@ -2188,7 +2451,7 @@
       "title": "「片田舎のおっさん、剣聖になる」第3期が製作決定 主役の平田広明からお祝いコメント（映画.com）",
       "url": "https://news.yahoo.co.jp/articles/8f8970a43eb31f2e7909f4b477521cc79a527c6a",
       "host": "news.yahoo.co.jp",
-      "source": "news.yahoo.co.jp",
+      "source": "Yahoo!ニュース",
       "summary": "",
       "publishedAt": "2026-10-03T22:00:00.000Z",
       "image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20261004-00000001-eiga-000-1-view.jpg?exp=10800",
@@ -2204,24 +2467,24 @@
       "isNew": false
     },
     {
-      "id": "a71cb9070e43",
-      "title": "＜本好きの下剋上＞シャルロッテが黒ずくめの男たちに誘拐される…第二十三章あらすじ紹介",
-      "url": "https://thetv.jp/news/detail/1443762/landing/",
+      "id": "5bbe81231152",
+      "title": "無職転生III＞日記を読み終えたルーデウスは、家族を守るために行動を始める…第14話あらすじ＆先行カット公開",
+      "url": "https://thetv.jp/news/detail/1443312/landing/",
       "host": "thetv.jp",
       "source": "WEBザテレビジョン",
       "summary": "",
-      "publishedAt": "2026-10-03T21:41:45.000Z",
+      "publishedAt": "2026-10-03T21:43:57.000Z",
       "image": "",
       "categories": [
         "anime"
       ],
       "works": [
-        "honzuki"
+        "mushoku"
       ],
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": false
+      "isNew": true
     },
     {
       "id": "4b8c9d747153",
@@ -2283,6 +2546,26 @@
       "isNew": false
     },
     {
+      "id": "9a683a7f1b7a",
+      "title": "片田舎のおっさん、剣聖になるII＞「傭兵団は味方？」王女たちを守る一行に、意外な人物が助力する…第11話あらすじ公開",
+      "url": "https://thetv.jp/news/detail/1440438/landing/",
+      "host": "thetv.jp",
+      "source": "WEBザテレビジョン",
+      "summary": "",
+      "publishedAt": "2026-10-03T18:00:07.000Z",
+      "image": "",
+      "categories": [
+        "anime"
+      ],
+      "works": [
+        "katainaka"
+      ],
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": true
+    },
+    {
       "id": "e2c581d36d67",
       "title": "第2話 転生ゴブリンだけど質問ある？",
       "url": "https://thetv.jp/program/0001077857/2/",
@@ -2301,11 +2584,31 @@
       "isNew": false
     },
     {
+      "id": "4a4ce8ce865f",
+      "title": "【超究極レイド】4手ワンパンしてみた‼運ボあり‼ #モンスト #レイド #リゼロ",
+      "url": "https://youtu.be/X91rfVJgjWs?si",
+      "host": "youtu.be",
+      "source": "youtu.be",
+      "summary": "",
+      "publishedAt": "2026-10-03T14:14:15.000Z",
+      "image": "",
+      "categories": [
+        "game"
+      ],
+      "works": [
+        "rezero"
+      ],
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": true
+    },
+    {
       "id": "c4f073be5211",
       "title": "アニメ『本好きの下剋上 貴族院の自称図書委員』TVアニメ化決定 制作はWIT STUDIO (クランクイン！)",
       "url": "https://news.yahoo.co.jp/articles/4a2dd8401342fd03f024b620752ba4b71ca4ca14/images/000",
       "host": "news.yahoo.co.jp",
-      "source": "news.yahoo.co.jp",
+      "source": "Yahoo!ニュース",
       "summary": "",
       "publishedAt": "2026-10-03T14:10:35.000Z",
       "image": "https://news-pctr.c.yimg.jp/uUzvQ3lML_bkIqyakc1vFhNrRI0RUQxg5aFkrX0xDg1_T0wXrbEJjtNGtrf1o9y3xudcUclfbXjZqAvGT8NJnSlqfISOyVNxW1yF07KrBGcVtI97bbJYkXvHbRnAVBNW3XtrGGuKvqwzvqd7dozfI1YFNdaojKh8UhXxCSQugSb_uICrGrfVOZkvASBReZxw7zen5QfzQwOWEpDHgY32dQ==",
@@ -2321,11 +2624,31 @@
       "isNew": false
     },
     {
+      "id": "d7ef3006585f",
+      "title": "無職転生III＞突然現れた謎の老人が、ルーデウスの未来について語り始める…第12話あらすじ＆先行カット公開",
+      "url": "https://thetv.jp/news/detail/1439775/landing/",
+      "host": "thetv.jp",
+      "source": "WEBザテレビジョン",
+      "summary": "",
+      "publishedAt": "2026-10-03T14:05:21.000Z",
+      "image": "",
+      "categories": [
+        "anime"
+      ],
+      "works": [
+        "mushoku"
+      ],
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": true
+    },
+    {
       "id": "ea02ce2621c7",
-      "title": "薬屋のひとりごと：テレビアニメ第3期 悠木碧×大塚剛央インタビュー 猫猫と壬氏の「恋愛以上の信頼関係」 「餅つき」のような名人芸に",
+      "title": "薬屋のひとりごと：テレビアニメ第3期 悠木碧×大塚剛央インタビュー 猫猫と壬氏の「恋愛以上の信頼関係」 「餅つき」のような名人芸に - mantan-web.jp",
       "url": "https://mantan-web.jp/article/20261003dog00m200000000a.html",
       "host": "mantan-web.jp",
-      "source": "MANTANWEB",
+      "source": "mantan-web.jp",
       "summary": "",
       "publishedAt": "2026-10-03T12:23:30.000Z",
       "image": "https://storage.mantan-web.jp/w=1280,h=720,icr=0:0.1:1:1,a=2,g=2,f=webp:auto/images/2026/10/03/20261003dog00m200000000a/001.jpg",
@@ -2381,31 +2704,11 @@
       "isNew": false
     },
     {
-      "id": "5236b7d0da28",
-      "title": "転スラ 第4期＞各々が戦いを繰り広げる中、シオンが能力を進化させる 第95話あらすじ＆場面カット公開",
-      "url": "https://thetv.jp/news/detail/1440971/landing/?utm_source",
-      "host": "thetv.jp",
-      "source": "WEBザテレビジョン",
-      "summary": "",
-      "publishedAt": "2026-10-03T11:57:02.000Z",
-      "image": "",
-      "categories": [
-        "anime"
-      ],
-      "works": [
-        "tensura"
-      ],
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": true
-    },
-    {
       "id": "7b0c42db0862",
       "title": "薬屋のひとりごと＞テレビアニメ第3期 悠木碧×大塚剛央インタビュー 猫猫と壬氏の「恋愛以上の信頼関係」 「餅つき」のような名人芸に (MANTANWEB)",
       "url": "https://news.yahoo.co.jp/articles/905fa15f45d59a4191ef03abd39471ee6ad5fa83/images/000",
       "host": "news.yahoo.co.jp",
-      "source": "news.yahoo.co.jp",
+      "source": "Yahoo!ニュース",
       "summary": "",
       "publishedAt": "2026-10-03T11:35:00.000Z",
       "image": "https://news-pctr.c.yimg.jp/uUzvQ3lML_bkIqyakc1vFhNrRI0RUQxg5aFkrX0xDg1_T0wXrbEJjtNGtrf1o9y3xudcUclfbXjZqAvGT8NJnWZsIDejopNar5uCpnGlmqkYXkemUkpOvE33k1j-16oF9UcnIkicbZWFIIwUD9su45KV65X4CA-zCUHIfXfrkbn0NsnvQtLzUuA7EuIDGe0nySTlSw7lxZVCJid2Cgxjow==",
@@ -2421,11 +2724,94 @@
       "isNew": false
     },
     {
+      "id": "b16527835447",
+      "title": "リゼロ4期の続きアニメ5期(7章26巻)冒頭をネタバレ解説！スバルとレムとルイはどこに転移した？この先の展開と監視塔に残されたエミリア達はどうなる？ #リゼロ #rezero",
+      "url": "https://youtu.be/ottGcSSjOMo",
+      "host": "youtu.be",
+      "source": "youtu.be",
+      "summary": "",
+      "publishedAt": "2026-10-03T11:33:29.000Z",
+      "image": "",
+      "categories": [
+        "anime",
+        "book"
+      ],
+      "works": [
+        "rezero"
+      ],
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": true
+    },
+    {
+      "id": "dee8700210fc",
+      "title": "【超究極レイド】ギミック未対応PTでクリアしてみた‼ #モンスト #レイド #リゼロ",
+      "url": "https://youtu.be/1dbiVsNbss4?si",
+      "host": "youtu.be",
+      "source": "youtu.be",
+      "summary": "",
+      "publishedAt": "2026-10-03T11:19:17.000Z",
+      "image": "",
+      "categories": [
+        "game"
+      ],
+      "works": [
+        "rezero"
+      ],
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": true
+    },
+    {
+      "id": "a47a71e6831a",
+      "title": "【モンスト】まごうことなき神回。イベントでなんにも仕事していない男が『リゼロ』コラボガチャで神引きしちゃう不公平動画【ぼた餅/切り抜き/ダイジェスト】",
+      "url": "https://youtu.be/USOPPY1VB5s",
+      "host": "youtu.be",
+      "source": "youtu.be",
+      "summary": "",
+      "publishedAt": "2026-10-03T11:01:31.000Z",
+      "image": "",
+      "categories": [
+        "game",
+        "goods"
+      ],
+      "works": [
+        "rezero"
+      ],
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": true
+    },
+    {
+      "id": "bbdba367f43d",
+      "title": "「無職転生Ⅲ 心の声ラジオ」｜第13回｜10/3(土)配信｜パーソナリティ：杉田智和 (前世の男役)/ゲスト：くじら（ヒトガミ役）",
+      "url": "https://youtu.be/abjrPJtgBRY?si",
+      "host": "youtu.be",
+      "source": "youtu.be",
+      "summary": "",
+      "publishedAt": "2026-10-03T11:00:34.000Z",
+      "image": "",
+      "categories": [
+        "anime",
+        "goods"
+      ],
+      "works": [
+        "mushoku"
+      ],
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": true
+    },
+    {
       "id": "c1e1fdbbf7c3",
-      "title": "新台『e Re:ゼロから始める異世界生活 鬼がかり2』のRUSH・赤保留・先バレカスタムを徹底解説！",
+      "title": "新台『e Re:ゼロから始める異世界生活 鬼がかり2』のRUSH・赤保留・先バレカスタムを徹底解説！ - p-town.dmm.com",
       "url": "https://p-town.dmm.com/specials/5455",
       "host": "p-town.dmm.com",
-      "source": "DMMぱちタウン",
+      "source": "p-town.dmm.com",
       "summary": "",
       "publishedAt": "2026-10-03T11:00:00.000Z",
       "image": "",
@@ -2479,6 +2865,27 @@
       "isNew": false
     },
     {
+      "id": "4afa821fa63e",
+      "title": "【モンスト】リゼロ コラボガチャでゴー☆ジャスは目当てのキャラを手に入れられるか？？",
+      "url": "https://youtu.be/dnrSr2Yf7tE?si",
+      "host": "youtu.be",
+      "source": "youtu.be",
+      "summary": "",
+      "publishedAt": "2026-10-03T09:15:05.000Z",
+      "image": "",
+      "categories": [
+        "game",
+        "goods"
+      ],
+      "works": [
+        "rezero"
+      ],
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": true
+    },
+    {
       "id": "168839cace1c",
       "title": "「本好きの下剋上」貴族院の自称図書委員編のTVアニメ化が決定！ WIT STUDIOが続投",
       "url": "https://animeanime.jp/article/2026/10/03/103483.html",
@@ -2503,7 +2910,7 @@
       "title": "本好きの下剋上＞「貴族院の自称図書委員」編がテレビアニメ化 「領主の養女」に続きWIT STUDIO制作（MANTANWEB）",
       "url": "https://news.yahoo.co.jp/articles/86b23c84a5f0603dced41c5c4aa0ba1ffb984725",
       "host": "news.yahoo.co.jp",
-      "source": "news.yahoo.co.jp",
+      "source": "Yahoo!ニュース",
       "summary": "",
       "publishedAt": "2026-10-03T09:00:00.000Z",
       "image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20261003-00000064-mantan-000-1-view.jpg?exp=10800",
@@ -2563,7 +2970,7 @@
       "title": "『本好きの下剋上』「貴族院の自称図書委員」編 TVアニメ化決定",
       "url": "https://www.animatetimes.com/news/details.php?id",
       "host": "animatetimes.com",
-      "source": "animatetimes.com",
+      "source": "アニメイトタイムズ",
       "summary": "",
       "publishedAt": "2026-10-03T09:00:00.000Z",
       "image": "https://www.animatetimes.com/img/ogimage.png",
@@ -2603,7 +3010,7 @@
       "title": "「美腹筋すごっ！」『無職転生』香港美女コスプレイヤーによる“エリス”に「すばらしい」「ウェストきれい」 (マグミクス)",
       "url": "https://news.yahoo.co.jp/articles/f016fcd5c09ecd18f1ae71f39fe7dc3220850d36/images/000",
       "host": "news.yahoo.co.jp",
-      "source": "news.yahoo.co.jp",
+      "source": "Yahoo!ニュース",
       "summary": "",
       "publishedAt": "2026-10-03T08:25:00.000Z",
       "image": "https://news-pctr.c.yimg.jp/uUzvQ3lML_bkIqyakc1vFhNrRI0RUQxg5aFkrX0xDg1_T0wXrbEJjtNGtrf1o9y3xudcUclfbXjZqAvGT8NJncBG38KcF1Ge50rRi2pyClkYnxLW1ycoYhfsj0kvNNpgGyEwxfklC0n3T81JmalS_aWM1AtnqePOxw4MS_KwlO78qC0BYundDKwBn3jNe_H5",
@@ -2808,7 +3215,7 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "2aa88a103a28",
@@ -2853,7 +3260,7 @@
       "title": "＜魔法騎士レイアース＞異世界セフィーロへ召喚された光たちは伝説の魔法騎士を目指す 第1話あらすじ＆先行カット公開",
       "url": "https://news.yahoo.co.jp/articles/058ad47c6b7e8824edcb82614cf9019c9b41d7c4",
       "host": "news.yahoo.co.jp",
-      "source": "news.yahoo.co.jp",
+      "source": "Yahoo!ニュース",
       "summary": "",
       "publishedAt": "2026-10-03T04:00:00.000Z",
       "image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20261003-01445381-the_tv-000-1-view.jpg?exp=10800",
@@ -2892,7 +3299,7 @@
       "source": "GAME Watch",
       "summary": "",
       "publishedAt": "2026-10-03T04:00:00.000Z",
-      "image": "https://game.watch.impress.co.jp/img/gmw/list/2145/200/000.jpg",
+      "image": "",
       "categories": [
         "anime"
       ],
@@ -2907,7 +3314,7 @@
       "title": "『魔法騎士レイアース』第1話「異世界より」のあらすじ＆先行場面カット＆予告映像が公開！",
       "url": "https://www.animatetimes.com/news/details.php?id",
       "host": "animatetimes.com",
-      "source": "animatetimes.com",
+      "source": "アニメイトタイムズ",
       "summary": "",
       "publishedAt": "2026-10-03T04:00:00.000Z",
       "image": "https://www.animatetimes.com/img/ogimage.png",
@@ -2940,26 +3347,6 @@
       "viaGoogle": false,
       "sourceKind": "news",
       "isNew": false
-    },
-    {
-      "id": "4da3141c792d",
-      "title": "＜無職転生III＞老ルーデウスの遺した言葉を胸に、ルーデウスは託された日記を開く…第13話あらすじ＆先行カット公開",
-      "url": "https://thetv.jp/news/detail/1442038/18558392/",
-      "host": "thetv.jp",
-      "source": "WEBザテレビジョン",
-      "summary": "",
-      "publishedAt": "2026-10-03T01:54:46.000Z",
-      "image": "https://thetv.jp/i/nw/1442038/18558392.jpg?w=1284",
-      "categories": [
-        "anime"
-      ],
-      "works": [
-        "mushoku"
-      ],
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": true
     },
     {
       "id": "96c92b335c4b",
@@ -3039,24 +3426,24 @@
       "isNew": false
     },
     {
-      "id": "1615e9d935d0",
-      "title": "薬屋のひとりごと 第3期 #50・見逃し放送",
-      "url": "https://abema.tv/channels/abema-anime/slots/9QLZ4M3eFLg8D5",
-      "host": "abema.tv",
-      "source": "ABEMA",
+      "id": "038e2ce81311",
+      "title": "冬アニメ『リゼロ』2期(後半クール)の見どころを紹介",
+      "url": "https://www.animatetimes.com/news/img.php?id",
+      "host": "animatetimes.com",
+      "source": "アニメイトタイムズ",
       "summary": "",
-      "publishedAt": "2026-10-03T00:01:14.000Z",
-      "image": "",
+      "publishedAt": "2026-10-03T00:17:03.000Z",
+      "image": "https://www.animatetimes.com/img/ogimage.png",
       "categories": [
         "anime"
       ],
       "works": [
-        "kusuriya"
+        "rezero"
       ],
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": false
+      "isNew": true
     },
     {
       "id": "6b2c1b00fdc6",
@@ -3103,7 +3490,7 @@
       "title": "【秋アニメ】今期は「リボ払い」と「異世界」が融合!?異色すぎる新作がテレ朝系全国ネットで始まる【先行カット】（オタク総研）",
       "url": "https://news.yahoo.co.jp/articles/b03ea94a18d570865384f37757a7d7e946290cda",
       "host": "news.yahoo.co.jp",
-      "source": "news.yahoo.co.jp",
+      "source": "Yahoo!ニュース",
       "summary": "",
       "publishedAt": "2026-10-02T22:12:00.000Z",
       "image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20261003-00071200-otakulab-000-1-view.jpg?exp=10800",
@@ -3241,7 +3628,7 @@
       "title": "壬氏＆羅漢“猫猫ガチ勢”の圧に「マジ顔具合よw」「顔が面白すぎる」アニメ『薬屋のひとりごと』第3期初回（ABEMA TIMES）",
       "url": "https://news.yahoo.co.jp/articles/1121578ac8ec7fd611cdacc38d4df7914fbd0d58",
       "host": "news.yahoo.co.jp",
-      "source": "news.yahoo.co.jp",
+      "source": "Yahoo!ニュース",
       "summary": "",
       "publishedAt": "2026-10-02T15:27:16.000Z",
       "image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20261003-10276489-abemad-000-3-view.jpg?exp=10800",
@@ -3261,7 +3648,7 @@
       "title": "薬屋のひとりごと＞猫猫と壬氏の軌跡 かんざしを手に テレビアニメ第3期のED映像公開（MANTANWEB）",
       "url": "https://news.yahoo.co.jp/articles/0ce2a0ba0ee324003a9f456133fc388e395938f3",
       "host": "news.yahoo.co.jp",
-      "source": "news.yahoo.co.jp",
+      "source": "Yahoo!ニュース",
       "summary": "",
       "publishedAt": "2026-10-02T15:05:00.000Z",
       "image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20261003-00000003-mantan-000-1-view.jpg?exp=10800",
@@ -3314,7 +3701,7 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "94c5ae47fe04",
@@ -3341,7 +3728,7 @@
       "title": "エリスで始まりエリスで締める！アニメ『無職転生III』描き下ろしエンドカードに「最高の終わり方」「第2クールが楽しみ」の声殺到",
       "url": "https://news.yahoo.co.jp/articles/4a0ace5b08977d64ffd2ba6a49266f482cef1999",
       "host": "news.yahoo.co.jp",
-      "source": "news.yahoo.co.jp",
+      "source": "Yahoo!ニュース",
       "summary": "",
       "publishedAt": "2026-10-02T11:42:00.000Z",
       "image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260930-10275938-abemad-000-2-view.jpg?exp=10800",
@@ -3477,11 +3864,11 @@
       "isNew": false
     },
     {
-      "id": "747fa78df700",
-      "title": "TVアニメ『陰の実力者になりたくて！』オンラインくじが再販決定！",
+      "id": "21ba79371692",
+      "title": "TVアニメ『陰の実力者になりたくて！』オンラインくじが再販決定！ - mantan-web.jp",
       "url": "https://mantan-web.jp/prtimes/article/20261001prt00m200001164a/photopage/001.html",
       "host": "mantan-web.jp",
-      "source": "MANTANWEB",
+      "source": "mantan-web.jp",
       "summary": "",
       "publishedAt": "2026-10-02T09:54:51.000Z",
       "image": "https://prtimes.jp/img/7006/20234/resize/d7006-20234-b46cb7892a98d8d17e90-0.png",
@@ -3495,6 +3882,26 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
+      "isNew": true
+    },
+    {
+      "id": "5a1204fe8410",
+      "title": "TVアニメ『無職転生III ～異世界行ったら本気だす～』第1クール終了記念！ABEMAで10月3日（土）に第3期初の全話無料一挙放送が決定 - mantan-web.jp",
+      "url": "https://mantan-web.jp/prtimes/article/20261002prt00m200000814a.html",
+      "host": "mantan-web.jp",
+      "source": "mantan-web.jp",
+      "summary": "",
+      "publishedAt": "2026-10-02T09:35:57.000Z",
+      "image": "https://prtimes.jp/img/64643/4057/resize/d64643-4057-dab8e560f433989eeecd-6.jpg",
+      "categories": [
+        "anime"
+      ],
+      "works": [
+        "mushoku"
+      ],
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
       "isNew": false
     },
     {
@@ -3502,7 +3909,7 @@
       "title": "＜弱気MAX令嬢＞乙女ゲームのモブ悪役令嬢に転生したピアは国外追放される運命だと悟る…第1話あらすじ＆先行カット公開",
       "url": "https://news.yahoo.co.jp/articles/8dade5ad8fdc97be1ff7fa9d9af30cb3ebc69ce3",
       "host": "news.yahoo.co.jp",
-      "source": "news.yahoo.co.jp",
+      "source": "Yahoo!ニュース",
       "summary": "",
       "publishedAt": "2026-10-02T09:32:09.000Z",
       "image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20261002-01445545-the_tv-000-1-view.jpg?exp=10800",
@@ -3541,7 +3948,7 @@
       "title": "薬屋のひとりごと＞テレビアニメ第3期のヒントが！？ 猫猫と壬氏の旅路を暗示 ノンクレジットOP映像公開 (MANTANWEB)",
       "url": "https://news.yahoo.co.jp/articles/85793c355465999c853ec90a2b75af6243981a00/images/000",
       "host": "news.yahoo.co.jp",
-      "source": "news.yahoo.co.jp",
+      "source": "Yahoo!ニュース",
       "summary": "",
       "publishedAt": "2026-10-02T09:24:00.000Z",
       "image": "https://news-pctr.c.yimg.jp/uUzvQ3lML_bkIqyakc1vFhNrRI0RUQxg5aFkrX0xDg1_T0wXrbEJjtNGtrf1o9y3xudcUclfbXjZqAvGT8NJnY8SRtA98j53x985Ms8oQdb3x_cNHLJr7YIxVMv1QUDCk03GOG5vrFHW3bQ9oga4rWAocD7Y-2UDqPr0FEVnSsKs6Y7j8K65IgF4L3xzOs5UF1DxUw6TtRyk1OR4K3ixIQ==",
@@ -3580,7 +3987,7 @@
       "title": "アニメ『無職転生III』第1クール完結！10月3日（土）に全14話の振り返り一挙放送が決定（ABEMA TIMES）",
       "url": "https://news.yahoo.co.jp/articles/9ba43ff46f33b79bc92ac03bcee548f24c1ad085",
       "host": "news.yahoo.co.jp",
-      "source": "news.yahoo.co.jp",
+      "source": "Yahoo!ニュース",
       "summary": "",
       "publishedAt": "2026-10-02T09:15:33.000Z",
       "image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20261002-10276426-abemad-000-1-view.jpg?exp=10800",
@@ -3597,10 +4004,10 @@
     },
     {
       "id": "fd18650199c9",
-      "title": "薬屋のひとりごと：テレビアニメ第3期のヒントが！？ 猫猫と壬氏の旅路を暗示 ノンクレジットOP映像公開",
+      "title": "薬屋のひとりごと：テレビアニメ第3期のヒントが！？ 猫猫と壬氏の旅路を暗示 ノンクレジットOP映像公開 - mantan-web.jp",
       "url": "https://mantan-web.jp/article/20261002dog00m200078000a.html",
       "host": "mantan-web.jp",
-      "source": "MANTANWEB",
+      "source": "mantan-web.jp",
       "summary": "",
       "publishedAt": "2026-10-02T09:08:20.000Z",
       "image": "https://storage.mantan-web.jp/w=1280,h=720,icr=0:0.1:1:1,a=2,g=2,f=webp:auto/images/2026/10/02/20261002dog00m200078000a/001.jpg",
@@ -3693,6 +4100,64 @@
       "isNew": false
     },
     {
+      "id": "97bd2fc3c06c",
+      "title": "TVアニメ『凶乱令嬢ニア・リストン 病弱令嬢に転生した神殺しの武人の華麗なる無双録』普及活動会議",
+      "url": "https://youtu.be/6WXLIi8T8Ew?si",
+      "host": "youtu.be",
+      "source": "youtu.be",
+      "summary": "",
+      "publishedAt": "2026-10-02T09:00:18.000Z",
+      "image": "",
+      "categories": [
+        "anime"
+      ],
+      "works": [],
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": true
+    },
+    {
+      "id": "ed439fe1b269",
+      "title": "【リゼロ】今までありがとうございました",
+      "url": "https://youtu.be/js2YXpHFs2Q?si",
+      "host": "youtu.be",
+      "source": "youtu.be",
+      "summary": "",
+      "publishedAt": "2026-10-02T09:00:18.000Z",
+      "image": "",
+      "categories": [
+        "other"
+      ],
+      "works": [
+        "rezero"
+      ],
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": true
+    },
+    {
+      "id": "bacab2407151",
+      "title": "リゼロ第二弾、最後の未所持『ラインハルト』超ピックアップの確定演出...これはまさか出るのか!?【モンスト】【ぎこちゃん】【モンスターストライク】",
+      "url": "https://youtu.be/0cS8XlpUdfw?si",
+      "host": "youtu.be",
+      "source": "youtu.be",
+      "summary": "",
+      "publishedAt": "2026-10-02T09:00:11.000Z",
+      "image": "",
+      "categories": [
+        "game"
+      ],
+      "works": [
+        "rezero"
+      ],
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": true
+    },
+    {
       "id": "ca7b0f841488",
       "title": "画像ページ[4/4] TVアニメ『無職転生 ～異世界行ったら本気だす～』第3期初の全話無料一挙放送がABEMAにて決定",
       "url": "https://news.denfaminicogamer.jp/news/2610022e/attachment/sub2-4582",
@@ -3711,6 +4176,26 @@
       "viaGoogle": false,
       "sourceKind": "news",
       "isNew": false
+    },
+    {
+      "id": "7df3002e3d74",
+      "title": "【ゆっくり解説】プレアデス監視塔の星番 シャウラを徹底解説【リゼロ】",
+      "url": "https://youtu.be/ABdNjuj_z6w?si",
+      "host": "youtu.be",
+      "source": "youtu.be",
+      "summary": "",
+      "publishedAt": "2026-10-02T08:00:11.000Z",
+      "image": "",
+      "categories": [
+        "other"
+      ],
+      "works": [
+        "rezero"
+      ],
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": true
     },
     {
       "id": "59632a400349",
@@ -3734,10 +4219,10 @@
     },
     {
       "id": "855f90bda489",
-      "title": "『リゼロ鬼がかり2』他10月のパチンコ新台をざっくり評価【新台スペックナビ（パチンコ編）】",
+      "title": "『リゼロ鬼がかり2』他10月のパチンコ新台をざっくり評価【新台スペックナビ（パチンコ編）】 - p-town.dmm.com",
       "url": "https://p-town.dmm.com/specials/5430",
       "host": "p-town.dmm.com",
-      "source": "DMMぱちタウン",
+      "source": "p-town.dmm.com",
       "summary": "",
       "publishedAt": "2026-10-02T08:00:00.000Z",
       "image": "",
@@ -3795,30 +4280,30 @@
     {
       "id": "0233f08f98a2",
       "title": "アニメ『自称悪役令嬢な婚約者の観察記録。』が2026年10月4日（日）よりTOKYO MXにて再放送決定",
-      "url": "https://www.chiba-tv.com/plus/detail/2026102067533",
+      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5HWEczZThJNHUzaGNSYUdmTWhadC1jdXNDWGE2Q25aZXB0Y0ZSM2MtOV9LOEptYW9fVy1Vc2dkRHFhM2ZVSUIzZmRPUkdtY0JJYVRzc3hFUlhCTkFBUTE4?oc=5",
       "host": "chiba-tv.com",
       "source": "千葉テレビ放送株式会社",
       "summary": "",
       "publishedAt": "2026-10-02T07:01:32.000Z",
-      "image": "https://img.jp.ekkowassets.com/c_limit,w_360,f_auto,q_auto:eco/ch/images/1478648566115764064/origin_1.jpg",
+      "image": "",
       "categories": [
         "anime"
       ],
       "works": [],
       "isPR": false,
-      "viaGoogle": false,
+      "viaGoogle": true,
       "sourceKind": "news",
       "isNew": false
     },
     {
       "id": "ee237dc8ed84",
       "title": "アニメ『薬屋のひとりごと』3期はいつから？2026年10月2日から分割2クールで放送！原作のどこからどこまで？",
-      "url": "https://times.abema.tv/articles/-/10078716",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFB0ZXg1eG5obDJROWdrMkh0YXR4d0h6Mjh6c0FER2ltUGdrVWNRY1hUUGF6RHBrTExsT2daODVrbi00NUo3eW1kdy10SUNvdzVISHJUZA?oc=5",
       "host": "times.abema.tv",
       "source": "ABEMA TIMES",
       "summary": "",
       "publishedAt": "2026-10-02T07:00:00.000Z",
-      "image": "https://times-abema.ismcdn.jp/mwimgs/f/8/1200w/img_f8cb08e0d30ce9bbb369c8e57eb7241b118277.jpg",
+      "image": "",
       "categories": [
         "anime"
       ],
@@ -3826,19 +4311,19 @@
         "kusuriya"
       ],
       "isPR": false,
-      "viaGoogle": false,
+      "viaGoogle": true,
       "sourceKind": "news",
       "isNew": false
     },
     {
       "id": "0f35b500f862",
       "title": "★薬屋のひとりごと第3期スタート特別賞★ 5",
-      "url": "https://www.ntv.co.jp/kusuriya-present-3/",
+      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFAzTTVpN2NWaXhWNllXcjZLNEtmeFhmTkVnVWJxS3Y4RVdUTjN0X3d6cmkwbGZfZmtrM3ZULWEwdlZXTXN3eUhGQ3hDUXJqekY0NU5j?oc=5",
       "host": "ntv.co.jp",
       "source": "日本テレビ",
       "summary": "",
       "publishedAt": "2026-10-02T07:00:00.000Z",
-      "image": "https://www.ntv.co.jp/kusuriya-present-3/images/thumbnail.jpg",
+      "image": "",
       "categories": [
         "anime"
       ],
@@ -3846,19 +4331,19 @@
         "kusuriya"
       ],
       "isPR": false,
-      "viaGoogle": false,
+      "viaGoogle": true,
       "sourceKind": "news",
       "isNew": false
     },
     {
       "id": "f97f66081720",
       "title": "アニメ『Re:ゼロから始める異世界生活 4th season』の視聴方法！動画配信サービス、あらすじを解説",
-      "url": "https://spocale.com/blog/rezero-season4-how-to-watch/",
+      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5id3A4anRYbkx0WHVXSHRKYnAxdVdYUjFJRmY1OE1DaEE1clp0TFNjQlBpM3JSS3ZQb2MtalM1WTlfaHB1ekx6SGhINUp5d0t6X2pHT2dJLWkxTVhTWWxfUURfVQ?oc=5",
       "host": "spocale.com",
       "source": "スポカレ",
       "summary": "",
       "publishedAt": "2026-10-02T07:00:00.000Z",
-      "image": "https://spocale.com/blog/wp-content/uploads/2026/06/37d144a5ca67c1f68c52daf851365c72-2.jpg",
+      "image": "",
       "categories": [
         "anime"
       ],
@@ -3866,68 +4351,7 @@
         "rezero"
       ],
       "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": false
-    },
-    {
-      "id": "bc9193360f6f",
-      "title": "『無職転生Ⅲ』第2クール続報や人気投票、『いちご100％』北大路さつきのCuteなフィギュアなど【今週の注目記事7選】",
-      "url": "https://dengekionline.com/article/202610/89790",
-      "host": "dengekionline.com",
-      "source": "電撃オンライン",
-      "summary": "",
-      "publishedAt": "2026-10-02T06:00:00.000Z",
-      "image": "https://cimg.kgl-systems.io/camion/files/89790/ogp_VDDK.png?x=1280",
-      "categories": [
-        "anime",
-        "goods"
-      ],
-      "works": [
-        "mushoku"
-      ],
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": false
-    },
-    {
-      "id": "e998ffdc9737",
-      "title": "「6年待った」リゼロ4期・最終回にファン感涙 ”待望のヒロイン”再登場し「おかえり」「やっと会えた」（マグミクス）",
-      "url": "https://news.yahoo.co.jp/articles/8a914b4461e86fe1b1317d3c14b8c2ca8911113d",
-      "host": "news.yahoo.co.jp",
-      "source": "news.yahoo.co.jp",
-      "summary": "",
-      "publishedAt": "2026-10-02T05:59:00.000Z",
-      "image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20261001-00378797-magmix-000-6-view.jpg?exp=10800",
-      "categories": [
-        "anime"
-      ],
-      "works": [
-        "rezero"
-      ],
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": false
-    },
-    {
-      "id": "5a1204fe8410",
-      "title": "TVアニメ『無職転生III ～異世界行ったら本気だす～』第1クール終了記念！ABEMAで10月3日（土）に第3期初の全話無料一挙放送が決定",
-      "url": "https://mainichikirei.jp/prtimes/article/20261002prt00m100000603a.html",
-      "host": "mainichikirei.jp",
-      "source": "毎日キレイ",
-      "summary": "",
-      "publishedAt": "2026-10-02T05:53:47.000Z",
-      "image": "https://prtimes.jp/img/64643/4057/resize/d64643-4057-dab8e560f433989eeecd-6.jpg",
-      "categories": [
-        "anime"
-      ],
-      "works": [
-        "mushoku"
-      ],
-      "isPR": false,
-      "viaGoogle": false,
+      "viaGoogle": true,
       "sourceKind": "news",
       "isNew": false
     }
