@@ -1,23 +1,23 @@
 {
-  "updatedAt": "2026-10-06T06:00:16.638Z",
+  "updatedAt": "2026-10-06T06:30:17.303Z",
   "site": {
     "title": "なろう系まとめ",
     "tagline": "小説家になろう発の作品のアニメ化・コミカライズ・書籍化のニュースと、なろうのランキングをまとめています。",
     "url": "https://naroumatome.gamelab.website/",
     "contactUrl": "https://docs.google.com/forms/d/e/1FAIpQLSesWyhmZ6sRS_ve-c3X2KqF_wC5PK2TgwgQbTKmnQltSlg5Jw/viewform"
   },
-  "total": 130,
-  "todayCount": 30,
+  "total": 134,
+  "todayCount": 34,
   "categories": [
     {
       "id": "anime",
       "label": "アニメ",
-      "count": 97
+      "count": 100
     },
     {
       "id": "comic",
       "label": "コミカライズ",
-      "count": 15
+      "count": 13
     },
     {
       "id": "book",
@@ -27,22 +27,22 @@
     {
       "id": "web",
       "label": "Web小説・賞",
-      "count": 15
+      "count": 13
     },
     {
       "id": "game",
       "label": "ゲーム",
-      "count": 1
+      "count": 2
     },
     {
       "id": "goods",
       "label": "グッズ・イベント",
-      "count": 10
+      "count": 9
     },
     {
       "id": "other",
       "label": "そのほか",
-      "count": 12
+      "count": 14
     }
   ],
   "works": [
@@ -56,25 +56,25 @@
       "id": "mushoku",
       "title": "無職転生 ～異世界行ったら本気だす～",
       "short": "無職転生",
-      "count": 16
+      "count": 15
     },
     {
       "id": "rezero",
       "title": "Re:ゼロから始める異世界生活",
       "short": "リゼロ",
-      "count": 3
+      "count": 4
     },
     {
       "id": "honzuki",
       "title": "本好きの下剋上",
       "short": "本好き",
-      "count": 20
+      "count": 21
     },
     {
       "id": "kusuriya",
       "title": "薬屋のひとりごと",
       "short": "薬屋",
-      "count": 27
+      "count": 29
     },
     {
       "id": "kagejitsu",
@@ -295,16 +295,16 @@
   ],
   "sources": [
     {
+      "name": "Yahoo!ニュース",
+      "count": 15
+    },
+    {
       "name": "山陽新聞",
       "count": 14
     },
     {
-      "name": "Yahoo!ニュース",
-      "count": 13
-    },
-    {
       "name": "WEBザテレビジョン",
-      "count": 12
+      "count": 13
     },
     {
       "name": "ラノベニュースオンライン",
@@ -312,7 +312,7 @@
     },
     {
       "name": "アニメ！アニメ！",
-      "count": 7
+      "count": 6
     },
     {
       "name": "MANTANWEB",
@@ -321,6 +321,10 @@
     {
       "name": "ナタリー",
       "count": 5
+    },
+    {
+      "name": "ABEMA",
+      "count": 4
     },
     {
       "name": "オリコンニュース",
@@ -335,7 +339,7 @@
       "count": 3
     },
     {
-      "name": "Koubo",
+      "name": "アニメイトタイムズ",
       "count": 3
     },
     {
@@ -351,15 +355,11 @@
       "count": 2
     },
     {
-      "name": "インサイド",
+      "name": "Koubo",
       "count": 2
     },
     {
       "name": "アニメハック",
-      "count": 2
-    },
-    {
-      "name": "アニメイトタイムズ",
       "count": 2
     },
     {
@@ -371,7 +371,7 @@
       "count": 2
     },
     {
-      "name": "charagoo.jp",
+      "name": "キャラグー",
       "count": 2
     },
     {
@@ -381,6 +381,10 @@
     {
       "name": "banger.jp",
       "count": 2
+    },
+    {
+      "name": "高校生新聞",
+      "count": 1
     },
     {
       "name": "v-storage.jp",
@@ -396,6 +400,10 @@
     },
     {
       "name": "MEDIAMIXI",
+      "count": 1
+    },
+    {
+      "name": "インサイド",
       "count": 1
     },
     {
@@ -423,7 +431,7 @@
       "count": 1
     },
     {
-      "name": "テレ朝NEWS",
+      "name": "news.tv-asahi.co.jp",
       "count": 1
     },
     {
@@ -435,10 +443,6 @@
       "count": 1
     },
     {
-      "name": "eeo.today",
-      "count": 1
-    },
-    {
       "name": "PR TIMES",
       "count": 1
     },
@@ -447,11 +451,15 @@
       "count": 1
     },
     {
-      "name": "ytv.co.jp",
+      "name": "読売テレビ",
       "count": 1
     },
     {
-      "name": "news.livedoor.com",
+      "name": "ライブドアニュース",
+      "count": 1
+    },
+    {
+      "name": "s.inside-games.jp",
       "count": 1
     },
     {
@@ -471,7 +479,7 @@
       "count": 1
     },
     {
-      "name": "電撃ホビーウェブ",
+      "name": "hobby.dengeki.com",
       "count": 1
     },
     {
@@ -484,14 +492,6 @@
     },
     {
       "name": "シブヤ経済新聞",
-      "count": 1
-    },
-    {
-      "name": "ｄメニューニュース",
-      "count": 1
-    },
-    {
-      "name": "Gamer",
       "count": 1
     }
   ],
@@ -547,7 +547,7 @@
         {
           "title": "本好きの下剋上 領主の養女 第二十四章 救出",
           "url": "https://www.ytv.co.jp/mydo/booklove/booklove-s4-24-261003.html",
-          "source": "ytv.co.jp",
+          "source": "読売テレビ",
           "publishedAt": "2026-10-05T06:59:59.000Z",
           "isPR": false
         },
@@ -582,10 +582,11 @@
       "image": "https://koubo-dz7cn3ci.s3.ap-northeast-1.amazonaws.com/strapi/article_127351_keyvisual_196bc13f49.jpeg",
       "leadSource": "ナタリー",
       "publishedAt": "2026-10-03T12:21:22.000Z",
-      "sourceCount": 7,
-      "articleCount": 9,
+      "sourceCount": 8,
+      "articleCount": 10,
       "categories": [
-        "anime"
+        "anime",
+        "other"
       ],
       "keywords": [
         "本好き",
@@ -647,56 +648,6 @@
           "url": "https://news.yahoo.co.jp/articles/4a2dd8401342fd03f024b620752ba4b71ca4ca14/images/000",
           "source": "Yahoo!ニュース",
           "publishedAt": "2026-10-03T09:00:00.000Z",
-          "isPR": false
-        }
-      ]
-    },
-    {
-      "id": "17a6dba7880b",
-      "title": "投稿作品不要で“漫画家”自身を審査 CLLENN『第2回 異世界漫画家オーディション』開催 (リアルサウンド)",
-      "summary": "",
-      "url": "https://news.yahoo.co.jp/articles/39d54b6a79ad93bde4f4625e4236f9b0f4b6bf46/images/000",
-      "image": "https://news-pctr.c.yimg.jp/uUzvQ3lML_bkIqyakc1vFhNrRI0RUQxg5aFkrX0xDg1_T0wXrbEJjtNGtrf1o9y3xudcUclfbXjZqAvGT8NJnYaWvGBVu9225okyK5emLZh-ibF32S_Shf4AVOOPHytZiZJK95Wl6fld9jvcy9Rfp7oyq9Z2gU_8jph5PCJlc13aVGlXDWhEUIjjrEXzSi0LYjMsDCaLu6dB0EUspN8KiA==",
-      "leadSource": "Yahoo!ニュース",
-      "publishedAt": "2026-10-05T13:01:32.000Z",
-      "sourceCount": 5,
-      "articleCount": 5,
-      "categories": [
-        "comic",
-        "web"
-      ],
-      "keywords": [
-        "オーディション",
-        "投稿作品不要",
-        "漫画家"
-      ],
-      "articles": [
-        {
-          "title": "投稿作品不要で“漫画家自身”を審査 CLLENN『第2回 異世界漫画家オーディション』開催",
-          "url": "https://realsound.jp/book/2026/10/post-2543850.html/amp",
-          "source": "Real Sound｜リアルサウンド",
-          "publishedAt": "2026-10-05T12:18:04.000Z",
-          "isPR": false
-        },
-        {
-          "title": "投稿作品不要の漫画賞「異世界漫画家オーディション」第2回開催",
-          "url": "https://koubo.jp/article/127713",
-          "source": "Koubo",
-          "publishedAt": "2026-10-05T03:04:38.000Z",
-          "isPR": false
-        },
-        {
-          "title": "CLLENN】応募多数につき2度目の開催が決定！投稿作品不要の漫画賞『第2回 異世界漫画家オーディション",
-          "url": "https://news.nicovideo.jp/watch/nw19845069?news_ref",
-          "source": "ニコニコニュース",
-          "publishedAt": "2026-10-05T02:51:17.000Z",
-          "isPR": false
-        },
-        {
-          "title": "【CLLENN】応募多数につき2度目の開催が決定！投稿作品不要の漫画賞『第2回 異世界漫画家オーディション』",
-          "url": "https://animeanime.jp/release/prtimes/20261005/317456.html",
-          "source": "アニメ！アニメ！",
-          "publishedAt": "2026-10-05T01:00:00.000Z",
           "isPR": false
         }
       ]
@@ -781,7 +732,7 @@
       "leadSource": "アニメ！アニメ！",
       "publishedAt": "2026-10-05T23:23:04.000Z",
       "sourceCount": 3,
-      "articleCount": 4,
+      "articleCount": 5,
       "categories": [
         "anime",
         "game"
@@ -800,6 +751,13 @@
           "isPR": false
         },
         {
+          "title": "弱気MAX令嬢＞乙女ゲームのモブ悪役令嬢に転生したピアは国外追放される運命だと悟る…第1話あらすじ＆先行カット公開",
+          "url": "https://thetv.jp/news/detail/1445545/landing/",
+          "source": "WEBザテレビジョン",
+          "publishedAt": "2026-10-05T23:12:12.000Z",
+          "isPR": false
+        },
+        {
           "title": "アニメ『弱気MAX令嬢なのに、辣腕婚約者様の賭けに乗ってしまった』第1話「シルエットモブ悪役令嬢だった私」のあらすじ＆先行カット解禁",
           "url": "https://ln-news.com/articles/126853",
           "source": "ラノベニュースオンライン",
@@ -811,6 +769,55 @@
           "url": "https://animeanime.jp/article/2026/10/04/103505.html",
           "source": "アニメ！アニメ！",
           "publishedAt": "2026-10-04T06:00:04.000Z",
+          "isPR": false
+        }
+      ]
+    },
+    {
+      "id": "16563f292a6c",
+      "title": "第1話 転生ゴブリンだけど質問ある？「転生ゴブリンだけど質問ある？」",
+      "summary": "",
+      "url": "https://thetv.jp/program/0001077857/1/",
+      "image": "https://media.image.infoseek.co.jp/isnews/photos/otakulab/otakulab_208166_0-enlarge.jpg",
+      "leadSource": "WEBザテレビジョン",
+      "publishedAt": "2026-10-05T22:29:50.000Z",
+      "sourceCount": 3,
+      "articleCount": 5,
+      "categories": [
+        "anime"
+      ],
+      "keywords": [
+        "ゴブリン",
+        "質問",
+        "放送直前"
+      ],
+      "articles": [
+        {
+          "title": "第2話 転生ゴブリンだけど質問ある？",
+          "url": "https://thetv.jp/program/0001077857/2/",
+          "source": "WEBザテレビジョン",
+          "publishedAt": "2026-10-05T22:15:22.000Z",
+          "isPR": false
+        },
+        {
+          "title": "TVアニメ「転生ゴブリンだけど質問ある？」放送直前だけど質問ある？ (アニメ) | 無料動画・見逃し配信を見るなら",
+          "url": "https://abema.tv/video/title/218-928",
+          "source": "ABEMA",
+          "publishedAt": "2026-10-05T17:35:32.000Z",
+          "isPR": false
+        },
+        {
+          "title": "【秋アニメ】今期新作に「古のスレタイ風」のタイトル…その名も『転生ゴブリンだけど質問ある？』MX系で開幕【先行カット】",
+          "url": "https://news.infoseek.co.jp/amp/article/otakulab_208166/",
+          "source": "Infoseek",
+          "publishedAt": "2026-10-04T22:08:07.000Z",
+          "isPR": false
+        },
+        {
+          "title": "TVアニメ「転生した大聖女は、聖女であることをひた隠す」放送直前特番 (アニメ) | 無料動画・見逃し配信を見るなら",
+          "url": "https://abema.tv/video/title/218-929",
+          "source": "ABEMA",
+          "publishedAt": "2026-10-04T00:40:44.000Z",
           "isPR": false
         }
       ]
@@ -860,11 +867,11 @@
     },
     {
       "id": "9788973578bf",
-      "title": "【訃報】アニメーター・桂憲一郎さん死去 妻がXで報告「マクロス7」「転スラ」など参加",
+      "title": "【訃報】アニメーター・桂憲一郎さん死去 妻がXで報告「マクロス7」「転スラ」など参加 - news.tv-asahi.co.jp",
       "summary": "",
       "url": "https://news.tv-asahi.co.jp/news_geinou/articles/900201208.html",
       "image": "https://news.tv-asahi.co.jp/articles_img/900201208_1200.jpg",
-      "leadSource": "テレ朝NEWS",
+      "leadSource": "news.tv-asahi.co.jp",
       "publishedAt": "2026-10-05T11:38:00.000Z",
       "sourceCount": 3,
       "articleCount": 4,
@@ -887,7 +894,7 @@
         {
           "title": "【画像】アニメーターの桂憲一郎さん死去 59歳 『マクロス7』『ナイツ&マジック』『転スラ』などに参加",
           "url": "https://news.livedoor.com/article/image_detail/32491968/?img_id",
-          "source": "news.livedoor.com",
+          "source": "ライブドアニュース",
           "publishedAt": "2026-10-05T05:14:31.000Z",
           "isPR": false
         },
@@ -973,6 +980,42 @@
       ]
     },
     {
+      "id": "17a6dba7880b",
+      "title": "投稿作品不要で“漫画家”自身を審査 CLLENN『第2回 異世界漫画家オーディション』開催 (リアルサウンド)",
+      "summary": "",
+      "url": "https://news.yahoo.co.jp/articles/39d54b6a79ad93bde4f4625e4236f9b0f4b6bf46/images/000",
+      "image": "https://news-pctr.c.yimg.jp/uUzvQ3lML_bkIqyakc1vFhNrRI0RUQxg5aFkrX0xDg1_T0wXrbEJjtNGtrf1o9y3xudcUclfbXjZqAvGT8NJnYaWvGBVu9225okyK5emLZh-ibF32S_Shf4AVOOPHytZiZJK95Wl6fld9jvcy9Rfp7oyq9Z2gU_8jph5PCJlc13aVGlXDWhEUIjjrEXzSi0LYjMsDCaLu6dB0EUspN8KiA==",
+      "leadSource": "Yahoo!ニュース",
+      "publishedAt": "2026-10-05T13:01:32.000Z",
+      "sourceCount": 3,
+      "articleCount": 3,
+      "categories": [
+        "comic",
+        "web"
+      ],
+      "keywords": [
+        "cllenn",
+        "オーディション",
+        "投稿作品不要"
+      ],
+      "articles": [
+        {
+          "title": "投稿作品不要で“漫画家自身”を審査 CLLENN『第2回 異世界漫画家オーディション』開催",
+          "url": "https://realsound.jp/book/2026/10/post-2543850.html/amp",
+          "source": "Real Sound｜リアルサウンド",
+          "publishedAt": "2026-10-05T12:18:04.000Z",
+          "isPR": false
+        },
+        {
+          "title": "CLLENN】応募多数につき2度目の開催が決定！投稿作品不要の漫画賞『第2回 異世界漫画家オーディション",
+          "url": "https://news.nicovideo.jp/watch/nw19845069?news_ref",
+          "source": "ニコニコニュース",
+          "publishedAt": "2026-10-05T02:51:17.000Z",
+          "isPR": false
+        }
+      ]
+    },
+    {
       "id": "35968b4baedf",
       "title": "異世界勘違いコメディ「奴隷からの期待と評価のせいで搾取できないのだが」TVアニメ化 : ニュース",
       "summary": "",
@@ -1049,50 +1092,36 @@
           "isPR": false
         }
       ]
-    },
-    {
-      "id": "16563f292a6c",
-      "title": "第1話 転生ゴブリンだけど質問ある？「転生ゴブリンだけど質問ある？」",
-      "summary": "",
-      "url": "https://thetv.jp/program/0001077857/1/",
-      "image": "https://media.image.infoseek.co.jp/isnews/photos/otakulab/otakulab_208166_0-enlarge.jpg",
-      "leadSource": "WEBザテレビジョン",
-      "publishedAt": "2026-10-05T22:29:50.000Z",
-      "sourceCount": 2,
-      "articleCount": 3,
-      "categories": [
-        "anime"
-      ],
-      "keywords": [
-        "ゴブリン",
-        "質問"
-      ],
-      "articles": [
-        {
-          "title": "第2話 転生ゴブリンだけど質問ある？",
-          "url": "https://thetv.jp/program/0001077857/2/",
-          "source": "WEBザテレビジョン",
-          "publishedAt": "2026-10-05T22:15:22.000Z",
-          "isPR": false
-        },
-        {
-          "title": "【秋アニメ】今期新作に「古のスレタイ風」のタイトル…その名も『転生ゴブリンだけど質問ある？』MX系で開幕【先行カット】",
-          "url": "https://news.infoseek.co.jp/amp/article/otakulab_208166/",
-          "source": "Infoseek",
-          "publishedAt": "2026-10-04T22:08:07.000Z",
-          "isPR": false
-        }
-      ]
     }
   ],
   "churn": {
-    "previousAt": "2026-10-06T05:30:17.851Z",
-    "previousCount": 131,
-    "newCount": 5
+    "previousAt": "2026-10-06T06:00:16.638Z",
+    "previousCount": 130,
+    "newCount": 9
   },
   "updateGapMin": 30,
-  "nextUpdateAt": "2026-10-06T06:30:16.638Z",
+  "nextUpdateAt": "2026-10-06T07:00:17.303Z",
   "items": [
+    {
+      "id": "b0c61af5895a",
+      "title": "薬屋のひとりごと第3期は「謎解き、恋のバランスが良い」伏線に気づくとスッキリ",
+      "url": "https://www.koukouseishinbun.jp/articles/-/16529",
+      "host": "koukouseishinbun.jp",
+      "source": "高校生新聞",
+      "summary": "",
+      "publishedAt": "2026-10-06T06:00:00.000Z",
+      "image": "https://cdn.image.st-hatena.com/image/scale/ac0e24069813bb0b9347e748345266172dbdb13e/backend=imagemagick;version=1;width=1300/https%3A%2F%2Fcdn-ak.f.st-hatena.com%2Fimages%2Ffotolife%2Fk%2Fkoukouseisinbun%2F20261006%2F20261006150005.jpg",
+      "categories": [
+        "anime"
+      ],
+      "works": [
+        "kusuriya"
+      ],
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": true
+    },
     {
       "id": "60ac59f7a5a8",
       "title": "「劇場版 薬屋のひとりごと」×宝くじスクラッチ、猫猫と壬氏が描かれたデザイン登場（コミックナタリー）",
@@ -1432,6 +1461,25 @@
       "isNew": false
     },
     {
+      "id": "ef7e22e88247",
+      "title": "弱気MAX令嬢＞乙女ゲームのモブ悪役令嬢に転生したピアは国外追放される運命だと悟る…第1話あらすじ＆先行カット公開",
+      "url": "https://thetv.jp/news/detail/1445545/landing/",
+      "host": "thetv.jp",
+      "source": "WEBザテレビジョン",
+      "summary": "",
+      "publishedAt": "2026-10-05T23:12:12.000Z",
+      "image": "",
+      "categories": [
+        "anime",
+        "game"
+      ],
+      "works": [],
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": true
+    },
+    {
       "id": "80f0fa301e95",
       "title": "『薬屋のひとりごと』第3期、ノンクレジットOP映像公開 Blu-ray発売決定でイラスト解禁",
       "url": "https://www.sanyonews.jp/article/1998700",
@@ -1608,6 +1656,46 @@
       "isNew": false
     },
     {
+      "id": "8f066b108e3e",
+      "title": "『リゼロ 氷結の絆』AT-Xにて5/31 20時より放送決定",
+      "url": "https://www.animatetimes.com/news/img.php?id",
+      "host": "animatetimes.com",
+      "source": "アニメイトタイムズ",
+      "summary": "",
+      "publishedAt": "2026-10-05T18:03:03.000Z",
+      "image": "",
+      "categories": [
+        "anime"
+      ],
+      "works": [
+        "rezero"
+      ],
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": true
+    },
+    {
+      "id": "35875576b22a",
+      "title": "『薬屋のひとりごと』原作者・日向夏氏、体調不良で入院中 海外イベントの現地参加見送る→オンライン交流に変更",
+      "url": "https://www.sanyonews.jp/article/1992564",
+      "host": "sanyonews.jp",
+      "source": "山陽新聞",
+      "summary": "",
+      "publishedAt": "2026-10-05T18:02:26.000Z",
+      "image": "https://static.sanyonews.jp/image/article/size1/0/e/3/2/0e32b94592c90f265247f19d646c95a1_1.jpg",
+      "categories": [
+        "goods"
+      ],
+      "works": [
+        "kusuriya"
+      ],
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": true
+    },
+    {
       "id": "2373c0692c7f",
       "title": "『転スラ』リムル様、大忙し！ラミリスから緊急連絡 尊いミリムの表情…第84話あらすじ＆場面カット解禁",
       "url": "https://www.sanyonews.jp/article/1942798?kw",
@@ -1628,20 +1716,18 @@
       "isNew": false
     },
     {
-      "id": "7564efbaceb1",
-      "title": "『薬屋のひとりごと』ノンクレジットED映像公開 Eve「AIYOU」にのせ猫猫の記憶を辿る",
-      "url": "https://www.sanyonews.jp/article/1998838",
-      "host": "sanyonews.jp",
-      "source": "山陽新聞",
+      "id": "8fd21ae00355",
+      "title": "TVアニメ「転生ゴブリンだけど質問ある？」放送直前だけど質問ある？ (アニメ) | 無料動画・見逃し配信を見るなら",
+      "url": "https://abema.tv/video/title/218-928",
+      "host": "abema.tv",
+      "source": "ABEMA",
       "summary": "",
-      "publishedAt": "2026-10-05T16:53:01.000Z",
-      "image": "https://static.sanyonews.jp/image/article/size1/7/9/3/4/7934f2055233f31b4542d7db00029f6b_1.jpg",
+      "publishedAt": "2026-10-05T17:35:32.000Z",
+      "image": "",
       "categories": [
         "anime"
       ],
-      "works": [
-        "kusuriya"
-      ],
+      "works": [],
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
@@ -1867,10 +1953,10 @@
     },
     {
       "id": "9788973578bf",
-      "title": "【訃報】アニメーター・桂憲一郎さん死去 妻がXで報告「マクロス7」「転スラ」など参加",
+      "title": "【訃報】アニメーター・桂憲一郎さん死去 妻がXで報告「マクロス7」「転スラ」など参加 - news.tv-asahi.co.jp",
       "url": "https://news.tv-asahi.co.jp/news_geinou/articles/900201208.html",
       "host": "news.tv-asahi.co.jp",
-      "source": "テレ朝NEWS",
+      "source": "news.tv-asahi.co.jp",
       "summary": "",
       "publishedAt": "2026-10-05T11:38:00.000Z",
       "image": "https://news.tv-asahi.co.jp/articles_img/900201208_1200.jpg",
@@ -2003,7 +2089,7 @@
     {
       "id": "71ac1f1c2476",
       "title": "「悪役令嬢の躾け方」1巻 ハイスペ侍女が悪役令嬢の悪堕ちフラグを叩き折る",
-      "url": "https://news.nicovideo.jp/watch/nw19846527?from",
+      "url": "https://news.nicovideo.jp/watch/nw19846527",
       "host": "news.nicovideo.jp",
       "source": "ニコニコニュース",
       "summary": "",
@@ -2032,27 +2118,6 @@
       ],
       "works": [
         "tensura"
-      ],
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": false
-    },
-    {
-      "id": "8fdecc559ce9",
-      "title": "ミニキャラ缶バッジ「TVアニメ『薬屋のひとりごと』×サンリオキャラクターズ」02/コンプリートセット(全6種)(コラボイラスト)",
-      "url": "https://eeo.today/store/101/products/detail/336700",
-      "host": "eeo.today",
-      "source": "eeo.today",
-      "summary": "",
-      "publishedAt": "2026-10-05T08:14:27.000Z",
-      "image": "https://eeo.today/store/101/html/upload/save_image/6abe1887a0219.jpg",
-      "categories": [
-        "anime",
-        "goods"
-      ],
-      "works": [
-        "kusuriya"
       ],
       "isPR": false,
       "viaGoogle": false,
@@ -2124,7 +2189,7 @@
       "title": "本好きの下剋上 領主の養女 第二十四章 救出",
       "url": "https://www.ytv.co.jp/mydo/booklove/booklove-s4-24-261003.html",
       "host": "ytv.co.jp",
-      "source": "ytv.co.jp",
+      "source": "読売テレビ",
       "summary": "",
       "publishedAt": "2026-10-05T06:59:59.000Z",
       "image": "https://www.ytv.co.jp/mydo/assets/ogp/6nnil1pvp0ivy039ho0qq2j932fag4.jpg",
@@ -2202,7 +2267,7 @@
       "title": "【画像】アニメーターの桂憲一郎さん死去 59歳 『マクロス7』『ナイツ&マジック』『転スラ』などに参加",
       "url": "https://news.livedoor.com/article/image_detail/32491968/?img_id",
       "host": "news.livedoor.com",
-      "source": "news.livedoor.com",
+      "source": "ライブドアニュース",
       "summary": "",
       "publishedAt": "2026-10-05T05:14:31.000Z",
       "image": "https://image.news.livedoor.com/newsimage/stf/9/d/9d5ec_760_2484532_20261005_141110_size640wh_16525552.jpg",
@@ -2274,25 +2339,6 @@
       "viaGoogle": false,
       "sourceKind": "news",
       "isNew": false
-    },
-    {
-      "id": "46143771671b",
-      "title": "投稿作品不要の漫画賞「異世界漫画家オーディション」第2回開催",
-      "url": "https://koubo.jp/article/127713",
-      "host": "koubo.jp",
-      "source": "Koubo",
-      "summary": "",
-      "publishedAt": "2026-10-05T03:04:38.000Z",
-      "image": "https://koubo-dz7cn3ci.s3.ap-northeast-1.amazonaws.com/strapi/article_127713_keyvisual_635e494bc6.jpeg",
-      "categories": [
-        "comic",
-        "web"
-      ],
-      "works": [],
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": true
     },
     {
       "id": "aee214a0cf29",
@@ -2372,14 +2418,14 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "7280a6a661eb",
-      "title": "アベイルで「薬屋のひとりごと」グッズが再販へ！猫猫たちデザインのショルダーバッグや巾着ほか、カードケースなどラインナップ",
+      "title": "アベイルで「薬屋のひとりごと」グッズが再販へ！猫猫たちデザインのショルダーバッグや巾着ほか、カードケースなどラインナップ - s.inside-games.jp",
       "url": "https://s.inside-games.jp/article/2026/10/05/188739.html?from",
       "host": "s.inside-games.jp",
-      "source": "インサイド",
+      "source": "s.inside-games.jp",
       "summary": "",
       "publishedAt": "2026-10-05T01:40:02.000Z",
       "image": "https://www.inside-games.jp/imgs/ogp_f/1789694.jpg",
@@ -2412,45 +2458,6 @@
       "viaGoogle": false,
       "sourceKind": "news",
       "isNew": false
-    },
-    {
-      "id": "3c1e97a006f4",
-      "title": "アニメ1週間：全日本模型ホビーショーにガンプラ新商品続々 「無職転生III」第2クール2027年放送",
-      "url": "https://mantan-web.jp/article/20261003dog00m200038000a.html",
-      "host": "mantan-web.jp",
-      "source": "MANTANWEB",
-      "summary": "",
-      "publishedAt": "2026-10-05T01:04:23.000Z",
-      "image": "https://storage.mantan-web.jp/w=1280,h=720,icr=0:0.1:1:1,a=2,g=2,f=webp:auto/images/2026/10/03/20261003dog00m200038000a/001.jpg",
-      "categories": [
-        "anime"
-      ],
-      "works": [
-        "mushoku"
-      ],
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": false
-    },
-    {
-      "id": "01a1a3cbe221",
-      "title": "【CLLENN】応募多数につき2度目の開催が決定！投稿作品不要の漫画賞『第2回 異世界漫画家オーディション』",
-      "url": "https://animeanime.jp/release/prtimes/20261005/317456.html",
-      "host": "animeanime.jp",
-      "source": "アニメ！アニメ！",
-      "summary": "",
-      "publishedAt": "2026-10-05T01:00:00.000Z",
-      "image": "https://animeanime.jp/release/imgs/list/559727.jpg",
-      "categories": [
-        "comic",
-        "web"
-      ],
-      "works": [],
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": true
     },
     {
       "id": "20cd9ffdcb29",
@@ -2496,7 +2503,7 @@
       "title": "無職転生の最新刊は25巻【2026年10月】発売日・完結・次巻の発売予定",
       "url": "https://charagoo.jp/mushokutensei-comic-latest/",
       "host": "charagoo.jp",
-      "source": "charagoo.jp",
+      "source": "キャラグー",
       "summary": "",
       "publishedAt": "2026-10-04T22:10:12.000Z",
       "image": "",
@@ -2691,6 +2698,26 @@
       "isNew": false
     },
     {
+      "id": "3c1e97a006f4",
+      "title": "アニメ1週間：全日本模型ホビーショーにガンプラ新商品続々 「無職転生III」第2クール2027年放送",
+      "url": "https://mantan-web.jp/article/20261003dog00m200038000a.html",
+      "host": "mantan-web.jp",
+      "source": "MANTANWEB",
+      "summary": "",
+      "publishedAt": "2026-10-04T15:29:22.000Z",
+      "image": "https://storage.mantan-web.jp/w=1280,h=720,icr=0:0.1:1:1,a=2,g=2,f=webp:auto/images/2026/10/03/20261003dog00m200038000a/001.jpg",
+      "categories": [
+        "anime"
+      ],
+      "works": [
+        "mushoku"
+      ],
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": false
+    },
+    {
       "id": "d8532c2a4e11",
       "title": "無職転生Ⅲ ～異世界行ったら本気だす～",
       "url": "https://tver.jp/episodes/epmkehc27v",
@@ -2865,7 +2892,7 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "7a06b02938ca",
@@ -3058,7 +3085,7 @@
       "title": "TVアニメ『薬屋のひとりごと』から「猫猫」と「壬氏」の“ちょこのせ”フィギュアがそろって再登場！後宮の2人を並べて飾りたい",
       "url": "https://hobby.dengeki.com/news/3142949/",
       "host": "hobby.dengeki.com",
-      "source": "電撃ホビーウェブ",
+      "source": "hobby.dengeki.com",
       "summary": "",
       "publishedAt": "2026-10-04T02:00:00.000Z",
       "image": "https://hobby.dengeki.com/ss/hobby/2026/09/09_tc_eQHqSlqy2jUvh0BDNepEfuvgUHyIPSmc_JuBqn1zQR47AQRfZy2dFAgHg0U1azYmX.jpg",
@@ -3136,6 +3163,44 @@
       "isNew": false
     },
     {
+      "id": "bdc701d57212",
+      "title": "TVアニメ「転生した大聖女は、聖女であることをひた隠す」放送直前特番 (アニメ) | 無料動画・見逃し配信を見るなら",
+      "url": "https://abema.tv/video/title/218-929",
+      "host": "abema.tv",
+      "source": "ABEMA",
+      "summary": "",
+      "publishedAt": "2026-10-04T00:40:44.000Z",
+      "image": "",
+      "categories": [
+        "anime"
+      ],
+      "works": [],
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": true
+    },
+    {
+      "id": "6004816fd36e",
+      "title": "＜薬屋のひとりごと＞テレビアニメ第2期 名場面誕生の裏側 山場の「なあに」 “カエル”の表現 筆坂明規監督インタビュー",
+      "url": "https://news.yahoo.co.jp/articles/3b035948ceafc7fdf23ad2e157957da3bfed2583/images/000",
+      "host": "news.yahoo.co.jp",
+      "source": "Yahoo!ニュース",
+      "summary": "",
+      "publishedAt": "2026-10-03T22:35:00.000Z",
+      "image": "https://news-pctr.c.yimg.jp/uUzvQ3lML_bkIqyakc1vFhNrRI0RUQxg5aFkrX0xDg1_T0wXrbEJjtNGtrf1o9y3xudcUclfbXjZqAvGT8NJnQvyyEExT2iZeWRvuEALr_kCfdFPIwNPIJhLiDuSrBq9It4k5iYoPe0MW8lnu_3OufBJbPb__RjM7i7P162j2gV2zGe4lnHj1w63CLBpmsLFcAT3VATBu3KM2liYMHjBng==",
+      "categories": [
+        "anime"
+      ],
+      "works": [
+        "kusuriya"
+      ],
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": true
+    },
+    {
       "id": "cae53e64ef1f",
       "title": "薬屋のひとりごと：テレビアニメ第2期 名場面誕生の裏側 山場の「なあに」 “カエル”の表現 筆坂明規監督インタビュー",
       "url": "https://mantan-web.jp/article/20261002dog00m200122000a.html",
@@ -3181,7 +3246,7 @@
       "title": "薬屋のひとりごとの漫画を無料で読む方法【2026年10月】全巻無料・読み放題を比較",
       "url": "https://charagoo.jp/kusuriyanohitorigoto-comic-free/",
       "host": "charagoo.jp",
-      "source": "charagoo.jp",
+      "source": "キャラグー",
       "summary": "",
       "publishedAt": "2026-10-03T22:10:22.000Z",
       "image": "",
@@ -3551,13 +3616,13 @@
     },
     {
       "id": "e7da5ed76ff2",
-      "title": "「美腹筋すごっ！」『無職転生』香港美女コスプレイヤーによる“エリス”に「すばらしい」「ウェストきれい」",
-      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOb01KYVJIUmdZN0RoM21ubWRDejZIMHpDbE1FTWFkWHQ5OW1yc0M3XzlURG1FM2w1a1dhckVibTdtUDliMEdTMFV4MGwwU0czdDhuTUZPajNxbWwtay1LVklzNGhia1dZUHdKUjhDSS1TcGdzYUNESkl3c01GS0ZHNjA5SGPSAYQBQVVfeXFMTm9NSmFSSFJnWTdEaDNtbm1kQ3o2SDB6Q2xNRU1hZFh0OTltcnNDN185VERtRTNsNWtXYXJFYm03bVA5YjBHUzBVeDBsMFNHM3Q4bk1GT2ozcW1sLWstS1ZJczRoYmtXWVB3SlI4Q0ktU3Bnc2FDREpJd3NNRktGRzYwOUhj?oc=5",
-      "host": "topics.smt.docomo.ne.jp",
-      "source": "ｄメニューニュース",
+      "title": "「美腹筋すごっ！」『無職転生』香港美女コスプレイヤーによる“エリス”に「すばらしい」「ウェストきれい」 (マグミクス)",
+      "url": "https://news.yahoo.co.jp/articles/f016fcd5c09ecd18f1ae71f39fe7dc3220850d36/images/000",
+      "host": "news.yahoo.co.jp",
+      "source": "Yahoo!ニュース",
       "summary": "",
       "publishedAt": "2026-10-03T08:25:00.000Z",
-      "image": "",
+      "image": "https://news-pctr.c.yimg.jp/uUzvQ3lML_bkIqyakc1vFhNrRI0RUQxg5aFkrX0xDg1_T0wXrbEJjtNGtrf1o9y3xudcUclfbXjZqAvGT8NJncBG38KcF1Ge50rRi2pyClkYnxLW1ycoYhfsj0kvNNpgGyEwxfklC0n3T81JmalS_aWM1AtnqePOxw4MS_KwlO78qC0BYundDKwBn3jNe_H5",
       "categories": [
         "other"
       ],
@@ -3565,7 +3630,7 @@
         "mushoku"
       ],
       "isPR": false,
-      "viaGoogle": true,
+      "viaGoogle": false,
       "sourceKind": "news",
       "isNew": false
     },
@@ -3628,25 +3693,44 @@
       "isNew": false
     },
     {
-      "id": "309b7c884fac",
-      "title": "「ドラゴンポーカー」でアニメ「無職転生～異世界行ったら本気だす～」とのコラボイベントが開催！新規収録したコラボ限定役ボイスも追加",
-      "url": "https://www.gamer.ne.jp/news/202610020018/image/9/",
-      "host": "gamer.ne.jp",
-      "source": "Gamer",
+      "id": "146bd6be24d7",
+      "title": "薬屋のひとりごと #13〜24【無料ビデオ1週間】",
+      "url": "https://abema.tv/channels/abema-anime/slots/CTHATugwg7KSby",
+      "host": "abema.tv",
+      "source": "ABEMA",
       "summary": "",
-      "publishedAt": "2026-10-03T06:19:35.000Z",
+      "publishedAt": "2026-10-03T07:00:00.000Z",
       "image": "",
       "categories": [
-        "goods",
-        "anime"
+        "other"
       ],
       "works": [
-        "mushoku"
+        "kusuriya"
       ],
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": false
+      "isNew": true
+    },
+    {
+      "id": "0c35986a02ab",
+      "title": "本好きの下剋上 司書になるためには手段を選んでいられません #1〜12",
+      "url": "https://abema.tv/channels/isekai-anime-3/slots/9JoQfTmVp6mJ5d",
+      "host": "abema.tv",
+      "source": "ABEMA",
+      "summary": "",
+      "publishedAt": "2026-10-03T07:00:00.000Z",
+      "image": "",
+      "categories": [
+        "other"
+      ],
+      "works": [
+        "honzuki"
+      ],
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": true
     }
   ]
 }
