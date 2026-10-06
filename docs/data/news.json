@@ -1,28 +1,28 @@
 {
-  "updatedAt": "2026-10-06T16:00:19.942Z",
+  "updatedAt": "2026-10-06T16:30:17.905Z",
   "site": {
     "title": "なろう系まとめ",
     "tagline": "小説家になろう発の作品のアニメ化・コミカライズ・書籍化のニュースと、なろうのランキングをまとめています。",
     "url": "https://naroumatome.gamelab.website/",
     "contactUrl": "https://docs.google.com/forms/d/e/1FAIpQLSesWyhmZ6sRS_ve-c3X2KqF_wC5PK2TgwgQbTKmnQltSlg5Jw/viewform"
   },
-  "total": 109,
-  "todayCount": 2,
+  "total": 123,
+  "todayCount": 4,
   "categories": [
     {
       "id": "anime",
       "label": "アニメ",
-      "count": 80
+      "count": 87
     },
     {
       "id": "comic",
       "label": "コミカライズ",
-      "count": 12
+      "count": 13
     },
     {
       "id": "book",
       "label": "書籍・ラノベ",
-      "count": 10
+      "count": 11
     },
     {
       "id": "web",
@@ -37,12 +37,12 @@
     {
       "id": "goods",
       "label": "グッズ・イベント",
-      "count": 9
+      "count": 10
     },
     {
       "id": "other",
       "label": "そのほか",
-      "count": 7
+      "count": 11
     }
   ],
   "works": [
@@ -50,7 +50,7 @@
       "id": "tensura",
       "title": "転生したらスライムだった件",
       "short": "転スラ",
-      "count": 6
+      "count": 19
     },
     {
       "id": "mushoku",
@@ -295,31 +295,35 @@
   ],
   "sources": [
     {
+      "name": "山陽新聞",
+      "count": 11
+    },
+    {
       "name": "Yahoo!ニュース",
-      "count": 10
+      "count": 11
     },
     {
       "name": "WEBザテレビジョン",
       "count": 10
     },
     {
-      "name": "山陽新聞",
-      "count": 9
-    },
-    {
       "name": "ラノベニュースオンライン",
       "count": 7
-    },
-    {
-      "name": "ABEMA",
-      "count": 4
     },
     {
       "name": "ナタリー",
       "count": 4
     },
     {
+      "name": "オリコンニュース",
+      "count": 4
+    },
+    {
       "name": "アニメ！アニメ！",
+      "count": 4
+    },
+    {
+      "name": "Unisba Media",
       "count": 4
     },
     {
@@ -331,7 +335,15 @@
       "count": 3
     },
     {
+      "name": "ABEMA",
+      "count": 3
+    },
+    {
       "name": "Infoseek",
+      "count": 3
+    },
+    {
+      "name": "電撃オンライン",
       "count": 3
     },
     {
@@ -343,11 +355,7 @@
       "count": 3
     },
     {
-      "name": "Unisba Media",
-      "count": 3
-    },
-    {
-      "name": "ニコニコニュース",
+      "name": "Howl.Link",
       "count": 3
     },
     {
@@ -359,15 +367,19 @@
       "count": 2
     },
     {
+      "name": "コラボカフェ",
+      "count": 2
+    },
+    {
       "name": "gamebiz【ゲームビズ】",
       "count": 2
     },
     {
-      "name": "オリコンニュース",
+      "name": "オタク総研",
       "count": 2
     },
     {
-      "name": "0115765.com",
+      "name": "ニコニコニュース",
       "count": 2
     },
     {
@@ -379,19 +391,11 @@
       "count": 2
     },
     {
-      "name": "tver.jp",
+      "name": "TVer",
       "count": 2
     },
     {
-      "name": "news.dengeki.com",
-      "count": 1
-    },
-    {
       "name": "PASH! PLUS",
-      "count": 1
-    },
-    {
-      "name": "コラボカフェ",
       "count": 1
     },
     {
@@ -419,6 +423,10 @@
       "count": 1
     },
     {
+      "name": "V-storage",
+      "count": 1
+    },
+    {
       "name": "UtaTen",
       "count": 1
     },
@@ -427,7 +435,11 @@
       "count": 1
     },
     {
-      "name": "crank-in.net",
+      "name": "クランクイン！",
+      "count": 1
+    },
+    {
+      "name": "テレ朝NEWS",
       "count": 1
     },
     {
@@ -435,7 +447,7 @@
       "count": 1
     },
     {
-      "name": "witstudio.co.jp",
+      "name": "WIT STUDIO",
       "count": 1
     },
     {
@@ -444,6 +456,14 @@
     },
     {
       "name": "GameWith",
+      "count": 1
+    },
+    {
+      "name": "マイナビニュース",
+      "count": 1
+    },
+    {
+      "name": "ライブドアニュース",
       "count": 1
     },
     {
@@ -459,15 +479,15 @@
       "count": 1
     },
     {
-      "name": "電撃オンライン",
-      "count": 1
-    },
-    {
       "name": "おた☆スケ",
       "count": 1
     },
     {
-      "name": "mediadogs.jp",
+      "name": "https://mediadogs.jp/",
+      "count": 1
+    },
+    {
+      "name": "www.banger.jp",
       "count": 1
     },
     {
@@ -532,16 +552,16 @@
           "isPR": false
         },
         {
-          "title": "（写真）アニメ『本好きの下剋上 貴族院の自称図書委員』TVアニメ化決定 制作はWIT STUDIO - crank-in.net",
+          "title": "（写真）アニメ『本好きの下剋上 貴族院の自称図書委員』TVアニメ化決定 制作はWIT STUDIO",
           "url": "https://www.crank-in.net/gallery/news/192108/2",
-          "source": "crank-in.net",
+          "source": "クランクイン！",
           "publishedAt": "2026-10-05T11:51:28.000Z",
           "isPR": false
         },
         {
           "title": "TVアニメ『本好きの下剋上 貴族院の自称図書委員』制作決定！！ - NEWS（ニュース）",
           "url": "https://www.witstudio.co.jp/news/post-45",
-          "source": "witstudio.co.jp",
+          "source": "WIT STUDIO",
           "publishedAt": "2026-10-05T09:46:20.000Z",
           "isPR": false
         },
@@ -562,8 +582,8 @@
       "image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20261006-10277423-abemad-000-1-view.jpg?exp=10800",
       "leadSource": "Yahoo!ニュース",
       "publishedAt": "2026-10-06T12:12:17.000Z",
-      "sourceCount": 6,
-      "articleCount": 10,
+      "sourceCount": 7,
+      "articleCount": 11,
       "categories": [
         "anime",
         "goods"
@@ -625,9 +645,59 @@
         },
         {
           "title": "J:COM STREAM、2026年秋アニメを順次配信 - 「薬屋のひとりごと」第3期など",
-          "url": "https://news.nicovideo.jp/watch/nw19845944?news_ref",
-          "source": "ニコニコニュース",
-          "publishedAt": "2026-10-05T06:18:06.000Z",
+          "url": "https://news.mynavi.jp/article/20261005-5077635/",
+          "source": "マイナビニュース",
+          "publishedAt": "2026-10-05T05:16:09.000Z",
+          "isPR": false
+        }
+      ]
+    },
+    {
+      "id": "9788973578bf",
+      "title": "【訃報】アニメーター・桂憲一郎さん死去 妻がXで報告「マクロス7」「転スラ」など参加",
+      "summary": "",
+      "url": "https://news.tv-asahi.co.jp/news_geinou/articles/900201208.html",
+      "image": "https://news.tv-asahi.co.jp/articles_img/900201208_1200.jpg",
+      "leadSource": "テレ朝NEWS",
+      "publishedAt": "2026-10-05T11:38:00.000Z",
+      "sourceCount": 4,
+      "articleCount": 5,
+      "categories": [
+        "anime",
+        "other"
+      ],
+      "keywords": [
+        "転スラ",
+        "アニメーター",
+        "マクロス"
+      ],
+      "articles": [
+        {
+          "title": "コメント | アニメーターの桂憲一郎さん死去 59歳 『マクロス7』『ナイツ&マジック』『転スラ』などに参加",
+          "url": "https://www.oricon.co.jp/news/2484532/comment/",
+          "source": "オリコンニュース",
+          "publishedAt": "2026-10-05T08:26:30.000Z",
+          "isPR": false
+        },
+        {
+          "title": "【画像】アニメーターの桂憲一郎さん死去 59歳 『マクロス7』『ナイツ&マジック』『転スラ』などに参加",
+          "url": "https://news.livedoor.com/article/image_detail/32491968/?img_id",
+          "source": "ライブドアニュース",
+          "publishedAt": "2026-10-05T05:14:31.000Z",
+          "isPR": false
+        },
+        {
+          "title": "アニメーターの桂憲一郎さん死去 59歳 『マクロス7』『ナイツ&マジック』『転スラ』などに参加",
+          "url": "https://www.oricon.co.jp/news/2484532/full/",
+          "source": "オリコンニュース",
+          "publishedAt": "2026-10-05T05:14:00.000Z",
+          "isPR": false
+        },
+        {
+          "title": "【転スラ】0306宣伝用場面写01 | あなたが観たい",
+          "url": "https://news.google.com/rss/articles/CBMigAJBVV95cUxOa0xWZ2FiUEVLT1R1MnFqYllBelBhQ2hxYnNRTjFrQzRBSEZQaU9aR29scmF4d21JZUo1VWxtN3NsVENPZ0s0TFNHSE0yWWx0eVpUQm1PeEl3RDRBemNxakZiMl9GNW9sTHNRb0hKdWhUd2V6Y0lVUjQ0OURzeWk2ZGNfRkdKT056clFicnN2S05YaXpVX3Y3SjhEWWwwWVVlVzhJYlRCYlJ6bzJ3dGNjeUlvZHo2aEt3Q2hrd3BmbUJRd0NoUzc1NzhzTU4wWHkwS2JLcXlSMzRuek5URmN3V3gwaUh5UlAtLWJ5Z0VLMGRrRWpnVElXcXZ1eVlVOHpr?oc=5",
+          "source": "www.banger.jp",
+          "publishedAt": "2026-10-03T20:56:25.000Z",
           "isPR": false
         }
       ]
@@ -746,7 +816,7 @@
         {
           "title": "無職転生Ⅲ ～異世界行ったら本気だす～",
           "url": "https://tver.jp/episodes/epmkehc27v",
-          "source": "tver.jp",
+          "source": "TVer",
           "publishedAt": "2026-10-04T15:16:45.000Z",
           "isPR": false
         }
@@ -797,14 +867,14 @@
       "leadSource": "山陽新聞",
       "publishedAt": "2026-10-06T01:13:07.000Z",
       "sourceCount": 2,
-      "articleCount": 4,
+      "articleCount": 7,
       "categories": [
         "anime"
       ],
       "keywords": [
         "カット",
         "場面",
-        "解禁"
+        "転スラ"
       ],
       "articles": [
         {
@@ -815,6 +885,13 @@
           "isPR": false
         },
         {
+          "title": "転スラ 第4期＞クロエとヒナタを救うため、リムルはクロノアの無限牢獄に干渉する 第96話あらすじ＆場面カット公開",
+          "url": "https://thetv.jp/news/detail/1442655/landing/",
+          "source": "WEBザテレビジョン",
+          "publishedAt": "2026-10-05T14:30:42.000Z",
+          "isPR": false
+        },
+        {
           "title": "＜転スラ 第4期＞クロエとヒナタを救うため、リムルはクロノアの無限牢獄に干渉する 第96話あらすじ＆場面カット公開",
           "url": "https://thetv.jp/news/detail/1442655/18575914/",
           "source": "WEBザテレビジョン",
@@ -822,10 +899,24 @@
           "isPR": false
         },
         {
+          "title": "『転スラ』衝撃の戦闘！封印の解かれたクロノア、破壊の化身に 第94話あらすじ＆場面カット解禁",
+          "url": "https://www.sanyonews.jp/photo/detail?article_id",
+          "source": "山陽新聞",
+          "publishedAt": "2026-10-04T18:30:12.000Z",
+          "isPR": false
+        },
+        {
           "title": "『盾の勇者の成り上がり』第5期は2027年放送 場面カットとPV解禁",
           "url": "https://www.sanyonews.jp/article/1949408?kw",
           "source": "山陽新聞",
           "publishedAt": "2026-10-04T17:31:51.000Z",
+          "isPR": false
+        },
+        {
+          "title": "『転スラ』ミリム、友達は倒せず…リムルは混沌竜の魂を保護 第83話あらすじ＆場面カット解禁",
+          "url": "https://www.sanyonews.jp/article/1938886?rct",
+          "source": "山陽新聞",
+          "publishedAt": "2026-10-04T01:21:48.000Z",
           "isPR": false
         }
       ]
@@ -937,50 +1028,41 @@
         {
           "title": "『無職転生Ⅲ』続き気になる第1クール最後、エリスを妻に迎えることを相談…第14話コメント最多TOP3【ランキング】",
           "url": "https://0115765.com/archives/208291",
-          "source": "0115765.com",
+          "source": "オタク総研",
           "publishedAt": "2026-10-05T10:30:11.000Z",
-          "isPR": false
-        }
-      ]
-    },
-    {
-      "id": "80f0fa301e95",
-      "title": "『薬屋のひとりごと』第3期、ノンクレジットOP映像公開 Blu-ray発売決定でイラスト解禁",
-      "summary": "",
-      "url": "https://www.sanyonews.jp/article/1998700",
-      "image": "https://static.sanyonews.jp/image/article/size1/5/9/7/8/59783af7bbcdc324127e682654421cc9_1.jpg",
-      "leadSource": "山陽新聞",
-      "publishedAt": "2026-10-05T22:33:10.000Z",
-      "sourceCount": 2,
-      "articleCount": 2,
-      "categories": [
-        "anime",
-        "goods"
-      ],
-      "keywords": [
-        "薬屋",
-        "映像公開",
-        "発売決定"
-      ],
-      "articles": [
-        {
-          "title": "秋アニメ『薬屋のひとりごと』ノンクレOP映像公開！BD全4巻にて発売決定",
-          "url": "https://www.animatetimes.com/news/details.php?id",
-          "source": "アニメイトタイムズ",
-          "publishedAt": "2026-10-05T09:20:00.000Z",
           "isPR": false
         }
       ]
     }
   ],
   "churn": {
-    "previousAt": "2026-10-06T15:29:07.590Z",
-    "previousCount": 132,
-    "newCount": 5
+    "previousAt": "2026-10-06T16:00:19.942Z",
+    "previousCount": 109,
+    "newCount": 17
   },
   "updateGapMin": 30,
-  "nextUpdateAt": "2026-10-06T16:30:19.942Z",
+  "nextUpdateAt": "2026-10-06T17:00:17.905Z",
   "items": [
+    {
+      "id": "2a3f90c6eeb8",
+      "title": "新台『e リゼロ 鬼がかり2』のRUSH・赤保留・先バレカスタム・白鯨攻略戦などを徹底解説！",
+      "url": "https://p-town.dmm.com/specials/5455",
+      "host": "p-town.dmm.com",
+      "source": "DMMぱちタウン",
+      "summary": "",
+      "publishedAt": "2026-10-06T16:04:25.000Z",
+      "image": "",
+      "categories": [
+        "other"
+      ],
+      "works": [
+        "rezero"
+      ],
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": false
+    },
     {
       "id": "377fb52057f4",
       "title": "CLAMPの「魔法騎士レイアース」が30年以上ぶりアニメ化！ 10月7日～放送開始【秋アニメ2026】異世界召喚された女子中学生たちの物語",
@@ -997,7 +1079,28 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": true
+      "isNew": false
+    },
+    {
+      "id": "80f0fa301e95",
+      "title": "『薬屋のひとりごと』第3期、ノンクレジットOP映像公開 Blu-ray発売決定でイラスト解禁",
+      "url": "https://www.sanyonews.jp/article/1998700",
+      "host": "sanyonews.jp",
+      "source": "山陽新聞",
+      "summary": "",
+      "publishedAt": "2026-10-06T15:06:35.000Z",
+      "image": "https://static.sanyonews.jp/image/article/size1/5/9/7/8/59783af7bbcdc324127e682654421cc9_1.jpg",
+      "categories": [
+        "anime",
+        "goods"
+      ],
+      "works": [
+        "kusuriya"
+      ],
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": false
     },
     {
       "id": "ef6e7a8ae1f8",
@@ -1102,7 +1205,7 @@
       "title": "【異世界転生アニメ】赤ん坊・幼少期からの成長が熱い名作10選。前世の知識で無双するおすすめ作はコレ！",
       "url": "http://news.dengeki.com/article/202610/83662",
       "host": "news.dengeki.com",
-      "source": "news.dengeki.com",
+      "source": "電撃オンライン",
       "summary": "",
       "publishedAt": "2026-10-06T11:00:00.000Z",
       "image": "https://cimg.kgl-systems.io/camion/files/83662/ogp_FgZD.jpg?x=1280",
@@ -1469,6 +1572,26 @@
       "isNew": false
     },
     {
+      "id": "31c7f1fca957",
+      "title": "「今更聞けないスキルの話」 #16 シュナ［転スラ探訪］ - V-storage",
+      "url": "https://v-storage.jp/bv_news/282336/",
+      "host": "v-storage.jp",
+      "source": "V-storage",
+      "summary": "",
+      "publishedAt": "2026-10-06T03:04:57.000Z",
+      "image": "https://v-storage.jp/wp-content/uploads/2026/08/FBtensurabou02_16.jpg",
+      "categories": [
+        "other"
+      ],
+      "works": [
+        "tensura"
+      ],
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": true
+    },
+    {
       "id": "0677ee43226f",
       "title": "最終話終えた『リゼロ』第4期、終盤の神龍・ボルカニカ登場やエミリアに視聴者興奮！コメント最多シーンTOP3【ランキング】",
       "url": "https://news.yahoo.co.jp/articles/2dc9b1bfab1f85b3539ac502b277945a3aa48ca7/images/000",
@@ -1488,6 +1611,24 @@
       "viaGoogle": false,
       "sourceKind": "news",
       "isNew": false
+    },
+    {
+      "id": "66fd54bec4de",
+      "title": "TVアニメ「信者ゼロの女神サマと始める異世界攻略」公式アカウント/2026年10月放送開始",
+      "url": "https://t.co/iubLMZXUvr",
+      "host": "t.co",
+      "source": "Howl.Link",
+      "summary": "",
+      "publishedAt": "2026-10-06T03:00:04.000Z",
+      "image": "",
+      "categories": [
+        "anime"
+      ],
+      "works": [],
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": true
     },
     {
       "id": "fca211f46f74",
@@ -1621,27 +1762,6 @@
       "image": "https://static.sanyonews.jp/image/article/size1/1/c/6/b/1c6b7cb3359369a685532b39dc471fca_1.jpg",
       "categories": [
         "anime"
-      ],
-      "works": [
-        "kusuriya"
-      ],
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": false
-    },
-    {
-      "id": "80f0fa301e95",
-      "title": "『薬屋のひとりごと』第3期、ノンクレジットOP映像公開 Blu-ray発売決定でイラスト解禁",
-      "url": "https://www.sanyonews.jp/article/1998700",
-      "host": "sanyonews.jp",
-      "source": "山陽新聞",
-      "summary": "",
-      "publishedAt": "2026-10-05T22:33:10.000Z",
-      "image": "https://static.sanyonews.jp/image/article/size1/5/9/7/8/59783af7bbcdc324127e682654421cc9_1.jpg",
-      "categories": [
-        "anime",
-        "goods"
       ],
       "works": [
         "kusuriya"
@@ -1805,6 +1925,26 @@
       "isNew": false
     },
     {
+      "id": "8f066b108e3e",
+      "title": "『リゼロ 氷結の絆』AT-Xにて5/31 20時より放送決定",
+      "url": "https://www.animatetimes.com/news/img.php?id",
+      "host": "animatetimes.com",
+      "source": "アニメイトタイムズ",
+      "summary": "",
+      "publishedAt": "2026-10-05T18:03:03.000Z",
+      "image": "https://www.animatetimes.com/img/ogimage.png",
+      "categories": [
+        "anime"
+      ],
+      "works": [
+        "rezero"
+      ],
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": true
+    },
+    {
       "id": "2373c0692c7f",
       "title": "『転スラ』リムル様、大忙し！ラミリスから緊急連絡 尊いミリムの表情…第84話あらすじ＆場面カット解禁",
       "url": "https://www.sanyonews.jp/article/1942798?kw",
@@ -1843,42 +1983,44 @@
       "isNew": false
     },
     {
-      "id": "86c279374abe",
-      "title": "異世界・ファンタジーアニメ5チャンネル | 無料で放送中の番組や配信中の話題作が見放題",
-      "url": "https://abema.tv/now-on-air/isekai-anime-5",
-      "host": "abema.tv",
-      "source": "ABEMA",
+      "id": "76a599614341",
+      "title": "転スラ 第4期＞クロエとヒナタを救うため、リムルはクロノアの無限牢獄に干渉する 第96話あらすじ＆場面カット公開",
+      "url": "https://thetv.jp/news/detail/1442655/landing/",
+      "host": "thetv.jp",
+      "source": "WEBザテレビジョン",
       "summary": "",
-      "publishedAt": "2026-10-05T15:00:00.000Z",
+      "publishedAt": "2026-10-05T14:30:42.000Z",
       "image": "",
       "categories": [
         "anime"
       ],
-      "works": [],
+      "works": [
+        "tensura"
+      ],
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
       "isNew": true
     },
     {
-      "id": "2a3f90c6eeb8",
-      "title": "新台『e リゼロ 鬼がかり2』のRUSH・赤保留・先バレカスタム・白鯨攻略戦などを徹底解説！",
-      "url": "https://p-town.dmm.com/specials/5455",
-      "host": "p-town.dmm.com",
-      "source": "DMMぱちタウン",
+      "id": "23aa6eb6b4ae",
+      "title": "藍井エイル「絵空事」Lyric Video（TVアニメ『転生したらスライムだった件 第4期』オープニング主題歌） Keith Urban (W4J91YhlDF)",
+      "url": "https://media.unisba.ac.id/43cef44a/6d709b2fWzU0ARFUDzoZPxE/?share",
+      "host": "media.unisba.ac.id",
+      "source": "Unisba Media",
       "summary": "",
-      "publishedAt": "2026-10-05T13:48:19.000Z",
+      "publishedAt": "2026-10-05T14:19:29.000Z",
       "image": "",
       "categories": [
-        "other"
+        "anime"
       ],
       "works": [
-        "rezero"
+        "tensura"
       ],
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": false
+      "isNew": true
     },
     {
       "id": "7b9097539e9b",
@@ -1960,10 +2102,10 @@
     },
     {
       "id": "896becbcd4db",
-      "title": "（写真）アニメ『本好きの下剋上 貴族院の自称図書委員』TVアニメ化決定 制作はWIT STUDIO - crank-in.net",
+      "title": "（写真）アニメ『本好きの下剋上 貴族院の自称図書委員』TVアニメ化決定 制作はWIT STUDIO",
       "url": "https://www.crank-in.net/gallery/news/192108/2",
       "host": "crank-in.net",
-      "source": "crank-in.net",
+      "source": "クランクイン！",
       "summary": "",
       "publishedAt": "2026-10-05T11:51:28.000Z",
       "image": "https://www.crank-in.net/img/db/262103029126318_1200.jpg",
@@ -1979,11 +2121,31 @@
       "isNew": false
     },
     {
+      "id": "9788973578bf",
+      "title": "【訃報】アニメーター・桂憲一郎さん死去 妻がXで報告「マクロス7」「転スラ」など参加",
+      "url": "https://news.tv-asahi.co.jp/news_geinou/articles/900201208.html",
+      "host": "news.tv-asahi.co.jp",
+      "source": "テレ朝NEWS",
+      "summary": "",
+      "publishedAt": "2026-10-05T11:38:00.000Z",
+      "image": "https://news.tv-asahi.co.jp/articles_img/900201208_1200.jpg",
+      "categories": [
+        "anime"
+      ],
+      "works": [
+        "tensura"
+      ],
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": true
+    },
+    {
       "id": "8580fd81b0c4",
       "title": "『無職転生Ⅲ』続き気になる第1クール最後、エリスを妻に迎えることを相談…第14話コメント最多TOP3【ランキング】",
       "url": "https://0115765.com/archives/208291",
       "host": "0115765.com",
-      "source": "0115765.com",
+      "source": "オタク総研",
       "summary": "",
       "publishedAt": "2026-10-05T10:30:11.000Z",
       "image": "https://0115765.com/wp-content/uploads/2026/09/2.jpg",
@@ -2022,7 +2184,7 @@
       "title": "TVアニメ『本好きの下剋上 貴族院の自称図書委員』制作決定！！ - NEWS（ニュース）",
       "url": "https://www.witstudio.co.jp/news/post-45",
       "host": "witstudio.co.jp",
-      "source": "witstudio.co.jp",
+      "source": "WIT STUDIO",
       "summary": "",
       "publishedAt": "2026-10-05T09:46:20.000Z",
       "image": "https://www.witstudio.co.jp/wordpress/wp-content/uploads/2026/10/IMG_3376.jpeg",
@@ -2076,27 +2238,6 @@
       "isNew": false
     },
     {
-      "id": "776c218b7c96",
-      "title": "秋アニメ『薬屋のひとりごと』ノンクレOP映像公開！BD全4巻にて発売決定",
-      "url": "https://www.animatetimes.com/news/details.php?id",
-      "host": "animatetimes.com",
-      "source": "アニメイトタイムズ",
-      "summary": "",
-      "publishedAt": "2026-10-05T09:20:00.000Z",
-      "image": "https://www.animatetimes.com/img/ogimage.png",
-      "categories": [
-        "anime",
-        "book"
-      ],
-      "works": [
-        "kusuriya"
-      ],
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": true
-    },
-    {
       "id": "71ac1f1c2476",
       "title": "「悪役令嬢の躾け方」1巻 ハイスペ侍女が悪役令嬢の悪堕ちフラグを叩き折る",
       "url": "https://news.nicovideo.jp/watch/nw19846527",
@@ -2113,6 +2254,26 @@
       "viaGoogle": false,
       "sourceKind": "news",
       "isNew": false
+    },
+    {
+      "id": "674cc524ecd8",
+      "title": "コメント | アニメーターの桂憲一郎さん死去 59歳 『マクロス7』『ナイツ&マジック』『転スラ』などに参加",
+      "url": "https://www.oricon.co.jp/news/2484532/comment/",
+      "host": "oricon.co.jp",
+      "source": "オリコンニュース",
+      "summary": "",
+      "publishedAt": "2026-10-05T08:26:30.000Z",
+      "image": "https://contents.oricon.co.jp/upimg/news/2485000/2484532/20261005_141110_p_l_61382761.jpg",
+      "categories": [
+        "anime"
+      ],
+      "works": [
+        "tensura"
+      ],
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": true
     },
     {
       "id": "9b6aa75183ff",
@@ -2133,7 +2294,7 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "9ded0e8c8a72",
@@ -2216,26 +2377,6 @@
       "isNew": false
     },
     {
-      "id": "08319db89b84",
-      "title": "J:COM STREAM、2026年秋アニメを順次配信 - 「薬屋のひとりごと」第3期など",
-      "url": "https://news.nicovideo.jp/watch/nw19845944?news_ref",
-      "host": "news.nicovideo.jp",
-      "source": "ニコニコニュース",
-      "summary": "",
-      "publishedAt": "2026-10-05T06:18:06.000Z",
-      "image": "",
-      "categories": [
-        "anime"
-      ],
-      "works": [
-        "kusuriya"
-      ],
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": false
-    },
-    {
       "id": "55dd716666ca",
       "title": "アニメ『欠けた月のメルセデス ～吸血鬼の貴族に転生したけど捨てられそうなのでダンジョンを制覇する～』メインビジュアル第1弾が公開",
       "url": "https://ln-news.com/articles/126808",
@@ -2252,6 +2393,66 @@
       "viaGoogle": false,
       "sourceKind": "news",
       "isNew": false
+    },
+    {
+      "id": "08319db89b84",
+      "title": "J:COM STREAM、2026年秋アニメを順次配信 - 「薬屋のひとりごと」第3期など",
+      "url": "https://news.mynavi.jp/article/20261005-5077635/",
+      "host": "news.mynavi.jp",
+      "source": "マイナビニュース",
+      "summary": "",
+      "publishedAt": "2026-10-05T05:16:09.000Z",
+      "image": "https://news.mynavi.jp/article/20261005-5077635/ogp_images/ogp.jpg",
+      "categories": [
+        "anime"
+      ],
+      "works": [
+        "kusuriya"
+      ],
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": false
+    },
+    {
+      "id": "43364f4f875b",
+      "title": "【画像】アニメーターの桂憲一郎さん死去 59歳 『マクロス7』『ナイツ&マジック』『転スラ』などに参加",
+      "url": "https://news.livedoor.com/article/image_detail/32491968/?img_id",
+      "host": "news.livedoor.com",
+      "source": "ライブドアニュース",
+      "summary": "",
+      "publishedAt": "2026-10-05T05:14:31.000Z",
+      "image": "https://image.news.livedoor.com/newsimage/stf/9/d/9d5ec_760_2484532_20261005_141110_size640wh_16525552.jpg",
+      "categories": [
+        "anime"
+      ],
+      "works": [
+        "tensura"
+      ],
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": true
+    },
+    {
+      "id": "e7df6b0980df",
+      "title": "アニメーターの桂憲一郎さん死去 59歳 『マクロス7』『ナイツ&マジック』『転スラ』などに参加",
+      "url": "https://www.oricon.co.jp/news/2484532/full/",
+      "host": "oricon.co.jp",
+      "source": "オリコンニュース",
+      "summary": "",
+      "publishedAt": "2026-10-05T05:14:00.000Z",
+      "image": "https://contents.oricon.co.jp/upimg/news/2485000/2484532/20261005_141110_p_o_13391750.jpg",
+      "categories": [
+        "anime"
+      ],
+      "works": [
+        "tensura"
+      ],
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": true
     },
     {
       "id": "4298716c202a",
@@ -2410,6 +2611,26 @@
       "isNew": false
     },
     {
+      "id": "20cd9ffdcb29",
+      "title": "『転スラ』最新刊33巻。テスタロッサの動向や聖櫃の異変など波乱の展開へ",
+      "url": "https://dengekionline.com/article/202610/89629",
+      "host": "dengekionline.com",
+      "source": "電撃オンライン",
+      "summary": "",
+      "publishedAt": "2026-10-05T00:50:00.000Z",
+      "image": "https://cimg.kgl-systems.io/camion/files/89629/ogp_cscW.jpg?x=1280",
+      "categories": [
+        "book"
+      ],
+      "works": [
+        "tensura"
+      ],
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": true
+    },
+    {
       "id": "58375643c7a3",
       "title": "第7回集英社WEB小説大賞の結果が発表 「大賞」に1作品など9作品が受賞へ",
       "url": "https://ln-news.com/articles/126817",
@@ -2427,6 +2648,25 @@
       "viaGoogle": false,
       "sourceKind": "news",
       "isNew": false
+    },
+    {
+      "id": "5e8538e41a3f",
+      "title": "「愛罠（i wanna）26話」 \"小説家になろう\"で連載中！ 愛和な（I wanna）２６話 / 第26章：死神 https://ncode.syosetu.com/n3598mv/1/ 一夜限りの落語とサックスによるセッション。 全て…",
+      "url": "https://t.co/4RamUyUGNM",
+      "host": "t.co",
+      "source": "Howl.Link",
+      "summary": "",
+      "publishedAt": "2026-10-04T22:37:21.000Z",
+      "image": "",
+      "categories": [
+        "comic",
+        "book"
+      ],
+      "works": [],
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": true
     },
     {
       "id": "dbdf5813e90e",
@@ -2507,6 +2747,26 @@
       "isNew": false
     },
     {
+      "id": "3412551e5f69",
+      "title": "【セリア】ラス1だった「薬屋のひとりごと」ダイカットステッカー、ミニキャラの猫猫＆壬氏がかわいい…！（くろねこ） - エキスパート",
+      "url": "https://news.yahoo.co.jp/expert/articles/56ed009e9d8191e0eba1fa7fd5515951c8aeb9fc",
+      "host": "news.yahoo.co.jp",
+      "source": "Yahoo!ニュース",
+      "summary": "",
+      "publishedAt": "2026-10-04T21:55:14.000Z",
+      "image": "https://newsatcl-pctr.c.yimg.jp/t/iwiz-yn/creators/kuroneko/02735318/title-1791080307137.jpeg?exp=10800",
+      "categories": [
+        "other"
+      ],
+      "works": [
+        "kusuriya"
+      ],
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": true
+    },
+    {
       "id": "388c55c9a50a",
       "title": "今週の新刊：アニメも人気の「転スラ」 「税金で買った本」「ゆるキャン△」「魔入りました！入間くん」も",
       "url": "https://mantan-web.jp/article/20260928dog00m200082000a.html",
@@ -2546,6 +2806,26 @@
       "viaGoogle": false,
       "sourceKind": "news",
       "isNew": false
+    },
+    {
+      "id": "299970487651",
+      "title": "『転スラ』衝撃の戦闘！封印の解かれたクロノア、破壊の化身に 第94話あらすじ＆場面カット解禁",
+      "url": "https://www.sanyonews.jp/photo/detail?article_id",
+      "host": "sanyonews.jp",
+      "source": "山陽新聞",
+      "summary": "",
+      "publishedAt": "2026-10-04T18:30:12.000Z",
+      "image": "",
+      "categories": [
+        "anime"
+      ],
+      "works": [
+        "tensura"
+      ],
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": true
     },
     {
       "id": "72a8588ce136",
@@ -2592,7 +2872,7 @@
       "title": "無職転生Ⅲ ～異世界行ったら本気だす～",
       "url": "https://tver.jp/episodes/epmkehc27v",
       "host": "tver.jp",
-      "source": "tver.jp",
+      "source": "TVer",
       "summary": "",
       "publishedAt": "2026-10-04T15:16:45.000Z",
       "image": "",
@@ -2625,26 +2905,6 @@
       "viaGoogle": false,
       "sourceKind": "news",
       "isNew": false
-    },
-    {
-      "id": "dc8fa791379f",
-      "title": "“死に戻り”は絶望か、それとも希望か？ アニメ史に残る『Re:ゼロ』極限のトラウマ＆感動名シーン4選",
-      "url": "https://thetv.jp/news/detail/1429327/18108412/",
-      "host": "thetv.jp",
-      "source": "WEBザテレビジョン",
-      "summary": "",
-      "publishedAt": "2026-10-04T11:42:48.000Z",
-      "image": "https://thetv.jp/i/nw/1429327/18108412.jpg?w=1284",
-      "categories": [
-        "anime"
-      ],
-      "works": [
-        "rezero"
-      ],
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": true
     },
     {
       "id": "64c06c65ec01",
@@ -2711,7 +2971,7 @@
       "title": "この秋盛り上げた『無職転生Ⅲ』早くも全話無料で観るチャンス！イッキ見して続く第2クールに備えよう",
       "url": "https://0115765.com/archives/208046",
       "host": "0115765.com",
-      "source": "0115765.com",
+      "source": "オタク総研",
       "summary": "",
       "publishedAt": "2026-10-04T10:03:00.000Z",
       "image": "https://0115765.com/wp-content/uploads/2026/07/20260718-yasq5sm0.jpg",
@@ -2743,6 +3003,26 @@
       "viaGoogle": false,
       "sourceKind": "news",
       "isNew": false
+    },
+    {
+      "id": "7b44939f866a",
+      "title": "転スラ × しまむらパーク ボディバッグ 10月6日より発売!",
+      "url": "https://collabo-cafe.com/events/collabo/ten-sura-avail-item-20261006/",
+      "host": "collabo-cafe.com",
+      "source": "コラボカフェ",
+      "summary": "",
+      "publishedAt": "2026-10-04T09:50:07.000Z",
+      "image": "https://collabo-cafe.com/wp-content/uploads/ten-sura-avail-item-20261006-bodybag.jpg",
+      "categories": [
+        "other"
+      ],
+      "works": [
+        "tensura"
+      ],
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": true
     },
     {
       "id": "7a06b02938ca",
@@ -2878,6 +3158,26 @@
       "isNew": false
     },
     {
+      "id": "b2ce4efba45c",
+      "title": "舞台『転生したらスライムだった件』公式",
+      "url": "https://t.co/CFtbpwBBnD",
+      "host": "t.co",
+      "source": "Howl.Link",
+      "summary": "",
+      "publishedAt": "2026-10-04T03:00:01.000Z",
+      "image": "",
+      "categories": [
+        "goods"
+      ],
+      "works": [
+        "tensura"
+      ],
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": true
+    },
+    {
       "id": "ae3d227fb755",
       "title": "【勘違い】異世界ファンタジー「どれなの」TVアニメ化。ビジュアル",
       "url": "https://www.ota-suke.jp/news/292128",
@@ -2900,7 +3200,7 @@
       "title": "第１章 自称悪役令嬢と出会いの観察記録。",
       "url": "https://tver.jp/episodes/epwlrgt70x",
       "host": "tver.jp",
-      "source": "tver.jp",
+      "source": "TVer",
       "summary": "",
       "publishedAt": "2026-10-04T02:21:17.000Z",
       "image": "",
@@ -2949,6 +3249,26 @@
       "viaGoogle": false,
       "sourceKind": "news",
       "isNew": false
+    },
+    {
+      "id": "bbe0dbb21a99",
+      "title": "『転スラ』ミリム、友達は倒せず…リムルは混沌竜の魂を保護 第83話あらすじ＆場面カット解禁",
+      "url": "https://www.sanyonews.jp/article/1938886?rct",
+      "host": "sanyonews.jp",
+      "source": "山陽新聞",
+      "summary": "",
+      "publishedAt": "2026-10-04T01:21:48.000Z",
+      "image": "https://static.sanyonews.jp/image/article/size1/c/4/6/5/c4655b762512c09aca85d283309470c2_1.jpg",
+      "categories": [
+        "anime"
+      ],
+      "works": [
+        "tensura"
+      ],
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": true
     },
     {
       "id": "0e169364ddb1",
@@ -3034,7 +3354,7 @@
       "title": "魔法騎士レイアース、新作アニメ第1話「異世界より」の予告映像公開 放送日は10月7日、テレ朝系毎週水曜23時45分",
       "url": "https://mediadogs.jp/2026/10/04/magic-knight-rayearth-ep1-trailer-oct7/",
       "host": "mediadogs.jp",
-      "source": "mediadogs.jp",
+      "source": "https://mediadogs.jp/",
       "summary": "",
       "publishedAt": "2026-10-03T22:10:43.000Z",
       "image": "https://mediadogs.jp/wp-content/uploads/2026/10/rayearth-eyecatch.webp",
@@ -3086,6 +3406,26 @@
       "viaGoogle": false,
       "sourceKind": "news",
       "isNew": false
+    },
+    {
+      "id": "4b8c9d747153",
+      "title": "【転スラ】0306宣伝用場面写01 | あなたが観たい",
+      "url": "https://news.google.com/rss/articles/CBMigAJBVV95cUxOa0xWZ2FiUEVLT1R1MnFqYllBelBhQ2hxYnNRTjFrQzRBSEZQaU9aR29scmF4d21JZUo1VWxtN3NsVENPZ0s0TFNHSE0yWWx0eVpUQm1PeEl3RDRBemNxakZiMl9GNW9sTHNRb0hKdWhUd2V6Y0lVUjQ0OURzeWk2ZGNfRkdKT056clFicnN2S05YaXpVX3Y3SjhEWWwwWVVlVzhJYlRCYlJ6bzJ3dGNjeUlvZHo2aEt3Q2hrd3BmbUJRd0NoUzc1NzhzTU4wWHkwS2JLcXlSMzRuek5URmN3V3gwaUh5UlAtLWJ5Z0VLMGRrRWpnVElXcXZ1eVlVOHpr?oc=5",
+      "host": "banger.jp",
+      "source": "www.banger.jp",
+      "summary": "",
+      "publishedAt": "2026-10-03T20:56:25.000Z",
+      "image": "",
+      "categories": [
+        "other"
+      ],
+      "works": [
+        "tensura"
+      ],
+      "isPR": false,
+      "viaGoogle": true,
+      "sourceKind": "news",
+      "isNew": true
     },
     {
       "id": "d8404dae784a",
