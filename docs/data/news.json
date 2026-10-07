@@ -1,18 +1,18 @@
 {
-  "updatedAt": "2026-10-07T18:30:19.747Z",
+  "updatedAt": "2026-10-07T19:00:18.604Z",
   "site": {
     "title": "なろう系まとめ",
     "tagline": "小説家になろう発の作品のアニメ化・コミカライズ・書籍化のニュースと、なろうのランキングをまとめています。",
     "url": "https://naroumatome.gamelab.website/",
     "contactUrl": "https://docs.google.com/forms/d/e/1FAIpQLSesWyhmZ6sRS_ve-c3X2KqF_wC5PK2TgwgQbTKmnQltSlg5Jw/viewform"
   },
-  "total": 119,
+  "total": 121,
   "todayCount": 2,
   "categories": [
     {
       "id": "anime",
       "label": "アニメ",
-      "count": 82
+      "count": 84
     },
     {
       "id": "comic",
@@ -62,7 +62,7 @@
       "id": "rezero",
       "title": "Re:ゼロから始める異世界生活",
       "short": "リゼロ",
-      "count": 8
+      "count": 9
     },
     {
       "id": "honzuki",
@@ -367,6 +367,10 @@
       "count": 2
     },
     {
+      "name": "キャラグー",
+      "count": 2
+    },
+    {
       "name": "DMMぱちタウン",
       "count": 2
     },
@@ -399,10 +403,6 @@
       "count": 1
     },
     {
-      "name": "キャラグー",
-      "count": 1
-    },
-    {
       "name": "玩具人 TOY PEOPLE",
       "count": 1
     },
@@ -424,6 +424,10 @@
     },
     {
       "name": "V-storage",
+      "count": 1
+    },
+    {
+      "name": "Howl.Link",
       "count": 1
     },
     {
@@ -977,12 +981,12 @@
     }
   ],
   "churn": {
-    "previousAt": "2026-10-07T18:00:20.141Z",
-    "previousCount": 121,
-    "newCount": 5
+    "previousAt": "2026-10-07T18:30:19.747Z",
+    "previousCount": 119,
+    "newCount": 3
   },
   "updateGapMin": 30,
-  "nextUpdateAt": "2026-10-07T19:00:19.747Z",
+  "nextUpdateAt": "2026-10-07T19:30:18.604Z",
   "items": [
     {
       "id": "1968922f49c2",
@@ -1002,7 +1006,7 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "fb4b54659ea5",
@@ -1100,6 +1104,26 @@
       "isNew": false
     },
     {
+      "id": "dc8fa791379f",
+      "title": "“死に戻り”は絶望か、それとも希望か？ アニメ史に残る『Re:ゼロ』極限のトラウマ＆感動名シーン4選",
+      "url": "https://thetv.jp/news/detail/1429327/18108413/",
+      "host": "thetv.jp",
+      "source": "WEBザテレビジョン",
+      "summary": "",
+      "publishedAt": "2026-10-07T10:59:59.000Z",
+      "image": "https://thetv.jp/i/nw/1429327/18108413.jpg?w=1284",
+      "categories": [
+        "anime"
+      ],
+      "works": [
+        "rezero"
+      ],
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": true
+    },
+    {
       "id": "3260c066a480",
       "title": "「3期もミニアニメあってよかったー」「ミニ猫猫可愛い！」『薬屋のひとりごと』SD猫猫＆趙迂の掛け合いが楽しいミニアニメ第49話が公開（ABEMA TIMES）",
       "url": "https://news.yahoo.co.jp/articles/cfba2ce458241a79a4f95c0263b664b980687d76",
@@ -1127,7 +1151,7 @@
       "source": "UtaTen",
       "summary": "",
       "publishedAt": "2026-10-07T10:35:11.000Z",
-      "image": "https://cdn.utaten.com/uploads/images/kentei/kentei/1165/82157267280ff0c6e14736a8e3c710f4821865fc.jpeg?r=2026100803",
+      "image": "https://cdn.utaten.com/uploads/images/kentei/kentei/1165/82157267280ff0c6e14736a8e3c710f4821865fc.jpeg?r=2026100804",
       "categories": [
         "anime"
       ],
@@ -1646,14 +1670,14 @@
       "isNew": false
     },
     {
-      "id": "68134e94962d",
-      "title": "＜薬屋のひとりごと＞「痺れた！」梨花妃の平手打ちに感心の一方、ラストで見せた帝の表情に“意味深”の声【第30話】",
-      "url": "https://thetv.jp/news/detail/1443760/18639006/",
-      "host": "thetv.jp",
-      "source": "WEBザテレビジョン",
+      "id": "0b4b2643ca59",
+      "title": "TVアニメ『薬屋のひとりごと』 簪型のペン｜猫のプライズ 入荷予定・取扱店舗",
+      "url": "https://charagoo.jp/prize/item/606572002a12/",
+      "host": "charagoo.jp",
+      "source": "キャラグー",
       "summary": "",
-      "publishedAt": "2026-10-06T23:10:20.000Z",
-      "image": "https://thetv.jp/i/nw/1443760/18639006.jpg?w=1284",
+      "publishedAt": "2026-10-06T23:33:02.000Z",
+      "image": "",
       "categories": [
         "anime"
       ],
@@ -1663,7 +1687,7 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": false
+      "isNew": true
     },
     {
       "id": "cabe3226721f",
@@ -1800,7 +1824,7 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "e7a9feba5ca9",
@@ -2094,7 +2118,7 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "5b6d473c0132",
@@ -2234,6 +2258,24 @@
       "viaGoogle": false,
       "sourceKind": "news",
       "isNew": false
+    },
+    {
+      "id": "66fd54bec4de",
+      "title": "TVアニメ「信者ゼロの女神サマと始める異世界攻略」公式アカウント/2026年10月放送開始",
+      "url": "https://t.co/iubLMZXUvr",
+      "host": "t.co",
+      "source": "Howl.Link",
+      "summary": "",
+      "publishedAt": "2026-10-06T03:00:04.000Z",
+      "image": "",
+      "categories": [
+        "anime"
+      ],
+      "works": [],
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": true
     },
     {
       "id": "51ce04a33789",
@@ -2785,7 +2827,7 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "4fc624bf5a41",
@@ -2795,7 +2837,7 @@
       "source": "ゲームウィズ",
       "summary": "",
       "publishedAt": "2026-10-05T07:11:58.000Z",
-      "image": "https://img.gamewith.jp/article/thumbnail/gamearticle/6668/rectangle/64015.png?t=1791186566",
+      "image": "",
       "categories": [
         "anime"
       ],
@@ -2865,7 +2907,7 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "51d5879846d3",
