@@ -1,28 +1,28 @@
 {
-  "updatedAt": "2026-10-07T09:30:18.533Z",
+  "updatedAt": "2026-10-07T10:00:18.010Z",
   "site": {
     "title": "なろう系まとめ",
     "tagline": "小説家になろう発の作品のアニメ化・コミカライズ・書籍化のニュースと、なろうのランキングをまとめています。",
     "url": "https://naroumatome.gamelab.website/",
     "contactUrl": "https://docs.google.com/forms/d/e/1FAIpQLSesWyhmZ6sRS_ve-c3X2KqF_wC5PK2TgwgQbTKmnQltSlg5Jw/viewform"
   },
-  "total": 118,
-  "todayCount": 32,
+  "total": 120,
+  "todayCount": 35,
   "categories": [
     {
       "id": "anime",
       "label": "アニメ",
-      "count": 85
+      "count": 83
     },
     {
       "id": "comic",
       "label": "コミカライズ",
-      "count": 14
+      "count": 13
     },
     {
       "id": "book",
       "label": "書籍・ラノベ",
-      "count": 11
+      "count": 9
     },
     {
       "id": "web",
@@ -32,7 +32,7 @@
     {
       "id": "game",
       "label": "ゲーム",
-      "count": 3
+      "count": 4
     },
     {
       "id": "goods",
@@ -42,7 +42,7 @@
     {
       "id": "other",
       "label": "そのほか",
-      "count": 11
+      "count": 14
     }
   ],
   "works": [
@@ -50,13 +50,13 @@
       "id": "tensura",
       "title": "転生したらスライムだった件",
       "short": "転スラ",
-      "count": 14
+      "count": 13
     },
     {
       "id": "mushoku",
       "title": "無職転生 ～異世界行ったら本気だす～",
       "short": "無職転生",
-      "count": 17
+      "count": 18
     },
     {
       "id": "rezero",
@@ -74,7 +74,7 @@
       "id": "kusuriya",
       "title": "薬屋のひとりごと",
       "short": "薬屋",
-      "count": 24
+      "count": 26
     },
     {
       "id": "kagejitsu",
@@ -295,15 +295,15 @@
   ],
   "sources": [
     {
+      "name": "Yahoo!ニュース",
+      "count": 10
+    },
+    {
       "name": "山陽新聞",
-      "count": 12
+      "count": 10
     },
     {
       "name": "WEBザテレビジョン",
-      "count": 9
-    },
-    {
-      "name": "Yahoo!ニュース",
       "count": 9
     },
     {
@@ -319,6 +319,10 @@
       "count": 5
     },
     {
+      "name": "Unisba Media",
+      "count": 5
+    },
+    {
       "name": "ニコニコニュース",
       "count": 5
     },
@@ -331,12 +335,12 @@
       "count": 4
     },
     {
-      "name": "Unisba Media",
+      "name": "ナタリー",
       "count": 4
     },
     {
-      "name": "ナタリー",
-      "count": 4
+      "name": "コラボカフェ",
+      "count": 3
     },
     {
       "name": "オリコンニュース",
@@ -344,10 +348,6 @@
     },
     {
       "name": "Infoseek",
-      "count": 2
-    },
-    {
-      "name": "コラボカフェ",
       "count": 2
     },
     {
@@ -379,7 +379,7 @@
       "count": 2
     },
     {
-      "name": "Howl.Link",
+      "name": "GameWith",
       "count": 2
     },
     {
@@ -389,6 +389,10 @@
     {
       "name": "MANTANWEB",
       "count": 2
+    },
+    {
+      "name": "ABEMA TIMES",
+      "count": 1
     },
     {
       "name": "Dtimes",
@@ -427,6 +431,10 @@
       "count": 1
     },
     {
+      "name": "Howl.Link",
+      "count": 1
+    },
+    {
       "name": "Real Sound｜リアルサウンド",
       "count": 1
     },
@@ -444,10 +452,6 @@
     },
     {
       "name": "WIT STUDIO",
-      "count": 1
-    },
-    {
-      "name": "GameWith",
       "count": 1
     },
     {
@@ -574,8 +578,8 @@
       ],
       "keywords": [
         "薬屋",
-        "猫猫",
-        "壬氏"
+        "壬氏",
+        "猫猫"
       ],
       "articles": [
         {
@@ -607,6 +611,13 @@
           "isPR": false
         },
         {
+          "title": "『薬屋のひとりごと』第3期PV解禁 新たな試練に猫猫・壬氏が立ち向かう！EDはEve「AIYOU」",
+          "url": "https://www.sanyonews.jp/article/1994631?rct",
+          "source": "山陽新聞",
+          "publishedAt": "2026-10-05T19:46:30.000Z",
+          "isPR": false
+        },
+        {
           "title": "「壬氏様、猫猫のこと好きすぎ」「愛情だだ漏れ」アニメ『薬屋のひとりごと』第3期ノンクレED映像に反響（ABEMA TIMES）",
           "url": "https://news.yahoo.co.jp/articles/ec8e49ca51ad35546cf30fd4008ccb214402492c",
           "source": "Yahoo!ニュース",
@@ -614,67 +625,10 @@
           "isPR": false
         },
         {
-          "title": "薬屋のひとりごと・「壬氏が卒倒しそう」な猫猫の姿が限定グッズ化 10月30日より登場（マグミクス）",
-          "url": "https://news.yahoo.co.jp/articles/03ad2c488ce13b0515047ca8e66cc61b6e5195c2",
-          "source": "Yahoo!ニュース",
-          "publishedAt": "2026-10-05T07:13:00.000Z",
-          "isPR": false
-        },
-        {
-          "title": "アベイルで「薬屋のひとりごと」グッズが再販へ！猫猫たちデザインのショルダーバッグや巾着ほか、カードケースなどラインナップ",
-          "url": "https://s.inside-games.jp/article/2026/10/05/188739.html?from",
-          "source": "インサイド",
-          "publishedAt": "2026-10-05T01:40:02.000Z",
-          "isPR": false
-        }
-      ]
-    },
-    {
-      "id": "c1e7884996f9",
-      "title": "エリスを妻に迎えることを相談するルーデウスが1位！アニメ『無職転生III』第1クール最終話コメント最多シーンTOP3",
-      "summary": "",
-      "url": "https://news.infoseek.co.jp/article/abematimes_10277789/",
-      "image": "https://media.image.infoseek.co.jp/isnews/photos/abematimes/abematimes_10277789_0-enlarge.jpg",
-      "leadSource": "Infoseek",
-      "publishedAt": "2026-10-07T08:50:00.000Z",
-      "sourceCount": 4,
-      "articleCount": 5,
-      "categories": [
-        "anime",
-        "web"
-      ],
-      "keywords": [
-        "無職転生",
-        "iii",
-        "ルーデウス"
-      ],
-      "articles": [
-        {
-          "title": "無職転生III＞日記を読み終えたルーデウスは、家族を守るために行動を始める…第14話あらすじ＆先行カット公開",
-          "url": "https://thetv.jp/news/detail/1443312/landing/",
-          "source": "WEBザテレビジョン",
-          "publishedAt": "2026-10-07T04:47:42.000Z",
-          "isPR": false
-        },
-        {
-          "title": "＜無職転生III＞日記を読み終えたルーデウスは、家族を守るために行動を始める…第14話あらすじ＆先行カット公開",
-          "url": "https://thetv.jp/news/detail/1443312/18612272/",
-          "source": "WEBザテレビジョン",
-          "publishedAt": "2026-10-06T22:16:23.000Z",
-          "isPR": false
-        },
-        {
-          "title": "『無職転生』ロキシー、水王級魔術を教えてほしい！ 第3期の第4話あらすじ＆場面カット公開",
-          "url": "https://www.sanyonews.jp/article/1955620?kw",
-          "source": "山陽新聞",
-          "publishedAt": "2026-10-06T16:01:40.000Z",
-          "isPR": false
-        },
-        {
-          "title": "『無職転生Ⅲ』続き気になる第1クール最後、エリスを妻に迎えることを相談…第14話コメント最多TOP3【ランキング】",
-          "url": "https://0115765.com/archives/208291",
-          "source": "オタク総研",
-          "publishedAt": "2026-10-05T10:30:11.000Z",
+          "title": "『薬屋のひとりごと』第3期、猫猫＆壬氏に新たな試練、『鑑定スキル』など話題作続々 J:COM STREAM秋アニメ発表",
+          "url": "https://news.nicovideo.jp/watch/nw19846108",
+          "source": "ニコニコニュース",
+          "publishedAt": "2026-10-05T07:03:28.000Z",
           "isPR": false
         }
       ]
@@ -768,6 +722,49 @@
           "source": "PR TIMES",
           "publishedAt": "2026-10-05T01:00:02.000Z",
           "isPR": true
+        }
+      ]
+    },
+    {
+      "id": "c1e7884996f9",
+      "title": "エリスを妻に迎えることを相談するルーデウスが1位！アニメ『無職転生III』第1クール最終話コメント最多シーンTOP3",
+      "summary": "",
+      "url": "https://news.infoseek.co.jp/article/abematimes_10277789/",
+      "image": "https://media.image.infoseek.co.jp/isnews/photos/abematimes/abematimes_10277789_0-enlarge.jpg",
+      "leadSource": "Infoseek",
+      "publishedAt": "2026-10-07T08:50:00.000Z",
+      "sourceCount": 3,
+      "articleCount": 4,
+      "categories": [
+        "anime",
+        "web"
+      ],
+      "keywords": [
+        "無職転生",
+        "iii",
+        "ルーデウス"
+      ],
+      "articles": [
+        {
+          "title": "無職転生III＞日記を読み終えたルーデウスは、家族を守るために行動を始める…第14話あらすじ＆先行カット公開",
+          "url": "https://thetv.jp/news/detail/1443312/landing/",
+          "source": "WEBザテレビジョン",
+          "publishedAt": "2026-10-07T04:47:42.000Z",
+          "isPR": false
+        },
+        {
+          "title": "＜無職転生III＞日記を読み終えたルーデウスは、家族を守るために行動を始める…第14話あらすじ＆先行カット公開",
+          "url": "https://thetv.jp/news/detail/1443312/18612272/",
+          "source": "WEBザテレビジョン",
+          "publishedAt": "2026-10-06T22:16:23.000Z",
+          "isPR": false
+        },
+        {
+          "title": "『無職転生Ⅲ』続き気になる第1クール最後、エリスを妻に迎えることを相談…第14話コメント最多TOP3【ランキング】",
+          "url": "https://0115765.com/archives/208291",
+          "source": "オタク総研",
+          "publishedAt": "2026-10-05T10:30:11.000Z",
+          "isPR": false
         }
       ]
     },
@@ -885,15 +882,15 @@
       ]
     },
     {
-      "id": "2373c0692c7f",
-      "title": "『転スラ』リムル様、大忙し！ラミリスから緊急連絡 尊いミリムの表情…第84話あらすじ＆場面カット解禁",
+      "id": "76a599614341",
+      "title": "転スラ 第4期＞クロエとヒナタを救うため、リムルはクロノアの無限牢獄に干渉する 第96話あらすじ＆場面カット公開",
       "summary": "",
-      "url": "https://www.sanyonews.jp/article/1942798?kw",
-      "image": "https://static.sanyonews.jp/image/article/size1/6/5/0/1/6501ce6b09cb9464f23235f99fbe6a7f_1.jpg",
-      "leadSource": "山陽新聞",
-      "publishedAt": "2026-10-05T17:41:47.000Z",
+      "url": "https://thetv.jp/news/detail/1442655/landing/",
+      "image": "https://static.sanyonews.jp/image/article/size1/a/4/5/b/a45b3c41f1637837858a70e38b1d0910_1.jpg",
+      "leadSource": "WEBザテレビジョン",
+      "publishedAt": "2026-10-07T08:53:10.000Z",
       "sourceCount": 2,
-      "articleCount": 4,
+      "articleCount": 3,
       "categories": [
         "anime"
       ],
@@ -904,59 +901,17 @@
       ],
       "articles": [
         {
-          "title": "転スラ 第4期＞クロエとヒナタを救うため、リムルはクロノアの無限牢獄に干渉する 第96話あらすじ＆場面カット公開",
-          "url": "https://thetv.jp/news/detail/1442655/landing/",
-          "source": "WEBザテレビジョン",
-          "publishedAt": "2026-10-05T14:30:42.000Z",
-          "isPR": false
-        },
-        {
-          "title": "『転スラ』衝撃の戦闘！封印の解かれたクロノア、破壊の化身に 第94話あらすじ＆場面カット解禁",
-          "url": "https://www.sanyonews.jp/photo/detail?article_id",
+          "title": "『無職転生』ロキシー、水王級魔術を教えてほしい！ 第3期の第4話あらすじ＆場面カット公開",
+          "url": "https://www.sanyonews.jp/article/1955620?kw",
           "source": "山陽新聞",
-          "publishedAt": "2026-10-04T18:30:12.000Z",
+          "publishedAt": "2026-10-06T16:01:40.000Z",
           "isPR": false
         },
         {
-          "title": "『盾の勇者の成り上がり』第5期は2027年放送 場面カットとPV解禁",
-          "url": "https://www.sanyonews.jp/article/1949408?kw",
+          "title": "『転スラ』リムル様、大忙し！ラミリスから緊急連絡 尊いミリムの表情…第84話あらすじ＆場面カット解禁",
+          "url": "https://www.sanyonews.jp/article/1942798?kw",
           "source": "山陽新聞",
-          "publishedAt": "2026-10-04T17:31:51.000Z",
-          "isPR": false
-        }
-      ]
-    },
-    {
-      "id": "859444d9f4b7",
-      "title": "「薬屋」第3期や「鑑定スキル」第3期、話題の異世界系作品も！「J:COM STREAM」秋アニメが順次配信中",
-      "summary": "J:COMの動画配信サービス「J:COM STREAM」では、2026年秋アニメが順次配信中だ。12月に劇場版の公開を控える『薬屋のひとりごと』第3期、『転生貴族、鑑定スキルで成り上がる 第3期』など人気作の続編をはじめ、『転生した大聖女は、聖女であることをひた隠す』や『凶乱令嬢ニア・リストン 病弱令嬢に転生した神殺…",
-      "url": "https://animeanime.jp/article/2026/10/07/103574.html",
-      "image": "https://animeanime.jp/imgs/rss/939675.jpg",
-      "leadSource": "アニメ！アニメ！",
-      "publishedAt": "2026-10-06T22:30:04.000Z",
-      "sourceCount": 2,
-      "articleCount": 3,
-      "categories": [
-        "anime"
-      ],
-      "keywords": [
-        "薬屋",
-        "stream",
-        "スキル"
-      ],
-      "articles": [
-        {
-          "title": "『薬屋のひとりごと』第3期、猫猫＆壬氏に新たな試練、『鑑定スキル』など話題作続々 J:COM STREAM秋アニメ発表",
-          "url": "https://news.nicovideo.jp/watch/nw19846108",
-          "source": "ニコニコニュース",
-          "publishedAt": "2026-10-05T07:03:28.000Z",
-          "isPR": false
-        },
-        {
-          "title": "J:COM STREAM、2026年秋アニメを順次配信 - 「薬屋のひとりごと」第3期など",
-          "url": "https://news.nicovideo.jp/watch/nw19845944",
-          "source": "ニコニコニュース",
-          "publishedAt": "2026-10-05T06:18:06.000Z",
+          "publishedAt": "2026-10-05T17:41:47.000Z",
           "isPR": false
         }
       ]
@@ -1024,16 +979,105 @@
           "isPR": false
         }
       ]
+    },
+    {
+      "id": "80e6cccdb65a",
+      "title": "薬屋のひとりごと × REJURAN ストア in 原宿 10月14日より開催!",
+      "summary": "",
+      "url": "https://collabo-cafe.com/events/collabo/kusuriya-no-hitorigoto-rejuran-cosme-tokyo-2026/?amp",
+      "image": "https://collabo-cafe.com/wp-content/uploads/kusuriya-rejuran-eyecatch.jpg",
+      "leadSource": "コラボカフェ",
+      "publishedAt": "2026-10-07T03:30:15.000Z",
+      "sourceCount": 2,
+      "articleCount": 2,
+      "categories": [
+        "other",
+        "comic"
+      ],
+      "keywords": [
+        "薬屋",
+        "rejuran",
+        "原宿"
+      ],
+      "articles": [
+        {
+          "title": "「薬屋のひとりごと」×REJURAN、原宿アットコスメが猫猫仕様に コラボコスメも (コミックナタリー)",
+          "url": "https://news.yahoo.co.jp/articles/18842e739de4fcddd176ff9392fcf8df34b9379f/images/000",
+          "source": "Yahoo!ニュース",
+          "publishedAt": "2026-10-06T14:47:42.000Z",
+          "isPR": false
+        }
+      ]
     }
   ],
   "churn": {
-    "previousAt": "2026-10-07T09:00:18.406Z",
-    "previousCount": 116,
-    "newCount": 2
+    "previousAt": "2026-10-07T09:30:18.533Z",
+    "previousCount": 118,
+    "newCount": 6
   },
   "updateGapMin": 30,
-  "nextUpdateAt": "2026-10-07T10:00:18.533Z",
+  "nextUpdateAt": "2026-10-07T10:30:18.010Z",
   "items": [
+    {
+      "id": "fc559d8d5f6f",
+      "title": "薬屋のひとりごと × アベイル全国 10月10日よりグッズ再販売!",
+      "url": "https://collabo-cafe.com/events/collabo/kusuriya-avail-item-resale-20261010/",
+      "host": "collabo-cafe.com",
+      "source": "コラボカフェ",
+      "summary": "",
+      "publishedAt": "2026-10-07T09:46:03.000Z",
+      "image": "https://collabo-cafe.com/wp-content/uploads/kusuriya-avail-2026-1010-goods.jpg",
+      "categories": [
+        "goods"
+      ],
+      "works": [
+        "kusuriya"
+      ],
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": true
+    },
+    {
+      "id": "47976fc7f12b",
+      "title": "羅半＆陸孫がさっそく登場！絶妙な会話に「絡みが可愛すぎ」「メロ男の匂いがプンプンする」アニメ『薬屋のひとりごと』3期初回",
+      "url": "https://times.abema.tv/articles/-/10277458",
+      "host": "times.abema.tv",
+      "source": "ABEMA TIMES",
+      "summary": "",
+      "publishedAt": "2026-10-07T09:42:00.000Z",
+      "image": "https://times-abema.ismcdn.jp/mwimgs/e/c/1200w/img_ec52655e1443389ae115d4ee0e4143ea276413.jpg",
+      "categories": [
+        "anime"
+      ],
+      "works": [
+        "kusuriya"
+      ],
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": true
+    },
+    {
+      "id": "76a599614341",
+      "title": "転スラ 第4期＞クロエとヒナタを救うため、リムルはクロノアの無限牢獄に干渉する 第96話あらすじ＆場面カット公開",
+      "url": "https://thetv.jp/news/detail/1442655/landing/",
+      "host": "thetv.jp",
+      "source": "WEBザテレビジョン",
+      "summary": "",
+      "publishedAt": "2026-10-07T08:53:10.000Z",
+      "image": "",
+      "categories": [
+        "anime"
+      ],
+      "works": [
+        "tensura"
+      ],
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": false
+    },
     {
       "id": "c1e7884996f9",
       "title": "エリスを妻に迎えることを相談するルーデウスが1位！アニメ『無職転生III』第1クール最終話コメント最多シーンTOP3",
@@ -1148,7 +1192,7 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "80e6cccdb65a",
@@ -1207,6 +1251,26 @@
       "viaGoogle": false,
       "sourceKind": "news",
       "isNew": false
+    },
+    {
+      "id": "29b75cbbddfa",
+      "title": "芦田愛菜主演『薬屋のひとりごと』猫猫に“隠し要素”あり!? 原作者が絶賛する「完成度」が衝撃的 (マグミクス)",
+      "url": "https://news.yahoo.co.jp/articles/37ac59e42720847b44494c9597e554253da989a8/images/000",
+      "host": "news.yahoo.co.jp",
+      "source": "Yahoo!ニュース",
+      "summary": "",
+      "publishedAt": "2026-10-07T02:40:00.000Z",
+      "image": "https://news-pctr.c.yimg.jp/uUzvQ3lML_bkIqyakc1vFhNrRI0RUQxg5aFkrX0xDg1_T0wXrbEJjtNGtrf1o9y3xudcUclfbXjZqAvGT8NJnZxTSwBfYmYGlIc2EJNXvHAlI6fz_cXQSJfusAWjAx03KtqeGWUUKMi9o2ni1tHVfyBLEhS-BbqIyBOuuJrN6izolQKb8QQjxGNv1gceXGOrAnp7Z_QyaV6jx0tQIY50jg==",
+      "categories": [
+        "other"
+      ],
+      "works": [
+        "kusuriya"
+      ],
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": true
     },
     {
       "id": "a3b53e01d156",
@@ -1286,6 +1350,26 @@
       "viaGoogle": false,
       "sourceKind": "news",
       "isNew": false
+    },
+    {
+      "id": "88fbabb20514",
+      "title": "新台【e無職転生】リコリコからの勢いで無職転生も結構人気でいい台？さらば諭吉【このごみ2222養分】 One Ui 8.5 Galaxy S25 Ultra (wPkygxYoLc)",
+      "url": "https://media.unisba.ac.id/ce16feca/82118fe8Ok-Nd_CVeck/?share",
+      "host": "media.unisba.ac.id",
+      "source": "Unisba Media",
+      "summary": "",
+      "publishedAt": "2026-10-07T00:49:20.000Z",
+      "image": "",
+      "categories": [
+        "other"
+      ],
+      "works": [
+        "mushoku"
+      ],
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": true
     },
     {
       "id": "c7bd8d8f7603",
@@ -1444,26 +1528,6 @@
       "isNew": false
     },
     {
-      "id": "7564efbaceb1",
-      "title": "『薬屋のひとりごと』ノンクレジットED映像公開 Eve「AIYOU」にのせ猫猫の記憶を辿る",
-      "url": "https://www.sanyonews.jp/article/1998838",
-      "host": "sanyonews.jp",
-      "source": "山陽新聞",
-      "summary": "",
-      "publishedAt": "2026-10-06T22:27:59.000Z",
-      "image": "https://static.sanyonews.jp/image/article/size1/7/9/3/4/7934f2055233f31b4542d7db00029f6b_1.jpg",
-      "categories": [
-        "anime"
-      ],
-      "works": [
-        "kusuriya"
-      ],
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": false
-    },
-    {
       "id": "ab75ad15865e",
       "title": "＜無職転生III＞日記を読み終えたルーデウスは、家族を守るために行動を始める…第14話あらすじ＆先行カット公開",
       "url": "https://thetv.jp/news/detail/1443312/18612272/",
@@ -1481,7 +1545,7 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "df0fa111353e",
@@ -1555,27 +1619,6 @@
       ],
       "works": [
         "silent-witch"
-      ],
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": false
-    },
-    {
-      "id": "d06a79c40673",
-      "title": "USJ×『薬屋のひとりごと』再コラボ決定・前回から内容一新へ “超リアル”体験を予告【ユニバーサル・クールジャパン 2027】",
-      "url": "https://www.sanyonews.jp/article/1997784",
-      "host": "sanyonews.jp",
-      "source": "山陽新聞",
-      "summary": "",
-      "publishedAt": "2026-10-06T17:55:10.000Z",
-      "image": "https://static.sanyonews.jp/image/article/size1/5/b/d/e/5bdec39667ef79703184008e4f6773d5_1.jpg",
-      "categories": [
-        "anime",
-        "goods"
-      ],
-      "works": [
-        "kusuriya"
       ],
       "isPR": false,
       "viaGoogle": false,
@@ -2251,26 +2294,6 @@
       "isNew": false
     },
     {
-      "id": "76a599614341",
-      "title": "転スラ 第4期＞クロエとヒナタを救うため、リムルはクロノアの無限牢獄に干渉する 第96話あらすじ＆場面カット公開",
-      "url": "https://thetv.jp/news/detail/1442655/landing/",
-      "host": "thetv.jp",
-      "source": "WEBザテレビジョン",
-      "summary": "",
-      "publishedAt": "2026-10-05T14:30:42.000Z",
-      "image": "",
-      "categories": [
-        "anime"
-      ],
-      "works": [
-        "tensura"
-      ],
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": false
-    },
-    {
       "id": "23aa6eb6b4ae",
       "title": "藍井エイル「絵空事」Lyric Video（TVアニメ『転生したらスライムだった件 第4期』オープニング主題歌） Keith Urban (W4J91YhlDF)",
       "url": "https://media.unisba.ac.id/43cef44a/6d709b2fWzU0ARFUDzoZPxE/?share",
@@ -2723,6 +2746,24 @@
       "isNew": false
     },
     {
+      "id": "dc76bb3bfb1b",
+      "title": "『この素晴らしい世界に祝福を！～この愛すべき街に繁栄を！～(まちすば)』のゲーム概要や公式発表の情報まとめ！『このすば』オリジナルストーリーで紡ぐ！10周年を記念した異世界トラブルライフRPG！",
+      "url": "https://gamewith.jp/gamedb/15584/articles/52074",
+      "host": "gamewith.jp",
+      "source": "GameWith",
+      "summary": "",
+      "publishedAt": "2026-10-05T05:32:19.000Z",
+      "image": "https://img.gamewith.jp/article/thumbnail/gamearticle/15584/rectangle/52074.jpg?t=1791178340",
+      "categories": [
+        "game"
+      ],
+      "works": [],
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": true
+    },
+    {
       "id": "55dd716666ca",
       "title": "アニメ『欠けた月のメルセデス ～吸血鬼の貴族に転生したけど捨てられそうなのでダンジョンを制覇する～』メインビジュアル第1弾が公開",
       "url": "https://ln-news.com/articles/126808",
@@ -2976,25 +3017,6 @@
       "isNew": false
     },
     {
-      "id": "5e8538e41a3f",
-      "title": "「愛罠（i wanna）26話」 \"小説家になろう\"で連載中！ 愛和な（I wanna）２６話 / 第26章：死神 https://ncode.syosetu.com/n3598mv/1/ 一夜限りの落語とサックスによるセッション。 全て…",
-      "url": "https://t.co/4RamUyUGNM",
-      "host": "t.co",
-      "source": "Howl.Link",
-      "summary": "",
-      "publishedAt": "2026-10-04T22:37:21.000Z",
-      "image": "",
-      "categories": [
-        "comic",
-        "book"
-      ],
-      "works": [],
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": false
-    },
-    {
       "id": "dbdf5813e90e",
       "title": "無職転生の最新刊は25巻【2026年10月】発売日・完結・次巻の発売予定",
       "url": "https://charagoo.jp/mushokutensei-comic-latest/",
@@ -3071,6 +3093,26 @@
       "viaGoogle": false,
       "sourceKind": "news",
       "isNew": false
+    },
+    {
+      "id": "3412551e5f69",
+      "title": "【セリア】ラス1だった「薬屋のひとりごと」ダイカットステッカー、ミニキャラの猫猫＆壬氏がかわいい…！（くろねこ） - エキスパート",
+      "url": "https://news.yahoo.co.jp/expert/articles/56ed009e9d8191e0eba1fa7fd5515951c8aeb9fc",
+      "host": "news.yahoo.co.jp",
+      "source": "Yahoo!ニュース",
+      "summary": "",
+      "publishedAt": "2026-10-04T21:55:14.000Z",
+      "image": "https://newsatcl-pctr.c.yimg.jp/t/iwiz-yn/creators/kuroneko/02735318/title-1791080307137.jpeg?exp=10800",
+      "categories": [
+        "other"
+      ],
+      "works": [
+        "kusuriya"
+      ],
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": true
     },
     {
       "id": "388c55c9a50a",
@@ -3305,27 +3347,6 @@
         "anime"
       ],
       "works": [],
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": false
-    },
-    {
-      "id": "7a06b02938ca",
-      "title": "今週の新刊＞アニメも人気の「転スラ」 「税金で買った本」「ゆるキャン△」「魔入りました！入間くん」も（MANTANWEB）",
-      "url": "https://news.yahoo.co.jp/articles/be1503228c245d7a611cc06be3f8cfe0dc7cad21?page",
-      "host": "news.yahoo.co.jp",
-      "source": "Yahoo!ニュース",
-      "summary": "",
-      "publishedAt": "2026-10-04T09:35:00.000Z",
-      "image": "",
-      "categories": [
-        "anime",
-        "book"
-      ],
-      "works": [
-        "tensura"
-      ],
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
