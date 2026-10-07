@@ -1,18 +1,18 @@
 {
-  "updatedAt": "2026-10-07T02:00:16.470Z",
+  "updatedAt": "2026-10-07T02:30:19.979Z",
   "site": {
     "title": "なろう系まとめ",
     "tagline": "小説家になろう発の作品のアニメ化・コミカライズ・書籍化のニュースと、なろうのランキングをまとめています。",
     "url": "https://naroumatome.gamelab.website/",
     "contactUrl": "https://docs.google.com/forms/d/e/1FAIpQLSesWyhmZ6sRS_ve-c3X2KqF_wC5PK2TgwgQbTKmnQltSlg5Jw/viewform"
   },
-  "total": 115,
-  "todayCount": 18,
+  "total": 117,
+  "todayCount": 21,
   "categories": [
     {
       "id": "anime",
       "label": "アニメ",
-      "count": 83
+      "count": 86
     },
     {
       "id": "comic",
@@ -37,12 +37,12 @@
     {
       "id": "goods",
       "label": "グッズ・イベント",
-      "count": 8
+      "count": 9
     },
     {
       "id": "other",
       "label": "そのほか",
-      "count": 10
+      "count": 9
     }
   ],
   "works": [
@@ -74,7 +74,7 @@
       "id": "kusuriya",
       "title": "薬屋のひとりごと",
       "short": "薬屋",
-      "count": 23
+      "count": 25
     },
     {
       "id": "kagejitsu",
@@ -296,7 +296,7 @@
   "sources": [
     {
       "name": "山陽新聞",
-      "count": 12
+      "count": 13
     },
     {
       "name": "WEBザテレビジョン",
@@ -323,12 +323,20 @@
       "count": 4
     },
     {
+      "name": "Koubo",
+      "count": 4
+    },
+    {
       "name": "オリコンニュース",
       "count": 4
     },
     {
       "name": "ニコニコニュース",
       "count": 4
+    },
+    {
+      "name": "オタク総研",
+      "count": 3
     },
     {
       "name": "PASH! PLUS",
@@ -339,19 +347,11 @@
       "count": 3
     },
     {
-      "name": "Koubo",
-      "count": 3
-    },
-    {
       "name": "ナタリー",
       "count": 3
     },
     {
       "name": "Unisba Media",
-      "count": 3
-    },
-    {
-      "name": "MANTANWEB",
       "count": 3
     },
     {
@@ -379,16 +379,16 @@
       "count": 2
     },
     {
-      "name": "オタク総研",
-      "count": 2
-    },
-    {
       "name": "日本経済新聞",
       "count": 2
     },
     {
-      "name": "TVer",
+      "name": "MANTANWEB",
       "count": 2
+    },
+    {
+      "name": "Dtimes",
+      "count": 1
     },
     {
       "name": "千葉テレビ放送株式会社",
@@ -452,6 +452,10 @@
     },
     {
       "name": "キャラグー",
+      "count": 1
+    },
+    {
+      "name": "TVer",
       "count": 1
     },
     {
@@ -582,9 +586,9 @@
         },
         {
           "title": "『薬屋のひとりごと』悠木碧&大塚剛央、猫猫&壬氏は“飼い主と猫” 第3期では「ぐっと濃度高め」【インタビュー】",
-          "url": "https://www.oricon.co.jp/news/2484247/photo/3/",
+          "url": "https://www.oricon.co.jp/news/2484247/photo/1/",
           "source": "オリコンニュース",
-          "publishedAt": "2026-10-06T05:20:14.000Z",
+          "publishedAt": "2026-10-06T09:25:41.000Z",
           "isPR": false
         },
         {
@@ -599,6 +603,48 @@
           "url": "https://news.yahoo.co.jp/articles/ec8e49ca51ad35546cf30fd4008ccb214402492c",
           "source": "Yahoo!ニュース",
           "publishedAt": "2026-10-05T09:27:16.000Z",
+          "isPR": false
+        }
+      ]
+    },
+    {
+      "id": "df0fa111353e",
+      "title": "『転生ゴブリンだけど質問ある？』TVアニメ化！ABEMAで先行配信",
+      "summary": "",
+      "url": "https://koubo.jp/article/128373",
+      "image": "https://koubo-dz7cn3ci.s3.ap-northeast-1.amazonaws.com/strapi/article_128373_keyvisual_de932d9919.jpeg",
+      "leadSource": "Koubo",
+      "publishedAt": "2026-10-06T21:04:37.000Z",
+      "sourceCount": 4,
+      "articleCount": 4,
+      "categories": [
+        "anime"
+      ],
+      "keywords": [
+        "ゴブリン",
+        "質問",
+        "abema"
+      ],
+      "articles": [
+        {
+          "title": "「となりのヤングジャンプ」発の“最強無双ファンタジー”、待望のTVアニメ化！『転生ゴブリンだけど質問ある？』ABEMAで10月5日（月）より地上波1週間先行・WEB最速配信！",
+          "url": "https://prtimes.jp/main/html/rd/p/000004076.000064643.html",
+          "source": "PR TIMES",
+          "publishedAt": "2026-10-06T10:22:37.000Z",
+          "isPR": true
+        },
+        {
+          "title": "第1話 転生ゴブリンだけど質問ある？「転生ゴブリンだけど質問ある？」",
+          "url": "https://thetv.jp/program/0001077857/1/",
+          "source": "WEBザテレビジョン",
+          "publishedAt": "2026-10-05T22:29:50.000Z",
+          "isPR": false
+        },
+        {
+          "title": "TVアニメ「転生ゴブリンだけど質問ある？」放送直前だけど質問ある？ (アニメ) | 無料動画・見逃し配信を見るなら",
+          "url": "https://abema.tv/video/title/218-928",
+          "source": "ABEMA",
+          "publishedAt": "2026-10-05T17:35:32.000Z",
           "isPR": false
         }
       ]
@@ -689,40 +735,6 @@
       ]
     },
     {
-      "id": "16563f292a6c",
-      "title": "第1話 転生ゴブリンだけど質問ある？「転生ゴブリンだけど質問ある？」",
-      "summary": "",
-      "url": "https://thetv.jp/program/0001077857/1/",
-      "image": "https://prcdn.freetls.fastly.net/release_image/64643/4076/64643-4076-379ca4050996f4f27681af0439162106-1648x928.jpg?format=jpeg&auto=webp&fit=bounds&width=2400&height=1260",
-      "leadSource": "WEBザテレビジョン",
-      "publishedAt": "2026-10-06T10:22:37.000Z",
-      "sourceCount": 3,
-      "articleCount": 3,
-      "categories": [
-        "anime"
-      ],
-      "keywords": [
-        "ゴブリン",
-        "質問"
-      ],
-      "articles": [
-        {
-          "title": "「となりのヤングジャンプ」発の“最強無双ファンタジー”、待望のTVアニメ化！『転生ゴブリンだけど質問ある？』ABEMAで10月5日（月）より地上波1週間先行・WEB最速配信！",
-          "url": "https://prtimes.jp/main/html/rd/p/000004076.000064643.html",
-          "source": "PR TIMES",
-          "publishedAt": "2026-10-06T10:22:37.000Z",
-          "isPR": true
-        },
-        {
-          "title": "TVアニメ「転生ゴブリンだけど質問ある？」放送直前だけど質問ある？ (アニメ) | 無料動画・見逃し配信を見るなら",
-          "url": "https://abema.tv/video/title/218-928",
-          "source": "ABEMA",
-          "publishedAt": "2026-10-05T17:35:32.000Z",
-          "isPR": false
-        }
-      ]
-    },
-    {
       "id": "268e7ccd7b05",
       "title": "アニメデータインサイトラボ、2026年夏アニメアワード発表 総合大賞は『無職転生Ⅲ ～異世界行ったら本気だす～』",
       "summary": "",
@@ -759,6 +771,48 @@
       ]
     },
     {
+      "id": "2373c0692c7f",
+      "title": "『転スラ』リムル様、大忙し！ラミリスから緊急連絡 尊いミリムの表情…第84話あらすじ＆場面カット解禁",
+      "summary": "",
+      "url": "https://www.sanyonews.jp/article/1942798?kw",
+      "image": "https://static.sanyonews.jp/image/article/size1/6/5/0/1/6501ce6b09cb9464f23235f99fbe6a7f_1.jpg",
+      "leadSource": "山陽新聞",
+      "publishedAt": "2026-10-05T17:41:47.000Z",
+      "sourceCount": 2,
+      "articleCount": 4,
+      "categories": [
+        "anime"
+      ],
+      "keywords": [
+        "カット",
+        "場面",
+        "転スラ"
+      ],
+      "articles": [
+        {
+          "title": "転スラ 第4期＞クロエとヒナタを救うため、リムルはクロノアの無限牢獄に干渉する 第96話あらすじ＆場面カット公開",
+          "url": "https://thetv.jp/news/detail/1442655/landing/",
+          "source": "WEBザテレビジョン",
+          "publishedAt": "2026-10-05T14:30:42.000Z",
+          "isPR": false
+        },
+        {
+          "title": "『転スラ』衝撃の戦闘！封印の解かれたクロノア、破壊の化身に 第94話あらすじ＆場面カット解禁",
+          "url": "https://www.sanyonews.jp/photo/detail?article_id",
+          "source": "山陽新聞",
+          "publishedAt": "2026-10-04T18:30:12.000Z",
+          "isPR": false
+        },
+        {
+          "title": "『盾の勇者の成り上がり』第5期は2027年放送 場面カットとPV解禁",
+          "url": "https://www.sanyonews.jp/article/1949408?kw",
+          "source": "山陽新聞",
+          "publishedAt": "2026-10-04T17:31:51.000Z",
+          "isPR": false
+        }
+      ]
+    },
+    {
       "id": "859444d9f4b7",
       "title": "「薬屋」第3期や「鑑定スキル」第3期、話題の異世界系作品も！「J:COM STREAM」秋アニメが順次配信中",
       "summary": "J:COMの動画配信サービス「J:COM STREAM」では、2026年秋アニメが順次配信中だ。12月に劇場版の公開を控える『薬屋のひとりごと』第3期、『転生貴族、鑑定スキルで成り上がる 第3期』など人気作の続編をはじめ、『転生した大聖女は、聖女であることをひた隠す』や『凶乱令嬢ニア・リストン 病弱令嬢に転生した神殺…",
@@ -789,41 +843,6 @@
           "url": "https://news.nicovideo.jp/watch/nw19845944",
           "source": "ニコニコニュース",
           "publishedAt": "2026-10-05T06:18:06.000Z",
-          "isPR": false
-        }
-      ]
-    },
-    {
-      "id": "fb4b54659ea5",
-      "title": "『薬屋のひとりごと』第49話あらすじ＆場面カット解禁 国を襲う災害の予兆に悩む壬氏",
-      "summary": "",
-      "url": "https://www.sanyonews.jp/article/1998008",
-      "image": "https://static.sanyonews.jp/image/article/size1/b/c/8/3/bc8346b17d1239476f6bda57b756d3ca_1.jpg",
-      "leadSource": "山陽新聞",
-      "publishedAt": "2026-10-06T19:53:03.000Z",
-      "sourceCount": 2,
-      "articleCount": 3,
-      "categories": [
-        "anime"
-      ],
-      "keywords": [
-        "カット",
-        "場面",
-        "転スラ"
-      ],
-      "articles": [
-        {
-          "title": "『転スラ』リムル様、大忙し！ラミリスから緊急連絡 尊いミリムの表情…第84話あらすじ＆場面カット解禁",
-          "url": "https://www.sanyonews.jp/article/1942798?kw",
-          "source": "山陽新聞",
-          "publishedAt": "2026-10-05T17:41:47.000Z",
-          "isPR": false
-        },
-        {
-          "title": "転スラ 第4期＞クロエとヒナタを救うため、リムルはクロノアの無限牢獄に干渉する 第96話あらすじ＆場面カット公開",
-          "url": "https://thetv.jp/news/detail/1442655/landing/",
-          "source": "WEBザテレビジョン",
-          "publishedAt": "2026-10-05T14:30:42.000Z",
           "isPR": false
         }
       ]
@@ -950,13 +969,31 @@
     }
   ],
   "churn": {
-    "previousAt": "2026-10-07T01:30:19.332Z",
-    "previousCount": 114,
-    "newCount": 3
+    "previousAt": "2026-10-07T02:00:16.470Z",
+    "previousCount": 115,
+    "newCount": 5
   },
   "updateGapMin": 30,
-  "nextUpdateAt": "2026-10-07T02:30:16.470Z",
+  "nextUpdateAt": "2026-10-07T03:00:19.979Z",
   "items": [
+    {
+      "id": "c157a6e864e3",
+      "title": "【秋アニメ】今期の異世界追放系、チートスキルが“インターネット”？SSSランク級の神能力でWikiを操り…【先行カット】",
+      "url": "https://0115765.com/archives/208522",
+      "host": "0115765.com",
+      "source": "オタク総研",
+      "summary": "",
+      "publishedAt": "2026-10-07T02:25:04.000Z",
+      "image": "https://0115765.com/wp-content/uploads/2026/10/20261006-ej8vcv05.jpg",
+      "categories": [
+        "anime"
+      ],
+      "works": [],
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": true
+    },
     {
       "id": "594210c14e5b",
       "title": "TVアニメ『本好きの下剋上 領主の養女』のトレーディング Ani-Art アクリルスタンドなどの受注を開始！！アニメ・漫画のオリジナルグッズを販売する「AMNIBUS」にて",
@@ -979,16 +1016,17 @@
       "isNew": false
     },
     {
-      "id": "1968922f49c2",
-      "title": "＜薬屋のひとりごと＞「めちゃくちゃサービス回」「眼福」猫猫×小蘭×子翠の湯殿シーンに癒される視聴者続出【第37話】",
-      "url": "https://thetv.jp/news/detail/1445260/18694650/",
-      "host": "thetv.jp",
-      "source": "WEBザテレビジョン",
+      "id": "27426757dad6",
+      "title": "水上都市を舞台に劇場版と連動！ユニバーサル・スタジオ・ジャパン『ユニバーサル・クールジャパン 2027』アニメ『薬屋のひとりごと』コラボレーション",
+      "url": "https://dtimes.jp/post-1407533/",
+      "host": "dtimes.jp",
+      "source": "Dtimes",
       "summary": "",
-      "publishedAt": "2026-10-07T00:35:29.000Z",
-      "image": "https://thetv.jp/i/nw/1445260/18694650.jpg?w=1284",
+      "publishedAt": "2026-10-07T00:52:53.000Z",
+      "image": "https://dtimes.jp/wp-content/uploads/2026/10/dtimes-engine-9f6817d287d0e309d147693c18ddaa63-20261004-eac5c1.jpg",
       "categories": [
-        "anime"
+        "anime",
+        "goods"
       ],
       "works": [
         "kusuriya"
@@ -1071,7 +1109,27 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": true
+      "isNew": false
+    },
+    {
+      "id": "1968922f49c2",
+      "title": "＜薬屋のひとりごと＞「めちゃくちゃサービス回」「眼福」猫猫×小蘭×子翠の湯殿シーンに癒される視聴者続出【第37話】",
+      "url": "https://thetv.jp/news/detail/1445260/18694650/",
+      "host": "thetv.jp",
+      "source": "WEBザテレビジョン",
+      "summary": "",
+      "publishedAt": "2026-10-06T23:37:12.000Z",
+      "image": "https://thetv.jp/i/nw/1445260/18694650.jpg?w=1284",
+      "categories": [
+        "anime"
+      ],
+      "works": [
+        "kusuriya"
+      ],
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": false
     },
     {
       "id": "ddb59833e0e7",
@@ -1152,20 +1210,18 @@
       "isNew": false
     },
     {
-      "id": "ab75ad15865e",
-      "title": "＜無職転生III＞日記を読み終えたルーデウスは、家族を守るために行動を始める…第14話あらすじ＆先行カット公開",
-      "url": "https://thetv.jp/news/detail/1443312/18612272/",
-      "host": "thetv.jp",
-      "source": "WEBザテレビジョン",
+      "id": "df0fa111353e",
+      "title": "『転生ゴブリンだけど質問ある？』TVアニメ化！ABEMAで先行配信",
+      "url": "https://koubo.jp/article/128373",
+      "host": "koubo.jp",
+      "source": "Koubo",
       "summary": "",
-      "publishedAt": "2026-10-06T22:16:23.000Z",
-      "image": "https://thetv.jp/i/nw/1443312/18612272.jpg?w=1284",
+      "publishedAt": "2026-10-06T21:04:37.000Z",
+      "image": "https://koubo-dz7cn3ci.s3.ap-northeast-1.amazonaws.com/strapi/article_128373_keyvisual_de932d9919.jpeg",
       "categories": [
         "anime"
       ],
-      "works": [
-        "mushoku"
-      ],
+      "works": [],
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
@@ -1230,6 +1286,26 @@
       "viaGoogle": false,
       "sourceKind": "news",
       "isNew": false
+    },
+    {
+      "id": "47f480534aed",
+      "title": "『無職転生』ロキシー、水王級魔術を教えてほしい！ 第3期の第4話あらすじ＆場面カット公開",
+      "url": "https://www.sanyonews.jp/article/1955620?kw",
+      "host": "sanyonews.jp",
+      "source": "山陽新聞",
+      "summary": "",
+      "publishedAt": "2026-10-06T16:01:40.000Z",
+      "image": "https://static.sanyonews.jp/image/article/size1/a/4/5/b/a45b3c41f1637837858a70e38b1d0910_1.jpg",
+      "categories": [
+        "anime"
+      ],
+      "works": [
+        "mushoku"
+      ],
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": true
     },
     {
       "id": "377fb52057f4",
@@ -1465,6 +1541,26 @@
       "isNew": false
     },
     {
+      "id": "38bd432a186c",
+      "title": "『薬屋のひとりごと』悠木碧&大塚剛央、猫猫&壬氏は“飼い主と猫” 第3期では「ぐっと濃度高め」【インタビュー】",
+      "url": "https://www.oricon.co.jp/news/2484247/photo/1/",
+      "host": "oricon.co.jp",
+      "source": "オリコンニュース",
+      "summary": "",
+      "publishedAt": "2026-10-06T09:25:41.000Z",
+      "image": "https://contents.oricon.co.jp/upimg/news/2485000/2484247/20261005_121746_p_o_33649274.jpg",
+      "categories": [
+        "anime"
+      ],
+      "works": [
+        "kusuriya"
+      ],
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": false
+    },
+    {
       "id": "cabe3226721f",
       "title": "『薬屋のひとりごと』『桃源暗鬼』『チー付与』など話題の作品がランクイン！ 2026年秋アニメ期待度ランキングTOP10を発表",
       "url": "https://www.pashplus.jp/anime/497874/",
@@ -1584,14 +1680,14 @@
       "isNew": false
     },
     {
-      "id": "38bd432a186c",
-      "title": "『薬屋のひとりごと』悠木碧&大塚剛央、猫猫&壬氏は“飼い主と猫” 第3期では「ぐっと濃度高め」【インタビュー】",
-      "url": "https://www.oricon.co.jp/news/2484247/photo/3/",
-      "host": "oricon.co.jp",
-      "source": "オリコンニュース",
+      "id": "3f476ca29120",
+      "title": "薬屋のひとりごと＞猫猫に頬をすり寄せ、抱きつく小蘭の可愛さにほっこり…一転して暗雲立ち込める展開には「心配」の声【第26話】",
+      "url": "https://thetv.jp/news/detail/1443331/landing/",
+      "host": "thetv.jp",
+      "source": "WEBザテレビジョン",
       "summary": "",
-      "publishedAt": "2026-10-06T05:20:14.000Z",
-      "image": "https://contents.oricon.co.jp/upimg/news/2485000/2484247/20261005_122045_p_o_24134439.jpg",
+      "publishedAt": "2026-10-06T05:33:42.000Z",
+      "image": "",
       "categories": [
         "anime"
       ],
@@ -1601,7 +1697,7 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": false
+      "isNew": true
     },
     {
       "id": "60ac59f7a5a8",
@@ -3143,42 +3239,6 @@
       "summary": "",
       "publishedAt": "2026-10-04T02:49:00.000Z",
       "image": "http://www.ota-suke.jp/images/editor/tak/image2026/1004_19.webp",
-      "categories": [
-        "anime"
-      ],
-      "works": [],
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": false
-    },
-    {
-      "id": "2a94e30574f5",
-      "title": "第１章 自称悪役令嬢と出会いの観察記録。",
-      "url": "https://tver.jp/episodes/epwlrgt70x",
-      "host": "tver.jp",
-      "source": "TVer",
-      "summary": "",
-      "publishedAt": "2026-10-04T02:21:17.000Z",
-      "image": "",
-      "categories": [
-        "other"
-      ],
-      "works": [],
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": false
-    },
-    {
-      "id": "44c4862957ef",
-      "title": "奴隷からの期待と評価のせいで搾取できないのだが：テレビアニメ化 電撃の新文芸の異世界勘違いコメディー",
-      "url": "https://mantan-web.jp/article/20261003dog00m200039000a.html",
-      "host": "mantan-web.jp",
-      "source": "MANTANWEB",
-      "summary": "",
-      "publishedAt": "2026-10-04T02:08:30.000Z",
-      "image": "https://storage.mantan-web.jp/w=1280,h=720,icr=0:0.1:1:1,a=2,g=2,f=webp:auto/images/2026/10/03/20261003dog00m200039000a/001.jpg",
       "categories": [
         "anime"
       ],
