@@ -1,18 +1,18 @@
 {
-  "updatedAt": "2026-10-07T17:02:03.444Z",
+  "updatedAt": "2026-10-07T17:30:18.505Z",
   "site": {
     "title": "なろう系まとめ",
     "tagline": "小説家になろう発の作品のアニメ化・コミカライズ・書籍化のニュースと、なろうのランキングをまとめています。",
     "url": "https://naroumatome.gamelab.website/",
     "contactUrl": "https://docs.google.com/forms/d/e/1FAIpQLSesWyhmZ6sRS_ve-c3X2KqF_wC5PK2TgwgQbTKmnQltSlg5Jw/viewform"
   },
-  "total": 118,
-  "todayCount": 0,
+  "total": 120,
+  "todayCount": 1,
   "categories": [
     {
       "id": "anime",
       "label": "アニメ",
-      "count": 82
+      "count": 83
     },
     {
       "id": "comic",
@@ -42,7 +42,7 @@
     {
       "id": "other",
       "label": "そのほか",
-      "count": 15
+      "count": 16
     }
   ],
   "works": [
@@ -56,7 +56,7 @@
       "id": "mushoku",
       "title": "無職転生 ～異世界行ったら本気だす～",
       "short": "無職転生",
-      "count": 13
+      "count": 14
     },
     {
       "id": "rezero",
@@ -74,7 +74,7 @@
       "id": "kusuriya",
       "title": "薬屋のひとりごと",
       "short": "薬屋",
-      "count": 27
+      "count": 28
     },
     {
       "id": "kagejitsu",
@@ -295,16 +295,16 @@
   ],
   "sources": [
     {
+      "name": "山陽新聞",
+      "count": 10
+    },
+    {
       "name": "WEBザテレビジョン",
       "count": 10
     },
     {
       "name": "Yahoo!ニュース",
-      "count": 9
-    },
-    {
-      "name": "山陽新聞",
-      "count": 9
+      "count": 10
     },
     {
       "name": "ニコニコニュース",
@@ -558,16 +558,16 @@
       "image": "https://media.image.infoseek.co.jp/isnews/photos/abematimes/abematimes_10277849_0-enlarge.jpg",
       "leadSource": "Infoseek",
       "publishedAt": "2026-10-07T10:25:00.000Z",
-      "sourceCount": 5,
-      "articleCount": 7,
+      "sourceCount": 4,
+      "articleCount": 6,
       "categories": [
         "anime",
         "web"
       ],
       "keywords": [
         "コメント",
-        "無職転生",
-        "top3"
+        "top3",
+        "最多"
       ],
       "articles": [
         {
@@ -589,13 +589,6 @@
           "url": "https://news.infoseek.co.jp/amp/article/eigacom_20261007001/",
           "source": "Infoseek",
           "publishedAt": "2026-10-06T21:00:00.000Z",
-          "isPR": false
-        },
-        {
-          "title": "『無職転生』ロキシー、水王級魔術を教えてほしい！ 第3期の第4話あらすじ＆場面カット公開",
-          "url": "https://www.sanyonews.jp/article/1955620?kw",
-          "source": "山陽新聞",
-          "publishedAt": "2026-10-06T16:01:40.000Z",
           "isPR": false
         },
         {
@@ -623,7 +616,7 @@
       "leadSource": "アニメイトタイムズ",
       "publishedAt": "2026-10-07T14:45:20.000Z",
       "sourceCount": 4,
-      "articleCount": 5,
+      "articleCount": 4,
       "categories": [
         "anime",
         "goods"
@@ -653,13 +646,6 @@
           "url": "https://natalie.mu/comic/news/692559",
           "source": "ナタリー",
           "publishedAt": "2026-10-06T05:10:00.000Z",
-          "isPR": false
-        },
-        {
-          "title": "『薬屋のひとりごと』第3期PV解禁 新たな試練に猫猫・壬氏が立ち向かう！EDはEve「AIYOU」",
-          "url": "https://www.sanyonews.jp/article/1994631?rct",
-          "source": "山陽新聞",
-          "publishedAt": "2026-10-05T19:46:30.000Z",
           "isPR": false
         }
       ]
@@ -991,13 +977,33 @@
     }
   ],
   "churn": {
-    "previousAt": "2026-10-07T16:30:23.808Z",
-    "previousCount": 120,
-    "newCount": 1
+    "previousAt": "2026-10-07T17:02:03.444Z",
+    "previousCount": 118,
+    "newCount": 2
   },
   "updateGapMin": 30,
-  "nextUpdateAt": "2026-10-07T17:32:03.444Z",
+  "nextUpdateAt": "2026-10-07T18:00:18.505Z",
   "items": [
+    {
+      "id": "fb4b54659ea5",
+      "title": "『薬屋のひとりごと』第49話あらすじ＆場面カット解禁 国を襲う災害の予兆に悩む壬氏",
+      "url": "https://www.sanyonews.jp/article/1998008",
+      "host": "sanyonews.jp",
+      "source": "山陽新聞",
+      "summary": "",
+      "publishedAt": "2026-10-07T16:07:50.000Z",
+      "image": "https://static.sanyonews.jp/image/article/size1/b/c/8/3/bc8346b17d1239476f6bda57b756d3ca_1.jpg",
+      "categories": [
+        "anime"
+      ],
+      "works": [
+        "kusuriya"
+      ],
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": true
+    },
     {
       "id": "a6c3a1bfe915",
       "title": "『薬屋のひとりごと』第3期、悠木碧×大塚剛央が語る新たな物語｜壬氏と猫猫の関係、白娘々の謎とは",
@@ -1035,7 +1041,7 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "7b64e9ae8aff",
@@ -1345,6 +1351,26 @@
       "viaGoogle": false,
       "sourceKind": "news",
       "isNew": false
+    },
+    {
+      "id": "e7da5ed76ff2",
+      "title": "「美腹筋すごっ！」『無職転生』香港美女コスプレイヤーによる“エリス”に「すばらしい」「ウェストきれい」（マグミクス）",
+      "url": "https://news.yahoo.co.jp/articles/f016fcd5c09ecd18f1ae71f39fe7dc3220850d36",
+      "host": "news.yahoo.co.jp",
+      "source": "Yahoo!ニュース",
+      "summary": "",
+      "publishedAt": "2026-10-07T05:58:00.000Z",
+      "image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20261003-00378887-magmix-000-11-view.jpg?exp=10800",
+      "categories": [
+        "other"
+      ],
+      "works": [
+        "mushoku"
+      ],
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": true
     },
     {
       "id": "80e6cccdb65a",
@@ -2587,6 +2613,26 @@
       "isNew": false
     },
     {
+      "id": "36eed87c5eb2",
+      "title": "『転スラ』第4期の第3クールは来年7月放送 公式スピンオフ『クレイマンREVENGE』アニメ化で4月放送",
+      "url": "https://www.sanyonews.jp/photo/detail?article_id",
+      "host": "sanyonews.jp",
+      "source": "山陽新聞",
+      "summary": "",
+      "publishedAt": "2026-10-05T09:40:26.000Z",
+      "image": "",
+      "categories": [
+        "anime"
+      ],
+      "works": [
+        "tensura"
+      ],
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": false
+    },
+    {
       "id": "604d8b6608ca",
       "title": "「壬氏様、猫猫のこと好きすぎ」「愛情だだ漏れ」アニメ『薬屋のひとりごと』第3期ノンクレED映像に反響（ABEMA TIMES）",
       "url": "https://news.yahoo.co.jp/articles/ec8e49ca51ad35546cf30fd4008ccb214402492c",
@@ -3248,26 +3294,6 @@
       ],
       "works": [
         "tate"
-      ],
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": false
-    },
-    {
-      "id": "36eed87c5eb2",
-      "title": "『転スラ』第4期の第3クールは来年7月放送 公式スピンオフ『クレイマンREVENGE』アニメ化で4月放送",
-      "url": "https://www.sanyonews.jp/article/1994683?kw",
-      "host": "sanyonews.jp",
-      "source": "山陽新聞",
-      "summary": "",
-      "publishedAt": "2026-10-04T17:10:00.000Z",
-      "image": "https://static.sanyonews.jp/image/article/size1/2/9/3/8/29382e58a97023a094d0382d327d534a_1.jpg",
-      "categories": [
-        "anime"
-      ],
-      "works": [
-        "tensura"
       ],
       "isPR": false,
       "viaGoogle": false,
