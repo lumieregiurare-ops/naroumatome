@@ -1,18 +1,18 @@
 {
-  "updatedAt": "2026-10-07T01:30:19.332Z",
+  "updatedAt": "2026-10-07T02:00:16.470Z",
   "site": {
     "title": "なろう系まとめ",
     "tagline": "小説家になろう発の作品のアニメ化・コミカライズ・書籍化のニュースと、なろうのランキングをまとめています。",
     "url": "https://naroumatome.gamelab.website/",
     "contactUrl": "https://docs.google.com/forms/d/e/1FAIpQLSesWyhmZ6sRS_ve-c3X2KqF_wC5PK2TgwgQbTKmnQltSlg5Jw/viewform"
   },
-  "total": 114,
-  "todayCount": 17,
+  "total": 115,
+  "todayCount": 18,
   "categories": [
     {
       "id": "anime",
       "label": "アニメ",
-      "count": 82
+      "count": 83
     },
     {
       "id": "comic",
@@ -56,7 +56,7 @@
       "id": "mushoku",
       "title": "無職転生 ～異世界行ったら本気だす～",
       "short": "無職転生",
-      "count": 14
+      "count": 15
     },
     {
       "id": "rezero",
@@ -200,7 +200,7 @@
       "id": "silent-witch",
       "title": "サイレント・ウィッチ",
       "short": "サイレント・ウィッチ",
-      "count": 1
+      "count": 0
     },
     {
       "id": "kamitachi",
@@ -299,15 +299,15 @@
       "count": 12
     },
     {
+      "name": "WEBザテレビジョン",
+      "count": 9
+    },
+    {
       "name": "Yahoo!ニュース",
       "count": 9
     },
     {
       "name": "ラノベニュースオンライン",
-      "count": 8
-    },
-    {
-      "name": "WEBザテレビジョン",
       "count": 8
     },
     {
@@ -320,10 +320,6 @@
     },
     {
       "name": "PR TIMES",
-      "count": 4
-    },
-    {
-      "name": "Unisba Media",
       "count": 4
     },
     {
@@ -351,11 +347,19 @@
       "count": 3
     },
     {
+      "name": "Unisba Media",
+      "count": 3
+    },
+    {
       "name": "MANTANWEB",
       "count": 3
     },
     {
       "name": "eeo",
+      "count": 2
+    },
+    {
+      "name": "ABEMA",
       "count": 2
     },
     {
@@ -412,10 +416,6 @@
     },
     {
       "name": "V-storage",
-      "count": 1
-    },
-    {
-      "name": "ABEMA",
       "count": 1
     },
     {
@@ -950,12 +950,12 @@
     }
   ],
   "churn": {
-    "previousAt": "2026-10-07T01:00:20.072Z",
-    "previousCount": 115,
-    "newCount": 4
+    "previousAt": "2026-10-07T01:30:19.332Z",
+    "previousCount": 114,
+    "newCount": 3
   },
   "updateGapMin": 30,
-  "nextUpdateAt": "2026-10-07T02:00:19.332Z",
+  "nextUpdateAt": "2026-10-07T02:30:16.470Z",
   "items": [
     {
       "id": "594210c14e5b",
@@ -974,6 +974,26 @@
         "honzuki"
       ],
       "isPR": true,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": false
+    },
+    {
+      "id": "1968922f49c2",
+      "title": "＜薬屋のひとりごと＞「めちゃくちゃサービス回」「眼福」猫猫×小蘭×子翠の湯殿シーンに癒される視聴者続出【第37話】",
+      "url": "https://thetv.jp/news/detail/1445260/18694650/",
+      "host": "thetv.jp",
+      "source": "WEBザテレビジョン",
+      "summary": "",
+      "publishedAt": "2026-10-07T00:35:29.000Z",
+      "image": "https://thetv.jp/i/nw/1445260/18694650.jpg?w=1284",
+      "categories": [
+        "anime"
+      ],
+      "works": [
+        "kusuriya"
+      ],
+      "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
       "isNew": true
@@ -1036,6 +1056,24 @@
       "isNew": false
     },
     {
+      "id": "048856b88e3c",
+      "title": "異世界・ファンタジーアニメ4チャンネル | 無料で放送中の番組や配信中の話題作が見放題",
+      "url": "https://abema.tv/now-on-air/isekai-anime-4",
+      "host": "abema.tv",
+      "source": "ABEMA",
+      "summary": "",
+      "publishedAt": "2026-10-06T23:41:37.000Z",
+      "image": "",
+      "categories": [
+        "anime"
+      ],
+      "works": [],
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": true
+    },
+    {
       "id": "ddb59833e0e7",
       "title": "茨城県『薬屋のひとりごと』 コラボスタンプラリー第2弾開催 猫猫や壬氏の描き下ろしカードがもらえる",
       "url": "https://www.sanyonews.jp/article/1998480",
@@ -1053,7 +1091,7 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "584c7d54d889",
@@ -1114,19 +1152,19 @@
       "isNew": false
     },
     {
-      "id": "11ff5432d9b8",
-      "title": "＜薬屋のひとりごと＞壬氏初の“猫猫”名前呼びに「刺激が強すぎる」とファン悶絶、幽霊の正体も明らかに【第38話】",
-      "url": "https://thetv.jp/news/detail/1445408/18697259/",
+      "id": "ab75ad15865e",
+      "title": "＜無職転生III＞日記を読み終えたルーデウスは、家族を守るために行動を始める…第14話あらすじ＆先行カット公開",
+      "url": "https://thetv.jp/news/detail/1443312/18612272/",
       "host": "thetv.jp",
       "source": "WEBザテレビジョン",
       "summary": "",
-      "publishedAt": "2026-10-06T21:43:56.000Z",
-      "image": "https://thetv.jp/i/nw/1445408/18697259.jpg?w=1284",
+      "publishedAt": "2026-10-06T22:16:23.000Z",
+      "image": "https://thetv.jp/i/nw/1443312/18612272.jpg?w=1284",
       "categories": [
         "anime"
       ],
       "works": [
-        "kusuriya"
+        "mushoku"
       ],
       "isPR": false,
       "viaGoogle": false,
@@ -1172,26 +1210,6 @@
       "viaGoogle": false,
       "sourceKind": "news",
       "isNew": false
-    },
-    {
-      "id": "9eff29a664da",
-      "title": "【サイウィ9話】モニカ、ケイシーとの涙の別れ…”フェリクス”と従者の過去から、あらためて2期フラグ立った「サイレント・ウィッチ」9話アニメレビュー【2025年夏アニメ】 Provincial Life Satisfaction Canad…",
-      "url": "https://media.unisba.ac.id/f6144682/3969d102F6pAnIqRTMQ/?share",
-      "host": "media.unisba.ac.id",
-      "source": "Unisba Media",
-      "summary": "",
-      "publishedAt": "2026-10-06T19:40:34.000Z",
-      "image": "",
-      "categories": [
-        "anime"
-      ],
-      "works": [
-        "silent-witch"
-      ],
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": true
     },
     {
       "id": "e7a9feba5ca9",
@@ -1786,26 +1804,6 @@
       "isNew": false
     },
     {
-      "id": "18c526d244a0",
-      "title": "『薬屋のひとりごと』第3期PV解禁 新たな試練に猫猫・壬氏が立ち向かう！EDはEve「AIYOU」",
-      "url": "https://www.sanyonews.jp/article/1994631?rct",
-      "host": "sanyonews.jp",
-      "source": "山陽新聞",
-      "summary": "",
-      "publishedAt": "2026-10-05T23:06:30.000Z",
-      "image": "https://static.sanyonews.jp/image/article/size1/1/c/6/b/1c6b7cb3359369a685532b39dc471fca_1.jpg",
-      "categories": [
-        "anime"
-      ],
-      "works": [
-        "kusuriya"
-      ],
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": false
-    },
-    {
       "id": "16563f292a6c",
       "title": "第1話 転生ゴブリンだけど質問ある？「転生ゴブリンだけど質問ある？」",
       "url": "https://thetv.jp/program/0001077857/1/",
@@ -1818,6 +1816,26 @@
         "anime"
       ],
       "works": [],
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": false
+    },
+    {
+      "id": "18c526d244a0",
+      "title": "『薬屋のひとりごと』第3期PV解禁 新たな試練に猫猫・壬氏が立ち向かう！EDはEve「AIYOU」",
+      "url": "https://www.sanyonews.jp/article/1994631?rct",
+      "host": "sanyonews.jp",
+      "source": "山陽新聞",
+      "summary": "",
+      "publishedAt": "2026-10-05T19:46:30.000Z",
+      "image": "https://static.sanyonews.jp/image/article/size1/1/c/6/b/1c6b7cb3359369a685532b39dc471fca_1.jpg",
+      "categories": [
+        "anime"
+      ],
+      "works": [
+        "kusuriya"
+      ],
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
