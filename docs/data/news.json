@@ -1,18 +1,18 @@
 {
-  "updatedAt": "2026-10-08T15:30:25.123Z",
+  "updatedAt": "2026-10-08T16:00:23.469Z",
   "site": {
     "title": "なろう系まとめ",
     "tagline": "小説家になろう発の作品のアニメ化・コミカライズ・書籍化のニュースと、なろうのランキングをまとめています。",
     "url": "https://naroumatome.gamelab.website/",
     "contactUrl": "https://docs.google.com/forms/d/e/1FAIpQLSesWyhmZ6sRS_ve-c3X2KqF_wC5PK2TgwgQbTKmnQltSlg5Jw/viewform"
   },
-  "total": 116,
-  "todayCount": 0,
+  "total": 117,
+  "todayCount": 1,
   "categories": [
     {
       "id": "anime",
       "label": "アニメ",
-      "count": 75
+      "count": 76
     },
     {
       "id": "comic",
@@ -296,7 +296,7 @@
   "sources": [
     {
       "name": "WEBザテレビジョン",
-      "count": 15
+      "count": 16
     },
     {
       "name": "Yahoo!ニュース",
@@ -311,10 +311,6 @@
       "count": 6
     },
     {
-      "name": "ニコニコニュース",
-      "count": 6
-    },
-    {
       "name": "Koubo",
       "count": 5
     },
@@ -323,15 +319,23 @@
       "count": 5
     },
     {
+      "name": "Infoseek",
+      "count": 5
+    },
+    {
+      "name": "ABEMA",
+      "count": 4
+    },
+    {
       "name": "eeo",
       "count": 4
     },
     {
-      "name": "ラノベニュースオンライン",
+      "name": "ニコニコニュース",
       "count": 4
     },
     {
-      "name": "Infoseek",
+      "name": "ラノベニュースオンライン",
       "count": 4
     },
     {
@@ -344,10 +348,6 @@
     },
     {
       "name": "キャラグー",
-      "count": 3
-    },
-    {
-      "name": "ABEMA",
       "count": 3
     },
     {
@@ -403,10 +403,6 @@
       "count": 1
     },
     {
-      "name": "ABEMA TIMES",
-      "count": 1
-    },
-    {
       "name": "マイナビニュース",
       "count": 1
     },
@@ -428,6 +424,10 @@
     },
     {
       "name": "ウォーカープラス",
+      "count": 1
+    },
+    {
+      "name": "アニメハック",
       "count": 1
     },
     {
@@ -484,7 +484,7 @@
       "image": "https://www.pashplus.jp/wp-content/uploads/0a3974f270bcbcf4657179592f9f62e1.jpg",
       "leadSource": "PASH! PLUS",
       "publishedAt": "2026-10-08T13:44:21.000Z",
-      "sourceCount": 11,
+      "sourceCount": 10,
       "articleCount": 14,
       "categories": [
         "anime",
@@ -504,10 +504,10 @@
           "isPR": false
         },
         {
-          "title": "薬屋のひとりごと＞猫猫は、“湖に消えた美しい天女の伝説”を聞く…第50話あらすじ＆先行カット公開（WEBザテレビジョン）",
-          "url": "https://news.yahoo.co.jp/articles/6d1f93f639adeb443f6fa3044ab9caa1c467eb4b",
-          "source": "Yahoo!ニュース",
-          "publishedAt": "2026-10-08T09:53:51.000Z",
+          "title": "薬屋のひとりごと＞猫猫は、“湖に消えた美しい天女の伝説”を聞く…第50話あらすじ＆先行カット公開",
+          "url": "https://thetv.jp/news/detail/1447090/",
+          "source": "WEBザテレビジョン",
+          "publishedAt": "2026-10-08T09:53:00.000Z",
           "isPR": false
         },
         {
@@ -532,6 +532,13 @@
           "isPR": false
         },
         {
+          "title": "“湖に消えた美しい天⼥の伝説”が語られる…アニメ『薬屋のひとりごと』第50話あらすじ・先行カット公開（ABEMA TIMES）",
+          "url": "https://news.yahoo.co.jp/articles/7655a17a338dd863977d09279f6bc3682e552652",
+          "source": "Yahoo!ニュース",
+          "publishedAt": "2026-10-08T09:00:38.000Z",
+          "isPR": false
+        },
+        {
           "title": "『薬屋のひとりごと』火鼠の皮衣とは?湖に消えた美しい天女の伝説 第50話あらすじ&場面カット解禁",
           "url": "https://www.oricon.co.jp/news/2485264/photo/2/?anc",
           "source": "オリコンニュース",
@@ -542,13 +549,6 @@
           "title": "秋アニメ『薬屋のひとりごと』第50話あらすじ＆場面カット",
           "url": "https://www.animatetimes.com/news/details.php?id",
           "source": "アニメイトタイムズ",
-          "publishedAt": "2026-10-08T09:00:00.000Z",
-          "isPR": false
-        },
-        {
-          "title": "“湖に消えた美しい天⼥の伝説”が語られる…アニメ『薬屋のひとりごと』第50話あらすじ・先行カット公開",
-          "url": "https://times.abema.tv/articles/-/10278318",
-          "source": "ABEMA TIMES",
           "publishedAt": "2026-10-08T09:00:00.000Z",
           "isPR": false
         }
@@ -961,13 +961,31 @@
     }
   ],
   "churn": {
-    "previousAt": "2026-10-08T15:00:20.387Z",
-    "previousCount": 117,
+    "previousAt": "2026-10-08T15:30:25.123Z",
+    "previousCount": 116,
     "newCount": 1
   },
   "updateGapMin": 30,
-  "nextUpdateAt": "2026-10-08T16:00:25.123Z",
+  "nextUpdateAt": "2026-10-08T16:30:23.469Z",
   "items": [
+    {
+      "id": "048856b88e3c",
+      "title": "異世界・ファンタジーアニメ4チャンネル | 無料で放送中の番組や配信中の話題作が見放題",
+      "url": "https://abema.tv/now-on-air/isekai-anime-4",
+      "host": "abema.tv",
+      "source": "ABEMA",
+      "summary": "",
+      "publishedAt": "2026-10-08T15:38:53.000Z",
+      "image": "",
+      "categories": [
+        "anime"
+      ],
+      "works": [],
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": true
+    },
     {
       "id": "ef7e22e88247",
       "title": "弱気MAX令嬢＞乙女ゲームのモブ悪役令嬢に転生したピアは国外追放される運命だと悟る…第1話あらすじ＆先行カット公開",
@@ -1106,13 +1124,13 @@
     },
     {
       "id": "eda1d1a92f10",
-      "title": "薬屋のひとりごと＞猫猫は、“湖に消えた美しい天女の伝説”を聞く…第50話あらすじ＆先行カット公開（WEBザテレビジョン）",
-      "url": "https://news.yahoo.co.jp/articles/6d1f93f639adeb443f6fa3044ab9caa1c467eb4b",
-      "host": "news.yahoo.co.jp",
-      "source": "Yahoo!ニュース",
+      "title": "薬屋のひとりごと＞猫猫は、“湖に消えた美しい天女の伝説”を聞く…第50話あらすじ＆先行カット公開",
+      "url": "https://thetv.jp/news/detail/1447090/",
+      "host": "thetv.jp",
+      "source": "WEBザテレビジョン",
       "summary": "",
-      "publishedAt": "2026-10-08T09:53:51.000Z",
-      "image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20261008-01447090-the_tv-000-2-view.jpg?exp=10800",
+      "publishedAt": "2026-10-08T09:53:00.000Z",
+      "image": "https://thetv.jp/i/nw/1447090/18759236.jpg?w=1284",
       "categories": [
         "anime"
       ],
@@ -1205,6 +1223,26 @@
       "isNew": false
     },
     {
+      "id": "71a9cd11d0ba",
+      "title": "“湖に消えた美しい天⼥の伝説”が語られる…アニメ『薬屋のひとりごと』第50話あらすじ・先行カット公開（ABEMA TIMES）",
+      "url": "https://news.yahoo.co.jp/articles/7655a17a338dd863977d09279f6bc3682e552652",
+      "host": "news.yahoo.co.jp",
+      "source": "Yahoo!ニュース",
+      "summary": "",
+      "publishedAt": "2026-10-08T09:00:38.000Z",
+      "image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20261008-10278318-abemad-000-1-view.jpg?exp=10800",
+      "categories": [
+        "anime"
+      ],
+      "works": [
+        "kusuriya"
+      ],
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": false
+    },
+    {
       "id": "90fba31bc0a6",
       "title": "『薬屋のひとりごと』火鼠の皮衣とは?湖に消えた美しい天女の伝説 第50話あらすじ&場面カット解禁",
       "url": "https://www.oricon.co.jp/news/2485264/photo/2/?anc",
@@ -1233,26 +1271,6 @@
       "summary": "",
       "publishedAt": "2026-10-08T09:00:00.000Z",
       "image": "https://www.animatetimes.com/img/ogimage.png",
-      "categories": [
-        "anime"
-      ],
-      "works": [
-        "kusuriya"
-      ],
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": false
-    },
-    {
-      "id": "71a9cd11d0ba",
-      "title": "“湖に消えた美しい天⼥の伝説”が語られる…アニメ『薬屋のひとりごと』第50話あらすじ・先行カット公開",
-      "url": "https://times.abema.tv/articles/-/10278318",
-      "host": "times.abema.tv",
-      "source": "ABEMA TIMES",
-      "summary": "",
-      "publishedAt": "2026-10-08T09:00:00.000Z",
-      "image": "https://times-abema.ismcdn.jp/mwimgs/0/5/1200w/img_05f65b665ea1f97e80adefbc3046d8f2215789.jpg",
       "categories": [
         "anime"
       ],
@@ -1561,7 +1579,7 @@
       "source": "UtaTen",
       "summary": "",
       "publishedAt": "2026-10-08T02:55:28.000Z",
-      "image": "https://m.media-amazon.com/images/I/410i4RNjs6L._SL200_.jpg?r=2026100900",
+      "image": "https://m.media-amazon.com/images/I/410i4RNjs6L._SL200_.jpg?r=2026100901",
       "categories": [
         "anime"
       ],
@@ -1784,7 +1802,7 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "0a18332afb3d",
@@ -1941,12 +1959,12 @@
     {
       "id": "93bb791654fb",
       "title": "【今期TVアニメランキング】秋アニメ「薬屋のひとりごと」がロケットスタート 「超条先輩」「チー付与」が高順位",
-      "url": "https://news.nicovideo.jp/watch/nw19855573?from",
-      "host": "news.nicovideo.jp",
-      "source": "ニコニコニュース",
+      "url": "https://anime.eiga.com/news/column/konki_ranking/127603/",
+      "host": "anime.eiga.com",
+      "source": "アニメハック",
       "summary": "",
-      "publishedAt": "2026-10-07T10:00:34.000Z",
-      "image": "",
+      "publishedAt": "2026-10-07T10:00:00.000Z",
+      "image": "https://media.eiga.com/images/anime/news/127603/photo/113e12681aa670fc/640.jpg",
       "categories": [
         "anime",
         "web"
@@ -2598,6 +2616,25 @@
       "isNew": false
     },
     {
+      "id": "ae3f7d642c0b",
+      "title": "キルタイム異世界漫画原作大賞【編集部特別賞】受賞作品『ダンジョン領主の下克上～いきなりド底辺ダンジョンのマスターにされたゲームデザイナー、ブラック業界を生き抜いた社畜能力で運命を切り開く～1』発売",
+      "url": "https://news.infoseek.co.jp/article/prtimes_000001024_000049835/",
+      "host": "news.infoseek.co.jp",
+      "source": "Infoseek",
+      "summary": "",
+      "publishedAt": "2026-10-06T15:15:32.000Z",
+      "image": "https://media.image.infoseek.co.jp/isnews/pc/img/noimage_203x120_busi-econ-1.0.png",
+      "categories": [
+        "web",
+        "comic"
+      ],
+      "works": [],
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": false
+    },
+    {
       "id": "ef6e7a8ae1f8",
       "title": "e Re:ゼロから始める異世界生活 鬼がかり2信頼度まとめ！カスタム・先読み・激アツ演出・先バレ",
       "url": "https://p-town.dmm.com/specials/5466",
@@ -2612,25 +2649,6 @@
       "works": [
         "rezero"
       ],
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": false
-    },
-    {
-      "id": "ae3f7d642c0b",
-      "title": "キルタイム異世界漫画原作大賞【編集部特別賞】受賞作品『ダンジョン領主の下克上～いきなりド底辺ダンジョンのマスターにされ",
-      "url": "https://news.nicovideo.jp/watch/nw19851945",
-      "host": "news.nicovideo.jp",
-      "source": "ニコニコニュース",
-      "summary": "",
-      "publishedAt": "2026-10-06T13:21:24.000Z",
-      "image": "",
-      "categories": [
-        "web",
-        "comic"
-      ],
-      "works": [],
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
