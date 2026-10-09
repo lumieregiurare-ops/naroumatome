@@ -1,18 +1,18 @@
 {
-  "updatedAt": "2026-10-09T23:00:18.124Z",
+  "updatedAt": "2026-10-09T23:30:17.863Z",
   "site": {
     "title": "なろう系まとめ",
     "tagline": "小説家になろう発の作品のアニメ化・コミカライズ・書籍化のニュースと、なろうのランキングをまとめています。",
     "url": "https://naroumatome.gamelab.website/",
     "contactUrl": "https://docs.google.com/forms/d/e/1FAIpQLSesWyhmZ6sRS_ve-c3X2KqF_wC5PK2TgwgQbTKmnQltSlg5Jw/viewform"
   },
-  "total": 124,
-  "todayCount": 12,
+  "total": 122,
+  "todayCount": 13,
   "categories": [
     {
       "id": "anime",
       "label": "アニメ",
-      "count": 81
+      "count": 79
     },
     {
       "id": "comic",
@@ -50,7 +50,7 @@
       "id": "tensura",
       "title": "転生したらスライムだった件",
       "short": "転スラ",
-      "count": 15
+      "count": 14
     },
     {
       "id": "mushoku",
@@ -74,7 +74,7 @@
       "id": "kusuriya",
       "title": "薬屋のひとりごと",
       "short": "薬屋",
-      "count": 31
+      "count": 32
     },
     {
       "id": "kagejitsu",
@@ -347,10 +347,6 @@
       "count": 3
     },
     {
-      "name": "ニコニコニュース",
-      "count": 3
-    },
-    {
       "name": "Infoseek",
       "count": 3
     },
@@ -364,6 +360,10 @@
     },
     {
       "name": "TVer",
+      "count": 2
+    },
+    {
+      "name": "ニコニコニュース",
       "count": 2
     },
     {
@@ -412,10 +412,6 @@
     },
     {
       "name": "インサイド",
-      "count": 1
-    },
-    {
-      "name": "おた☆スケ",
       "count": 1
     },
     {
@@ -562,8 +558,8 @@
       "image": "https://eeo.today/media/wp-content/uploads/2026/10/1009isekaimauou.jpg",
       "leadSource": "ナタリー",
       "publishedAt": "2026-10-09T12:27:12.000Z",
-      "sourceCount": 5,
-      "articleCount": 6,
+      "sourceCount": 4,
+      "articleCount": 5,
       "categories": [
         "other",
         "anime"
@@ -571,7 +567,7 @@
       "keywords": [
         "異世界魔王",
         "ビジュアル",
-        "召喚少女"
+        "ult"
       ],
       "articles": [
         {
@@ -579,13 +575,6 @@
           "url": "https://eeo.today/media/2026/10/09/401361/",
           "source": "eeo",
           "publishedAt": "2026-10-09T11:27:54.000Z",
-          "isPR": false
-        },
-        {
-          "title": "「異世界魔王と召喚少女の奴隷魔術」第3期ティザービジュアル公開",
-          "url": "https://www.ota-suke.jp/news/292246",
-          "source": "おた☆スケ",
-          "publishedAt": "2026-10-09T09:44:00.000Z",
           "isPR": false
         },
         {
@@ -979,13 +968,33 @@
     }
   ],
   "churn": {
-    "previousAt": "2026-10-09T22:30:16.173Z",
-    "previousCount": 122,
-    "newCount": 3
+    "previousAt": "2026-10-09T23:00:18.124Z",
+    "previousCount": 124,
+    "newCount": 1
   },
   "updateGapMin": 30,
-  "nextUpdateAt": "2026-10-09T23:30:18.124Z",
+  "nextUpdateAt": "2026-10-10T00:00:17.863Z",
   "items": [
+    {
+      "id": "4450b7dbc531",
+      "title": "＜薬屋のひとりごと＞「鮮やかすぎる伏線回収」王母の仕掛けた謎を解き明かす猫猫と“選択の廟”のからくりに称賛殺到【第31話】",
+      "url": "https://thetv.jp/news/detail/1443768/p2/",
+      "host": "thetv.jp",
+      "source": "WEBザテレビジョン",
+      "summary": "",
+      "publishedAt": "2026-10-09T21:07:49.000Z",
+      "image": "https://thetv.jp/i/nw/1443768/18639099.jpg?w=1284",
+      "categories": [
+        "anime"
+      ],
+      "works": [
+        "kusuriya"
+      ],
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": true
+    },
     {
       "id": "90fba31bc0a6",
       "title": "『薬屋のひとりごと』火鼠の皮衣とは？湖に消えた美しい天女の伝説 第50話あらすじ＆場面カット解禁",
@@ -1280,7 +1289,7 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "3d0f08f8b9fb",
@@ -1608,24 +1617,6 @@
       "works": [
         "kusuriya"
       ],
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": false
-    },
-    {
-      "id": "e6b8d91a6420",
-      "title": "「異世界魔王と召喚少女の奴隷魔術」第3期ティザービジュアル公開",
-      "url": "https://www.ota-suke.jp/news/292246",
-      "host": "ota-suke.jp",
-      "source": "おた☆スケ",
-      "summary": "",
-      "publishedAt": "2026-10-09T09:44:00.000Z",
-      "image": "http://www.ota-suke.jp/images/editor/tak/image2026/1009_75.webp",
-      "categories": [
-        "anime"
-      ],
-      "works": [],
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
@@ -2567,7 +2558,7 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "88f17a2891b7",
@@ -3032,26 +3023,6 @@
       "isNew": false
     },
     {
-      "id": "76a599614341",
-      "title": "転スラ 第4期＞クロエとヒナタを救うため、リムルはクロノアの無限牢獄に干渉する 第96話あらすじ＆場面カット公開",
-      "url": "https://thetv.jp/news/detail/1442655/landing/",
-      "host": "thetv.jp",
-      "source": "WEBザテレビジョン",
-      "summary": "",
-      "publishedAt": "2026-10-07T08:53:10.000Z",
-      "image": "",
-      "categories": [
-        "anime"
-      ],
-      "works": [
-        "tensura"
-      ],
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": true
-    },
-    {
       "id": "c1e7884996f9",
       "title": "エリスを妻に迎えることを相談するルーデウスが1位！アニメ『無職転生III』第1クール最終話コメント最多シーンTOP3",
       "url": "https://news.infoseek.co.jp/amp/article/abematimes_10277789/",
@@ -3370,24 +3341,6 @@
       "categories": [
         "anime",
         "game"
-      ],
-      "works": [],
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": false
-    },
-    {
-      "id": "859444d9f4b7",
-      "title": "「薬屋」第3期や「鑑定スキル」第3期、話題の異世界系作品も！「J:COM STREAM」秋アニメが順次配信中",
-      "url": "https://news.nicovideo.jp/watch/nw19853061?from",
-      "host": "news.nicovideo.jp",
-      "source": "ニコニコニュース",
-      "summary": "",
-      "publishedAt": "2026-10-06T23:21:24.000Z",
-      "image": "",
-      "categories": [
-        "anime"
       ],
       "works": [],
       "isPR": false,
