@@ -1,18 +1,18 @@
 {
-  "updatedAt": "2026-10-10T19:30:18.484Z",
+  "updatedAt": "2026-10-10T20:00:16.755Z",
   "site": {
     "title": "なろう系まとめ",
     "tagline": "小説家になろう発の作品のアニメ化・コミカライズ・書籍化のニュースと、なろうのランキングをまとめています。",
     "url": "https://naroumatome.gamelab.website/",
     "contactUrl": "https://docs.google.com/forms/d/e/1FAIpQLSesWyhmZ6sRS_ve-c3X2KqF_wC5PK2TgwgQbTKmnQltSlg5Jw/viewform"
   },
-  "total": 112,
+  "total": 113,
   "todayCount": 1,
   "categories": [
     {
       "id": "anime",
       "label": "アニメ",
-      "count": 75
+      "count": 76
     },
     {
       "id": "comic",
@@ -37,12 +37,12 @@
     {
       "id": "goods",
       "label": "グッズ・イベント",
-      "count": 11
+      "count": 12
     },
     {
       "id": "other",
       "label": "そのほか",
-      "count": 18
+      "count": 17
     }
   ],
   "works": [
@@ -68,13 +68,13 @@
       "id": "honzuki",
       "title": "本好きの下剋上",
       "short": "本好き",
-      "count": 4
+      "count": 3
     },
     {
       "id": "kusuriya",
       "title": "薬屋のひとりごと",
       "short": "薬屋",
-      "count": 34
+      "count": 36
     },
     {
       "id": "kagejitsu",
@@ -300,7 +300,7 @@
     },
     {
       "name": "WEBザテレビジョン",
-      "count": 8
+      "count": 9
     },
     {
       "name": "アニメ！アニメ！",
@@ -395,11 +395,15 @@
       "count": 1
     },
     {
-      "name": "au Webポータル",
+      "name": "マグミクス",
       "count": 1
     },
     {
       "name": "ｄメニューニュース",
+      "count": 1
+    },
+    {
+      "name": "Ciatr",
       "count": 1
     },
     {
@@ -456,10 +460,6 @@
     },
     {
       "name": "TVガイドWeb",
-      "count": 1
-    },
-    {
-      "name": "クランクイン！",
       "count": 1
     },
     {
@@ -738,13 +738,13 @@
       ]
     },
     {
-      "id": "7906719ceea7",
-      "title": "薬屋のひとりごと＞悠木碧「心が満たされた！」と大絶賛、ヨルシカが歌う第3期OPノンクレジット映像が解禁",
+      "id": "6323faf72ed2",
+      "title": "薬屋のひとりごと＞猫猫の記憶を辿るED「AIYOU」ノンクレジット映像公開 Eve「理屈では割り切れない想いも込めています」",
       "summary": "",
-      "url": "https://thetv.jp/news/detail/1445514/landing/?utm_source",
+      "url": "https://thetv.jp/news/detail/1445649/landing/",
       "image": "https://static.sanyonews.jp/image/article/size1/5/9/7/8/59783af7bbcdc324127e682654421cc9_1.jpg",
       "leadSource": "WEBザテレビジョン",
-      "publishedAt": "2026-10-10T05:41:19.000Z",
+      "publishedAt": "2026-10-10T13:21:58.000Z",
       "sourceCount": 3,
       "articleCount": 3,
       "categories": [
@@ -753,8 +753,8 @@
       ],
       "keywords": [
         "薬屋",
-        "解禁",
-        "ノンクレジット"
+        "ノンクレジット",
+        "映像公開"
       ],
       "articles": [
         {
@@ -964,12 +964,12 @@
     }
   ],
   "churn": {
-    "previousAt": "2026-10-10T19:00:18.010Z",
-    "previousCount": 111,
-    "newCount": 4
+    "previousAt": "2026-10-10T19:30:18.484Z",
+    "previousCount": 112,
+    "newCount": 2
   },
   "updateGapMin": 30,
-  "nextUpdateAt": "2026-10-10T20:00:18.484Z",
+  "nextUpdateAt": "2026-10-10T20:30:16.755Z",
   "items": [
     {
       "id": "731e5c09e1ae",
@@ -1011,6 +1011,26 @@
       "viaGoogle": false,
       "sourceKind": "news",
       "isNew": false
+    },
+    {
+      "id": "6323faf72ed2",
+      "title": "薬屋のひとりごと＞猫猫の記憶を辿るED「AIYOU」ノンクレジット映像公開 Eve「理屈では割り切れない想いも込めています」",
+      "url": "https://thetv.jp/news/detail/1445649/landing/",
+      "host": "thetv.jp",
+      "source": "WEBザテレビジョン",
+      "summary": "",
+      "publishedAt": "2026-10-10T13:21:58.000Z",
+      "image": "",
+      "categories": [
+        "anime"
+      ],
+      "works": [
+        "kusuriya"
+      ],
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": true
     },
     {
       "id": "9947cdff8d74",
@@ -1111,12 +1131,12 @@
     {
       "id": "63c25b2f36a8",
       "title": "「めちゃかわいい…」『無職転生』エリスの美麗コスプレイヤーに「魅惑的」「美スタイル」と反響",
-      "url": "https://article.auone.jp/1f456a74-7a00-4aac-b597-85a3f4d2f15a",
-      "host": "article.auone.jp",
-      "source": "au Webポータル",
+      "url": "https://magmix.jp/post/379773",
+      "host": "magmix.jp",
+      "source": "マグミクス",
       "summary": "",
       "publishedAt": "2026-10-10T08:25:00.000Z",
-      "image": "https://newportal.portal.auone.jp/media/thumbnails/2026/10/10/https___magmix_jp_post_379773_w900.webp",
+      "image": "https://magmix.jp/wp-content/uploads/2027/10/260930-eris01.jpg",
       "categories": [
         "other"
       ],
@@ -1146,7 +1166,7 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "4450b7dbc531",
@@ -1166,7 +1186,7 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "7906719ceea7",
@@ -1301,6 +1321,26 @@
       "isNew": false
     },
     {
+      "id": "afa81f7cd483",
+      "title": "『薬屋のひとりごと』は何時代が舞台？モデルになった中国の唐や架空の国・茘の後宮を解説",
+      "url": "https://ciatr.jp/topics/339681",
+      "host": "ciatr.jp",
+      "source": "Ciatr",
+      "summary": "",
+      "publishedAt": "2026-10-10T01:44:06.000Z",
+      "image": "https://images.ciatr.jp/2023/02/w_828/xqW5N67seTUzuYsJrbv7vkLIDmummLj9rBnYDlQZ.jpg",
+      "categories": [
+        "goods"
+      ],
+      "works": [
+        "kusuriya"
+      ],
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": true
+    },
+    {
       "id": "9c9fdeea7897",
       "title": "「かわいい!!」「はぁ尊い結婚してくれ」…「薬屋のひとりごと」待望の壬猫シーンにファン大歓喜！不憫すぎる高順には「パパ頑張れ！」「おもろすぎてやばいwww」の声【第50話ネタバレあり反応まとめ】",
       "url": "https://animeanime.jp/article/2026/10/10/103665.html",
@@ -1356,7 +1396,7 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "0de9d62d7712",
@@ -2646,7 +2686,7 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "fae20073db18",
@@ -2696,26 +2736,6 @@
       "image": "",
       "categories": [
         "anime"
-      ],
-      "works": [
-        "honzuki"
-      ],
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": false
-    },
-    {
-      "id": "77d799eab7e3",
-      "title": "（写真）ミュージカル『本好きの下剋上』再び！ “Wマイン”池村碧彩＆西山瑞桜、フェルディナンド役中山優貴が意気込み語る",
-      "url": "https://www.crank-in.net/stage/gallery/2_5d/189382/5",
-      "host": "crank-in.net",
-      "source": "クランクイン！",
-      "summary": "",
-      "publishedAt": "2026-10-08T10:20:00.000Z",
-      "image": "https://www.crank-in.net/img/db/265080109125291_1200.jpg",
-      "categories": [
-        "other"
       ],
       "works": [
         "honzuki"
