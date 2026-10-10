@@ -1,13 +1,13 @@
 {
-  "updatedAt": "2026-10-10T20:30:19.672Z",
+  "updatedAt": "2026-10-10T21:00:17.239Z",
   "site": {
     "title": "なろう系まとめ",
     "tagline": "小説家になろう発の作品のアニメ化・コミカライズ・書籍化のニュースと、なろうのランキングをまとめています。",
     "url": "https://naroumatome.gamelab.website/",
     "contactUrl": "https://docs.google.com/forms/d/e/1FAIpQLSesWyhmZ6sRS_ve-c3X2KqF_wC5PK2TgwgQbTKmnQltSlg5Jw/viewform"
   },
-  "total": 113,
-  "todayCount": 1,
+  "total": 115,
+  "todayCount": 2,
   "categories": [
     {
       "id": "anime",
@@ -37,12 +37,12 @@
     {
       "id": "goods",
       "label": "グッズ・イベント",
-      "count": 10
+      "count": 11
     },
     {
       "id": "other",
       "label": "そのほか",
-      "count": 17
+      "count": 18
     }
   ],
   "works": [
@@ -68,13 +68,13 @@
       "id": "honzuki",
       "title": "本好きの下剋上",
       "short": "本好き",
-      "count": 3
+      "count": 4
     },
     {
       "id": "kusuriya",
       "title": "薬屋のひとりごと",
       "short": "薬屋",
-      "count": 34
+      "count": 35
     },
     {
       "id": "kagejitsu",
@@ -379,11 +379,11 @@
       "count": 2
     },
     {
-      "name": "hobby Watch",
+      "name": "モデルプレス",
       "count": 1
     },
     {
-      "name": "モデルプレス",
+      "name": "hobby Watch",
       "count": 1
     },
     {
@@ -400,6 +400,10 @@
     },
     {
       "name": "ｄメニューニュース",
+      "count": 1
+    },
+    {
+      "name": "Ciatr",
       "count": 1
     },
     {
@@ -452,6 +456,10 @@
     },
     {
       "name": "TVガイドWeb",
+      "count": 1
+    },
+    {
+      "name": "クランクイン！",
       "count": 1
     },
     {
@@ -540,7 +548,7 @@
       "url": "https://mdpr.jp/other/4857329",
       "image": "https://img-mdpr.freetls.fastly.net/article/l2BZ/nm/l2BZwkiWNY1CjeJM67AdrcRIAEM3z6Q2fuwb2-5RjF0.jpg?width=700&disable=upscale&auto=webp&quality=80",
       "leadSource": "モデルプレス",
-      "publishedAt": "2026-10-10T14:55:17.000Z",
+      "publishedAt": "2026-10-10T20:55:17.000Z",
       "sourceCount": 5,
       "articleCount": 5,
       "categories": [
@@ -971,13 +979,34 @@
     }
   ],
   "churn": {
-    "previousAt": "2026-10-10T20:00:16.755Z",
+    "previousAt": "2026-10-10T20:30:19.672Z",
     "previousCount": 113,
     "newCount": 2
   },
   "updateGapMin": 30,
-  "nextUpdateAt": "2026-10-10T21:00:19.672Z",
+  "nextUpdateAt": "2026-10-10T21:30:17.239Z",
   "items": [
+    {
+      "id": "259c9739d40a",
+      "title": "【劇場版 薬屋のひとりごと×近鉄】奈良巡る謎解きコラボ企画「猫猫・壬氏 万葉への謎旅」でオリジナル賞品ゲット！",
+      "url": "https://mdpr.jp/other/4857329",
+      "host": "mdpr.jp",
+      "source": "モデルプレス",
+      "summary": "",
+      "publishedAt": "2026-10-10T20:55:17.000Z",
+      "image": "https://img-mdpr.freetls.fastly.net/article/l2BZ/nm/l2BZwkiWNY1CjeJM67AdrcRIAEM3z6Q2fuwb2-5RjF0.jpg?width=700&disable=upscale&auto=webp&quality=80",
+      "categories": [
+        "anime",
+        "goods"
+      ],
+      "works": [
+        "kusuriya"
+      ],
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": false
+    },
     {
       "id": "731e5c09e1ae",
       "title": "恥じらう表情に思わずドキッ！「無職転生 ～異世界行ったら本気だす～ ロキシー・M・グレイラット 寝間着Ver.」【あみあみ展示撮り下ろし】 寝間着姿をフィギュア化",
@@ -992,27 +1021,6 @@
       ],
       "works": [
         "mushoku"
-      ],
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": false
-    },
-    {
-      "id": "259c9739d40a",
-      "title": "【劇場版 薬屋のひとりごと×近鉄】奈良巡る謎解きコラボ企画「猫猫・壬氏 万葉への謎旅」でオリジナル賞品ゲット！",
-      "url": "https://mdpr.jp/other/4857329",
-      "host": "mdpr.jp",
-      "source": "モデルプレス",
-      "summary": "",
-      "publishedAt": "2026-10-10T14:55:17.000Z",
-      "image": "https://img-mdpr.freetls.fastly.net/article/l2BZ/nm/l2BZwkiWNY1CjeJM67AdrcRIAEM3z6Q2fuwb2-5RjF0.jpg?width=700&disable=upscale&auto=webp&quality=80",
-      "categories": [
-        "anime",
-        "goods"
-      ],
-      "works": [
-        "kusuriya"
       ],
       "isPR": false,
       "viaGoogle": false,
@@ -1326,6 +1334,26 @@
       "viaGoogle": false,
       "sourceKind": "news",
       "isNew": false
+    },
+    {
+      "id": "afa81f7cd483",
+      "title": "『薬屋のひとりごと』は何時代が舞台？モデルになった中国の唐や架空の国・茘の後宮を解説",
+      "url": "https://ciatr.jp/topics/339681",
+      "host": "ciatr.jp",
+      "source": "Ciatr",
+      "summary": "",
+      "publishedAt": "2026-10-10T01:44:06.000Z",
+      "image": "https://images.ciatr.jp/2023/02/w_828/xqW5N67seTUzuYsJrbv7vkLIDmummLj9rBnYDlQZ.jpg",
+      "categories": [
+        "goods"
+      ],
+      "works": [
+        "kusuriya"
+      ],
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": true
     },
     {
       "id": "9c9fdeea7897",
@@ -2100,7 +2128,7 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "3b6d7b2bc3d7",
@@ -2730,6 +2758,26 @@
       "isNew": false
     },
     {
+      "id": "77d799eab7e3",
+      "title": "（写真）ミュージカル『本好きの下剋上』再び！ “Wマイン”池村碧彩＆西山瑞桜、フェルディナンド役中山優貴が意気込み語る",
+      "url": "https://www.crank-in.net/stage/gallery/2_5d/189382/5",
+      "host": "crank-in.net",
+      "source": "クランクイン！",
+      "summary": "",
+      "publishedAt": "2026-10-08T10:20:00.000Z",
+      "image": "https://www.crank-in.net/img/db/265080109125291_1200.jpg",
+      "categories": [
+        "other"
+      ],
+      "works": [
+        "honzuki"
+      ],
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": true
+    },
+    {
       "id": "eda1d1a92f10",
       "title": "薬屋のひとりごと＞猫猫は、“湖に消えた美しい天女の伝説”を聞く…第50話あらすじ＆先行カット公開 (WEBザテレビジョン)",
       "url": "https://news.yahoo.co.jp/articles/6d1f93f639adeb443f6fa3044ab9caa1c467eb4b/images/000",
@@ -2982,7 +3030,7 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "3211db93c83b",
