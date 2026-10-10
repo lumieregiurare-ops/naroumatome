@@ -1,12 +1,12 @@
 {
-  "updatedAt": "2026-10-10T15:30:16.664Z",
+  "updatedAt": "2026-10-10T16:00:16.152Z",
   "site": {
     "title": "なろう系まとめ",
     "tagline": "小説家になろう発の作品のアニメ化・コミカライズ・書籍化のニュースと、なろうのランキングをまとめています。",
     "url": "https://naroumatome.gamelab.website/",
     "contactUrl": "https://docs.google.com/forms/d/e/1FAIpQLSesWyhmZ6sRS_ve-c3X2KqF_wC5PK2TgwgQbTKmnQltSlg5Jw/viewform"
   },
-  "total": 113,
+  "total": 112,
   "todayCount": 1,
   "categories": [
     {
@@ -22,7 +22,7 @@
     {
       "id": "book",
       "label": "書籍・ラノベ",
-      "count": 11
+      "count": 10
     },
     {
       "id": "web",
@@ -32,7 +32,7 @@
     {
       "id": "game",
       "label": "ゲーム",
-      "count": 5
+      "count": 4
     },
     {
       "id": "goods",
@@ -319,10 +319,6 @@
       "count": 5
     },
     {
-      "name": "Howl.Link",
-      "count": 4
-    },
-    {
       "name": "アニメイトタイムズ",
       "count": 4
     },
@@ -344,6 +340,10 @@
     },
     {
       "name": "ABEMA",
+      "count": 3
+    },
+    {
+      "name": "Howl.Link",
       "count": 3
     },
     {
@@ -584,7 +584,7 @@
       "title": "【Suupeas】初TVアニメ主題歌「Fall in Dream」配信リリース！『信者ゼロの女神サマと始める異世界攻略』EDテーマ",
       "summary": "",
       "url": "https://entameclip.com/news/490865/",
-      "image": "https://prcdn.freetls.fastly.net/release_image/25517/988/25517-988-e234a89b2d387bdfb8209cabfaf07755-3900x2759.png?format=jpeg&auto=webp&fit=bounds&width=2400&height=1260",
+      "image": "https://cdn.entameclip.com/2026/10/pic20261010Suupeas1.webp",
       "leadSource": "日刊エンタメクリップ",
       "publishedAt": "2026-10-10T12:48:03.000Z",
       "sourceCount": 4,
@@ -954,12 +954,12 @@
     }
   ],
   "churn": {
-    "previousAt": "2026-10-10T15:00:19.901Z",
-    "previousCount": 109,
-    "newCount": 5
+    "previousAt": "2026-10-10T15:30:16.664Z",
+    "previousCount": 113,
+    "newCount": 0
   },
   "updateGapMin": 30,
-  "nextUpdateAt": "2026-10-10T16:00:16.664Z",
+  "nextUpdateAt": "2026-10-10T16:30:16.152Z",
   "items": [
     {
       "id": "731e5c09e1ae",
@@ -979,7 +979,7 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "259c9739d40a",
@@ -1003,25 +1003,6 @@
       "isNew": false
     },
     {
-      "id": "4b1a3aabaa75",
-      "title": "【書籍化】転生聖女は友情エンドを目指す！ ～腐女子なのに乙女ゲームの世界に転生しちゃいましたが親友キャラとイチャイチャ百合しながら悪役令嬢と派閥抗争してます～",
-      "url": "https://t.co/75qcA1dJr3",
-      "host": "t.co",
-      "source": "Howl.Link",
-      "summary": "",
-      "publishedAt": "2026-10-10T13:52:00.000Z",
-      "image": "",
-      "categories": [
-        "book",
-        "game"
-      ],
-      "works": [],
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": false
-    },
-    {
       "id": "9947cdff8d74",
       "title": "【Suupeas】初TVアニメ主題歌「Fall in Dream」配信リリース！『信者ゼロの女神サマと始める異世界攻略』EDテーマ",
       "url": "https://entameclip.com/news/490865/",
@@ -1029,7 +1010,7 @@
       "source": "日刊エンタメクリップ",
       "summary": "",
       "publishedAt": "2026-10-10T12:48:03.000Z",
-      "image": "",
+      "image": "https://cdn.entameclip.com/2026/10/pic20261010Suupeas1.webp",
       "categories": [
         "anime"
       ],
@@ -1325,7 +1306,7 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "4450b7dbc531",
@@ -1365,7 +1346,7 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "fb4b54659ea5",
@@ -1564,7 +1545,7 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "a9b81261b86b",
@@ -2637,7 +2618,7 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "fae20073db18",
