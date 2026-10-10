@@ -1,12 +1,12 @@
 {
-  "updatedAt": "2026-10-10T02:30:18.323Z",
+  "updatedAt": "2026-10-10T03:00:16.449Z",
   "site": {
     "title": "なろう系まとめ",
     "tagline": "小説家になろう発の作品のアニメ化・コミカライズ・書籍化のニュースと、なろうのランキングをまとめています。",
     "url": "https://naroumatome.gamelab.website/",
     "contactUrl": "https://docs.google.com/forms/d/e/1FAIpQLSesWyhmZ6sRS_ve-c3X2KqF_wC5PK2TgwgQbTKmnQltSlg5Jw/viewform"
   },
-  "total": 118,
+  "total": 117,
   "todayCount": 16,
   "categories": [
     {
@@ -22,7 +22,7 @@
     {
       "id": "book",
       "label": "書籍・ラノベ",
-      "count": 10
+      "count": 9
     },
     {
       "id": "web",
@@ -37,7 +37,7 @@
     {
       "id": "goods",
       "label": "グッズ・イベント",
-      "count": 9
+      "count": 8
     },
     {
       "id": "other",
@@ -74,7 +74,7 @@
       "id": "kusuriya",
       "title": "薬屋のひとりごと",
       "short": "薬屋",
-      "count": 33
+      "count": 32
     },
     {
       "id": "kagejitsu",
@@ -296,14 +296,14 @@
   "sources": [
     {
       "name": "Yahoo!ニュース",
-      "count": 12
-    },
-    {
-      "name": "WEBザテレビジョン",
-      "count": 8
+      "count": 13
     },
     {
       "name": "アニメ！アニメ！",
+      "count": 7
+    },
+    {
+      "name": "WEBザテレビジョン",
       "count": 7
     },
     {
@@ -424,10 +424,6 @@
     },
     {
       "name": "www.banger.jp",
-      "count": 1
-    },
-    {
-      "name": "tenki.jp",
       "count": 1
     },
     {
@@ -585,7 +581,7 @@
       "leadSource": "アニメ！アニメ！",
       "publishedAt": "2026-10-09T08:10:04.000Z",
       "sourceCount": 3,
-      "articleCount": 6,
+      "articleCount": 7,
       "categories": [
         "anime"
       ],
@@ -607,6 +603,13 @@
           "url": "https://mantan-web.jp/article/20261008dog00m200065000a.html",
           "source": "MANTANWEB",
           "publishedAt": "2026-10-08T21:34:38.000Z",
+          "isPR": false
+        },
+        {
+          "title": "薬屋のひとりごと＞猫猫は、“湖に消えた美しい天女の伝説”を聞く…第50話あらすじ＆先行カット公開 (WEBザテレビジョン)",
+          "url": "https://news.yahoo.co.jp/articles/6d1f93f639adeb443f6fa3044ab9caa1c467eb4b/images/000",
+          "source": "Yahoo!ニュース",
+          "publishedAt": "2026-10-08T09:53:51.000Z",
           "isPR": false
         },
         {
@@ -958,12 +961,12 @@
     }
   ],
   "churn": {
-    "previousAt": "2026-10-10T02:00:16.578Z",
+    "previousAt": "2026-10-10T02:30:18.323Z",
     "previousCount": 118,
-    "newCount": 3
+    "newCount": 1
   },
   "updateGapMin": 30,
-  "nextUpdateAt": "2026-10-10T03:00:18.323Z",
+  "nextUpdateAt": "2026-10-10T03:30:16.449Z",
   "items": [
     {
       "id": "2ba48fbc712c",
@@ -1021,7 +1024,7 @@
       "isPR": false,
       "viaGoogle": true,
       "sourceKind": "news",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "287eb44b03ef",
@@ -1131,7 +1134,7 @@
       "source": "UtaTen",
       "summary": "",
       "publishedAt": "2026-10-09T16:58:50.000Z",
-      "image": "https://m.media-amazon.com/images/I/410i4RNjs6L._SL200_.jpg?r=2026101011",
+      "image": "https://m.media-amazon.com/images/I/410i4RNjs6L._SL200_.jpg?r=2026101012",
       "categories": [
         "anime"
       ],
@@ -1318,26 +1321,6 @@
       "viaGoogle": false,
       "sourceKind": "news",
       "isNew": false
-    },
-    {
-      "id": "938eb1aa4a66",
-      "title": "薬屋のひとりごと＞「たくさんのキノコに囲まれて幸せそう」毒茸の調査にウキウキが止まらない猫猫にほっこり【第27話】",
-      "url": "https://thetv.jp/news/detail/1443432/landing/",
-      "host": "thetv.jp",
-      "source": "WEBザテレビジョン",
-      "summary": "",
-      "publishedAt": "2026-10-09T14:11:35.000Z",
-      "image": "",
-      "categories": [
-        "anime"
-      ],
-      "works": [
-        "kusuriya"
-      ],
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": true
     },
     {
       "id": "3d0f08f8b9fb",
@@ -1894,27 +1877,6 @@
       ],
       "works": [
         "tensura"
-      ],
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": false
-    },
-    {
-      "id": "3b6d7b2bc3d7",
-      "title": "【期間限定】『薬屋のひとりごと』原作小説カフェ @TOKYOの今日・明日の天気 週末の天気・紫外線情報【お出かけスポット天気】",
-      "url": "https://tenki.jp/leisure/3/16/93/187094/",
-      "host": "tenki.jp",
-      "source": "tenki.jp",
-      "summary": "",
-      "publishedAt": "2026-10-09T06:54:04.000Z",
-      "image": "https://d2goguvysdoarq.cloudfront.net/system/facility_photos/photos/307024/normal.jpg?1777519463&w=640&h=640&t=r",
-      "categories": [
-        "book",
-        "goods"
-      ],
-      "works": [
-        "kusuriya"
       ],
       "isPR": false,
       "viaGoogle": false,
@@ -2548,6 +2510,26 @@
       "isNew": false
     },
     {
+      "id": "eda1d1a92f10",
+      "title": "薬屋のひとりごと＞猫猫は、“湖に消えた美しい天女の伝説”を聞く…第50話あらすじ＆先行カット公開 (WEBザテレビジョン)",
+      "url": "https://news.yahoo.co.jp/articles/6d1f93f639adeb443f6fa3044ab9caa1c467eb4b/images/000",
+      "host": "news.yahoo.co.jp",
+      "source": "Yahoo!ニュース",
+      "summary": "",
+      "publishedAt": "2026-10-08T09:53:51.000Z",
+      "image": "https://news-pctr.c.yimg.jp/uUzvQ3lML_bkIqyakc1vFhNrRI0RUQxg5aFkrX0xDg1_T0wXrbEJjtNGtrf1o9y3xudcUclfbXjZqAvGT8NJnR_KBjmZ10rgWZYTFRtzBXp_WjEkjxz16xCN_hqMRhRjO00AA6W1lFlkQR63wkO3vZDlpvQkMjpK55Wn3OQrngOa6JPOoOuZPe12itw0JuTmQGBjXEN3cAHWsf9bU-9Okg==",
+      "categories": [
+        "anime"
+      ],
+      "works": [
+        "kusuriya"
+      ],
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": true
+    },
+    {
       "id": "71a9cd11d0ba",
       "title": "“湖に消えた美しい天⼥の伝説”が語られる…アニメ『薬屋のひとりごと』第50話あらすじ・先行カット公開（ABEMA TIMES）",
       "url": "https://news.yahoo.co.jp/articles/7655a17a338dd863977d09279f6bc3682e552652",
@@ -2585,7 +2567,7 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "88f17a2891b7",
@@ -2961,7 +2943,7 @@
       "source": "アニメイトタイムズ",
       "summary": "",
       "publishedAt": "2026-10-07T18:35:08.000Z",
-      "image": "https://www.animatetimes.com/img/ogimage.png",
+      "image": "",
       "categories": [
         "goods"
       ],
@@ -3019,7 +3001,7 @@
       "source": "アニメイトタイムズ",
       "summary": "",
       "publishedAt": "2026-10-07T11:48:49.000Z",
-      "image": "https://www.animatetimes.com/img/ogimage.png",
+      "image": "",
       "categories": [
         "other"
       ],
@@ -3146,6 +3128,24 @@
       "isNew": false
     },
     {
+      "id": "c92419142547",
+      "title": "TVアニメ『おデブ悪女に転生したら、なぜかラスボス王子様に執着されています』ティザーPV＆キャラクタービジュアルが公開！ 葛谷直行監督ほかメインスタッフ陣からはコメントも",
+      "url": "https://eeo.today/media/2026/04/06/332572/",
+      "host": "eeo.today",
+      "source": "eeo",
+      "summary": "",
+      "publishedAt": "2026-10-07T07:00:00.000Z",
+      "image": "https://eeo.today/media/wp-content/uploads/2026/04/20260406_odebu_sub2.jpg",
+      "categories": [
+        "anime"
+      ],
+      "works": [],
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": false
+    },
+    {
       "id": "aa8c8946c794",
       "title": "TVアニメ『リゼロ』4期のエピローグビジュアルが公開！ レムが大きな瞳でスバルを見つめるビジュアルに",
       "url": "https://eeo.today/media/2026/10/01/398673/",
@@ -3176,24 +3176,6 @@
       "image": "",
       "categories": [
         "other"
-      ],
-      "works": [],
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": false
-    },
-    {
-      "id": "c92419142547",
-      "title": "TVアニメ『おデブ悪女に転生したら、なぜかラスボス王子様に執着されています』ティザーPV＆キャラクタービジュアルが公開！ 葛谷直行監督ほかメインスタッフ陣からはコメントも",
-      "url": "https://eeo.today/media/2026/04/06/332572/",
-      "host": "eeo.today",
-      "source": "eeo",
-      "summary": "",
-      "publishedAt": "2026-10-07T07:00:00.000Z",
-      "image": "https://eeo.today/media/wp-content/uploads/2026/04/20260406_odebu_sub2.jpg",
-      "categories": [
-        "anime"
       ],
       "works": [],
       "isPR": false,
