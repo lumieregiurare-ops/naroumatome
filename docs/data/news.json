@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-10T21:00:17.239Z",
+  "updatedAt": "2026-10-10T21:30:17.809Z",
   "site": {
     "title": "なろう系まとめ",
     "tagline": "小説家になろう発の作品のアニメ化・コミカライズ・書籍化のニュースと、なろうのランキングをまとめています。",
@@ -7,12 +7,12 @@
     "contactUrl": "https://docs.google.com/forms/d/e/1FAIpQLSesWyhmZ6sRS_ve-c3X2KqF_wC5PK2TgwgQbTKmnQltSlg5Jw/viewform"
   },
   "total": 115,
-  "todayCount": 2,
+  "todayCount": 4,
   "categories": [
     {
       "id": "anime",
       "label": "アニメ",
-      "count": 75
+      "count": 76
     },
     {
       "id": "comic",
@@ -42,7 +42,7 @@
     {
       "id": "other",
       "label": "そのほか",
-      "count": 18
+      "count": 17
     }
   ],
   "works": [
@@ -68,7 +68,7 @@
       "id": "honzuki",
       "title": "本好きの下剋上",
       "short": "本好き",
-      "count": 4
+      "count": 3
     },
     {
       "id": "kusuriya",
@@ -254,7 +254,7 @@
       "id": "tensei-kizoku",
       "title": "転生貴族、鑑定スキルで成り上がる",
       "short": "転生貴族",
-      "count": 1
+      "count": 2
     },
     {
       "id": "kuro-no-shokanshi",
@@ -383,6 +383,10 @@
       "count": 1
     },
     {
+      "name": "TBSテレビ",
+      "count": 1
+    },
+    {
       "name": "hobby Watch",
       "count": 1
     },
@@ -456,10 +460,6 @@
     },
     {
       "name": "TVガイドWeb",
-      "count": 1
-    },
-    {
-      "name": "クランクイン！",
       "count": 1
     },
     {
@@ -894,6 +894,34 @@
       ]
     },
     {
+      "id": "01371568aec8",
+      "title": "転生貴族、鑑定スキルで成り上がる 第３期 [字] ＃２８【アガルアニメ】",
+      "summary": "",
+      "url": "https://www.tbs.co.jp/tv/20261018_C17A.html",
+      "image": "https://www.tbs.co.jp/ro/img/ogp.png",
+      "leadSource": "TBSテレビ",
+      "publishedAt": "2026-10-10T19:34:45.000Z",
+      "sourceCount": 2,
+      "articleCount": 2,
+      "categories": [
+        "anime"
+      ],
+      "keywords": [
+        "転生貴族",
+        "スキル",
+        "鑑定"
+      ],
+      "articles": [
+        {
+          "title": "アニメ『転生貴族、鑑定スキルで成り上がる 第3期』第27話「ザットとブラッハム」のあらすじ＆先行カット解禁",
+          "url": "https://ln-news.com/articles/126912",
+          "source": "ラノベニュースオンライン",
+          "publishedAt": "2026-10-10T10:00:00.000Z",
+          "isPR": false
+        }
+      ]
+    },
+    {
       "id": "731e5c09e1ae",
       "title": "恥じらう表情に思わずドキッ！「無職転生 ～異世界行ったら本気だす～ ロキシー・M・グレイラット 寝間着Ver.」【あみあみ展示撮り下ろし】 寝間着姿をフィギュア化",
       "summary": "",
@@ -948,43 +976,15 @@
           "isPR": false
         }
       ]
-    },
-    {
-      "id": "849c6a632f1b",
-      "title": "【新台 リゼロ2】6,000発の鬼性能で帰ってきた【Re:ゼロから始める異世界生活~鬼がかり2~】【パチンコ 実践】【ペカるTVZ】",
-      "summary": "",
-      "url": "https://t.co/QuLiIBooIt",
-      "image": "",
-      "leadSource": "Howl.Link",
-      "publishedAt": "2026-10-09T11:00:29.000Z",
-      "sourceCount": 2,
-      "articleCount": 2,
-      "categories": [
-        "other"
-      ],
-      "keywords": [
-        "リゼロ",
-        "パチンコ",
-        "新台"
-      ],
-      "articles": [
-        {
-          "title": "パチンコ新台『リゼロ 鬼がかり2』導入から3日間の【9万発OVER～コンプリート】グラフ38本掲載",
-          "url": "https://p-town.dmm.com/specials/5478",
-          "source": "DMMぱちタウン",
-          "publishedAt": "2026-10-09T02:00:00.000Z",
-          "isPR": false
-        }
-      ]
     }
   ],
   "churn": {
-    "previousAt": "2026-10-10T20:30:19.672Z",
-    "previousCount": 113,
-    "newCount": 2
+    "previousAt": "2026-10-10T21:00:17.239Z",
+    "previousCount": 115,
+    "newCount": 1
   },
   "updateGapMin": 30,
-  "nextUpdateAt": "2026-10-10T21:30:17.239Z",
+  "nextUpdateAt": "2026-10-10T22:00:17.809Z",
   "items": [
     {
       "id": "259c9739d40a",
@@ -1006,6 +1006,46 @@
       "viaGoogle": false,
       "sourceKind": "news",
       "isNew": false
+    },
+    {
+      "id": "076a56e2a1d2",
+      "title": "薬屋のひとりごと＞壬氏初の“猫猫”名前呼びに「刺激が強すぎる」とファン悶絶、幽霊の正体も明らかに【第38話】",
+      "url": "https://thetv.jp/news/detail/1445408/landing/?utm_source",
+      "host": "thetv.jp",
+      "source": "WEBザテレビジョン",
+      "summary": "",
+      "publishedAt": "2026-10-10T19:45:28.000Z",
+      "image": "",
+      "categories": [
+        "anime"
+      ],
+      "works": [
+        "kusuriya"
+      ],
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": false
+    },
+    {
+      "id": "01371568aec8",
+      "title": "転生貴族、鑑定スキルで成り上がる 第３期 [字] ＃２８【アガルアニメ】",
+      "url": "https://www.tbs.co.jp/tv/20261018_C17A.html",
+      "host": "tbs.co.jp",
+      "source": "TBSテレビ",
+      "summary": "",
+      "publishedAt": "2026-10-10T19:34:45.000Z",
+      "image": "https://www.tbs.co.jp/ro/img/ogp.png",
+      "categories": [
+        "anime"
+      ],
+      "works": [
+        "tensei-kizoku"
+      ],
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": true
     },
     {
       "id": "731e5c09e1ae",
@@ -1112,26 +1152,6 @@
       "summary": "",
       "publishedAt": "2026-10-10T09:36:22.000Z",
       "image": "https://realsound.jp/wp-content/uploads/2026/10/20261010-yorushika-99.jpeg",
-      "categories": [
-        "anime"
-      ],
-      "works": [
-        "kusuriya"
-      ],
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": false
-    },
-    {
-      "id": "076a56e2a1d2",
-      "title": "薬屋のひとりごと＞壬氏初の“猫猫”名前呼びに「刺激が強すぎる」とファン悶絶、幽霊の正体も明らかに【第38話】",
-      "url": "https://thetv.jp/news/detail/1445408/landing/?utm_source",
-      "host": "thetv.jp",
-      "source": "WEBザテレビジョン",
-      "summary": "",
-      "publishedAt": "2026-10-10T09:22:00.000Z",
-      "image": "",
       "categories": [
         "anime"
       ],
@@ -1353,7 +1373,7 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "9c9fdeea7897",
@@ -2756,26 +2776,6 @@
       "viaGoogle": false,
       "sourceKind": "news",
       "isNew": false
-    },
-    {
-      "id": "77d799eab7e3",
-      "title": "（写真）ミュージカル『本好きの下剋上』再び！ “Wマイン”池村碧彩＆西山瑞桜、フェルディナンド役中山優貴が意気込み語る",
-      "url": "https://www.crank-in.net/stage/gallery/2_5d/189382/5",
-      "host": "crank-in.net",
-      "source": "クランクイン！",
-      "summary": "",
-      "publishedAt": "2026-10-08T10:20:00.000Z",
-      "image": "https://www.crank-in.net/img/db/265080109125291_1200.jpg",
-      "categories": [
-        "other"
-      ],
-      "works": [
-        "honzuki"
-      ],
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": true
     },
     {
       "id": "eda1d1a92f10",
