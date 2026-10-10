@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-10T02:00:16.578Z",
+  "updatedAt": "2026-10-10T02:30:18.323Z",
   "site": {
     "title": "なろう系まとめ",
     "tagline": "小説家になろう発の作品のアニメ化・コミカライズ・書籍化のニュースと、なろうのランキングをまとめています。",
@@ -7,7 +7,7 @@
     "contactUrl": "https://docs.google.com/forms/d/e/1FAIpQLSesWyhmZ6sRS_ve-c3X2KqF_wC5PK2TgwgQbTKmnQltSlg5Jw/viewform"
   },
   "total": 118,
-  "todayCount": 17,
+  "todayCount": 16,
   "categories": [
     {
       "id": "anime",
@@ -37,7 +37,7 @@
     {
       "id": "goods",
       "label": "グッズ・イベント",
-      "count": 10
+      "count": 9
     },
     {
       "id": "other",
@@ -74,7 +74,7 @@
       "id": "kusuriya",
       "title": "薬屋のひとりごと",
       "short": "薬屋",
-      "count": 32
+      "count": 33
     },
     {
       "id": "kagejitsu",
@@ -299,11 +299,11 @@
       "count": 12
     },
     {
-      "name": "アニメ！アニメ！",
-      "count": 7
+      "name": "WEBザテレビジョン",
+      "count": 8
     },
     {
-      "name": "WEBザテレビジョン",
+      "name": "アニメ！アニメ！",
       "count": 7
     },
     {
@@ -321,10 +321,6 @@
     {
       "name": "Unisba Media",
       "count": 6
-    },
-    {
-      "name": "山陽新聞",
-      "count": 4
     },
     {
       "name": "ABEMA",
@@ -355,6 +351,10 @@
       "count": 3
     },
     {
+      "name": "山陽新聞",
+      "count": 2
+    },
+    {
       "name": "TVer",
       "count": 2
     },
@@ -381,6 +381,10 @@
     {
       "name": "Koubo",
       "count": 2
+    },
+    {
+      "name": "ｄメニューニュース",
+      "count": 1
     },
     {
       "name": "AppMedia",
@@ -581,7 +585,7 @@
       "leadSource": "アニメ！アニメ！",
       "publishedAt": "2026-10-09T08:10:04.000Z",
       "sourceCount": 3,
-      "articleCount": 5,
+      "articleCount": 6,
       "categories": [
         "anime"
       ],
@@ -610,6 +614,13 @@
           "url": "https://news.yahoo.co.jp/articles/7655a17a338dd863977d09279f6bc3682e552652",
           "source": "Yahoo!ニュース",
           "publishedAt": "2026-10-08T09:00:38.000Z",
+          "isPR": false
+        },
+        {
+          "title": "TVアニメ『薬屋のひとりごと』第50話先行カット公開 “天女の伝説”が語られる（リアルサウンド）",
+          "url": "https://news.yahoo.co.jp/articles/738b967c348351de3f24f90fe083807753250ae1",
+          "source": "Yahoo!ニュース",
+          "publishedAt": "2026-10-08T09:00:23.000Z",
           "isPR": false
         },
         {
@@ -947,12 +958,12 @@
     }
   ],
   "churn": {
-    "previousAt": "2026-10-10T01:30:18.471Z",
-    "previousCount": 115,
-    "newCount": 5
+    "previousAt": "2026-10-10T02:00:16.578Z",
+    "previousCount": 118,
+    "newCount": 3
   },
   "updateGapMin": 30,
-  "nextUpdateAt": "2026-10-10T02:30:16.578Z",
+  "nextUpdateAt": "2026-10-10T03:00:18.323Z",
   "items": [
     {
       "id": "2ba48fbc712c",
@@ -970,7 +981,7 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "9c9fdeea7897",
@@ -989,6 +1000,26 @@
       ],
       "isPR": false,
       "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": false
+    },
+    {
+      "id": "ce3fee9f262a",
+      "title": "「薬屋のひとりごと」悠木碧らが第3期＆劇場版のアフレコ秘話を語る！新作アニメ最新情報も発表の「ABEMAアニメ祭 2026」2日目レポ",
+      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPakdlb0djbVhPa3NGTnNBQUIycVhlNFpKX3Z5bkRCdFQ5REQwbTI4dy10N1BjR21zRno1bVduSW05UUVTUl9BNXVYZ1plcU5JSnczalBjdFIzQWlqTm9wTmVIb3VMcWtwUDhucDlySkd5dGczejdRaUY2a1ZwbndWRlBUY2N5THhESHBmejdSbk54UUnSAY8BQVVfeXFMUHBCMjhKV1lveExCUEtSMlZJVi1TX0V4Y3FPZ0NxX3VlTG5UdE1CdDIzNkRkME90bndGUEpRbFNjZm1YTzJYcFhKWjFySnhVTHRKUTRCSUNLM2Vsb2ZGMDZWOGNOQ3RlZWQtTHBvaU1NZDRMdU9JSGwwRmxGbnNKY0xpUEthZVZOSnQzaEw5SUE?oc=5",
+      "host": "topics.smt.docomo.ne.jp",
+      "source": "ｄメニューニュース",
+      "summary": "",
+      "publishedAt": "2026-10-10T00:08:48.000Z",
+      "image": "",
+      "categories": [
+        "anime"
+      ],
+      "works": [
+        "kusuriya"
+      ],
+      "isPR": false,
+      "viaGoogle": true,
       "sourceKind": "news",
       "isNew": true
     },
@@ -1053,26 +1084,6 @@
       "isNew": false
     },
     {
-      "id": "fb4b54659ea5",
-      "title": "『薬屋のひとりごと』第49話あらすじ＆場面カット解禁 国を襲う災害の予兆に悩む壬氏",
-      "url": "https://www.sanyonews.jp/article/1998008",
-      "host": "sanyonews.jp",
-      "source": "山陽新聞",
-      "summary": "",
-      "publishedAt": "2026-10-09T17:30:03.000Z",
-      "image": "https://static.sanyonews.jp/image/article/size1/b/c/8/3/bc8346b17d1239476f6bda57b756d3ca_1.jpg",
-      "categories": [
-        "anime"
-      ],
-      "works": [
-        "kusuriya"
-      ],
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": true
-    },
-    {
       "id": "39bf293e490e",
       "title": "『本好きの下剋上』続編「貴族院の自称図書委員」編アニメ化決定 制作はWIT STUDIO",
       "url": "https://www.sanyonews.jp/article/1999132",
@@ -1086,27 +1097,6 @@
       ],
       "works": [
         "honzuki"
-      ],
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": false
-    },
-    {
-      "id": "80f0fa301e95",
-      "title": "『薬屋のひとりごと』第3期、ノンクレジットOP映像公開 Blu-ray発売決定でイラスト解禁",
-      "url": "https://www.sanyonews.jp/article/1998700",
-      "host": "sanyonews.jp",
-      "source": "山陽新聞",
-      "summary": "",
-      "publishedAt": "2026-10-09T17:19:23.000Z",
-      "image": "https://static.sanyonews.jp/image/article/size1/5/9/7/8/59783af7bbcdc324127e682654421cc9_1.jpg",
-      "categories": [
-        "anime",
-        "goods"
-      ],
-      "works": [
-        "kusuriya"
       ],
       "isPR": false,
       "viaGoogle": false,
@@ -1328,6 +1318,26 @@
       "viaGoogle": false,
       "sourceKind": "news",
       "isNew": false
+    },
+    {
+      "id": "938eb1aa4a66",
+      "title": "薬屋のひとりごと＞「たくさんのキノコに囲まれて幸せそう」毒茸の調査にウキウキが止まらない猫猫にほっこり【第27話】",
+      "url": "https://thetv.jp/news/detail/1443432/landing/",
+      "host": "thetv.jp",
+      "source": "WEBザテレビジョン",
+      "summary": "",
+      "publishedAt": "2026-10-09T14:11:35.000Z",
+      "image": "",
+      "categories": [
+        "anime"
+      ],
+      "works": [
+        "kusuriya"
+      ],
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": true
     },
     {
       "id": "3d0f08f8b9fb",
@@ -1676,7 +1686,7 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "e0f69fbb89be",
@@ -2558,6 +2568,26 @@
       "isNew": false
     },
     {
+      "id": "1a936bc86ebe",
+      "title": "TVアニメ『薬屋のひとりごと』第50話先行カット公開 “天女の伝説”が語られる（リアルサウンド）",
+      "url": "https://news.yahoo.co.jp/articles/738b967c348351de3f24f90fe083807753250ae1",
+      "host": "news.yahoo.co.jp",
+      "source": "Yahoo!ニュース",
+      "summary": "",
+      "publishedAt": "2026-10-08T09:00:23.000Z",
+      "image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20261008-00010048-realsound-000-1-view.jpg?exp=10800",
+      "categories": [
+        "anime"
+      ],
+      "works": [
+        "kusuriya"
+      ],
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": true
+    },
+    {
       "id": "88f17a2891b7",
       "title": "「薬屋のひとりごと」第3期50話あらすじ＆先行カット公開！（GAME Watch）",
       "url": "https://news.yahoo.co.jp/articles/68ab944dc565e48a06e586b4819b52d6a923c93b",
@@ -2720,7 +2750,7 @@
       "source": "れポたま！",
       "summary": "",
       "publishedAt": "2026-10-08T04:07:05.000Z",
-      "image": "",
+      "image": "https://repotama.com/wp-content/uploads/2026/10/ossanradio2_toyama_01.jpg",
       "categories": [
         "other"
       ],
@@ -2770,7 +2800,7 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "0ea45a62399a",
@@ -3226,24 +3256,6 @@
       "works": [
         "tensura"
       ],
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": false
-    },
-    {
-      "id": "c157a6e864e3",
-      "title": "【秋アニメ】今期の異世界追放系、チートスキルが“インターネット”？SSSランク級の神能力でWikiを操り…【先行カット】",
-      "url": "https://news.yahoo.co.jp/articles/86a6d1de3f0acf66c38ebe2bc7a1ad85ba0d852e",
-      "host": "news.yahoo.co.jp",
-      "source": "Yahoo!ニュース",
-      "summary": "",
-      "publishedAt": "2026-10-07T02:26:00.000Z",
-      "image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20261007-00112600-otakulab-000-1-view.jpg?exp=10800",
-      "categories": [
-        "anime"
-      ],
-      "works": [],
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
