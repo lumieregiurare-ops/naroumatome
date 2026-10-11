@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-11T02:00:19.278Z",
+  "updatedAt": "2026-10-11T02:30:17.948Z",
   "site": {
     "title": "なろう系まとめ",
     "tagline": "小説家になろう発の作品のアニメ化・コミカライズ・書籍化のニュースと、なろうのランキングをまとめています。",
@@ -7,12 +7,12 @@
     "contactUrl": "https://docs.google.com/forms/d/e/1FAIpQLSesWyhmZ6sRS_ve-c3X2KqF_wC5PK2TgwgQbTKmnQltSlg5Jw/viewform"
   },
   "total": 110,
-  "todayCount": 18,
+  "todayCount": 21,
   "categories": [
     {
       "id": "anime",
       "label": "アニメ",
-      "count": 78
+      "count": 77
     },
     {
       "id": "comic",
@@ -22,7 +22,7 @@
     {
       "id": "book",
       "label": "書籍・ラノベ",
-      "count": 9
+      "count": 8
     },
     {
       "id": "web",
@@ -32,17 +32,17 @@
     {
       "id": "game",
       "label": "ゲーム",
-      "count": 5
+      "count": 6
     },
     {
       "id": "goods",
       "label": "グッズ・イベント",
-      "count": 10
+      "count": 8
     },
     {
       "id": "other",
       "label": "そのほか",
-      "count": 15
+      "count": 16
     }
   ],
   "works": [
@@ -50,13 +50,13 @@
       "id": "tensura",
       "title": "転生したらスライムだった件",
       "short": "転スラ",
-      "count": 10
+      "count": 9
     },
     {
       "id": "mushoku",
       "title": "無職転生 ～異世界行ったら本気だす～",
       "short": "無職転生",
-      "count": 5
+      "count": 6
     },
     {
       "id": "rezero",
@@ -300,7 +300,7 @@
     },
     {
       "name": "WEBザテレビジョン",
-      "count": 8
+      "count": 7
     },
     {
       "name": "アニメ！アニメ！",
@@ -315,27 +315,23 @@
       "count": 5
     },
     {
-      "name": "Unisba Media",
+      "name": "山陽新聞",
       "count": 5
     },
     {
-      "name": "山陽新聞",
-      "count": 4
+      "name": "Unisba Media",
+      "count": 5
     },
     {
       "name": "ABEMA TIMES",
       "count": 4
     },
     {
-      "name": "PR TIMES",
-      "count": 4
-    },
-    {
-      "name": "ABEMA",
+      "name": "アニメイトタイムズ",
       "count": 3
     },
     {
-      "name": "Howl.Link",
+      "name": "ABEMA",
       "count": 3
     },
     {
@@ -343,7 +339,11 @@
       "count": 3
     },
     {
-      "name": "アニメイトタイムズ",
+      "name": "PR TIMES",
+      "count": 3
+    },
+    {
+      "name": "キャラグー",
       "count": 2
     },
     {
@@ -352,6 +352,10 @@
     },
     {
       "name": "eeo",
+      "count": 2
+    },
+    {
+      "name": "Howl.Link",
       "count": 2
     },
     {
@@ -372,10 +376,6 @@
     },
     {
       "name": "SmartNews",
-      "count": 1
-    },
-    {
-      "name": "キャラグー",
       "count": 1
     },
     {
@@ -455,10 +455,6 @@
       "count": 1
     },
     {
-      "name": "tenki.jp",
-      "count": 1
-    },
-    {
       "name": "USENの音楽情報サイト",
       "count": 1
     },
@@ -487,6 +483,10 @@
       "count": 1
     },
     {
+      "name": "J:magazine!",
+      "count": 1
+    },
+    {
       "name": "れポたま！",
       "count": 1
     },
@@ -509,7 +509,7 @@
       "leadSource": "ナタリー",
       "publishedAt": "2026-10-11T01:30:00.000Z",
       "sourceCount": 9,
-      "articleCount": 10,
+      "articleCount": 11,
       "categories": [
         "anime"
       ],
@@ -519,6 +519,13 @@
         "猫猫"
       ],
       "articles": [
+        {
+          "title": "『劇場版 薬屋のひとりごと』4日間連続キャラPV解禁！第1弾は猫猫・壬氏一行",
+          "url": "https://www.animatetimes.com/news/img.php?id",
+          "source": "アニメイトタイムズ",
+          "publishedAt": "2026-10-11T01:25:29.000Z",
+          "isPR": false
+        },
         {
           "title": "劇場版『薬屋のひとりごと』キャラPV第1弾が公開",
           "url": "https://news.google.com/rss/articles/CBMi6wJBVV95cUxON3liNEpLaXQ3VHhfa1hIcWE1bWpWcC1GRG9oa3J4NWhsaXJiSnByLTd2T1Zib0RuZElzRmNkUWtGRFA3UDRWa1pCblNBTDNySFJIbk85dzFMb2RYVHZXUlZJMFRkeU9qVndSZlVNbTN6SzdXR0NmSG00eVdGQUZyNndpTDB4V01hdk9fVFBNZ1g4MW5EVmZySDNXYXUzZlJhV2s5ZnRQSHJqR3NiVDRwVFVqQWlhRGFaaVNWZ0VqQTZDUWxwRkYzd0JTSmluSUFfZzhQOHFFMklwQmRxdVoxd09Db0h0ZXVwQk1La2lMODNKU2tSbnpvQlBQNDFKOE1sdVB3dUZwOVlSenFsY21vSkVUX0NKOVVKOC1xcHdaNVNRS0Q3RHZrX3o3cmliQl9EMExLdnljVy1CQmNwd1JwaTlCdmp6YWxOWFdLdFg2QjNrOGdWS0hKUlpDbTVSTHBSeUpGNG9KeHpfOGs?oc=5",
@@ -565,13 +572,6 @@
           "title": "『薬屋のひとりごと』初の劇場版、4日連続キャラクターPV解禁 第1弾は猫猫・壬氏一行",
           "url": "https://www.oricon.co.jp/news/2485762/full/",
           "source": "オリコンニュース",
-          "publishedAt": "2026-10-10T23:00:00.000Z",
-          "isPR": false
-        },
-        {
-          "title": "『劇場版 薬屋のひとりごと』キャラPVを4日連続解禁！ 第1弾は猫猫・壬氏一行を描く",
-          "url": "https://lp.p.pia.jp/article/news/515017/index.html",
-          "source": "ぴあエンタメ情報",
           "publishedAt": "2026-10-10T23:00:00.000Z",
           "isPR": false
         }
@@ -804,13 +804,13 @@
       ]
     },
     {
-      "id": "5236b7d0da28",
-      "title": "転スラ 第4期＞各々が戦いを繰り広げる中、シオンが能力を進化させる 第95話あらすじ＆場面カット公開",
+      "id": "36eed87c5eb2",
+      "title": "『転スラ』第4期の第3クールは来年7月放送 公式スピンオフ『クレイマンREVENGE』アニメ化で4月放送",
       "summary": "",
-      "url": "https://thetv.jp/news/detail/1440971/landing/?utm_source",
-      "image": "https://appmedia.jp/wp-content/uploads/2023/03/145410_zm20o.webp",
-      "leadSource": "WEBザテレビジョン",
-      "publishedAt": "2026-10-10T14:39:45.000Z",
+      "url": "https://www.sanyonews.jp/article/1994683?kw",
+      "image": "https://static.sanyonews.jp/image/article/size1/2/9/3/8/29382e58a97023a094d0382d327d534a_1.jpg",
+      "leadSource": "山陽新聞",
+      "publishedAt": "2026-10-10T15:37:02.000Z",
       "sourceCount": 3,
       "articleCount": 3,
       "categories": [
@@ -995,12 +995,12 @@
     }
   ],
   "churn": {
-    "previousAt": "2026-10-11T01:30:18.648Z",
-    "previousCount": 111,
-    "newCount": 3
+    "previousAt": "2026-10-11T02:00:19.278Z",
+    "previousCount": 110,
+    "newCount": 4
   },
   "updateGapMin": 30,
-  "nextUpdateAt": "2026-10-11T02:30:19.278Z",
+  "nextUpdateAt": "2026-10-11T03:00:17.948Z",
   "items": [
     {
       "id": "e93cc078dd62",
@@ -1011,6 +1011,26 @@
       "summary": "",
       "publishedAt": "2026-10-11T01:30:00.000Z",
       "image": "",
+      "categories": [
+        "anime"
+      ],
+      "works": [
+        "kusuriya"
+      ],
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": false
+    },
+    {
+      "id": "c9ae0ed45f4b",
+      "title": "『劇場版 薬屋のひとりごと』4日間連続キャラPV解禁！第1弾は猫猫・壬氏一行",
+      "url": "https://www.animatetimes.com/news/img.php?id",
+      "host": "animatetimes.com",
+      "source": "アニメイトタイムズ",
+      "summary": "",
+      "publishedAt": "2026-10-11T01:25:29.000Z",
+      "image": "https://www.animatetimes.com/img/ogimage.png",
       "categories": [
         "anime"
       ],
@@ -1081,6 +1101,26 @@
       "viaGoogle": false,
       "sourceKind": "news",
       "isNew": false
+    },
+    {
+      "id": "ef788a68209d",
+      "title": "でふぉフィグ! 薬屋のひとりごと キーホルダー vol.2｜薬屋のひとりごとのガチャガチャ 発売日・価格・設置場所",
+      "url": "https://charagoo.jp/gacha/item/84d56600688c/",
+      "host": "charagoo.jp",
+      "source": "キャラグー",
+      "summary": "",
+      "publishedAt": "2026-10-10T23:44:57.000Z",
+      "image": "",
+      "categories": [
+        "game"
+      ],
+      "works": [
+        "kusuriya"
+      ],
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": true
     },
     {
       "id": "454a0c5527fb",
@@ -1342,6 +1382,26 @@
       "isNew": false
     },
     {
+      "id": "36eed87c5eb2",
+      "title": "『転スラ』第4期の第3クールは来年7月放送 公式スピンオフ『クレイマンREVENGE』アニメ化で4月放送",
+      "url": "https://www.sanyonews.jp/article/1994683?kw",
+      "host": "sanyonews.jp",
+      "source": "山陽新聞",
+      "summary": "",
+      "publishedAt": "2026-10-10T15:37:02.000Z",
+      "image": "https://static.sanyonews.jp/image/article/size1/2/9/3/8/29382e58a97023a094d0382d327d534a_1.jpg",
+      "categories": [
+        "anime"
+      ],
+      "works": [
+        "tensura"
+      ],
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": true
+    },
+    {
       "id": "731e5c09e1ae",
       "title": "恥じらう表情に思わずドキッ！「無職転生 ～異世界行ったら本気だす～ ロキシー・M・グレイラット 寝間着Ver.」【あみあみ展示撮り下ろし】 寝間着姿をフィギュア化",
       "url": "https://hobby.watch.impress.co.jp/docs/special/2146410.html",
@@ -1355,26 +1415,6 @@
       ],
       "works": [
         "mushoku"
-      ],
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": false
-    },
-    {
-      "id": "5236b7d0da28",
-      "title": "転スラ 第4期＞各々が戦いを繰り広げる中、シオンが能力を進化させる 第95話あらすじ＆場面カット公開",
-      "url": "https://thetv.jp/news/detail/1440971/landing/?utm_source",
-      "host": "thetv.jp",
-      "source": "WEBザテレビジョン",
-      "summary": "",
-      "publishedAt": "2026-10-10T14:39:45.000Z",
-      "image": "",
-      "categories": [
-        "anime"
-      ],
-      "works": [
-        "tensura"
       ],
       "isPR": false,
       "viaGoogle": false,
@@ -1515,7 +1555,7 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "63c25b2f36a8",
@@ -1898,26 +1938,6 @@
         "other"
       ],
       "works": [],
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": false
-    },
-    {
-      "id": "07c5b1bbf3a5",
-      "title": "転スラ実写化予想｜佐野勇斗がリムルを演じたら？キャストを考察 : ポチたまのアニメモリー",
-      "url": "https://t.co/D3KXh2tRCA",
-      "host": "t.co",
-      "source": "Howl.Link",
-      "summary": "",
-      "publishedAt": "2026-10-09T12:00:00.000Z",
-      "image": "",
-      "categories": [
-        "anime"
-      ],
-      "works": [
-        "tensura"
-      ],
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
@@ -2342,48 +2362,6 @@
         "tensura"
       ],
       "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": false
-    },
-    {
-      "id": "3b6d7b2bc3d7",
-      "title": "【期間限定】『薬屋のひとりごと』原作小説カフェ @TOKYOの今日・明日の天気 週末の天気・紫外線情報【お出かけスポット天気】",
-      "url": "https://tenki.jp/leisure/3/16/93/187094/",
-      "host": "tenki.jp",
-      "source": "tenki.jp",
-      "summary": "",
-      "publishedAt": "2026-10-09T06:54:04.000Z",
-      "image": "https://d2goguvysdoarq.cloudfront.net/system/facility_photos/photos/307024/normal.jpg?1777519463&w=640&h=640&t=r",
-      "categories": [
-        "book",
-        "goods"
-      ],
-      "works": [
-        "kusuriya"
-      ],
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": false
-    },
-    {
-      "id": "9ed63717a398",
-      "title": "TVアニメ『薬屋のひとりごと』第3期 Blu-ray 初回生産限定版が2027年2月17日（水）より順次発売！ アニメイト特典に使用する描き下ろし＆描き起こしイラストも解禁",
-      "url": "https://prtimes.jp/main/html/rd/p/000009080.000016756.html",
-      "host": "prtimes.jp",
-      "source": "PR TIMES",
-      "summary": "",
-      "publishedAt": "2026-10-09T06:03:22.000Z",
-      "image": "https://prcdn.freetls.fastly.net/release_image/16756/9080/16756-9080-60dafe86c27c3ea9978d1461026c2977-1000x873.jpg?format=jpeg&auto=webp&fit=bounds&width=2400&height=1260",
-      "categories": [
-        "anime",
-        "goods"
-      ],
-      "works": [
-        "kusuriya"
-      ],
-      "isPR": true,
       "viaGoogle": false,
       "sourceKind": "news",
       "isNew": false
@@ -2893,7 +2871,7 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "71a9cd11d0ba",
@@ -2974,6 +2952,26 @@
       "viaGoogle": false,
       "sourceKind": "news",
       "isNew": false
+    },
+    {
+      "id": "2a1c13964505",
+      "title": "「無職転生Ⅲ」エリス役・加隈亜衣インタビュー「ルーデウスはすごいんだから」に込めた気持ち",
+      "url": "https://jmagazine.myjcom.jp/category/anime/post001528/",
+      "host": "jmagazine.myjcom.jp",
+      "source": "J:magazine!",
+      "summary": "",
+      "publishedAt": "2026-10-08T07:00:00.000Z",
+      "image": "https://jmagazine.myjcom.jp/uploads/260706_kakuma_01.jpg",
+      "categories": [
+        "other"
+      ],
+      "works": [
+        "mushoku"
+      ],
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": true
     },
     {
       "id": "c4a1909f0f5d",
