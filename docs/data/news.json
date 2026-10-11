@@ -1,12 +1,12 @@
 {
-  "updatedAt": "2026-10-10T23:30:18.083Z",
+  "updatedAt": "2026-10-11T00:00:16.918Z",
   "site": {
     "title": "なろう系まとめ",
     "tagline": "小説家になろう発の作品のアニメ化・コミカライズ・書籍化のニュースと、なろうのランキングをまとめています。",
     "url": "https://naroumatome.gamelab.website/",
     "contactUrl": "https://docs.google.com/forms/d/e/1FAIpQLSesWyhmZ6sRS_ve-c3X2KqF_wC5PK2TgwgQbTKmnQltSlg5Jw/viewform"
   },
-  "total": 112,
+  "total": 113,
   "todayCount": 15,
   "categories": [
     {
@@ -42,7 +42,7 @@
     {
       "id": "other",
       "label": "そのほか",
-      "count": 15
+      "count": 16
     }
   ],
   "works": [
@@ -62,7 +62,7 @@
       "id": "rezero",
       "title": "Re:ゼロから始める異世界生活",
       "short": "リゼロ",
-      "count": 7
+      "count": 8
     },
     {
       "id": "honzuki",
@@ -296,7 +296,7 @@
   "sources": [
     {
       "name": "Yahoo!ニュース",
-      "count": 11
+      "count": 10
     },
     {
       "name": "WEBザテレビジョン",
@@ -339,6 +339,10 @@
       "count": 3
     },
     {
+      "name": "Howl.Link",
+      "count": 3
+    },
+    {
       "name": "ｄメニューニュース",
       "count": 2
     },
@@ -352,10 +356,6 @@
     },
     {
       "name": "TVer",
-      "count": 2
-    },
-    {
-      "name": "Howl.Link",
       "count": 2
     },
     {
@@ -380,6 +380,10 @@
     },
     {
       "name": "シネマトゥデイ",
+      "count": 1
+    },
+    {
+      "name": "映画.com",
       "count": 1
     },
     {
@@ -500,7 +504,7 @@
       "image": "https://i.ytimg.com/vi/bo-P_qi2-RU/maxresdefault.jpg",
       "leadSource": "シネマトゥデイ",
       "publishedAt": "2026-10-10T23:08:56.000Z",
-      "sourceCount": 7,
+      "sourceCount": 8,
       "articleCount": 8,
       "categories": [
         "anime"
@@ -519,17 +523,17 @@
           "isPR": false
         },
         {
-          "title": "「劇場版 薬屋のひとりごと 亡妃の秘宝」猫猫・壬氏一行を描くキャラクターPV披露【初公開シーン満載】（映画.com）",
-          "url": "https://news.yahoo.co.jp/articles/e2e90700a9663aa21a1d859f4ad690e1720fc8bc",
-          "source": "Yahoo!ニュース",
-          "publishedAt": "2026-10-10T23:02:29.000Z",
-          "isPR": false
-        },
-        {
           "title": "劇場版 薬屋のひとりごと 亡妃の秘宝＞4日連続でキャラPV公開 第1弾は「猫猫・壬氏一行」 “秘蔵の薬“に目を輝かせる猫猫 壬氏の苦悩（MANTANWEB）",
           "url": "https://news.yahoo.co.jp/articles/e5ff116871c0cf2840fb3ebdb76b9b53783ebc67",
           "source": "Yahoo!ニュース",
           "publishedAt": "2026-10-10T23:01:54.000Z",
+          "isPR": false
+        },
+        {
+          "title": "「劇場版 薬屋のひとりごと 亡妃の秘宝」猫猫・壬氏一行を描くキャラクターPV披露【初公開シーン満載】",
+          "url": "https://eiga.com/news/20261011/3/",
+          "source": "映画.com",
+          "publishedAt": "2026-10-10T23:00:00.000Z",
           "isPR": false
         },
         {
@@ -750,7 +754,7 @@
       "title": "【劇場版 薬屋のひとりごと×近鉄】奈良巡る謎解きコラボ企画「猫猫・壬氏 万葉への謎旅」でオリジナル賞品ゲット！",
       "summary": "",
       "url": "https://mdpr.jp/other/4857329",
-      "image": "https://img-mdpr.freetls.fastly.net/article/l2BZ/nm/l2BZwkiWNY1CjeJM67AdrcRIAEM3z6Q2fuwb2-5RjF0.jpg?width=700&disable=upscale&auto=webp&quality=80",
+      "image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20261009-00000007-matomeshi-000-1-view.jpg?exp=10800",
       "leadSource": "モデルプレス",
       "publishedAt": "2026-10-10T20:55:17.000Z",
       "sourceCount": 3,
@@ -971,12 +975,12 @@
     }
   ],
   "churn": {
-    "previousAt": "2026-10-10T23:00:18.603Z",
+    "previousAt": "2026-10-10T23:30:18.083Z",
     "previousCount": 112,
-    "newCount": 10
+    "newCount": 1
   },
   "updateGapMin": 30,
-  "nextUpdateAt": "2026-10-11T00:00:18.083Z",
+  "nextUpdateAt": "2026-10-11T00:30:16.918Z",
   "items": [
     {
       "id": "b0e98c7e912a",
@@ -996,7 +1000,7 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "a4f8890333de",
@@ -1016,27 +1020,7 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": true
-    },
-    {
-      "id": "3df311900b8d",
-      "title": "「劇場版 薬屋のひとりごと 亡妃の秘宝」猫猫・壬氏一行を描くキャラクターPV披露【初公開シーン満載】（映画.com）",
-      "url": "https://news.yahoo.co.jp/articles/e2e90700a9663aa21a1d859f4ad690e1720fc8bc",
-      "host": "news.yahoo.co.jp",
-      "source": "Yahoo!ニュース",
-      "summary": "",
-      "publishedAt": "2026-10-10T23:02:29.000Z",
-      "image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20261011-00000003-eiga-000-1-view.jpg?exp=10800",
-      "categories": [
-        "anime"
-      ],
-      "works": [
-        "kusuriya"
-      ],
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "607864fd7b46",
@@ -1056,7 +1040,27 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": true
+      "isNew": false
+    },
+    {
+      "id": "3df311900b8d",
+      "title": "「劇場版 薬屋のひとりごと 亡妃の秘宝」猫猫・壬氏一行を描くキャラクターPV披露【初公開シーン満載】",
+      "url": "https://eiga.com/news/20261011/3/",
+      "host": "eiga.com",
+      "source": "映画.com",
+      "summary": "",
+      "publishedAt": "2026-10-10T23:00:00.000Z",
+      "image": "https://media.eiga.com/images/buzz/129770/e2172b6e3f04bf8f.jpg",
+      "categories": [
+        "anime"
+      ],
+      "works": [
+        "kusuriya"
+      ],
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": false
     },
     {
       "id": "f5851c7a41ac",
@@ -1076,7 +1080,7 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "54187a1d33b7",
@@ -1096,7 +1100,7 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "a1c002d9a68f",
@@ -1119,17 +1123,16 @@
       "isNew": false
     },
     {
-      "id": "259c9739d40a",
-      "title": "【劇場版 薬屋のひとりごと×近鉄】奈良巡る謎解きコラボ企画「猫猫・壬氏 万葉への謎旅」でオリジナル賞品ゲット！",
-      "url": "https://mdpr.jp/other/4857329",
-      "host": "mdpr.jp",
-      "source": "モデルプレス",
+      "id": "11ff5432d9b8",
+      "title": "＜薬屋のひとりごと＞壬氏初の“猫猫”名前呼びに「刺激が強すぎる」とファン悶絶、幽霊の正体も明らかに【第38話】",
+      "url": "https://thetv.jp/news/detail/1445408/18697256/",
+      "host": "thetv.jp",
+      "source": "WEBザテレビジョン",
       "summary": "",
-      "publishedAt": "2026-10-10T20:55:17.000Z",
-      "image": "https://img-mdpr.freetls.fastly.net/article/l2BZ/nm/l2BZwkiWNY1CjeJM67AdrcRIAEM3z6Q2fuwb2-5RjF0.jpg?width=700&disable=upscale&auto=webp&quality=80",
+      "publishedAt": "2026-10-10T21:50:20.000Z",
+      "image": "https://thetv.jp/i/nw/1445408/18697256.jpg?w=1284",
       "categories": [
-        "anime",
-        "goods"
+        "anime"
       ],
       "works": [
         "kusuriya"
@@ -1140,16 +1143,17 @@
       "isNew": false
     },
     {
-      "id": "11ff5432d9b8",
-      "title": "＜薬屋のひとりごと＞壬氏初の“猫猫”名前呼びに「刺激が強すぎる」とファン悶絶、幽霊の正体も明らかに【第38話】",
-      "url": "https://thetv.jp/news/detail/1445408/18697258/",
-      "host": "thetv.jp",
-      "source": "WEBザテレビジョン",
+      "id": "259c9739d40a",
+      "title": "【劇場版 薬屋のひとりごと×近鉄】奈良巡る謎解きコラボ企画「猫猫・壬氏 万葉への謎旅」でオリジナル賞品ゲット！",
+      "url": "https://mdpr.jp/other/4857329",
+      "host": "mdpr.jp",
+      "source": "モデルプレス",
       "summary": "",
-      "publishedAt": "2026-10-10T20:53:42.000Z",
-      "image": "https://thetv.jp/i/nw/1445408/18697258.jpg?w=1284",
+      "publishedAt": "2026-10-10T20:55:17.000Z",
+      "image": "",
       "categories": [
-        "anime"
+        "anime",
+        "goods"
       ],
       "works": [
         "kusuriya"
@@ -1235,7 +1239,7 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "36eed87c5eb2",
@@ -1255,7 +1259,7 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "731e5c09e1ae",
@@ -1311,6 +1315,26 @@
       ],
       "works": [
         "kusuriya"
+      ],
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": false
+    },
+    {
+      "id": "f5311e6ad7c3",
+      "title": "無職転生lll＞第2クールが2027年放送決定、津田健次郎演じるオルステッド「逃がしはしない」最新映像も公開",
+      "url": "https://thetv.jp/news/detail/1444136/landing/",
+      "host": "thetv.jp",
+      "source": "WEBザテレビジョン",
+      "summary": "",
+      "publishedAt": "2026-10-10T12:59:12.000Z",
+      "image": "",
+      "categories": [
+        "anime"
+      ],
+      "works": [
+        "mushoku"
       ],
       "isPR": false,
       "viaGoogle": false,
@@ -1621,7 +1645,7 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "0de9d62d7712",
@@ -2107,6 +2131,26 @@
       "viaGoogle": false,
       "sourceKind": "news",
       "isNew": false
+    },
+    {
+      "id": "7733fd001842",
+      "title": "【リゼロ鬼がかり2】狂いたい人は打て！色んな意味で危険すぎるんや！",
+      "url": "https://t.co/xveC2WW0dC",
+      "host": "t.co",
+      "source": "Howl.Link",
+      "summary": "",
+      "publishedAt": "2026-10-09T09:00:01.000Z",
+      "image": "",
+      "categories": [
+        "other"
+      ],
+      "works": [
+        "rezero"
+      ],
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": true
     },
     {
       "id": "17bb6890fb17",
@@ -2600,26 +2644,6 @@
       "isNew": false
     },
     {
-      "id": "f5311e6ad7c3",
-      "title": "無職転生lll＞第2クールが2027年放送決定、津田健次郎演じるオルステッド「逃がしはしない」最新映像も公開",
-      "url": "https://thetv.jp/news/detail/1444136/landing/",
-      "host": "thetv.jp",
-      "source": "WEBザテレビジョン",
-      "summary": "",
-      "publishedAt": "2026-10-08T23:52:23.000Z",
-      "image": "",
-      "categories": [
-        "anime"
-      ],
-      "works": [
-        "mushoku"
-      ],
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": false
-    },
-    {
       "id": "3acf19c0fea9",
       "title": "『リゼロ』第4期完結、スバルとレムがついに…最終話の瞬間に盛り上がり！コメント最多シーンTOP3【ランキング】（オタク総研）",
       "url": "https://news.yahoo.co.jp/articles/ab812e0aa8f6da86e61d09d509b0816f6cd45d55",
@@ -2792,7 +2816,7 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "fae20073db18",
