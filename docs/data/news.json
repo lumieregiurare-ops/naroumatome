@@ -1,28 +1,28 @@
 {
-  "updatedAt": "2026-10-11T18:00:19.328Z",
+  "updatedAt": "2026-10-11T18:30:18.004Z",
   "site": {
     "title": "なろう系まとめ",
     "tagline": "小説家になろう発の作品のアニメ化・コミカライズ・書籍化のニュースと、なろうのランキングをまとめています。",
     "url": "https://naroumatome.gamelab.website/",
     "contactUrl": "https://docs.google.com/forms/d/e/1FAIpQLSesWyhmZ6sRS_ve-c3X2KqF_wC5PK2TgwgQbTKmnQltSlg5Jw/viewform"
   },
-  "total": 104,
+  "total": 105,
   "todayCount": 3,
   "categories": [
     {
       "id": "anime",
       "label": "アニメ",
-      "count": 72
+      "count": 74
     },
     {
       "id": "comic",
       "label": "コミカライズ",
-      "count": 10
+      "count": 9
     },
     {
       "id": "book",
       "label": "書籍・ラノベ",
-      "count": 9
+      "count": 8
     },
     {
       "id": "web",
@@ -74,7 +74,7 @@
       "id": "kusuriya",
       "title": "薬屋のひとりごと",
       "short": "薬屋",
-      "count": 28
+      "count": 29
     },
     {
       "id": "kagejitsu",
@@ -164,7 +164,7 @@
       "id": "katainaka",
       "title": "片田舎のおっさん、剣聖になる",
       "short": "片田舎のおっさん",
-      "count": 3
+      "count": 2
     },
     {
       "id": "nozomanu",
@@ -296,7 +296,7 @@
   "sources": [
     {
       "name": "WEBザテレビジョン",
-      "count": 11
+      "count": 13
     },
     {
       "name": "Yahoo!ニュース",
@@ -304,7 +304,7 @@
     },
     {
       "name": "山陽新聞",
-      "count": 8
+      "count": 6
     },
     {
       "name": "ナタリー",
@@ -324,6 +324,10 @@
     },
     {
       "name": "アニメ！アニメ！",
+      "count": 3
+    },
+    {
+      "name": "ABEMA TIMES",
       "count": 3
     },
     {
@@ -360,10 +364,6 @@
     },
     {
       "name": "DMMぱちタウン",
-      "count": 2
-    },
-    {
-      "name": "ABEMA TIMES",
       "count": 2
     },
     {
@@ -921,35 +921,6 @@
       ]
     },
     {
-      "id": "7b9097539e9b",
-      "title": "「片田舎のおっさん、剣聖になる」アニメ第三期制作決定 ベリル役・平田広明も喜び爆発「みんなにモノローグを喋らせます！」",
-      "summary": "",
-      "url": "https://thetv.jp/news/detail/1443028/18602522/",
-      "image": "https://thetv.jp/i/nw/1443028/18602522.jpg?w=1284",
-      "leadSource": "WEBザテレビジョン",
-      "publishedAt": "2026-10-11T10:01:11.000Z",
-      "sourceCount": 2,
-      "articleCount": 2,
-      "categories": [
-        "anime",
-        "comic"
-      ],
-      "keywords": [
-        "片田舎のおっさん",
-        "片田舎",
-        "剣聖"
-      ],
-      "articles": [
-        {
-          "title": "『片田舎のおっさん、剣聖になる』累計1000万部突破記念！ 第1巻「0円コミック」が数量限定配布",
-          "url": "https://www.sanyonews.jp/article/1955885?kw",
-          "source": "山陽新聞",
-          "publishedAt": "2026-10-10T17:46:28.000Z",
-          "isPR": false
-        }
-      ]
-    },
-    {
       "id": "896becbcd4db",
       "title": "（写真）アニメ『本好きの下剋上 貴族院の自称図書委員』TVアニメ化決定 制作はWIT STUDIO",
       "summary": "",
@@ -1004,15 +975,44 @@
           "isPR": false
         }
       ]
+    },
+    {
+      "id": "1d08c50530d5",
+      "title": "スバルとレムの“再会の瞬間”が1位！『リゼロ4期』最終回・85話の放送時コメント最多シーンTOP3",
+      "summary": "",
+      "url": "https://times.abema.tv/articles/-/10279230",
+      "image": "https://times-abema.ismcdn.jp/mwimgs/2/5/1200w/img_25cab0ccdd3362dddf5928bce8b2ee23430203.jpg",
+      "leadSource": "ABEMA TIMES",
+      "publishedAt": "2026-10-09T10:45:00.000Z",
+      "sourceCount": 2,
+      "articleCount": 2,
+      "categories": [
+        "anime",
+        "web"
+      ],
+      "keywords": [
+        "リゼロ",
+        "top3",
+        "スバル"
+      ],
+      "articles": [
+        {
+          "title": "『リゼロ』第4期完結、スバルとレムがついに…最終話の瞬間に盛り上がり！コメント最多シーンTOP3【ランキング】（オタク総研）",
+          "url": "https://news.yahoo.co.jp/articles/ab812e0aa8f6da86e61d09d509b0816f6cd45d55",
+          "source": "Yahoo!ニュース",
+          "publishedAt": "2026-10-08T22:08:00.000Z",
+          "isPR": false
+        }
+      ]
     }
   ],
   "churn": {
-    "previousAt": "2026-10-11T17:30:17.477Z",
-    "previousCount": 102,
+    "previousAt": "2026-10-11T18:00:19.328Z",
+    "previousCount": 104,
     "newCount": 3
   },
   "updateGapMin": 30,
-  "nextUpdateAt": "2026-10-11T18:30:19.328Z",
+  "nextUpdateAt": "2026-10-11T19:00:18.004Z",
   "items": [
     {
       "id": "335dbd9b9e9c",
@@ -1129,6 +1129,24 @@
       "viaGoogle": false,
       "sourceKind": "news",
       "isNew": false
+    },
+    {
+      "id": "1c71e3e17c2d",
+      "title": "＜魔法騎士レイアース＞異世界セフィーロへ召喚された光たちは伝説の魔法騎士を目指す 第1話あらすじ＆先行カット公開",
+      "url": "https://thetv.jp/news/detail/1445381/18696847/",
+      "host": "thetv.jp",
+      "source": "WEBザテレビジョン",
+      "summary": "",
+      "publishedAt": "2026-10-11T13:19:53.000Z",
+      "image": "https://thetv.jp/i/nw/1445381/18696847.jpg?w=1284",
+      "categories": [
+        "anime"
+      ],
+      "works": [],
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": true
     },
     {
       "id": "ef7e22e88247",
@@ -1382,6 +1400,26 @@
       "viaGoogle": false,
       "sourceKind": "news",
       "isNew": false
+    },
+    {
+      "id": "650dc6efe173",
+      "title": "薬屋のひとりごと＞「これ毒です」園遊会で事件発生、猫猫が説くアレルギーの恐ろしさに共感の声【第6話】",
+      "url": "https://thetv.jp/news/detail/1441874/landing/",
+      "host": "thetv.jp",
+      "source": "WEBザテレビジョン",
+      "summary": "",
+      "publishedAt": "2026-10-11T01:26:10.000Z",
+      "image": "",
+      "categories": [
+        "anime"
+      ],
+      "works": [
+        "kusuriya"
+      ],
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": true
     },
     {
       "id": "1968922f49c2",
@@ -1640,7 +1678,7 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "01371568aec8",
@@ -1656,26 +1694,6 @@
       ],
       "works": [
         "tensei-kizoku"
-      ],
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": false
-    },
-    {
-      "id": "584c7d54d889",
-      "title": "『薬屋のひとりごと』第3期スタート！最新話に反響 消えた“友”を回想する猫猫に「泣ける」「胸がキュッとする」",
-      "url": "https://www.sanyonews.jp/article/1998830",
-      "host": "sanyonews.jp",
-      "source": "山陽新聞",
-      "summary": "",
-      "publishedAt": "2026-10-10T18:32:33.000Z",
-      "image": "https://static.sanyonews.jp/image/article/size1/c/f/b/2/cfb271cb62c557124183ba34301ee1a3_1.jpg",
-      "categories": [
-        "anime"
-      ],
-      "works": [
-        "kusuriya"
       ],
       "isPR": false,
       "viaGoogle": false,
@@ -1701,27 +1719,6 @@
       "viaGoogle": false,
       "sourceKind": "news",
       "isNew": false
-    },
-    {
-      "id": "39f6ed1a36e2",
-      "title": "『片田舎のおっさん、剣聖になる』累計1000万部突破記念！ 第1巻「0円コミック」が数量限定配布",
-      "url": "https://www.sanyonews.jp/article/1955885?kw",
-      "host": "sanyonews.jp",
-      "source": "山陽新聞",
-      "summary": "",
-      "publishedAt": "2026-10-10T17:46:28.000Z",
-      "image": "https://static.sanyonews.jp/image/article/size1/8/c/9/c/8c9c2d3962b648b4001383fbaf74f3d3_1.jpg",
-      "categories": [
-        "comic",
-        "book"
-      ],
-      "works": [
-        "katainaka"
-      ],
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": true
     },
     {
       "id": "fb3c2dce7828",
@@ -1953,7 +1950,7 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "ef6e7a8ae1f8",
@@ -2164,6 +2161,26 @@
       "viaGoogle": false,
       "sourceKind": "news",
       "isNew": false
+    },
+    {
+      "id": "95c0ba79ca99",
+      "title": "アニメ「薬屋のひとりごと」玉葉妃（ギョクヨウヒ）とは？声優・キャラ情報まとめ | アニメニュース | アニメフリークス",
+      "url": "https://times.abema.tv/articles/-/10100196",
+      "host": "times.abema.tv",
+      "source": "ABEMA TIMES",
+      "summary": "",
+      "publishedAt": "2026-10-09T17:13:00.000Z",
+      "image": "https://times-abema.ismcdn.jp/mwimgs/d/d/1200w/img_dda4c05952e3d41bdaaa80540976fa6570049.jpg",
+      "categories": [
+        "anime"
+      ],
+      "works": [
+        "kusuriya"
+      ],
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": true
     },
     {
       "id": "ee237dc8ed84",
