@@ -1,18 +1,18 @@
 {
-  "updatedAt": "2026-10-12T22:00:20.112Z",
+  "updatedAt": "2026-10-12T22:30:19.550Z",
   "site": {
     "title": "なろう系まとめ",
     "tagline": "小説家になろう発の作品のアニメ化・コミカライズ・書籍化のニュースと、なろうのランキングをまとめています。",
     "url": "https://naroumatome.gamelab.website/",
     "contactUrl": "https://docs.google.com/forms/d/e/1FAIpQLSesWyhmZ6sRS_ve-c3X2KqF_wC5PK2TgwgQbTKmnQltSlg5Jw/viewform"
   },
-  "total": 71,
+  "total": 72,
   "todayCount": 4,
   "categories": [
     {
       "id": "anime",
       "label": "アニメ",
-      "count": 53
+      "count": 54
     },
     {
       "id": "comic",
@@ -37,7 +37,7 @@
     {
       "id": "goods",
       "label": "グッズ・イベント",
-      "count": 5
+      "count": 6
     },
     {
       "id": "other",
@@ -74,7 +74,7 @@
       "id": "kusuriya",
       "title": "薬屋のひとりごと",
       "short": "薬屋",
-      "count": 25
+      "count": 26
     },
     {
       "id": "kagejitsu",
@@ -296,11 +296,11 @@
   "sources": [
     {
       "name": "山陽新聞",
-      "count": 8
+      "count": 9
     },
     {
       "name": "Yahoo!ニュース",
-      "count": 8
+      "count": 9
     },
     {
       "name": "ラノベニュースオンライン",
@@ -360,10 +360,6 @@
     },
     {
       "name": "MANTANWEB",
-      "count": 1
-    },
-    {
-      "name": "映画.com",
       "count": 1
     },
     {
@@ -464,7 +460,7 @@
       "image": "https://images.animageplus.jp/articles/67000/67974/OG/29274536b11947118aabd323365dff4b.jpg",
       "leadSource": "アニメージュプラス",
       "publishedAt": "2026-10-12T19:21:18.000Z",
-      "sourceCount": 10,
+      "sourceCount": 9,
       "articleCount": 18,
       "categories": [
         "anime",
@@ -700,10 +696,10 @@
       "id": "39bf293e490e",
       "title": "『本好きの下剋上』続編「貴族院の自称図書委員」編アニメ化決定 制作はWIT STUDIO",
       "summary": "",
-      "url": "https://www.sanyonews.jp/article/1999132?rct",
+      "url": "https://www.sanyonews.jp/article/1999132",
       "image": "https://static.sanyonews.jp/image/article/size1/e/6/b/3/e6b3aa2868f5d7e89848e029284bc7ef_1.jpg",
       "leadSource": "山陽新聞",
-      "publishedAt": "2026-10-12T06:00:39.000Z",
+      "publishedAt": "2026-10-11T20:43:29.000Z",
       "sourceCount": 2,
       "articleCount": 2,
       "categories": [
@@ -783,12 +779,12 @@
     }
   ],
   "churn": {
-    "previousAt": "2026-10-12T21:30:18.035Z",
-    "previousCount": 72,
+    "previousAt": "2026-10-12T22:00:20.112Z",
+    "previousCount": 71,
     "newCount": 1
   },
   "updateGapMin": 30,
-  "nextUpdateAt": "2026-10-12T22:30:20.112Z",
+  "nextUpdateAt": "2026-10-12T23:00:19.550Z",
   "items": [
     {
       "id": "eebe5a417210",
@@ -1020,26 +1016,6 @@
       "isNew": false
     },
     {
-      "id": "39bf293e490e",
-      "title": "『本好きの下剋上』続編「貴族院の自称図書委員」編アニメ化決定 制作はWIT STUDIO",
-      "url": "https://www.sanyonews.jp/article/1999132?rct",
-      "host": "sanyonews.jp",
-      "source": "山陽新聞",
-      "summary": "",
-      "publishedAt": "2026-10-12T06:00:39.000Z",
-      "image": "https://static.sanyonews.jp/image/article/size1/e/6/b/3/e6b3aa2868f5d7e89848e029284bc7ef_1.jpg",
-      "categories": [
-        "anime"
-      ],
-      "works": [
-        "honzuki"
-      ],
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": false
-    },
-    {
       "id": "d5f1904370de",
       "title": "『劇場版 薬屋のひとりごと』キャラPV第2弾「未の一族」公開！",
       "url": "https://www.animatetimes.com/news/details.php?id",
@@ -1243,12 +1219,12 @@
     {
       "id": "1a45a95dc023",
       "title": "「劇場版 薬屋のひとりごと 亡妃の秘宝」猫猫たちが旅先で出会う「未の一族」キャラPV披露 沐清役の伊瀬茉莉也がコメント発表",
-      "url": "https://eiga.com/l/0BpLw",
-      "host": "eiga.com",
-      "source": "映画.com",
+      "url": "https://news.yahoo.co.jp/articles/da3d21f984da6f0d4ddd277920c31612d6769b1c",
+      "host": "news.yahoo.co.jp",
+      "source": "Yahoo!ニュース",
       "summary": "",
       "publishedAt": "2026-10-11T23:00:00.000Z",
-      "image": "https://media.eiga.com/images/buzz/129771/4d3f85bcfb316791.jpg",
+      "image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20261012-00000004-eiga-000-2-view.jpg?exp=10800",
       "categories": [
         "anime"
       ],
@@ -1297,6 +1273,47 @@
       "viaGoogle": false,
       "sourceKind": "news",
       "isNew": false
+    },
+    {
+      "id": "39bf293e490e",
+      "title": "『本好きの下剋上』続編「貴族院の自称図書委員」編アニメ化決定 制作はWIT STUDIO",
+      "url": "https://www.sanyonews.jp/article/1999132",
+      "host": "sanyonews.jp",
+      "source": "山陽新聞",
+      "summary": "",
+      "publishedAt": "2026-10-11T20:43:29.000Z",
+      "image": "https://static.sanyonews.jp/image/article/size1/e/6/b/3/e6b3aa2868f5d7e89848e029284bc7ef_1.jpg",
+      "categories": [
+        "anime"
+      ],
+      "works": [
+        "honzuki"
+      ],
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": false
+    },
+    {
+      "id": "80f0fa301e95",
+      "title": "『薬屋のひとりごと』第3期、ノンクレジットOP映像公開 Blu-ray発売決定でイラスト解禁",
+      "url": "https://www.sanyonews.jp/article/1998700",
+      "host": "sanyonews.jp",
+      "source": "山陽新聞",
+      "summary": "",
+      "publishedAt": "2026-10-11T18:57:14.000Z",
+      "image": "https://static.sanyonews.jp/image/article/size1/5/9/7/8/59783af7bbcdc324127e682654421cc9_1.jpg",
+      "categories": [
+        "anime",
+        "goods"
+      ],
+      "works": [
+        "kusuriya"
+      ],
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": true
     },
     {
       "id": "4a7965d5df0d",
@@ -1603,7 +1620,7 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "f5851c7a41ac",
