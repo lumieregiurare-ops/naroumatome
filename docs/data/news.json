@@ -1,23 +1,23 @@
 {
-  "updatedAt": "2026-10-12T06:00:18.434Z",
+  "updatedAt": "2026-10-12T06:30:17.655Z",
   "site": {
     "title": "なろう系まとめ",
     "tagline": "小説家になろう発の作品のアニメ化・コミカライズ・書籍化のニュースと、なろうのランキングをまとめています。",
     "url": "https://naroumatome.gamelab.website/",
     "contactUrl": "https://docs.google.com/forms/d/e/1FAIpQLSesWyhmZ6sRS_ve-c3X2KqF_wC5PK2TgwgQbTKmnQltSlg5Jw/viewform"
   },
-  "total": 98,
-  "todayCount": 22,
+  "total": 95,
+  "todayCount": 20,
   "categories": [
     {
       "id": "anime",
       "label": "アニメ",
-      "count": 67
+      "count": 66
     },
     {
       "id": "comic",
       "label": "コミカライズ",
-      "count": 7
+      "count": 6
     },
     {
       "id": "book",
@@ -42,7 +42,7 @@
     {
       "id": "other",
       "label": "そのほか",
-      "count": 15
+      "count": 14
     }
   ],
   "works": [
@@ -62,7 +62,7 @@
       "id": "rezero",
       "title": "Re:ゼロから始める異世界生活",
       "short": "リゼロ",
-      "count": 5
+      "count": 4
     },
     {
       "id": "honzuki",
@@ -295,11 +295,11 @@
   ],
   "sources": [
     {
-      "name": "WEBザテレビジョン",
-      "count": 11
+      "name": "山陽新聞",
+      "count": 10
     },
     {
-      "name": "山陽新聞",
+      "name": "WEBザテレビジョン",
       "count": 9
     },
     {
@@ -376,10 +376,6 @@
     },
     {
       "name": "ぴあエンタメ情報",
-      "count": 1
-    },
-    {
-      "name": "ネタフル",
       "count": 1
     },
     {
@@ -480,10 +476,6 @@
     },
     {
       "name": "AppMedia",
-      "count": 1
-    },
-    {
-      "name": "MANTANWEB",
       "count": 1
     }
   ],
@@ -815,7 +807,7 @@
       "leadSource": "山陽新聞",
       "publishedAt": "2026-10-12T01:31:25.000Z",
       "sourceCount": 2,
-      "articleCount": 3,
+      "articleCount": 4,
       "categories": [
         "anime"
       ],
@@ -830,6 +822,13 @@
           "url": "https://www.sanyonews.jp/article/2000331",
           "source": "山陽新聞",
           "publishedAt": "2026-10-11T21:52:19.000Z",
+          "isPR": false
+        },
+        {
+          "title": "『薬屋のひとりごと』第3期PV解禁 新たな試練に猫猫・壬氏が立ち向かう！EDはEve「AIYOU」",
+          "url": "https://www.sanyonews.jp/article/1994631?kw",
+          "source": "山陽新聞",
+          "publishedAt": "2026-10-11T15:17:53.000Z",
           "isPR": false
         },
         {
@@ -991,12 +990,12 @@
     }
   ],
   "churn": {
-    "previousAt": "2026-10-12T05:30:18.303Z",
-    "previousCount": 95,
-    "newCount": 5
+    "previousAt": "2026-10-12T06:00:18.434Z",
+    "previousCount": 98,
+    "newCount": 1
   },
   "updateGapMin": 30,
-  "nextUpdateAt": "2026-10-12T06:30:18.434Z",
+  "nextUpdateAt": "2026-10-12T07:00:17.655Z",
   "items": [
     {
       "id": "335dbd9b9e9c",
@@ -1036,7 +1035,7 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "b398d2ab00c5",
@@ -1168,7 +1167,7 @@
       "source": "映画情報どっとこむ",
       "summary": "",
       "publishedAt": "2026-10-12T00:30:59.000Z",
-      "image": "",
+      "image": "https://eigajoho.com/wp-content/uploads/2026/10/『劇場版-薬屋のひとりごと-亡妃の秘宝』ティザービジュアル（横）.jpg",
       "categories": [
         "anime"
       ],
@@ -1301,24 +1300,6 @@
       "isNew": false
     },
     {
-      "id": "9c9cafd3497e",
-      "title": "【Kindleセール】最大60%オフ＆期間限定無料「マガジンハウス 漫画祭り」おっさんは異世界で想いを遂げる・生きのびるための事務・没落令嬢の悪党賛歌・そうです、私が美容バカです。・きょうの猫村さん・pink・日本の兄弟など（10/12ま…",
-      "url": "https://netaful.jp/kindle-sale/0210751.html",
-      "host": "netaful.jp",
-      "source": "ネタフル",
-      "summary": "",
-      "publishedAt": "2026-10-11T22:00:00.000Z",
-      "image": "",
-      "categories": [
-        "comic"
-      ],
-      "works": [],
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": true
-    },
-    {
       "id": "38bd432a186c",
       "title": "『薬屋のひとりごと』悠木碧＆大塚剛央、猫猫＆壬氏は“飼い主と猫” 第3期では「ぐっと濃度高め」【インタビュー】",
       "url": "https://www.sanyonews.jp/article/2000331",
@@ -1359,46 +1340,6 @@
       "isNew": false
     },
     {
-      "id": "0e169364ddb1",
-      "title": "Re:ゼロ＞《奪還編》最終話放送記念エピローグビジュアル公開 小林裕介＆水瀬いのりからコメント到着",
-      "url": "https://thetv.jp/news/detail/1445042/landing/",
-      "host": "thetv.jp",
-      "source": "WEBザテレビジョン",
-      "summary": "",
-      "publishedAt": "2026-10-11T21:41:16.000Z",
-      "image": "",
-      "categories": [
-        "anime"
-      ],
-      "works": [
-        "rezero"
-      ],
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": true
-    },
-    {
-      "id": "68134e94962d",
-      "title": "＜薬屋のひとりごと＞「痺れた！」梨花妃の平手打ちに感心の一方、ラストで見せた帝の表情に“意味深”の声【第30話】",
-      "url": "https://thetv.jp/news/detail/1443760/18639005/",
-      "host": "thetv.jp",
-      "source": "WEBザテレビジョン",
-      "summary": "",
-      "publishedAt": "2026-10-11T18:49:38.000Z",
-      "image": "https://thetv.jp/i/nw/1443760/18639005.jpg?w=1284",
-      "categories": [
-        "anime"
-      ],
-      "works": [
-        "kusuriya"
-      ],
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": true
-    },
-    {
       "id": "11ff5432d9b8",
       "title": "＜薬屋のひとりごと＞壬氏初の“猫猫”名前呼びに「刺激が強すぎる」とファン悶絶、幽霊の正体も明らかに【第38話】",
       "url": "https://thetv.jp/news/detail/1445408/18697256/",
@@ -1417,6 +1358,26 @@
       "viaGoogle": false,
       "sourceKind": "news",
       "isNew": false
+    },
+    {
+      "id": "18c526d244a0",
+      "title": "『薬屋のひとりごと』第3期PV解禁 新たな試練に猫猫・壬氏が立ち向かう！EDはEve「AIYOU」",
+      "url": "https://www.sanyonews.jp/article/1994631?kw",
+      "host": "sanyonews.jp",
+      "source": "山陽新聞",
+      "summary": "",
+      "publishedAt": "2026-10-11T15:17:53.000Z",
+      "image": "https://static.sanyonews.jp/image/article/size1/1/c/6/b/1c6b7cb3359369a685532b39dc471fca_1.jpg",
+      "categories": [
+        "anime"
+      ],
+      "works": [
+        "kusuriya"
+      ],
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": true
     },
     {
       "id": "86c279374abe",
@@ -1508,7 +1469,7 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "33b61f494476",
@@ -2592,15 +2553,15 @@
     },
     {
       "id": "49c1b601a681",
-      "title": "「少年アウルのほんわか異世界ライフ ～新しいご主人と巡り合い最強パーティーとゆったり生活します～」試し読み",
-      "url": "https://natalie.mu/comic/gallery/news/693068/2988015",
+      "title": "「少年アウルのほんわか異世界ライフ ～新しいご主人と巡り合い最強パーティーとゆったり生活します～」1巻（帯付き）",
+      "url": "https://natalie.mu/comic/gallery/news/693068/2988021",
       "host": "natalie.mu",
       "source": "ナタリー",
       "summary": "",
-      "publishedAt": "2026-10-09T10:01:51.000Z",
+      "publishedAt": "2026-10-09T10:01:44.000Z",
       "image": "",
       "categories": [
-        "other"
+        "book"
       ],
       "works": [],
       "isPR": false,
@@ -2866,24 +2827,6 @@
       "works": [
         "mushoku"
       ],
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": false
-    },
-    {
-      "id": "fae20073db18",
-      "title": "なんと今なら4巻分無料で読める！大人気異世界転生ファンタジー『姫騎士がクラスメート！THE COMIC』",
-      "url": "https://mantan-web.jp/prtimes/article/20261009prt00m200000105a.html",
-      "host": "mantan-web.jp",
-      "source": "MANTANWEB",
-      "summary": "",
-      "publishedAt": "2026-10-09T06:14:46.000Z",
-      "image": "https://prtimes.jp/img/49835/1031/resize/d49835-1031-fd244d28e5ff0646cc3b-18.jpg",
-      "categories": [
-        "book"
-      ],
-      "works": [],
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
