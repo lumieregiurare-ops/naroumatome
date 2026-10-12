@@ -1,18 +1,18 @@
 {
-  "updatedAt": "2026-10-12T22:30:19.550Z",
+  "updatedAt": "2026-10-12T23:00:19.974Z",
   "site": {
     "title": "なろう系まとめ",
     "tagline": "小説家になろう発の作品のアニメ化・コミカライズ・書籍化のニュースと、なろうのランキングをまとめています。",
     "url": "https://naroumatome.gamelab.website/",
     "contactUrl": "https://docs.google.com/forms/d/e/1FAIpQLSesWyhmZ6sRS_ve-c3X2KqF_wC5PK2TgwgQbTKmnQltSlg5Jw/viewform"
   },
-  "total": 72,
+  "total": 70,
   "todayCount": 4,
   "categories": [
     {
       "id": "anime",
       "label": "アニメ",
-      "count": 54
+      "count": 53
     },
     {
       "id": "comic",
@@ -37,12 +37,12 @@
     {
       "id": "goods",
       "label": "グッズ・イベント",
-      "count": 6
+      "count": 5
     },
     {
       "id": "other",
       "label": "そのほか",
-      "count": 11
+      "count": 10
     }
   ],
   "works": [
@@ -295,12 +295,12 @@
   ],
   "sources": [
     {
-      "name": "山陽新聞",
+      "name": "Yahoo!ニュース",
       "count": 9
     },
     {
-      "name": "Yahoo!ニュース",
-      "count": 9
+      "name": "山陽新聞",
+      "count": 8
     },
     {
       "name": "ラノベニュースオンライン",
@@ -309,10 +309,6 @@
     {
       "name": "WEBザテレビジョン",
       "count": 4
-    },
-    {
-      "name": "TVer",
-      "count": 3
     },
     {
       "name": "Excite エキサイト",
@@ -340,6 +336,10 @@
     },
     {
       "name": "J:magazine!",
+      "count": 2
+    },
+    {
+      "name": "ナタリー",
       "count": 2
     },
     {
@@ -403,11 +403,11 @@
       "count": 1
     },
     {
-      "name": "オリコンニュース",
+      "name": "TVer",
       "count": 1
     },
     {
-      "name": "ナタリー",
+      "name": "オリコンニュース",
       "count": 1
     },
     {
@@ -460,8 +460,8 @@
       "image": "https://images.animageplus.jp/articles/67000/67974/OG/29274536b11947118aabd323365dff4b.jpg",
       "leadSource": "アニメージュプラス",
       "publishedAt": "2026-10-12T19:21:18.000Z",
-      "sourceCount": 9,
-      "articleCount": 18,
+      "sourceCount": 10,
+      "articleCount": 19,
       "categories": [
         "anime",
         "goods"
@@ -779,12 +779,12 @@
     }
   ],
   "churn": {
-    "previousAt": "2026-10-12T22:00:20.112Z",
-    "previousCount": 71,
+    "previousAt": "2026-10-12T22:30:19.550Z",
+    "previousCount": 72,
     "newCount": 1
   },
   "updateGapMin": 30,
-  "nextUpdateAt": "2026-10-12T23:00:19.550Z",
+  "nextUpdateAt": "2026-10-12T23:30:19.974Z",
   "items": [
     {
       "id": "eebe5a417210",
@@ -1295,27 +1295,6 @@
       "isNew": false
     },
     {
-      "id": "80f0fa301e95",
-      "title": "『薬屋のひとりごと』第3期、ノンクレジットOP映像公開 Blu-ray発売決定でイラスト解禁",
-      "url": "https://www.sanyonews.jp/article/1998700",
-      "host": "sanyonews.jp",
-      "source": "山陽新聞",
-      "summary": "",
-      "publishedAt": "2026-10-11T18:57:14.000Z",
-      "image": "https://static.sanyonews.jp/image/article/size1/5/9/7/8/59783af7bbcdc324127e682654421cc9_1.jpg",
-      "categories": [
-        "anime",
-        "goods"
-      ],
-      "works": [
-        "kusuriya"
-      ],
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": true
-    },
-    {
       "id": "4a7965d5df0d",
       "title": "「薬屋のひとりごと」ファンも注目！スパダリなアオルイポン（敖瑞鵬）の魅力を堪能できる「朝雪録〈あさゆきろく〉」【相関図付き】",
       "url": "https://jmagazine.myjcom.jp/category/asiadrama/post001802/",
@@ -1581,6 +1560,26 @@
       "viaGoogle": false,
       "sourceKind": "news",
       "isNew": false
+    },
+    {
+      "id": "e93cc078dd62",
+      "title": "「劇場版 薬屋のひとりごと」猫猫や壬氏を描くキャラクターPVを本日より4日連続公開（動画あり）",
+      "url": "https://natalie.mu/comic/news/693292",
+      "host": "natalie.mu",
+      "source": "ナタリー",
+      "summary": "",
+      "publishedAt": "2026-10-11T01:30:00.000Z",
+      "image": "",
+      "categories": [
+        "anime"
+      ],
+      "works": [
+        "kusuriya"
+      ],
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": true
     },
     {
       "id": "54187a1d33b7",
@@ -2144,42 +2143,6 @@
       "works": [
         "kusuriya"
       ],
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": false
-    },
-    {
-      "id": "59149e1741b2",
-      "title": "転生した大聖女は、聖女であることをひた隠す",
-      "url": "https://tver.jp/series/sryn00uyq5",
-      "host": "tver.jp",
-      "source": "TVer",
-      "summary": "",
-      "publishedAt": "2026-10-09T22:58:36.000Z",
-      "image": "",
-      "categories": [
-        "other"
-      ],
-      "works": [],
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": false
-    },
-    {
-      "id": "22a7e97a39c5",
-      "title": "転生ゴブリンだけど質問ある？｜アニメ／ヒーロー｜見逃し無料配信はTVer！人気の動画見放題",
-      "url": "https://tver.jp/series/srg30tsddq",
-      "host": "tver.jp",
-      "source": "TVer",
-      "summary": "",
-      "publishedAt": "2026-10-09T22:58:28.000Z",
-      "image": "",
-      "categories": [
-        "anime"
-      ],
-      "works": [],
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
