@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-12T18:30:19.072Z",
+  "updatedAt": "2026-10-12T19:00:22.189Z",
   "site": {
     "title": "なろう系まとめ",
     "tagline": "小説家になろう発の作品のアニメ化・コミカライズ・書籍化のニュースと、なろうのランキングをまとめています。",
@@ -7,7 +7,7 @@
     "contactUrl": "https://docs.google.com/forms/d/e/1FAIpQLSesWyhmZ6sRS_ve-c3X2KqF_wC5PK2TgwgQbTKmnQltSlg5Jw/viewform"
   },
   "total": 70,
-  "todayCount": 1,
+  "todayCount": 2,
   "categories": [
     {
       "id": "anime",
@@ -295,12 +295,12 @@
   ],
   "sources": [
     {
-      "name": "Yahoo!ニュース",
+      "name": "山陽新聞",
       "count": 8
     },
     {
-      "name": "山陽新聞",
-      "count": 8
+      "name": "Yahoo!ニュース",
+      "count": 7
     },
     {
       "name": "WEBザテレビジョン",
@@ -309,6 +309,10 @@
     {
       "name": "ラノベニュースオンライン",
       "count": 4
+    },
+    {
+      "name": "TVer",
+      "count": 3
     },
     {
       "name": "Excite エキサイト",
@@ -320,6 +324,10 @@
     },
     {
       "name": "電撃オンライン",
+      "count": 2
+    },
+    {
+      "name": "マイナビニュース",
       "count": 2
     },
     {
@@ -335,10 +343,6 @@
       "count": 2
     },
     {
-      "name": "TVer",
-      "count": 2
-    },
-    {
       "name": "DMMぱちタウン",
       "count": 2
     },
@@ -347,19 +351,11 @@
       "count": 1
     },
     {
-      "name": "ABEMA",
-      "count": 1
-    },
-    {
       "name": "アニメイトタイムズ",
       "count": 1
     },
     {
       "name": "shiritomo",
-      "count": 1
-    },
-    {
-      "name": "マイナビニュース",
       "count": 1
     },
     {
@@ -464,7 +460,7 @@
       "image": "https://www.pashplus.jp/wp-content/uploads/13b4a761351d0fd9dc0e16e1034cb23d.jpg",
       "leadSource": "PASH! PLUS",
       "publishedAt": "2026-10-12T15:25:59.000Z",
-      "sourceCount": 8,
+      "sourceCount": 9,
       "articleCount": 15,
       "categories": [
         "anime",
@@ -745,7 +741,7 @@
       "url": "https://www.sanyonews.jp/article/2000331",
       "image": "https://static.sanyonews.jp/image/article/size1/2/c/0/a/2c0a47a674293e870055695768acac2c_1.jpg",
       "leadSource": "山陽新聞",
-      "publishedAt": "2026-10-12T06:26:34.000Z",
+      "publishedAt": "2026-10-12T17:43:59.000Z",
       "sourceCount": 2,
       "articleCount": 3,
       "categories": [
@@ -810,34 +806,6 @@
       ]
     },
     {
-      "id": "93041da54e2d",
-      "title": "転生ゴブリンだけど質問ある？ #3【地上波1週間先行・WEB最速】",
-      "summary": "",
-      "url": "https://abema.tv/channels/abema-anime/slots/9QLZ74tUEJjNqm",
-      "image": "",
-      "leadSource": "ABEMA",
-      "publishedAt": "2026-10-12T14:59:02.000Z",
-      "sourceCount": 2,
-      "articleCount": 2,
-      "categories": [
-        "other",
-        "anime"
-      ],
-      "keywords": [
-        "ゴブリン",
-        "質問"
-      ],
-      "articles": [
-        {
-          "title": "第3話 転生ゴブリンだけど質問ある？",
-          "url": "https://thetv.jp/program/0001077857/3/",
-          "source": "WEBザテレビジョン",
-          "publishedAt": "2026-10-12T09:36:31.000Z",
-          "isPR": false
-        }
-      ]
-    },
-    {
       "id": "7b9097539e9b",
       "title": "「片田舎のおっさん、剣聖になる」アニメ第三期制作決定 ベリル役・平田広明も喜び爆発「みんなにモノローグを喋らせます！」",
       "summary": "",
@@ -896,13 +864,33 @@
     }
   ],
   "churn": {
-    "previousAt": "2026-10-12T18:00:20.463Z",
-    "previousCount": 71,
+    "previousAt": "2026-10-12T18:30:19.072Z",
+    "previousCount": 70,
     "newCount": 2
   },
   "updateGapMin": 30,
-  "nextUpdateAt": "2026-10-12T19:00:19.072Z",
+  "nextUpdateAt": "2026-10-12T19:30:22.189Z",
   "items": [
+    {
+      "id": "38bd432a186c",
+      "title": "『薬屋のひとりごと』悠木碧＆大塚剛央、猫猫＆壬氏は“飼い主と猫” 第3期では「ぐっと濃度高め」【インタビュー】",
+      "url": "https://www.sanyonews.jp/article/2000331",
+      "host": "sanyonews.jp",
+      "source": "山陽新聞",
+      "summary": "",
+      "publishedAt": "2026-10-12T17:43:59.000Z",
+      "image": "https://static.sanyonews.jp/image/article/size1/2/c/0/a/2c0a47a674293e870055695768acac2c_1.jpg",
+      "categories": [
+        "anime"
+      ],
+      "works": [
+        "kusuriya"
+      ],
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": false
+    },
     {
       "id": "e0d506a56a4c",
       "title": "『劇場版 薬屋のひとりごと 亡妃の秘宝』物語の舞台・未南州を治める“未の一族”に焦点を当てたPVが解禁！ 追加キャストに飛田展男さん、渡辺久美子さん、野島裕史さんも発表",
@@ -919,24 +907,6 @@
       "works": [
         "kusuriya"
       ],
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": false
-    },
-    {
-      "id": "93041da54e2d",
-      "title": "転生ゴブリンだけど質問ある？ #3【地上波1週間先行・WEB最速】",
-      "url": "https://abema.tv/channels/abema-anime/slots/9QLZ74tUEJjNqm",
-      "host": "abema.tv",
-      "source": "ABEMA",
-      "summary": "",
-      "publishedAt": "2026-10-12T14:59:02.000Z",
-      "image": "",
-      "categories": [
-        "other"
-      ],
-      "works": [],
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
@@ -1086,26 +1056,6 @@
         "anime"
       ],
       "works": [],
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": false
-    },
-    {
-      "id": "38bd432a186c",
-      "title": "『薬屋のひとりごと』悠木碧＆大塚剛央、猫猫＆壬氏は“飼い主と猫” 第3期では「ぐっと濃度高め」【インタビュー】",
-      "url": "https://www.sanyonews.jp/article/2000331",
-      "host": "sanyonews.jp",
-      "source": "山陽新聞",
-      "summary": "",
-      "publishedAt": "2026-10-12T06:26:34.000Z",
-      "image": "https://static.sanyonews.jp/image/article/size1/2/c/0/a/2c0a47a674293e870055695768acac2c_1.jpg",
-      "categories": [
-        "anime"
-      ],
-      "works": [
-        "kusuriya"
-      ],
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
@@ -1448,7 +1398,7 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "fd265deb7fbd",
@@ -1467,6 +1417,26 @@
       "viaGoogle": false,
       "sourceKind": "news",
       "isNew": false
+    },
+    {
+      "id": "e258fff09de1",
+      "title": "映画『薬屋のひとりごと』猫猫・壬氏一行のキャラクターPV公開 - 4日連続で新映像解禁",
+      "url": "https://news.mynavi.jp/article/20261011-5112915/",
+      "host": "news.mynavi.jp",
+      "source": "マイナビニュース",
+      "summary": "",
+      "publishedAt": "2026-10-11T13:04:17.000Z",
+      "image": "https://news.mynavi.jp/article/20261011-5112915/ogp_images/ogp.jpg",
+      "categories": [
+        "anime"
+      ],
+      "works": [
+        "kusuriya"
+      ],
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": true
     },
     {
       "id": "14172b90ece2",
@@ -1676,26 +1646,6 @@
       "viaGoogle": false,
       "sourceKind": "news",
       "isNew": false
-    },
-    {
-      "id": "f5851c7a41ac",
-      "title": "「薬屋のひとりごと」劇場版、4日連続キャラPV公開！第一弾は猫猫＆壬氏一行 (シネマトゥデイ)",
-      "url": "https://news.yahoo.co.jp/articles/f45ea84bc309ec8c4395f648d6c4674baa8e2e5e/images/000",
-      "host": "news.yahoo.co.jp",
-      "source": "Yahoo!ニュース",
-      "summary": "",
-      "publishedAt": "2026-10-10T23:00:02.000Z",
-      "image": "https://news-pctr.c.yimg.jp/uUzvQ3lML_bkIqyakc1vFhNrRI0RUQxg5aFkrX0xDg1_T0wXrbEJjtNGtrf1o9y3xudcUclfbXjZqAvGT8NJnZASuDo38pHngR-wlYe66coSJgGthQksBs2og5FRoS7Smw-hXJapLexNq-ewoP9f9Vgbs8gKyRaHrqjdSfLKKW5aUOR1pV56NYGTa1S5wnlY",
-      "categories": [
-        "anime"
-      ],
-      "works": [
-        "kusuriya"
-      ],
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": true
     },
     {
       "id": "607864fd7b46",
@@ -2201,6 +2151,24 @@
       "viaGoogle": false,
       "sourceKind": "news",
       "isNew": false
+    },
+    {
+      "id": "59149e1741b2",
+      "title": "転生した大聖女は、聖女であることをひた隠す",
+      "url": "https://tver.jp/series/sryn00uyq5",
+      "host": "tver.jp",
+      "source": "TVer",
+      "summary": "",
+      "publishedAt": "2026-10-09T22:58:36.000Z",
+      "image": "",
+      "categories": [
+        "other"
+      ],
+      "works": [],
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": true
     },
     {
       "id": "22a7e97a39c5",
