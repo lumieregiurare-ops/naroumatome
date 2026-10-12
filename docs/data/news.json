@@ -1,18 +1,18 @@
 {
-  "updatedAt": "2026-10-12T12:00:51.740Z",
+  "updatedAt": "2026-10-12T12:30:24.857Z",
   "site": {
     "title": "なろう系まとめ",
     "tagline": "小説家になろう発の作品のアニメ化・コミカライズ・書籍化のニュースと、なろうのランキングをまとめています。",
     "url": "https://naroumatome.gamelab.website/",
     "contactUrl": "https://docs.google.com/forms/d/e/1FAIpQLSesWyhmZ6sRS_ve-c3X2KqF_wC5PK2TgwgQbTKmnQltSlg5Jw/viewform"
   },
-  "total": 82,
+  "total": 78,
   "todayCount": 30,
   "categories": [
     {
       "id": "anime",
       "label": "アニメ",
-      "count": 61
+      "count": 58
     },
     {
       "id": "comic",
@@ -32,7 +32,7 @@
     {
       "id": "game",
       "label": "ゲーム",
-      "count": 3
+      "count": 2
     },
     {
       "id": "goods",
@@ -42,7 +42,7 @@
     {
       "id": "other",
       "label": "そのほか",
-      "count": 11
+      "count": 10
     }
   ],
   "works": [
@@ -74,7 +74,7 @@
       "id": "kusuriya",
       "title": "薬屋のひとりごと",
       "short": "薬屋",
-      "count": 29
+      "count": 28
     },
     {
       "id": "kagejitsu",
@@ -295,12 +295,12 @@
   ],
   "sources": [
     {
-      "name": "WEBザテレビジョン",
+      "name": "山陽新聞",
       "count": 10
     },
     {
-      "name": "山陽新聞",
-      "count": 10
+      "name": "WEBザテレビジョン",
+      "count": 7
     },
     {
       "name": "Yahoo!ニュース",
@@ -331,10 +331,6 @@
       "count": 2
     },
     {
-      "name": "マイナビニュース",
-      "count": 2
-    },
-    {
       "name": "シネマトゥデイ",
       "count": 2
     },
@@ -343,11 +339,11 @@
       "count": 2
     },
     {
-      "name": "アットエス",
+      "name": "ニコニコニュース",
       "count": 2
     },
     {
-      "name": "ナタリー",
+      "name": "アットエス",
       "count": 2
     },
     {
@@ -368,6 +364,10 @@
     },
     {
       "name": "shiritomo",
+      "count": 1
+    },
+    {
+      "name": "マイナビニュース",
       "count": 1
     },
     {
@@ -399,10 +399,6 @@
       "count": 1
     },
     {
-      "name": "ニコニコニュース",
-      "count": 1
-    },
-    {
       "name": "週刊アスキー",
       "count": 1
     },
@@ -412,6 +408,10 @@
     },
     {
       "name": "クランクイン！",
+      "count": 1
+    },
+    {
+      "name": "ナタリー",
       "count": 1
     },
     {
@@ -623,49 +623,6 @@
       ]
     },
     {
-      "id": "4c062e74d77b",
-      "title": "TVアニメ『異世界魔王と召喚少女の奴隷魔術 ULT』待望の第3期が始動！",
-      "summary": "",
-      "url": "https://www.at-s.com/media/articles/anime/isekai-maou-anime-season3-ult/",
-      "image": "https://assets.ln-news.com/images/medias/434c443ce12142189d7ecb63785e01f3.jpg",
-      "leadSource": "アットエス",
-      "publishedAt": "2026-10-11T08:49:17.000Z",
-      "sourceCount": 3,
-      "articleCount": 4,
-      "categories": [
-        "anime",
-        "other"
-      ],
-      "keywords": [
-        "ult",
-        "異世界魔王",
-        "召喚少女"
-      ],
-      "articles": [
-        {
-          "title": "アニメ『異世界魔王と召喚少女の奴隷魔術ULT』ウェディングドレス姿のシェラ＆レムを描いたティザービジュアルが解禁",
-          "url": "https://ln-news.com/articles/126919",
-          "source": "ラノベニュースオンライン",
-          "publishedAt": "2026-10-10T05:30:00.000Z",
-          "isPR": false
-        },
-        {
-          "title": "『転生したら剣でしたII』最新情報が続々解禁！",
-          "url": "https://www.at-s.com/media/articles/anime/tenken-anime-s2-latest-info/",
-          "source": "アットエス",
-          "publishedAt": "2026-10-09T21:43:14.000Z",
-          "isPR": false
-        },
-        {
-          "title": "異世界魔王と召喚少女の奴隷魔術ULT",
-          "url": "https://natalie.mu/comic/anime/1841",
-          "source": "ナタリー",
-          "publishedAt": "2026-10-09T12:27:12.000Z",
-          "isPR": false
-        }
-      ]
-    },
-    {
       "id": "5cb05c5afa83",
       "title": "『無職転生 ～異世界行ったら本気だす～』ロキシーの「寝間着Ver.」1/6スケールフィギュアがカドストにて予約受付中！羞恥心とルーデウスへの想いに揺れ動く姿を立体化！",
       "summary": "",
@@ -785,48 +742,49 @@
       ]
     },
     {
-      "id": "38bd432a186c",
-      "title": "『薬屋のひとりごと』悠木碧＆大塚剛央、猫猫＆壬氏は“飼い主と猫” 第3期では「ぐっと濃度高め」【インタビュー】",
+      "id": "4c062e74d77b",
+      "title": "TVアニメ『異世界魔王と召喚少女の奴隷魔術 ULT』待望の第3期が始動！",
       "summary": "",
-      "url": "https://www.sanyonews.jp/article/2000331",
-      "image": "https://static.sanyonews.jp/image/article/size1/2/c/0/a/2c0a47a674293e870055695768acac2c_1.jpg",
-      "leadSource": "山陽新聞",
-      "publishedAt": "2026-10-12T06:26:34.000Z",
+      "url": "https://www.at-s.com/media/articles/anime/isekai-maou-anime-season3-ult/",
+      "image": "https://assets.ln-news.com/images/medias/434c443ce12142189d7ecb63785e01f3.jpg",
+      "leadSource": "アットエス",
+      "publishedAt": "2026-10-11T08:49:17.000Z",
       "sourceCount": 2,
       "articleCount": 3,
       "categories": [
-        "anime"
+        "anime",
+        "other"
       ],
       "keywords": [
-        "薬屋",
-        "猫猫",
-        "壬氏"
+        "ult",
+        "異世界魔王",
+        "召喚少女"
       ],
       "articles": [
         {
-          "title": "『薬屋のひとりごと』第3期、猫猫＆壬氏に新たな試練、『鑑定スキル』など話題作続々 J:COM STREAM秋アニメ発表",
-          "url": "https://www.sanyonews.jp/article/1999895",
-          "source": "山陽新聞",
-          "publishedAt": "2026-10-12T01:31:25.000Z",
+          "title": "アニメ『異世界魔王と召喚少女の奴隷魔術ULT』ウェディングドレス姿のシェラ＆レムを描いたティザービジュアルが解禁",
+          "url": "https://ln-news.com/articles/126919",
+          "source": "ラノベニュースオンライン",
+          "publishedAt": "2026-10-10T05:30:00.000Z",
           "isPR": false
         },
         {
-          "title": "薬屋のひとりごと＞「心臓止まりそうになった」猫猫に人工呼吸、抱き寄せまで…壬氏の大胆すぎる行動に視聴者悶絶【第35話】",
-          "url": "https://thetv.jp/news/detail/1444089/landing/",
-          "source": "WEBザテレビジョン",
-          "publishedAt": "2026-10-11T21:10:33.000Z",
+          "title": "『転生したら剣でしたII』最新情報が続々解禁！",
+          "url": "https://www.at-s.com/media/articles/anime/tenken-anime-s2-latest-info/",
+          "source": "アットエス",
+          "publishedAt": "2026-10-09T21:43:14.000Z",
           "isPR": false
         }
       ]
     },
     {
-      "id": "896becbcd4db",
-      "title": "（写真）アニメ『本好きの下剋上 貴族院の自称図書委員』TVアニメ化決定 制作はWIT STUDIO",
+      "id": "39bf293e490e",
+      "title": "『本好きの下剋上』続編「貴族院の自称図書委員」編アニメ化決定 制作はWIT STUDIO",
       "summary": "",
-      "url": "https://www.crank-in.net/gallery/news/192108/recommend",
-      "image": "https://www.crank-in.net/img/db/262103029126318_1200.jpg",
-      "leadSource": "クランクイン！",
-      "publishedAt": "2026-10-11T06:15:00.000Z",
+      "url": "https://www.sanyonews.jp/article/1999132",
+      "image": "https://static.sanyonews.jp/image/article/size1/e/6/b/3/e6b3aa2868f5d7e89848e029284bc7ef_1.jpg",
+      "leadSource": "山陽新聞",
+      "publishedAt": "2026-10-11T20:43:29.000Z",
       "sourceCount": 2,
       "articleCount": 2,
       "categories": [
@@ -839,10 +797,10 @@
       ],
       "articles": [
         {
-          "title": "『本好きの下剋上』続編「貴族院の自称図書委員」編アニメ化決定 制作はWIT STUDIO",
-          "url": "https://www.sanyonews.jp/article/1999132",
-          "source": "山陽新聞",
-          "publishedAt": "2026-10-09T17:22:01.000Z",
+          "title": "（写真）アニメ『本好きの下剋上 貴族院の自称図書委員』TVアニメ化決定 制作はWIT STUDIO",
+          "url": "https://www.crank-in.net/gallery/news/192108/recommend",
+          "source": "クランクイン！",
+          "publishedAt": "2026-10-11T06:15:00.000Z",
           "isPR": false
         }
       ]
@@ -878,12 +836,12 @@
     }
   ],
   "churn": {
-    "previousAt": "2026-10-12T11:30:19.621Z",
-    "previousCount": 81,
-    "newCount": 4
+    "previousAt": "2026-10-12T12:00:51.740Z",
+    "previousCount": 82,
+    "newCount": 2
   },
   "updateGapMin": 30,
-  "nextUpdateAt": "2026-10-12T12:30:51.740Z",
+  "nextUpdateAt": "2026-10-12T13:00:24.857Z",
   "items": [
     {
       "id": "adef61b54256",
@@ -1001,24 +959,6 @@
       "isNew": false
     },
     {
-      "id": "1ae849702326",
-      "title": "異世界ファンタジーの金字塔「彼方から」、黒沢ともよ&熊谷健太郎が語るアニメ版の魅力と原作の強さ",
-      "url": "https://thetv.jp/news/detail/1441677/landing/",
-      "host": "thetv.jp",
-      "source": "WEBザテレビジョン",
-      "summary": "",
-      "publishedAt": "2026-10-12T07:02:37.000Z",
-      "image": "",
-      "categories": [
-        "anime"
-      ],
-      "works": [],
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": true
-    },
-    {
       "id": "38bd432a186c",
       "title": "『薬屋のひとりごと』悠木碧＆大塚剛央、猫猫＆壬氏は“飼い主と猫” 第3期では「ぐっと濃度高め」【インタビュー】",
       "url": "https://www.sanyonews.jp/article/2000331",
@@ -1076,7 +1016,7 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "d5f1904370de",
@@ -1358,6 +1298,26 @@
       "isNew": false
     },
     {
+      "id": "54187a1d33b7",
+      "title": "『劇場版 薬屋のひとりごと』キャラPVを4日連続解禁！ 第1弾は猫猫・壬氏一行を描く",
+      "url": "https://news.nicovideo.jp/watch/nw19869667?news_ref",
+      "host": "news.nicovideo.jp",
+      "source": "ニコニコニュース",
+      "summary": "",
+      "publishedAt": "2026-10-11T21:48:24.000Z",
+      "image": "",
+      "categories": [
+        "anime"
+      ],
+      "works": [
+        "kusuriya"
+      ],
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": true
+    },
+    {
       "id": "0e169364ddb1",
       "title": "Re:ゼロ＞《奪還編》最終話放送記念エピローグビジュアル公開 小林裕介＆水瀬いのりからコメント到着",
       "url": "https://thetv.jp/news/detail/1445042/landing/",
@@ -1378,19 +1338,19 @@
       "isNew": false
     },
     {
-      "id": "fec4e230c121",
-      "title": "薬屋のひとりごと＞「心臓止まりそうになった」猫猫に人工呼吸、抱き寄せまで…壬氏の大胆すぎる行動に視聴者悶絶【第35話】",
-      "url": "https://thetv.jp/news/detail/1444089/landing/",
-      "host": "thetv.jp",
-      "source": "WEBザテレビジョン",
+      "id": "39bf293e490e",
+      "title": "『本好きの下剋上』続編「貴族院の自称図書委員」編アニメ化決定 制作はWIT STUDIO",
+      "url": "https://www.sanyonews.jp/article/1999132",
+      "host": "sanyonews.jp",
+      "source": "山陽新聞",
       "summary": "",
-      "publishedAt": "2026-10-11T21:10:33.000Z",
-      "image": "",
+      "publishedAt": "2026-10-11T20:43:29.000Z",
+      "image": "https://static.sanyonews.jp/image/article/size1/e/6/b/3/e6b3aa2868f5d7e89848e029284bc7ef_1.jpg",
       "categories": [
         "anime"
       ],
       "works": [
-        "kusuriya"
+        "honzuki"
       ],
       "isPR": false,
       "viaGoogle": false,
@@ -1398,14 +1358,32 @@
       "isNew": false
     },
     {
-      "id": "11ff5432d9b8",
-      "title": "＜薬屋のひとりごと＞壬氏初の“猫猫”名前呼びに「刺激が強すぎる」とファン悶絶、幽霊の正体も明らかに【第38話】",
-      "url": "https://thetv.jp/news/detail/1445408/18697256/",
+      "id": "1c71e3e17c2d",
+      "title": "＜魔法騎士レイアース＞異世界セフィーロへ召喚された光たちは伝説の魔法騎士を目指す 第1話あらすじ＆先行カット公開",
+      "url": "https://thetv.jp/news/detail/1445381/18696846/",
       "host": "thetv.jp",
       "source": "WEBザテレビジョン",
       "summary": "",
-      "publishedAt": "2026-10-11T18:07:26.000Z",
-      "image": "https://thetv.jp/i/nw/1445408/18697256.jpg?w=1284",
+      "publishedAt": "2026-10-11T19:24:21.000Z",
+      "image": "https://thetv.jp/i/nw/1445381/18696846.jpg?w=1284",
+      "categories": [
+        "anime"
+      ],
+      "works": [],
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": false
+    },
+    {
+      "id": "1968922f49c2",
+      "title": "＜薬屋のひとりごと＞「めちゃくちゃサービス回」「眼福」猫猫×小蘭×子翠の湯殿シーンに癒される視聴者続出【第37話】",
+      "url": "https://thetv.jp/news/detail/1445260/18694652/",
+      "host": "thetv.jp",
+      "source": "WEBザテレビジョン",
+      "summary": "",
+      "publishedAt": "2026-10-11T18:41:16.000Z",
+      "image": "https://thetv.jp/i/nw/1445260/18694652.jpg?w=1284",
       "categories": [
         "anime"
       ],
@@ -1415,7 +1393,7 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": false
+      "isNew": true
     },
     {
       "id": "4a7965d5df0d",
@@ -1432,24 +1410,6 @@
       "works": [
         "kusuriya"
       ],
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": false
-    },
-    {
-      "id": "1c71e3e17c2d",
-      "title": "＜魔法騎士レイアース＞異世界セフィーロへ召喚された光たちは伝説の魔法騎士を目指す 第1話あらすじ＆先行カット公開",
-      "url": "https://thetv.jp/news/detail/1445381/18696845/",
-      "host": "thetv.jp",
-      "source": "WEBザテレビジョン",
-      "summary": "",
-      "publishedAt": "2026-10-11T15:11:41.000Z",
-      "image": "https://thetv.jp/i/nw/1445381/18696845.jpg?w=1284",
-      "categories": [
-        "anime"
-      ],
-      "works": [],
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
@@ -1527,45 +1487,6 @@
       "viaGoogle": false,
       "sourceKind": "news",
       "isNew": false
-    },
-    {
-      "id": "ef7e22e88247",
-      "title": "弱気MAX令嬢＞乙女ゲームのモブ悪役令嬢に転生したピアは国外追放される運命だと悟る…第1話あらすじ＆先行カット公開",
-      "url": "https://thetv.jp/news/detail/1445545/landing/",
-      "host": "thetv.jp",
-      "source": "WEBザテレビジョン",
-      "summary": "",
-      "publishedAt": "2026-10-11T13:06:26.000Z",
-      "image": "",
-      "categories": [
-        "anime",
-        "game"
-      ],
-      "works": [],
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": false
-    },
-    {
-      "id": "e258fff09de1",
-      "title": "映画『薬屋のひとりごと』猫猫・壬氏一行のキャラクターPV公開 - 4日連続で新映像解禁",
-      "url": "https://news.mynavi.jp/article/20261011-5112915/",
-      "host": "news.mynavi.jp",
-      "source": "マイナビニュース",
-      "summary": "",
-      "publishedAt": "2026-10-11T13:04:17.000Z",
-      "image": "https://news.mynavi.jp/article/20261011-5112915/ogp_images/ogp.jpg",
-      "categories": [
-        "anime"
-      ],
-      "works": [
-        "kusuriya"
-      ],
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": true
     },
     {
       "id": "14172b90ece2",
@@ -2343,26 +2264,6 @@
       "isNew": false
     },
     {
-      "id": "39bf293e490e",
-      "title": "『本好きの下剋上』続編「貴族院の自称図書委員」編アニメ化決定 制作はWIT STUDIO",
-      "url": "https://www.sanyonews.jp/article/1999132",
-      "host": "sanyonews.jp",
-      "source": "山陽新聞",
-      "summary": "",
-      "publishedAt": "2026-10-09T17:22:01.000Z",
-      "image": "https://static.sanyonews.jp/image/article/size1/e/6/b/3/e6b3aa2868f5d7e89848e029284bc7ef_1.jpg",
-      "categories": [
-        "anime"
-      ],
-      "works": [
-        "honzuki"
-      ],
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": false
-    },
-    {
       "id": "ee237dc8ed84",
       "title": "アニメ『薬屋のひとりごと』3期はいつから？2026年10月2日から分割2クールで放送！原作のどこからどこまで？",
       "url": "https://times.abema.tv/articles/-/10078716",
@@ -2451,24 +2352,6 @@
       "image": "https://prtimes.jp/img/25517/988/resize/d25517-988-a9733a417954f6ded40c-14.png",
       "categories": [
         "anime"
-      ],
-      "works": [],
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": true
-    },
-    {
-      "id": "99417508da9d",
-      "title": "異世界魔王と召喚少女の奴隷魔術ULT",
-      "url": "https://natalie.mu/comic/anime/1841",
-      "host": "natalie.mu",
-      "source": "ナタリー",
-      "summary": "",
-      "publishedAt": "2026-10-09T12:27:12.000Z",
-      "image": "",
-      "categories": [
-        "other"
       ],
       "works": [],
       "isPR": false,
