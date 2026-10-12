@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-12T14:00:21.744Z",
+  "updatedAt": "2026-10-12T14:30:21.107Z",
   "site": {
     "title": "なろう系まとめ",
     "tagline": "小説家になろう発の作品のアニメ化・コミカライズ・書籍化のニュースと、なろうのランキングをまとめています。",
@@ -319,15 +319,15 @@
       "count": 2
     },
     {
-      "name": "PASH! PLUS",
-      "count": 2
-    },
-    {
       "name": "MANTANWEB",
       "count": 2
     },
     {
       "name": "オリコンニュース",
+      "count": 2
+    },
+    {
+      "name": "ニコニコニュース",
       "count": 2
     },
     {
@@ -344,6 +344,10 @@
     },
     {
       "name": "Howl.link",
+      "count": 1
+    },
+    {
+      "name": "PASH! PLUS",
       "count": 1
     },
     {
@@ -392,10 +396,6 @@
     },
     {
       "name": "電撃ホビーウェブ",
-      "count": 1
-    },
-    {
-      "name": "ニコニコニュース",
       "count": 1
     },
     {
@@ -476,7 +476,7 @@
       "image": "https://www.pashplus.jp/wp-content/uploads/13b4a761351d0fd9dc0e16e1034cb23d.jpg",
       "leadSource": "PASH! PLUS",
       "publishedAt": "2026-10-12T09:40:52.000Z",
-      "sourceCount": 9,
+      "sourceCount": 10,
       "articleCount": 16,
       "categories": [
         "anime",
@@ -488,13 +488,6 @@
         "キャラ"
       ],
       "articles": [
-        {
-          "title": "『劇場版 薬屋のひとりごと 亡妃の秘宝』初解禁シーン満載！ 猫猫・壬氏一行を描くキャラクターPVが解禁",
-          "url": "https://www.pashplus.jp/anime/498434/",
-          "source": "PASH! PLUS",
-          "publishedAt": "2026-10-12T09:35:57.000Z",
-          "isPR": false
-        },
         {
           "title": "【劇場版 薬屋のひとりごと】4日間連続キャラクターPV公開！",
           "url": "https://animageplus.jp/articles/detail/67974",
@@ -542,6 +535,13 @@
           "url": "https://mantan-web.jp/article/20261009dog00m200095000a.html",
           "source": "MANTANWEB",
           "publishedAt": "2026-10-11T23:05:07.000Z",
+          "isPR": false
+        },
+        {
+          "title": "「薬屋のひとりごと」劇場版“未の一族”キャスト発表＆キャラPV公開（シネマトゥデイ）",
+          "url": "https://news.yahoo.co.jp/articles/414c8c9bc99fd635f54fbe5d22142f84d3244491",
+          "source": "Yahoo!ニュース",
+          "publishedAt": "2026-10-11T23:00:04.000Z",
           "isPR": false
         }
       ]
@@ -845,12 +845,12 @@
     }
   ],
   "churn": {
-    "previousAt": "2026-10-12T13:30:21.367Z",
-    "previousCount": 76,
-    "newCount": 2
+    "previousAt": "2026-10-12T14:00:21.744Z",
+    "previousCount": 75,
+    "newCount": 1
   },
   "updateGapMin": 30,
-  "nextUpdateAt": "2026-10-12T14:30:21.744Z",
+  "nextUpdateAt": "2026-10-12T15:00:21.107Z",
   "items": [
     {
       "id": "01af27d3240a",
@@ -870,7 +870,7 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "adef61b54256",
@@ -930,26 +930,6 @@
       "isNew": false
     },
     {
-      "id": "335dbd9b9e9c",
-      "title": "『劇場版 薬屋のひとりごと 亡妃の秘宝』初解禁シーン満載！ 猫猫・壬氏一行を描くキャラクターPVが解禁",
-      "url": "https://www.pashplus.jp/anime/498434/",
-      "host": "pashplus.jp",
-      "source": "PASH! PLUS",
-      "summary": "",
-      "publishedAt": "2026-10-12T09:35:57.000Z",
-      "image": "https://www.pashplus.jp/wp-content/uploads/58ec1529f751497603076755e8201d01.jpg",
-      "categories": [
-        "anime"
-      ],
-      "works": [
-        "kusuriya"
-      ],
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": false
-    },
-    {
       "id": "b592a08c0bdd",
       "title": "【劇場版 薬屋のひとりごと】4日間連続キャラクターPV公開！",
       "url": "https://animageplus.jp/articles/detail/67974",
@@ -957,7 +937,7 @@
       "source": "アニメージュプラス",
       "summary": "",
       "publishedAt": "2026-10-12T09:33:16.000Z",
-      "image": "",
+      "image": "https://images.animageplus.jp/articles/67000/67974/OG/29274536b11947118aabd323365dff4b.jpg",
       "categories": [
         "anime"
       ],
@@ -1156,7 +1136,7 @@
       "source": "映画情報どっとこむ",
       "summary": "",
       "publishedAt": "2026-10-12T00:30:59.000Z",
-      "image": "https://eigajoho.com/wp-content/uploads/2026/10/『劇場版-薬屋のひとりごと-亡妃の秘宝』ティザービジュアル（横）.jpg",
+      "image": "",
       "categories": [
         "anime"
       ],
@@ -1256,7 +1236,7 @@
       "source": "Yahoo!ニュース",
       "summary": "",
       "publishedAt": "2026-10-11T23:00:00.000Z",
-      "image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20261012-00000004-eiga-000-1-view.jpg?exp=10800",
+      "image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20261012-00000004-eiga-000-2-view.jpg?exp=10800",
       "categories": [
         "anime"
       ],
@@ -1305,6 +1285,26 @@
       "viaGoogle": false,
       "sourceKind": "news",
       "isNew": false
+    },
+    {
+      "id": "54187a1d33b7",
+      "title": "『劇場版 薬屋のひとりごと』キャラPVを4日連続解禁！ 第1弾は猫猫・壬氏一行を描く",
+      "url": "https://news.nicovideo.jp/watch/nw19869667?news_ref",
+      "host": "news.nicovideo.jp",
+      "source": "ニコニコニュース",
+      "summary": "",
+      "publishedAt": "2026-10-11T21:48:24.000Z",
+      "image": "",
+      "categories": [
+        "anime"
+      ],
+      "works": [
+        "kusuriya"
+      ],
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": true
     },
     {
       "id": "0e169364ddb1",
@@ -1552,7 +1552,7 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "83180980eccb",
