@@ -1,18 +1,18 @@
 {
-  "updatedAt": "2026-10-12T07:00:16.514Z",
+  "updatedAt": "2026-10-12T07:30:16.291Z",
   "site": {
     "title": "なろう系まとめ",
     "tagline": "小説家になろう発の作品のアニメ化・コミカライズ・書籍化のニュースと、なろうのランキングをまとめています。",
     "url": "https://naroumatome.gamelab.website/",
     "contactUrl": "https://docs.google.com/forms/d/e/1FAIpQLSesWyhmZ6sRS_ve-c3X2KqF_wC5PK2TgwgQbTKmnQltSlg5Jw/viewform"
   },
-  "total": 93,
+  "total": 92,
   "todayCount": 20,
   "categories": [
     {
       "id": "anime",
       "label": "アニメ",
-      "count": 64
+      "count": 63
     },
     {
       "id": "comic",
@@ -22,7 +22,7 @@
     {
       "id": "book",
       "label": "書籍・ラノベ",
-      "count": 9
+      "count": 8
     },
     {
       "id": "web",
@@ -37,12 +37,12 @@
     {
       "id": "goods",
       "label": "グッズ・イベント",
-      "count": 8
+      "count": 7
     },
     {
       "id": "other",
       "label": "そのほか",
-      "count": 14
+      "count": 15
     }
   ],
   "works": [
@@ -50,7 +50,7 @@
       "id": "tensura",
       "title": "転生したらスライムだった件",
       "short": "転スラ",
-      "count": 7
+      "count": 6
     },
     {
       "id": "mushoku",
@@ -295,12 +295,12 @@
   ],
   "sources": [
     {
-      "name": "山陽新聞",
-      "count": 9
+      "name": "WEBザテレビジョン",
+      "count": 10
     },
     {
-      "name": "WEBザテレビジョン",
-      "count": 9
+      "name": "山陽新聞",
+      "count": 8
     },
     {
       "name": "Yahoo!ニュース",
@@ -468,10 +468,6 @@
     },
     {
       "name": "千葉テレビ放送",
-      "count": 1
-    },
-    {
-      "name": "Unisba Media",
       "count": 1
     }
   ],
@@ -858,34 +854,6 @@
       ]
     },
     {
-      "id": "3a9055d0c240",
-      "title": "『薬屋のひとりごと』第3期 Blu-ray 初回生産限定版、アニメイトで2027年2月17日より順次発売！",
-      "summary": "",
-      "url": "https://news.nicovideo.jp/watch/nw19870329?news_ref",
-      "image": "https://static.sanyonews.jp/image/article/size1/5/9/7/8/59783af7bbcdc324127e682654421cc9_1.jpg",
-      "leadSource": "ニコニコニュース",
-      "publishedAt": "2026-10-12T04:30:41.000Z",
-      "sourceCount": 2,
-      "articleCount": 2,
-      "categories": [
-        "anime",
-        "goods"
-      ],
-      "keywords": [
-        "薬屋",
-        "blu-ray"
-      ],
-      "articles": [
-        {
-          "title": "『薬屋のひとりごと』第3期、ノンクレジットOP映像公開 Blu-ray発売決定でイラスト解禁",
-          "url": "https://www.sanyonews.jp/article/1998700",
-          "source": "山陽新聞",
-          "publishedAt": "2026-10-11T18:57:14.000Z",
-          "isPR": false
-        }
-      ]
-    },
-    {
       "id": "896becbcd4db",
       "title": "（写真）アニメ『本好きの下剋上 貴族院の自称図書委員』TVアニメ化決定 制作はWIT STUDIO",
       "summary": "",
@@ -969,15 +937,44 @@
           "isPR": false
         }
       ]
+    },
+    {
+      "id": "92a35b697ee6",
+      "title": "追放された転生重騎士はゲーム知識で無双する #16【WEB最速】",
+      "summary": "",
+      "url": "https://abema.tv/channels/abema-anime/slots/9QLZ4dzHwy4YBh",
+      "image": "https://www.chiba-tv.com/vod-db/wp-content/uploads/2026/06/eyecatch_tsuihou-jukishi-anime.png",
+      "leadSource": "ABEMA",
+      "publishedAt": "2026-10-09T14:36:03.000Z",
+      "sourceCount": 2,
+      "articleCount": 2,
+      "categories": [
+        "game",
+        "anime"
+      ],
+      "keywords": [
+        "ゲーム",
+        "追放",
+        "転生重騎士"
+      ],
+      "articles": [
+        {
+          "title": "アニメ『追放された転生重騎士はゲーム知識で無双する』はどこで見れる？サブスク・配信サービスを全調査 | VODB! by チバテレ",
+          "url": "https://www.chiba-tv.com/vod-db/tsuihou-jukishi-anime/",
+          "source": "千葉テレビ放送株式会社",
+          "publishedAt": "2026-10-09T10:34:37.000Z",
+          "isPR": false
+        }
+      ]
     }
   ],
   "churn": {
-    "previousAt": "2026-10-12T06:30:17.655Z",
-    "previousCount": 95,
-    "newCount": 2
+    "previousAt": "2026-10-12T07:00:16.514Z",
+    "previousCount": 93,
+    "newCount": 1
   },
   "updateGapMin": 30,
-  "nextUpdateAt": "2026-10-12T07:30:16.514Z",
+  "nextUpdateAt": "2026-10-12T08:00:16.291Z",
   "items": [
     {
       "id": "335dbd9b9e9c",
@@ -1322,17 +1319,16 @@
       "isNew": false
     },
     {
-      "id": "80f0fa301e95",
-      "title": "『薬屋のひとりごと』第3期、ノンクレジットOP映像公開 Blu-ray発売決定でイラスト解禁",
-      "url": "https://www.sanyonews.jp/article/1998700",
-      "host": "sanyonews.jp",
-      "source": "山陽新聞",
+      "id": "68134e94962d",
+      "title": "＜薬屋のひとりごと＞「痺れた！」梨花妃の平手打ちに感心の一方、ラストで見せた帝の表情に“意味深”の声【第30話】",
+      "url": "https://thetv.jp/news/detail/1443760/18639005/",
+      "host": "thetv.jp",
+      "source": "WEBザテレビジョン",
       "summary": "",
-      "publishedAt": "2026-10-11T18:57:14.000Z",
-      "image": "https://static.sanyonews.jp/image/article/size1/5/9/7/8/59783af7bbcdc324127e682654421cc9_1.jpg",
+      "publishedAt": "2026-10-11T18:49:38.000Z",
+      "image": "https://thetv.jp/i/nw/1443760/18639005.jpg?w=1284",
       "categories": [
-        "anime",
-        "goods"
+        "anime"
       ],
       "works": [
         "kusuriya"
@@ -2552,19 +2548,19 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "49c1b601a681",
-      "title": "「少年アウルのほんわか異世界ライフ ～新しいご主人と巡り合い最強パーティーとゆったり生活します～」1巻（帯付き）",
-      "url": "https://natalie.mu/comic/gallery/news/693068/2988021",
+      "title": "「少年アウルのほんわか異世界ライフ ～新しいご主人と巡り合い最強パーティーとゆったり生活します～」試し読み",
+      "url": "https://natalie.mu/comic/gallery/news/693068/2988015",
       "host": "natalie.mu",
       "source": "ナタリー",
       "summary": "",
-      "publishedAt": "2026-10-09T10:01:44.000Z",
+      "publishedAt": "2026-10-09T10:01:51.000Z",
       "image": "",
       "categories": [
-        "book"
+        "other"
       ],
       "works": [],
       "isPR": false,
@@ -2752,26 +2748,6 @@
         "book"
       ],
       "works": [],
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": false
-    },
-    {
-      "id": "3913f25848b1",
-      "title": "スペシャルインタビュー🖊「堂本光一声優業の楽しさを感じた件」『劇場版転スラ蒼海の涙編』大ヒット上映中✨転スラ蒼海の涙編 Amazon Prime Video (h0u3zVbc9c)",
-      "url": "https://media.unisba.ac.id/c6cab2ff/00f21f2fjH6QXTVsJ_c",
-      "host": "media.unisba.ac.id",
-      "source": "Unisba Media",
-      "summary": "",
-      "publishedAt": "2026-10-09T07:01:33.000Z",
-      "image": "",
-      "categories": [
-        "anime"
-      ],
-      "works": [
-        "tensura"
-      ],
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
