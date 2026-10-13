@@ -1,18 +1,18 @@
 {
-  "updatedAt": "2026-10-13T20:30:18.974Z",
+  "updatedAt": "2026-10-13T21:00:21.502Z",
   "site": {
     "title": "なろう系まとめ",
     "tagline": "小説家になろう発の作品のアニメ化・コミカライズ・書籍化のニュースと、なろうのランキングをまとめています。",
     "url": "https://naroumatome.gamelab.website/",
     "contactUrl": "https://docs.google.com/forms/d/e/1FAIpQLSesWyhmZ6sRS_ve-c3X2KqF_wC5PK2TgwgQbTKmnQltSlg5Jw/viewform"
   },
-  "total": 76,
-  "todayCount": 2,
+  "total": 78,
+  "todayCount": 3,
   "categories": [
     {
       "id": "anime",
       "label": "アニメ",
-      "count": 54
+      "count": 56
     },
     {
       "id": "comic",
@@ -50,7 +50,7 @@
       "id": "tensura",
       "title": "転生したらスライムだった件",
       "short": "転スラ",
-      "count": 8
+      "count": 9
     },
     {
       "id": "mushoku",
@@ -300,14 +300,14 @@
     },
     {
       "name": "WEBザテレビジョン",
-      "count": 7
-    },
-    {
-      "name": "アニメ！アニメ！",
-      "count": 5
+      "count": 8
     },
     {
       "name": "山陽新聞",
+      "count": 6
+    },
+    {
+      "name": "アニメ！アニメ！",
       "count": 5
     },
     {
@@ -889,12 +889,12 @@
     }
   ],
   "churn": {
-    "previousAt": "2026-10-13T19:58:09.960Z",
-    "previousCount": 75,
+    "previousAt": "2026-10-13T20:30:18.974Z",
+    "previousCount": 76,
     "newCount": 2
   },
   "updateGapMin": 30,
-  "nextUpdateAt": "2026-10-13T21:00:18.974Z",
+  "nextUpdateAt": "2026-10-13T21:30:21.502Z",
   "items": [
     {
       "id": "6323faf72ed2",
@@ -935,6 +935,26 @@
       "viaGoogle": false,
       "sourceKind": "news",
       "isNew": false
+    },
+    {
+      "id": "80dae3b81de8",
+      "title": "『転スラ』リムル戦闘！ディアブロ含めキャラ大集結 第90話あらすじ＆場面カット解禁",
+      "url": "https://www.sanyonews.jp/article/1970647",
+      "host": "sanyonews.jp",
+      "source": "山陽新聞",
+      "summary": "",
+      "publishedAt": "2026-10-13T15:05:43.000Z",
+      "image": "https://static.sanyonews.jp/image/article/size1/e/1/6/0/e1606d7d1670af7487b22801b4147609_1.jpg",
+      "categories": [
+        "anime"
+      ],
+      "works": [
+        "tensura"
+      ],
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": true
     },
     {
       "id": "b1c1cdeb01ea",
@@ -1856,7 +1876,7 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "daea2b931feb",
@@ -2113,6 +2133,24 @@
       "isNew": false
     },
     {
+      "id": "1c71e3e17c2d",
+      "title": "＜魔法騎士レイアース＞異世界セフィーロへ召喚された光たちは伝説の魔法騎士を目指す 第1話あらすじ＆先行カット公開",
+      "url": "https://thetv.jp/news/detail/1445381/18696840/",
+      "host": "thetv.jp",
+      "source": "WEBザテレビジョン",
+      "summary": "",
+      "publishedAt": "2026-10-11T14:46:32.000Z",
+      "image": "https://thetv.jp/i/nw/1445381/18696840.jpg?w=1284",
+      "categories": [
+        "anime"
+      ],
+      "works": [],
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": true
+    },
+    {
       "id": "14172b90ece2",
       "title": "『転スラ』最新刊33巻（次は34巻）発売日・あらすじ・アニメ声優情報まとめ（ネタバレあり）【転生したらスライムだった件】",
       "url": "https://dengekionline.com/article/images/202309/472/899189",
@@ -2262,7 +2300,7 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "896becbcd4db",
