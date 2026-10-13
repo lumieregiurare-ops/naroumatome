@@ -1,18 +1,18 @@
 {
-  "updatedAt": "2026-10-13T17:00:19.073Z",
+  "updatedAt": "2026-10-13T17:30:20.305Z",
   "site": {
     "title": "なろう系まとめ",
     "tagline": "小説家になろう発の作品のアニメ化・コミカライズ・書籍化のニュースと、なろうのランキングをまとめています。",
     "url": "https://naroumatome.gamelab.website/",
     "contactUrl": "https://docs.google.com/forms/d/e/1FAIpQLSesWyhmZ6sRS_ve-c3X2KqF_wC5PK2TgwgQbTKmnQltSlg5Jw/viewform"
   },
-  "total": 73,
+  "total": 72,
   "todayCount": 1,
   "categories": [
     {
       "id": "anime",
       "label": "アニメ",
-      "count": 54
+      "count": 53
     },
     {
       "id": "comic",
@@ -50,7 +50,7 @@
       "id": "tensura",
       "title": "転生したらスライムだった件",
       "short": "転スラ",
-      "count": 6
+      "count": 5
     },
     {
       "id": "mushoku",
@@ -303,15 +303,15 @@
       "count": 8
     },
     {
-      "name": "山陽新聞",
-      "count": 5
-    },
-    {
       "name": "アニメ！アニメ！",
       "count": 4
     },
     {
       "name": "ラノベニュースオンライン",
+      "count": 4
+    },
+    {
+      "name": "山陽新聞",
       "count": 4
     },
     {
@@ -826,12 +826,12 @@
     }
   ],
   "churn": {
-    "previousAt": "2026-10-13T16:30:20.089Z",
+    "previousAt": "2026-10-13T17:00:19.073Z",
     "previousCount": 73,
     "newCount": 0
   },
   "updateGapMin": 30,
-  "nextUpdateAt": "2026-10-13T17:30:19.073Z",
+  "nextUpdateAt": "2026-10-13T18:00:20.305Z",
   "items": [
     {
       "id": "f53390c34501",
@@ -1126,6 +1126,26 @@
       ],
       "works": [
         "nonbiri-noka"
+      ],
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": false
+    },
+    {
+      "id": "63c25b2f36a8",
+      "title": "「めちゃかわいい…」『無職転生』エリスの美麗コスプレイヤーに「魅惑的」「美スタイル」と反響（マグミクス）",
+      "url": "https://news.yahoo.co.jp/articles/9302629131a23fe30322408df567c02efabf1c41",
+      "host": "news.yahoo.co.jp",
+      "source": "Yahoo!ニュース",
+      "summary": "",
+      "publishedAt": "2026-10-13T07:20:00.000Z",
+      "image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20261010-00379773-magmix-000-12-view.jpg?exp=10800",
+      "categories": [
+        "other"
+      ],
+      "works": [
+        "mushoku"
       ],
       "isPR": false,
       "viaGoogle": false,
@@ -1567,26 +1587,6 @@
       "isNew": false
     },
     {
-      "id": "299970487651",
-      "title": "『転スラ』衝撃の戦闘！封印の解かれたクロノア、破壊の化身に 第94話あらすじ＆場面カット解禁",
-      "url": "https://www.sanyonews.jp/photo/detail?article_id",
-      "host": "sanyonews.jp",
-      "source": "山陽新聞",
-      "summary": "",
-      "publishedAt": "2026-10-12T21:43:29.000Z",
-      "image": "",
-      "categories": [
-        "anime"
-      ],
-      "works": [
-        "tensura"
-      ],
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": false
-    },
-    {
       "id": "eebe5a417210",
       "title": "『アーシャ・リボルヴァの崇拝～皇帝陛下に溺愛される悪役令嬢は、結婚の手土産に不穏分子を平定するようです。～』のコミカライズ配信が開始",
       "url": "https://ln-news.com/articles/126880",
@@ -1877,6 +1877,24 @@
       "isNew": false
     },
     {
+      "id": "1c71e3e17c2d",
+      "title": "＜魔法騎士レイアース＞異世界セフィーロへ召喚された光たちは伝説の魔法騎士を目指す 第1話あらすじ＆先行カット公開",
+      "url": "https://thetv.jp/news/detail/1445381/18696846/",
+      "host": "thetv.jp",
+      "source": "WEBザテレビジョン",
+      "summary": "",
+      "publishedAt": "2026-10-11T19:24:21.000Z",
+      "image": "https://thetv.jp/i/nw/1445381/18696846.jpg?w=1284",
+      "categories": [
+        "anime"
+      ],
+      "works": [],
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": false
+    },
+    {
       "id": "4a7965d5df0d",
       "title": "「薬屋のひとりごと」ファンも注目！スパダリなアオルイポン（敖瑞鵬）の魅力を堪能できる「朝雪録〈あさゆきろく〉」【相関図付き】",
       "url": "https://jmagazine.myjcom.jp/category/asiadrama/post001802/",
@@ -1933,24 +1951,6 @@
       "isNew": false
     },
     {
-      "id": "1c71e3e17c2d",
-      "title": "＜魔法騎士レイアース＞異世界セフィーロへ召喚された光たちは伝説の魔法騎士を目指す 第1話あらすじ＆先行カット公開",
-      "url": "https://thetv.jp/news/detail/1445381/18696840/",
-      "host": "thetv.jp",
-      "source": "WEBザテレビジョン",
-      "summary": "",
-      "publishedAt": "2026-10-11T14:46:32.000Z",
-      "image": "https://thetv.jp/i/nw/1445381/18696840.jpg?w=1284",
-      "categories": [
-        "anime"
-      ],
-      "works": [],
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": false
-    },
-    {
       "id": "14172b90ece2",
       "title": "『転スラ』最新刊33巻（次は34巻）発売日・あらすじ・アニメ声優情報まとめ（ネタバレあり）【転生したらスライムだった件】",
       "url": "https://dengekionline.com/article/images/202309/472/899189",
@@ -1984,26 +1984,6 @@
         "anime"
       ],
       "works": [],
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": false
-    },
-    {
-      "id": "63c25b2f36a8",
-      "title": "「めちゃかわいい…」『無職転生』エリスの美麗コスプレイヤーに「魅惑的」「美スタイル」と反響（マグミクス）",
-      "url": "https://news.yahoo.co.jp/articles/9302629131a23fe30322408df567c02efabf1c41",
-      "host": "news.yahoo.co.jp",
-      "source": "Yahoo!ニュース",
-      "summary": "",
-      "publishedAt": "2026-10-11T08:03:00.000Z",
-      "image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20261010-00379773-magmix-000-12-view.jpg?exp=10800",
-      "categories": [
-        "other"
-      ],
-      "works": [
-        "mushoku"
-      ],
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
