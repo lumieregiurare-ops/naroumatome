@@ -1,18 +1,18 @@
 {
-  "updatedAt": "2026-10-13T19:00:22.271Z",
+  "updatedAt": "2026-10-13T19:30:23.364Z",
   "site": {
     "title": "なろう系まとめ",
     "tagline": "小説家になろう発の作品のアニメ化・コミカライズ・書籍化のニュースと、なろうのランキングをまとめています。",
     "url": "https://naroumatome.gamelab.website/",
     "contactUrl": "https://docs.google.com/forms/d/e/1FAIpQLSesWyhmZ6sRS_ve-c3X2KqF_wC5PK2TgwgQbTKmnQltSlg5Jw/viewform"
   },
-  "total": 74,
+  "total": 75,
   "todayCount": 2,
   "categories": [
     {
       "id": "anime",
       "label": "アニメ",
-      "count": 53
+      "count": 54
     },
     {
       "id": "comic",
@@ -300,7 +300,7 @@
     },
     {
       "name": "WEBザテレビジョン",
-      "count": 7
+      "count": 8
     },
     {
       "name": "アニメ！アニメ！",
@@ -893,12 +893,12 @@
     }
   ],
   "churn": {
-    "previousAt": "2026-10-13T18:30:22.224Z",
-    "previousCount": 75,
-    "newCount": 3
+    "previousAt": "2026-10-13T19:00:22.271Z",
+    "previousCount": 74,
+    "newCount": 1
   },
   "updateGapMin": 30,
-  "nextUpdateAt": "2026-10-13T19:30:22.271Z",
+  "nextUpdateAt": "2026-10-13T20:00:23.364Z",
   "items": [
     {
       "id": "53b4fbd75e8b",
@@ -918,7 +918,7 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "f53390c34501",
@@ -1821,7 +1821,7 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "daea2b931feb",
@@ -1959,7 +1959,7 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "41e11ff02ffb",
@@ -2076,6 +2076,24 @@
       "viaGoogle": false,
       "sourceKind": "news",
       "isNew": false
+    },
+    {
+      "id": "1c71e3e17c2d",
+      "title": "＜魔法騎士レイアース＞異世界セフィーロへ召喚された光たちは伝説の魔法騎士を目指す 第1話あらすじ＆先行カット公開",
+      "url": "https://thetv.jp/news/detail/1445381/18696840/",
+      "host": "thetv.jp",
+      "source": "WEBザテレビジョン",
+      "summary": "",
+      "publishedAt": "2026-10-11T14:46:32.000Z",
+      "image": "https://thetv.jp/i/nw/1445381/18696840.jpg?w=1284",
+      "categories": [
+        "anime"
+      ],
+      "works": [],
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": true
     },
     {
       "id": "14172b90ece2",
