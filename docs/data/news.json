@@ -1,28 +1,28 @@
 {
-  "updatedAt": "2026-10-13T17:30:20.305Z",
+  "updatedAt": "2026-10-13T18:00:19.534Z",
   "site": {
     "title": "なろう系まとめ",
     "tagline": "小説家になろう発の作品のアニメ化・コミカライズ・書籍化のニュースと、なろうのランキングをまとめています。",
     "url": "https://naroumatome.gamelab.website/",
     "contactUrl": "https://docs.google.com/forms/d/e/1FAIpQLSesWyhmZ6sRS_ve-c3X2KqF_wC5PK2TgwgQbTKmnQltSlg5Jw/viewform"
   },
-  "total": 72,
+  "total": 73,
   "todayCount": 1,
   "categories": [
     {
       "id": "anime",
       "label": "アニメ",
-      "count": 53
+      "count": 55
     },
     {
       "id": "comic",
       "label": "コミカライズ",
-      "count": 5
+      "count": 4
     },
     {
       "id": "book",
       "label": "書籍・ラノベ",
-      "count": 3
+      "count": 2
     },
     {
       "id": "web",
@@ -50,7 +50,7 @@
       "id": "tensura",
       "title": "転生したらスライムだった件",
       "short": "転スラ",
-      "count": 5
+      "count": 6
     },
     {
       "id": "mushoku",
@@ -86,7 +86,7 @@
       "id": "tate",
       "title": "盾の勇者の成り上がり",
       "short": "盾の勇者",
-      "count": 0
+      "count": 1
     },
     {
       "id": "kumo",
@@ -164,7 +164,7 @@
       "id": "katainaka",
       "title": "片田舎のおっさん、剣聖になる",
       "short": "片田舎のおっさん",
-      "count": 3
+      "count": 2
     },
     {
       "id": "nozomanu",
@@ -303,15 +303,15 @@
       "count": 8
     },
     {
+      "name": "山陽新聞",
+      "count": 5
+    },
+    {
       "name": "アニメ！アニメ！",
       "count": 4
     },
     {
       "name": "ラノベニュースオンライン",
-      "count": 4
-    },
-    {
-      "name": "山陽新聞",
       "count": 4
     },
     {
@@ -800,10 +800,10 @@
       "id": "39bf293e490e",
       "title": "『本好きの下剋上』続編「貴族院の自称図書委員」編アニメ化決定 制作はWIT STUDIO",
       "summary": "",
-      "url": "https://www.sanyonews.jp/article/1999132",
+      "url": "https://www.sanyonews.jp/article/1999132?rct",
       "image": "https://static.sanyonews.jp/image/article/size1/e/6/b/3/e6b3aa2868f5d7e89848e029284bc7ef_1.jpg",
       "leadSource": "山陽新聞",
-      "publishedAt": "2026-10-11T20:43:29.000Z",
+      "publishedAt": "2026-10-12T06:00:39.000Z",
       "sourceCount": 2,
       "articleCount": 2,
       "categories": [
@@ -826,12 +826,12 @@
     }
   ],
   "churn": {
-    "previousAt": "2026-10-13T17:00:19.073Z",
-    "previousCount": 73,
-    "newCount": 0
+    "previousAt": "2026-10-13T17:30:20.305Z",
+    "previousCount": 72,
+    "newCount": 2
   },
   "updateGapMin": 30,
-  "nextUpdateAt": "2026-10-13T18:00:20.305Z",
+  "nextUpdateAt": "2026-10-13T18:30:19.534Z",
   "items": [
     {
       "id": "f53390c34501",
@@ -1587,6 +1587,26 @@
       "isNew": false
     },
     {
+      "id": "299970487651",
+      "title": "『転スラ』衝撃の戦闘！封印の解かれたクロノア、破壊の化身に 第94話あらすじ＆場面カット解禁",
+      "url": "https://www.sanyonews.jp/photo/detail?article_id",
+      "host": "sanyonews.jp",
+      "source": "山陽新聞",
+      "summary": "",
+      "publishedAt": "2026-10-12T21:43:29.000Z",
+      "image": "",
+      "categories": [
+        "anime"
+      ],
+      "works": [
+        "tensura"
+      ],
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": true
+    },
+    {
       "id": "eebe5a417210",
       "title": "『アーシャ・リボルヴァの崇拝～皇帝陛下に溺愛される悪役令嬢は、結婚の手土産に不穏分子を平定するようです。～』のコミカライズ配信が開始",
       "url": "https://ln-news.com/articles/126880",
@@ -1604,6 +1624,26 @@
       "viaGoogle": false,
       "sourceKind": "news",
       "isNew": false
+    },
+    {
+      "id": "72a8588ce136",
+      "title": "『盾の勇者の成り上がり』第5期は2027年放送 場面カットとPV解禁",
+      "url": "https://www.sanyonews.jp/article/1949408?kw",
+      "host": "sanyonews.jp",
+      "source": "山陽新聞",
+      "summary": "",
+      "publishedAt": "2026-10-12T18:31:12.000Z",
+      "image": "https://static.sanyonews.jp/image/article/size1/2/0/3/d/203dd8d2a06617d9be0dfd9be918dee4_1.jpg",
+      "categories": [
+        "anime"
+      ],
+      "works": [
+        "tate"
+      ],
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": true
     },
     {
       "id": "33b61f494476",
@@ -1737,6 +1777,26 @@
       "isNew": false
     },
     {
+      "id": "39bf293e490e",
+      "title": "『本好きの下剋上』続編「貴族院の自称図書委員」編アニメ化決定 制作はWIT STUDIO",
+      "url": "https://www.sanyonews.jp/article/1999132?rct",
+      "host": "sanyonews.jp",
+      "source": "山陽新聞",
+      "summary": "",
+      "publishedAt": "2026-10-12T06:00:39.000Z",
+      "image": "https://static.sanyonews.jp/image/article/size1/e/6/b/3/e6b3aa2868f5d7e89848e029284bc7ef_1.jpg",
+      "categories": [
+        "anime"
+      ],
+      "works": [
+        "honzuki"
+      ],
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": false
+    },
+    {
       "id": "7b9097539e9b",
       "title": "「片田舎のおっさん、剣聖になる」アニメ第三期制作決定 ベリル役・平田広明も喜び爆発「みんなにモノローグを喋らせます！」",
       "url": "https://thetv.jp/news/detail/1443028/landing/",
@@ -1857,44 +1917,6 @@
       "isNew": false
     },
     {
-      "id": "39bf293e490e",
-      "title": "『本好きの下剋上』続編「貴族院の自称図書委員」編アニメ化決定 制作はWIT STUDIO",
-      "url": "https://www.sanyonews.jp/article/1999132",
-      "host": "sanyonews.jp",
-      "source": "山陽新聞",
-      "summary": "",
-      "publishedAt": "2026-10-11T20:43:29.000Z",
-      "image": "https://static.sanyonews.jp/image/article/size1/e/6/b/3/e6b3aa2868f5d7e89848e029284bc7ef_1.jpg",
-      "categories": [
-        "anime"
-      ],
-      "works": [
-        "honzuki"
-      ],
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": false
-    },
-    {
-      "id": "1c71e3e17c2d",
-      "title": "＜魔法騎士レイアース＞異世界セフィーロへ召喚された光たちは伝説の魔法騎士を目指す 第1話あらすじ＆先行カット公開",
-      "url": "https://thetv.jp/news/detail/1445381/18696846/",
-      "host": "thetv.jp",
-      "source": "WEBザテレビジョン",
-      "summary": "",
-      "publishedAt": "2026-10-11T19:24:21.000Z",
-      "image": "https://thetv.jp/i/nw/1445381/18696846.jpg?w=1284",
-      "categories": [
-        "anime"
-      ],
-      "works": [],
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": false
-    },
-    {
       "id": "4a7965d5df0d",
       "title": "「薬屋のひとりごと」ファンも注目！スパダリなアオルイポン（敖瑞鵬）の魅力を堪能できる「朝雪録〈あさゆきろく〉」【相関図付き】",
       "url": "https://jmagazine.myjcom.jp/category/asiadrama/post001802/",
@@ -1943,6 +1965,24 @@
       "image": "https://i.ytimg.com/vi/HQ0108xnaz8/maxresdefault.jpg",
       "categories": [
         "other"
+      ],
+      "works": [],
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": false
+    },
+    {
+      "id": "1c71e3e17c2d",
+      "title": "＜魔法騎士レイアース＞異世界セフィーロへ召喚された光たちは伝説の魔法騎士を目指す 第1話あらすじ＆先行カット公開",
+      "url": "https://thetv.jp/news/detail/1445381/18696840/",
+      "host": "thetv.jp",
+      "source": "WEBザテレビジョン",
+      "summary": "",
+      "publishedAt": "2026-10-11T14:46:32.000Z",
+      "image": "https://thetv.jp/i/nw/1445381/18696840.jpg?w=1284",
+      "categories": [
+        "anime"
       ],
       "works": [],
       "isPR": false,
@@ -2191,27 +2231,6 @@
       ],
       "works": [
         "tensei-kizoku"
-      ],
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": false
-    },
-    {
-      "id": "39f6ed1a36e2",
-      "title": "『片田舎のおっさん、剣聖になる』累計1000万部突破記念！ 第1巻「0円コミック」が数量限定配布",
-      "url": "https://www.sanyonews.jp/article/1955885?kw",
-      "host": "sanyonews.jp",
-      "source": "山陽新聞",
-      "summary": "",
-      "publishedAt": "2026-10-10T17:46:28.000Z",
-      "image": "https://static.sanyonews.jp/image/article/size1/8/c/9/c/8c9c2d3962b648b4001383fbaf74f3d3_1.jpg",
-      "categories": [
-        "comic",
-        "book"
-      ],
-      "works": [
-        "katainaka"
       ],
       "isPR": false,
       "viaGoogle": false,
