@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-13T19:30:23.364Z",
+  "updatedAt": "2026-10-13T19:58:09.960Z",
   "site": {
     "title": "なろう系まとめ",
     "tagline": "小説家になろう発の作品のアニメ化・コミカライズ・書籍化のニュースと、なろうのランキングをまとめています。",
@@ -12,7 +12,7 @@
     {
       "id": "anime",
       "label": "アニメ",
-      "count": 54
+      "count": 55
     },
     {
       "id": "comic",
@@ -22,7 +22,7 @@
     {
       "id": "book",
       "label": "書籍・ラノベ",
-      "count": 3
+      "count": 2
     },
     {
       "id": "web",
@@ -50,7 +50,7 @@
       "id": "tensura",
       "title": "転生したらスライムだった件",
       "short": "転スラ",
-      "count": 7
+      "count": 8
     },
     {
       "id": "mushoku",
@@ -86,7 +86,7 @@
       "id": "tate",
       "title": "盾の勇者の成り上がり",
       "short": "盾の勇者",
-      "count": 0
+      "count": 1
     },
     {
       "id": "kumo",
@@ -254,7 +254,7 @@
       "id": "tensei-kizoku",
       "title": "転生貴族、鑑定スキルで成り上がる",
       "short": "転生貴族",
-      "count": 3
+      "count": 2
     },
     {
       "id": "kuro-no-shokanshi",
@@ -303,6 +303,10 @@
       "count": 8
     },
     {
+      "name": "山陽新聞",
+      "count": 5
+    },
+    {
       "name": "アニメ！アニメ！",
       "count": 4
     },
@@ -316,10 +320,6 @@
     },
     {
       "name": "Howl.link",
-      "count": 3
-    },
-    {
-      "name": "山陽新聞",
       "count": 3
     },
     {
@@ -399,10 +399,6 @@
       "count": 1
     },
     {
-      "name": "https://tonomatsuri.com/",
-      "count": 1
-    },
-    {
       "name": "GameWith",
       "count": 1
     },
@@ -440,10 +436,6 @@
     },
     {
       "name": "オタク総研",
-      "count": 1
-    },
-    {
-      "name": "TBSテレビ",
       "count": 1
     }
   ],
@@ -688,41 +680,6 @@
       ]
     },
     {
-      "id": "a1c002d9a68f",
-      "title": "『転生貴族、鑑定スキルで成り上がる』アニメ3期第3話、ブラッハム率いる精鋭部隊【先行カット】",
-      "summary": "",
-      "url": "https://0115765.com/archives/209186",
-      "image": "https://0115765.com/wp-content/uploads/2026/10/20261010-0hw9co3z-1024x576.jpg",
-      "leadSource": "オタク総研",
-      "publishedAt": "2026-10-10T22:07:53.000Z",
-      "sourceCount": 3,
-      "articleCount": 3,
-      "categories": [
-        "anime"
-      ],
-      "keywords": [
-        "転生貴族",
-        "スキル",
-        "鑑定"
-      ],
-      "articles": [
-        {
-          "title": "転生貴族、鑑定スキルで成り上がる 第３期 [字] ＃２８【アガルアニメ】",
-          "url": "https://www.tbs.co.jp/tv/20261018_C17A.html",
-          "source": "TBSテレビ",
-          "publishedAt": "2026-10-10T19:34:45.000Z",
-          "isPR": false
-        },
-        {
-          "title": "アニメ『転生貴族、鑑定スキルで成り上がる 第3期』第27話「ザットとブラッハム」のあらすじ＆先行カット解禁",
-          "url": "https://ln-news.com/articles/126912",
-          "source": "ラノベニュースオンライン",
-          "publishedAt": "2026-10-10T10:00:00.000Z",
-          "isPR": false
-        }
-      ]
-    },
-    {
       "id": "53b4fbd75e8b",
       "title": "【第19話】本好きの下剋上 領主の養女",
       "summary": "",
@@ -867,10 +824,10 @@
       "id": "39bf293e490e",
       "title": "『本好きの下剋上』続編「貴族院の自称図書委員」編アニメ化決定 制作はWIT STUDIO",
       "summary": "",
-      "url": "https://www.sanyonews.jp/article/1999132?rct",
+      "url": "https://www.sanyonews.jp/article/1999132",
       "image": "https://static.sanyonews.jp/image/article/size1/e/6/b/3/e6b3aa2868f5d7e89848e029284bc7ef_1.jpg",
       "leadSource": "山陽新聞",
-      "publishedAt": "2026-10-12T06:00:39.000Z",
+      "publishedAt": "2026-10-11T20:43:29.000Z",
       "sourceCount": 2,
       "articleCount": 2,
       "categories": [
@@ -890,15 +847,43 @@
           "isPR": false
         }
       ]
+    },
+    {
+      "id": "a1c002d9a68f",
+      "title": "『転生貴族、鑑定スキルで成り上がる』アニメ3期第3話、ブラッハム率いる精鋭部隊【先行カット】",
+      "summary": "",
+      "url": "https://0115765.com/archives/209186",
+      "image": "https://0115765.com/wp-content/uploads/2026/10/20261010-0hw9co3z-1024x576.jpg",
+      "leadSource": "オタク総研",
+      "publishedAt": "2026-10-10T22:07:53.000Z",
+      "sourceCount": 2,
+      "articleCount": 2,
+      "categories": [
+        "anime"
+      ],
+      "keywords": [
+        "転生貴族",
+        "スキル",
+        "ブラッハム"
+      ],
+      "articles": [
+        {
+          "title": "アニメ『転生貴族、鑑定スキルで成り上がる 第3期』第27話「ザットとブラッハム」のあらすじ＆先行カット解禁",
+          "url": "https://ln-news.com/articles/126912",
+          "source": "ラノベニュースオンライン",
+          "publishedAt": "2026-10-10T10:00:00.000Z",
+          "isPR": false
+        }
+      ]
     }
   ],
   "churn": {
-    "previousAt": "2026-10-13T19:00:22.271Z",
-    "previousCount": 74,
-    "newCount": 1
+    "previousAt": "2026-10-13T19:30:23.364Z",
+    "previousCount": 75,
+    "newCount": 2
   },
   "updateGapMin": 30,
-  "nextUpdateAt": "2026-10-13T20:00:23.364Z",
+  "nextUpdateAt": "2026-10-13T20:28:09.960Z",
   "items": [
     {
       "id": "53b4fbd75e8b",
@@ -1694,6 +1679,26 @@
       "isNew": false
     },
     {
+      "id": "299970487651",
+      "title": "『転スラ』衝撃の戦闘！封印の解かれたクロノア、破壊の化身に 第94話あらすじ＆場面カット解禁",
+      "url": "https://www.sanyonews.jp/photo/detail?article_id",
+      "host": "sanyonews.jp",
+      "source": "山陽新聞",
+      "summary": "",
+      "publishedAt": "2026-10-12T21:43:29.000Z",
+      "image": "",
+      "categories": [
+        "anime"
+      ],
+      "works": [
+        "tensura"
+      ],
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": true
+    },
+    {
       "id": "eebe5a417210",
       "title": "『アーシャ・リボルヴァの崇拝～皇帝陛下に溺愛される悪役令嬢は、結婚の手土産に不穏分子を平定するようです。～』のコミカライズ配信が開始",
       "url": "https://ln-news.com/articles/126880",
@@ -1711,6 +1716,26 @@
       "viaGoogle": false,
       "sourceKind": "news",
       "isNew": false
+    },
+    {
+      "id": "72a8588ce136",
+      "title": "『盾の勇者の成り上がり』第5期は2027年放送 場面カットとPV解禁",
+      "url": "https://www.sanyonews.jp/article/1949408?kw",
+      "host": "sanyonews.jp",
+      "source": "山陽新聞",
+      "summary": "",
+      "publishedAt": "2026-10-12T18:31:12.000Z",
+      "image": "https://static.sanyonews.jp/image/article/size1/2/0/3/d/203dd8d2a06617d9be0dfd9be918dee4_1.jpg",
+      "categories": [
+        "anime"
+      ],
+      "works": [
+        "tate"
+      ],
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": true
     },
     {
       "id": "33b61f494476",
@@ -1806,24 +1831,6 @@
       "isNew": false
     },
     {
-      "id": "e9aecfbbdff5",
-      "title": "『キャンピングカーで往く異世界徒然紀行』2巻が10月21日発売！少女を救うため異世界を爆走！",
-      "url": "https://tonomatsuri.com/campingcar-isekai-vol2/",
-      "host": "tonomatsuri.com",
-      "source": "https://tonomatsuri.com/",
-      "summary": "",
-      "publishedAt": "2026-10-12T08:47:55.000Z",
-      "image": "https://tonomatsuri.com/wp-content/uploads/2026/10/2026y10m02d_180952162.jpg",
-      "categories": [
-        "book"
-      ],
-      "works": [],
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": false
-    },
-    {
       "id": "daea2b931feb",
       "title": "アニメ『凶乱令嬢ニア・リストン 病弱令嬢に転生した神殺しの武人の華麗なる無双録』第2話「王都での仕事」のあらすじ＆先行カット解禁",
       "url": "https://ln-news.com/articles/126915",
@@ -1855,26 +1862,6 @@
       ],
       "works": [
         "kusuriya"
-      ],
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": false
-    },
-    {
-      "id": "39bf293e490e",
-      "title": "『本好きの下剋上』続編「貴族院の自称図書委員」編アニメ化決定 制作はWIT STUDIO",
-      "url": "https://www.sanyonews.jp/article/1999132?rct",
-      "host": "sanyonews.jp",
-      "source": "山陽新聞",
-      "summary": "",
-      "publishedAt": "2026-10-12T06:00:39.000Z",
-      "image": "https://static.sanyonews.jp/image/article/size1/e/6/b/3/e6b3aa2868f5d7e89848e029284bc7ef_1.jpg",
-      "categories": [
-        "anime"
-      ],
-      "works": [
-        "honzuki"
       ],
       "isPR": false,
       "viaGoogle": false,
@@ -2022,6 +2009,26 @@
       "isNew": false
     },
     {
+      "id": "39bf293e490e",
+      "title": "『本好きの下剋上』続編「貴族院の自称図書委員」編アニメ化決定 制作はWIT STUDIO",
+      "url": "https://www.sanyonews.jp/article/1999132",
+      "host": "sanyonews.jp",
+      "source": "山陽新聞",
+      "summary": "",
+      "publishedAt": "2026-10-11T20:43:29.000Z",
+      "image": "https://static.sanyonews.jp/image/article/size1/e/6/b/3/e6b3aa2868f5d7e89848e029284bc7ef_1.jpg",
+      "categories": [
+        "anime"
+      ],
+      "works": [
+        "honzuki"
+      ],
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": false
+    },
+    {
       "id": "4a7965d5df0d",
       "title": "「薬屋のひとりごと」ファンも注目！スパダリなアオルイポン（敖瑞鵬）の魅力を堪能できる「朝雪録〈あさゆきろく〉」【相関図付き】",
       "url": "https://jmagazine.myjcom.jp/category/asiadrama/post001802/",
@@ -2093,7 +2100,7 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "14172b90ece2",
@@ -2314,26 +2321,6 @@
       "summary": "",
       "publishedAt": "2026-10-10T22:07:53.000Z",
       "image": "https://0115765.com/wp-content/uploads/2026/10/20261010-0hw9co3z-1024x576.jpg",
-      "categories": [
-        "anime"
-      ],
-      "works": [
-        "tensei-kizoku"
-      ],
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": false
-    },
-    {
-      "id": "01371568aec8",
-      "title": "転生貴族、鑑定スキルで成り上がる 第３期 [字] ＃２８【アガルアニメ】",
-      "url": "https://www.tbs.co.jp/tv/20261018_C17A.html",
-      "host": "tbs.co.jp",
-      "source": "TBSテレビ",
-      "summary": "",
-      "publishedAt": "2026-10-10T19:34:45.000Z",
-      "image": "https://www.tbs.co.jp/ro/img/ogp.png",
       "categories": [
         "anime"
       ],
