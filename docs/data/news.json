@@ -1,18 +1,18 @@
 {
-  "updatedAt": "2026-10-13T09:00:20.634Z",
+  "updatedAt": "2026-10-13T09:30:17.350Z",
   "site": {
     "title": "なろう系まとめ",
     "tagline": "小説家になろう発の作品のアニメ化・コミカライズ・書籍化のニュースと、なろうのランキングをまとめています。",
     "url": "https://naroumatome.gamelab.website/",
     "contactUrl": "https://docs.google.com/forms/d/e/1FAIpQLSesWyhmZ6sRS_ve-c3X2KqF_wC5PK2TgwgQbTKmnQltSlg5Jw/viewform"
   },
-  "total": 70,
-  "todayCount": 29,
+  "total": 72,
+  "todayCount": 32,
   "categories": [
     {
       "id": "anime",
       "label": "アニメ",
-      "count": 52
+      "count": 53
     },
     {
       "id": "comic",
@@ -27,12 +27,12 @@
     {
       "id": "web",
       "label": "Web小説・賞",
-      "count": 0
+      "count": 1
     },
     {
       "id": "game",
       "label": "ゲーム",
-      "count": 2
+      "count": 3
     },
     {
       "id": "goods",
@@ -295,11 +295,11 @@
   ],
   "sources": [
     {
-      "name": "山陽新聞",
-      "count": 9
+      "name": "Yahoo!ニュース",
+      "count": 8
     },
     {
-      "name": "Yahoo!ニュース",
+      "name": "山陽新聞",
       "count": 8
     },
     {
@@ -313,6 +313,10 @@
     {
       "name": "アニメ！アニメ！",
       "count": 4
+    },
+    {
+      "name": "ABEMA",
+      "count": 2
     },
     {
       "name": "マイナビニュース",
@@ -343,7 +347,7 @@
       "count": 2
     },
     {
-      "name": "ABEMA",
+      "name": "PR TIMES",
       "count": 1
     },
     {
@@ -360,6 +364,10 @@
     },
     {
       "name": "PASH! PLUS",
+      "count": 1
+    },
+    {
+      "name": "アニメージュプラス",
       "count": 1
     },
     {
@@ -448,8 +456,8 @@
       "image": "https://animeanime.jp/imgs/rss/941782.jpg",
       "leadSource": "アニメ！アニメ！",
       "publishedAt": "2026-10-13T08:29:00.000Z",
-      "sourceCount": 11,
-      "articleCount": 18,
+      "sourceCount": 12,
+      "articleCount": 19,
       "categories": [
         "anime"
       ],
@@ -481,6 +489,13 @@
           "isPR": false
         },
         {
+          "title": "【劇場版 薬屋のひとりごと】PV第3弾は水賊「化蛇団」！ 頭領・水蛇役は小野賢章に決定",
+          "url": "https://animageplus.jp/articles/detail/67977/2/1/1",
+          "source": "アニメージュプラス",
+          "publishedAt": "2026-10-13T03:27:09.000Z",
+          "isPR": false
+        },
+        {
           "title": "「明らかに悪そうな顔してますが…」映画『薬屋のひとりごと』小野賢章が追加キャスト決定!コメントも到着",
           "url": "https://news.mynavi.jp/article/20261013-5121308/",
           "source": "マイナビニュース",
@@ -506,13 +521,6 @@
           "url": "https://www.animatetimes.com/news/details.php?id",
           "source": "アニメイトタイムズ",
           "publishedAt": "2026-10-13T02:00:00.000Z",
-          "isPR": false
-        },
-        {
-          "title": "「劇場版 薬屋のひとりごと」に小野賢章、猫猫らを狙う水賊役 竹内良太と斉藤次郎も（動画あり）",
-          "url": "https://natalie.mu/comic/news/693438",
-          "source": "ナタリー",
-          "publishedAt": "2026-10-13T01:07:00.000Z",
           "isPR": false
         }
       ]
@@ -632,6 +640,34 @@
           "url": "https://ln-news.com/articles/126912",
           "source": "ラノベニュースオンライン",
           "publishedAt": "2026-10-10T10:00:00.000Z",
+          "isPR": false
+        }
+      ]
+    },
+    {
+      "id": "93041da54e2d",
+      "title": "転生ゴブリンだけど質問ある？ #3【地上波1週間先行・WEB最速】",
+      "summary": "",
+      "url": "https://abema.tv/channels/abema-anime/slots/9QLZ74tUEJjNqm",
+      "image": "",
+      "leadSource": "ABEMA",
+      "publishedAt": "2026-10-13T09:01:33.000Z",
+      "sourceCount": 2,
+      "articleCount": 2,
+      "categories": [
+        "other",
+        "anime"
+      ],
+      "keywords": [
+        "ゴブリン",
+        "質問"
+      ],
+      "articles": [
+        {
+          "title": "第3話 転生ゴブリンだけど質問ある？",
+          "url": "https://thetv.jp/program/0001077857/3/",
+          "source": "WEBザテレビジョン",
+          "publishedAt": "2026-10-13T01:54:14.000Z",
           "isPR": false
         }
       ]
@@ -809,13 +845,31 @@
     }
   ],
   "churn": {
-    "previousAt": "2026-10-13T08:30:19.368Z",
-    "previousCount": 71,
-    "newCount": 2
+    "previousAt": "2026-10-13T09:00:20.634Z",
+    "previousCount": 70,
+    "newCount": 3
   },
   "updateGapMin": 30,
-  "nextUpdateAt": "2026-10-13T09:30:20.634Z",
+  "nextUpdateAt": "2026-10-13T10:00:17.350Z",
   "items": [
+    {
+      "id": "93041da54e2d",
+      "title": "転生ゴブリンだけど質問ある？ #3【地上波1週間先行・WEB最速】",
+      "url": "https://abema.tv/channels/abema-anime/slots/9QLZ74tUEJjNqm",
+      "host": "abema.tv",
+      "source": "ABEMA",
+      "summary": "",
+      "publishedAt": "2026-10-13T09:01:33.000Z",
+      "image": "",
+      "categories": [
+        "other"
+      ],
+      "works": [],
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": true
+    },
     {
       "id": "0697b9bebd35",
       "title": "『劇場版 薬屋のひとりごと 亡妃の秘宝』化蛇団の頭領・水蛇役に小野賢章 キャラPV公開（クランクイン！）",
@@ -834,7 +888,7 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "6a4cd1a087a7",
@@ -855,6 +909,25 @@
       "viaGoogle": false,
       "sourceKind": "news",
       "isNew": false
+    },
+    {
+      "id": "f85f66dfef3f",
+      "title": "「働けるようになろう」ではなく、「働ける」を増やす。 NIMO ALCAMOが取り組むWORK RULE SHIFTを仙台で開催！",
+      "url": "https://prtimes.jp/main/html/rd/p/000000025.000119857.html",
+      "host": "prtimes.jp",
+      "source": "PR TIMES",
+      "summary": "[特定非営利活動法人Switch] 「WORK RULE SHIFT」は、一般社団法人NIMO ALCAMO（ニモアルカモ）が取り組む、新しい働き方や仕事のあり方を考える取り組みです。今回のワークショップは、NIMO ALCAMOが主催し、認定NPO法人Switchが共催します...",
+      "publishedAt": "2026-10-13T07:15:24.000Z",
+      "image": "https://prcdn.freetls.fastly.net/release_image/119857/25/119857-25-0ddce089059d8b3000e0b699df018de7-1414x2000.jpg?format=jpeg&auto=webp&fit=bounds&width=2400&height=1260",
+      "categories": [
+        "web",
+        "game"
+      ],
+      "works": [],
+      "isPR": true,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": true
     },
     {
       "id": "048856b88e3c",
@@ -973,6 +1046,26 @@
       "viaGoogle": false,
       "sourceKind": "news",
       "isNew": false
+    },
+    {
+      "id": "3c7e564c5e6d",
+      "title": "【劇場版 薬屋のひとりごと】PV第3弾は水賊「化蛇団」！ 頭領・水蛇役は小野賢章に決定",
+      "url": "https://animageplus.jp/articles/detail/67977/2/1/1",
+      "host": "animageplus.jp",
+      "source": "アニメージュプラス",
+      "summary": "",
+      "publishedAt": "2026-10-13T03:27:09.000Z",
+      "image": "https://images.animageplus.jp/articles/67000/67977/OG/793e8cd1864bb9dc3511c998376d5a48.jpg",
+      "categories": [
+        "anime"
+      ],
+      "works": [
+        "kusuriya"
+      ],
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": true
     },
     {
       "id": "3506ee2ac92a",
@@ -1148,7 +1241,7 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "42bf1dac29dc",
@@ -1350,19 +1443,19 @@
       "isNew": false
     },
     {
-      "id": "e7a9feba5ca9",
-      "title": "『薬屋のひとりごと』本格謎解き企画が始動 人気クリエイターが謎を作成",
-      "url": "https://www.sanyonews.jp/article/1997336?kw",
+      "id": "1d034ea68c7b",
+      "title": "『転スラ』剣を交えるリムルとレオン！ルミナスも動く 第91話あらすじ＆場面カット解禁",
+      "url": "https://www.sanyonews.jp/article/1973862",
       "host": "sanyonews.jp",
       "source": "山陽新聞",
       "summary": "",
-      "publishedAt": "2026-10-12T20:24:43.000Z",
-      "image": "https://static.sanyonews.jp/image/article/size1/c/a/0/b/ca0b0cec13aff6d8d8f34cff7276a125_1.jpg",
+      "publishedAt": "2026-10-12T18:59:29.000Z",
+      "image": "https://static.sanyonews.jp/image/article/size1/c/5/6/4/c564fde6e19fffbb9ffc1ef2aae7229b_1.jpg",
       "categories": [
-        "other"
+        "anime"
       ],
       "works": [
-        "kusuriya"
+        "tensura"
       ],
       "isPR": false,
       "viaGoogle": false,
@@ -1572,26 +1665,6 @@
       ],
       "works": [
         "katainaka"
-      ],
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": false
-    },
-    {
-      "id": "1d034ea68c7b",
-      "title": "『転スラ』剣を交えるリムルとレオン！ルミナスも動く 第91話あらすじ＆場面カット解禁",
-      "url": "https://www.sanyonews.jp/article/1973862?rct",
-      "host": "sanyonews.jp",
-      "source": "山陽新聞",
-      "summary": "",
-      "publishedAt": "2026-10-12T01:36:32.000Z",
-      "image": "https://static.sanyonews.jp/image/article/size1/c/5/6/4/c564fde6e19fffbb9ffc1ef2aae7229b_1.jpg",
-      "categories": [
-        "anime"
-      ],
-      "works": [
-        "tensura"
       ],
       "isPR": false,
       "viaGoogle": false,
