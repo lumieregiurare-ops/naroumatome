@@ -1,18 +1,18 @@
 {
-  "updatedAt": "2026-10-13T19:58:09.960Z",
+  "updatedAt": "2026-10-13T20:30:18.974Z",
   "site": {
     "title": "なろう系まとめ",
     "tagline": "小説家になろう発の作品のアニメ化・コミカライズ・書籍化のニュースと、なろうのランキングをまとめています。",
     "url": "https://naroumatome.gamelab.website/",
     "contactUrl": "https://docs.google.com/forms/d/e/1FAIpQLSesWyhmZ6sRS_ve-c3X2KqF_wC5PK2TgwgQbTKmnQltSlg5Jw/viewform"
   },
-  "total": 75,
+  "total": 76,
   "todayCount": 2,
   "categories": [
     {
       "id": "anime",
       "label": "アニメ",
-      "count": 55
+      "count": 54
     },
     {
       "id": "comic",
@@ -22,7 +22,7 @@
     {
       "id": "book",
       "label": "書籍・ラノベ",
-      "count": 2
+      "count": 3
     },
     {
       "id": "web",
@@ -296,19 +296,19 @@
   "sources": [
     {
       "name": "Yahoo!ニュース",
-      "count": 12
+      "count": 13
     },
     {
       "name": "WEBザテレビジョン",
-      "count": 8
+      "count": 7
+    },
+    {
+      "name": "アニメ！アニメ！",
+      "count": 5
     },
     {
       "name": "山陽新聞",
       "count": 5
-    },
-    {
-      "name": "アニメ！アニメ！",
-      "count": 4
     },
     {
       "name": "ラノベニュースオンライン",
@@ -321,10 +321,6 @@
     {
       "name": "Howl.link",
       "count": 3
-    },
-    {
-      "name": "PR TIMES",
-      "count": 2
     },
     {
       "name": "Dellows News",
@@ -375,6 +371,10 @@
       "count": 1
     },
     {
+      "name": "PR TIMES",
+      "count": 1
+    },
+    {
       "name": "V-storage",
       "count": 1
     },
@@ -391,11 +391,11 @@
       "count": 1
     },
     {
-      "name": "映画.com",
+      "name": "Excite エキサイト",
       "count": 1
     },
     {
-      "name": "Excite エキサイト",
+      "name": "https://tonomatsuri.com/",
       "count": 1
     },
     {
@@ -431,6 +431,10 @@
       "count": 1
     },
     {
+      "name": "USENの音楽情報サイト",
+      "count": 1
+    },
+    {
       "name": "クランクイン！",
       "count": 1
     },
@@ -448,7 +452,7 @@
       "image": "https://animeanime.jp/imgs/rss/941782.jpg",
       "leadSource": "アニメ！アニメ！",
       "publishedAt": "2026-10-13T11:45:29.000Z",
-      "sourceCount": 8,
+      "sourceCount": 7,
       "articleCount": 13,
       "categories": [
         "anime"
@@ -525,16 +529,16 @@
       "image": "https://assets.hldycdn.com/52b2ea42-a184-4466-83ef-01fa940f8ab1.jpeg",
       "leadSource": "www.haveagood-holiday.com",
       "publishedAt": "2026-10-13T14:44:52.000Z",
-      "sourceCount": 5,
-      "articleCount": 5,
+      "sourceCount": 6,
+      "articleCount": 6,
       "categories": [
         "goods",
         "other"
       ],
       "keywords": [
-        "ラグナシア",
         "異世界生活",
-        "コラボイベント"
+        "コラボイベント",
+        "ラグナシア"
       ],
       "articles": [
         {
@@ -564,6 +568,13 @@
           "source": "PR TIMES",
           "publishedAt": "2026-10-13T04:00:01.000Z",
           "isPR": true
+        },
+        {
+          "title": "『Re:ゼロから始める異世界生活』と「大黒湯」のコラボイベント「Re:ゼロから始める異世界生活 × 大黒湯」の詳細公開！",
+          "url": "https://animeanime.jp/release/prtimes/20261013/319276.html",
+          "source": "アニメ！アニメ！",
+          "publishedAt": "2026-10-13T03:00:00.000Z",
+          "isPR": false
         }
       ]
     },
@@ -824,10 +835,10 @@
       "id": "39bf293e490e",
       "title": "『本好きの下剋上』続編「貴族院の自称図書委員」編アニメ化決定 制作はWIT STUDIO",
       "summary": "",
-      "url": "https://www.sanyonews.jp/article/1999132",
+      "url": "https://www.sanyonews.jp/article/1999132?rct",
       "image": "https://static.sanyonews.jp/image/article/size1/e/6/b/3/e6b3aa2868f5d7e89848e029284bc7ef_1.jpg",
       "leadSource": "山陽新聞",
-      "publishedAt": "2026-10-11T20:43:29.000Z",
+      "publishedAt": "2026-10-12T06:00:39.000Z",
       "sourceCount": 2,
       "articleCount": 2,
       "categories": [
@@ -878,13 +889,33 @@
     }
   ],
   "churn": {
-    "previousAt": "2026-10-13T19:30:23.364Z",
+    "previousAt": "2026-10-13T19:58:09.960Z",
     "previousCount": 75,
     "newCount": 2
   },
   "updateGapMin": 30,
-  "nextUpdateAt": "2026-10-13T20:28:09.960Z",
+  "nextUpdateAt": "2026-10-13T21:00:18.974Z",
   "items": [
+    {
+      "id": "6323faf72ed2",
+      "title": "薬屋のひとりごと＞猫猫の記憶を辿るED「AIYOU」ノンクレジット映像公開 Eve「理屈では割り切れない想いも込めています」",
+      "url": "https://thetv.jp/news/detail/1445649/landing/",
+      "host": "thetv.jp",
+      "source": "WEBザテレビジョン",
+      "summary": "",
+      "publishedAt": "2026-10-13T18:01:21.000Z",
+      "image": "",
+      "categories": [
+        "anime"
+      ],
+      "works": [
+        "kusuriya"
+      ],
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": false
+    },
     {
       "id": "53b4fbd75e8b",
       "title": "【第19話】本好きの下剋上 領主の養女",
@@ -901,27 +932,6 @@
         "honzuki"
       ],
       "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": false
-    },
-    {
-      "id": "f53390c34501",
-      "title": "『Re:ゼロから始める異世界生活』と「大黒湯」のコラボイベント「Re:ゼロから始める異世界生活 × 大黒湯」の詳細公開！",
-      "url": "https://prtimes.jp/main/html/rd/p/000009676.000016064.html",
-      "host": "prtimes.jp",
-      "source": "PR TIMES",
-      "summary": "[株式会社arma bianca] 漫画・アニメのオリジナルグッズを販売する「AMNIBUS」を運営する株式会社アルマビアンカと押上温泉 大黒湯は『Re:ゼロから始める異世界生活』と「大黒湯」のコラボイベントを開催いたします。 漫画・アニメの...",
-      "publishedAt": "2026-10-13T15:10:04.000Z",
-      "image": "https://prcdn.freetls.fastly.net/release_image/16064/9676/16064-9676-af4c0624eacd1edf10ef32f9605da7e0-1140x640.jpg?format=jpeg&auto=webp&fit=bounds&width=2400&height=1260",
-      "categories": [
-        "goods",
-        "anime"
-      ],
-      "works": [
-        "rezero"
-      ],
-      "isPR": true,
       "viaGoogle": false,
       "sourceKind": "news",
       "isNew": false
@@ -1095,26 +1105,6 @@
       "summary": "",
       "publishedAt": "2026-10-13T10:00:00.000Z",
       "image": "https://media.eiga.com/images/anime/news/127644/photo/e2172b6e3f04bf8f/640.jpg",
-      "categories": [
-        "anime"
-      ],
-      "works": [
-        "kusuriya"
-      ],
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": false
-    },
-    {
-      "id": "6323faf72ed2",
-      "title": "薬屋のひとりごと＞猫猫の記憶を辿るED「AIYOU」ノンクレジット映像公開 Eve「理屈では割り切れない想いも込めています」",
-      "url": "https://thetv.jp/news/detail/1445649/landing/",
-      "host": "thetv.jp",
-      "source": "WEBザテレビジョン",
-      "summary": "",
-      "publishedAt": "2026-10-13T09:30:16.000Z",
-      "image": "",
       "categories": [
         "anime"
       ],
@@ -1405,6 +1395,26 @@
       "isNew": false
     },
     {
+      "id": "f53390c34501",
+      "title": "『Re:ゼロから始める異世界生活』と「大黒湯」のコラボイベント「Re:ゼロから始める異世界生活 × 大黒湯」の詳細公開！",
+      "url": "https://animeanime.jp/release/prtimes/20261013/319276.html",
+      "host": "animeanime.jp",
+      "source": "アニメ！アニメ！",
+      "summary": "",
+      "publishedAt": "2026-10-13T03:00:00.000Z",
+      "image": "https://animeanime.jp/release/imgs/list/562344.jpg",
+      "categories": [
+        "goods"
+      ],
+      "works": [
+        "rezero"
+      ],
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": false
+    },
+    {
       "id": "8056d8037280",
       "title": "『劇場版 薬屋のひとりごと』新キャラ・水蛇役に小野賢章 水賊「化蛇団」のキャラPVも（リアルサウンド）",
       "url": "https://news.yahoo.co.jp/articles/38cd0af232e2a796a347146a6d22102dfea5dd06",
@@ -1661,12 +1671,12 @@
     {
       "id": "c8c6bcde0720",
       "title": "「劇場版 薬屋のひとりごと 亡妃の秘宝」猫猫＆壬氏たちに襲い掛かる水賊「化蛇団」キャラPV公開 小野賢章が頭領・水蛇役",
-      "url": "https://eiga.com/news/20261013/12/",
-      "host": "eiga.com",
-      "source": "映画.com",
+      "url": "https://news.yahoo.co.jp/articles/5f73d50a37016f33e9cc59701a2684c79d2d3777",
+      "host": "news.yahoo.co.jp",
+      "source": "Yahoo!ニュース",
       "summary": "",
       "publishedAt": "2026-10-12T23:00:00.000Z",
-      "image": "https://media.eiga.com/images/buzz/129800/023690547569bd24.jpg",
+      "image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20261013-00000012-eiga-000-1-view.jpg?exp=10800",
       "categories": [
         "anime"
       ],
@@ -1696,7 +1706,7 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "eebe5a417210",
@@ -1735,7 +1745,7 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "33b61f494476",
@@ -1831,6 +1841,24 @@
       "isNew": false
     },
     {
+      "id": "e9aecfbbdff5",
+      "title": "『キャンピングカーで往く異世界徒然紀行』2巻が10月21日発売！少女を救うため異世界を爆走！",
+      "url": "https://tonomatsuri.com/campingcar-isekai-vol2/",
+      "host": "tonomatsuri.com",
+      "source": "https://tonomatsuri.com/",
+      "summary": "",
+      "publishedAt": "2026-10-12T08:47:55.000Z",
+      "image": "https://tonomatsuri.com/wp-content/uploads/2026/10/2026y10m02d_180952162.jpg",
+      "categories": [
+        "book"
+      ],
+      "works": [],
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": true
+    },
+    {
       "id": "daea2b931feb",
       "title": "アニメ『凶乱令嬢ニア・リストン 病弱令嬢に転生した神殺しの武人の華麗なる無双録』第2話「王都での仕事」のあらすじ＆先行カット解禁",
       "url": "https://ln-news.com/articles/126915",
@@ -1862,6 +1890,26 @@
       ],
       "works": [
         "kusuriya"
+      ],
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": false
+    },
+    {
+      "id": "39bf293e490e",
+      "title": "『本好きの下剋上』続編「貴族院の自称図書委員」編アニメ化決定 制作はWIT STUDIO",
+      "url": "https://www.sanyonews.jp/article/1999132?rct",
+      "host": "sanyonews.jp",
+      "source": "山陽新聞",
+      "summary": "",
+      "publishedAt": "2026-10-12T06:00:39.000Z",
+      "image": "https://static.sanyonews.jp/image/article/size1/e/6/b/3/e6b3aa2868f5d7e89848e029284bc7ef_1.jpg",
+      "categories": [
+        "anime"
+      ],
+      "works": [
+        "honzuki"
       ],
       "isPR": false,
       "viaGoogle": false,
@@ -2009,26 +2057,6 @@
       "isNew": false
     },
     {
-      "id": "39bf293e490e",
-      "title": "『本好きの下剋上』続編「貴族院の自称図書委員」編アニメ化決定 制作はWIT STUDIO",
-      "url": "https://www.sanyonews.jp/article/1999132",
-      "host": "sanyonews.jp",
-      "source": "山陽新聞",
-      "summary": "",
-      "publishedAt": "2026-10-11T20:43:29.000Z",
-      "image": "https://static.sanyonews.jp/image/article/size1/e/6/b/3/e6b3aa2868f5d7e89848e029284bc7ef_1.jpg",
-      "categories": [
-        "anime"
-      ],
-      "works": [
-        "honzuki"
-      ],
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": false
-    },
-    {
       "id": "4a7965d5df0d",
       "title": "「薬屋のひとりごと」ファンも注目！スパダリなアオルイポン（敖瑞鵬）の魅力を堪能できる「朝雪録〈あさゆきろく〉」【相関図付き】",
       "url": "https://jmagazine.myjcom.jp/category/asiadrama/post001802/",
@@ -2077,24 +2105,6 @@
       "image": "https://i.ytimg.com/vi/HQ0108xnaz8/maxresdefault.jpg",
       "categories": [
         "other"
-      ],
-      "works": [],
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": false
-    },
-    {
-      "id": "1c71e3e17c2d",
-      "title": "＜魔法騎士レイアース＞異世界セフィーロへ召喚された光たちは伝説の魔法騎士を目指す 第1話あらすじ＆先行カット公開",
-      "url": "https://thetv.jp/news/detail/1445381/18696840/",
-      "host": "thetv.jp",
-      "source": "WEBザテレビジョン",
-      "summary": "",
-      "publishedAt": "2026-10-11T14:46:32.000Z",
-      "image": "https://thetv.jp/i/nw/1445381/18696840.jpg?w=1284",
-      "categories": [
-        "anime"
       ],
       "works": [],
       "isPR": false,
@@ -2235,6 +2245,24 @@
       "viaGoogle": false,
       "sourceKind": "news",
       "isNew": false
+    },
+    {
+      "id": "a777fab4152c",
+      "title": "多次元シンガー・310、新アーティストビジュアルで素顔を初公開！ TVアニメ『信者ゼロの女神サマと始める異世界攻略』OPテーマ 「未来の足跡」10月11日配信",
+      "url": "https://e.usen.com/news/news-release/310-tvop-1011.html",
+      "host": "e.usen.com",
+      "source": "USENの音楽情報サイト",
+      "summary": "",
+      "publishedAt": "2026-10-11T07:00:00.000Z",
+      "image": "https://e.usen.com/image/dafca9887f94b954dde6ed881ae402281fbf3c1e.jpg",
+      "categories": [
+        "anime"
+      ],
+      "works": [],
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": true
     },
     {
       "id": "896becbcd4db",
