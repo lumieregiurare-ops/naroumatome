@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-14T21:00:19.160Z",
+  "updatedAt": "2026-10-14T21:30:18.409Z",
   "site": {
     "title": "なろう系まとめ",
     "tagline": "小説家になろう発の作品のアニメ化・コミカライズ・書籍化のニュースと、なろうのランキングをまとめています。",
@@ -7,7 +7,7 @@
     "contactUrl": "https://docs.google.com/forms/d/e/1FAIpQLSesWyhmZ6sRS_ve-c3X2KqF_wC5PK2TgwgQbTKmnQltSlg5Jw/viewform"
   },
   "total": 79,
-  "todayCount": 1,
+  "todayCount": 2,
   "categories": [
     {
       "id": "anime",
@@ -37,7 +37,7 @@
     {
       "id": "goods",
       "label": "グッズ・イベント",
-      "count": 12
+      "count": 11
     },
     {
       "id": "other",
@@ -296,11 +296,15 @@
   "sources": [
     {
       "name": "Yahoo!ニュース",
-      "count": 13
+      "count": 12
     },
     {
       "name": "ラノベニュースオンライン",
       "count": 6
+    },
+    {
+      "name": "アニメハック",
+      "count": 5
     },
     {
       "name": "WEBザテレビジョン",
@@ -309,10 +313,6 @@
     {
       "name": "山陽新聞",
       "count": 5
-    },
-    {
-      "name": "アニメハック",
-      "count": 4
     },
     {
       "name": "アニメ！アニメ！",
@@ -341,6 +341,10 @@
     {
       "name": "Dellows News",
       "count": 2
+    },
+    {
+      "name": "映画情報どっとこむ",
+      "count": 1
     },
     {
       "name": "スポニチ Sponichi Annex",
@@ -388,10 +392,6 @@
     },
     {
       "name": "朝日新聞",
-      "count": 1
-    },
-    {
-      "name": "あべの経済新聞",
       "count": 1
     },
     {
@@ -459,12 +459,11 @@
       "url": "https://animeanime.jp/article/2026/10/14/103786.html",
       "image": "https://animeanime.jp/imgs/rss/942248.jpg",
       "leadSource": "アニメ！アニメ！",
-      "publishedAt": "2026-10-14T19:41:44.000Z",
+      "publishedAt": "2026-10-14T21:14:37.000Z",
       "sourceCount": 9,
-      "articleCount": 16,
+      "articleCount": 15,
       "categories": [
-        "anime",
-        "goods"
+        "anime"
       ],
       "keywords": [
         "薬屋",
@@ -472,6 +471,13 @@
         "亡妃"
       ],
       "articles": [
+        {
+          "title": "『劇場版 薬屋のひとりごと 亡妃の秘宝』キャラクターPV第4弾",
+          "url": "https://eigajoho.com/archives/315731",
+          "source": "映画情報どっとこむ",
+          "publishedAt": "2026-10-14T21:14:37.000Z",
+          "isPR": false
+        },
         {
           "title": "「劇場版 薬屋のひとりごと 亡妃の秘宝」でアフレコに挑む見上愛",
           "url": "https://www.sponichi.co.jp/entertainment/news/2026/10/14/gazo/20261013s10041000428000p.html",
@@ -515,17 +521,10 @@
           "isPR": false
         },
         {
-          "title": "「『劇場版 薬屋のひとりごと 亡妃の秘宝』×近鉄 猫猫・壬氏 万葉への謎旅」 コラボラッピングトレイン",
-          "url": "https://abeno.keizai.biz/photoflash/12867/",
-          "source": "あべの経済新聞",
-          "publishedAt": "2026-10-14T07:10:01.000Z",
-          "isPR": false
-        },
-        {
-          "title": "近鉄で「薬屋のひとりごと 亡妃の秘宝」コラボ企画 ラッピング車両運行も（みんなの経済新聞ネットワーク）",
-          "url": "https://news.yahoo.co.jp/articles/3fac4b164fc60f0324e94ef5cb8b83102a670c4f",
-          "source": "Yahoo!ニュース",
-          "publishedAt": "2026-10-14T07:00:59.000Z",
+          "title": "「劇場版 薬屋のひとりごと 亡妃の秘宝」猫猫＆壬氏たちに襲い掛かる水賊「化蛇団」キャラPV公開 小野賢章が頭領・水蛇役",
+          "url": "https://anime.eiga.com/news/127648/",
+          "source": "アニメハック",
+          "publishedAt": "2026-10-14T03:00:00.000Z",
           "isPR": false
         }
       ]
@@ -891,13 +890,33 @@
     }
   ],
   "churn": {
-    "previousAt": "2026-10-14T20:30:21.140Z",
-    "previousCount": 77,
+    "previousAt": "2026-10-14T21:00:19.160Z",
+    "previousCount": 79,
     "newCount": 2
   },
   "updateGapMin": 30,
-  "nextUpdateAt": "2026-10-14T21:30:19.160Z",
+  "nextUpdateAt": "2026-10-14T22:00:18.409Z",
   "items": [
+    {
+      "id": "ee76bfc798c8",
+      "title": "『劇場版 薬屋のひとりごと 亡妃の秘宝』キャラクターPV第4弾",
+      "url": "https://eigajoho.com/archives/315731",
+      "host": "eigajoho.com",
+      "source": "映画情報どっとこむ",
+      "summary": "",
+      "publishedAt": "2026-10-14T21:14:37.000Z",
+      "image": "https://eigajoho.com/wp-content/uploads/2026/10/『薬屋のひとりごと』若晴_沢城みゆき解禁ビジュアル.jpg",
+      "categories": [
+        "anime"
+      ],
+      "works": [
+        "kusuriya"
+      ],
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": true
+    },
     {
       "id": "5fc3e3ec922b",
       "title": "「劇場版 薬屋のひとりごと 亡妃の秘宝」でアフレコに挑む見上愛",
@@ -1453,27 +1472,6 @@
       "isNew": false
     },
     {
-      "id": "58fee1b2401e",
-      "title": "「『劇場版 薬屋のひとりごと 亡妃の秘宝』×近鉄 猫猫・壬氏 万葉への謎旅」 コラボラッピングトレイン",
-      "url": "https://abeno.keizai.biz/photoflash/12867/",
-      "host": "abeno.keizai.biz",
-      "source": "あべの経済新聞",
-      "summary": "",
-      "publishedAt": "2026-10-14T07:10:01.000Z",
-      "image": "https://images.keizai.biz/abeno_keizai/photonews/1791960916_b.jpg",
-      "categories": [
-        "anime",
-        "goods"
-      ],
-      "works": [
-        "kusuriya"
-      ],
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": false
-    },
-    {
       "id": "b4280f86e41a",
       "title": "近鉄で「薬屋のひとりごと 亡妃の秘宝」コラボ企画 ラッピング車両運行も（みんなの経済新聞ネットワーク）",
       "url": "https://news.yahoo.co.jp/articles/3fac4b164fc60f0324e94ef5cb8b83102a670c4f",
@@ -1531,7 +1529,7 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "1ae849702326",
@@ -1926,14 +1924,14 @@
       "isNew": false
     },
     {
-      "id": "7660cb489c30",
-      "title": "「声が最高でびっくり」『薬屋のひとりごと』“未の一族”4人の劇場版キャラPVに「錚々たるキャストじゃねーか！」と大反響",
-      "url": "https://news.yahoo.co.jp/articles/1c98b1e8268578531258eb8d94619db326c6a237",
-      "host": "news.yahoo.co.jp",
-      "source": "Yahoo!ニュース",
+      "id": "1a45a95dc023",
+      "title": "「劇場版 薬屋のひとりごと 亡妃の秘宝」猫猫たちが旅先で出会う「未の一族」キャラPV披露 沐清役の伊瀬茉莉也がコメント発表",
+      "url": "https://anime.eiga.com/news/127645/",
+      "host": "anime.eiga.com",
+      "source": "アニメハック",
       "summary": "",
-      "publishedAt": "2026-10-13T11:39:16.000Z",
-      "image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20261013-10280030-abemad-000-1-view.jpg?exp=10800",
+      "publishedAt": "2026-10-13T12:00:00.000Z",
+      "image": "https://media.eiga.com/images/anime/news/127645/photo/4d3f85bcfb316791/640.jpg",
       "categories": [
         "anime"
       ],
@@ -1943,7 +1941,7 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": false
+      "isNew": true
     },
     {
       "id": "36dc88849c52",
@@ -1981,7 +1979,7 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "632720fd3f31",
