@@ -1,18 +1,18 @@
 {
-  "updatedAt": "2026-10-14T14:30:18.783Z",
+  "updatedAt": "2026-10-14T15:00:22.324Z",
   "site": {
     "title": "なろう系まとめ",
     "tagline": "小説家になろう発の作品のアニメ化・コミカライズ・書籍化のニュースと、なろうのランキングをまとめています。",
     "url": "https://naroumatome.gamelab.website/",
     "contactUrl": "https://docs.google.com/forms/d/e/1FAIpQLSesWyhmZ6sRS_ve-c3X2KqF_wC5PK2TgwgQbTKmnQltSlg5Jw/viewform"
   },
-  "total": 80,
-  "todayCount": 44,
+  "total": 78,
+  "todayCount": 0,
   "categories": [
     {
       "id": "anime",
       "label": "アニメ",
-      "count": 49
+      "count": 50
     },
     {
       "id": "comic",
@@ -32,7 +32,7 @@
     {
       "id": "game",
       "label": "ゲーム",
-      "count": 5
+      "count": 3
     },
     {
       "id": "goods",
@@ -42,7 +42,7 @@
     {
       "id": "other",
       "label": "そのほか",
-      "count": 14
+      "count": 13
     }
   ],
   "works": [
@@ -50,7 +50,7 @@
       "id": "tensura",
       "title": "転生したらスライムだった件",
       "short": "転スラ",
-      "count": 6
+      "count": 5
     },
     {
       "id": "mushoku",
@@ -224,7 +224,7 @@
       "id": "tenken",
       "title": "転生したら剣でした",
       "short": "転剣",
-      "count": 4
+      "count": 5
     },
     {
       "id": "rupunana",
@@ -303,15 +303,11 @@
       "count": 6
     },
     {
-      "name": "山陽新聞",
-      "count": 6
-    },
-    {
       "name": "アニメ！アニメ！",
       "count": 5
     },
     {
-      "name": "WEBザテレビジョン",
+      "name": "山陽新聞",
       "count": 5
     },
     {
@@ -319,11 +315,15 @@
       "count": 4
     },
     {
-      "name": "TVer",
+      "name": "WEBザテレビジョン",
+      "count": 4
+    },
+    {
+      "name": "PR TIMES",
       "count": 3
     },
     {
-      "name": "電撃オンライン",
+      "name": "TVer",
       "count": 3
     },
     {
@@ -331,15 +331,11 @@
       "count": 2
     },
     {
-      "name": "ニコニコニュース",
-      "count": 2
-    },
-    {
-      "name": "PR TIMES",
-      "count": 2
-    },
-    {
       "name": "ふねぽ",
+      "count": 2
+    },
+    {
+      "name": "電撃オンライン",
       "count": 2
     },
     {
@@ -351,11 +347,19 @@
       "count": 2
     },
     {
+      "name": "ABEMA",
+      "count": 1
+    },
+    {
       "name": "PASH! PLUS",
       "count": 1
     },
     {
       "name": "スポニチ Sponichi Annex",
+      "count": 1
+    },
+    {
+      "name": "Infoseek",
       "count": 1
     },
     {
@@ -411,6 +415,10 @@
       "count": 1
     },
     {
+      "name": "ニコニコニュース",
+      "count": 1
+    },
+    {
       "name": "ナタリー",
       "count": 1
     },
@@ -432,10 +440,6 @@
     },
     {
       "name": "Excite エキサイト",
-      "count": 1
-    },
-    {
-      "name": "シネマトゥデイ",
       "count": 1
     }
   ],
@@ -462,7 +466,7 @@
       "articles": [
         {
           "title": "Re：ゼロから始める異世界生活 × ラグーナテンボス～ようこそ、光きらめく水門都市へ。～ 2026年11月7日（土）より開催",
-          "url": "https://news.nicovideo.jp/watch/nw19874199?news_ref",
+          "url": "https://news.nicovideo.jp/watch/nw19874199",
           "source": "ニコニコニュース",
           "publishedAt": "2026-10-13T12:30:27.000Z",
           "isPR": false
@@ -542,7 +546,7 @@
           "title": "「『劇場版 薬屋のひとりごと 亡妃の秘宝』×近鉄 猫猫・壬氏 万葉への謎旅」 コラボラッピングトレイン",
           "url": "https://abeno.keizai.biz/photoflash/12867/",
           "source": "あべの経済新聞",
-          "publishedAt": "2026-10-14T07:10:01.000Z",
+          "publishedAt": "2026-10-14T07:07:30.000Z",
           "isPR": false
         },
         {
@@ -647,9 +651,9 @@
       "articles": [
         {
           "title": "『薬屋のひとりごと』が2週連続1位を獲得！10月5日週アニメ週間ランキング発表",
-          "url": "https://news.nicovideo.jp/watch/nw19877789?news_ref",
-          "source": "ニコニコニュース",
-          "publishedAt": "2026-10-14T09:42:24.000Z",
+          "url": "https://news.infoseek.co.jp/article/abematimes_10280198/",
+          "source": "Infoseek",
+          "publishedAt": "2026-10-14T09:30:00.000Z",
           "isPR": false
         },
         {
@@ -895,13 +899,33 @@
     }
   ],
   "churn": {
-    "previousAt": "2026-10-14T14:00:22.720Z",
-    "previousCount": 78,
-    "newCount": 4
+    "previousAt": "2026-10-14T14:30:18.783Z",
+    "previousCount": 80,
+    "newCount": 2
   },
   "updateGapMin": 30,
-  "nextUpdateAt": "2026-10-14T15:00:18.783Z",
+  "nextUpdateAt": "2026-10-14T15:30:22.324Z",
   "items": [
+    {
+      "id": "fe2cda82aac1",
+      "title": "ハライチ・岩井勇気、『前橋ウィッチーズ』劇場版主題歌を作詞！キャラクターに合わせた歌詞のこだわりを明かし、メンバーも感激！加隈亜衣、『転生したら剣でした』で共演する三木眞一郎の意外な素顔を告白",
+      "url": "https://prtimes.jp/main/html/rd/p/000004110.000064643.html",
+      "host": "prtimes.jp",
+      "source": "PR TIMES",
+      "summary": "[ABEMA] [画像1: https://prcdn.freetls.fastly.net/release_image/64643/4110/64643-4110-4abc3e5a83bfd7fc22038edd71c424d6-1500x1125.jpg?width=536&quality=85%2C75&for…",
+      "publishedAt": "2026-10-14T14:40:02.000Z",
+      "image": "https://prcdn.freetls.fastly.net/release_image/64643/4110/64643-4110-4abc3e5a83bfd7fc22038edd71c424d6-1500x1125.jpg?format=jpeg&auto=webp&fit=bounds&width=2400&height=1260",
+      "categories": [
+        "anime"
+      ],
+      "works": [
+        "tenken"
+      ],
+      "isPR": true,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": true
+    },
     {
       "id": "25bf69ae3294",
       "title": "見上愛「何かステキな影響を」 『薬屋のひとりごと』劇場版のゲスト声優に決定（日テレNEWS NNN）",
@@ -921,6 +945,24 @@
       "viaGoogle": false,
       "sourceKind": "news",
       "isNew": false
+    },
+    {
+      "id": "048856b88e3c",
+      "title": "異世界・ファンタジーアニメ4チャンネル | 無料で放送中の番組や配信中の話題作が見放題",
+      "url": "https://abema.tv/now-on-air/isekai-anime-4",
+      "host": "abema.tv",
+      "source": "ABEMA",
+      "summary": "",
+      "publishedAt": "2026-10-14T13:43:57.000Z",
+      "image": "",
+      "categories": [
+        "anime"
+      ],
+      "works": [],
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": true
     },
     {
       "id": "a99bb3f39fcb",
@@ -1102,12 +1144,12 @@
     {
       "id": "3892e6643089",
       "title": "『薬屋のひとりごと』が2週連続1位を獲得！10月5日週アニメ週間ランキング発表",
-      "url": "https://news.nicovideo.jp/watch/nw19877789?news_ref",
-      "host": "news.nicovideo.jp",
-      "source": "ニコニコニュース",
+      "url": "https://news.infoseek.co.jp/article/abematimes_10280198/",
+      "host": "news.infoseek.co.jp",
+      "source": "Infoseek",
       "summary": "",
-      "publishedAt": "2026-10-14T09:42:24.000Z",
-      "image": "",
+      "publishedAt": "2026-10-14T09:30:00.000Z",
+      "image": "https://media.image.infoseek.co.jp/isnews/photos/abematimes/abematimes_10280198_0-enlarge.jpg",
       "categories": [
         "anime",
         "web"
@@ -1258,7 +1300,7 @@
       "isPR": true,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "eadce5acbde8",
@@ -1382,7 +1424,7 @@
       "host": "abeno.keizai.biz",
       "source": "あべの経済新聞",
       "summary": "",
-      "publishedAt": "2026-10-14T07:10:01.000Z",
+      "publishedAt": "2026-10-14T07:07:30.000Z",
       "image": "https://images.keizai.biz/abeno_keizai/photonews/1791960916_b.jpg",
       "categories": [
         "anime",
@@ -1394,7 +1436,7 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "b4280f86e41a",
@@ -1489,24 +1531,6 @@
       "works": [
         "kusuriya"
       ],
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": false
-    },
-    {
-      "id": "aa4a4bfc523d",
-      "title": "Kindleで『ゲーム オブ ファミリア』がほぼ全巻半額セール中！ 家族丸ごと転移する異世界ファンタジー",
-      "url": "https://dengekionline.com/article/202610/90884",
-      "host": "dengekionline.com",
-      "source": "電撃オンライン",
-      "summary": "",
-      "publishedAt": "2026-10-14T03:10:00.000Z",
-      "image": "https://cimg.kgl-systems.io/camion/files/90884/ogp_FNEQ.jpg?x=1280",
-      "categories": [
-        "game"
-      ],
-      "works": [],
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
@@ -1834,7 +1858,7 @@
     {
       "id": "da67fe8a1bb4",
       "title": "Re：ゼロから始める異世界生活 × ラグーナテンボス～ようこそ、光きらめく水門都市へ。～ 2026年11月7日（土）より開催",
-      "url": "https://news.nicovideo.jp/watch/nw19874199?news_ref",
+      "url": "https://news.nicovideo.jp/watch/nw19874199",
       "host": "news.nicovideo.jp",
       "source": "ニコニコニュース",
       "summary": "",
@@ -1987,7 +2011,7 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "90830af949f6",
@@ -2335,7 +2359,7 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "daea2b931feb",
@@ -2369,26 +2393,6 @@
       ],
       "works": [
         "honzuki"
-      ],
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": false
-    },
-    {
-      "id": "1d034ea68c7b",
-      "title": "『転スラ』剣を交えるリムルとレオン！ルミナスも動く 第91話あらすじ＆場面カット解禁",
-      "url": "https://www.sanyonews.jp/article/1973862?rct",
-      "host": "sanyonews.jp",
-      "source": "山陽新聞",
-      "summary": "",
-      "publishedAt": "2026-10-12T01:36:32.000Z",
-      "image": "https://static.sanyonews.jp/image/article/size1/c/5/6/4/c564fde6e19fffbb9ffc1ef2aae7229b_1.jpg",
-      "categories": [
-        "anime"
-      ],
-      "works": [
-        "tensura"
       ],
       "isPR": false,
       "viaGoogle": false,
@@ -2430,42 +2434,6 @@
       "works": [
         "kusuriya"
       ],
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": false
-    },
-    {
-      "id": "b77a239fbf44",
-      "title": "ゲーム世界転生〈ダン活〉〜ゲーマーは【ダンジョン就活のススメ】を〈はじめから〉プレイする〜",
-      "url": "https://thetv.jp/program/0001079596/cast/",
-      "host": "thetv.jp",
-      "source": "WEBザテレビジョン",
-      "summary": "",
-      "publishedAt": "2026-10-11T14:54:38.000Z",
-      "image": "",
-      "categories": [
-        "game"
-      ],
-      "works": [],
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": false
-    },
-    {
-      "id": "fd265deb7fbd",
-      "title": "【このすば】異世界転生の間や“ジャイアントトード”に飲まれる“アクア”などを完全再現！ 『この素晴らしい世界に祝福を！』展～Cheerful～ 内覧会",
-      "url": "https://www.cinematoday.jp/video/VIYHQ0108xnaz8",
-      "host": "cinematoday.jp",
-      "source": "シネマトゥデイ",
-      "summary": "",
-      "publishedAt": "2026-10-11T14:47:41.000Z",
-      "image": "https://i.ytimg.com/vi/HQ0108xnaz8/maxresdefault.jpg",
-      "categories": [
-        "other"
-      ],
-      "works": [],
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
