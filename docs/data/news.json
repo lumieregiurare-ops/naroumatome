@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-14T20:00:21.250Z",
+  "updatedAt": "2026-10-14T20:30:21.140Z",
   "site": {
     "title": "なろう系まとめ",
     "tagline": "小説家になろう発の作品のアニメ化・コミカライズ・書籍化のニュースと、なろうのランキングをまとめています。",
@@ -296,11 +296,15 @@
   "sources": [
     {
       "name": "Yahoo!ニュース",
-      "count": 14
+      "count": 13
     },
     {
       "name": "ラノベニュースオンライン",
       "count": 6
+    },
+    {
+      "name": "WEBザテレビジョン",
+      "count": 5
     },
     {
       "name": "山陽新聞",
@@ -308,10 +312,6 @@
     },
     {
       "name": "アニメ！アニメ！",
-      "count": 4
-    },
-    {
-      "name": "WEBザテレビジョン",
       "count": 4
     },
     {
@@ -455,8 +455,8 @@
       "url": "https://animeanime.jp/article/2026/10/14/103786.html",
       "image": "https://animeanime.jp/imgs/rss/942248.jpg",
       "leadSource": "アニメ！アニメ！",
-      "publishedAt": "2026-10-14T18:43:14.000Z",
-      "sourceCount": 8,
+      "publishedAt": "2026-10-14T19:41:44.000Z",
+      "sourceCount": 9,
       "articleCount": 15,
       "categories": [
         "anime",
@@ -472,7 +472,7 @@
           "title": "「劇場版 薬屋のひとりごと 亡妃の秘宝」でアフレコに挑む見上愛",
           "url": "https://www.sponichi.co.jp/entertainment/news/2026/10/14/gazo/20261013s10041000428000p.html",
           "source": "スポニチ Sponichi Annex",
-          "publishedAt": "2026-10-14T18:43:14.000Z",
+          "publishedAt": "2026-10-14T19:41:44.000Z",
           "isPR": false
         },
         {
@@ -497,6 +497,13 @@
           "isPR": false
         },
         {
+          "title": "第52話 薬屋のひとりごと",
+          "url": "https://thetv.jp/program/0001067396/4/",
+          "source": "WEBザテレビジョン",
+          "publishedAt": "2026-10-14T09:42:07.000Z",
+          "isPR": false
+        },
+        {
           "title": "【劇場版 薬屋のひとりごと】PV第4弾は「若晴＆銀山」！ 沢城みゆきと見上愛が出演決定（アニメージュプラス）",
           "url": "https://news.yahoo.co.jp/articles/ee154a91525f1ec2811ad2c22881519f84f421e4",
           "source": "Yahoo!ニュース",
@@ -515,13 +522,6 @@
           "url": "https://news.yahoo.co.jp/articles/3fac4b164fc60f0324e94ef5cb8b83102a670c4f",
           "source": "Yahoo!ニュース",
           "publishedAt": "2026-10-14T07:00:59.000Z",
-          "isPR": false
-        },
-        {
-          "title": "「劇場版 薬屋のひとりごと 亡妃の秘宝」猫猫＆壬氏たちに襲い掛かる水賊「化蛇団」キャラPV公開 小野賢章が頭領・水蛇役",
-          "url": "https://anime.eiga.com/news/127648/",
-          "source": "アニメハック",
-          "publishedAt": "2026-10-14T03:00:00.000Z",
           "isPR": false
         }
       ]
@@ -858,12 +858,12 @@
     }
   ],
   "churn": {
-    "previousAt": "2026-10-14T19:30:18.926Z",
+    "previousAt": "2026-10-14T20:00:21.250Z",
     "previousCount": 77,
     "newCount": 1
   },
   "updateGapMin": 30,
-  "nextUpdateAt": "2026-10-14T20:30:21.250Z",
+  "nextUpdateAt": "2026-10-14T21:00:21.140Z",
   "items": [
     {
       "id": "5fc3e3ec922b",
@@ -872,8 +872,8 @@
       "host": "sponichi.co.jp",
       "source": "スポニチ Sponichi Annex",
       "summary": "",
-      "publishedAt": "2026-10-14T18:43:14.000Z",
-      "image": "",
+      "publishedAt": "2026-10-14T19:41:44.000Z",
+      "image": "https://www.sponichi.co.jp/entertainment/news/2026/10/14/jpeg/20261013s10041000428000p_view.webp",
       "categories": [
         "anime"
       ],
@@ -1122,6 +1122,26 @@
       "viaGoogle": false,
       "sourceKind": "news",
       "isNew": false
+    },
+    {
+      "id": "cea39a7a4e74",
+      "title": "第52話 薬屋のひとりごと",
+      "url": "https://thetv.jp/program/0001067396/4/",
+      "host": "thetv.jp",
+      "source": "WEBザテレビジョン",
+      "summary": "",
+      "publishedAt": "2026-10-14T09:42:07.000Z",
+      "image": "",
+      "categories": [
+        "anime"
+      ],
+      "works": [
+        "kusuriya"
+      ],
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": true
     },
     {
       "id": "3892e6643089",
@@ -1655,26 +1675,6 @@
       "isNew": false
     },
     {
-      "id": "61711d5b55d2",
-      "title": "劇場版『薬屋のひとりごと』新PV解禁 沢城みゆき＆見上愛が物語の鍵を握るキャラクター演じる (オリコン)",
-      "url": "https://news.yahoo.co.jp/articles/2ad724817abec271bec840adcdedabdba2b6620e/images/000",
-      "host": "news.yahoo.co.jp",
-      "source": "Yahoo!ニュース",
-      "summary": "",
-      "publishedAt": "2026-10-13T23:30:15.000Z",
-      "image": "https://news-pctr.c.yimg.jp/uUzvQ3lML_bkIqyakc1vFhNrRI0RUQxg5aFkrX0xDg1_T0wXrbEJjtNGtrf1o9y3xudcUclfbXjZqAvGT8NJnS1TvkIeETQZ5fhpTFo7Duz0BB5qV9_x-Mf0B3Jb4uqyCCa-5V6HcMJOD07qG4tt0l1LSixzlH8Zi9TMh2ls8BsjlBUQZFnV1hoiy5ecmpRu",
-      "categories": [
-        "anime"
-      ],
-      "works": [
-        "kusuriya"
-      ],
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": false
-    },
-    {
       "id": "7662d9d8d36b",
       "title": "見上愛：朝ドラ後初出演 劇場版「薬屋のひとりごと」で声優に 沢城みゆきも出演",
       "url": "https://mantan-web.jp/article/20261013dog00m200054000a.html",
@@ -2028,7 +2028,7 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "90830af949f6",
