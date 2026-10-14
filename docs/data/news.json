@@ -1,18 +1,18 @@
 {
-  "updatedAt": "2026-10-14T20:30:21.140Z",
+  "updatedAt": "2026-10-14T21:00:19.160Z",
   "site": {
     "title": "なろう系まとめ",
     "tagline": "小説家になろう発の作品のアニメ化・コミカライズ・書籍化のニュースと、なろうのランキングをまとめています。",
     "url": "https://naroumatome.gamelab.website/",
     "contactUrl": "https://docs.google.com/forms/d/e/1FAIpQLSesWyhmZ6sRS_ve-c3X2KqF_wC5PK2TgwgQbTKmnQltSlg5Jw/viewform"
   },
-  "total": 77,
+  "total": 79,
   "todayCount": 1,
   "categories": [
     {
       "id": "anime",
       "label": "アニメ",
-      "count": 50
+      "count": 51
     },
     {
       "id": "comic",
@@ -42,7 +42,7 @@
     {
       "id": "other",
       "label": "そのほか",
-      "count": 12
+      "count": 13
     }
   ],
   "works": [
@@ -56,7 +56,7 @@
       "id": "mushoku",
       "title": "無職転生 ～異世界行ったら本気だす～",
       "short": "無職転生",
-      "count": 2
+      "count": 3
     },
     {
       "id": "rezero",
@@ -74,7 +74,7 @@
       "id": "kusuriya",
       "title": "薬屋のひとりごと",
       "short": "薬屋",
-      "count": 33
+      "count": 34
     },
     {
       "id": "kagejitsu",
@@ -311,12 +311,12 @@
       "count": 5
     },
     {
-      "name": "アニメ！アニメ！",
+      "name": "アニメハック",
       "count": 4
     },
     {
-      "name": "アニメハック",
-      "count": 3
+      "name": "アニメ！アニメ！",
+      "count": 4
     },
     {
       "name": "オリコンニュース",
@@ -395,6 +395,10 @@
       "count": 1
     },
     {
+      "name": "Unisba Media",
+      "count": 1
+    },
+    {
       "name": "アニメイトタイムズ",
       "count": 1
     },
@@ -457,7 +461,7 @@
       "leadSource": "アニメ！アニメ！",
       "publishedAt": "2026-10-14T19:41:44.000Z",
       "sourceCount": 9,
-      "articleCount": 15,
+      "articleCount": 16,
       "categories": [
         "anime",
         "goods"
@@ -465,7 +469,7 @@
       "keywords": [
         "薬屋",
         "劇場版",
-        "見上愛"
+        "亡妃"
       ],
       "articles": [
         {
@@ -773,6 +777,35 @@
       ]
     },
     {
+      "id": "307d15370272",
+      "title": "【無職転生】面白いし1回は出してみたい無職で異世界行かなくても本気出して欲しいさらば諭吉【このごみ2198養分】 Sloth World (fKXcGM6khq)",
+      "summary": "",
+      "url": "https://media.unisba.ac.id/c19d9177/c4e14b7cIqA5Feca4x0",
+      "image": "https://pixela.co.jp/delivery/wp-content/uploads/mushoku-tensei-streaming-eyecatch.jpg",
+      "leadSource": "Unisba Media",
+      "publishedAt": "2026-10-14T06:48:51.000Z",
+      "sourceCount": 2,
+      "articleCount": 2,
+      "categories": [
+        "other",
+        "anime"
+      ],
+      "keywords": [
+        "無職転生",
+        "無職",
+        "異世界行"
+      ],
+      "articles": [
+        {
+          "title": "無職転生 ～異世界行ったら本気だす～の配信はどこ？DMM TVで見放題",
+          "url": "https://pixela.co.jp/delivery/mushoku-tensei-streaming/",
+          "source": "株式会社ピクセラ",
+          "publishedAt": "2026-10-13T13:46:06.000Z",
+          "isPR": false
+        }
+      ]
+    },
+    {
       "id": "fb3c2dce7828",
       "title": "第3話 転生ゴブリンだけど質問ある？",
       "summary": "",
@@ -858,12 +891,12 @@
     }
   ],
   "churn": {
-    "previousAt": "2026-10-14T20:00:21.250Z",
+    "previousAt": "2026-10-14T20:30:21.140Z",
     "previousCount": 77,
-    "newCount": 1
+    "newCount": 2
   },
   "updateGapMin": 30,
-  "nextUpdateAt": "2026-10-14T21:00:21.140Z",
+  "nextUpdateAt": "2026-10-14T21:30:19.160Z",
   "items": [
     {
       "id": "5fc3e3ec922b",
@@ -1141,7 +1174,7 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "3892e6643089",
@@ -1479,6 +1512,26 @@
       "viaGoogle": false,
       "sourceKind": "news",
       "isNew": false
+    },
+    {
+      "id": "307d15370272",
+      "title": "【無職転生】面白いし1回は出してみたい無職で異世界行かなくても本気出して欲しいさらば諭吉【このごみ2198養分】 Sloth World (fKXcGM6khq)",
+      "url": "https://media.unisba.ac.id/c19d9177/c4e14b7cIqA5Feca4x0",
+      "host": "media.unisba.ac.id",
+      "source": "Unisba Media",
+      "summary": "",
+      "publishedAt": "2026-10-14T06:48:51.000Z",
+      "image": "",
+      "categories": [
+        "other"
+      ],
+      "works": [
+        "mushoku"
+      ],
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": true
     },
     {
       "id": "1ae849702326",
@@ -1909,6 +1962,26 @@
       "viaGoogle": false,
       "sourceKind": "news",
       "isNew": false
+    },
+    {
+      "id": "3df311900b8d",
+      "title": "「劇場版 薬屋のひとりごと 亡妃の秘宝」猫猫・壬氏一行を描くキャラクターPV披露【初公開シーン満載】",
+      "url": "https://anime.eiga.com/news/127644/",
+      "host": "anime.eiga.com",
+      "source": "アニメハック",
+      "summary": "",
+      "publishedAt": "2026-10-13T10:00:00.000Z",
+      "image": "https://media.eiga.com/images/anime/news/127644/photo/e2172b6e3f04bf8f/640.jpg",
+      "categories": [
+        "anime"
+      ],
+      "works": [
+        "kusuriya"
+      ],
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": true
     },
     {
       "id": "632720fd3f31",
