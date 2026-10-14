@@ -1,12 +1,12 @@
 {
-  "updatedAt": "2026-10-14T16:00:22.031Z",
+  "updatedAt": "2026-10-14T16:30:19.720Z",
   "site": {
     "title": "なろう系まとめ",
     "tagline": "小説家になろう発の作品のアニメ化・コミカライズ・書籍化のニュースと、なろうのランキングをまとめています。",
     "url": "https://naroumatome.gamelab.website/",
     "contactUrl": "https://docs.google.com/forms/d/e/1FAIpQLSesWyhmZ6sRS_ve-c3X2KqF_wC5PK2TgwgQbTKmnQltSlg5Jw/viewform"
   },
-  "total": 76,
+  "total": 78,
   "todayCount": 1,
   "categories": [
     {
@@ -27,7 +27,7 @@
     {
       "id": "web",
       "label": "Web小説・賞",
-      "count": 3
+      "count": 4
     },
     {
       "id": "game",
@@ -37,12 +37,12 @@
     {
       "id": "goods",
       "label": "グッズ・イベント",
-      "count": 11
+      "count": 12
     },
     {
       "id": "other",
       "label": "そのほか",
-      "count": 12
+      "count": 13
     }
   ],
   "works": [
@@ -74,7 +74,7 @@
       "id": "kusuriya",
       "title": "薬屋のひとりごと",
       "short": "薬屋",
-      "count": 29
+      "count": 30
     },
     {
       "id": "kagejitsu",
@@ -200,7 +200,7 @@
       "id": "silent-witch",
       "title": "サイレント・ウィッチ",
       "short": "サイレント・ウィッチ",
-      "count": 1
+      "count": 2
     },
     {
       "id": "kamitachi",
@@ -307,12 +307,16 @@
       "count": 5
     },
     {
-      "name": "WEBザテレビジョン",
+      "name": "山陽新聞",
       "count": 5
     },
     {
-      "name": "山陽新聞",
-      "count": 5
+      "name": "WEBザテレビジョン",
+      "count": 4
+    },
+    {
+      "name": "アニメハック",
+      "count": 3
     },
     {
       "name": "オリコンニュース",
@@ -325,10 +329,6 @@
     {
       "name": "電撃オンライン",
       "count": 3
-    },
-    {
-      "name": "アニメハック",
-      "count": 2
     },
     {
       "name": "ｄメニューニュース",
@@ -344,6 +344,10 @@
     },
     {
       "name": "GameWith",
+      "count": 2
+    },
+    {
+      "name": "Dellows News",
       "count": 2
     },
     {
@@ -423,7 +427,7 @@
       "count": 1
     },
     {
-      "name": "Dellows News",
+      "name": "ライブドアニュース",
       "count": 1
     },
     {
@@ -525,16 +529,16 @@
       "image": "https://assets.hldycdn.com/52b2ea42-a184-4466-83ef-01fa940f8ab1.jpeg",
       "leadSource": "www.haveagood-holiday.com",
       "publishedAt": "2026-10-13T14:44:52.000Z",
-      "sourceCount": 6,
-      "articleCount": 6,
+      "sourceCount": 7,
+      "articleCount": 7,
       "categories": [
         "goods",
         "other"
       ],
       "keywords": [
         "異世界生活",
-        "コラボイベント",
-        "ラグナシア"
+        "ラグナシア",
+        "コラボイベント"
       ],
       "articles": [
         {
@@ -556,6 +560,13 @@
           "url": "https://dtimes.jp/post-1413270/",
           "source": "Dtimes",
           "publishedAt": "2026-10-13T06:12:50.000Z",
+          "isPR": false
+        },
+        {
+          "title": "【画像】描き下ろしイラストのグッズやラリーが登場！ラグーナテンボス ラグナシア『Re:ゼロから始める異世界生活 × ラグーナテンボス ～ようこそ、光きらめく水門都市へ。～』 1/13",
+          "url": "https://news.livedoor.com/article/image_detail/32555020/?img_id",
+          "source": "ライブドアニュース",
+          "publishedAt": "2026-10-13T06:09:54.000Z",
           "isPR": false
         },
         {
@@ -730,6 +741,34 @@
       ]
     },
     {
+      "id": "df5ddc8067a4",
+      "title": "サイレント・ウィッチ 5周年 POP UP in 新宿 10月24日より開催!",
+      "summary": "",
+      "url": "https://collabo-cafe.com/events/collabo/silentwitch-5th-anniversary-popup-shinjuku-2026-add-info-goods/",
+      "image": "https://collabo-cafe.com/wp-content/uploads/silentwitch-5th-popup-goods-eyecatch.jpg",
+      "leadSource": "コラボカフェ",
+      "publishedAt": "2026-10-14T07:20:28.000Z",
+      "sourceCount": 2,
+      "articleCount": 2,
+      "categories": [
+        "anime",
+        "other"
+      ],
+      "keywords": [
+        "サイレント",
+        "ウィッチ"
+      ],
+      "articles": [
+        {
+          "title": "KADOKAWA、サイレント・ウィッチの直筆サイン入りキャラファイングラフ等を販売へ",
+          "url": "https://news.dellows.jp/576656/?from",
+          "source": "Dellows News",
+          "publishedAt": "2026-10-12T09:33:39.000Z",
+          "isPR": false
+        }
+      ]
+    },
+    {
       "id": "fb3c2dce7828",
       "title": "第3話 転生ゴブリンだけど質問ある？",
       "summary": "",
@@ -757,18 +796,17 @@
       ]
     },
     {
-      "id": "53b4fbd75e8b",
-      "title": "【第19話】本好きの下剋上 領主の養女",
+      "id": "39bf293e490e",
+      "title": "『本好きの下剋上』続編「貴族院の自称図書委員」編アニメ化決定 制作はWIT STUDIO",
       "summary": "",
-      "url": "https://www.tvguide.or.jp/db/anime/booklove/youjyo/episode19/",
-      "image": "https://cimg.kgl-systems.io/camion/files/90766/thumbnail_ZMTP.jpg?x=1280",
-      "leadSource": "TVガイドWeb",
-      "publishedAt": "2026-10-13T17:28:37.000Z",
+      "url": "https://www.sanyonews.jp/article/1999132?rct",
+      "image": "https://static.sanyonews.jp/image/article/size1/e/6/b/3/e6b3aa2868f5d7e89848e029284bc7ef_1.jpg",
+      "leadSource": "山陽新聞",
+      "publishedAt": "2026-10-13T17:29:20.000Z",
       "sourceCount": 2,
       "articleCount": 2,
       "categories": [
-        "anime",
-        "game"
+        "anime"
       ],
       "keywords": [
         "本好き",
@@ -777,10 +815,10 @@
       ],
       "articles": [
         {
-          "title": "Audibleがプライム会員なら4ヵ月間月額99円。『本好きの下剋上』『転スラ』『マケイン』『SAO』『イン・ザ・メガチャーチ』など数十万以上の作品が聴き放題に",
-          "url": "https://www.famitsu.com/article/202610/90766",
-          "source": "ファミ通.com",
-          "publishedAt": "2026-10-12T23:10:00.000Z",
+          "title": "【第19話】本好きの下剋上 領主の養女",
+          "url": "https://www.tvguide.or.jp/db/anime/booklove/youjyo/episode19/",
+          "source": "TVガイドWeb",
+          "publishedAt": "2026-10-13T17:28:37.000Z",
           "isPR": false
         }
       ]
@@ -816,12 +854,12 @@
     }
   ],
   "churn": {
-    "previousAt": "2026-10-14T15:30:21.152Z",
-    "previousCount": 80,
-    "newCount": 0
+    "previousAt": "2026-10-14T16:00:22.031Z",
+    "previousCount": 76,
+    "newCount": 3
   },
   "updateGapMin": 30,
-  "nextUpdateAt": "2026-10-14T16:30:22.031Z",
+  "nextUpdateAt": "2026-10-14T17:00:19.720Z",
   "items": [
     {
       "id": "5fc3e3ec922b",
@@ -979,6 +1017,27 @@
       "viaGoogle": false,
       "sourceKind": "news",
       "isNew": false
+    },
+    {
+      "id": "99fd599510a3",
+      "title": "【今期TVアニメランキング】「薬屋のひとりごと」連続首位 「ホタルの嫁入り」が初登場2位 : ニュース",
+      "url": "https://anime.eiga.com/news/column/konki_ranking/127636/",
+      "host": "anime.eiga.com",
+      "source": "アニメハック",
+      "summary": "",
+      "publishedAt": "2026-10-14T11:00:00.000Z",
+      "image": "https://media.eiga.com/images/anime/news/127636/photo/76f301270984ad1f/640.jpg",
+      "categories": [
+        "anime",
+        "web"
+      ],
+      "works": [
+        "kusuriya"
+      ],
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": true
     },
     {
       "id": "b788a84abd47",
@@ -1649,6 +1708,26 @@
       "isNew": false
     },
     {
+      "id": "39bf293e490e",
+      "title": "『本好きの下剋上』続編「貴族院の自称図書委員」編アニメ化決定 制作はWIT STUDIO",
+      "url": "https://www.sanyonews.jp/article/1999132?rct",
+      "host": "sanyonews.jp",
+      "source": "山陽新聞",
+      "summary": "",
+      "publishedAt": "2026-10-13T17:29:20.000Z",
+      "image": "https://static.sanyonews.jp/image/article/size1/e/6/b/3/e6b3aa2868f5d7e89848e029284bc7ef_1.jpg",
+      "categories": [
+        "anime"
+      ],
+      "works": [
+        "honzuki"
+      ],
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": false
+    },
+    {
       "id": "53b4fbd75e8b",
       "title": "【第19話】本好きの下剋上 領主の養女",
       "url": "https://www.tvguide.or.jp/db/anime/booklove/youjyo/episode19/",
@@ -1886,6 +1965,26 @@
       "viaGoogle": false,
       "sourceKind": "news",
       "isNew": false
+    },
+    {
+      "id": "d9a9ca3f25ef",
+      "title": "【画像】描き下ろしイラストのグッズやラリーが登場！ラグーナテンボス ラグナシア『Re:ゼロから始める異世界生活 × ラグーナテンボス ～ようこそ、光きらめく水門都市へ。～』 1/13",
+      "url": "https://news.livedoor.com/article/image_detail/32555020/?img_id",
+      "host": "news.livedoor.com",
+      "source": "ライブドアニュース",
+      "summary": "",
+      "publishedAt": "2026-10-13T06:09:54.000Z",
+      "image": "https://image.news.livedoor.com/newsimage/stf/9/1/91f03_1604_bb2a4b3a_5fdcb651.jpg",
+      "categories": [
+        "goods"
+      ],
+      "works": [
+        "rezero"
+      ],
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": true
     },
     {
       "id": "90830af949f6",
@@ -2216,6 +2315,26 @@
       "isNew": false
     },
     {
+      "id": "acf44df56926",
+      "title": "KADOKAWA、サイレント・ウィッチの直筆サイン入りキャラファイングラフ等を販売へ",
+      "url": "https://news.dellows.jp/576656/?from",
+      "host": "news.dellows.jp",
+      "source": "Dellows News",
+      "summary": "",
+      "publishedAt": "2026-10-12T09:33:39.000Z",
+      "image": "https://news.dellows.jp/wp-content/uploads/2026/10/576656_1.jpg",
+      "categories": [
+        "other"
+      ],
+      "works": [
+        "silent-witch"
+      ],
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": true
+    },
+    {
       "id": "daea2b931feb",
       "title": "アニメ『凶乱令嬢ニア・リストン 病弱令嬢に転生した神殺しの武人の華麗なる無双録』第2話「王都での仕事」のあらすじ＆先行カット解禁",
       "url": "https://ln-news.com/articles/126915",
@@ -2267,46 +2386,6 @@
       ],
       "works": [
         "kusuriya"
-      ],
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": false
-    },
-    {
-      "id": "0e169364ddb1",
-      "title": "Re:ゼロ＞《奪還編》最終話放送記念エピローグビジュアル公開 小林裕介＆水瀬いのりからコメント到着",
-      "url": "https://thetv.jp/news/detail/1445042/landing/",
-      "host": "thetv.jp",
-      "source": "WEBザテレビジョン",
-      "summary": "",
-      "publishedAt": "2026-10-11T21:41:16.000Z",
-      "image": "",
-      "categories": [
-        "anime"
-      ],
-      "works": [
-        "rezero"
-      ],
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": false
-    },
-    {
-      "id": "39bf293e490e",
-      "title": "『本好きの下剋上』続編「貴族院の自称図書委員」編アニメ化決定 制作はWIT STUDIO",
-      "url": "https://www.sanyonews.jp/article/1999132",
-      "host": "sanyonews.jp",
-      "source": "山陽新聞",
-      "summary": "",
-      "publishedAt": "2026-10-11T20:43:29.000Z",
-      "image": "https://static.sanyonews.jp/image/article/size1/e/6/b/3/e6b3aa2868f5d7e89848e029284bc7ef_1.jpg",
-      "categories": [
-        "anime"
-      ],
-      "works": [
-        "honzuki"
       ],
       "isPR": false,
       "viaGoogle": false,
