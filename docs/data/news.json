@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-14T19:30:18.926Z",
+  "updatedAt": "2026-10-14T20:00:21.250Z",
   "site": {
     "title": "なろう系まとめ",
     "tagline": "小説家になろう発の作品のアニメ化・コミカライズ・書籍化のニュースと、なろうのランキングをまとめています。",
@@ -12,7 +12,7 @@
     {
       "id": "anime",
       "label": "アニメ",
-      "count": 51
+      "count": 50
     },
     {
       "id": "comic",
@@ -62,7 +62,7 @@
       "id": "rezero",
       "title": "Re:ゼロから始める異世界生活",
       "short": "リゼロ",
-      "count": 7
+      "count": 8
     },
     {
       "id": "honzuki",
@@ -74,7 +74,7 @@
       "id": "kusuriya",
       "title": "薬屋のひとりごと",
       "short": "薬屋",
-      "count": 34
+      "count": 33
     },
     {
       "id": "kagejitsu",
@@ -395,10 +395,6 @@
       "count": 1
     },
     {
-      "name": "au Webポータル",
-      "count": 1
-    },
-    {
       "name": "アニメイトタイムズ",
       "count": 1
     },
@@ -432,6 +428,10 @@
     },
     {
       "name": "Dtimes",
+      "count": 1
+    },
+    {
+      "name": "ライブドアニュース",
       "count": 1
     },
     {
@@ -534,16 +534,16 @@
       "image": "https://assets.hldycdn.com/52b2ea42-a184-4466-83ef-01fa940f8ab1.jpeg",
       "leadSource": "www.haveagood-holiday.com",
       "publishedAt": "2026-10-13T14:44:52.000Z",
-      "sourceCount": 6,
-      "articleCount": 6,
+      "sourceCount": 7,
+      "articleCount": 7,
       "categories": [
         "goods",
         "other"
       ],
       "keywords": [
         "異世界生活",
-        "コラボイベント",
-        "ラグナシア"
+        "ラグナシア",
+        "コラボイベント"
       ],
       "articles": [
         {
@@ -565,6 +565,13 @@
           "url": "https://dtimes.jp/post-1413270/",
           "source": "Dtimes",
           "publishedAt": "2026-10-13T06:12:50.000Z",
+          "isPR": false
+        },
+        {
+          "title": "【画像】描き下ろしイラストのグッズやラリーが登場！ラグーナテンボス ラグナシア『Re:ゼロから始める異世界生活 × ラグーナテンボス ～ようこそ、光きらめく水門都市へ。～』 1/13",
+          "url": "https://news.livedoor.com/article/image_detail/32555020/?img_id",
+          "source": "ライブドアニュース",
+          "publishedAt": "2026-10-13T06:09:54.000Z",
           "isPR": false
         },
         {
@@ -851,12 +858,12 @@
     }
   ],
   "churn": {
-    "previousAt": "2026-10-14T19:00:19.742Z",
-    "previousCount": 78,
+    "previousAt": "2026-10-14T19:30:18.926Z",
+    "previousCount": 77,
     "newCount": 1
   },
   "updateGapMin": 30,
-  "nextUpdateAt": "2026-10-14T20:00:18.926Z",
+  "nextUpdateAt": "2026-10-14T20:30:21.250Z",
   "items": [
     {
       "id": "5fc3e3ec922b",
@@ -866,7 +873,7 @@
       "source": "スポニチ Sponichi Annex",
       "summary": "",
       "publishedAt": "2026-10-14T18:43:14.000Z",
-      "image": "https://www.sponichi.co.jp/entertainment/news/2026/10/14/jpeg/20261013s10041000428000p_view.webp",
+      "image": "",
       "categories": [
         "anime"
       ],
@@ -1454,27 +1461,6 @@
       "isNew": false
     },
     {
-      "id": "f0d16f918481",
-      "title": "TVアニメ『薬屋のひとりごと』初コラボアイテムが可愛すぎ♡ リジュラン限定ポップアップの全貌をチェック！",
-      "url": "https://article.auone.jp/3df64084-7d40-48aa-bf5e-2bed1f4c3264",
-      "host": "article.auone.jp",
-      "source": "au Webポータル",
-      "summary": "",
-      "publishedAt": "2026-10-14T06:25:00.000Z",
-      "image": "https://newportal.portal.auone.jp/media/thumbnails/2026/10/14/https___news_jp_i_1482988147357221696_w1035.webp",
-      "categories": [
-        "goods",
-        "anime"
-      ],
-      "works": [
-        "kusuriya"
-      ],
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": false
-    },
-    {
       "id": "1ae849702326",
       "title": "異世界ファンタジーの金字塔「彼方から」、黒沢ともよ&熊谷健太郎が語るアニメ版の魅力と原作の強さ",
       "url": "https://thetv.jp/news/detail/1441677/landing/",
@@ -1904,7 +1890,7 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "36dc88849c52",
@@ -2023,6 +2009,26 @@
       "viaGoogle": false,
       "sourceKind": "news",
       "isNew": false
+    },
+    {
+      "id": "d9a9ca3f25ef",
+      "title": "【画像】描き下ろしイラストのグッズやラリーが登場！ラグーナテンボス ラグナシア『Re:ゼロから始める異世界生活 × ラグーナテンボス ～ようこそ、光きらめく水門都市へ。～』 1/13",
+      "url": "https://news.livedoor.com/article/image_detail/32555020/?img_id",
+      "host": "news.livedoor.com",
+      "source": "ライブドアニュース",
+      "summary": "",
+      "publishedAt": "2026-10-13T06:09:54.000Z",
+      "image": "https://image.news.livedoor.com/newsimage/stf/9/1/91f03_1604_bb2a4b3a_5fdcb651.jpg",
+      "categories": [
+        "goods"
+      ],
+      "works": [
+        "rezero"
+      ],
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": true
     },
     {
       "id": "90830af949f6",
