@@ -1,18 +1,18 @@
 {
-  "updatedAt": "2026-10-14T00:00:18.434Z",
+  "updatedAt": "2026-10-14T00:30:20.487Z",
   "site": {
     "title": "なろう系まとめ",
     "tagline": "小説家になろう発の作品のアニメ化・コミカライズ・書籍化のニュースと、なろうのランキングをまとめています。",
     "url": "https://naroumatome.gamelab.website/",
     "contactUrl": "https://docs.google.com/forms/d/e/1FAIpQLSesWyhmZ6sRS_ve-c3X2KqF_wC5PK2TgwgQbTKmnQltSlg5Jw/viewform"
   },
-  "total": 79,
-  "todayCount": 13,
+  "total": 77,
+  "todayCount": 14,
   "categories": [
     {
       "id": "anime",
       "label": "アニメ",
-      "count": 57
+      "count": 55
     },
     {
       "id": "comic",
@@ -74,7 +74,7 @@
       "id": "kusuriya",
       "title": "薬屋のひとりごと",
       "short": "薬屋",
-      "count": 31
+      "count": 30
     },
     {
       "id": "kagejitsu",
@@ -254,7 +254,7 @@
       "id": "tensei-kizoku",
       "title": "転生貴族、鑑定スキルで成り上がる",
       "short": "転生貴族",
-      "count": 1
+      "count": 0
     },
     {
       "id": "kuro-no-shokanshi",
@@ -311,11 +311,11 @@
       "count": 5
     },
     {
-      "name": "ラノベニュースオンライン",
-      "count": 4
+      "name": "ｄメニューニュース",
+      "count": 3
     },
     {
-      "name": "ｄメニューニュース",
+      "name": "ラノベニュースオンライン",
       "count": 3
     },
     {
@@ -323,7 +323,7 @@
       "count": 3
     },
     {
-      "name": "スポニチ Sponichi Annex",
+      "name": "ナタリー",
       "count": 2
     },
     {
@@ -339,16 +339,16 @@
       "count": 2
     },
     {
-      "name": "アニメイトタイムズ",
-      "count": 2
-    },
-    {
       "name": "Howl.link",
       "count": 2
     },
     {
       "name": "電撃オンライン",
       "count": 2
+    },
+    {
+      "name": "スポニチ Sponichi Annex",
+      "count": 1
     },
     {
       "name": "MANTANWEB",
@@ -368,10 +368,6 @@
     },
     {
       "name": "株式会社ピクセラ",
-      "count": 1
-    },
-    {
-      "name": "ナタリー",
       "count": 1
     },
     {
@@ -400,6 +396,10 @@
     },
     {
       "name": "https://tonomatsuri.com/",
+      "count": 1
+    },
+    {
+      "name": "アニメイトタイムズ",
       "count": 1
     },
     {
@@ -443,9 +443,9 @@
       "url": "https://animeanime.jp/article/2026/10/13/103741.html",
       "image": "https://animeanime.jp/imgs/rss/941782.jpg",
       "leadSource": "アニメ！アニメ！",
-      "publishedAt": "2026-10-13T23:15:00.000Z",
+      "publishedAt": "2026-10-14T00:06:00.000Z",
       "sourceCount": 11,
-      "articleCount": 22,
+      "articleCount": 21,
       "categories": [
         "anime"
       ],
@@ -455,6 +455,13 @@
         "キャラ"
       ],
       "articles": [
+        {
+          "title": "「劇場版 薬屋のひとりごと」“亡妃”若晴役に沢城みゆき、銀山役に見上愛（動画あり / コメントあり）",
+          "url": "https://natalie.mu/comic/news/693576",
+          "source": "ナタリー",
+          "publishedAt": "2026-10-14T00:06:00.000Z",
+          "isPR": false
+        },
         {
           "title": "「劇場版 薬屋のひとりごと 亡妃の秘宝」でアフレコに挑む見上愛",
           "url": "https://www.sponichi.co.jp/entertainment/news/2026/10/14/gazo/20261013s10041000428000p.html",
@@ -498,17 +505,10 @@
           "isPR": false
         },
         {
-          "title": "見上愛 朝ドラ主演後の初仕事はアニメ声優 12月公開「劇場版 薬屋のひとりごと 亡妃の秘宝」",
-          "url": "https://www.sponichi.co.jp/entertainment/news/2026/10/14/kiji/20261013s00041000383000c.html",
-          "source": "スポニチ Sponichi Annex",
+          "title": "見上愛 朝ドラ主演後の初仕事はアニメ声優 12月公開「劇場版 薬屋のひとりごと 亡妃の秘宝」 (スポニチアネックス)",
+          "url": "https://news.yahoo.co.jp/articles/2bbe5f8184be2005aa35c3ec80f9986e7f04cbf8/images/000",
+          "source": "Yahoo!ニュース",
           "publishedAt": "2026-10-13T23:00:00.000Z",
-          "isPR": false
-        },
-        {
-          "title": "「劇場版 薬屋のひとりごと 亡妃の秘宝」猫猫たちが旅先で出会う「未の一族」キャラPV披露 沐清役の伊瀬茉莉也がコメント発表",
-          "url": "https://anime.eiga.com/news/127645/",
-          "source": "アニメハック",
-          "publishedAt": "2026-10-13T12:00:00.000Z",
           "isPR": false
         }
       ]
@@ -775,13 +775,33 @@
     }
   ],
   "churn": {
-    "previousAt": "2026-10-13T23:30:19.209Z",
-    "previousCount": 81,
+    "previousAt": "2026-10-14T00:00:18.434Z",
+    "previousCount": 79,
     "newCount": 1
   },
   "updateGapMin": 30,
-  "nextUpdateAt": "2026-10-14T00:30:18.434Z",
+  "nextUpdateAt": "2026-10-14T01:00:20.487Z",
   "items": [
+    {
+      "id": "4db3062d689d",
+      "title": "「劇場版 薬屋のひとりごと」“亡妃”若晴役に沢城みゆき、銀山役に見上愛（動画あり / コメントあり）",
+      "url": "https://natalie.mu/comic/news/693576",
+      "host": "natalie.mu",
+      "source": "ナタリー",
+      "summary": "",
+      "publishedAt": "2026-10-14T00:06:00.000Z",
+      "image": "",
+      "categories": [
+        "anime"
+      ],
+      "works": [
+        "kusuriya"
+      ],
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": true
+    },
     {
       "id": "5fc3e3ec922b",
       "title": "「劇場版 薬屋のひとりごと 亡妃の秘宝」でアフレコに挑む見上愛",
@@ -944,13 +964,13 @@
     },
     {
       "id": "4cc9505cce3e",
-      "title": "見上愛 朝ドラ主演後の初仕事はアニメ声優 12月公開「劇場版 薬屋のひとりごと 亡妃の秘宝」",
-      "url": "https://www.sponichi.co.jp/entertainment/news/2026/10/14/kiji/20261013s00041000383000c.html",
-      "host": "sponichi.co.jp",
-      "source": "スポニチ Sponichi Annex",
+      "title": "見上愛 朝ドラ主演後の初仕事はアニメ声優 12月公開「劇場版 薬屋のひとりごと 亡妃の秘宝」 (スポニチアネックス)",
+      "url": "https://news.yahoo.co.jp/articles/2bbe5f8184be2005aa35c3ec80f9986e7f04cbf8/images/000",
+      "host": "news.yahoo.co.jp",
+      "source": "Yahoo!ニュース",
       "summary": "",
       "publishedAt": "2026-10-13T23:00:00.000Z",
-      "image": "https://www.sponichi.co.jp/entertainment/news/2026/10/14/jpeg/20261013s10041000426000p_view.webp",
+      "image": "https://news-pctr.c.yimg.jp/uUzvQ3lML_bkIqyakc1vFhNrRI0RUQxg5aFkrX0xDg1_T0wXrbEJjtNGtrf1o9y3xudcUclfbXjZqAvGT8NJneL9TGybQcTG-W74P7PUutAoCOjiyMaZZIYYEBwrs_PCPt9nJY6nDyYKIDYx4At1OQ-cSD9pzJKFofA7I4yPCw0SHZ3Tkn7wmp2B8Uv6d_mb_usfO-m42_JA8l3VYvaw0Q==",
       "categories": [
         "anime"
       ],
@@ -1041,7 +1061,7 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "b1c1cdeb01ea",
@@ -1403,26 +1423,6 @@
       "isNew": false
     },
     {
-      "id": "8864d92579d7",
-      "title": "＜劇場版 薬屋のひとりごと 亡妃の秘宝＞第3弾PV公開＆壬氏一行を狙う水賊・化蛇団メンバーに小野賢章ら決定",
-      "url": "https://news.yahoo.co.jp/articles/4f551e782329d6dd94710615aa94abdf7f4fa406/images/000",
-      "host": "news.yahoo.co.jp",
-      "source": "Yahoo!ニュース",
-      "summary": "",
-      "publishedAt": "2026-10-13T06:09:06.000Z",
-      "image": "https://news-pctr.c.yimg.jp/uUzvQ3lML_bkIqyakc1vFhNrRI0RUQxg5aFkrX0xDg1_T0wXrbEJjtNGtrf1o9y3xudcUclfbXjZqAvGT8NJnbPwSt9oe8aQ36IEXDpV0EHsl69AA-co7nj57f2b4S5dggftDWvGZAiD7XePLTAevNXEz37hyrbwZnHiFyXamwFDPtsVdHnLvo53DbdaniExR-z9u4Qjzz7w-pVXQVveoQ==",
-      "categories": [
-        "anime"
-      ],
-      "works": [
-        "kusuriya"
-      ],
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": false
-    },
-    {
       "id": "90830af949f6",
       "title": "愛知のラグナシアでリゼロコラボイベントが2026年11月7日より開催へ",
       "url": "https://news.dellows.jp/706515/?from",
@@ -1516,26 +1516,6 @@
       ],
       "works": [
         "rezero"
-      ],
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": false
-    },
-    {
-      "id": "f0a04419ce1f",
-      "title": "『劇場版 薬屋のひとりごと』キャラPV第3弾「化カ蛇団」公開！",
-      "url": "https://www.animatetimes.com/news/details.php?id",
-      "host": "animatetimes.com",
-      "source": "アニメイトタイムズ",
-      "summary": "",
-      "publishedAt": "2026-10-13T02:00:00.000Z",
-      "image": "https://www.animatetimes.com/img/ogimage.png",
-      "categories": [
-        "anime"
-      ],
-      "works": [
-        "kusuriya"
       ],
       "isPR": false,
       "viaGoogle": false,
@@ -2305,26 +2285,6 @@
         "other"
       ],
       "works": [],
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": false
-    },
-    {
-      "id": "67b59031debc",
-      "title": "アニメ『転生貴族、鑑定スキルで成り上がる 第3期』第27話「ザットとブラッハム」のあらすじ＆先行カット解禁",
-      "url": "https://ln-news.com/articles/126912",
-      "host": "ln-news.com",
-      "source": "ラノベニュースオンライン",
-      "summary": "",
-      "publishedAt": "2026-10-10T10:00:00.000Z",
-      "image": "https://assets.ln-news.com/images/medias/009938eac277466f815dbc5f440b838c.jpg",
-      "categories": [
-        "anime"
-      ],
-      "works": [
-        "tensei-kizoku"
-      ],
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
