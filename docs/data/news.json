@@ -1,13 +1,13 @@
 {
-  "updatedAt": "2026-10-15T01:30:19.809Z",
+  "updatedAt": "2026-10-15T02:00:21.731Z",
   "site": {
     "title": "なろう系まとめ",
     "tagline": "小説家になろう発の作品のアニメ化・コミカライズ・書籍化のニュースと、なろうのランキングをまとめています。",
     "url": "https://naroumatome.gamelab.website/",
     "contactUrl": "https://docs.google.com/forms/d/e/1FAIpQLSesWyhmZ6sRS_ve-c3X2KqF_wC5PK2TgwgQbTKmnQltSlg5Jw/viewform"
   },
-  "total": 82,
-  "todayCount": 9,
+  "total": 83,
+  "todayCount": 10,
   "categories": [
     {
       "id": "anime",
@@ -42,7 +42,7 @@
     {
       "id": "other",
       "label": "そのほか",
-      "count": 14
+      "count": 15
     }
   ],
   "works": [
@@ -74,7 +74,7 @@
       "id": "kusuriya",
       "title": "薬屋のひとりごと",
       "short": "薬屋",
-      "count": 33
+      "count": 34
     },
     {
       "id": "kagejitsu",
@@ -315,15 +315,15 @@
       "count": 5
     },
     {
+      "name": "ふねぽ",
+      "count": 4
+    },
+    {
       "name": "アニメ！アニメ！",
       "count": 4
     },
     {
       "name": "PR TIMES",
-      "count": 3
-    },
-    {
-      "name": "ふねぽ",
       "count": 3
     },
     {
@@ -665,6 +665,42 @@
       ]
     },
     {
+      "id": "629325415579",
+      "title": "実写ではどう再現!? 『薬屋のひとりごと』ただのヒロインじゃない猫猫の「絶対的魅力」とは（ふたまん＋）",
+      "summary": "",
+      "url": "https://news.yahoo.co.jp/articles/01f7f768999379d41c9d342f8199b05539cca2ce",
+      "image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20261015-00132558-futaman-000-1-view.jpg?exp=10800",
+      "leadSource": "Yahoo!ニュース",
+      "publishedAt": "2026-10-14T22:15:30.000Z",
+      "sourceCount": 2,
+      "articleCount": 3,
+      "categories": [
+        "other",
+        "comic"
+      ],
+      "keywords": [
+        "薬屋",
+        "ヒロイン",
+        "実写"
+      ],
+      "articles": [
+        {
+          "title": "実写ではどう再現される!?『薬屋のひとりごと』ただのヒロインじゃない猫猫の「絶対的な魅力」とは | 概要 | 漫画 | 最新コラム",
+          "url": "https://futaman.futabanet.jp/articles/-/132558",
+          "source": "ふねぽ",
+          "publishedAt": "2026-10-14T22:00:00.000Z",
+          "isPR": false
+        },
+        {
+          "title": "(3ページ目) 実写ではどう再現される!?『薬屋のひとりごと』ただのヒロインじゃない猫猫の「絶対的な魅力」とは",
+          "url": "https://futaman.futabanet.jp/articles/-/132558?page",
+          "source": "ふねぽ",
+          "publishedAt": "2026-10-14T22:00:00.000Z",
+          "isPR": false
+        }
+      ]
+    },
+    {
       "id": "eadce5acbde8",
       "title": "秋アニメ『レイアース』“平成版アニメ”を知らない初見勢から驚きの声が続出「異世界ものだったんだ」（ふたまん＋）",
       "summary": "",
@@ -695,35 +731,6 @@
           "url": "https://futaman.futabanet.jp/articles/-/132561?page",
           "source": "ふねぽ",
           "publishedAt": "2026-10-14T07:30:00.000Z",
-          "isPR": false
-        }
-      ]
-    },
-    {
-      "id": "629325415579",
-      "title": "実写ではどう再現!? 『薬屋のひとりごと』ただのヒロインじゃない猫猫の「絶対的魅力」とは（ふたまん＋）",
-      "summary": "",
-      "url": "https://news.yahoo.co.jp/articles/01f7f768999379d41c9d342f8199b05539cca2ce",
-      "image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20261015-00132558-futaman-000-1-view.jpg?exp=10800",
-      "leadSource": "Yahoo!ニュース",
-      "publishedAt": "2026-10-14T22:19:06.000Z",
-      "sourceCount": 2,
-      "articleCount": 2,
-      "categories": [
-        "other",
-        "comic"
-      ],
-      "keywords": [
-        "薬屋",
-        "ヒロイン",
-        "実写"
-      ],
-      "articles": [
-        {
-          "title": "実写ではどう再現される!?『薬屋のひとりごと』ただのヒロインじゃない猫猫の「絶対的な魅力」とは | 概要 | 漫画 | 最新コラム",
-          "url": "https://futaman.futabanet.jp/articles/-/132558",
-          "source": "ふねぽ",
-          "publishedAt": "2026-10-14T22:00:00.000Z",
           "isPR": false
         }
       ]
@@ -897,12 +904,12 @@
     }
   ],
   "churn": {
-    "previousAt": "2026-10-15T01:00:17.597Z",
-    "previousCount": 83,
-    "newCount": 2
+    "previousAt": "2026-10-15T01:30:19.809Z",
+    "previousCount": 82,
+    "newCount": 1
   },
   "updateGapMin": 30,
-  "nextUpdateAt": "2026-10-15T02:00:19.809Z",
+  "nextUpdateAt": "2026-10-15T02:30:21.731Z",
   "items": [
     {
       "id": "3001176857af",
@@ -941,7 +948,7 @@
       "isPR": true,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "048856b88e3c",
@@ -951,7 +958,7 @@
       "source": "ABEMA",
       "summary": "",
       "publishedAt": "2026-10-14T23:19:03.000Z",
-      "image": "",
+      "image": "https://image.p-c2-x.abema-tv.com/image/assets/splash.png?height=720&quality=75&version=20210720&width=1280",
       "categories": [
         "anime"
       ],
@@ -1006,7 +1013,7 @@
       "host": "news.yahoo.co.jp",
       "source": "Yahoo!ニュース",
       "summary": "",
-      "publishedAt": "2026-10-14T22:19:06.000Z",
+      "publishedAt": "2026-10-14T22:15:30.000Z",
       "image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20261015-00132558-futaman-000-1-view.jpg?exp=10800",
       "categories": [
         "other"
@@ -1058,6 +1065,26 @@
       "viaGoogle": false,
       "sourceKind": "news",
       "isNew": false
+    },
+    {
+      "id": "ab65ea8d2b0b",
+      "title": "(3ページ目) 実写ではどう再現される!?『薬屋のひとりごと』ただのヒロインじゃない猫猫の「絶対的な魅力」とは",
+      "url": "https://futaman.futabanet.jp/articles/-/132558?page",
+      "host": "futaman.futabanet.jp",
+      "source": "ふねぽ",
+      "summary": "",
+      "publishedAt": "2026-10-14T22:00:00.000Z",
+      "image": "https://futaman.ismcdn.jp/mwimgs/4/a/1200wm/img_4a27c9e6af8831a9fbbb91b0528152b4126100.jpg",
+      "categories": [
+        "other"
+      ],
+      "works": [
+        "kusuriya"
+      ],
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": true
     },
     {
       "id": "ee76bfc798c8",
@@ -2062,7 +2089,7 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "632720fd3f31",
