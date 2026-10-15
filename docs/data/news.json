@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-15T19:00:17.714Z",
+  "updatedAt": "2026-10-15T19:30:17.835Z",
   "site": {
     "title": "なろう系まとめ",
     "tagline": "小説家になろう発の作品のアニメ化・コミカライズ・書籍化のニュースと、なろうのランキングをまとめています。",
@@ -7,12 +7,12 @@
     "contactUrl": "https://docs.google.com/forms/d/e/1FAIpQLSesWyhmZ6sRS_ve-c3X2KqF_wC5PK2TgwgQbTKmnQltSlg5Jw/viewform"
   },
   "total": 96,
-  "todayCount": 3,
+  "todayCount": 5,
   "categories": [
     {
       "id": "anime",
       "label": "アニメ",
-      "count": 52
+      "count": 51
     },
     {
       "id": "comic",
@@ -22,7 +22,7 @@
     {
       "id": "book",
       "label": "書籍・ラノベ",
-      "count": 9
+      "count": 8
     },
     {
       "id": "web",
@@ -42,7 +42,7 @@
     {
       "id": "other",
       "label": "そのほか",
-      "count": 18
+      "count": 20
     }
   ],
   "works": [
@@ -296,7 +296,7 @@
   "sources": [
     {
       "name": "Yahoo!ニュース",
-      "count": 13
+      "count": 14
     },
     {
       "name": "WEBザテレビジョン",
@@ -307,28 +307,28 @@
       "count": 7
     },
     {
+      "name": "山陽新聞",
+      "count": 6
+    },
+    {
       "name": "アニメ！アニメ！",
       "count": 6
     },
     {
-      "name": "山陽新聞",
-      "count": 5
-    },
-    {
       "name": "アニメハック",
-      "count": 4
+      "count": 3
     },
     {
       "name": "ｄメニューニュース",
-      "count": 4
-    },
-    {
-      "name": "ライブドアニュース",
       "count": 3
     },
     {
       "name": "PR TIMES",
       "count": 3
+    },
+    {
+      "name": "Koubo",
+      "count": 2
     },
     {
       "name": "ABEMA",
@@ -340,6 +340,10 @@
     },
     {
       "name": "ナタリー",
+      "count": 2
+    },
+    {
+      "name": "ライブドアニュース",
       "count": 2
     },
     {
@@ -431,10 +435,6 @@
       "count": 1
     },
     {
-      "name": "Koubo",
-      "count": 1
-    },
-    {
       "name": "キャラグー",
       "count": 1
     },
@@ -515,6 +515,13 @@
           "isPR": false
         },
         {
+          "title": "『薬屋のひとりごと』第51話 あらすじ＆先行カット公開！（アニメージュプラス）",
+          "url": "https://news.yahoo.co.jp/articles/9ba20d9aea5f7376a6a780aa0e2b9d6da4ae75cf",
+          "source": "Yahoo!ニュース",
+          "publishedAt": "2026-10-15T09:00:00.000Z",
+          "isPR": false
+        },
+        {
           "title": "『薬屋のひとりごと』猫猫、物乞いへの“贅沢すぎる施し”に違和感 第51話あらすじ&場面カット公開",
           "url": "https://www.oricon.co.jp/news/2486658/photo/6/?anc",
           "source": "オリコンニュース",
@@ -527,29 +534,22 @@
           "source": "ｄメニューニュース",
           "publishedAt": "2026-10-15T09:00:00.000Z",
           "isPR": false
-        },
-        {
-          "title": "秋アニメ『薬屋のひとりごと』第51話あらすじ＆場面カット",
-          "url": "https://www.animatetimes.com/news/details.php?id",
-          "source": "アニメイトタイムズ",
-          "publishedAt": "2026-10-15T09:00:00.000Z",
-          "isPR": false
         }
       ]
     },
     {
-      "id": "33e64dde426b",
-      "title": "シリーズ累計1400万部突破、最新巻が本日発売！TOブックス 2026年10月15日発売『本好きの下剋上 ～ハンネローレの貴族院五年生～ 「恋してみたいお姫様 2」』ほか注目の新刊",
+      "id": "bf393e1dad5b",
+      "title": "本好きの下剋上、累計1400万部の最新巻が10/15発売開始",
       "summary": "",
-      "url": "https://news.livedoor.com/article/detail/32576254/",
-      "image": "https://image.news.livedoor.com/newsimage/stf/2/b/2b391_1604_d567ca08_a9ff2a79.jpg",
-      "leadSource": "ライブドアニュース",
-      "publishedAt": "2026-10-15T11:20:06.000Z",
-      "sourceCount": 4,
+      "url": "https://koubo.jp/article/131244",
+      "image": "https://koubo-dz7cn3ci.s3.ap-northeast-1.amazonaws.com/strapi/article_131244_keyvisual_6952df06fc.jpeg",
+      "leadSource": "Koubo",
+      "publishedAt": "2026-10-15T18:04:34.000Z",
+      "sourceCount": 5,
       "articleCount": 5,
       "categories": [
-        "book",
-        "other"
+        "other",
+        "book"
       ],
       "keywords": [
         "本好き",
@@ -558,8 +558,8 @@
       ],
       "articles": [
         {
-          "title": "【画像】シリーズ累計1400万部突破、最新巻が本日発売！TOブックス 2026年10月15日発売『本好きの下剋上 ～ハンネローレの貴族院五年生～ 「恋してみたいお姫様 2」』ほか注目の新刊 4/14 - ライブドアニュース",
-          "url": "https://news.livedoor.com/article/image_detail/32576254/?img_id",
+          "title": "シリーズ累計1400万部突破、最新巻が本日発売！TOブックス 2026年10月15日発売『本好きの下剋上 ～ハンネローレの貴族院五年生～ 「恋してみたいお姫様 2」』ほか注目の新刊",
+          "url": "https://news.livedoor.com/article/detail/32576254/",
           "source": "ライブドアニュース",
           "publishedAt": "2026-10-15T11:20:06.000Z",
           "isPR": false
@@ -584,48 +584,6 @@
           "source": "PR TIMES",
           "publishedAt": "2026-10-15T03:00:02.000Z",
           "isPR": true
-        }
-      ]
-    },
-    {
-      "id": "8408fc444ce7",
-      "title": "「劇場版 薬屋のひとりごと 亡妃の秘宝」亡き妃・若晴役に沢城みゆき、若晴妃の侍女頭・銀山役に見上愛 キャラクターPV公開",
-      "summary": "",
-      "url": "https://anime.eiga.com/news/127660/",
-      "image": "https://media.eiga.com/images/anime/news/127660/photo/c2ff389a0485cea3/640.jpg",
-      "leadSource": "アニメハック",
-      "publishedAt": "2026-10-14T13:00:00.000Z",
-      "sourceCount": 3,
-      "articleCount": 4,
-      "categories": [
-        "anime"
-      ],
-      "keywords": [
-        "薬屋",
-        "劇場版",
-        "亡妃"
-      ],
-      "articles": [
-        {
-          "title": "「劇場版 薬屋のひとりごと 亡妃の秘宝」猫猫＆壬氏たちに襲い掛かる水賊「化蛇団」キャラPV公開 小野賢章が頭領・水蛇役",
-          "url": "https://anime.eiga.com/news/127648/",
-          "source": "アニメハック",
-          "publishedAt": "2026-10-14T03:00:00.000Z",
-          "isPR": false
-        },
-        {
-          "title": "見上愛：朝ドラ後初出演 劇場版「薬屋のひとりごと」で声優に 沢城みゆきも出演",
-          "url": "https://mantan-web.jp/article/20261013dog00m200054000a.html",
-          "source": "MANTANWEB",
-          "publishedAt": "2026-10-13T23:00:25.000Z",
-          "isPR": false
-        },
-        {
-          "title": "＜劇場版 薬屋のひとりごと 亡妃の秘宝＞キャラPV第3弾は水賊・化蛇団 猫猫・壬氏一行を付け狙う 頭領・水蛇役は小野賢章",
-          "url": "https://news.yahoo.co.jp/articles/497ebb537c45dbd8df4c7331074659657a3d7fc3",
-          "source": "Yahoo!ニュース",
-          "publishedAt": "2026-10-12T23:00:00.000Z",
-          "isPR": false
         }
       ]
     },
@@ -701,6 +659,62 @@
       ]
     },
     {
+      "id": "61711d5b55d2",
+      "title": "劇場版『薬屋のひとりごと』新PV解禁 沢城みゆき＆見上愛が物語の鍵を握るキャラクター演じる",
+      "summary": "",
+      "url": "https://www.sanyonews.jp/photo/detail?article_id",
+      "image": "https://storage.mantan-web.jp/w=1280,h=720,icr=0:0.1:1:1,a=2,g=2,f=webp:auto/images/2026/10/13/20261013dog00m200054000a/001.jpg",
+      "leadSource": "山陽新聞",
+      "publishedAt": "2026-10-15T17:48:09.000Z",
+      "sourceCount": 2,
+      "articleCount": 2,
+      "categories": [
+        "anime"
+      ],
+      "keywords": [
+        "薬屋",
+        "劇場版",
+        "沢城"
+      ],
+      "articles": [
+        {
+          "title": "見上愛：朝ドラ後初出演 劇場版「薬屋のひとりごと」で声優に 沢城みゆきも出演",
+          "url": "https://mantan-web.jp/article/20261013dog00m200054000a.html",
+          "source": "MANTANWEB",
+          "publishedAt": "2026-10-13T23:00:25.000Z",
+          "isPR": false
+        }
+      ]
+    },
+    {
+      "id": "307716037c72",
+      "title": "薬屋のひとりごと＞猫猫と壬氏の“不器用で惹かれ合う”関係性を振り返る――二人が「唯一無二のバディ」になるまでの軌跡",
+      "summary": "",
+      "url": "https://thetv.jp/news/detail/1448368/landing/?utm_source",
+      "image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20261014-01448368-the_tv-000-1-view.jpg?exp=10800",
+      "leadSource": "WEBザテレビジョン",
+      "publishedAt": "2026-10-15T16:16:29.000Z",
+      "sourceCount": 2,
+      "articleCount": 2,
+      "categories": [
+        "other"
+      ],
+      "keywords": [
+        "薬屋",
+        "バディ",
+        "猫猫"
+      ],
+      "articles": [
+        {
+          "title": "＜薬屋のひとりごと＞猫猫と壬氏の“不器用で惹かれ合う”関係性を振り返る――二人が「唯一無二のバディ」になるまでの軌跡",
+          "url": "https://news.yahoo.co.jp/articles/55f48dece179cc0f9dd46155567a3e9e8dabae5d",
+          "source": "Yahoo!ニュース",
+          "publishedAt": "2026-10-13T23:00:00.000Z",
+          "isPR": false
+        }
+      ]
+    },
+    {
       "id": "307d15370272",
       "title": "【無職転生】面白いし1回は出してみたい無職で異世界行かなくても本気出して欲しいさらば諭吉【このごみ2198養分】 Sloth World (fKXcGM6khq)",
       "summary": "",
@@ -725,6 +739,34 @@
           "url": "https://pixela.co.jp/delivery/mushoku-tensei-streaming/",
           "source": "株式会社ピクセラ",
           "publishedAt": "2026-10-13T13:46:06.000Z",
+          "isPR": false
+        }
+      ]
+    },
+    {
+      "id": "c8c6bcde0720",
+      "title": "「劇場版 薬屋のひとりごと 亡妃の秘宝」猫猫＆壬氏たちに襲い掛かる水賊「化蛇団」キャラPV公開 小野賢章が頭領・水蛇役",
+      "summary": "",
+      "url": "https://anime.eiga.com/news/127648/",
+      "image": "https://media.eiga.com/images/anime/news/127648/photo/023690547569bd24/640.jpg",
+      "leadSource": "アニメハック",
+      "publishedAt": "2026-10-14T03:00:00.000Z",
+      "sourceCount": 2,
+      "articleCount": 2,
+      "categories": [
+        "anime"
+      ],
+      "keywords": [
+        "薬屋",
+        "キャラ",
+        "劇場版"
+      ],
+      "articles": [
+        {
+          "title": "＜劇場版 薬屋のひとりごと 亡妃の秘宝＞キャラPV第3弾は水賊・化蛇団 猫猫・壬氏一行を付け狙う 頭領・水蛇役は小野賢章",
+          "url": "https://news.yahoo.co.jp/articles/497ebb537c45dbd8df4c7331074659657a3d7fc3",
+          "source": "Yahoo!ニュース",
+          "publishedAt": "2026-10-12T23:00:00.000Z",
           "isPR": false
         }
       ]
@@ -759,13 +801,53 @@
     }
   ],
   "churn": {
-    "previousAt": "2026-10-15T18:30:22.957Z",
-    "previousCount": 97,
-    "newCount": 2
+    "previousAt": "2026-10-15T19:00:17.714Z",
+    "previousCount": 96,
+    "newCount": 3
   },
   "updateGapMin": 30,
-  "nextUpdateAt": "2026-10-15T19:30:17.714Z",
+  "nextUpdateAt": "2026-10-15T20:00:17.835Z",
   "items": [
+    {
+      "id": "bf393e1dad5b",
+      "title": "本好きの下剋上、累計1400万部の最新巻が10/15発売開始",
+      "url": "https://koubo.jp/article/131244",
+      "host": "koubo.jp",
+      "source": "Koubo",
+      "summary": "",
+      "publishedAt": "2026-10-15T18:04:34.000Z",
+      "image": "https://koubo-dz7cn3ci.s3.ap-northeast-1.amazonaws.com/strapi/article_131244_keyvisual_6952df06fc.jpeg",
+      "categories": [
+        "other"
+      ],
+      "works": [
+        "honzuki"
+      ],
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": true
+    },
+    {
+      "id": "61711d5b55d2",
+      "title": "劇場版『薬屋のひとりごと』新PV解禁 沢城みゆき＆見上愛が物語の鍵を握るキャラクター演じる",
+      "url": "https://www.sanyonews.jp/photo/detail?article_id",
+      "host": "sanyonews.jp",
+      "source": "山陽新聞",
+      "summary": "",
+      "publishedAt": "2026-10-15T17:48:09.000Z",
+      "image": "",
+      "categories": [
+        "anime"
+      ],
+      "works": [
+        "kusuriya"
+      ],
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": true
+    },
     {
       "id": "4ca32ba62cd5",
       "title": "アニメ『薬屋のひとりごと』病気の娘を看てほしいと懇願された猫猫は、渋々ながらも治療へと向かうが…。第51話「麺麭がなければ」あらすじ＆先行カット",
@@ -804,7 +886,7 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "048856b88e3c",
@@ -977,26 +1059,6 @@
       "isNew": false
     },
     {
-      "id": "e00724faac9e",
-      "title": "【画像】シリーズ累計1400万部突破、最新巻が本日発売！TOブックス 2026年10月15日発売『本好きの下剋上 ～ハンネローレの貴族院五年生～ 「恋してみたいお姫様 2」』ほか注目の新刊 4/14 - ライブドアニュース",
-      "url": "https://news.livedoor.com/article/image_detail/32576254/?img_id",
-      "host": "news.livedoor.com",
-      "source": "ライブドアニュース",
-      "summary": "",
-      "publishedAt": "2026-10-15T11:20:06.000Z",
-      "image": "https://image.news.livedoor.com/newsimage/stf/2/b/2b391_1604_d567ca08_a9ff2a79.jpg",
-      "categories": [
-        "book"
-      ],
-      "works": [
-        "honzuki"
-      ],
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": true
-    },
-    {
       "id": "ef7e22e88247",
       "title": "弱気MAX令嬢＞乙女ゲームのモブ悪役令嬢に転生したピアは国外追放される運命だと悟る…第1話あらすじ＆先行カット公開",
       "url": "https://thetv.jp/news/detail/1445545/landing/",
@@ -1052,26 +1114,6 @@
       ],
       "isPR": false,
       "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": false
-    },
-    {
-      "id": "1c57e7fcd71a",
-      "title": "ヨルシカの新曲「雲を抜け風下へ私だけ」ミュージックビデオが公開 「薬屋のひとりごと」第3期第1クールOPテーマの話題曲",
-      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQSnZEeERzNnM3bUZYb2dQQmtVbVh5U2N5UTRCTDdOT0FPYVRfRFlSbGc4N1k2T2hSNERsQS1yOFF4RnNORGU0blZ0TnlpTEp1OFRnZElPSVNjUlJIOGVvTHltV1NYV0p5bXZxaVdFXzZYb3Bqc29uc2tFQUkwcTgzM3ZJc9IBgwFBVV95cUxQSnZEeERzNnM3bUZYb2dQQmtVbVh5U2N5UTRCTDdOT0FPYVRfRFlSbGc4N1k2T2hSNERsQS1yOFF4RnNORGU0blZ0TnlpTEp1OFRnZElPSVNjUlJIOGVvTHltV1NYV0p5bXZxaVdFXzZYb3Bqc29uc2tFQUkwcTgzM3ZJcw?oc=5",
-      "host": "topics.smt.docomo.ne.jp",
-      "source": "ｄメニューニュース",
-      "summary": "",
-      "publishedAt": "2026-10-15T10:38:00.000Z",
-      "image": "",
-      "categories": [
-        "anime"
-      ],
-      "works": [
-        "kusuriya"
-      ],
-      "isPR": false,
-      "viaGoogle": true,
       "sourceKind": "news",
       "isNew": false
     },
@@ -1313,6 +1355,26 @@
       "isNew": false
     },
     {
+      "id": "75717e80fe80",
+      "title": "『薬屋のひとりごと』第51話 あらすじ＆先行カット公開！（アニメージュプラス）",
+      "url": "https://news.yahoo.co.jp/articles/9ba20d9aea5f7376a6a780aa0e2b9d6da4ae75cf",
+      "host": "news.yahoo.co.jp",
+      "source": "Yahoo!ニュース",
+      "summary": "",
+      "publishedAt": "2026-10-15T09:00:00.000Z",
+      "image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20261015-00067996-animage-000-1-view.jpg?exp=10800",
+      "categories": [
+        "anime"
+      ],
+      "works": [
+        "kusuriya"
+      ],
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": false
+    },
+    {
       "id": "46c454fd4b32",
       "title": "『薬屋のひとりごと』猫猫、物乞いへの“贅沢すぎる施し”に違和感 第51話あらすじ&場面カット公開",
       "url": "https://www.oricon.co.jp/news/2486658/photo/6/?anc",
@@ -1361,26 +1423,6 @@
       "summary": "",
       "publishedAt": "2026-10-15T09:00:00.000Z",
       "image": "https://www.animatetimes.com/img/ogimage.png",
-      "categories": [
-        "anime"
-      ],
-      "works": [
-        "kusuriya"
-      ],
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": false
-    },
-    {
-      "id": "75717e80fe80",
-      "title": "『薬屋のひとりごと』第51話 あらすじ＆先行カット公開！（アニメージュプラス）",
-      "url": "https://news.yahoo.co.jp/articles/9ba20d9aea5f7376a6a780aa0e2b9d6da4ae75cf",
-      "host": "news.yahoo.co.jp",
-      "source": "Yahoo!ニュース",
-      "summary": "",
-      "publishedAt": "2026-10-15T09:00:00.000Z",
-      "image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20261015-00067996-animage-000-1-view.jpg?exp=10800",
       "categories": [
         "anime"
       ],
@@ -1755,26 +1797,6 @@
         "anime"
       ],
       "works": [],
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": false
-    },
-    {
-      "id": "8408fc444ce7",
-      "title": "「劇場版 薬屋のひとりごと 亡妃の秘宝」亡き妃・若晴役に沢城みゆき、若晴妃の侍女頭・銀山役に見上愛 キャラクターPV公開",
-      "url": "https://anime.eiga.com/news/127660/",
-      "host": "anime.eiga.com",
-      "source": "アニメハック",
-      "summary": "",
-      "publishedAt": "2026-10-14T13:00:00.000Z",
-      "image": "https://media.eiga.com/images/anime/news/127660/photo/c2ff389a0485cea3/640.jpg",
-      "categories": [
-        "anime"
-      ],
-      "works": [
-        "kusuriya"
-      ],
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
@@ -2208,6 +2230,26 @@
       "viaGoogle": false,
       "sourceKind": "news",
       "isNew": false
+    },
+    {
+      "id": "d4bf974986f6",
+      "title": "＜薬屋のひとりごと＞猫猫と壬氏の“不器用で惹かれ合う”関係性を振り返る――二人が「唯一無二のバディ」になるまでの軌跡",
+      "url": "https://news.yahoo.co.jp/articles/55f48dece179cc0f9dd46155567a3e9e8dabae5d",
+      "host": "news.yahoo.co.jp",
+      "source": "Yahoo!ニュース",
+      "summary": "",
+      "publishedAt": "2026-10-13T23:00:00.000Z",
+      "image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20261014-01448368-the_tv-000-1-view.jpg?exp=10800",
+      "categories": [
+        "other"
+      ],
+      "works": [
+        "kusuriya"
+      ],
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": true
     },
     {
       "id": "889706901cac",
