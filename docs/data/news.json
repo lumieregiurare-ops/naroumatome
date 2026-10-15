@@ -1,18 +1,18 @@
 {
-  "updatedAt": "2026-10-15T16:30:18.447Z",
+  "updatedAt": "2026-10-15T17:00:21.120Z",
   "site": {
     "title": "なろう系まとめ",
     "tagline": "小説家になろう発の作品のアニメ化・コミカライズ・書籍化のニュースと、なろうのランキングをまとめています。",
     "url": "https://naroumatome.gamelab.website/",
     "contactUrl": "https://docs.google.com/forms/d/e/1FAIpQLSesWyhmZ6sRS_ve-c3X2KqF_wC5PK2TgwgQbTKmnQltSlg5Jw/viewform"
   },
-  "total": 94,
-  "todayCount": 1,
+  "total": 97,
+  "todayCount": 2,
   "categories": [
     {
       "id": "anime",
       "label": "アニメ",
-      "count": 55
+      "count": 56
     },
     {
       "id": "comic",
@@ -32,17 +32,17 @@
     {
       "id": "game",
       "label": "ゲーム",
-      "count": 4
+      "count": 5
     },
     {
       "id": "goods",
       "label": "グッズ・イベント",
-      "count": 10
+      "count": 11
     },
     {
       "id": "other",
       "label": "そのほか",
-      "count": 18
+      "count": 19
     }
   ],
   "works": [
@@ -50,7 +50,7 @@
       "id": "tensura",
       "title": "転生したらスライムだった件",
       "short": "転スラ",
-      "count": 7
+      "count": 8
     },
     {
       "id": "mushoku",
@@ -62,7 +62,7 @@
       "id": "rezero",
       "title": "Re:ゼロから始める異世界生活",
       "short": "リゼロ",
-      "count": 9
+      "count": 10
     },
     {
       "id": "honzuki",
@@ -74,7 +74,7 @@
       "id": "kusuriya",
       "title": "薬屋のひとりごと",
       "short": "薬屋",
-      "count": 32
+      "count": 33
     },
     {
       "id": "kagejitsu",
@@ -303,15 +303,15 @@
       "count": 7
     },
     {
+      "name": "山陽新聞",
+      "count": 7
+    },
+    {
       "name": "アニメ！アニメ！",
       "count": 6
     },
     {
       "name": "WEBザテレビジョン",
-      "count": 6
-    },
-    {
-      "name": "山陽新聞",
       "count": 6
     },
     {
@@ -327,11 +327,15 @@
       "count": 4
     },
     {
-      "name": "コラボカフェ",
-      "count": 2
+      "name": "オリコンニュース",
+      "count": 3
     },
     {
       "name": "ABEMA",
+      "count": 2
+    },
+    {
+      "name": "コラボカフェ",
       "count": 2
     },
     {
@@ -344,10 +348,6 @@
     },
     {
       "name": "ニコニコニュース",
-      "count": 2
-    },
-    {
-      "name": "オリコンニュース",
       "count": 2
     },
     {
@@ -416,6 +416,10 @@
     },
     {
       "name": "Unisba Media",
+      "count": 1
+    },
+    {
+      "name": "キャラグー",
       "count": 1
     },
     {
@@ -736,12 +740,12 @@
     }
   ],
   "churn": {
-    "previousAt": "2026-10-15T16:00:20.545Z",
-    "previousCount": 96,
-    "newCount": 1
+    "previousAt": "2026-10-15T16:30:18.447Z",
+    "previousCount": 94,
+    "newCount": 3
   },
   "updateGapMin": 30,
-  "nextUpdateAt": "2026-10-15T17:00:18.447Z",
+  "nextUpdateAt": "2026-10-15T17:30:21.120Z",
   "items": [
     {
       "id": "ef77ab582fc7",
@@ -758,6 +762,24 @@
       ],
       "works": [],
       "isPR": true,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": false
+    },
+    {
+      "id": "048856b88e3c",
+      "title": "異世界・ファンタジーアニメ4チャンネル | 無料で放送中の番組や配信中の話題作が見放題",
+      "url": "https://abema.tv/now-on-air/isekai-anime-4",
+      "host": "abema.tv",
+      "source": "ABEMA",
+      "summary": "",
+      "publishedAt": "2026-10-15T15:00:56.000Z",
+      "image": "",
+      "categories": [
+        "anime"
+      ],
+      "works": [],
+      "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
       "isNew": false
@@ -870,24 +892,6 @@
       "categories": [
         "comic",
         "book"
-      ],
-      "works": [],
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": false
-    },
-    {
-      "id": "048856b88e3c",
-      "title": "異世界・ファンタジーアニメ4チャンネル | 無料で放送中の番組や配信中の話題作が見放題",
-      "url": "https://abema.tv/now-on-air/isekai-anime-4",
-      "host": "abema.tv",
-      "source": "ABEMA",
-      "summary": "",
-      "publishedAt": "2026-10-15T11:45:21.000Z",
-      "image": "",
-      "categories": [
-        "anime"
       ],
       "works": [],
       "isPR": false,
@@ -1131,7 +1135,7 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "d2dbd0b0d7cf",
@@ -2030,6 +2034,26 @@
       "isNew": false
     },
     {
+      "id": "3001176857af",
+      "title": "『薬屋のひとりごと』最新話、猫猫が歌った子守歌に注目集まる「母から猫猫、そして壬氏へ」「切ない」",
+      "url": "https://www.oricon.co.jp/news/2486128/photo/4/",
+      "host": "oricon.co.jp",
+      "source": "オリコンニュース",
+      "summary": "",
+      "publishedAt": "2026-10-14T03:05:00.000Z",
+      "image": "https://contents.oricon.co.jp/upimg/news/2487000/2486128/20261008_151650_p_o_86507858.jpg",
+      "categories": [
+        "other"
+      ],
+      "works": [
+        "kusuriya"
+      ],
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": true
+    },
+    {
       "id": "c8c6bcde0720",
       "title": "「劇場版 薬屋のひとりごと 亡妃の秘宝」猫猫＆壬氏たちに襲い掛かる水賊「化蛇団」キャラPV公開 小野賢章が頭領・水蛇役",
       "url": "https://anime.eiga.com/news/127648/",
@@ -2068,6 +2092,27 @@
       "viaGoogle": false,
       "sourceKind": "news",
       "isNew": false
+    },
+    {
+      "id": "ec7e7190d7c3",
+      "title": "Re:ゼロのグッズ一覧【2026年10月】｜ガチャガチャ・プライズ・キャラクターくじ・コラボ・イベント 全195件",
+      "url": "https://charagoo.jp/ip/rezero/",
+      "host": "charagoo.jp",
+      "source": "キャラグー",
+      "summary": "",
+      "publishedAt": "2026-10-13T23:15:23.000Z",
+      "image": "",
+      "categories": [
+        "goods",
+        "game"
+      ],
+      "works": [
+        "rezero"
+      ],
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": true
     },
     {
       "id": "7662d9d8d36b",
@@ -2507,6 +2552,26 @@
       "viaGoogle": false,
       "sourceKind": "news",
       "isNew": false
+    },
+    {
+      "id": "299970487651",
+      "title": "『転スラ』衝撃の戦闘！封印の解かれたクロノア、破壊の化身に 第94話あらすじ＆場面カット解禁",
+      "url": "https://www.sanyonews.jp/photo/detail?article_id",
+      "host": "sanyonews.jp",
+      "source": "山陽新聞",
+      "summary": "",
+      "publishedAt": "2026-10-12T21:43:29.000Z",
+      "image": "",
+      "categories": [
+        "anime"
+      ],
+      "works": [
+        "tensura"
+      ],
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": true
     },
     {
       "id": "eebe5a417210",
