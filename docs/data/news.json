@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-15T19:30:17.835Z",
+  "updatedAt": "2026-10-15T20:00:20.656Z",
   "site": {
     "title": "なろう系まとめ",
     "tagline": "小説家になろう発の作品のアニメ化・コミカライズ・書籍化のニュースと、なろうのランキングをまとめています。",
@@ -12,17 +12,17 @@
     {
       "id": "anime",
       "label": "アニメ",
-      "count": 51
+      "count": 53
     },
     {
       "id": "comic",
       "label": "コミカライズ",
-      "count": 5
+      "count": 4
     },
     {
       "id": "book",
       "label": "書籍・ラノベ",
-      "count": 8
+      "count": 7
     },
     {
       "id": "web",
@@ -37,7 +37,7 @@
     {
       "id": "goods",
       "label": "グッズ・イベント",
-      "count": 11
+      "count": 10
     },
     {
       "id": "other",
@@ -50,7 +50,7 @@
       "id": "tensura",
       "title": "転生したらスライムだった件",
       "short": "転スラ",
-      "count": 7
+      "count": 8
     },
     {
       "id": "mushoku",
@@ -296,7 +296,11 @@
   "sources": [
     {
       "name": "Yahoo!ニュース",
-      "count": 14
+      "count": 13
+    },
+    {
+      "name": "山陽新聞",
+      "count": 7
     },
     {
       "name": "WEBザテレビジョン",
@@ -307,15 +311,15 @@
       "count": 7
     },
     {
-      "name": "山陽新聞",
-      "count": 6
-    },
-    {
       "name": "アニメ！アニメ！",
       "count": 6
     },
     {
       "name": "アニメハック",
+      "count": 4
+    },
+    {
+      "name": "オリコンニュース",
       "count": 3
     },
     {
@@ -355,10 +359,6 @@
       "count": 2
     },
     {
-      "name": "オリコンニュース",
-      "count": 2
-    },
-    {
       "name": "電撃オンライン",
       "count": 2
     },
@@ -368,10 +368,6 @@
     },
     {
       "name": "TVガイドWeb",
-      "count": 2
-    },
-    {
-      "name": "Infoseek",
       "count": 2
     },
     {
@@ -388,10 +384,6 @@
     },
     {
       "name": "https://tonomatsuri.com/",
-      "count": 1
-    },
-    {
-      "name": "BAILA（バイラ）",
       "count": 1
     },
     {
@@ -416,6 +408,10 @@
     },
     {
       "name": "パチンコ・パチスロ情報島＋",
+      "count": 1
+    },
+    {
+      "name": "Infoseek",
       "count": 1
     },
     {
@@ -588,6 +584,41 @@
       ]
     },
     {
+      "id": "61711d5b55d2",
+      "title": "劇場版『薬屋のひとりごと』新PV解禁 沢城みゆき＆見上愛が物語の鍵を握るキャラクター演じる",
+      "summary": "",
+      "url": "https://www.sanyonews.jp/photo/detail?article_id",
+      "image": "https://media.eiga.com/images/anime/news/127660/photo/c2ff389a0485cea3/640.jpg",
+      "leadSource": "山陽新聞",
+      "publishedAt": "2026-10-15T17:48:09.000Z",
+      "sourceCount": 3,
+      "articleCount": 3,
+      "categories": [
+        "anime"
+      ],
+      "keywords": [
+        "薬屋",
+        "劇場版",
+        "沢城"
+      ],
+      "articles": [
+        {
+          "title": "「劇場版 薬屋のひとりごと 亡妃の秘宝」亡き妃・若晴役に沢城みゆき、若晴妃の侍女頭・銀山役に見上愛 キャラクターPV公開",
+          "url": "https://anime.eiga.com/news/127660/",
+          "source": "アニメハック",
+          "publishedAt": "2026-10-14T13:00:00.000Z",
+          "isPR": false
+        },
+        {
+          "title": "見上愛：朝ドラ後初出演 劇場版「薬屋のひとりごと」で声優に 沢城みゆきも出演",
+          "url": "https://mantan-web.jp/article/20261013dog00m200054000a.html",
+          "source": "MANTANWEB",
+          "publishedAt": "2026-10-13T23:00:25.000Z",
+          "isPR": false
+        }
+      ]
+    },
+    {
       "id": "da67fe8a1bb4",
       "title": "Re：ゼロから始める異世界生活 × ラグーナテンボス～ようこそ、光きらめく水門都市へ。～ 2026年11月7日（土）より開催",
       "summary": "",
@@ -654,62 +685,6 @@
           "url": "https://futaman.futabanet.jp/articles/-/132561?page",
           "source": "ふねぽ",
           "publishedAt": "2026-10-14T07:30:00.000Z",
-          "isPR": false
-        }
-      ]
-    },
-    {
-      "id": "61711d5b55d2",
-      "title": "劇場版『薬屋のひとりごと』新PV解禁 沢城みゆき＆見上愛が物語の鍵を握るキャラクター演じる",
-      "summary": "",
-      "url": "https://www.sanyonews.jp/photo/detail?article_id",
-      "image": "https://storage.mantan-web.jp/w=1280,h=720,icr=0:0.1:1:1,a=2,g=2,f=webp:auto/images/2026/10/13/20261013dog00m200054000a/001.jpg",
-      "leadSource": "山陽新聞",
-      "publishedAt": "2026-10-15T17:48:09.000Z",
-      "sourceCount": 2,
-      "articleCount": 2,
-      "categories": [
-        "anime"
-      ],
-      "keywords": [
-        "薬屋",
-        "劇場版",
-        "沢城"
-      ],
-      "articles": [
-        {
-          "title": "見上愛：朝ドラ後初出演 劇場版「薬屋のひとりごと」で声優に 沢城みゆきも出演",
-          "url": "https://mantan-web.jp/article/20261013dog00m200054000a.html",
-          "source": "MANTANWEB",
-          "publishedAt": "2026-10-13T23:00:25.000Z",
-          "isPR": false
-        }
-      ]
-    },
-    {
-      "id": "307716037c72",
-      "title": "薬屋のひとりごと＞猫猫と壬氏の“不器用で惹かれ合う”関係性を振り返る――二人が「唯一無二のバディ」になるまでの軌跡",
-      "summary": "",
-      "url": "https://thetv.jp/news/detail/1448368/landing/?utm_source",
-      "image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20261014-01448368-the_tv-000-1-view.jpg?exp=10800",
-      "leadSource": "WEBザテレビジョン",
-      "publishedAt": "2026-10-15T16:16:29.000Z",
-      "sourceCount": 2,
-      "articleCount": 2,
-      "categories": [
-        "other"
-      ],
-      "keywords": [
-        "薬屋",
-        "バディ",
-        "猫猫"
-      ],
-      "articles": [
-        {
-          "title": "＜薬屋のひとりごと＞猫猫と壬氏の“不器用で惹かれ合う”関係性を振り返る――二人が「唯一無二のバディ」になるまでの軌跡",
-          "url": "https://news.yahoo.co.jp/articles/55f48dece179cc0f9dd46155567a3e9e8dabae5d",
-          "source": "Yahoo!ニュース",
-          "publishedAt": "2026-10-13T23:00:00.000Z",
           "isPR": false
         }
       ]
@@ -801,12 +776,12 @@
     }
   ],
   "churn": {
-    "previousAt": "2026-10-15T19:00:17.714Z",
+    "previousAt": "2026-10-15T19:30:17.835Z",
     "previousCount": 96,
     "newCount": 3
   },
   "updateGapMin": 30,
-  "nextUpdateAt": "2026-10-15T20:00:17.835Z",
+  "nextUpdateAt": "2026-10-15T20:30:20.656Z",
   "items": [
     {
       "id": "bf393e1dad5b",
@@ -826,7 +801,7 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "61711d5b55d2",
@@ -846,7 +821,7 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "4ca32ba62cd5",
@@ -1013,26 +988,6 @@
         "book"
       ],
       "works": [],
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": false
-    },
-    {
-      "id": "40e161d48fdf",
-      "title": "【原宿】『薬屋のひとりごと』×韓国発リジュランが期間限定コラボ！予約なしで楽しめるブースも",
-      "url": "https://baila.hpplus.jp/blogs/ikeda_nagisa/84137",
-      "host": "baila.hpplus.jp",
-      "source": "BAILA（バイラ）",
-      "summary": "",
-      "publishedAt": "2026-10-15T11:30:00.000Z",
-      "image": "",
-      "categories": [
-        "goods"
-      ],
-      "works": [
-        "kusuriya"
-      ],
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
@@ -1221,7 +1176,7 @@
     {
       "id": "1dc67fcc9cbc",
       "title": "ヤンデレ恋愛ゲームの悪役令嬢に転生、ヒロインを幸せにしたいのに自分が迫られる物語",
-      "url": "https://news.nicovideo.jp/watch/nw19882471?news_ref",
+      "url": "https://news.nicovideo.jp/watch/nw19882471",
       "host": "news.nicovideo.jp",
       "source": "ニコニコニュース",
       "summary": "",
@@ -1803,6 +1758,26 @@
       "isNew": false
     },
     {
+      "id": "8408fc444ce7",
+      "title": "「劇場版 薬屋のひとりごと 亡妃の秘宝」亡き妃・若晴役に沢城みゆき、若晴妃の侍女頭・銀山役に見上愛 キャラクターPV公開",
+      "url": "https://anime.eiga.com/news/127660/",
+      "host": "anime.eiga.com",
+      "source": "アニメハック",
+      "summary": "",
+      "publishedAt": "2026-10-14T13:00:00.000Z",
+      "image": "https://media.eiga.com/images/anime/news/127660/photo/c2ff389a0485cea3/640.jpg",
+      "categories": [
+        "anime"
+      ],
+      "works": [
+        "kusuriya"
+      ],
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": true
+    },
+    {
       "id": "94ba049b1db0",
       "title": "「お前じゃい！」「あなたでしょ」のツッコミ続出、“壬氏の好みの娘”をわかっていない猫猫に視聴者ヤキモキ、『薬屋のひとりごと』50話（ABEMA TIMES）",
       "url": "https://news.yahoo.co.jp/articles/5490a18b7a2e1ff6ca32f72792884226bcd569df",
@@ -2132,6 +2107,26 @@
       "isNew": false
     },
     {
+      "id": "3001176857af",
+      "title": "『薬屋のひとりごと』最新話、猫猫が歌った子守歌に注目集まる「母から猫猫、そして壬氏へ」「切ない」",
+      "url": "https://www.oricon.co.jp/news/2486128/photo/4/",
+      "host": "oricon.co.jp",
+      "source": "オリコンニュース",
+      "summary": "",
+      "publishedAt": "2026-10-14T03:05:00.000Z",
+      "image": "https://contents.oricon.co.jp/upimg/news/2487000/2486128/20261008_151650_p_o_86507858.jpg",
+      "categories": [
+        "other"
+      ],
+      "works": [
+        "kusuriya"
+      ],
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": true
+    },
+    {
       "id": "afeb88a2b1f6",
       "title": "小説家になろう発「ネット小説大賞」10月14日募集開始",
       "url": "https://koubo.jp/article/130655",
@@ -2230,26 +2225,6 @@
       "viaGoogle": false,
       "sourceKind": "news",
       "isNew": false
-    },
-    {
-      "id": "d4bf974986f6",
-      "title": "＜薬屋のひとりごと＞猫猫と壬氏の“不器用で惹かれ合う”関係性を振り返る――二人が「唯一無二のバディ」になるまでの軌跡",
-      "url": "https://news.yahoo.co.jp/articles/55f48dece179cc0f9dd46155567a3e9e8dabae5d",
-      "host": "news.yahoo.co.jp",
-      "source": "Yahoo!ニュース",
-      "summary": "",
-      "publishedAt": "2026-10-13T23:00:00.000Z",
-      "image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20261014-01448368-the_tv-000-1-view.jpg?exp=10800",
-      "categories": [
-        "other"
-      ],
-      "works": [
-        "kusuriya"
-      ],
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": true
     },
     {
       "id": "889706901cac",
@@ -2632,6 +2607,26 @@
       "isNew": false
     },
     {
+      "id": "299970487651",
+      "title": "『転スラ』衝撃の戦闘！封印の解かれたクロノア、破壊の化身に 第94話あらすじ＆場面カット解禁",
+      "url": "https://www.sanyonews.jp/photo/detail?article_id",
+      "host": "sanyonews.jp",
+      "source": "山陽新聞",
+      "summary": "",
+      "publishedAt": "2026-10-12T21:43:29.000Z",
+      "image": "",
+      "categories": [
+        "anime"
+      ],
+      "works": [
+        "tensura"
+      ],
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": true
+    },
+    {
       "id": "eebe5a417210",
       "title": "『アーシャ・リボルヴァの崇拝～皇帝陛下に溺愛される悪役令嬢は、結婚の手土産に不穏分子を平定するようです。～』のコミカライズ配信が開始",
       "url": "https://ln-news.com/articles/126880",
@@ -2643,25 +2638,6 @@
       "categories": [
         "anime",
         "comic"
-      ],
-      "works": [],
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": false
-    },
-    {
-      "id": "33b61f494476",
-      "title": "あの『異種族レビュアーズ』天原の“小説デビュー作”が、待望のコミカライズ！ 『異世界転生ダンジョンマスター 温泉ダンジョンを作る』コミックス第1巻、2026年10月9日（金）発売！｜Infoseekニュース",
-      "url": "https://news.infoseek.co.jp/article/prtimes_000020326_000007006/",
-      "host": "news.infoseek.co.jp",
-      "source": "Infoseek",
-      "summary": "",
-      "publishedAt": "2026-10-12T19:40:00.000Z",
-      "image": "https://media.image.infoseek.co.jp/isnews/pc/img/noimage_203x120_busi-econ-1.0.png",
-      "categories": [
-        "comic",
-        "book"
       ],
       "works": [],
       "isPR": false,
