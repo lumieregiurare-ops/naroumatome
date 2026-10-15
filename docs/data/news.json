@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-15T17:00:21.120Z",
+  "updatedAt": "2026-10-15T17:30:18.893Z",
   "site": {
     "title": "なろう系まとめ",
     "tagline": "小説家になろう発の作品のアニメ化・コミカライズ・書籍化のニュースと、なろうのランキングをまとめています。",
@@ -7,12 +7,12 @@
     "contactUrl": "https://docs.google.com/forms/d/e/1FAIpQLSesWyhmZ6sRS_ve-c3X2KqF_wC5PK2TgwgQbTKmnQltSlg5Jw/viewform"
   },
   "total": 97,
-  "todayCount": 2,
+  "todayCount": 0,
   "categories": [
     {
       "id": "anime",
       "label": "アニメ",
-      "count": 56
+      "count": 54
     },
     {
       "id": "comic",
@@ -22,12 +22,12 @@
     {
       "id": "book",
       "label": "書籍・ラノベ",
-      "count": 5
+      "count": 7
     },
     {
       "id": "web",
       "label": "Web小説・賞",
-      "count": 5
+      "count": 6
     },
     {
       "id": "game",
@@ -50,7 +50,7 @@
       "id": "tensura",
       "title": "転生したらスライムだった件",
       "short": "転スラ",
-      "count": 8
+      "count": 7
     },
     {
       "id": "mushoku",
@@ -303,10 +303,6 @@
       "count": 7
     },
     {
-      "name": "山陽新聞",
-      "count": 7
-    },
-    {
       "name": "アニメ！アニメ！",
       "count": 6
     },
@@ -315,8 +311,8 @@
       "count": 6
     },
     {
-      "name": "PR TIMES",
-      "count": 4
+      "name": "山陽新聞",
+      "count": 6
     },
     {
       "name": "アニメハック",
@@ -324,6 +320,10 @@
     },
     {
       "name": "ｄメニューニュース",
+      "count": 4
+    },
+    {
+      "name": "PR TIMES",
       "count": 4
     },
     {
@@ -416,6 +416,10 @@
     },
     {
       "name": "Unisba Media",
+      "count": 1
+    },
+    {
+      "name": "Koubo",
       "count": 1
     },
     {
@@ -715,7 +719,7 @@
       "title": "リゼロの舞台に似ている？ラグナシア「Re:ゼロから始める異世界生活」コラボイベント",
       "summary": "",
       "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9mYTBSc2M4dFpjMC15TEwzUmRUSmxkR1RSd2pGUHNCZUhla2VxTjNobEp2NHNoLUlnT01HSE1KbmdRS3ZCTGotVEtIQjJweHpFRkNqS3F4X1ZaaWFsLUxLLUM0QWNNb24zcUVIU2ZGTnh1ZFQ00gF6QVVfeXFMTmdhLVUwVXFzcVU2djFiNm5zeHZmQk9sSWQ0SVlSWGluakY1QjZ0c0FmSjBDakNScHRWWFZFRDcxVnF0b01uc1NNdmQyVXRtdVNOdXJhR0VBSnozRHoyRk5zTEtuZEpyNkNpUkFQNEY1T19mcTlFa3ZMelE?oc=5",
-      "image": "https://news.dellows.jp/wp-content/uploads/2026/10/706515_1.jpg",
+      "image": "",
       "leadSource": "ｄメニューニュース",
       "publishedAt": "2026-10-13T09:00:00.000Z",
       "sourceCount": 2,
@@ -740,32 +744,13 @@
     }
   ],
   "churn": {
-    "previousAt": "2026-10-15T16:30:18.447Z",
-    "previousCount": 94,
-    "newCount": 3
+    "previousAt": "2026-10-15T17:00:21.120Z",
+    "previousCount": 97,
+    "newCount": 1
   },
   "updateGapMin": 30,
-  "nextUpdateAt": "2026-10-15T17:30:21.120Z",
+  "nextUpdateAt": "2026-10-15T18:00:18.893Z",
   "items": [
-    {
-      "id": "ef77ab582fc7",
-      "title": "「アリアンローズ」×「小説家になろう」タイアップ【アリアンローズファンタジー大賞】本日10月15日より開催！",
-      "url": "https://prtimes.jp/main/html/rd/p/000009086.000016756.html",
-      "host": "prtimes.jp",
-      "source": "PR TIMES",
-      "summary": "[株式会社アニメイトホールディングス] [画像1: https://prcdn.freetls.fastly.net/release_image/16756/9086/16756-9086-8d3a42ddaca10d152c13a8660f7efc8a-635x380.jpg?width=536&quality=8…",
-      "publishedAt": "2026-10-15T15:10:02.000Z",
-      "image": "https://prcdn.freetls.fastly.net/release_image/16756/9086/16756-9086-8d3a42ddaca10d152c13a8660f7efc8a-635x380.jpg?format=jpeg&auto=webp&fit=bounds&width=2400&height=1260",
-      "categories": [
-        "web",
-        "anime"
-      ],
-      "works": [],
-      "isPR": true,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": false
-    },
     {
       "id": "048856b88e3c",
       "title": "異世界・ファンタジーアニメ4チャンネル | 無料で放送中の番組や配信中の話題作が見放題",
@@ -773,7 +758,7 @@
       "host": "abema.tv",
       "source": "ABEMA",
       "summary": "",
-      "publishedAt": "2026-10-15T15:00:56.000Z",
+      "publishedAt": "2026-10-15T14:49:26.000Z",
       "image": "",
       "categories": [
         "anime"
@@ -1492,6 +1477,25 @@
       "isNew": false
     },
     {
+      "id": "ef77ab582fc7",
+      "title": "「アリアンローズ」×「小説家になろう」タイアップ【アリアンローズファンタジー大賞】本日10月15日より開催！",
+      "url": "https://prtimes.jp/main/html/rd/p/000009086.000016756.html",
+      "host": "prtimes.jp",
+      "source": "PR TIMES",
+      "summary": "",
+      "publishedAt": "2026-10-15T03:00:02.000Z",
+      "image": "https://prcdn.freetls.fastly.net/release_image/16756/9086/16756-9086-8d3a42ddaca10d152c13a8660f7efc8a-635x380.jpg?format=jpeg&auto=webp&fit=bounds&width=2400&height=1260",
+      "categories": [
+        "web",
+        "book"
+      ],
+      "works": [],
+      "isPR": true,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": false
+    },
+    {
       "id": "e9c206208c00",
       "title": "【本日10/15発売開始】シリーズ累計1400万部突破！『本好きの下剋上 ～ハンネローレの貴族院五年生～』の最新巻など注目の話題作が続々登場！",
       "url": "https://prtimes.jp/main/html/rd/p/000000217.000174060.html",
@@ -2051,6 +2055,25 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
+      "isNew": false
+    },
+    {
+      "id": "afeb88a2b1f6",
+      "title": "小説家になろう発「ネット小説大賞」10月14日募集開始",
+      "url": "https://koubo.jp/article/130655",
+      "host": "koubo.jp",
+      "source": "Koubo",
+      "summary": "",
+      "publishedAt": "2026-10-14T03:04:49.000Z",
+      "image": "https://koubo-dz7cn3ci.s3.ap-northeast-1.amazonaws.com/strapi/article_130655_keyvisual_5aaf4f3a36.jpeg",
+      "categories": [
+        "web",
+        "book"
+      ],
+      "works": [],
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
       "isNew": true
     },
     {
@@ -2112,7 +2135,7 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "7662d9d8d36b",
@@ -2420,7 +2443,7 @@
       "source": "Dellows News",
       "summary": "",
       "publishedAt": "2026-10-13T05:41:02.000Z",
-      "image": "https://news.dellows.jp/wp-content/uploads/2026/10/706515_1.jpg",
+      "image": "",
       "categories": [
         "goods"
       ],
@@ -2552,26 +2575,6 @@
       "viaGoogle": false,
       "sourceKind": "news",
       "isNew": false
-    },
-    {
-      "id": "299970487651",
-      "title": "『転スラ』衝撃の戦闘！封印の解かれたクロノア、破壊の化身に 第94話あらすじ＆場面カット解禁",
-      "url": "https://www.sanyonews.jp/photo/detail?article_id",
-      "host": "sanyonews.jp",
-      "source": "山陽新聞",
-      "summary": "",
-      "publishedAt": "2026-10-12T21:43:29.000Z",
-      "image": "",
-      "categories": [
-        "anime"
-      ],
-      "works": [
-        "tensura"
-      ],
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": true
     },
     {
       "id": "eebe5a417210",
