@@ -1,18 +1,18 @@
 {
-  "updatedAt": "2026-10-15T02:00:21.731Z",
+  "updatedAt": "2026-10-15T02:30:18.132Z",
   "site": {
     "title": "なろう系まとめ",
     "tagline": "小説家になろう発の作品のアニメ化・コミカライズ・書籍化のニュースと、なろうのランキングをまとめています。",
     "url": "https://naroumatome.gamelab.website/",
     "contactUrl": "https://docs.google.com/forms/d/e/1FAIpQLSesWyhmZ6sRS_ve-c3X2KqF_wC5PK2TgwgQbTKmnQltSlg5Jw/viewform"
   },
-  "total": 83,
-  "todayCount": 10,
+  "total": 86,
+  "todayCount": 12,
   "categories": [
     {
       "id": "anime",
       "label": "アニメ",
-      "count": 49
+      "count": 50
     },
     {
       "id": "comic",
@@ -37,12 +37,12 @@
     {
       "id": "goods",
       "label": "グッズ・イベント",
-      "count": 12
+      "count": 13
     },
     {
       "id": "other",
       "label": "そのほか",
-      "count": 15
+      "count": 16
     }
   ],
   "works": [
@@ -56,7 +56,7 @@
       "id": "mushoku",
       "title": "無職転生 ～異世界行ったら本気だす～",
       "short": "無職転生",
-      "count": 3
+      "count": 6
     },
     {
       "id": "rezero",
@@ -80,7 +80,7 @@
       "id": "kagejitsu",
       "title": "陰の実力者になりたくて！",
       "short": "陰の実力者",
-      "count": 1
+      "count": 2
     },
     {
       "id": "tate",
@@ -224,7 +224,7 @@
       "id": "tenken",
       "title": "転生したら剣でした",
       "short": "転剣",
-      "count": 5
+      "count": 4
     },
     {
       "id": "rupunana",
@@ -299,19 +299,19 @@
       "count": 12
     },
     {
-      "name": "WEBザテレビジョン",
-      "count": 6
+      "name": "山陽新聞",
+      "count": 7
     },
     {
       "name": "ラノベニュースオンライン",
       "count": 6
     },
     {
-      "name": "アニメハック",
+      "name": "WEBザテレビジョン",
       "count": 5
     },
     {
-      "name": "山陽新聞",
+      "name": "アニメハック",
       "count": 5
     },
     {
@@ -395,6 +395,10 @@
       "count": 1
     },
     {
+      "name": "Unisba Media",
+      "count": 1
+    },
+    {
       "name": "キャラグー",
       "count": 1
     },
@@ -440,6 +444,10 @@
     },
     {
       "name": "J:magazine!",
+      "count": 1
+    },
+    {
+      "name": "神ゲー攻略",
       "count": 1
     }
   ],
@@ -848,6 +856,35 @@
       ]
     },
     {
+      "id": "307d15370272",
+      "title": "【無職転生】面白いし1回は出してみたい無職で異世界行かなくても本気出して欲しいさらば諭吉【このごみ2198養分】 Sloth World (fKXcGM6khq)",
+      "summary": "",
+      "url": "https://media.unisba.ac.id/c19d9177/c4e14b7cIqA5Feca4x0",
+      "image": "https://pixela.co.jp/delivery/wp-content/uploads/mushoku-tensei-streaming-eyecatch.jpg",
+      "leadSource": "Unisba Media",
+      "publishedAt": "2026-10-14T06:48:51.000Z",
+      "sourceCount": 2,
+      "articleCount": 2,
+      "categories": [
+        "other",
+        "anime"
+      ],
+      "keywords": [
+        "無職転生",
+        "無職",
+        "異世界行"
+      ],
+      "articles": [
+        {
+          "title": "無職転生 ～異世界行ったら本気だす～の配信はどこ？DMM TVで見放題",
+          "url": "https://pixela.co.jp/delivery/mushoku-tensei-streaming/",
+          "source": "株式会社ピクセラ",
+          "publishedAt": "2026-10-13T13:46:06.000Z",
+          "isPR": false
+        }
+      ]
+    },
+    {
       "id": "fb3c2dce7828",
       "title": "第3話 転生ゴブリンだけど質問ある？",
       "summary": "",
@@ -873,43 +910,15 @@
           "isPR": false
         }
       ]
-    },
-    {
-      "id": "39bf293e490e",
-      "title": "『本好きの下剋上』続編「貴族院の自称図書委員」編アニメ化決定 制作はWIT STUDIO",
-      "summary": "",
-      "url": "https://www.sanyonews.jp/article/1999132?rct",
-      "image": "https://static.sanyonews.jp/image/article/size1/e/6/b/3/e6b3aa2868f5d7e89848e029284bc7ef_1.jpg",
-      "leadSource": "山陽新聞",
-      "publishedAt": "2026-10-13T17:29:20.000Z",
-      "sourceCount": 2,
-      "articleCount": 2,
-      "categories": [
-        "anime"
-      ],
-      "keywords": [
-        "本好き",
-        "本好",
-        "下剋上"
-      ],
-      "articles": [
-        {
-          "title": "【第19話】本好きの下剋上 領主の養女",
-          "url": "https://www.tvguide.or.jp/db/anime/booklove/youjyo/episode19/",
-          "source": "TVガイドWeb",
-          "publishedAt": "2026-10-13T17:28:37.000Z",
-          "isPR": false
-        }
-      ]
     }
   ],
   "churn": {
-    "previousAt": "2026-10-15T01:30:19.809Z",
-    "previousCount": 82,
-    "newCount": 1
+    "previousAt": "2026-10-15T02:00:21.731Z",
+    "previousCount": 83,
+    "newCount": 4
   },
   "updateGapMin": 30,
-  "nextUpdateAt": "2026-10-15T02:30:21.731Z",
+  "nextUpdateAt": "2026-10-15T03:00:18.132Z",
   "items": [
     {
       "id": "3001176857af",
@@ -958,7 +967,7 @@
       "source": "ABEMA",
       "summary": "",
       "publishedAt": "2026-10-14T23:19:03.000Z",
-      "image": "https://image.p-c2-x.abema-tv.com/image/assets/splash.png?height=720&quality=75&version=20210720&width=1280",
+      "image": "",
       "categories": [
         "anime"
       ],
@@ -1084,7 +1093,7 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "ee76bfc798c8",
@@ -1105,6 +1114,46 @@
       "viaGoogle": false,
       "sourceKind": "news",
       "isNew": false
+    },
+    {
+      "id": "9879fb93949d",
+      "title": "『無職転生』第3期の最新PV解禁！本編映像で構成 シルフィエット＆ロキシー2人の妻・戦闘シーン",
+      "url": "https://www.sanyonews.jp/article/1932699?kw",
+      "host": "sanyonews.jp",
+      "source": "山陽新聞",
+      "summary": "",
+      "publishedAt": "2026-10-14T19:47:52.000Z",
+      "image": "https://static.sanyonews.jp/image/article/size1/6/7/0/e/670e86828004d14c25e357b79170f9e3_1.jpg",
+      "categories": [
+        "anime"
+      ],
+      "works": [
+        "mushoku"
+      ],
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": true
+    },
+    {
+      "id": "47f480534aed",
+      "title": "『無職転生』ロキシー、水王級魔術を教えてほしい！ 第3期の第4話あらすじ＆場面カット公開",
+      "url": "https://www.sanyonews.jp/article/1955620?rct",
+      "host": "sanyonews.jp",
+      "source": "山陽新聞",
+      "summary": "",
+      "publishedAt": "2026-10-14T17:48:26.000Z",
+      "image": "https://static.sanyonews.jp/image/article/size1/a/4/5/b/a45b3c41f1637837858a70e38b1d0910_1.jpg",
+      "categories": [
+        "anime"
+      ],
+      "works": [
+        "mushoku"
+      ],
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": true
     },
     {
       "id": "25bf69ae3294",
@@ -1134,7 +1183,7 @@
       "source": "アニメハック",
       "summary": "",
       "publishedAt": "2026-10-14T13:00:00.000Z",
-      "image": "https://media.eiga.com/images/anime/news/127660/photo/c2ff389a0485cea3/640.jpg",
+      "image": "",
       "categories": [
         "anime"
       ],
@@ -1213,7 +1262,7 @@
       "source": "アニメハック",
       "summary": "",
       "publishedAt": "2026-10-14T11:00:00.000Z",
-      "image": "https://media.eiga.com/images/anime/news/127636/photo/76f301270984ad1f/640.jpg",
+      "image": "",
       "categories": [
         "anime",
         "web"
@@ -1641,6 +1690,26 @@
       "isNew": false
     },
     {
+      "id": "307d15370272",
+      "title": "【無職転生】面白いし1回は出してみたい無職で異世界行かなくても本気出して欲しいさらば諭吉【このごみ2198養分】 Sloth World (fKXcGM6khq)",
+      "url": "https://media.unisba.ac.id/c19d9177/c4e14b7cIqA5Feca4x0",
+      "host": "media.unisba.ac.id",
+      "source": "Unisba Media",
+      "summary": "",
+      "publishedAt": "2026-10-14T06:48:51.000Z",
+      "image": "",
+      "categories": [
+        "other"
+      ],
+      "works": [
+        "mushoku"
+      ],
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": true
+    },
+    {
       "id": "1ae849702326",
       "title": "異世界ファンタジーの金字塔「彼方から」、黒沢ともよ&熊谷健太郎が語るアニメ版の魅力と原作の強さ",
       "url": "https://thetv.jp/news/detail/1441677/landing/",
@@ -1742,7 +1811,7 @@
       "source": "アニメハック",
       "summary": "",
       "publishedAt": "2026-10-14T03:00:00.000Z",
-      "image": "https://media.eiga.com/images/anime/news/127648/photo/023690547569bd24/640.jpg",
+      "image": "",
       "categories": [
         "anime"
       ],
@@ -2021,7 +2090,7 @@
       "source": "アニメハック",
       "summary": "",
       "publishedAt": "2026-10-13T12:00:00.000Z",
-      "image": "https://media.eiga.com/images/anime/news/127645/photo/4d3f85bcfb316791/640.jpg",
+      "image": "",
       "categories": [
         "anime"
       ],
@@ -2079,7 +2148,7 @@
       "source": "アニメハック",
       "summary": "",
       "publishedAt": "2026-10-13T10:00:00.000Z",
-      "image": "https://media.eiga.com/images/anime/news/127644/photo/e2172b6e3f04bf8f/640.jpg",
+      "image": "",
       "categories": [
         "anime"
       ],
@@ -2446,26 +2515,6 @@
       "isNew": false
     },
     {
-      "id": "0e153aca1eda",
-      "title": "転生したら剣でしたII＞死霊魔獣が渦巻く浮遊島の迷宮へ…フランと師匠の新たな冒険を描く第2話あらすじ＆先行カット公開(2/3)",
-      "url": "https://thetv.jp/news/detail/1447924/p2/",
-      "host": "thetv.jp",
-      "source": "WEBザテレビジョン",
-      "summary": "",
-      "publishedAt": "2026-10-12T10:03:58.000Z",
-      "image": "https://thetv.jp/i/nw/1447924/18784712.jpg?w=1284",
-      "categories": [
-        "anime"
-      ],
-      "works": [
-        "tenken"
-      ],
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": false
-    },
-    {
       "id": "adef61b54256",
       "title": "【異世界魔王】アニメ第3期『ULT』シェラ＆レムがウェディングドレス姿を描いたティザービジュアル解禁",
       "url": "https://dengekionline.com/article/202610/90717",
@@ -2540,6 +2589,26 @@
       "viaGoogle": false,
       "sourceKind": "news",
       "isNew": false
+    },
+    {
+      "id": "1fb1a35b1cef",
+      "title": "【DbD】「陰の実力者」の性能と効果解説【デッドバイデイライト】",
+      "url": "https://kamigame.jp/dbd/page/250719165885761483.html",
+      "host": "kamigame.jp",
+      "source": "神ゲー攻略",
+      "summary": "",
+      "publishedAt": "2026-10-12T05:37:57.000Z",
+      "image": "https://lh3.googleusercontent.com/A8e5d-fqNVK4a9xM6GAyIU0G_NGsOscpWO16tHP5OuuU7TZGUvH2_lqL3jRSKr5BOF4ebwTsHSod9WeCHsvXVE30zxesydrsOowiQg5mZuPHOQ=s0",
+      "categories": [
+        "goods"
+      ],
+      "works": [
+        "kagejitsu"
+      ],
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": true
     }
   ]
 }
