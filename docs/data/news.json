@@ -1,18 +1,18 @@
 {
-  "updatedAt": "2026-10-16T05:00:18.310Z",
+  "updatedAt": "2026-10-16T05:30:18.940Z",
   "site": {
     "title": "なろう系まとめ",
     "tagline": "小説家になろう発の作品のアニメ化・コミカライズ・書籍化のニュースと、なろうのランキングをまとめています。",
     "url": "https://naroumatome.gamelab.website/",
     "contactUrl": "https://docs.google.com/forms/d/e/1FAIpQLSesWyhmZ6sRS_ve-c3X2KqF_wC5PK2TgwgQbTKmnQltSlg5Jw/viewform"
   },
-  "total": 101,
-  "todayCount": 27,
+  "total": 103,
+  "todayCount": 28,
   "categories": [
     {
       "id": "anime",
       "label": "アニメ",
-      "count": 56
+      "count": 58
     },
     {
       "id": "comic",
@@ -32,17 +32,17 @@
     {
       "id": "game",
       "label": "ゲーム",
-      "count": 3
+      "count": 4
     },
     {
       "id": "goods",
       "label": "グッズ・イベント",
-      "count": 17
+      "count": 16
     },
     {
       "id": "other",
       "label": "そのほか",
-      "count": 20
+      "count": 19
     }
   ],
   "works": [
@@ -62,7 +62,7 @@
       "id": "rezero",
       "title": "Re:ゼロから始める異世界生活",
       "short": "リゼロ",
-      "count": 15
+      "count": 14
     },
     {
       "id": "honzuki",
@@ -164,7 +164,7 @@
       "id": "katainaka",
       "title": "片田舎のおっさん、剣聖になる",
       "short": "片田舎のおっさん",
-      "count": 2
+      "count": 1
     },
     {
       "id": "nozomanu",
@@ -303,11 +303,11 @@
       "count": 7
     },
     {
-      "name": "山陽新聞",
-      "count": 7
+      "name": "アニメ！アニメ！",
+      "count": 6
     },
     {
-      "name": "アニメ！アニメ！",
+      "name": "山陽新聞",
       "count": 6
     },
     {
@@ -323,7 +323,15 @@
       "count": 3
     },
     {
+      "name": "ABEMA",
+      "count": 3
+    },
+    {
       "name": "ライブドアニュース",
+      "count": 3
+    },
+    {
+      "name": "Unisba Media",
       "count": 3
     },
     {
@@ -348,10 +356,6 @@
     },
     {
       "name": "Infoseek",
-      "count": 2
-    },
-    {
-      "name": "ABEMA",
       "count": 2
     },
     {
@@ -436,10 +440,6 @@
     },
     {
       "name": "ふねぽ",
-      "count": 1
-    },
-    {
-      "name": "Unisba Media",
       "count": 1
     },
     {
@@ -675,6 +675,34 @@
       ]
     },
     {
+      "id": "2fd2be19daa6",
+      "title": "アニメ『異世界でチート能力を手にした俺は、現実世界をも無双する 2nd Season』は2027年1月放送開始",
+      "summary": "",
+      "url": "https://ln-news.com/articles/126965",
+      "image": "https://assets.ln-news.com/images/medias/5b241c6cee6241809c2f336879749c98.jpg",
+      "leadSource": "ラノベニュースオンライン",
+      "publishedAt": "2026-10-16T05:30:00.000Z",
+      "sourceCount": 2,
+      "articleCount": 2,
+      "categories": [
+        "anime"
+      ],
+      "keywords": [
+        "チート",
+        "能力",
+        "現実世界"
+      ],
+      "articles": [
+        {
+          "title": "異世界でチート能力を手にした俺は、現実世界をも無双する＞テレビアニメ第2期 2027年1月スタート 新キャラの声優に長谷川育美、雨宮天（MANTANWEB）",
+          "url": "https://news.yahoo.co.jp/articles/c098706a336c7f947b94f5268d31bbc48ba4c6ba",
+          "source": "Yahoo!ニュース",
+          "publishedAt": "2026-10-15T09:06:00.000Z",
+          "isPR": false
+        }
+      ]
+    },
+    {
       "id": "bdcae550959c",
       "title": "「どうしてこうなった」絶望と歓喜が交錯!? 「過酷な運命に抗う姿」が熱かった2026夏の異世界アニメ（マグミクス）",
       "summary": "",
@@ -843,13 +871,31 @@
     }
   ],
   "churn": {
-    "previousAt": "2026-10-16T04:30:23.840Z",
+    "previousAt": "2026-10-16T05:00:18.310Z",
     "previousCount": 101,
-    "newCount": 7
+    "newCount": 4
   },
   "updateGapMin": 30,
-  "nextUpdateAt": "2026-10-16T05:30:18.310Z",
+  "nextUpdateAt": "2026-10-16T06:00:18.940Z",
   "items": [
+    {
+      "id": "2fd2be19daa6",
+      "title": "アニメ『異世界でチート能力を手にした俺は、現実世界をも無双する 2nd Season』は2027年1月放送開始",
+      "url": "https://ln-news.com/articles/126965",
+      "host": "ln-news.com",
+      "source": "ラノベニュースオンライン",
+      "summary": "",
+      "publishedAt": "2026-10-16T05:30:00.000Z",
+      "image": "https://assets.ln-news.com/images/medias/5b241c6cee6241809c2f336879749c98.jpg",
+      "categories": [
+        "anime"
+      ],
+      "works": [],
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": true
+    },
     {
       "id": "4dc9b4cbbbc7",
       "title": "TVアニメ「片田舎のおっさん、剣聖になる II」、7月8日より放送開始決定！ (GAME Watch)",
@@ -868,7 +914,7 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "e6e943cad5c9",
@@ -888,7 +934,7 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "69fe15300ae0",
@@ -929,7 +975,7 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "49a56696a962",
@@ -1072,7 +1118,7 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "bdcae550959c",
@@ -1209,6 +1255,24 @@
       "viaGoogle": false,
       "sourceKind": "news",
       "isNew": false
+    },
+    {
+      "id": "92a35b697ee6",
+      "title": "追放された転生重騎士はゲーム知識で無双する #17【WEB最速】",
+      "url": "https://abema.tv/channels/abema-anime/slots/9FYQxtnbmgzfDR",
+      "host": "abema.tv",
+      "source": "ABEMA",
+      "summary": "",
+      "publishedAt": "2026-10-16T00:04:40.000Z",
+      "image": "",
+      "categories": [
+        "game"
+      ],
+      "works": [],
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": true
     },
     {
       "id": "9d6881661536",
@@ -1369,27 +1433,6 @@
       "viaGoogle": false,
       "sourceKind": "news",
       "isNew": false
-    },
-    {
-      "id": "c196d13ab42d",
-      "title": "TVアニメ「Re:ゼロから始める異世界生活」4th season×鳥取県コラボキャンペーンスタートを記念したプレス発表会を開催",
-      "url": "https://www.sanyonews.jp/article/1908523?rct",
-      "host": "sanyonews.jp",
-      "source": "山陽新聞",
-      "summary": "",
-      "publishedAt": "2026-10-15T16:49:24.000Z",
-      "image": "https://static.sanyonews.jp/image/article/size1https://prtimes.jp/img/78201/186/resize/d78201-186-a1196a1c68827121bd76-5.jpg",
-      "categories": [
-        "anime",
-        "goods"
-      ],
-      "works": [
-        "rezero"
-      ],
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": true
     },
     {
       "id": "57b52f480691",
@@ -1707,7 +1750,7 @@
       "source": "アニメージュプラス",
       "summary": "",
       "publishedAt": "2026-10-15T09:04:40.000Z",
-      "image": "",
+      "image": "https://images.animageplus.jp/articles/67000/67996/OG/2b1f730c0359e4dc9255090a8f7613ad.jpg",
       "categories": [
         "anime"
       ],
@@ -1860,6 +1903,24 @@
       "isNew": false
     },
     {
+      "id": "ef8d730d479e",
+      "title": "転生後、恋愛システムが覚醒し、俺はこの学校の女子全員を攻略できるようになった！[異世界最新作]#海外アニメ #異世界アニメ#アニメフル全話 Playstation Store (Ow9C41ZNZx)",
+      "url": "https://media.unisba.ac.id/7bb530e1/c55fa865Daa9wny44aw",
+      "host": "media.unisba.ac.id",
+      "source": "Unisba Media",
+      "summary": "",
+      "publishedAt": "2026-10-15T08:31:53.000Z",
+      "image": "",
+      "categories": [
+        "anime"
+      ],
+      "works": [],
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": true
+    },
+    {
       "id": "7499b9f57181",
       "title": "現役高校生が選ぶ「 上司にしたいアニメキャラ」1位は? - 2位「転スラ」リムル、3位「鬼滅の刃」炭治郎",
       "url": "https://news.mynavi.jp/article/20261015-5132504/",
@@ -1915,7 +1976,7 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "2040a828394f",
@@ -2248,6 +2309,24 @@
       "isNew": false
     },
     {
+      "id": "ebcac53bd382",
+      "title": "【アニメ異世界】無能冒険者だった俺、現代の経営知識だけで異世界経済を支配する【アニメ異世界】 Porter Martone (juBy0H5W6A)",
+      "url": "https://media.unisba.ac.id/e558de8b/ba34f6a42H9_xdz1aK0/?share",
+      "host": "media.unisba.ac.id",
+      "source": "Unisba Media",
+      "summary": "",
+      "publishedAt": "2026-10-14T10:36:29.000Z",
+      "image": "",
+      "categories": [
+        "anime"
+      ],
+      "works": [],
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": true
+    },
+    {
       "id": "b788a84abd47",
       "title": "世界最高の暗殺者、異世界貴族に転生する",
       "url": "https://tver.jp/episodes/epgz055bad",
@@ -2475,7 +2554,7 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "afeb88a2b1f6",
@@ -2524,7 +2603,7 @@
       "source": "MANTANWEB",
       "summary": "",
       "publishedAt": "2026-10-13T23:00:25.000Z",
-      "image": "https://storage.mantan-web.jp/w=1280,h=720,icr=0:0.1:1:1,a=2,g=2,f=webp:auto/images/2026/10/13/20261013dog00m200054000a/001.jpg",
+      "image": "",
       "categories": [
         "anime"
       ],
@@ -2808,26 +2887,6 @@
       ],
       "works": [
         "rezero"
-      ],
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": false
-    },
-    {
-      "id": "ba0210321f82",
-      "title": "『片田舎のおっさん、剣聖になる』LINEスタンプが発売",
-      "url": "https://ln-news.com/articles/126809",
-      "host": "ln-news.com",
-      "source": "ラノベニュースオンライン",
-      "summary": "",
-      "publishedAt": "2026-10-13T00:30:00.000Z",
-      "image": "https://assets.ln-news.com/images/medias/5704c267a4f34c648c9f98b35ad45d6a.jpg",
-      "categories": [
-        "other"
-      ],
-      "works": [
-        "katainaka"
       ],
       "isPR": false,
       "viaGoogle": false,
