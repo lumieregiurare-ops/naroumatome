@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-16T20:00:17.804Z",
+  "updatedAt": "2026-10-16T20:30:17.449Z",
   "site": {
     "title": "なろう系まとめ",
     "tagline": "小説家になろう発の作品のアニメ化・コミカライズ・書籍化のニュースと、なろうのランキングをまとめています。",
@@ -12,7 +12,7 @@
     {
       "id": "anime",
       "label": "アニメ",
-      "count": 49
+      "count": 48
     },
     {
       "id": "comic",
@@ -22,7 +22,7 @@
     {
       "id": "book",
       "label": "書籍・ラノベ",
-      "count": 8
+      "count": 9
     },
     {
       "id": "web",
@@ -37,12 +37,12 @@
     {
       "id": "goods",
       "label": "グッズ・イベント",
-      "count": 21
+      "count": 20
     },
     {
       "id": "other",
       "label": "そのほか",
-      "count": 24
+      "count": 25
     }
   ],
   "works": [
@@ -50,7 +50,7 @@
       "id": "tensura",
       "title": "転生したらスライムだった件",
       "short": "転スラ",
-      "count": 14
+      "count": 15
     },
     {
       "id": "mushoku",
@@ -62,7 +62,7 @@
       "id": "rezero",
       "title": "Re:ゼロから始める異世界生活",
       "short": "リゼロ",
-      "count": 16
+      "count": 15
     },
     {
       "id": "honzuki",
@@ -164,7 +164,7 @@
       "id": "katainaka",
       "title": "片田舎のおっさん、剣聖になる",
       "short": "片田舎のおっさん",
-      "count": 0
+      "count": 1
     },
     {
       "id": "nozomanu",
@@ -319,19 +319,19 @@
       "count": 5
     },
     {
-      "name": "ライブドアニュース",
-      "count": 4
-    },
-    {
-      "name": "電撃オンライン",
-      "count": 4
+      "name": "山陽新聞",
+      "count": 5
     },
     {
       "name": "Unisba Media",
       "count": 4
     },
     {
-      "name": "山陽新聞",
+      "name": "ライブドアニュース",
+      "count": 4
+    },
+    {
+      "name": "電撃オンライン",
       "count": 4
     },
     {
@@ -416,10 +416,6 @@
     },
     {
       "name": "TVer",
-      "count": 1
-    },
-    {
-      "name": "Dellows News",
       "count": 1
     },
     {
@@ -528,7 +524,7 @@
           "isPR": false
         },
         {
-          "title": "【画像】シリーズ累計1400万部突破、最新巻が本日発売！TOブックス 2026年10月15日発売『本好きの下剋上 ～ハンネローレの貴族院五年生～ 「恋してみたいお姫様 2」』ほか注目の新刊 4/14 - ライブドアニュース",
+          "title": "【画像】シリーズ累計1400万部突破、最新巻が本日発売！TOブックス 2026年10月15日発売『本好きの下剋上 ～ハンネローレの貴族院五年生～ 「恋してみたいお姫様 2」』ほか注目の新刊 5/14 - ライブドアニュース",
           "url": "https://news.livedoor.com/article/image_detail/32576254/?img_id",
           "source": "ライブドアニュース",
           "publishedAt": "2026-10-15T11:20:06.000Z",
@@ -753,12 +749,12 @@
     }
   ],
   "churn": {
-    "previousAt": "2026-10-16T19:30:21.092Z",
-    "previousCount": 105,
+    "previousAt": "2026-10-16T20:00:17.804Z",
+    "previousCount": 104,
     "newCount": 2
   },
   "updateGapMin": 30,
-  "nextUpdateAt": "2026-10-16T20:30:17.804Z",
+  "nextUpdateAt": "2026-10-16T21:00:17.449Z",
   "items": [
     {
       "id": "eecf71fa228d",
@@ -933,6 +929,26 @@
       "viaGoogle": false,
       "sourceKind": "news",
       "isNew": false
+    },
+    {
+      "id": "0bbcf011d0fe",
+      "title": "WEBラジオ「片田舎のおっさん、進行役(パーソナリティ)になる第3回 ショートver.①| ゲスト：上田瞳 Padres Vs Brewers (TOAk75paqA)",
+      "url": "https://media.unisba.ac.id/4d64c448/2b8c0577yU5WMKcjgCQ",
+      "host": "media.unisba.ac.id",
+      "source": "Unisba Media",
+      "summary": "",
+      "publishedAt": "2026-10-16T12:41:04.000Z",
+      "image": "",
+      "categories": [
+        "other"
+      ],
+      "works": [
+        "katainaka"
+      ],
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": true
     },
     {
       "id": "2de64583c2ab",
@@ -1551,24 +1567,6 @@
       "isNew": false
     },
     {
-      "id": "52e4d14e7ac4",
-      "title": "【異世界アニメ】【第2期】異世界ヒーラーに転生したのに属性がもらえないなんて! Hannah Walters (YyjFyqLFGj)",
-      "url": "https://media.unisba.ac.id/995f2f19/2881be8aq-gOJYNtQ80/?share",
-      "host": "media.unisba.ac.id",
-      "source": "Unisba Media",
-      "summary": "",
-      "publishedAt": "2026-10-16T03:12:51.000Z",
-      "image": "",
-      "categories": [
-        "anime"
-      ],
-      "works": [],
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": true
-    },
-    {
       "id": "1391212702ac",
       "title": "薬屋のひとりごと＞第51話「麺麭がなければ」 猫猫の違和感 施しにはぜいたくすぎる焼き菓子（MANTANWEB）",
       "url": "https://news.yahoo.co.jp/articles/91ce8fef40eeeb8319c5b5c53ac7efb0e7a275a2",
@@ -2005,7 +2003,7 @@
     },
     {
       "id": "e00724faac9e",
-      "title": "【画像】シリーズ累計1400万部突破、最新巻が本日発売！TOブックス 2026年10月15日発売『本好きの下剋上 ～ハンネローレの貴族院五年生～ 「恋してみたいお姫様 2」』ほか注目の新刊 4/14 - ライブドアニュース",
+      "title": "【画像】シリーズ累計1400万部突破、最新巻が本日発売！TOブックス 2026年10月15日発売『本好きの下剋上 ～ハンネローレの貴族院五年生～ 「恋してみたいお姫様 2」』ほか注目の新刊 5/14 - ライブドアニュース",
       "url": "https://news.livedoor.com/article/image_detail/32576254/?img_id",
       "host": "news.livedoor.com",
       "source": "ライブドアニュース",
@@ -2350,7 +2348,7 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "953f7653361f",
@@ -2506,26 +2504,6 @@
       "isNew": false
     },
     {
-      "id": "90830af949f6",
-      "title": "愛知のラグナシアでリゼロコラボイベントが2026年11月7日より開催へ",
-      "url": "https://news.dellows.jp/706515/",
-      "host": "news.dellows.jp",
-      "source": "Dellows News",
-      "summary": "",
-      "publishedAt": "2026-10-14T07:52:30.000Z",
-      "image": "https://news.dellows.jp/wp-content/uploads/2026/10/706515_1.jpg",
-      "categories": [
-        "goods"
-      ],
-      "works": [
-        "rezero"
-      ],
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": false
-    },
-    {
       "id": "884c952871d5",
       "title": "秋アニメ『魔法騎士レイアース』第1話に“平成アニメ初見勢”から驚きの声「作画好きすぎる」「異世界ものだったんだ」",
       "url": "https://futaman.futabanet.jp/articles/-/132561",
@@ -2582,6 +2560,26 @@
       "viaGoogle": false,
       "sourceKind": "news",
       "isNew": false
+    },
+    {
+      "id": "12b3e646fc57",
+      "title": "『転スラ』原作小説完結！リムルの描き下ろしイラスト公開 首都圏でお祝い広告が展開【掲出場所一覧】",
+      "url": "https://www.sanyonews.jp/photo/detail?article_id",
+      "host": "sanyonews.jp",
+      "source": "山陽新聞",
+      "summary": "",
+      "publishedAt": "2026-10-14T07:00:00.000Z",
+      "image": "",
+      "categories": [
+        "book"
+      ],
+      "works": [
+        "tensura"
+      ],
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": true
     },
     {
       "id": "39bf293e490e",
