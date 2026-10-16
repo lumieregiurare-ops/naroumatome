@@ -1,28 +1,28 @@
 {
-  "updatedAt": "2026-10-16T06:00:16.575Z",
+  "updatedAt": "2026-10-16T06:30:19.246Z",
   "site": {
     "title": "なろう系まとめ",
     "tagline": "小説家になろう発の作品のアニメ化・コミカライズ・書籍化のニュースと、なろうのランキングをまとめています。",
     "url": "https://naroumatome.gamelab.website/",
     "contactUrl": "https://docs.google.com/forms/d/e/1FAIpQLSesWyhmZ6sRS_ve-c3X2KqF_wC5PK2TgwgQbTKmnQltSlg5Jw/viewform"
   },
-  "total": 102,
-  "todayCount": 27,
+  "total": 103,
+  "todayCount": 29,
   "categories": [
     {
       "id": "anime",
       "label": "アニメ",
-      "count": 58
+      "count": 60
     },
     {
       "id": "comic",
       "label": "コミカライズ",
-      "count": 3
+      "count": 4
     },
     {
       "id": "book",
       "label": "書籍・ラノベ",
-      "count": 8
+      "count": 9
     },
     {
       "id": "web",
@@ -32,12 +32,12 @@
     {
       "id": "game",
       "label": "ゲーム",
-      "count": 3
+      "count": 4
     },
     {
       "id": "goods",
       "label": "グッズ・イベント",
-      "count": 17
+      "count": 14
     },
     {
       "id": "other",
@@ -62,7 +62,7 @@
       "id": "rezero",
       "title": "Re:ゼロから始める異世界生活",
       "short": "リゼロ",
-      "count": 15
+      "count": 13
     },
     {
       "id": "honzuki",
@@ -164,7 +164,7 @@
       "id": "katainaka",
       "title": "片田舎のおっさん、剣聖になる",
       "short": "片田舎のおっさん",
-      "count": 0
+      "count": 1
     },
     {
       "id": "nozomanu",
@@ -224,7 +224,7 @@
       "id": "tenken",
       "title": "転生したら剣でした",
       "short": "転剣",
-      "count": 4
+      "count": 3
     },
     {
       "id": "rupunana",
@@ -296,7 +296,7 @@
   "sources": [
     {
       "name": "Yahoo!ニュース",
-      "count": 15
+      "count": 17
     },
     {
       "name": "ラノベニュースオンライン",
@@ -315,15 +315,19 @@
       "count": 6
     },
     {
-      "name": "WEBザテレビジョン",
-      "count": 4
-    },
-    {
-      "name": "ニコニコニュース",
+      "name": "ABEMA",
       "count": 3
     },
     {
-      "name": "ライブドアニュース",
+      "name": "WEBザテレビジョン",
+      "count": 3
+    },
+    {
+      "name": "アニメハック",
+      "count": 3
+    },
+    {
+      "name": "Unisba Media",
       "count": 3
     },
     {
@@ -351,10 +355,6 @@
       "count": 2
     },
     {
-      "name": "ABEMA",
-      "count": 2
-    },
-    {
       "name": "電撃オンライン",
       "count": 2
     },
@@ -375,7 +375,7 @@
       "count": 2
     },
     {
-      "name": "アニメハック",
+      "name": "ライブドアニュース",
       "count": 2
     },
     {
@@ -383,11 +383,11 @@
       "count": 2
     },
     {
-      "name": "TVガイドWeb",
+      "name": "ニコニコニュース",
       "count": 2
     },
     {
-      "name": "Unisba Media",
+      "name": "TVガイドWeb",
       "count": 2
     },
     {
@@ -461,10 +461,6 @@
     {
       "name": "千葉テレビ放送株式会社",
       "count": 1
-    },
-    {
-      "name": "Dtimes",
-      "count": 1
     }
   ],
   "topics": [
@@ -476,10 +472,11 @@
       "image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20261016-00000031-mantan-000-1-view.jpg?exp=10800",
       "leadSource": "Yahoo!ニュース",
       "publishedAt": "2026-10-16T03:08:00.000Z",
-      "sourceCount": 9,
-      "articleCount": 12,
+      "sourceCount": 10,
+      "articleCount": 13,
       "categories": [
-        "anime"
+        "anime",
+        "goods"
       ],
       "keywords": [
         "薬屋",
@@ -487,6 +484,13 @@
         "猫猫"
       ],
       "articles": [
+        {
+          "title": "アニメ『薬屋のひとりごと』とのコラボカフェ第3弾の開催が決定！",
+          "url": "https://www.sweets-paradise.jp/collaboration/kusuriyanohitorigoto3",
+          "source": "公式スイーツパラダイス",
+          "publishedAt": "2026-10-16T03:02:43.000Z",
+          "isPR": false
+        },
         {
           "title": "アニメ『薬屋のひとりごと』病気の娘を看てほしいと懇願された猫猫は、渋々ながらも治療へと向かうが…。第51話「麺麭がなければ」あらすじ＆先行カット",
           "url": "https://www.pashplus.jp/anime/499054/",
@@ -535,13 +539,6 @@
           "source": "アニメイトタイムズ",
           "publishedAt": "2026-10-15T09:00:00.000Z",
           "isPR": false
-        },
-        {
-          "title": "＜薬屋のひとりごと＞猫猫は診療に向かった花街のあばら屋で怪しい菓子を見つける…第51話あらすじ＆先行カット公開",
-          "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPMTc2d2RlYVNpcG1DZ2ctVVRJT0xoS1pXZUUxTmtkdHdBTnZuRlVMY0ZwNDk1V185TmxRQlM5dm5sREg5T0s0Z3BpSjhURWFGNnFCWDlhY2RYTUtHMG42LW9jQ0xKOTEzb0pMbmNSdHFKcFEwNlh0blUtMTNxU3lUMkw4VdIBgwFBVV95cUxPMTc2d2RlYVNpcG1DZ2ctVVRJT0xoS1pXZUUxTmtkdHdBTnZuRlVMY0ZwNDk1V185TmxRQlM5dm5sREg5T0s0Z3BpSjhURWFGNnFCWDlhY2RYTUtHMG42LW9jQ0xKOTEzb0pMbmNSdHFKcFEwNlh0blUtMTNxU3lUMkw4VQ?oc=5",
-          "source": "ｄメニューニュース",
-          "publishedAt": "2026-10-15T09:00:00.000Z",
-          "isPR": false
         }
       ]
     },
@@ -573,7 +570,7 @@
           "isPR": false
         },
         {
-          "title": "【画像】シリーズ累計1400万部突破、最新巻が本日発売！TOブックス 2026年10月15日発売『本好きの下剋上 ～ハンネローレの貴族院五年生～ 「恋してみたいお姫様 2」』ほか注目の新刊 10/14 - ライブドアニュース",
+          "title": "【画像】シリーズ累計1400万部突破、最新巻が本日発売！TOブックス 2026年10月15日発売『本好きの下剋上 ～ハンネローレの貴族院五年生～ 「恋してみたいお姫様 2」』ほか注目の新刊 5/14 - ライブドアニュース",
           "url": "https://news.livedoor.com/article/image_detail/32576254/?img_id",
           "source": "ライブドアニュース",
           "publishedAt": "2026-10-15T11:20:06.000Z",
@@ -599,78 +596,6 @@
           "source": "PR TIMES",
           "publishedAt": "2026-10-15T03:00:02.000Z",
           "isPR": true
-        }
-      ]
-    },
-    {
-      "id": "e6e943cad5c9",
-      "title": "『薬屋のひとりごと』×茨城県 10/17からコラボメニューと第2弾グッズが登場、コースター特典も",
-      "summary": "",
-      "url": "https://news.nicovideo.jp/watch/nw19886155?news_ref",
-      "image": "https://www.sweets-paradise.jp/wp-content/uploads/2026/10/2610_薬屋_アイキャッチ画像_w750×h511.jpg",
-      "leadSource": "ニコニコニュース",
-      "publishedAt": "2026-10-16T04:27:32.000Z",
-      "sourceCount": 3,
-      "articleCount": 3,
-      "categories": [
-        "goods",
-        "anime"
-      ],
-      "keywords": [
-        "薬屋",
-        "コラボメニュー",
-        "グッズ"
-      ],
-      "articles": [
-        {
-          "title": "アニメ『薬屋のひとりごと』とのコラボカフェ第3弾の開催が決定！",
-          "url": "https://www.sweets-paradise.jp/collaboration/kusuriyanohitorigoto3",
-          "source": "公式スイーツパラダイス",
-          "publishedAt": "2026-10-16T03:02:43.000Z",
-          "isPR": false
-        },
-        {
-          "title": "茨城県×アニメ『薬屋のひとりごと』、10月17日(土)からコラボメニューと第2弾オリジナルグッズ販売開始",
-          "url": "https://prtimes.jp/main/html/rd/p/000000022.000165784.html",
-          "source": "PR TIMES",
-          "publishedAt": "2026-10-16T01:00:01.000Z",
-          "isPR": true
-        }
-      ]
-    },
-    {
-      "id": "da67fe8a1bb4",
-      "title": "Re：ゼロから始める異世界生活 × ラグーナテンボス～ようこそ、光きらめく水門都市へ。～ 2026年11月7日（土）より開催",
-      "summary": "",
-      "url": "https://news.nicovideo.jp/watch/nw19874199",
-      "image": "https://dtimes.jp/wp-content/uploads/2026/10/dtimes-engine-72f1f9de1deebd2a7096bdff69af02a7-20261013-add85f.jpg",
-      "leadSource": "ニコニコニュース",
-      "publishedAt": "2026-10-13T12:30:27.000Z",
-      "sourceCount": 3,
-      "articleCount": 3,
-      "categories": [
-        "other",
-        "goods"
-      ],
-      "keywords": [
-        "ラグーナテンボス",
-        "異世界生活",
-        "水門都市"
-      ],
-      "articles": [
-        {
-          "title": "描き下ろしイラストのグッズやラリーが登場！ラグーナテンボス ラグナシア『Re:ゼロから始める異世界生活 × ラグーナテンボス ～ようこそ、光きらめく水門都市へ。～』",
-          "url": "https://dtimes.jp/post-1413270/",
-          "source": "Dtimes",
-          "publishedAt": "2026-10-13T06:12:50.000Z",
-          "isPR": false
-        },
-        {
-          "title": "【画像】描き下ろしイラストのグッズやラリーが登場！ラグーナテンボス ラグナシア『Re:ゼロから始める異世界生活 × ラグーナテンボス ～ようこそ、光きらめく水門都市へ。～』 1/13",
-          "url": "https://news.livedoor.com/article/image_detail/32555020/?img_id",
-          "source": "ライブドアニュース",
-          "publishedAt": "2026-10-13T06:09:54.000Z",
-          "isPR": false
         }
       ]
     },
@@ -871,13 +796,32 @@
     }
   ],
   "churn": {
-    "previousAt": "2026-10-16T05:30:18.940Z",
-    "previousCount": 103,
-    "newCount": 3
+    "previousAt": "2026-10-16T06:00:16.575Z",
+    "previousCount": 102,
+    "newCount": 5
   },
   "updateGapMin": 30,
-  "nextUpdateAt": "2026-10-16T06:30:16.575Z",
+  "nextUpdateAt": "2026-10-16T07:00:19.246Z",
   "items": [
+    {
+      "id": "d5fe05ad2e33",
+      "title": "元社畜の3DCGデザイナーが異世界で自由を掴む冒険ファンタジー第1巻（コミックナタリー）",
+      "url": "https://news.yahoo.co.jp/articles/2156be0b9dcac3d4e9fba2b684309d49510cf9ef",
+      "host": "news.yahoo.co.jp",
+      "source": "Yahoo!ニュース",
+      "summary": "",
+      "publishedAt": "2026-10-16T06:15:10.000Z",
+      "image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20261016-00000081-nataliec-000-1-view.jpg?exp=10800",
+      "categories": [
+        "comic",
+        "book"
+      ],
+      "works": [],
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": true
+    },
     {
       "id": "2fd2be19daa6",
       "title": "アニメ『異世界でチート能力を手にした俺は、現実世界をも無双する 2nd Season』は2027年1月放送開始",
@@ -897,24 +841,24 @@
       "isNew": false
     },
     {
-      "id": "e6e943cad5c9",
-      "title": "『薬屋のひとりごと』×茨城県 10/17からコラボメニューと第2弾グッズが登場、コースター特典も",
-      "url": "https://news.nicovideo.jp/watch/nw19886155?news_ref",
-      "host": "news.nicovideo.jp",
-      "source": "ニコニコニュース",
+      "id": "4dc9b4cbbbc7",
+      "title": "TVアニメ「片田舎のおっさん、剣聖になる II」、7月8日より放送開始決定！ (GAME Watch)",
+      "url": "https://news.yahoo.co.jp/articles/c662f333a323d3055ec16ff30343f838168097c8/images/000",
+      "host": "news.yahoo.co.jp",
+      "source": "Yahoo!ニュース",
       "summary": "",
-      "publishedAt": "2026-10-16T04:27:32.000Z",
-      "image": "",
+      "publishedAt": "2026-10-16T04:33:18.000Z",
+      "image": "https://news-pctr.c.yimg.jp/uUzvQ3lML_bkIqyakc1vFhNrRI0RUQxg5aFkrX0xDg1_T0wXrbEJjtNGtrf1o9y3MqkJ5UaD7WaLMXgqHAO4-3lwcPFbyKFOIrqbL8UQBofMUa0HP8eqqg2-NBIipVvHKWjROqFTM78GSqSY_IgLBfrf1mYZI24VVrytRaAFgNkCnlKX3UL9ucJhntyY5aCD",
       "categories": [
-        "goods"
+        "anime"
       ],
       "works": [
-        "kusuriya"
+        "katainaka"
       ],
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": false
+      "isNew": true
     },
     {
       "id": "eecf71fa228d",
@@ -1077,7 +1021,7 @@
       "isPR": true,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "1f2303ef6c23",
@@ -1235,6 +1179,24 @@
       "viaGoogle": false,
       "sourceKind": "news",
       "isNew": false
+    },
+    {
+      "id": "92a35b697ee6",
+      "title": "追放された転生重騎士はゲーム知識で無双する #17【WEB最速】",
+      "url": "https://abema.tv/channels/abema-anime/slots/9FYQxtnbmgzfDR",
+      "host": "abema.tv",
+      "source": "ABEMA",
+      "summary": "",
+      "publishedAt": "2026-10-16T00:04:40.000Z",
+      "image": "",
+      "categories": [
+        "game"
+      ],
+      "works": [],
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": true
     },
     {
       "id": "9d6881661536",
@@ -1415,7 +1377,7 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "57b52f480691",
@@ -1551,7 +1513,7 @@
     },
     {
       "id": "e00724faac9e",
-      "title": "【画像】シリーズ累計1400万部突破、最新巻が本日発売！TOブックス 2026年10月15日発売『本好きの下剋上 ～ハンネローレの貴族院五年生～ 「恋してみたいお姫様 2」』ほか注目の新刊 10/14 - ライブドアニュース",
+      "title": "【画像】シリーズ累計1400万部突破、最新巻が本日発売！TOブックス 2026年10月15日発売『本好きの下剋上 ～ハンネローレの貴族院五年生～ 「恋してみたいお姫様 2」』ほか注目の新刊 5/14 - ライブドアニュース",
       "url": "https://news.livedoor.com/article/image_detail/32576254/?img_id",
       "host": "news.livedoor.com",
       "source": "ライブドアニュース",
@@ -1692,7 +1654,7 @@
     {
       "id": "1dc67fcc9cbc",
       "title": "ヤンデレ恋愛ゲームの悪役令嬢に転生、ヒロインを幸せにしたいのに自分が迫られる物語",
-      "url": "https://news.nicovideo.jp/watch/nw19882471",
+      "url": "https://news.nicovideo.jp/watch/nw19882471?news_ref",
       "host": "news.nicovideo.jp",
       "source": "ニコニコニュース",
       "summary": "",
@@ -1884,6 +1846,24 @@
       "viaGoogle": false,
       "sourceKind": "news",
       "isNew": false
+    },
+    {
+      "id": "ef8d730d479e",
+      "title": "転生後、恋愛システムが覚醒し、俺はこの学校の女子全員を攻略できるようになった！[異世界最新作]#海外アニメ #異世界アニメ#アニメフル全話 Playstation Store (Ow9C41ZNZx)",
+      "url": "https://media.unisba.ac.id/7bb530e1/c55fa865Daa9wny44aw",
+      "host": "media.unisba.ac.id",
+      "source": "Unisba Media",
+      "summary": "",
+      "publishedAt": "2026-10-15T08:31:53.000Z",
+      "image": "",
+      "categories": [
+        "anime"
+      ],
+      "works": [],
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": true
     },
     {
       "id": "7499b9f57181",
@@ -2327,7 +2307,7 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "646797b5863e",
@@ -2581,6 +2561,26 @@
       "isNew": false
     },
     {
+      "id": "c8c6bcde0720",
+      "title": "「劇場版 薬屋のひとりごと 亡妃の秘宝」猫猫＆壬氏たちに襲い掛かる水賊「化蛇団」キャラPV公開 小野賢章が頭領・水蛇役",
+      "url": "https://anime.eiga.com/news/127648/",
+      "host": "anime.eiga.com",
+      "source": "アニメハック",
+      "summary": "",
+      "publishedAt": "2026-10-14T03:00:00.000Z",
+      "image": "https://media.eiga.com/images/anime/news/127648/photo/023690547569bd24/640.jpg",
+      "categories": [
+        "anime"
+      ],
+      "works": [
+        "kusuriya"
+      ],
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": true
+    },
+    {
       "id": "17974182e76e",
       "title": "【リゼロ】レムがジャージメイド姿でフィギュア化！《GLITTER&GLAMOURS》に新登場",
       "url": "https://dengekionline.com/article/202610/90344",
@@ -2812,66 +2812,6 @@
       ],
       "works": [
         "mushoku"
-      ],
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": false
-    },
-    {
-      "id": "f03dc571e580",
-      "title": "描き下ろしイラストのグッズやラリーが登場！ラグーナテンボス ラグナシア『Re:ゼロから始める異世界生活 × ラグーナテンボス ～ようこそ、光きらめく水門都市へ。～』",
-      "url": "https://dtimes.jp/post-1413270/",
-      "host": "dtimes.jp",
-      "source": "Dtimes",
-      "summary": "",
-      "publishedAt": "2026-10-13T06:12:50.000Z",
-      "image": "https://dtimes.jp/wp-content/uploads/2026/10/dtimes-engine-72f1f9de1deebd2a7096bdff69af02a7-20261013-add85f.jpg",
-      "categories": [
-        "goods"
-      ],
-      "works": [
-        "rezero"
-      ],
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": false
-    },
-    {
-      "id": "c2c30babe390",
-      "title": "転生したら剣でしたII(アニメ)の関連ニュース一覧",
-      "url": "https://thetv.jp/program/0001064066/news/",
-      "host": "thetv.jp",
-      "source": "WEBザテレビジョン",
-      "summary": "",
-      "publishedAt": "2026-10-13T06:11:43.000Z",
-      "image": "",
-      "categories": [
-        "anime"
-      ],
-      "works": [
-        "tenken"
-      ],
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": false
-    },
-    {
-      "id": "d9a9ca3f25ef",
-      "title": "【画像】描き下ろしイラストのグッズやラリーが登場！ラグーナテンボス ラグナシア『Re:ゼロから始める異世界生活 × ラグーナテンボス ～ようこそ、光きらめく水門都市へ。～』 1/13",
-      "url": "https://news.livedoor.com/article/image_detail/32555020/?img_id",
-      "host": "news.livedoor.com",
-      "source": "ライブドアニュース",
-      "summary": "",
-      "publishedAt": "2026-10-13T06:09:54.000Z",
-      "image": "https://image.news.livedoor.com/newsimage/stf/9/1/91f03_1604_bb2a4b3a_5fdcb651.jpg",
-      "categories": [
-        "goods"
-      ],
-      "works": [
-        "rezero"
       ],
       "isPR": false,
       "viaGoogle": false,
