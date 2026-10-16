@@ -1,18 +1,18 @@
 {
-  "updatedAt": "2026-10-16T00:30:18.046Z",
+  "updatedAt": "2026-10-16T01:00:18.263Z",
   "site": {
     "title": "なろう系まとめ",
     "tagline": "小説家になろう発の作品のアニメ化・コミカライズ・書籍化のニュースと、なろうのランキングをまとめています。",
     "url": "https://naroumatome.gamelab.website/",
     "contactUrl": "https://docs.google.com/forms/d/e/1FAIpQLSesWyhmZ6sRS_ve-c3X2KqF_wC5PK2TgwgQbTKmnQltSlg5Jw/viewform"
   },
-  "total": 97,
-  "todayCount": 11,
+  "total": 98,
+  "todayCount": 12,
   "categories": [
     {
       "id": "anime",
       "label": "アニメ",
-      "count": 53
+      "count": 54
     },
     {
       "id": "comic",
@@ -22,7 +22,7 @@
     {
       "id": "book",
       "label": "書籍・ラノベ",
-      "count": 7
+      "count": 8
     },
     {
       "id": "web",
@@ -32,7 +32,7 @@
     {
       "id": "game",
       "label": "ゲーム",
-      "count": 4
+      "count": 3
     },
     {
       "id": "goods",
@@ -68,7 +68,7 @@
       "id": "honzuki",
       "title": "本好きの下剋上",
       "short": "本好き",
-      "count": 6
+      "count": 7
     },
     {
       "id": "kusuriya",
@@ -299,11 +299,11 @@
       "count": 15
     },
     {
-      "name": "アニメ！アニメ！",
-      "count": 6
+      "name": "山陽新聞",
+      "count": 7
     },
     {
-      "name": "山陽新聞",
+      "name": "アニメ！アニメ！",
       "count": 6
     },
     {
@@ -316,6 +316,10 @@
     },
     {
       "name": "電撃オンライン",
+      "count": 3
+    },
+    {
+      "name": "ライブドアニュース",
       "count": 3
     },
     {
@@ -364,10 +368,6 @@
     },
     {
       "name": "ナタリー",
-      "count": 2
-    },
-    {
-      "name": "ライブドアニュース",
       "count": 2
     },
     {
@@ -428,10 +428,6 @@
     },
     {
       "name": "Excite エキサイト",
-      "count": 1
-    },
-    {
-      "name": "キャラグー",
       "count": 1
     },
     {
@@ -538,7 +534,7 @@
       "leadSource": "Koubo",
       "publishedAt": "2026-10-15T18:04:34.000Z",
       "sourceCount": 5,
-      "articleCount": 5,
+      "articleCount": 6,
       "categories": [
         "other",
         "book"
@@ -552,6 +548,13 @@
         {
           "title": "シリーズ累計1400万部突破、最新巻が本日発売！TOブックス 2026年10月15日発売『本好きの下剋上 ～ハンネローレの貴族院五年生～ 「恋してみたいお姫様 2」』ほか注目の新刊",
           "url": "https://news.livedoor.com/article/detail/32576254/",
+          "source": "ライブドアニュース",
+          "publishedAt": "2026-10-15T11:20:06.000Z",
+          "isPR": false
+        },
+        {
+          "title": "【画像】シリーズ累計1400万部突破、最新巻が本日発売！TOブックス 2026年10月15日発売『本好きの下剋上 ～ハンネローレの貴族院五年生～ 「恋してみたいお姫様 2」』ほか注目の新刊 4/14 - ライブドアニュース",
+          "url": "https://news.livedoor.com/article/image_detail/32576254/?img_id",
           "source": "ライブドアニュース",
           "publishedAt": "2026-10-15T11:20:06.000Z",
           "isPR": false
@@ -856,12 +859,12 @@
     }
   ],
   "churn": {
-    "previousAt": "2026-10-15T23:55:50.001Z",
-    "previousCount": 95,
-    "newCount": 3
+    "previousAt": "2026-10-16T00:30:18.046Z",
+    "previousCount": 97,
+    "newCount": 2
   },
   "updateGapMin": 30,
-  "nextUpdateAt": "2026-10-16T01:00:18.046Z",
+  "nextUpdateAt": "2026-10-16T01:30:18.263Z",
   "items": [
     {
       "id": "9d6881661536",
@@ -871,7 +874,7 @@
       "source": "Yahoo!ニュース",
       "summary": "",
       "publishedAt": "2026-10-15T23:42:33.000Z",
-      "image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20261016-00380832-magmix-000-1-view.jpg?exp=10800",
+      "image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20261016-00380832-magmix-000-2-view.jpg?exp=10800",
       "categories": [
         "anime",
         "web"
@@ -1066,6 +1069,27 @@
       "isNew": false
     },
     {
+      "id": "c196d13ab42d",
+      "title": "TVアニメ「Re:ゼロから始める異世界生活」4th season×鳥取県コラボキャンペーンスタートを記念したプレス発表会を開催",
+      "url": "https://www.sanyonews.jp/article/1908523?rct",
+      "host": "sanyonews.jp",
+      "source": "山陽新聞",
+      "summary": "",
+      "publishedAt": "2026-10-15T16:49:24.000Z",
+      "image": "https://static.sanyonews.jp/image/article/size1https://prtimes.jp/img/78201/186/resize/d78201-186-a1196a1c68827121bd76-5.jpg",
+      "categories": [
+        "anime",
+        "goods"
+      ],
+      "works": [
+        "rezero"
+      ],
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": true
+    },
+    {
       "id": "048856b88e3c",
       "title": "異世界・ファンタジーアニメ4チャンネル | 無料で放送中の番組や配信中の話題作が見放題",
       "url": "https://abema.tv/now-on-air/isekai-anime-4",
@@ -1161,7 +1185,7 @@
     },
     {
       "id": "a109d304b478",
-      "title": "異世界転生したのに才能なし、それでも今世は諦めない 人生やり直しファンタジー1巻（試し読みあり）",
+      "title": "異世界転生したのに才能なし、それでも今世は諦めない 人生やり直しファンタジー1巻",
       "url": "https://natalie.mu/comic/news/693912",
       "host": "natalie.mu",
       "source": "ナタリー",
@@ -1214,6 +1238,26 @@
       "viaGoogle": false,
       "sourceKind": "news",
       "isNew": false
+    },
+    {
+      "id": "e00724faac9e",
+      "title": "【画像】シリーズ累計1400万部突破、最新巻が本日発売！TOブックス 2026年10月15日発売『本好きの下剋上 ～ハンネローレの貴族院五年生～ 「恋してみたいお姫様 2」』ほか注目の新刊 4/14 - ライブドアニュース",
+      "url": "https://news.livedoor.com/article/image_detail/32576254/?img_id",
+      "host": "news.livedoor.com",
+      "source": "ライブドアニュース",
+      "summary": "",
+      "publishedAt": "2026-10-15T11:20:06.000Z",
+      "image": "https://image.news.livedoor.com/newsimage/stf/2/b/2b391_1604_d567ca08_a9ff2a79.jpg",
+      "categories": [
+        "book"
+      ],
+      "works": [
+        "honzuki"
+      ],
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": true
     },
     {
       "id": "ef7e22e88247",
@@ -1459,7 +1503,7 @@
       "source": "リアルサウンド",
       "summary": "",
       "publishedAt": "2026-10-15T09:00:12.000Z",
-      "image": "https://realsound.jp/wp-content/uploads/2026/10/20261015-kusuriya-01.jpg",
+      "image": "",
       "categories": [
         "anime"
       ],
@@ -2284,7 +2328,7 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "afeb88a2b1f6",
@@ -2346,27 +2390,6 @@
       "isNew": false
     },
     {
-      "id": "ec7e7190d7c3",
-      "title": "Re:ゼロのグッズ一覧【2026年10月】｜ガチャガチャ・プライズ・キャラクターくじ・コラボ・イベント 全195件",
-      "url": "https://charagoo.jp/ip/rezero/",
-      "host": "charagoo.jp",
-      "source": "キャラグー",
-      "summary": "",
-      "publishedAt": "2026-10-13T23:15:23.000Z",
-      "image": "",
-      "categories": [
-        "goods",
-        "game"
-      ],
-      "works": [
-        "rezero"
-      ],
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": true
-    },
-    {
       "id": "7662d9d8d36b",
       "title": "見上愛：朝ドラ後初出演 劇場版「薬屋のひとりごと」で声優に 沢城みゆきも出演",
       "url": "https://mantan-web.jp/article/20261013dog00m200054000a.html",
@@ -2404,7 +2427,7 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "61711d5b55d2",
