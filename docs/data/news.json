@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-16T17:57:08.671Z",
+  "updatedAt": "2026-10-16T18:30:19.218Z",
   "site": {
     "title": "なろう系まとめ",
     "tagline": "小説家になろう発の作品のアニメ化・コミカライズ・書籍化のニュースと、なろうのランキングをまとめています。",
@@ -22,7 +22,7 @@
     {
       "id": "book",
       "label": "書籍・ラノベ",
-      "count": 10
+      "count": 11
     },
     {
       "id": "web",
@@ -32,17 +32,17 @@
     {
       "id": "game",
       "label": "ゲーム",
-      "count": 3
+      "count": 2
     },
     {
       "id": "goods",
       "label": "グッズ・イベント",
-      "count": 20
+      "count": 21
     },
     {
       "id": "other",
       "label": "そのほか",
-      "count": 23
+      "count": 22
     }
   ],
   "works": [
@@ -62,7 +62,7 @@
       "id": "rezero",
       "title": "Re:ゼロから始める異世界生活",
       "short": "リゼロ",
-      "count": 15
+      "count": 16
     },
     {
       "id": "honzuki",
@@ -164,7 +164,7 @@
       "id": "katainaka",
       "title": "片田舎のおっさん、剣聖になる",
       "short": "片田舎のおっさん",
-      "count": 1
+      "count": 0
     },
     {
       "id": "nozomanu",
@@ -304,7 +304,7 @@
     },
     {
       "name": "PR TIMES",
-      "count": 8
+      "count": 7
     },
     {
       "name": "ラノベニュースオンライン",
@@ -319,15 +319,7 @@
       "count": 5
     },
     {
-      "name": "山陽新聞",
-      "count": 5
-    },
-    {
-      "name": "Unisba Media",
-      "count": 4
-    },
-    {
-      "name": "ライブドアニュース",
+      "name": "ナタリー",
       "count": 4
     },
     {
@@ -335,11 +327,23 @@
       "count": 4
     },
     {
-      "name": "ナタリー",
-      "count": 3
+      "name": "山陽新聞",
+      "count": 4
     },
     {
       "name": "Howl.link",
+      "count": 3
+    },
+    {
+      "name": "Infoseek",
+      "count": 3
+    },
+    {
+      "name": "ライブドアニュース",
+      "count": 3
+    },
+    {
+      "name": "Unisba Media",
       "count": 3
     },
     {
@@ -348,10 +352,6 @@
     },
     {
       "name": "はてなブログ",
-      "count": 2
-    },
-    {
-      "name": "Infoseek",
       "count": 2
     },
     {
@@ -387,6 +387,10 @@
       "count": 1
     },
     {
+      "name": "ダ・ヴィンチWeb",
+      "count": 1
+    },
+    {
       "name": "PASH! PLUS",
       "count": 1
     },
@@ -411,7 +415,7 @@
       "count": 1
     },
     {
-      "name": "ニコニコニュース",
+      "name": "Billboard JAPAN",
       "count": 1
     },
     {
@@ -424,6 +428,10 @@
     },
     {
       "name": "TVer",
+      "count": 1
+    },
+    {
+      "name": "Dellows News",
       "count": 1
     },
     {
@@ -764,13 +772,33 @@
     }
   ],
   "churn": {
-    "previousAt": "2026-10-16T17:30:19.373Z",
-    "previousCount": 107,
+    "previousAt": "2026-10-16T17:57:08.671Z",
+    "previousCount": 105,
     "newCount": 3
   },
   "updateGapMin": 30,
-  "nextUpdateAt": "2026-10-16T18:27:08.671Z",
+  "nextUpdateAt": "2026-10-16T19:00:19.218Z",
   "items": [
+    {
+      "id": "eecf71fa228d",
+      "title": "【まおりゅう】ガチャはどれを引くべき？【転スラ】",
+      "url": "https://appmedia.jp/ten-sura-m/27053896",
+      "host": "appmedia.jp",
+      "source": "AppMedia",
+      "summary": "",
+      "publishedAt": "2026-10-16T16:33:25.000Z",
+      "image": "https://appmedia.jp/wp-content/uploads/2023/03/145410_zm20o.webp",
+      "categories": [
+        "game"
+      ],
+      "works": [
+        "tensura"
+      ],
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": false
+    },
     {
       "id": "649b704173f6",
       "title": "【#コンパス】 『陰の実力者になりたくて！』コラボカード＆コスチューム一挙紹介！豊富な【周】カードや新効果の【癒】カードが目玉!!",
@@ -807,26 +835,6 @@
         "tensura"
       ],
       "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": false
-    },
-    {
-      "id": "8bd66553b8c8",
-      "title": "【舞台『転生したらスライムだった件』第3弾-魔王覚醒編＆八星輝翔編-上演記念】「転ステ」第1弾＆第2弾公演を無料プレミア公開決定！",
-      "url": "https://prtimes.jp/main/html/rd/p/000000827.000051825.html",
-      "host": "prtimes.jp",
-      "source": "PR TIMES",
-      "summary": "[株式会社HIKE] 株式会社HIKEが企画・制作する舞台『転生したらスライムだった件』3-魔王覚醒編＆八星輝翔編-の上演を記念し、「転ステ」シリーズの第1弾公演『転生したらスライムだった件』（2023年）、第2弾公演『転生したらス...",
-      "publishedAt": "2026-10-16T15:10:03.000Z",
-      "image": "https://prcdn.freetls.fastly.net/release_image/51825/827/51825-827-48268817539962101b2060416841e06f-1909x2700.jpg?format=jpeg&auto=webp&fit=bounds&width=2400&height=1260",
-      "categories": [
-        "goods"
-      ],
-      "works": [
-        "tensura"
-      ],
-      "isPR": true,
       "viaGoogle": false,
       "sourceKind": "news",
       "isNew": false
@@ -887,7 +895,7 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "00254e681c16",
@@ -926,26 +934,6 @@
       "isNew": false
     },
     {
-      "id": "eecf71fa228d",
-      "title": "【まおりゅう】ガチャはどれを引くべき？【転スラ】",
-      "url": "https://appmedia.jp/ten-sura-m/27053896",
-      "host": "appmedia.jp",
-      "source": "AppMedia",
-      "summary": "",
-      "publishedAt": "2026-10-16T13:30:37.000Z",
-      "image": "https://appmedia.jp/wp-content/uploads/2023/03/145410_zm20o.webp",
-      "categories": [
-        "game"
-      ],
-      "works": [
-        "tensura"
-      ],
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": false
-    },
-    {
       "id": "a7d9624edb89",
       "title": "【まおりゅう】最強加護キャラランキング｜最新Tier表【転スラ】",
       "url": "https://appmedia.jp/ten-sura-m/27054862",
@@ -964,26 +952,6 @@
       "viaGoogle": false,
       "sourceKind": "news",
       "isNew": false
-    },
-    {
-      "id": "0bbcf011d0fe",
-      "title": "WEBラジオ「片田舎のおっさん、進行役(パーソナリティ)になる第3回 ショートver.①| ゲスト：上田瞳 Padres Vs Brewers (TOAk75paqA)",
-      "url": "https://media.unisba.ac.id/4d64c448/2b8c0577yU5WMKcjgCQ",
-      "host": "media.unisba.ac.id",
-      "source": "Unisba Media",
-      "summary": "",
-      "publishedAt": "2026-10-16T12:41:04.000Z",
-      "image": "",
-      "categories": [
-        "other"
-      ],
-      "works": [
-        "katainaka"
-      ],
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": true
     },
     {
       "id": "2de64583c2ab",
@@ -1044,6 +1012,24 @@
       "viaGoogle": false,
       "sourceKind": "news",
       "isNew": false
+    },
+    {
+      "id": "09de9dfd8657",
+      "title": "「天才詐欺師の異世界世直し」1巻 [画像ギャラリー 1/9]",
+      "url": "https://natalie.mu/comic/gallery/news/691495/2979265",
+      "host": "natalie.mu",
+      "source": "ナタリー",
+      "summary": "",
+      "publishedAt": "2026-10-16T11:56:26.000Z",
+      "image": "",
+      "categories": [
+        "book"
+      ],
+      "works": [],
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": true
     },
     {
       "id": "22ffa863926e",
@@ -1127,12 +1113,12 @@
     {
       "id": "63595e7c74e5",
       "title": "助けてくれた青年の目的は「私を消すこと」!? 言葉の通じない異世界で生き抜く少女の成長劇。星雲賞受賞の90年代SF少女マンガの傑作【書評】",
-      "url": "https://news.livedoor.com/article/detail/32584919/",
-      "host": "news.livedoor.com",
-      "source": "ライブドアニュース",
+      "url": "https://ddnavi.com/article/1441283/a/",
+      "host": "ddnavi.com",
+      "source": "ダ・ヴィンチWeb",
       "summary": "",
-      "publishedAt": "2026-10-16T10:03:37.000Z",
-      "image": "https://image.news.livedoor.com/newsimage/stf/7/4/747ea_1235_0f2cded8c9b190738c42a56565dedb3a.jpg",
+      "publishedAt": "2026-10-16T10:00:00.000Z",
+      "image": "",
       "categories": [
         "comic",
         "web"
@@ -1704,6 +1690,26 @@
       "isNew": false
     },
     {
+      "id": "8bd66553b8c8",
+      "title": "【舞台『転生したらスライムだった件』第3弾-魔王覚醒編＆八星輝翔編-上演記念】「転ステ」第1弾＆第2弾公演を無料プレミア公開決定！｜Infoseekニュース",
+      "url": "https://news.infoseek.co.jp/article/prtimes_000000827_000051825/",
+      "host": "news.infoseek.co.jp",
+      "source": "Infoseek",
+      "summary": "",
+      "publishedAt": "2026-10-16T03:00:00.000Z",
+      "image": "https://media.image.infoseek.co.jp/isnews/pc/img/noimage_203x120_busi-econ-1.0.png",
+      "categories": [
+        "goods"
+      ],
+      "works": [
+        "tensura"
+      ],
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": false
+    },
+    {
       "id": "bdcae550959c",
       "title": "「どうしてこうなった」絶望と歓喜が交錯!? 「過酷な運命に抗う姿」が熱かった2026夏の異世界アニメ",
       "url": "https://magmix.jp/post/380809",
@@ -2116,24 +2122,6 @@
       "isNew": false
     },
     {
-      "id": "1dc67fcc9cbc",
-      "title": "ヤンデレ恋愛ゲームの悪役令嬢に転生、ヒロインを幸せにしたいのに自分が迫られる物語",
-      "url": "https://news.nicovideo.jp/watch/nw19882471",
-      "host": "news.nicovideo.jp",
-      "source": "ニコニコニュース",
-      "summary": "",
-      "publishedAt": "2026-10-15T09:18:10.000Z",
-      "image": "",
-      "categories": [
-        "game"
-      ],
-      "works": [],
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": false
-    },
-    {
       "id": "d2dbd0b0d7cf",
       "title": "異世界でチート能力を手にした俺は、現実世界をも無双する＞テレビアニメ第2期 2027年1月スタート 新キャラの声優に長谷川育美、雨宮天（MANTANWEB）",
       "url": "https://news.yahoo.co.jp/articles/c098706a336c7f947b94f5268d31bbc48ba4c6ba",
@@ -2150,6 +2138,26 @@
       "viaGoogle": false,
       "sourceKind": "news",
       "isNew": false
+    },
+    {
+      "id": "071489526ef5",
+      "title": "【ビルボード】『転生したらスライムだった件 33巻』総合書籍チャート初登場首位",
+      "url": "https://www.billboard-japan.com/d_news%20/detail/166499/2",
+      "host": "billboard-japan.com",
+      "source": "Billboard JAPAN",
+      "summary": "",
+      "publishedAt": "2026-10-15T09:00:00.000Z",
+      "image": "https://www.billboard-japan.com/scale/news/00000166/166499/200x_image.jpg",
+      "categories": [
+        "book"
+      ],
+      "works": [
+        "tensura"
+      ],
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": true
     },
     {
       "id": "ef8d730d479e",
@@ -2535,6 +2543,26 @@
       "isNew": false
     },
     {
+      "id": "90830af949f6",
+      "title": "愛知のラグナシアでリゼロコラボイベントが2026年11月7日より開催へ",
+      "url": "https://news.dellows.jp/706515/",
+      "host": "news.dellows.jp",
+      "source": "Dellows News",
+      "summary": "",
+      "publishedAt": "2026-10-14T07:52:30.000Z",
+      "image": "https://news.dellows.jp/wp-content/uploads/2026/10/706515_1.jpg",
+      "categories": [
+        "goods"
+      ],
+      "works": [
+        "rezero"
+      ],
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": true
+    },
+    {
       "id": "884c952871d5",
       "title": "秋アニメ『魔法騎士レイアース』第1話に“平成アニメ初見勢”から驚きの声「作画好きすぎる」「異世界ものだったんだ」",
       "url": "https://futaman.futabanet.jp/articles/-/132561",
@@ -2591,26 +2619,6 @@
       "viaGoogle": false,
       "sourceKind": "news",
       "isNew": false
-    },
-    {
-      "id": "12b3e646fc57",
-      "title": "『転スラ』原作小説完結！リムルの描き下ろしイラスト公開 首都圏でお祝い広告が展開【掲出場所一覧】",
-      "url": "https://www.sanyonews.jp/photo/detail?article_id",
-      "host": "sanyonews.jp",
-      "source": "山陽新聞",
-      "summary": "",
-      "publishedAt": "2026-10-14T07:00:00.000Z",
-      "image": "",
-      "categories": [
-        "book"
-      ],
-      "works": [
-        "tensura"
-      ],
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": true
     },
     {
       "id": "39bf293e490e",
