@@ -1,12 +1,12 @@
 {
-  "updatedAt": "2026-10-16T19:30:21.092Z",
+  "updatedAt": "2026-10-16T20:00:17.804Z",
   "site": {
     "title": "なろう系まとめ",
     "tagline": "小説家になろう発の作品のアニメ化・コミカライズ・書籍化のニュースと、なろうのランキングをまとめています。",
     "url": "https://naroumatome.gamelab.website/",
     "contactUrl": "https://docs.google.com/forms/d/e/1FAIpQLSesWyhmZ6sRS_ve-c3X2KqF_wC5PK2TgwgQbTKmnQltSlg5Jw/viewform"
   },
-  "total": 105,
+  "total": 104,
   "todayCount": 8,
   "categories": [
     {
@@ -22,7 +22,7 @@
     {
       "id": "book",
       "label": "書籍・ラノベ",
-      "count": 10
+      "count": 8
     },
     {
       "id": "web",
@@ -37,12 +37,12 @@
     {
       "id": "goods",
       "label": "グッズ・イベント",
-      "count": 22
+      "count": 21
     },
     {
       "id": "other",
       "label": "そのほか",
-      "count": 23
+      "count": 24
     }
   ],
   "works": [
@@ -50,7 +50,7 @@
       "id": "tensura",
       "title": "転生したらスライムだった件",
       "short": "転スラ",
-      "count": 15
+      "count": 14
     },
     {
       "id": "mushoku",
@@ -296,7 +296,7 @@
   "sources": [
     {
       "name": "Yahoo!ニュース",
-      "count": 12
+      "count": 13
     },
     {
       "name": "アニメ！アニメ！",
@@ -304,7 +304,7 @@
     },
     {
       "name": "PR TIMES",
-      "count": 8
+      "count": 7
     },
     {
       "name": "ラノベニュースオンライン",
@@ -319,10 +319,6 @@
       "count": 5
     },
     {
-      "name": "ナタリー",
-      "count": 4
-    },
-    {
       "name": "ライブドアニュース",
       "count": 4
     },
@@ -331,8 +327,16 @@
       "count": 4
     },
     {
+      "name": "Unisba Media",
+      "count": 4
+    },
+    {
       "name": "山陽新聞",
       "count": 4
+    },
+    {
+      "name": "ナタリー",
+      "count": 3
     },
     {
       "name": "Howl.link",
@@ -340,10 +344,6 @@
     },
     {
       "name": "Infoseek",
-      "count": 3
-    },
-    {
-      "name": "Unisba Media",
       "count": 3
     },
     {
@@ -404,10 +404,6 @@
     },
     {
       "name": "アニメハック",
-      "count": 1
-    },
-    {
-      "name": "Billboard JAPAN",
       "count": 1
     },
     {
@@ -673,35 +669,6 @@
       ]
     },
     {
-      "id": "4cba470c8bfd",
-      "title": "「薬屋のひとりごと×茨城県」壬氏様のハーブティーがまさに麗し…！ 10月17日よりコラボメニュー＆グッズ第2弾発売",
-      "summary": "アニメ『薬屋のひとりごと』とのコラボレーションによる、「IBARAKI is Blossoming（いま、いばらきが咲いている）」のコンセプトを掲げた観光プロモーションが茨城県で展開中だ。このたび、2026年10月17日からのコラボスタンプラリー第2弾「IBARAKI is Blossoming 続 薬屋の巡遊録」の…",
-      "url": "https://animeanime.jp/article/2026/10/16/103885.html",
-      "image": "https://animeanime.jp/imgs/rss/944058.jpg",
-      "leadSource": "アニメ！アニメ！",
-      "publishedAt": "2026-10-16T08:00:04.000Z",
-      "sourceCount": 2,
-      "articleCount": 2,
-      "categories": [
-        "goods",
-        "anime"
-      ],
-      "keywords": [
-        "薬屋",
-        "コラボメニュー",
-        "グッズ"
-      ],
-      "articles": [
-        {
-          "title": "茨城県×アニメ『薬屋のひとりごと』、10月17日(土)からコラボメニューと第2弾オリジナルグッズ販売開始",
-          "url": "https://prtimes.jp/main/html/rd/p/000000022.000165784.html",
-          "source": "PR TIMES",
-          "publishedAt": "2026-10-16T01:00:01.000Z",
-          "isPR": true
-        }
-      ]
-    },
-    {
       "id": "2fd2be19daa6",
       "title": "アニメ『異世界でチート能力を手にした俺は、現実世界をも無双する 2nd Season』は2027年1月放送開始",
       "summary": "",
@@ -786,12 +753,12 @@
     }
   ],
   "churn": {
-    "previousAt": "2026-10-16T19:00:20.663Z",
+    "previousAt": "2026-10-16T19:30:21.092Z",
     "previousCount": 105,
-    "newCount": 3
+    "newCount": 2
   },
   "updateGapMin": 30,
-  "nextUpdateAt": "2026-10-16T20:00:21.092Z",
+  "nextUpdateAt": "2026-10-16T20:30:17.804Z",
   "items": [
     {
       "id": "eecf71fa228d",
@@ -1022,24 +989,6 @@
       "works": [
         "kusuriya"
       ],
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": false
-    },
-    {
-      "id": "09de9dfd8657",
-      "title": "「天才詐欺師の異世界世直し」1巻 [画像ギャラリー 1/9]",
-      "url": "https://natalie.mu/comic/gallery/news/691495/2979265",
-      "host": "natalie.mu",
-      "source": "ナタリー",
-      "summary": "",
-      "publishedAt": "2026-10-16T11:56:26.000Z",
-      "image": "",
-      "categories": [
-        "book"
-      ],
-      "works": [],
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
@@ -1602,6 +1551,24 @@
       "isNew": false
     },
     {
+      "id": "52e4d14e7ac4",
+      "title": "【異世界アニメ】【第2期】異世界ヒーラーに転生したのに属性がもらえないなんて! Hannah Walters (YyjFyqLFGj)",
+      "url": "https://media.unisba.ac.id/995f2f19/2881be8aq-gOJYNtQ80/?share",
+      "host": "media.unisba.ac.id",
+      "source": "Unisba Media",
+      "summary": "",
+      "publishedAt": "2026-10-16T03:12:51.000Z",
+      "image": "",
+      "categories": [
+        "anime"
+      ],
+      "works": [],
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": true
+    },
+    {
       "id": "1391212702ac",
       "title": "薬屋のひとりごと＞第51話「麺麭がなければ」 猫猫の違和感 施しにはぜいたくすぎる焼き菓子（MANTANWEB）",
       "url": "https://news.yahoo.co.jp/articles/91ce8fef40eeeb8319c5b5c53ac7efb0e7a275a2",
@@ -1799,27 +1766,6 @@
       "viaGoogle": false,
       "sourceKind": "news",
       "isNew": false
-    },
-    {
-      "id": "0ded9a647e91",
-      "title": "茨城県×アニメ『薬屋のひとりごと』、10月17日(土)からコラボメニューと第2弾オリジナルグッズ販売開始",
-      "url": "https://prtimes.jp/main/html/rd/p/000000022.000165784.html",
-      "host": "prtimes.jp",
-      "source": "PR TIMES",
-      "summary": "",
-      "publishedAt": "2026-10-16T01:00:01.000Z",
-      "image": "https://prcdn.freetls.fastly.net/release_image/165784/22/165784-22-c5d69f97ab02f60953972c07ac5cc41d-1200x700.png?format=jpeg&auto=webp&fit=bounds&width=2400&height=1260",
-      "categories": [
-        "goods",
-        "anime"
-      ],
-      "works": [
-        "kusuriya"
-      ],
-      "isPR": true,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": true
     },
     {
       "id": "4e7fb65383d2",
@@ -2157,26 +2103,6 @@
       "isNew": false
     },
     {
-      "id": "071489526ef5",
-      "title": "【ビルボード】『転生したらスライムだった件 33巻』総合書籍チャート初登場首位",
-      "url": "https://www.billboard-japan.com/d_news%20/detail/166499/2",
-      "host": "billboard-japan.com",
-      "source": "Billboard JAPAN",
-      "summary": "",
-      "publishedAt": "2026-10-15T09:00:00.000Z",
-      "image": "https://www.billboard-japan.com/scale/news/00000166/166499/200x_image.jpg",
-      "categories": [
-        "book"
-      ],
-      "works": [
-        "tensura"
-      ],
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": true
-    },
-    {
       "id": "ef8d730d479e",
       "title": "転生後、恋愛システムが覚醒し、俺はこの学校の女子全員を攻略できるようになった！[異世界最新作]#海外アニメ #異世界アニメ#アニメフル全話 Playstation Store (Ow9C41ZNZx)",
       "url": "https://media.unisba.ac.id/7bb530e1/c55fa865Daa9wny44aw",
@@ -2259,7 +2185,7 @@
       "host": "tvguide.or.jp",
       "source": "TVガイドWeb",
       "summary": "",
-      "publishedAt": "2026-10-15T04:30:00.000Z",
+      "publishedAt": "2026-10-15T04:50:42.000Z",
       "image": "https://www.tvguide.or.jp/wp/wp-content/uploads/2026/04/news_260417_13_01.jpg",
       "categories": [
         "anime"
@@ -2405,6 +2331,26 @@
       "viaGoogle": false,
       "sourceKind": "news",
       "isNew": false
+    },
+    {
+      "id": "629325415579",
+      "title": "実写ではどう再現!? 『薬屋のひとりごと』ただのヒロインじゃない猫猫の「絶対的魅力」とは（ふたまん＋）",
+      "url": "https://news.yahoo.co.jp/articles/01f7f768999379d41c9d342f8199b05539cca2ce",
+      "host": "news.yahoo.co.jp",
+      "source": "Yahoo!ニュース",
+      "summary": "",
+      "publishedAt": "2026-10-14T22:15:30.000Z",
+      "image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20261015-00132558-futaman-000-1-view.jpg?exp=10800",
+      "categories": [
+        "other"
+      ],
+      "works": [
+        "kusuriya"
+      ],
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": true
     },
     {
       "id": "953f7653361f",
@@ -2577,7 +2523,7 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "884c952871d5",
