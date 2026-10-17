@@ -1,23 +1,23 @@
 {
-  "updatedAt": "2026-10-17T10:00:17.261Z",
+  "updatedAt": "2026-10-17T10:30:16.590Z",
   "site": {
     "title": "なろう系まとめ",
     "tagline": "小説家になろう発の作品のアニメ化・コミカライズ・書籍化のニュースと、なろうのランキングをまとめています。",
     "url": "https://naroumatome.gamelab.website/",
     "contactUrl": "https://docs.google.com/forms/d/e/1FAIpQLSesWyhmZ6sRS_ve-c3X2KqF_wC5PK2TgwgQbTKmnQltSlg5Jw/viewform"
   },
-  "total": 112,
-  "todayCount": 33,
+  "total": 110,
+  "todayCount": 32,
   "categories": [
     {
       "id": "anime",
       "label": "アニメ",
-      "count": 52
+      "count": 51
     },
     {
       "id": "comic",
       "label": "コミカライズ",
-      "count": 6
+      "count": 5
     },
     {
       "id": "book",
@@ -42,7 +42,7 @@
     {
       "id": "other",
       "label": "そのほか",
-      "count": 22
+      "count": 21
     }
   ],
   "works": [
@@ -56,7 +56,7 @@
       "id": "mushoku",
       "title": "無職転生 ～異世界行ったら本気だす～",
       "short": "無職転生",
-      "count": 9
+      "count": 8
     },
     {
       "id": "rezero",
@@ -224,7 +224,7 @@
       "id": "tenken",
       "title": "転生したら剣でした",
       "short": "転剣",
-      "count": 1
+      "count": 2
     },
     {
       "id": "rupunana",
@@ -303,10 +303,6 @@
       "count": 10
     },
     {
-      "name": "Unisba Media",
-      "count": 8
-    },
-    {
       "name": "ナタリー",
       "count": 7
     },
@@ -316,6 +312,10 @@
     },
     {
       "name": "ラノベニュースオンライン",
+      "count": 7
+    },
+    {
+      "name": "Unisba Media",
       "count": 7
     },
     {
@@ -411,10 +411,6 @@
       "count": 1
     },
     {
-      "name": "ダ・ヴィンチWeb",
-      "count": 1
-    },
-    {
       "name": "公式スイーツパラダイス",
       "count": 1
     },
@@ -439,7 +435,7 @@
       "count": 1
     },
     {
-      "name": "TVer",
+      "name": "オタク総研",
       "count": 1
     }
   ],
@@ -869,12 +865,12 @@
     }
   ],
   "churn": {
-    "previousAt": "2026-10-17T09:30:19.362Z",
-    "previousCount": 113,
-    "newCount": 2
+    "previousAt": "2026-10-17T10:00:17.261Z",
+    "previousCount": 112,
+    "newCount": 1
   },
   "updateGapMin": 30,
-  "nextUpdateAt": "2026-10-17T10:30:17.261Z",
+  "nextUpdateAt": "2026-10-17T11:00:16.590Z",
   "items": [
     {
       "id": "c07fdb586775",
@@ -935,7 +931,7 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "eecf71fa228d",
@@ -1395,26 +1391,6 @@
       "isNew": false
     },
     {
-      "id": "a5b9d10062c4",
-      "title": "【2026夏アニメ】第1話で画力がバグってた神作画アニメ5選【無職転生Ⅲほか】【おすすめアニメ】 Ken Jennings (voIfSNAt4n)",
-      "url": "https://media.unisba.ac.id/d1eb00b9/d81270f2VQs9KCt3ICU5HRU/?share",
-      "host": "media.unisba.ac.id",
-      "source": "Unisba Media",
-      "summary": "",
-      "publishedAt": "2026-10-16T18:05:40.000Z",
-      "image": "",
-      "categories": [
-        "anime"
-      ],
-      "works": [
-        "mushoku"
-      ],
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": false
-    },
-    {
       "id": "45b5ee236488",
       "title": "アニメフル全話の徹底考察: 異世界の魔王を倒すために召喚された最強の魔法使いの転生 Franciacorta (0oopkn3TJP)",
       "url": "https://media.unisba.ac.id/bf09babf/46a7b667OjweWCpFB1k6FlY",
@@ -1564,7 +1540,7 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "2de64583c2ab",
@@ -1699,25 +1675,6 @@
       "works": [
         "tensei-kizoku"
       ],
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": false
-    },
-    {
-      "id": "63595e7c74e5",
-      "title": "助けてくれた青年の目的は「私を消すこと」!? 言葉の通じない異世界で生き抜く少女の成長劇。星雲賞受賞の90年代SF少女マンガの傑作【書評】",
-      "url": "https://ddnavi.com/article/1441283/a/",
-      "host": "ddnavi.com",
-      "source": "ダ・ヴィンチWeb",
-      "summary": "",
-      "publishedAt": "2026-10-16T10:00:00.000Z",
-      "image": "",
-      "categories": [
-        "comic",
-        "web"
-      ],
-      "works": [],
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
@@ -2423,7 +2380,7 @@
       "source": "山陽新聞",
       "summary": "",
       "publishedAt": "2026-10-15T16:49:24.000Z",
-      "image": "https://static.sanyonews.jp/image/article/size1https://prtimes.jp/img/78201/186/resize/d78201-186-a1196a1c68827121bd76-5.jpg",
+      "image": "",
       "categories": [
         "anime",
         "goods"
@@ -2980,6 +2937,26 @@
       "isNew": false
     },
     {
+      "id": "953f7653361f",
+      "title": "4年の時を経て『転生したら剣でした』続編、師匠の新たな冒険に視聴者注目！初回で最もコメント多かったシーンランキング",
+      "url": "https://0115765.com/archives/209847",
+      "host": "0115765.com",
+      "source": "オタク総研",
+      "summary": "",
+      "publishedAt": "2026-10-14T22:09:30.000Z",
+      "image": "https://0115765.com/wp-content/uploads/2026/10/20261014-t0i8hlys-1024x576.jpg",
+      "categories": [
+        "web"
+      ],
+      "works": [
+        "tenken"
+      ],
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": true
+    },
+    {
       "id": "9879fb93949d",
       "title": "『無職転生』第3期の最新PV解禁！本編映像で構成 シルフィエット＆ロキシー2人の妻・戦闘シーン",
       "url": "https://www.sanyonews.jp/article/1932699?kw",
@@ -2987,7 +2964,7 @@
       "source": "山陽新聞",
       "summary": "",
       "publishedAt": "2026-10-14T19:47:52.000Z",
-      "image": "https://static.sanyonews.jp/image/article/size1/6/7/0/e/670e86828004d14c25e357b79170f9e3_1.jpg",
+      "image": "",
       "categories": [
         "anime"
       ],
@@ -3007,7 +2984,7 @@
       "source": "山陽新聞",
       "summary": "",
       "publishedAt": "2026-10-14T17:48:26.000Z",
-      "image": "https://static.sanyonews.jp/image/article/size1/a/4/5/b/a45b3c41f1637837858a70e38b1d0910_1.jpg",
+      "image": "",
       "categories": [
         "anime"
       ],
@@ -3049,24 +3026,6 @@
       "image": "",
       "categories": [
         "anime"
-      ],
-      "works": [],
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": false
-    },
-    {
-      "id": "b788a84abd47",
-      "title": "世界最高の暗殺者、異世界貴族に転生する",
-      "url": "https://tver.jp/episodes/epgz055bad",
-      "host": "tver.jp",
-      "source": "TVer",
-      "summary": "",
-      "publishedAt": "2026-10-14T10:21:21.000Z",
-      "image": "",
-      "categories": [
-        "other"
       ],
       "works": [],
       "isPR": false,
