@@ -1,28 +1,28 @@
 {
-  "updatedAt": "2026-10-17T08:00:24.038Z",
+  "updatedAt": "2026-10-17T08:30:16.824Z",
   "site": {
     "title": "なろう系まとめ",
     "tagline": "小説家になろう発の作品のアニメ化・コミカライズ・書籍化のニュースと、なろうのランキングをまとめています。",
     "url": "https://naroumatome.gamelab.website/",
     "contactUrl": "https://docs.google.com/forms/d/e/1FAIpQLSesWyhmZ6sRS_ve-c3X2KqF_wC5PK2TgwgQbTKmnQltSlg5Jw/viewform"
   },
-  "total": 112,
-  "todayCount": 30,
+  "total": 111,
+  "todayCount": 31,
   "categories": [
     {
       "id": "anime",
       "label": "アニメ",
-      "count": 50
+      "count": 51
     },
     {
       "id": "comic",
       "label": "コミカライズ",
-      "count": 5
+      "count": 6
     },
     {
       "id": "book",
       "label": "書籍・ラノベ",
-      "count": 10
+      "count": 8
     },
     {
       "id": "web",
@@ -164,7 +164,7 @@
       "id": "katainaka",
       "title": "片田舎のおっさん、剣聖になる",
       "short": "片田舎のおっさん",
-      "count": 2
+      "count": 1
     },
     {
       "id": "nozomanu",
@@ -224,7 +224,7 @@
       "id": "tenken",
       "title": "転生したら剣でした",
       "short": "転剣",
-      "count": 1
+      "count": 2
     },
     {
       "id": "rupunana",
@@ -295,19 +295,23 @@
   ],
   "sources": [
     {
-      "name": "Yahoo!ニュース",
-      "count": 12
-    },
-    {
       "name": "アニメ！アニメ！",
       "count": 11
     },
     {
+      "name": "Yahoo!ニュース",
+      "count": 10
+    },
+    {
       "name": "ラノベニュースオンライン",
-      "count": 9
+      "count": 8
     },
     {
       "name": "AppMedia",
+      "count": 7
+    },
+    {
+      "name": "Unisba Media",
       "count": 7
     },
     {
@@ -319,15 +323,7 @@
       "count": 6
     },
     {
-      "name": "Unisba Media",
-      "count": 5
-    },
-    {
       "name": "GameWith",
-      "count": 4
-    },
-    {
-      "name": "山陽新聞",
       "count": 4
     },
     {
@@ -348,6 +344,10 @@
     },
     {
       "name": "Howl.link",
+      "count": 3
+    },
+    {
+      "name": "山陽新聞",
       "count": 3
     },
     {
@@ -376,6 +376,10 @@
     },
     {
       "name": "TVガイドWeb",
+      "count": 2
+    },
+    {
+      "name": "オタク総研",
       "count": 2
     },
     {
@@ -440,10 +444,6 @@
     },
     {
       "name": "マイナビニュース",
-      "count": 1
-    },
-    {
-      "name": "オタク総研",
       "count": 1
     },
     {
@@ -770,6 +770,33 @@
       ]
     },
     {
+      "id": "34210dc3e741",
+      "title": "「転ステ」第1弾・第2弾が無料プレミア公開決定！転スラ舞台第3弾上演記念",
+      "summary": "",
+      "url": "https://koubo.jp/article/131843",
+      "image": "https://koubo-dz7cn3ci.s3.ap-northeast-1.amazonaws.com/strapi/article_131843_keyvisual_cb262e5b32.jpeg",
+      "leadSource": "Koubo",
+      "publishedAt": "2026-10-17T06:05:17.000Z",
+      "sourceCount": 2,
+      "articleCount": 2,
+      "categories": [
+        "goods",
+        "game"
+      ],
+      "keywords": [
+        "転スラ"
+      ],
+      "articles": [
+        {
+          "title": "【まおりゅう】ガチャはどれを引くべき？【転スラ】",
+          "url": "https://appmedia.jp/ten-sura-m/27053896",
+          "source": "AppMedia",
+          "publishedAt": "2026-10-17T04:42:07.000Z",
+          "isPR": false
+        }
+      ]
+    },
+    {
       "id": "681de13dd15a",
       "title": "薬屋のひとりごと：テレビアニメ第3期 猫猫と壬氏の関係は？ 子守唄の「無言」の意味 筆坂明規監督インタビュー",
       "summary": "",
@@ -853,43 +880,36 @@
           "isPR": false
         }
       ]
-    },
-    {
-      "id": "0a2907073a53",
-      "title": "【リゼロ】ラグーナテンボスとのコラボが11/7より開催。水門都市プリステラの世界観が体験できる。スバル＆エミリアの録り下ろしボイスも",
-      "summary": "",
-      "url": "https://dengekionline.com/article/202610/91102",
-      "image": "https://cimg.kgl-systems.io/camion/files/91102/ogp_lbQC.jpg?x=1280",
-      "leadSource": "電撃オンライン",
-      "publishedAt": "2026-10-15T22:00:00.000Z",
-      "sourceCount": 2,
-      "articleCount": 2,
-      "categories": [
-        "goods"
-      ],
-      "keywords": [
-        "リゼロ",
-        "コラボ"
-      ],
-      "articles": [
-        {
-          "title": "リゼロ × 大黒湯 10月17日より湯上がり姿のコラボ開催!",
-          "url": "https://collabo-cafe.com/events/collabo/re-zero-event-daikokuyu-sento-2026/",
-          "source": "コラボカフェ",
-          "publishedAt": "2026-10-15T13:24:14.000Z",
-          "isPR": false
-        }
-      ]
     }
   ],
   "churn": {
-    "previousAt": "2026-10-17T07:30:16.671Z",
-    "previousCount": 108,
-    "newCount": 7
+    "previousAt": "2026-10-17T08:00:24.038Z",
+    "previousCount": 112,
+    "newCount": 5
   },
   "updateGapMin": 30,
-  "nextUpdateAt": "2026-10-17T08:30:24.038Z",
+  "nextUpdateAt": "2026-10-17T09:00:16.824Z",
   "items": [
+    {
+      "id": "7ff35b4de31e",
+      "title": "「転生したら剣でしたII」ステファン役は井澤詩織「主従関係萌えの私は大歓喜です」（動画あり / コメントあり）",
+      "url": "https://natalie.mu/comic/news/694137",
+      "host": "natalie.mu",
+      "source": "ナタリー",
+      "summary": "",
+      "publishedAt": "2026-10-17T08:00:00.000Z",
+      "image": "",
+      "categories": [
+        "other"
+      ],
+      "works": [
+        "tenken"
+      ],
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": true
+    },
     {
       "id": "9bf894936a29",
       "title": "薬屋のひとりごと × スイパラ 第3弾 10月30日より順次開催!",
@@ -908,7 +928,7 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "da475e23fa77",
@@ -923,26 +943,6 @@
         "anime"
       ],
       "works": [],
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": true
-    },
-    {
-      "id": "0f37b66f127f",
-      "title": "【まおりゅう】最強戦闘キャラランキング｜最新Tier表【転スラ】",
-      "url": "https://appmedia.jp/ten-sura-m/27054868",
-      "host": "appmedia.jp",
-      "source": "AppMedia",
-      "summary": "",
-      "publishedAt": "2026-10-17T06:30:28.000Z",
-      "image": "https://appmedia.jp/wp-content/uploads/2023/03/125202_3l6dn.webp",
-      "categories": [
-        "web"
-      ],
-      "works": [
-        "tensura"
-      ],
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
@@ -966,7 +966,7 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "c72be844c473",
@@ -1087,7 +1087,7 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "0e9be58f6326",
@@ -1103,6 +1103,26 @@
       ],
       "works": [
         "tensei-kizoku"
+      ],
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": false
+    },
+    {
+      "id": "0f37b66f127f",
+      "title": "【まおりゅう】最強戦闘キャラランキング｜最新Tier表【転スラ】",
+      "url": "https://appmedia.jp/ten-sura-m/27054868",
+      "host": "appmedia.jp",
+      "source": "AppMedia",
+      "summary": "",
+      "publishedAt": "2026-10-17T03:29:35.000Z",
+      "image": "https://appmedia.jp/wp-content/uploads/2023/03/125202_3l6dn.webp",
+      "categories": [
+        "web"
+      ],
+      "works": [
+        "tensura"
       ],
       "isPR": false,
       "viaGoogle": false,
@@ -1235,7 +1255,7 @@
       "source": "Yahoo!ニュース",
       "summary": "",
       "publishedAt": "2026-10-17T00:02:50.000Z",
-      "image": "https://news-pctr.c.yimg.jp/uUzvQ3lML_bkIqyakc1vFhNrRI0RUQxg5aFkrX0xDg1_T0wXrbEJjtNGtrf1o9y3xudcUclfbXjZqAvGT8NJnUhGOavIf6iEicgL_Pq4W9fkG6dVFKPnpdimuVFMt9eOY4JSY7WZnCmuzppqPOXSkZlIJMu6oiLSpz6OFKv8dl8vwkUCcE5t7ib5FeB1c1lzo7THKAp9yQIE4M4M5T68sg==",
+      "image": "https://news-pctr.c.yimg.jp/uUzvQ3lML_bkIqyakc1vFhNrRI0RUQxg5aFkrX0xDg1_T0wXrbEJjtNGtrf1o9y3xudcUclfbXjZqAvGT8NJnUhGOavIf6iEicgL_Pq4W9fcFpCSjRtrqGgQLzi3vkFRC7jb5zrMN8axGBZECOF66af6uJ8SvnRtZ_aR0-ar2XqhiusHK7vJLH47N6OccvIcPZqUAWlwAZ2-8B1vmLorbQ==",
       "categories": [
         "other"
       ],
@@ -1286,26 +1306,6 @@
       "viaGoogle": false,
       "sourceKind": "news",
       "isNew": false
-    },
-    {
-      "id": "ea525af1a8b1",
-      "title": "『片田舎のおっさん、剣聖になる』第2期あらすじ＆場面カット解禁 狼の姿をした影が教師たち襲う",
-      "url": "https://www.sanyonews.jp/article/1957982?kw",
-      "host": "sanyonews.jp",
-      "source": "山陽新聞",
-      "summary": "",
-      "publishedAt": "2026-10-16T21:01:51.000Z",
-      "image": "https://static.sanyonews.jp/image/article/size1/0/9/3/e/093ee78577f75ad90bcf35368e554628_1.jpg",
-      "categories": [
-        "anime"
-      ],
-      "works": [
-        "katainaka"
-      ],
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": true
     },
     {
       "id": "8bdad10a76fc",
@@ -1366,6 +1366,24 @@
       "viaGoogle": false,
       "sourceKind": "news",
       "isNew": false
+    },
+    {
+      "id": "45b5ee236488",
+      "title": "アニメフル全話の徹底考察: 異世界の魔王を倒すために召喚された最強の魔法使いの転生 Franciacorta (0oopkn3TJP)",
+      "url": "https://media.unisba.ac.id/bf09babf/46a7b667OjweWCpFB1k6FlY",
+      "host": "media.unisba.ac.id",
+      "source": "Unisba Media",
+      "summary": "",
+      "publishedAt": "2026-10-16T17:20:03.000Z",
+      "image": "",
+      "categories": [
+        "anime"
+      ],
+      "works": [],
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": true
     },
     {
       "id": "649b704173f6",
@@ -1502,26 +1520,6 @@
       "isNew": false
     },
     {
-      "id": "0bbcf011d0fe",
-      "title": "WEBラジオ「片田舎のおっさん、進行役(パーソナリティ)になる第3回 ショートver.①| ゲスト：上田瞳 Padres Vs Brewers (TOAk75paqA)",
-      "url": "https://media.unisba.ac.id/4d64c448/2b8c0577yU5WMKcjgCQ",
-      "host": "media.unisba.ac.id",
-      "source": "Unisba Media",
-      "summary": "",
-      "publishedAt": "2026-10-16T12:41:04.000Z",
-      "image": "",
-      "categories": [
-        "other"
-      ],
-      "works": [
-        "katainaka"
-      ],
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": true
-    },
-    {
       "id": "2de64583c2ab",
       "title": "【ポコダン】無職転生コラボ攻略まとめ【ポコロンダンジョンズ】",
       "url": "https://gamewith.jp/pocodun/article/show/583067",
@@ -1542,6 +1540,26 @@
       "isNew": false
     },
     {
+      "id": "cfda3598fe03",
+      "title": "TVアニメ「片田舎のおっさん、剣聖になる」第三期制作決定！ | 平田広明お祝いコメント Motogp (HZuASx91UI)",
+      "url": "https://media.unisba.ac.id/0b3b996d/5213aebePTiAaJlM2y0/?share",
+      "host": "media.unisba.ac.id",
+      "source": "Unisba Media",
+      "summary": "",
+      "publishedAt": "2026-10-16T12:09:57.000Z",
+      "image": "",
+      "categories": [
+        "anime"
+      ],
+      "works": [
+        "katainaka"
+      ],
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": true
+    },
+    {
       "id": "46c454fd4b32",
       "title": "『薬屋のひとりごと』猫猫、物乞いへの“贅沢すぎる施し”に違和感 第51話あらすじ＆場面カット公開 (オリコン)",
       "url": "https://news.yahoo.co.jp/articles/a65714f2b3ebc3a29db660fc7c84170fb3f5d1c3/images/000",
@@ -1556,24 +1574,6 @@
       "works": [
         "kusuriya"
       ],
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": false
-    },
-    {
-      "id": "09de9dfd8657",
-      "title": "「天才詐欺師の異世界世直し」1巻 [画像ギャラリー 1/9]",
-      "url": "https://natalie.mu/comic/gallery/news/691495/2979265",
-      "host": "natalie.mu",
-      "source": "ナタリー",
-      "summary": "",
-      "publishedAt": "2026-10-16T11:56:26.000Z",
-      "image": "",
-      "categories": [
-        "book"
-      ],
-      "works": [],
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
@@ -1598,6 +1598,25 @@
       "viaGoogle": false,
       "sourceKind": "news",
       "isNew": false
+    },
+    {
+      "id": "96b80cbb7185",
+      "title": "【アニメ異世界】剣術の才能がないと家から追放された俺、実は魔法の天才でした！【マンガ動画】 Forge Fc (2weBOwF9ic)",
+      "url": "https://media.unisba.ac.id/edf0ef90/74aaf4a9AHX3im9ufec/?share",
+      "host": "media.unisba.ac.id",
+      "source": "Unisba Media",
+      "summary": "",
+      "publishedAt": "2026-10-16T10:40:33.000Z",
+      "image": "",
+      "categories": [
+        "anime",
+        "comic"
+      ],
+      "works": [],
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": true
     },
     {
       "id": "bac438b98fb5",
@@ -1654,26 +1673,6 @@
         "web"
       ],
       "works": [],
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": false
-    },
-    {
-      "id": "e95d5aaaaa11",
-      "title": "「久々のゲス顔きたー！！」「猫猫のワルソーな顔」アニメ『薬屋のひとりごと』第51話予告映像にファンから期待の声",
-      "url": "https://news.yahoo.co.jp/articles/a6377bc7b4d7d7c20c8cbd6513671fede2733eca/images/000",
-      "host": "news.yahoo.co.jp",
-      "source": "Yahoo!ニュース",
-      "summary": "",
-      "publishedAt": "2026-10-16T09:42:16.000Z",
-      "image": "https://news-pctr.c.yimg.jp/uUzvQ3lML_bkIqyakc1vFhNrRI0RUQxg5aFkrX0xDg1_T0wXrbEJjtNGtrf1o9y3xudcUclfbXjZqAvGT8NJndcCNE4kybImJg7kixl3cUKWaD6kbHyX-DU1pWPX_fxp3-gvzi4Ih8P7X-g9wt9Sw3NDzLcwxDoHBL7IVpd7LX3PlRFg2t_mQziuIGjT8iGwWQ_FJIRnKamlXNbxIkoHQw==",
-      "categories": [
-        "anime"
-      ],
-      "works": [
-        "kusuriya"
-      ],
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
@@ -1777,7 +1776,7 @@
       "isPR": true,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "fec89659920e",
@@ -2075,6 +2074,26 @@
       "viaGoogle": false,
       "sourceKind": "news",
       "isNew": false
+    },
+    {
+      "id": "04065c11ef3a",
+      "title": "『薬屋のひとりごと』アニメ第3期、“地味”でも離脱しないほうが良いワケ スケールの大きな謎解きへの期待 (リアルサウンド)",
+      "url": "https://news.yahoo.co.jp/articles/867debb5898290a22b0a6f366a04cd9a8b625ee3/images/000",
+      "host": "news.yahoo.co.jp",
+      "source": "Yahoo!ニュース",
+      "summary": "",
+      "publishedAt": "2026-10-16T03:04:41.000Z",
+      "image": "https://news-pctr.c.yimg.jp/uUzvQ3lML_bkIqyakc1vFhNrRI0RUQxg5aFkrX0xDg1_T0wXrbEJjtNGtrf1o9y3xudcUclfbXjZqAvGT8NJnddT4kBOPYvYF8WFWFzgEYOTyC9VXW92UDzYdMvV6I3IN9wuvGXM6KmLrx-JAhD8DV0RoXw64cdqVEuj09eHPOxOLMlFFgeKA2rjFBV6SS_nF2Jb6xnFAnHq8_l_5Y8cIw==",
+      "categories": [
+        "anime"
+      ],
+      "works": [
+        "kusuriya"
+      ],
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": true
     },
     {
       "id": "ba6e4f31c4e1",
@@ -2976,12 +2995,12 @@
     {
       "id": "dcc918b308ce",
       "title": "秋アニメ本格始動、週間視聴で『薬屋』に続く新作は？人気続編に加え“異色の異世界系”も【ABEMA週間ランキング】",
-      "url": "https://news.yahoo.co.jp/articles/d477791049041f29f74d608c59ea7a0bc2a7b2f2",
-      "host": "news.yahoo.co.jp",
-      "source": "Yahoo!ニュース",
+      "url": "https://0115765.com/archives/209727",
+      "host": "0115765.com",
+      "source": "オタク総研",
       "summary": "",
-      "publishedAt": "2026-10-14T11:38:00.000Z",
-      "image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20261014-00203800-otakulab-000-285-view.jpg?exp=10800",
+      "publishedAt": "2026-10-14T11:36:05.000Z",
+      "image": "https://0115765.com/wp-content/uploads/2026/09/20260910-d8km2rrc.jpg",
       "categories": [
         "anime",
         "web"
@@ -3029,24 +3048,6 @@
       "isNew": false
     },
     {
-      "id": "eadce5acbde8",
-      "title": "秋アニメ『レイアース』“平成版アニメ”を知らない初見勢から驚きの声が続出「異世界ものだったんだ」（ふたまん＋）",
-      "url": "https://news.yahoo.co.jp/articles/7b151e350f943d1fa777129f04b9eae15b949bfc",
-      "host": "news.yahoo.co.jp",
-      "source": "Yahoo!ニュース",
-      "summary": "",
-      "publishedAt": "2026-10-14T08:00:33.000Z",
-      "image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20261014-00132561-futaman-000-1-view.jpg?exp=10800",
-      "categories": [
-        "anime"
-      ],
-      "works": [],
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": false
-    },
-    {
       "id": "d9bfac0c3825",
       "title": "『陰の実力者になりたくて！』のオンラインくじが再登場 2023年に発売されたオンラインくじが再販に",
       "url": "https://ln-news.com/articles/126830",
@@ -3061,24 +3062,6 @@
       "works": [
         "kagejitsu"
       ],
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": false
-    },
-    {
-      "id": "b19f32daf142",
-      "title": "『明日もいい日でありますように。～異世界で新しい家族ができました～』第5巻発売を記念したオーディオドラマが公開中",
-      "url": "https://ln-news.com/articles/126837",
-      "host": "ln-news.com",
-      "source": "ラノベニュースオンライン",
-      "summary": "",
-      "publishedAt": "2026-10-14T05:30:00.000Z",
-      "image": "https://assets.ln-news.com/images/medias/8eaf789c1e0340cd987cd09748bf7e16.jpg",
-      "categories": [
-        "book"
-      ],
-      "works": [],
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
