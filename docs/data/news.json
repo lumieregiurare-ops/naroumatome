@@ -1,18 +1,18 @@
 {
-  "updatedAt": "2026-10-17T20:00:18.568Z",
+  "updatedAt": "2026-10-17T20:30:16.668Z",
   "site": {
     "title": "なろう系まとめ",
     "tagline": "小説家になろう発の作品のアニメ化・コミカライズ・書籍化のニュースと、なろうのランキングをまとめています。",
     "url": "https://naroumatome.gamelab.website/",
     "contactUrl": "https://docs.google.com/forms/d/e/1FAIpQLSesWyhmZ6sRS_ve-c3X2KqF_wC5PK2TgwgQbTKmnQltSlg5Jw/viewform"
   },
-  "total": 115,
+  "total": 114,
   "todayCount": 1,
   "categories": [
     {
       "id": "anime",
       "label": "アニメ",
-      "count": 54
+      "count": 53
     },
     {
       "id": "comic",
@@ -32,7 +32,7 @@
     {
       "id": "game",
       "label": "ゲーム",
-      "count": 7
+      "count": 6
     },
     {
       "id": "goods",
@@ -50,7 +50,7 @@
       "id": "tensura",
       "title": "転生したらスライムだった件",
       "short": "転スラ",
-      "count": 18
+      "count": 16
     },
     {
       "id": "mushoku",
@@ -62,25 +62,25 @@
       "id": "rezero",
       "title": "Re:ゼロから始める異世界生活",
       "short": "リゼロ",
-      "count": 12
+      "count": 11
     },
     {
       "id": "honzuki",
       "title": "本好きの下剋上",
       "short": "本好き",
-      "count": 6
+      "count": 7
     },
     {
       "id": "kusuriya",
       "title": "薬屋のひとりごと",
       "short": "薬屋",
-      "count": 30
+      "count": 29
     },
     {
       "id": "kagejitsu",
       "title": "陰の実力者になりたくて！",
       "short": "陰の実力者",
-      "count": 6
+      "count": 7
     },
     {
       "id": "tate",
@@ -164,7 +164,7 @@
       "id": "katainaka",
       "title": "片田舎のおっさん、剣聖になる",
       "short": "片田舎のおっさん",
-      "count": 2
+      "count": 3
     },
     {
       "id": "nozomanu",
@@ -254,7 +254,7 @@
       "id": "tensei-kizoku",
       "title": "転生貴族、鑑定スキルで成り上がる",
       "short": "転生貴族",
-      "count": 4
+      "count": 3
     },
     {
       "id": "kuro-no-shokanshi",
@@ -296,7 +296,7 @@
   "sources": [
     {
       "name": "アニメ！アニメ！",
-      "count": 11
+      "count": 12
     },
     {
       "name": "Yahoo!ニュース",
@@ -304,10 +304,6 @@
     },
     {
       "name": "ナタリー",
-      "count": 7
-    },
-    {
-      "name": "AppMedia",
       "count": 7
     },
     {
@@ -319,16 +315,24 @@
       "count": 7
     },
     {
-      "name": "GameWith",
-      "count": 6
-    },
-    {
-      "name": "PR TIMES",
+      "name": "AppMedia",
       "count": 6
     },
     {
       "name": "Howl.link",
       "count": 5
+    },
+    {
+      "name": "GameWith",
+      "count": 5
+    },
+    {
+      "name": "PR TIMES",
+      "count": 5
+    },
+    {
+      "name": "ニコニコニュース",
+      "count": 4
     },
     {
       "name": "ｄメニューニュース",
@@ -340,18 +344,6 @@
     },
     {
       "name": "ファミ通.com",
-      "count": 3
-    },
-    {
-      "name": "ABEMA TIMES",
-      "count": 3
-    },
-    {
-      "name": "ニコニコニュース",
-      "count": 3
-    },
-    {
-      "name": "ライブドアニュース",
       "count": 3
     },
     {
@@ -371,6 +363,14 @@
       "count": 2
     },
     {
+      "name": "山陽新聞",
+      "count": 2
+    },
+    {
+      "name": "ABEMA TIMES",
+      "count": 2
+    },
+    {
       "name": "はてなブログ",
       "count": 2
     },
@@ -379,11 +379,19 @@
       "count": 2
     },
     {
+      "name": "ライブドアニュース",
+      "count": 2
+    },
+    {
       "name": "TVガイドWeb",
       "count": 2
     },
     {
       "name": "TBSテレビ",
+      "count": 1
+    },
+    {
+      "name": "ウォーカープラス",
       "count": 1
     },
     {
@@ -423,10 +431,6 @@
       "count": 1
     },
     {
-      "name": "山陽新聞",
-      "count": 1
-    },
-    {
       "name": "インサイド",
       "count": 1
     },
@@ -456,8 +460,8 @@
       "image": "https://koubo-dz7cn3ci.s3.ap-northeast-1.amazonaws.com/strapi/article_131244_keyvisual_6952df06fc.jpeg",
       "leadSource": "Koubo",
       "publishedAt": "2026-10-15T18:04:34.000Z",
-      "sourceCount": 5,
-      "articleCount": 6,
+      "sourceCount": 6,
+      "articleCount": 7,
       "categories": [
         "other",
         "book"
@@ -468,6 +472,13 @@
         "下剋上"
       ],
       "articles": [
+        {
+          "title": "【本日10/15発売開始】シリーズ累計1400万部突破！『本好きの下剋上",
+          "url": "https://news.nicovideo.jp/watch/nw19883142?news_ref",
+          "source": "ニコニコニュース",
+          "publishedAt": "2026-10-15T11:51:42.000Z",
+          "isPR": false
+        },
         {
           "title": "シリーズ累計1400万部突破、最新巻が本日発売！TOブックス 2026年10月15日発売『本好きの下剋上 ～ハンネローレの貴族院五年生～ 「恋してみたいお姫様 2」』ほか注目の新刊",
           "url": "https://news.livedoor.com/article/detail/32576254/",
@@ -556,48 +567,6 @@
       ]
     },
     {
-      "id": "01371568aec8",
-      "title": "転生貴族、鑑定スキルで成り上がる 第３期 [字] ＃２９【アガルアニメ】",
-      "summary": "",
-      "url": "https://www.tbs.co.jp/tv/20261025_C27B.html",
-      "image": "https://www.tbs.co.jp/ro/img/ogp.png",
-      "leadSource": "TBSテレビ",
-      "publishedAt": "2026-10-17T19:37:53.000Z",
-      "sourceCount": 4,
-      "articleCount": 4,
-      "categories": [
-        "anime"
-      ],
-      "keywords": [
-        "転生貴族",
-        "スキル",
-        "鑑定"
-      ],
-      "articles": [
-        {
-          "title": "アニメ『転生貴族、鑑定スキルで成り上がる 第3期』第28話「終戦」のあらすじ＆先行カット解禁",
-          "url": "https://ln-news.com/articles/126975",
-          "source": "ラノベニュースオンライン",
-          "publishedAt": "2026-10-17T04:00:00.000Z",
-          "isPR": false
-        },
-        {
-          "title": "アニメ『転生貴族、鑑定スキルで成り上がる 第3期』はどこで見れる？サブスク・配信サービスを全調査 | VODB! by チバテレ",
-          "url": "https://www.chiba-tv.com/vod-db/tensei-kizoku-s3-anime/",
-          "source": "千葉テレビ放送株式会社",
-          "publishedAt": "2026-10-16T10:24:19.000Z",
-          "isPR": false
-        },
-        {
-          "title": "TVアニメ『転生貴族、鑑定スキルで成り上がる 第3期』10月18日（日）夜11時30分～放送の第28話（第3期4話目）あらすじ＆先行カット公開！",
-          "url": "https://prtimes.jp/main/html/rd/p/000009812.000014827.html",
-          "source": "PR TIMES",
-          "publishedAt": "2026-10-16T08:00:02.000Z",
-          "isPR": true
-        }
-      ]
-    },
-    {
       "id": "a9d38a7bb976",
       "title": "「メロすぎる」「トップクラスで好き」…「薬屋のひとりごと」シゴデキ男衆・右叫に沼る視聴者が続出!! 過酷な現実に立ち向かう少女には「泣ける」の声も【第51話ネタバレあり反応まとめ】",
       "summary": "TVアニメ『薬屋のひとりごと』第51話「麺麭がなければ」が2026年10月16日（金）に放送。仙女が配っていた菓子の謎が解明される中、猫猫のサポート役として登場する男衆・右叫にメロつく視聴者が続出した。",
@@ -647,6 +616,41 @@
       ]
     },
     {
+      "id": "01371568aec8",
+      "title": "転生貴族、鑑定スキルで成り上がる 第３期 [字] ＃２９【アガルアニメ】",
+      "summary": "",
+      "url": "https://www.tbs.co.jp/tv/20261025_C27B.html",
+      "image": "https://www.tbs.co.jp/ro/img/ogp.png",
+      "leadSource": "TBSテレビ",
+      "publishedAt": "2026-10-17T19:37:53.000Z",
+      "sourceCount": 3,
+      "articleCount": 3,
+      "categories": [
+        "anime"
+      ],
+      "keywords": [
+        "転生貴族",
+        "スキル",
+        "鑑定"
+      ],
+      "articles": [
+        {
+          "title": "アニメ『転生貴族、鑑定スキルで成り上がる 第3期』第28話「終戦」のあらすじ＆先行カット解禁",
+          "url": "https://ln-news.com/articles/126975",
+          "source": "ラノベニュースオンライン",
+          "publishedAt": "2026-10-17T04:00:00.000Z",
+          "isPR": false
+        },
+        {
+          "title": "アニメ『転生貴族、鑑定スキルで成り上がる 第3期』はどこで見れる？サブスク・配信サービスを全調査 | VODB! by チバテレ",
+          "url": "https://www.chiba-tv.com/vod-db/tensei-kizoku-s3-anime/",
+          "source": "千葉テレビ放送株式会社",
+          "publishedAt": "2026-10-16T10:24:19.000Z",
+          "isPR": false
+        }
+      ]
+    },
+    {
       "id": "d8ac05b43636",
       "title": "「リゼロ」エミリア、レム、ラムの湯上がり銭湯姿にドキドキ☆ 全5種のコラボ薬湯で温まろう♪【大黒湯コラボ】",
       "summary": "コラボイベント「Re:ゼロから始める異世界生活 × 大黒湯」に、エミリア、レム、ラム、ベアトリス、シャウラが登場。大黒湯へレッツゴー！",
@@ -683,64 +687,29 @@
       ]
     },
     {
-      "id": "9ea363e9791c",
-      "title": "「鬼滅の刃」鬼舞辻、「転スラ」リムル、「オバロ」アインズ…慕われるリーダーから恐怖の支配者まで!? ボスキャラアニメ5選☆ボスの日記念【ABEMA】",
-      "summary": "ABEMAが「ボスの日」にちなみ、リーダーから恐怖の支配者までを描く5作品を紹介した。",
-      "url": "https://animeanime.jp/article/2026/10/16/103884.html",
-      "image": "https://animeanime.jp/imgs/rss/944150.jpg",
-      "leadSource": "アニメ！アニメ！",
-      "publishedAt": "2026-10-16T07:45:02.000Z",
-      "sourceCount": 3,
-      "articleCount": 3,
-      "categories": [
-        "anime"
-      ],
-      "keywords": [
-        "転スラ",
-        "リムル",
-        "鬼滅"
-      ],
-      "articles": [
-        {
-          "title": "現役高校生が選ぶ「 上司にしたいアニメキャラ」1位は? - 2位「転スラ」リムル、3位「鬼滅の刃」炭治郎",
-          "url": "https://news.mynavi.jp/article/20261015-5132504/",
-          "source": "マイナビニュース",
-          "publishedAt": "2026-10-15T06:48:32.000Z",
-          "isPR": false
-        },
-        {
-          "title": "【画像】現役高校生が選ぶ「 上司にしたいアニメキャラ」1位は? - 2位「転スラ」リムル、3位「鬼滅の刃」炭治郎",
-          "url": "https://news.livedoor.com/article/image_detail/32574253/?img_id",
-          "source": "ライブドアニュース",
-          "publishedAt": "2026-10-15T06:48:32.000Z",
-          "isPR": false
-        }
-      ]
-    },
-    {
-      "id": "3574896d2431",
-      "title": "薬屋のひとりごと＞怒る猫猫 謎の焼き菓子が！ 第51話「麺麭がなければ」カット公開（MANTANWEB）",
+      "id": "ea525af1a8b1",
+      "title": "『片田舎のおっさん、剣聖になる』第2期あらすじ＆場面カット解禁 狼の姿をした影が教師たち襲う",
       "summary": "",
-      "url": "https://news.yahoo.co.jp/articles/6055b9d30db4bb18cf66c46866620583a02c4558",
-      "image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20261015-00000070-mantan-000-1-view.jpg?exp=10800",
-      "leadSource": "Yahoo!ニュース",
-      "publishedAt": "2026-10-15T10:37:00.000Z",
+      "url": "https://www.sanyonews.jp/article/1957982?kw",
+      "image": "https://static.sanyonews.jp/image/article/size1/0/9/3/e/093ee78577f75ad90bcf35368e554628_1.jpg",
+      "leadSource": "山陽新聞",
+      "publishedAt": "2026-10-16T21:01:51.000Z",
       "sourceCount": 3,
       "articleCount": 3,
       "categories": [
         "anime"
       ],
       "keywords": [
-        "薬屋",
+        "片田舎のおっさん",
         "カット",
-        "猫猫"
+        "片田舎"
       ],
       "articles": [
         {
-          "title": "＜薬屋のひとりごと＞猫猫は診療に向かった花街のあばら屋で怪しい菓子を見つける…第51話あらすじ＆先行カット公開",
-          "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPMTc2d2RlYVNpcG1DZ2ctVVRJT0xoS1pXZUUxTmtkdHdBTnZuRlVMY0ZwNDk1V185TmxRQlM5dm5sREg5T0s0Z3BpSjhURWFGNnFCWDlhY2RYTUtHMG42LW9jQ0xKOTEzb0pMbmNSdHFKcFEwNlh0blUtMTNxU3lUMkw4VdIBgwFBVV95cUxPMTc2d2RlYVNpcG1DZ2ctVVRJT0xoS1pXZUUxTmtkdHdBTnZuRlVMY0ZwNDk1V185TmxRQlM5dm5sREg5T0s0Z3BpSjhURWFGNnFCWDlhY2RYTUtHMG42LW9jQ0xKOTEzb0pMbmNSdHFKcFEwNlh0blUtMTNxU3lUMkw4VQ?oc=5",
-          "source": "ｄメニューニュース",
-          "publishedAt": "2026-10-15T09:00:00.000Z",
+          "title": "TVアニメ「片田舎のおっさん、剣聖になる」第三期制作決定！ | 平田広明お祝いコメント Motogp (HZuASx91UI)",
+          "url": "https://media.unisba.ac.id/0b3b996d/5213aebePTiAaJlM2y0/?share",
+          "source": "Unisba Media",
+          "publishedAt": "2026-10-16T12:09:57.000Z",
           "isPR": false
         },
         {
@@ -780,29 +749,27 @@
       ]
     },
     {
-      "id": "85102dcef7b6",
-      "title": "『陰の実力者』×『カゲマス』合同公開生放送キービジュアル公開！",
+      "id": "f6f5b132f70c",
+      "title": "KADOKAWAグループ作品6万点以上に使える最大60％OFFクーポン配布！「陰の実力者」「聖剣学院の魔剣使い」など秋アニメ作品もお得に",
       "summary": "",
-      "url": "https://www.animatetimes.com/news/details.php?id",
-      "image": "https://www.animatetimes.com/img/ogimage.png",
-      "leadSource": "アニメイトタイムズ",
-      "publishedAt": "2026-10-17T09:00:00.000Z",
+      "url": "https://www.walkerplus.com/article/1163318/",
+      "image": "https://news.walkerplus.com/article/1163318/12301909_615.jpg",
+      "leadSource": "ウォーカープラス",
+      "publishedAt": "2026-10-17T10:44:51.000Z",
       "sourceCount": 2,
       "articleCount": 2,
       "categories": [
-        "anime",
-        "goods"
+        "anime"
       ],
       "keywords": [
         "陰の実力者",
-        "カゲマス",
         "実力者"
       ],
       "articles": [
         {
-          "title": "【陰の実力者になりたくて！】アニメ『陰実』＆ゲーム『カゲマス』4周年合同イベントビジュアル＆グッズ情報解禁！",
-          "url": "https://dengekionline.com/article/202610/91294",
-          "source": "電撃オンライン",
+          "title": "『陰の実力者』×『カゲマス』合同公開生放送キービジュアル公開！",
+          "url": "https://www.animatetimes.com/news/details.php?id",
+          "source": "アニメイトタイムズ",
           "publishedAt": "2026-10-17T09:00:00.000Z",
           "isPR": false
         }
@@ -892,15 +859,43 @@
           "isPR": true
         }
       ]
+    },
+    {
+      "id": "9ea363e9791c",
+      "title": "「鬼滅の刃」鬼舞辻、「転スラ」リムル、「オバロ」アインズ…慕われるリーダーから恐怖の支配者まで!? ボスキャラアニメ5選☆ボスの日記念【ABEMA】",
+      "summary": "ABEMAが「ボスの日」にちなみ、リーダーから恐怖の支配者までを描く5作品を紹介した。",
+      "url": "https://animeanime.jp/article/2026/10/16/103884.html",
+      "image": "https://animeanime.jp/imgs/rss/944150.jpg",
+      "leadSource": "アニメ！アニメ！",
+      "publishedAt": "2026-10-16T07:45:02.000Z",
+      "sourceCount": 2,
+      "articleCount": 2,
+      "categories": [
+        "anime"
+      ],
+      "keywords": [
+        "転スラ",
+        "リムル",
+        "鬼滅"
+      ],
+      "articles": [
+        {
+          "title": "現役高校生が選ぶ「 上司にしたいアニメキャラ」1位は? - 2位「転スラ」リムル、3位「鬼滅の刃」炭治郎",
+          "url": "https://news.mynavi.jp/article/20261015-5132504/",
+          "source": "マイナビニュース",
+          "publishedAt": "2026-10-15T06:48:32.000Z",
+          "isPR": false
+        }
+      ]
     }
   ],
   "churn": {
-    "previousAt": "2026-10-17T19:28:52.123Z",
-    "previousCount": 113,
+    "previousAt": "2026-10-17T20:00:18.568Z",
+    "previousCount": 115,
     "newCount": 4
   },
   "updateGapMin": 30,
-  "nextUpdateAt": "2026-10-17T20:30:18.568Z",
+  "nextUpdateAt": "2026-10-17T21:00:16.668Z",
   "items": [
     {
       "id": "01371568aec8",
@@ -920,7 +915,7 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "59fbcde34e69",
@@ -960,7 +955,7 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "b124aa870b5f",
@@ -1019,6 +1014,26 @@
       "viaGoogle": false,
       "sourceKind": "news",
       "isNew": false
+    },
+    {
+      "id": "f6f5b132f70c",
+      "title": "KADOKAWAグループ作品6万点以上に使える最大60％OFFクーポン配布！「陰の実力者」「聖剣学院の魔剣使い」など秋アニメ作品もお得に",
+      "url": "https://www.walkerplus.com/article/1163318/",
+      "host": "walkerplus.com",
+      "source": "ウォーカープラス",
+      "summary": "",
+      "publishedAt": "2026-10-17T10:44:51.000Z",
+      "image": "https://news.walkerplus.com/article/1163318/12301909_615.jpg",
+      "categories": [
+        "anime"
+      ],
+      "works": [
+        "kagejitsu"
+      ],
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": true
     },
     {
       "id": "7d620d97f79a",
@@ -1459,6 +1474,26 @@
       "isNew": false
     },
     {
+      "id": "ea525af1a8b1",
+      "title": "『片田舎のおっさん、剣聖になる』第2期あらすじ＆場面カット解禁 狼の姿をした影が教師たち襲う",
+      "url": "https://www.sanyonews.jp/article/1957982?kw",
+      "host": "sanyonews.jp",
+      "source": "山陽新聞",
+      "summary": "",
+      "publishedAt": "2026-10-16T21:01:51.000Z",
+      "image": "https://static.sanyonews.jp/image/article/size1/0/9/3/e/093ee78577f75ad90bcf35368e554628_1.jpg",
+      "categories": [
+        "anime"
+      ],
+      "works": [
+        "katainaka"
+      ],
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": true
+    },
+    {
       "id": "8bdad10a76fc",
       "title": "【まおりゅう】英傑杯最強加護キャラランキング｜最新Tier表【転スラ】",
       "url": "https://appmedia.jp/ten-sura-m/78901700",
@@ -1587,26 +1622,6 @@
         "comic"
       ],
       "works": [],
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": false
-    },
-    {
-      "id": "e044c267f0b4",
-      "title": "アニメ「薬屋のひとりごと」声優・キャラクター一覧｜1～3期全キャスト155人を網羅 | アニメニュース | アニメフリークス",
-      "url": "https://times.abema.tv/articles/-/10099956",
-      "host": "times.abema.tv",
-      "source": "ABEMA TIMES",
-      "summary": "",
-      "publishedAt": "2026-10-16T14:52:00.000Z",
-      "image": "https://times-abema.ismcdn.jp/mwimgs/9/9/1200w/img_99fb4f49c09d3aeae5f15bdb94bc38cd247108.jpg",
-      "categories": [
-        "anime"
-      ],
-      "works": [
-        "kusuriya"
-      ],
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
@@ -1930,26 +1945,6 @@
       "isNew": false
     },
     {
-      "id": "fd2d6f572546",
-      "title": "TVアニメ『転生貴族、鑑定スキルで成り上がる 第3期』10月18日（日）夜11時30分～放送の第28話（第3期4話目）あらすじ＆先行カット公開！",
-      "url": "https://prtimes.jp/main/html/rd/p/000009812.000014827.html",
-      "host": "prtimes.jp",
-      "source": "PR TIMES",
-      "summary": "",
-      "publishedAt": "2026-10-16T08:00:02.000Z",
-      "image": "https://prcdn.freetls.fastly.net/release_image/14827/9812/14827-9812-620b495b5566d56686327df233fb33d4-1920x1080.jpg?format=jpeg&auto=webp&fit=bounds&width=2400&height=1260",
-      "categories": [
-        "anime"
-      ],
-      "works": [
-        "tensei-kizoku"
-      ],
-      "isPR": true,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": false
-    },
-    {
       "id": "fec89659920e",
       "title": "『転生したらスライムだった件 魔王と竜の建国譚』5周年記念イベント開催！",
       "url": "https://gamewith.jp/gamedb/6668/articles/64513",
@@ -2024,27 +2019,6 @@
       ],
       "works": [
         "kusuriya"
-      ],
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": false
-    },
-    {
-      "id": "f37a985974ae",
-      "title": "【モンスト】プリシラは買うべき？｜リゼロコラボ",
-      "url": "https://xn--eckwa2aa3a9c8j8bve9d.gamewith.jp/article/show/578793",
-      "host": "xn--eckwa2aa3a9c8j8bve9d.gamewith.jp",
-      "source": "GameWith",
-      "summary": "",
-      "publishedAt": "2026-10-16T07:08:28.000Z",
-      "image": "https://img.gamewith.jp/article/thumbnail/rectangle/578793.png?date=1790452443",
-      "categories": [
-        "game",
-        "goods"
-      ],
-      "works": [
-        "rezero"
       ],
       "isPR": false,
       "viaGoogle": false,
@@ -2425,26 +2399,6 @@
       "isNew": false
     },
     {
-      "id": "681aa30b84f1",
-      "title": "【まおりゅう】クロノア[時旅ノ勇者]の評価とスキル【転スラ】",
-      "url": "https://appmedia.jp/ten-sura-m/80488567",
-      "host": "appmedia.jp",
-      "source": "AppMedia",
-      "summary": "",
-      "publishedAt": "2026-10-16T01:54:39.000Z",
-      "image": "https://appmedia.jp/wp-content/uploads/2026/10/130710_hf3pu.webp",
-      "categories": [
-        "other"
-      ],
-      "works": [
-        "tensura"
-      ],
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": true
-    },
-    {
       "id": "0ded9a647e91",
       "title": "茨城県×アニメ『薬屋のひとりごと』、10月17日(土)からコラボメニューと第2弾オリジナルグッズ販売開始",
       "url": "https://prtimes.jp/main/html/rd/p/000000022.000165784.html",
@@ -2621,6 +2575,26 @@
       "viaGoogle": false,
       "sourceKind": "news",
       "isNew": false
+    },
+    {
+      "id": "4a92e6e1c33f",
+      "title": "【本日10/15発売開始】シリーズ累計1400万部突破！『本好きの下剋上",
+      "url": "https://news.nicovideo.jp/watch/nw19883142?news_ref",
+      "host": "news.nicovideo.jp",
+      "source": "ニコニコニュース",
+      "summary": "",
+      "publishedAt": "2026-10-15T11:51:42.000Z",
+      "image": "",
+      "categories": [
+        "other"
+      ],
+      "works": [
+        "honzuki"
+      ],
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": true
     },
     {
       "id": "f705ece153d7",
@@ -2936,20 +2910,18 @@
       "isNew": false
     },
     {
-      "id": "b53b27d13534",
-      "title": "【画像】現役高校生が選ぶ「 上司にしたいアニメキャラ」1位は? - 2位「転スラ」リムル、3位「鬼滅の刃」炭治郎",
-      "url": "https://news.livedoor.com/article/image_detail/32574253/?img_id",
-      "host": "news.livedoor.com",
-      "source": "ライブドアニュース",
+      "id": "1b8c014d0f66",
+      "title": "『異世界キッチン』チャレンジイベント「パンおいしいさー」開催！",
+      "url": "https://animeanime.jp/release/prtimes/20261015/319971.html",
+      "host": "animeanime.jp",
+      "source": "アニメ！アニメ！",
       "summary": "",
-      "publishedAt": "2026-10-15T06:48:32.000Z",
-      "image": "https://image.news.livedoor.com/newsimage/stf/b/4/b45b4_1223_f3e8c3c625ca27e9484d0c51d55fcd5d.jpg",
+      "publishedAt": "2026-10-15T06:00:00.000Z",
+      "image": "https://animeanime.jp/release/imgs/list/563344.png",
       "categories": [
-        "anime"
+        "goods"
       ],
-      "works": [
-        "tensura"
-      ],
+      "works": [],
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
@@ -3157,7 +3129,7 @@
       "source": "オタク総研",
       "summary": "",
       "publishedAt": "2026-10-14T22:09:30.000Z",
-      "image": "https://0115765.com/wp-content/uploads/2026/10/20261014-t0i8hlys-1024x576.jpg",
+      "image": "",
       "categories": [
         "web"
       ],
