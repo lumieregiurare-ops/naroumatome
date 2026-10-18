@@ -1,18 +1,18 @@
 {
-  "updatedAt": "2026-10-18T05:00:18.208Z",
+  "updatedAt": "2026-10-18T05:30:23.104Z",
   "site": {
     "title": "なろう系まとめ",
     "tagline": "小説家になろう発の作品のアニメ化・コミカライズ・書籍化のニュースと、なろうのランキングをまとめています。",
     "url": "https://naroumatome.gamelab.website/",
     "contactUrl": "https://docs.google.com/forms/d/e/1FAIpQLSesWyhmZ6sRS_ve-c3X2KqF_wC5PK2TgwgQbTKmnQltSlg5Jw/viewform"
   },
-  "total": 116,
-  "todayCount": 8,
+  "total": 118,
+  "todayCount": 9,
   "categories": [
     {
       "id": "anime",
       "label": "アニメ",
-      "count": 55
+      "count": 56
     },
     {
       "id": "comic",
@@ -42,7 +42,7 @@
     {
       "id": "other",
       "label": "そのほか",
-      "count": 23
+      "count": 24
     }
   ],
   "works": [
@@ -74,7 +74,7 @@
       "id": "kusuriya",
       "title": "薬屋のひとりごと",
       "short": "薬屋",
-      "count": 29
+      "count": 30
     },
     {
       "id": "kagejitsu",
@@ -307,6 +307,10 @@
       "count": 8
     },
     {
+      "name": "Unisba Media",
+      "count": 8
+    },
+    {
       "name": "AppMedia",
       "count": 8
     },
@@ -315,15 +319,7 @@
       "count": 7
     },
     {
-      "name": "Unisba Media",
-      "count": 7
-    },
-    {
       "name": "GameWith",
-      "count": 5
-    },
-    {
-      "name": "ニコニコニュース",
       "count": 5
     },
     {
@@ -332,6 +328,10 @@
     },
     {
       "name": "Howl.link",
+      "count": 4
+    },
+    {
+      "name": "ニコニコニュース",
       "count": 4
     },
     {
@@ -348,6 +348,10 @@
     },
     {
       "name": "アニメイトタイムズ",
+      "count": 2
+    },
+    {
+      "name": "コラボカフェ",
       "count": 2
     },
     {
@@ -372,6 +376,10 @@
     },
     {
       "name": "はてなブログ",
+      "count": 2
+    },
+    {
+      "name": "Infoseek",
       "count": 2
     },
     {
@@ -415,10 +423,6 @@
       "count": 1
     },
     {
-      "name": "Infoseek",
-      "count": 1
-    },
-    {
       "name": "パチンコ・パチスロ情報島＋",
       "count": 1
     },
@@ -432,10 +436,6 @@
     },
     {
       "name": "ABEMA",
-      "count": 1
-    },
-    {
-      "name": "コラボカフェ",
       "count": 1
     },
     {
@@ -908,12 +908,12 @@
     }
   ],
   "churn": {
-    "previousAt": "2026-10-18T04:30:16.719Z",
-    "previousCount": 118,
+    "previousAt": "2026-10-18T05:00:18.208Z",
+    "previousCount": 116,
     "newCount": 2
   },
   "updateGapMin": 30,
-  "nextUpdateAt": "2026-10-18T05:30:18.208Z",
+  "nextUpdateAt": "2026-10-18T06:00:23.104Z",
   "items": [
     {
       "id": "a43aa9e6dada",
@@ -1033,6 +1033,24 @@
       "viaGoogle": false,
       "sourceKind": "news",
       "isNew": false
+    },
+    {
+      "id": "97bd2fc3c06c",
+      "title": "TVアニメ『凶乱令嬢ニア・リストン 病弱令嬢に転生した神殺しの武人の華麗なる無双録』第2弾PV Astros - Reds (kEFkJBxvzW)",
+      "url": "https://media.unisba.ac.id/aa48bb1a/1d4a5584VAgKOBlrKhwTRQE/?share",
+      "host": "media.unisba.ac.id",
+      "source": "Unisba Media",
+      "summary": "",
+      "publishedAt": "2026-10-18T01:23:05.000Z",
+      "image": "",
+      "categories": [
+        "anime"
+      ],
+      "works": [],
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": true
     },
     {
       "id": "7e100d548d01",
@@ -1268,6 +1286,26 @@
       "viaGoogle": false,
       "sourceKind": "news",
       "isNew": false
+    },
+    {
+      "id": "9bf894936a29",
+      "title": "薬屋のひとりごと × スイパラ 第3弾 10月30日より順次開催!",
+      "url": "https://collabo-cafe.com/events/collabo/kusuriya-anime-cafe-sweets-paradise-2026/",
+      "host": "collabo-cafe.com",
+      "source": "コラボカフェ",
+      "summary": "",
+      "publishedAt": "2026-10-17T07:48:05.000Z",
+      "image": "https://collabo-cafe.com/wp-content/uploads/kusuriya-anime-cafe-sweets-paradise-2026-schedule.jpg",
+      "categories": [
+        "other"
+      ],
+      "works": [
+        "kusuriya"
+      ],
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": true
     },
     {
       "id": "da475e23fa77",
@@ -1739,7 +1777,7 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "00254e681c16",
@@ -1911,26 +1949,6 @@
         "book"
       ],
       "works": [],
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": false
-    },
-    {
-      "id": "8bd66553b8c8",
-      "title": "【舞台『転生したらスライムだった件』第3弾-魔王覚醒編＆八星輝翔編-上演記念】「転ステ」第1弾＆第2弾公演を無料プレミ",
-      "url": "https://news.nicovideo.jp/watch/nw19888079",
-      "host": "news.nicovideo.jp",
-      "source": "ニコニコニュース",
-      "summary": "",
-      "publishedAt": "2026-10-16T11:45:23.000Z",
-      "image": "",
-      "categories": [
-        "goods"
-      ],
-      "works": [
-        "tensura"
-      ],
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
@@ -2497,6 +2515,26 @@
       "isNew": false
     },
     {
+      "id": "8bd66553b8c8",
+      "title": "【舞台『転生したらスライムだった件』第3弾-魔王覚醒編＆八星輝翔編-上演記念】「転ステ」第1弾＆第2弾公演を無料プレミア公開決定！｜Infoseekニュース",
+      "url": "https://news.infoseek.co.jp/article/prtimes_000000827_000051825/",
+      "host": "news.infoseek.co.jp",
+      "source": "Infoseek",
+      "summary": "",
+      "publishedAt": "2026-10-16T03:00:00.000Z",
+      "image": "https://media.image.infoseek.co.jp/isnews/pc/img/noimage_203x120_busi-econ-1.0.png",
+      "categories": [
+        "goods"
+      ],
+      "works": [
+        "tensura"
+      ],
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": false
+    },
+    {
       "id": "bdcae550959c",
       "title": "「どうしてこうなった」絶望と歓喜が交錯!? 「過酷な運命に抗う姿」が熱かった2026夏の異世界アニメ (マグミクス)",
       "url": "https://news.yahoo.co.jp/articles/56990ee36c05cb4d154a641a79347b9a32f511be/images/002",
@@ -2550,7 +2588,7 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "681aa30b84f1",
@@ -2641,7 +2679,7 @@
       "source": "ABEMA",
       "summary": "",
       "publishedAt": "2026-10-16T00:04:40.000Z",
-      "image": "",
+      "image": "https://image.p-c2-x.abema-tv.com/image/programs/175-1rthzhecdme_s0_p63/thumb001.png?height=720&quality=75&version=1792039707&width=1280",
       "categories": [
         "game"
       ],
