@@ -1,18 +1,18 @@
 {
-  "updatedAt": "2026-10-17T23:30:17.422Z",
+  "updatedAt": "2026-10-18T00:00:17.250Z",
   "site": {
     "title": "なろう系まとめ",
     "tagline": "小説家になろう発の作品のアニメ化・コミカライズ・書籍化のニュースと、なろうのランキングをまとめています。",
     "url": "https://naroumatome.gamelab.website/",
     "contactUrl": "https://docs.google.com/forms/d/e/1FAIpQLSesWyhmZ6sRS_ve-c3X2KqF_wC5PK2TgwgQbTKmnQltSlg5Jw/viewform"
   },
-  "total": 116,
+  "total": 117,
   "todayCount": 1,
   "categories": [
     {
       "id": "anime",
       "label": "アニメ",
-      "count": 56
+      "count": 57
     },
     {
       "id": "comic",
@@ -50,7 +50,7 @@
       "id": "tensura",
       "title": "転生したらスライムだった件",
       "short": "転スラ",
-      "count": 17
+      "count": 18
     },
     {
       "id": "mushoku",
@@ -355,6 +355,10 @@
       "count": 3
     },
     {
+      "name": "ライブドアニュース",
+      "count": 3
+    },
+    {
       "name": "アニメイトタイムズ",
       "count": 2
     },
@@ -376,10 +380,6 @@
     },
     {
       "name": "パチンコ・パチスロ情報島＋",
-      "count": 2
-    },
-    {
-      "name": "ライブドアニュース",
       "count": 2
     },
     {
@@ -740,6 +740,41 @@
       ]
     },
     {
+      "id": "9ea363e9791c",
+      "title": "「鬼滅の刃」鬼舞辻、「転スラ」リムル、「オバロ」アインズ…慕われるリーダーから恐怖の支配者まで!? ボスキャラアニメ5選☆ボスの日記念【ABEMA】",
+      "summary": "ABEMAが「ボスの日」にちなみ、リーダーから恐怖の支配者までを描く5作品を紹介した。",
+      "url": "https://animeanime.jp/article/2026/10/16/103884.html",
+      "image": "https://animeanime.jp/imgs/rss/944150.jpg",
+      "leadSource": "アニメ！アニメ！",
+      "publishedAt": "2026-10-16T07:45:02.000Z",
+      "sourceCount": 3,
+      "articleCount": 3,
+      "categories": [
+        "anime"
+      ],
+      "keywords": [
+        "転スラ",
+        "リムル",
+        "鬼滅"
+      ],
+      "articles": [
+        {
+          "title": "現役高校生が選ぶ「 上司にしたいアニメキャラ」1位は? - 2位「転スラ」リムル、3位「鬼滅の刃」炭治郎",
+          "url": "https://news.mynavi.jp/article/20261015-5132504/",
+          "source": "マイナビニュース",
+          "publishedAt": "2026-10-15T06:48:32.000Z",
+          "isPR": false
+        },
+        {
+          "title": "【画像】現役高校生が選ぶ「 上司にしたいアニメキャラ」1位は? - 2位「転スラ」リムル、3位「鬼滅の刃」炭治郎",
+          "url": "https://news.livedoor.com/article/image_detail/32574253/?img_id",
+          "source": "ライブドアニュース",
+          "publishedAt": "2026-10-15T06:48:32.000Z",
+          "isPR": false
+        }
+      ]
+    },
+    {
       "id": "59fbcde34e69",
       "title": "〈待望の再販〉ファン大歓喜！【ダイソー】売り切れ前にチェック『薬屋のひとりごとグッズ』",
       "summary": "",
@@ -851,34 +886,6 @@
       ]
     },
     {
-      "id": "9ea363e9791c",
-      "title": "「鬼滅の刃」鬼舞辻、「転スラ」リムル、「オバロ」アインズ…慕われるリーダーから恐怖の支配者まで!? ボスキャラアニメ5選☆ボスの日記念【ABEMA】",
-      "summary": "ABEMAが「ボスの日」にちなみ、リーダーから恐怖の支配者までを描く5作品を紹介した。",
-      "url": "https://animeanime.jp/article/2026/10/16/103884.html",
-      "image": "https://animeanime.jp/imgs/rss/944150.jpg",
-      "leadSource": "アニメ！アニメ！",
-      "publishedAt": "2026-10-16T07:45:02.000Z",
-      "sourceCount": 2,
-      "articleCount": 2,
-      "categories": [
-        "anime"
-      ],
-      "keywords": [
-        "転スラ",
-        "リムル",
-        "鬼滅"
-      ],
-      "articles": [
-        {
-          "title": "現役高校生が選ぶ「 上司にしたいアニメキャラ」1位は? - 2位「転スラ」リムル、3位「鬼滅の刃」炭治郎",
-          "url": "https://news.mynavi.jp/article/20261015-5132504/",
-          "source": "マイナビニュース",
-          "publishedAt": "2026-10-15T06:48:32.000Z",
-          "isPR": false
-        }
-      ]
-    },
-    {
       "id": "2fd2be19daa6",
       "title": "アニメ『異世界でチート能力を手にした俺は、現実世界をも無双する 2nd Season』は2027年1月放送開始",
       "summary": "",
@@ -908,12 +915,12 @@
     }
   ],
   "churn": {
-    "previousAt": "2026-10-17T23:00:18.066Z",
-    "previousCount": 114,
-    "newCount": 3
+    "previousAt": "2026-10-17T23:30:17.422Z",
+    "previousCount": 116,
+    "newCount": 1
   },
   "updateGapMin": 30,
-  "nextUpdateAt": "2026-10-18T00:00:17.422Z",
+  "nextUpdateAt": "2026-10-18T00:30:17.250Z",
   "items": [
     {
       "id": "01371568aec8",
@@ -1069,7 +1076,7 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "7d620d97f79a",
@@ -1349,7 +1356,7 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "a9d38a7bb976",
@@ -2690,7 +2697,7 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "f705ece153d7",
@@ -3024,6 +3031,26 @@
       "viaGoogle": false,
       "sourceKind": "news",
       "isNew": false
+    },
+    {
+      "id": "b53b27d13534",
+      "title": "【画像】現役高校生が選ぶ「 上司にしたいアニメキャラ」1位は? - 2位「転スラ」リムル、3位「鬼滅の刃」炭治郎",
+      "url": "https://news.livedoor.com/article/image_detail/32574253/?img_id",
+      "host": "news.livedoor.com",
+      "source": "ライブドアニュース",
+      "summary": "",
+      "publishedAt": "2026-10-15T06:48:32.000Z",
+      "image": "https://image.news.livedoor.com/newsimage/stf/b/4/b45b4_1223_f3e8c3c625ca27e9484d0c51d55fcd5d.jpg",
+      "categories": [
+        "anime"
+      ],
+      "works": [
+        "tensura"
+      ],
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": true
     },
     {
       "id": "1b8c014d0f66",
