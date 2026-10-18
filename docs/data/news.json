@@ -1,12 +1,12 @@
 {
-  "updatedAt": "2026-10-18T20:00:17.412Z",
+  "updatedAt": "2026-10-18T20:30:17.629Z",
   "site": {
     "title": "なろう系まとめ",
     "tagline": "小説家になろう発の作品のアニメ化・コミカライズ・書籍化のニュースと、なろうのランキングをまとめています。",
     "url": "https://naroumatome.gamelab.website/",
     "contactUrl": "https://docs.google.com/forms/d/e/1FAIpQLSesWyhmZ6sRS_ve-c3X2KqF_wC5PK2TgwgQbTKmnQltSlg5Jw/viewform"
   },
-  "total": 109,
+  "total": 110,
   "todayCount": 6,
   "categories": [
     {
@@ -32,12 +32,12 @@
     {
       "id": "game",
       "label": "ゲーム",
-      "count": 6
+      "count": 7
     },
     {
       "id": "goods",
       "label": "グッズ・イベント",
-      "count": 24
+      "count": 25
     },
     {
       "id": "other",
@@ -62,13 +62,13 @@
       "id": "rezero",
       "title": "Re:ゼロから始める異世界生活",
       "short": "リゼロ",
-      "count": 11
+      "count": 12
     },
     {
       "id": "honzuki",
       "title": "本好きの下剋上",
       "short": "本好き",
-      "count": 1
+      "count": 0
     },
     {
       "id": "kusuriya",
@@ -424,6 +424,10 @@
     },
     {
       "name": "Infoseek",
+      "count": 1
+    },
+    {
+      "name": "神ゲー攻略",
       "count": 1
     },
     {
@@ -863,12 +867,12 @@
     }
   ],
   "churn": {
-    "previousAt": "2026-10-18T19:30:17.021Z",
-    "previousCount": 108,
-    "newCount": 1
+    "previousAt": "2026-10-18T20:00:17.412Z",
+    "previousCount": 109,
+    "newCount": 2
   },
   "updateGapMin": 30,
-  "nextUpdateAt": "2026-10-18T20:30:17.412Z",
+  "nextUpdateAt": "2026-10-18T21:00:17.629Z",
   "items": [
     {
       "id": "acce11e34092",
@@ -1098,26 +1102,6 @@
       "isNew": false
     },
     {
-      "id": "ff26872e580d",
-      "title": "アニメ『本好きの下剋上 領主の養女』第2クールOPノンクレジット映像「Power Of Love」西野カナ/毎週土曜夕方5時半～放送中！ Catanzaro Informa (geeGqPHTxX)",
-      "url": "https://media.unisba.ac.id/2d215dd2/a510522b3BlCT0_r6RQ",
-      "host": "media.unisba.ac.id",
-      "source": "Unisba Media",
-      "summary": "",
-      "publishedAt": "2026-10-18T03:43:53.000Z",
-      "image": "",
-      "categories": [
-        "anime"
-      ],
-      "works": [
-        "honzuki"
-      ],
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": true
-    },
-    {
       "id": "ca2a3b2c1703",
       "title": "TVアニメ『ヘルモード ～やり込み好きのゲーマーは廃設定の異世界で無双する～』2nd Seasonノンクレジットオープニング映像｜浪漫派マシュマロ 「○✕△□」 Ryan Miller (QzI4wdpj4J)",
       "url": "https://media.unisba.ac.id/1b22efe8/8e5f68b7LxwtDi5qRR8mODs",
@@ -1273,6 +1257,24 @@
       "viaGoogle": false,
       "sourceKind": "news",
       "isNew": false
+    },
+    {
+      "id": "97bd2fc3c06c",
+      "title": "TVアニメ『凶乱令嬢ニア・リストン 病弱令嬢に転生した神殺しの武人の華麗なる無双録』第2弾PV Astros - Reds (kEFkJBxvzW)",
+      "url": "https://media.unisba.ac.id/aa48bb1a/1d4a5584VAgKOBlrKhwTRQE/?share",
+      "host": "media.unisba.ac.id",
+      "source": "Unisba Media",
+      "summary": "",
+      "publishedAt": "2026-10-18T01:23:05.000Z",
+      "image": "",
+      "categories": [
+        "anime"
+      ],
+      "works": [],
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": true
     },
     {
       "id": "7e100d548d01",
@@ -2654,6 +2656,27 @@
       "viaGoogle": false,
       "sourceKind": "news",
       "isNew": false
+    },
+    {
+      "id": "910e88fa5512",
+      "title": "【パズドラ】 リゼロコラボの当たりと評価｜引くべき？",
+      "url": "https://kamigame.jp/puzzle-dragons/%E3%82%A4%E3%83%99%E3%83%B3%E3%83%88%E6%83%85%E5%A0%B1/%E3%83%AA%E3%82%BC%E3%83%AD%E3%82%B3%E3%83%A9%E3%83%9C.html",
+      "host": "kamigame.jp",
+      "source": "神ゲー攻略",
+      "summary": "",
+      "publishedAt": "2026-10-16T04:28:28.000Z",
+      "image": "https://img.kamigame.jp/WTgv7enJlkf1dvQpWxg9yYpg9bjqPgK3fzeD_1-RXPGdBsDjRR5Sk5ZafO5ixFKlLOZVc_kuoXryLh8BsH2k8Km8b0YOy1SI3UiRa2aUDgSV",
+      "categories": [
+        "game",
+        "goods"
+      ],
+      "works": [
+        "rezero"
+      ],
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": true
     },
     {
       "id": "69fe15300ae0",
