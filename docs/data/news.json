@@ -1,18 +1,18 @@
 {
-  "updatedAt": "2026-10-18T19:30:17.021Z",
+  "updatedAt": "2026-10-18T20:00:17.412Z",
   "site": {
     "title": "なろう系まとめ",
     "tagline": "小説家になろう発の作品のアニメ化・コミカライズ・書籍化のニュースと、なろうのランキングをまとめています。",
     "url": "https://naroumatome.gamelab.website/",
     "contactUrl": "https://docs.google.com/forms/d/e/1FAIpQLSesWyhmZ6sRS_ve-c3X2KqF_wC5PK2TgwgQbTKmnQltSlg5Jw/viewform"
   },
-  "total": 108,
-  "todayCount": 5,
+  "total": 109,
+  "todayCount": 6,
   "categories": [
     {
       "id": "anime",
       "label": "アニメ",
-      "count": 53
+      "count": 54
     },
     {
       "id": "comic",
@@ -68,7 +68,7 @@
       "id": "honzuki",
       "title": "本好きの下剋上",
       "short": "本好き",
-      "count": 0
+      "count": 1
     },
     {
       "id": "kusuriya",
@@ -295,12 +295,12 @@
   ],
   "sources": [
     {
-      "name": "Yahoo!ニュース",
+      "name": "Unisba Media",
       "count": 11
     },
     {
-      "name": "Unisba Media",
-      "count": 10
+      "name": "Yahoo!ニュース",
+      "count": 11
     },
     {
       "name": "アニメ！アニメ！",
@@ -863,13 +863,33 @@
     }
   ],
   "churn": {
-    "previousAt": "2026-10-18T19:00:17.650Z",
-    "previousCount": 109,
+    "previousAt": "2026-10-18T19:30:17.021Z",
+    "previousCount": 108,
     "newCount": 1
   },
   "updateGapMin": 30,
-  "nextUpdateAt": "2026-10-18T20:00:17.021Z",
+  "nextUpdateAt": "2026-10-18T20:30:17.412Z",
   "items": [
+    {
+      "id": "acce11e34092",
+      "title": "劇場版『薬屋のひとりごと』新PV解禁 追加キャストに飛田展男、渡辺久美子、野島裕史",
+      "url": "https://www.sanyonews.jp/article/2003381",
+      "host": "sanyonews.jp",
+      "source": "山陽新聞",
+      "summary": "",
+      "publishedAt": "2026-10-18T18:12:57.000Z",
+      "image": "https://static.sanyonews.jp/image/article/size1/3/4/f/0/34f03ea0cd340d8f9867ab4d1f882517_1.jpg",
+      "categories": [
+        "anime"
+      ],
+      "works": [
+        "kusuriya"
+      ],
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": false
+    },
     {
       "id": "68a803fd3c5e",
       "title": "転生したら剣でした3期はいつ？2期放送中の公式状況と原作の続き",
@@ -1075,6 +1095,26 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
+      "isNew": false
+    },
+    {
+      "id": "ff26872e580d",
+      "title": "アニメ『本好きの下剋上 領主の養女』第2クールOPノンクレジット映像「Power Of Love」西野カナ/毎週土曜夕方5時半～放送中！ Catanzaro Informa (geeGqPHTxX)",
+      "url": "https://media.unisba.ac.id/2d215dd2/a510522b3BlCT0_r6RQ",
+      "host": "media.unisba.ac.id",
+      "source": "Unisba Media",
+      "summary": "",
+      "publishedAt": "2026-10-18T03:43:53.000Z",
+      "image": "",
+      "categories": [
+        "anime"
+      ],
+      "works": [
+        "honzuki"
+      ],
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
       "isNew": true
     },
     {
@@ -1264,26 +1304,6 @@
       "categories": [
         "book",
         "goods"
-      ],
-      "works": [
-        "kusuriya"
-      ],
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": false
-    },
-    {
-      "id": "acce11e34092",
-      "title": "劇場版『薬屋のひとりごと』新PV解禁 追加キャストに飛田展男、渡辺久美子、野島裕史",
-      "url": "https://www.sanyonews.jp/article/2003381",
-      "host": "sanyonews.jp",
-      "source": "山陽新聞",
-      "summary": "",
-      "publishedAt": "2026-10-17T21:01:44.000Z",
-      "image": "https://static.sanyonews.jp/image/article/size1/3/4/f/0/34f03ea0cd340d8f9867ab4d1f882517_1.jpg",
-      "categories": [
-        "anime"
       ],
       "works": [
         "kusuriya"
