@@ -1,18 +1,18 @@
 {
-  "updatedAt": "2026-10-18T22:00:17.936Z",
+  "updatedAt": "2026-10-18T22:28:40.137Z",
   "site": {
     "title": "なろう系まとめ",
     "tagline": "小説家になろう発の作品のアニメ化・コミカライズ・書籍化のニュースと、なろうのランキングをまとめています。",
     "url": "https://naroumatome.gamelab.website/",
     "contactUrl": "https://docs.google.com/forms/d/e/1FAIpQLSesWyhmZ6sRS_ve-c3X2KqF_wC5PK2TgwgQbTKmnQltSlg5Jw/viewform"
   },
-  "total": 107,
+  "total": 105,
   "todayCount": 7,
   "categories": [
     {
       "id": "anime",
       "label": "アニメ",
-      "count": 54
+      "count": 51
     },
     {
       "id": "comic",
@@ -42,7 +42,7 @@
     {
       "id": "other",
       "label": "そのほか",
-      "count": 20
+      "count": 21
     }
   ],
   "works": [
@@ -68,13 +68,13 @@
       "id": "honzuki",
       "title": "本好きの下剋上",
       "short": "本好き",
-      "count": 1
+      "count": 0
     },
     {
       "id": "kusuriya",
       "title": "薬屋のひとりごと",
       "short": "薬屋",
-      "count": 31
+      "count": 30
     },
     {
       "id": "kagejitsu",
@@ -295,12 +295,12 @@
   ],
   "sources": [
     {
-      "name": "Unisba Media",
+      "name": "Yahoo!ニュース",
       "count": 12
     },
     {
-      "name": "Yahoo!ニュース",
-      "count": 12
+      "name": "Unisba Media",
+      "count": 10
     },
     {
       "name": "アニメ！アニメ！",
@@ -316,7 +316,11 @@
     },
     {
       "name": "山陽新聞",
-      "count": 6
+      "count": 5
+    },
+    {
+      "name": "ナタリー",
+      "count": 5
     },
     {
       "name": "ABEMA TIMES",
@@ -332,10 +336,6 @@
     },
     {
       "name": "GameWith",
-      "count": 4
-    },
-    {
-      "name": "ナタリー",
       "count": 4
     },
     {
@@ -573,41 +573,6 @@
       ]
     },
     {
-      "id": "d9931edfee03",
-      "title": "劇場版 薬屋のひとりごと 亡妃の秘宝＞第3弾PV公開＆壬氏一行を狙う水賊・化蛇団メンバーに小野賢章ら決定",
-      "summary": "",
-      "url": "https://thetv.jp/news/detail/1448116/landing/?utm_source",
-      "image": "https://static.sanyonews.jp/image/article/size1/8/2/f/5/82f54b9ccac21e53b38bd7a273f57d06_1.jpg",
-      "leadSource": "WEBザテレビジョン",
-      "publishedAt": "2026-10-18T14:50:08.000Z",
-      "sourceCount": 2,
-      "articleCount": 3,
-      "categories": [
-        "anime"
-      ],
-      "keywords": [
-        "薬屋",
-        "劇場版",
-        "壬氏一行"
-      ],
-      "articles": [
-        {
-          "title": "劇場版『薬屋のひとりごと』新PV解禁 小野賢章、化蛇団の水蛇役「明らかに悪そうな顔してますが、、、笑」",
-          "url": "https://www.sanyonews.jp/article/2003638",
-          "source": "山陽新聞",
-          "publishedAt": "2026-10-17T17:08:22.000Z",
-          "isPR": false
-        },
-        {
-          "title": "『薬屋のひとりごと』初の劇場版、4日連続キャラクターPV解禁 第1弾は猫猫・壬氏一行",
-          "url": "https://www.sanyonews.jp/article/2003085?rct",
-          "source": "山陽新聞",
-          "publishedAt": "2026-10-16T21:28:56.000Z",
-          "isPR": false
-        }
-      ]
-    },
-    {
       "id": "eda1d1a92f10",
       "title": "薬屋のひとりごと＞猫猫は、“湖に消えた美しい天女の伝説”を聞く…第50話あらすじ＆先行カット公開",
       "summary": "",
@@ -702,6 +667,34 @@
           "url": "https://www.chiba-tv.com/vod-db/tsuihou-jukishi-anime/",
           "source": "千葉テレビ放送株式会社",
           "publishedAt": "2026-10-16T20:23:35.000Z",
+          "isPR": false
+        }
+      ]
+    },
+    {
+      "id": "d9931edfee03",
+      "title": "劇場版 薬屋のひとりごと 亡妃の秘宝＞第3弾PV公開＆壬氏一行を狙う水賊・化蛇団メンバーに小野賢章ら決定",
+      "summary": "",
+      "url": "https://thetv.jp/news/detail/1448116/landing/?utm_source",
+      "image": "https://static.sanyonews.jp/image/article/size1/8/2/f/5/82f54b9ccac21e53b38bd7a273f57d06_1.jpg",
+      "leadSource": "WEBザテレビジョン",
+      "publishedAt": "2026-10-18T14:50:08.000Z",
+      "sourceCount": 2,
+      "articleCount": 2,
+      "categories": [
+        "anime"
+      ],
+      "keywords": [
+        "薬屋",
+        "劇場版",
+        "化蛇団"
+      ],
+      "articles": [
+        {
+          "title": "劇場版『薬屋のひとりごと』新PV解禁 小野賢章、化蛇団の水蛇役「明らかに悪そうな顔してますが、、、笑」",
+          "url": "https://www.sanyonews.jp/article/2003638",
+          "source": "山陽新聞",
+          "publishedAt": "2026-10-17T17:08:22.000Z",
           "isPR": false
         }
       ]
@@ -844,12 +837,12 @@
     }
   ],
   "churn": {
-    "previousAt": "2026-10-18T21:30:17.895Z",
-    "previousCount": 109,
-    "newCount": 2
+    "previousAt": "2026-10-18T22:00:17.936Z",
+    "previousCount": 107,
+    "newCount": 1
   },
   "updateGapMin": 30,
-  "nextUpdateAt": "2026-10-18T22:30:17.936Z",
+  "nextUpdateAt": "2026-10-18T22:58:40.137Z",
   "items": [
     {
       "id": "528ab15ffd00",
@@ -879,7 +872,7 @@
       "source": "山陽新聞",
       "summary": "",
       "publishedAt": "2026-10-18T18:12:57.000Z",
-      "image": "",
+      "image": "https://static.sanyonews.jp/image/article/size1/3/4/f/0/34f03ea0cd340d8f9867ab4d1f882517_1.jpg",
       "categories": [
         "anime"
       ],
@@ -1021,7 +1014,7 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "ce9c99bcd082",
@@ -1074,26 +1067,6 @@
         "anime"
       ],
       "works": [],
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": true
-    },
-    {
-      "id": "ff26872e580d",
-      "title": "アニメ『本好きの下剋上 領主の養女』第2クールOPノンクレジット映像「Power Of Love」西野カナ/毎週土曜夕方5時半～放送中！ Catanzaro Informa (geeGqPHTxX)",
-      "url": "https://media.unisba.ac.id/2d215dd2/a510522b3BlCT0_r6RQ",
-      "host": "media.unisba.ac.id",
-      "source": "Unisba Media",
-      "summary": "",
-      "publishedAt": "2026-10-18T03:43:53.000Z",
-      "image": "",
-      "categories": [
-        "anime"
-      ],
-      "works": [
-        "honzuki"
-      ],
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
@@ -1263,24 +1236,6 @@
       "summary": "",
       "publishedAt": "2026-10-18T00:04:41.000Z",
       "image": "https://www.galpo.info/sites/default/files/2026-10/310_ArtistPhoto_2026_0.jpg",
-      "categories": [
-        "anime"
-      ],
-      "works": [],
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": false
-    },
-    {
-      "id": "7753ed8d7919",
-      "title": "【異世界アニメ】スライムより弱い貝殻に転生したんだが？ Italy Vs England (WYBjhGcdNr)",
-      "url": "https://media.unisba.ac.id/d6a4ce98/10b8fee5WS8NBlNEPTgLMCM",
-      "host": "media.unisba.ac.id",
-      "source": "Unisba Media",
-      "summary": "",
-      "publishedAt": "2026-10-17T23:59:11.000Z",
-      "image": "",
       "categories": [
         "anime"
       ],
@@ -1652,6 +1607,24 @@
       "isNew": false
     },
     {
+      "id": "200b6c886587",
+      "title": "「天才詐欺師の異世界世直し」試し読み [画像ギャラリー 7/9]",
+      "url": "https://natalie.mu/comic/gallery/news/691495/2979262",
+      "host": "natalie.mu",
+      "source": "ナタリー",
+      "summary": "",
+      "publishedAt": "2026-10-17T02:47:35.000Z",
+      "image": "",
+      "categories": [
+        "other"
+      ],
+      "works": [],
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": true
+    },
+    {
       "id": "a9d38a7bb976",
       "title": "「メロすぎる」「トップクラスで好き」…「薬屋のひとりごと」シゴデキ男衆・右叫に沼る視聴者が続出!! 過酷な現実に立ち向かう少女には「泣ける」の声も【第51話ネタバレあり反応まとめ】",
       "url": "https://animeanime.jp/article/2026/10/17/103900.html",
@@ -1797,26 +1770,6 @@
       "source": "Yahoo!ニュース",
       "summary": "",
       "publishedAt": "2026-10-16T22:05:00.000Z",
-      "image": "",
-      "categories": [
-        "anime"
-      ],
-      "works": [
-        "kusuriya"
-      ],
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": false
-    },
-    {
-      "id": "a4f8890333de",
-      "title": "『薬屋のひとりごと』初の劇場版、4日連続キャラクターPV解禁 第1弾は猫猫・壬氏一行",
-      "url": "https://www.sanyonews.jp/article/2003085?rct",
-      "host": "sanyonews.jp",
-      "source": "山陽新聞",
-      "summary": "",
-      "publishedAt": "2026-10-16T21:28:56.000Z",
       "image": "",
       "categories": [
         "anime"
