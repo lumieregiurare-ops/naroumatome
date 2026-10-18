@@ -1,18 +1,18 @@
 {
-  "updatedAt": "2026-10-18T01:30:17.453Z",
+  "updatedAt": "2026-10-18T02:00:21.109Z",
   "site": {
     "title": "なろう系まとめ",
     "tagline": "小説家になろう発の作品のアニメ化・コミカライズ・書籍化のニュースと、なろうのランキングをまとめています。",
     "url": "https://naroumatome.gamelab.website/",
     "contactUrl": "https://docs.google.com/forms/d/e/1FAIpQLSesWyhmZ6sRS_ve-c3X2KqF_wC5PK2TgwgQbTKmnQltSlg5Jw/viewform"
   },
-  "total": 114,
-  "todayCount": 2,
+  "total": 117,
+  "todayCount": 4,
   "categories": [
     {
       "id": "anime",
       "label": "アニメ",
-      "count": 54
+      "count": 56
     },
     {
       "id": "comic",
@@ -22,7 +22,7 @@
     {
       "id": "book",
       "label": "書籍・ラノベ",
-      "count": 10
+      "count": 11
     },
     {
       "id": "web",
@@ -37,7 +37,7 @@
     {
       "id": "goods",
       "label": "グッズ・イベント",
-      "count": 28
+      "count": 29
     },
     {
       "id": "other",
@@ -50,7 +50,7 @@
       "id": "tensura",
       "title": "転生したらスライムだった件",
       "short": "転スラ",
-      "count": 17
+      "count": 18
     },
     {
       "id": "mushoku",
@@ -74,7 +74,7 @@
       "id": "kusuriya",
       "title": "薬屋のひとりごと",
       "short": "薬屋",
-      "count": 30
+      "count": 32
     },
     {
       "id": "kagejitsu",
@@ -300,7 +300,11 @@
     },
     {
       "name": "Yahoo!ニュース",
-      "count": 10
+      "count": 11
+    },
+    {
+      "name": "ラノベニュースオンライン",
+      "count": 8
     },
     {
       "name": "ナタリー",
@@ -308,10 +312,6 @@
     },
     {
       "name": "AppMedia",
-      "count": 7
-    },
-    {
-      "name": "ラノベニュースオンライン",
       "count": 7
     },
     {
@@ -327,6 +327,10 @@
       "count": 5
     },
     {
+      "name": "電撃オンライン",
+      "count": 4
+    },
+    {
       "name": "Howl.link",
       "count": 4
     },
@@ -336,10 +340,6 @@
     },
     {
       "name": "ｄメニューニュース",
-      "count": 3
-    },
-    {
-      "name": "電撃オンライン",
       "count": 3
     },
     {
@@ -371,11 +371,11 @@
       "count": 2
     },
     {
-      "name": "ニコニコニュース",
+      "name": "はてなブログ",
       "count": 2
     },
     {
-      "name": "はてなブログ",
+      "name": "Infoseek",
       "count": 2
     },
     {
@@ -419,10 +419,6 @@
       "count": 1
     },
     {
-      "name": "Infoseek",
-      "count": 1
-    },
-    {
       "name": "オリコンニュース",
       "count": 1
     },
@@ -440,6 +436,10 @@
     },
     {
       "name": "アニメハック",
+      "count": 1
+    },
+    {
+      "name": "ニコニコニュース",
       "count": 1
     },
     {
@@ -762,6 +762,60 @@
       ]
     },
     {
+      "id": "16590289d213",
+      "title": "アニメ『薬屋のひとりごと』とダーマコスメティックブランド「REJURAN COSMETICS」のコラボポップアップイベントが開催中",
+      "summary": "",
+      "url": "https://ln-news.com/articles/126981",
+      "image": "https://assets.ln-news.com/images/medias/0098fd0db2d042d9b5e7e7fd195e13a7.jpg",
+      "leadSource": "ラノベニュースオンライン",
+      "publishedAt": "2026-10-18T02:00:00.000Z",
+      "sourceCount": 2,
+      "articleCount": 2,
+      "categories": [
+        "goods",
+        "anime"
+      ],
+      "keywords": [
+        "薬屋"
+      ],
+      "articles": [
+        {
+          "title": "アニメ『薬屋のひとりごと』とのコラボカフェ第3弾の開催が決定！",
+          "url": "https://www.sweets-paradise.jp/collaboration/kusuriyanohitorigoto3",
+          "source": "公式スイーツパラダイス",
+          "publishedAt": "2026-10-16T03:02:43.000Z",
+          "isPR": false
+        }
+      ]
+    },
+    {
+      "id": "81df4f5804ed",
+      "title": "『転スラ 美食伝』最新刊7巻。ペコたちの前に饗宴評議会が立ちふさがる！（ネタバレあり）",
+      "summary": "",
+      "url": "http://news.dengeki.com/article/202610/90777",
+      "image": "https://cimg.kgl-systems.io/camion/files/90777/ogp_ctxp.jpg?x=1280",
+      "leadSource": "電撃オンライン",
+      "publishedAt": "2026-10-18T01:40:00.000Z",
+      "sourceCount": 2,
+      "articleCount": 2,
+      "categories": [
+        "book",
+        "game"
+      ],
+      "keywords": [
+        "転スラ"
+      ],
+      "articles": [
+        {
+          "title": "【まおりゅう】ガチャはどれを引くべき？【転スラ】",
+          "url": "https://appmedia.jp/ten-sura-m/27053896",
+          "source": "AppMedia",
+          "publishedAt": "2026-10-16T07:00:00.000Z",
+          "isPR": false
+        }
+      ]
+    },
+    {
       "id": "7e100d548d01",
       "title": "多次元シンガー・310、TVアニメ『信者ゼロの女神サマと始める異世界攻略』オープニングテーマ「未来の足跡」配信スタート！",
       "summary": "",
@@ -785,33 +839,6 @@
           "url": "https://www.ota-suke.jp/news/292370",
           "source": "おた☆スケ",
           "publishedAt": "2026-10-17T07:34:00.000Z",
-          "isPR": false
-        }
-      ]
-    },
-    {
-      "id": "59fbcde34e69",
-      "title": "〈待望の再販〉ファン大歓喜！【ダイソー】売り切れ前にチェック『薬屋のひとりごとグッズ』",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQUFd1bjRoUi1KNGZfSnFfeGpFUktHamt5TUtqcG10TWxDWGtYWmVWNzVlZmFfRVZLNnEtWjBfd2t0cU91T2NNZmxJcEZ3TjFVUkpnQS10RnVFZldHbGJTVjJCLVcySEVrUlJqaU0wVFhLY2RUTHg0ZDVvdzNiWjZuRWotOGFlbVE1ckhCNmxrMUE5MmNsWTBrUHllWmFNZkh2c1HSAacBQVVfeXFMTzhUSnRhamZfMmI5Y3JROTNMUU1HSnNxVTZhNEpCLXFxUzM4cUM4cUY0cENGNXFHZGQ4ZE8wLW1UQXFDSFNrMnVhVGNMQU1xMUdLa2ZENEFXNmRvVjNLay1QcWlYbE5lV2xvYVJDZUVhSzNrdktOenFJUjFySElvR3pTZVJ6QzVsZ1h0NXF2ZUEtZFhOejRhbG1FZW5MQ3RGQnRWZzliLVE?oc=5",
-      "image": "https://www.sweets-paradise.jp/wp-content/uploads/2026/10/2610_薬屋_アイキャッチ画像_w750×h511.jpg",
-      "leadSource": "ｄメニューニュース",
-      "publishedAt": "2026-10-17T13:22:28.000Z",
-      "sourceCount": 2,
-      "articleCount": 2,
-      "categories": [
-        "goods",
-        "anime"
-      ],
-      "keywords": [
-        "薬屋"
-      ],
-      "articles": [
-        {
-          "title": "アニメ『薬屋のひとりごと』とのコラボカフェ第3弾の開催が決定！",
-          "url": "https://www.sweets-paradise.jp/collaboration/kusuriyanohitorigoto3",
-          "source": "公式スイーツパラダイス",
-          "publishedAt": "2026-10-16T03:02:43.000Z",
           "isPR": false
         }
       ]
@@ -846,72 +873,83 @@
       ]
     },
     {
-      "id": "b64c7f63d39f",
-      "title": "「薬屋のひとりごと」キョンシー猫猫が可愛すぎる♡壬氏さまは美しい九尾に!?ハロウィンにぴったりなフィギュアが新登場",
-      "summary": "アニメ『薬屋のひとりごと』より、キョンシー姿の猫猫と、九尾姿の壬氏のフィギュアが登場。2026年10月より順次、アミューズメント施設にて展開される。",
-      "url": "https://animeanime.jp/article/2026/10/16/103888.html",
-      "image": "https://animeanime.jp/imgs/rss/944139.jpg",
-      "leadSource": "アニメ！アニメ！",
-      "publishedAt": "2026-10-16T08:45:03.000Z",
+      "id": "34210dc3e741",
+      "title": "「転ステ」第1弾・第2弾が無料プレミア公開決定！転スラ舞台第3弾上演記念",
+      "summary": "",
+      "url": "https://koubo.jp/article/131843",
+      "image": "https://koubo-dz7cn3ci.s3.ap-northeast-1.amazonaws.com/strapi/article_131843_keyvisual_cb262e5b32.jpeg",
+      "leadSource": "Koubo",
+      "publishedAt": "2026-10-17T06:05:17.000Z",
       "sourceCount": 2,
       "articleCount": 2,
       "categories": [
-        "anime",
         "goods"
       ],
       "keywords": [
-        "薬屋",
-        "キョンシー",
-        "フィギュア"
+        "プレミア",
+        "無料",
+        "公開決定"
       ],
       "articles": [
         {
-          "title": "『薬屋のひとりごと』キョンシー姿の「猫猫」、九尾姿の「壬氏」がシステムサービスの「BRILLIANTフィギュア」からプライズ化！",
-          "url": "https://hobby.dengeki.com/news/3199359/",
-          "source": "電撃ホビーウェブ",
-          "publishedAt": "2026-10-16T07:50:00.000Z",
+          "title": "【舞台『転生したらスライムだった件』第3弾-魔王覚醒編＆八星輝翔編-上演記念】「転ステ」第1弾＆第2弾公演を無料プレミア公開決定！｜Infoseekニュース",
+          "url": "https://news.infoseek.co.jp/article/prtimes_000000827_000051825/",
+          "source": "Infoseek",
+          "publishedAt": "2026-10-16T03:00:00.000Z",
           "isPR": false
-        }
-      ]
-    },
-    {
-      "id": "4cba470c8bfd",
-      "title": "「薬屋のひとりごと×茨城県」壬氏様のハーブティーがまさに麗し…！ 10月17日よりコラボメニュー＆グッズ第2弾発売",
-      "summary": "アニメ『薬屋のひとりごと』とのコラボレーションによる、「IBARAKI is Blossoming（いま、いばらきが咲いている）」のコンセプトを掲げた観光プロモーションが茨城県で展開中だ。このたび、2026年10月17日からのコラボスタンプラリー第2弾「IBARAKI is Blossoming 続 薬屋の巡遊録」の…",
-      "url": "https://animeanime.jp/article/2026/10/16/103885.html",
-      "image": "https://animeanime.jp/imgs/rss/944058.jpg",
-      "leadSource": "アニメ！アニメ！",
-      "publishedAt": "2026-10-16T08:00:04.000Z",
-      "sourceCount": 2,
-      "articleCount": 2,
-      "categories": [
-        "goods",
-        "anime"
-      ],
-      "keywords": [
-        "薬屋",
-        "コラボメニュー",
-        "グッズ"
-      ],
-      "articles": [
-        {
-          "title": "茨城県×アニメ『薬屋のひとりごと』、10月17日(土)からコラボメニューと第2弾オリジナルグッズ販売開始",
-          "url": "https://prtimes.jp/main/html/rd/p/000000022.000165784.html",
-          "source": "PR TIMES",
-          "publishedAt": "2026-10-16T01:00:01.000Z",
-          "isPR": true
         }
       ]
     }
   ],
   "churn": {
-    "previousAt": "2026-10-18T01:00:17.290Z",
-    "previousCount": 117,
-    "newCount": 2
+    "previousAt": "2026-10-18T01:30:17.453Z",
+    "previousCount": 114,
+    "newCount": 3
   },
   "updateGapMin": 30,
-  "nextUpdateAt": "2026-10-18T02:00:17.453Z",
+  "nextUpdateAt": "2026-10-18T02:30:21.109Z",
   "items": [
+    {
+      "id": "16590289d213",
+      "title": "アニメ『薬屋のひとりごと』とダーマコスメティックブランド「REJURAN COSMETICS」のコラボポップアップイベントが開催中",
+      "url": "https://ln-news.com/articles/126981",
+      "host": "ln-news.com",
+      "source": "ラノベニュースオンライン",
+      "summary": "",
+      "publishedAt": "2026-10-18T02:00:00.000Z",
+      "image": "https://assets.ln-news.com/images/medias/0098fd0db2d042d9b5e7e7fd195e13a7.jpg",
+      "categories": [
+        "goods",
+        "anime"
+      ],
+      "works": [
+        "kusuriya"
+      ],
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": true
+    },
+    {
+      "id": "81df4f5804ed",
+      "title": "『転スラ 美食伝』最新刊7巻。ペコたちの前に饗宴評議会が立ちふさがる！（ネタバレあり）",
+      "url": "http://news.dengeki.com/article/202610/90777",
+      "host": "news.dengeki.com",
+      "source": "電撃オンライン",
+      "summary": "",
+      "publishedAt": "2026-10-18T01:40:00.000Z",
+      "image": "https://cimg.kgl-systems.io/camion/files/90777/ogp_ctxp.jpg?x=1280",
+      "categories": [
+        "book"
+      ],
+      "works": [
+        "tensura"
+      ],
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": true
+    },
     {
       "id": "7e100d548d01",
       "title": "多次元シンガー・310、TVアニメ『信者ゼロの女神サマと始める異世界攻略』オープニングテーマ「未来の足跡」配信スタート！",
@@ -1521,7 +1559,7 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "8bdad10a76fc",
@@ -1638,6 +1676,26 @@
       "viaGoogle": false,
       "sourceKind": "news",
       "isNew": false
+    },
+    {
+      "id": "9c7378041595",
+      "title": "高級妓女のボディタッチに超赤面！初心すぎる馬閃に「反応可愛っ」アニメ『薬屋のひとりごと』51話（ABEMA TIMES）",
+      "url": "https://news.yahoo.co.jp/articles/41c0504fccbe9394082d7021331a7d32689c0f7b",
+      "host": "news.yahoo.co.jp",
+      "source": "Yahoo!ニュース",
+      "summary": "",
+      "publishedAt": "2026-10-16T15:06:17.000Z",
+      "image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20261017-10281513-abemad-000-2-view.jpg?exp=10800",
+      "categories": [
+        "anime"
+      ],
+      "works": [
+        "kusuriya"
+      ],
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": true
     },
     {
       "id": "00254e681c16",
@@ -1809,26 +1867,6 @@
         "book"
       ],
       "works": [],
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": false
-    },
-    {
-      "id": "8bd66553b8c8",
-      "title": "【舞台『転生したらスライムだった件』第3弾-魔王覚醒編＆八星輝翔編-上演記念】「転ステ」第1弾＆第2弾公演を無料プレミ",
-      "url": "https://news.nicovideo.jp/watch/nw19888079?news_ref",
-      "host": "news.nicovideo.jp",
-      "source": "ニコニコニュース",
-      "summary": "",
-      "publishedAt": "2026-10-16T11:45:23.000Z",
-      "image": "",
-      "categories": [
-        "goods"
-      ],
-      "works": [
-        "tensura"
-      ],
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
@@ -2034,7 +2072,7 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "9ea363e9791c",
@@ -2415,6 +2453,26 @@
       "isNew": false
     },
     {
+      "id": "8bd66553b8c8",
+      "title": "【舞台『転生したらスライムだった件』第3弾-魔王覚醒編＆八星輝翔編-上演記念】「転ステ」第1弾＆第2弾公演を無料プレミア公開決定！｜Infoseekニュース",
+      "url": "https://news.infoseek.co.jp/article/prtimes_000000827_000051825/",
+      "host": "news.infoseek.co.jp",
+      "source": "Infoseek",
+      "summary": "",
+      "publishedAt": "2026-10-16T03:00:00.000Z",
+      "image": "https://media.image.infoseek.co.jp/isnews/pc/img/noimage_203x120_busi-econ-1.0.png",
+      "categories": [
+        "goods"
+      ],
+      "works": [
+        "tensura"
+      ],
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": false
+    },
+    {
       "id": "bdcae550959c",
       "title": "「どうしてこうなった」絶望と歓喜が交錯!? 「過酷な運命に抗う姿」が熱かった2026夏の異世界アニメ (マグミクス)",
       "url": "https://news.yahoo.co.jp/articles/56990ee36c05cb4d154a641a79347b9a32f511be/images/002",
@@ -2768,13 +2826,13 @@
     },
     {
       "id": "3574896d2431",
-      "title": "薬屋のひとりごと＞怒る猫猫 謎の焼き菓子が！ 第51話「麺麭がなければ」カット公開 (MANTANWEB)",
-      "url": "https://news.yahoo.co.jp/articles/6055b9d30db4bb18cf66c46866620583a02c4558/images/000",
+      "title": "薬屋のひとりごと＞怒る猫猫 謎の焼き菓子が！ 第51話「麺麭がなければ」カット公開（MANTANWEB）",
+      "url": "https://news.yahoo.co.jp/articles/6055b9d30db4bb18cf66c46866620583a02c4558",
       "host": "news.yahoo.co.jp",
       "source": "Yahoo!ニュース",
       "summary": "",
       "publishedAt": "2026-10-15T10:37:00.000Z",
-      "image": "https://news-pctr.c.yimg.jp/uUzvQ3lML_bkIqyakc1vFhNrRI0RUQxg5aFkrX0xDg1_T0wXrbEJjtNGtrf1o9y3xudcUclfbXjZqAvGT8NJnYgYQDXYEbtIIrv6H2dU6LjZy6RqmxHYOuOpZVP1GgR8tPYgUYDS4PoAv9pgZPr78jOTgvmJ4uAmInGrlHlm_67lUfy671F451AwkOiz7Zo1HqfM_HAkcWJnQmUPMFAeFQ==",
+      "image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20261015-00000070-mantan-000-1-view.jpg?exp=10800",
       "categories": [
         "anime"
       ],
