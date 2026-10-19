@@ -1,18 +1,18 @@
 {
-  "updatedAt": "2026-10-19T17:00:17.612Z",
+  "updatedAt": "2026-10-19T17:30:24.457Z",
   "site": {
     "title": "なろう系まとめ",
     "tagline": "小説家になろう発の作品のアニメ化・コミカライズ・書籍化のニュースと、なろうのランキングをまとめています。",
     "url": "https://naroumatome.gamelab.website/",
     "contactUrl": "https://docs.google.com/forms/d/e/1FAIpQLSesWyhmZ6sRS_ve-c3X2KqF_wC5PK2TgwgQbTKmnQltSlg5Jw/viewform"
   },
-  "total": 102,
-  "todayCount": 0,
+  "total": 101,
+  "todayCount": 1,
   "categories": [
     {
       "id": "anime",
       "label": "アニメ",
-      "count": 54
+      "count": 53
     },
     {
       "id": "comic",
@@ -32,17 +32,17 @@
     {
       "id": "game",
       "label": "ゲーム",
-      "count": 8
+      "count": 7
     },
     {
       "id": "goods",
       "label": "グッズ・イベント",
-      "count": 24
+      "count": 23
     },
     {
       "id": "other",
       "label": "そのほか",
-      "count": 19
+      "count": 20
     }
   ],
   "works": [
@@ -62,19 +62,19 @@
       "id": "rezero",
       "title": "Re:ゼロから始める異世界生活",
       "short": "リゼロ",
-      "count": 8
+      "count": 7
     },
     {
       "id": "honzuki",
       "title": "本好きの下剋上",
       "short": "本好き",
-      "count": 2
+      "count": 3
     },
     {
       "id": "kusuriya",
       "title": "薬屋のひとりごと",
       "short": "薬屋",
-      "count": 28
+      "count": 27
     },
     {
       "id": "kagejitsu",
@@ -296,14 +296,14 @@
   "sources": [
     {
       "name": "Unisba Media",
-      "count": 10
-    },
-    {
-      "name": "アニメ！アニメ！",
-      "count": 8
+      "count": 9
     },
     {
       "name": "山陽新聞",
+      "count": 9
+    },
+    {
+      "name": "アニメ！アニメ！",
       "count": 8
     },
     {
@@ -328,10 +328,6 @@
     },
     {
       "name": "コラボカフェ",
-      "count": 3
-    },
-    {
-      "name": "キャラグー",
       "count": 3
     },
     {
@@ -363,12 +359,20 @@
       "count": 2
     },
     {
+      "name": "Dellows News",
+      "count": 2
+    },
+    {
       "name": "ナタリー",
       "count": 2
     },
     {
       "name": "MANTANWEB",
       "count": 2
+    },
+    {
+      "name": "ABEMA",
+      "count": 1
     },
     {
       "name": "valuepress",
@@ -415,6 +419,10 @@
       "count": 1
     },
     {
+      "name": "キャラグー",
+      "count": 1
+    },
+    {
       "name": "徳島新聞デジタル",
       "count": 1
     },
@@ -424,10 +432,6 @@
     },
     {
       "name": "tenki.jp",
-      "count": 1
-    },
-    {
-      "name": "Dellows News",
       "count": 1
     },
     {
@@ -456,10 +460,6 @@
     },
     {
       "name": "ファミ通",
-      "count": 1
-    },
-    {
-      "name": "ABEMA TIMES",
       "count": 1
     }
   ],
@@ -720,6 +720,34 @@
       ]
     },
     {
+      "id": "39bf293e490e",
+      "title": "『本好きの下剋上』続編「貴族院の自称図書委員」編アニメ化決定 制作はWIT STUDIO",
+      "summary": "",
+      "url": "https://www.sanyonews.jp/article/1999132?rct",
+      "image": "https://static.sanyonews.jp/image/article/size1/e/6/b/3/e6b3aa2868f5d7e89848e029284bc7ef_1.jpg",
+      "leadSource": "山陽新聞",
+      "publishedAt": "2026-10-19T00:40:47.000Z",
+      "sourceCount": 2,
+      "articleCount": 2,
+      "categories": [
+        "anime"
+      ],
+      "keywords": [
+        "本好き",
+        "wit",
+        "studio"
+      ],
+      "articles": [
+        {
+          "title": "本好きの下剋上 貴族院の自称図書委員編がTVアニメ化 制作はWIT STUDIO",
+          "url": "https://news.dellows.jp/589827/?from",
+          "source": "Dellows News",
+          "publishedAt": "2026-10-17T06:02:25.000Z",
+          "isPR": false
+        }
+      ]
+    },
+    {
       "id": "92a35b697ee6",
       "title": "追放された転生重騎士はゲーム知識で無双する",
       "summary": "",
@@ -836,13 +864,31 @@
     }
   ],
   "churn": {
-    "previousAt": "2026-10-19T16:30:22.205Z",
-    "previousCount": 101,
+    "previousAt": "2026-10-19T17:00:17.612Z",
+    "previousCount": 102,
     "newCount": 3
   },
   "updateGapMin": 30,
-  "nextUpdateAt": "2026-10-19T17:30:17.612Z",
+  "nextUpdateAt": "2026-10-19T18:00:24.457Z",
   "items": [
+    {
+      "id": "93041da54e2d",
+      "title": "転生ゴブリンだけど質問ある？ #4【地上波1週間先行・WEB最速】",
+      "url": "https://abema.tv/channels/abema-anime/slots/9QLZ8tazBwXmts",
+      "host": "abema.tv",
+      "source": "ABEMA",
+      "summary": "",
+      "publishedAt": "2026-10-19T17:27:57.000Z",
+      "image": "",
+      "categories": [
+        "other"
+      ],
+      "works": [],
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": true
+    },
     {
       "id": "77dcfe217440",
       "title": "「朝ドラヒロイン見上愛さんが」「沢城さんまで…!!豪華すぎる!!」アニメ『薬屋のひとりごと』劇場版ゲスト声優PVに大反響",
@@ -1035,7 +1081,7 @@
       "isPR": true,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "c262a1f8d5e7",
@@ -1456,6 +1502,26 @@
       "isNew": false
     },
     {
+      "id": "90fba31bc0a6",
+      "title": "『薬屋のひとりごと』火鼠の皮衣とは？湖に消えた美しい天女の伝説 第50話あらすじ＆場面カット解禁",
+      "url": "https://www.sanyonews.jp/article/2001864?rct",
+      "host": "sanyonews.jp",
+      "source": "山陽新聞",
+      "summary": "",
+      "publishedAt": "2026-10-19T01:32:07.000Z",
+      "image": "https://static.sanyonews.jp/image/article/size1/7/2/d/e/72dea31490b1ad563a8c9696162c4af9_1.jpg",
+      "categories": [
+        "anime"
+      ],
+      "works": [
+        "kusuriya"
+      ],
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": true
+    },
+    {
       "id": "d293d1a223a1",
       "title": "サンデーGX「薬屋のひとりごと」最新刊 第23巻 12月9日発売!",
       "url": "https://collabo-cafe.com/events/collabo/sundaygx-kusuriya-no-hitorigoto-comics23-release/?amp",
@@ -1532,7 +1598,7 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "ca31c7e51497",
@@ -1568,26 +1634,6 @@
       ],
       "works": [
         "honzuki"
-      ],
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": false
-    },
-    {
-      "id": "454a0c5527fb",
-      "title": "【フラットガシャポンジャンボカードダス】アニメ『薬屋のひとりごと』 クリアポスター3",
-      "url": "https://charagoo.jp/gacha/item/bc42ad7d3d29/",
-      "host": "charagoo.jp",
-      "source": "キャラグー",
-      "summary": "",
-      "publishedAt": "2026-10-18T23:55:40.000Z",
-      "image": "",
-      "categories": [
-        "anime"
-      ],
-      "works": [
-        "kusuriya"
       ],
       "isPR": false,
       "viaGoogle": false,
@@ -1729,7 +1775,7 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "426b304e7ca5",
@@ -2437,6 +2483,26 @@
       "isNew": false
     },
     {
+      "id": "f527d8654b10",
+      "title": "本好きの下剋上 貴族院の自称図書委員編がTVアニメ化 制作はWIT STUDIO",
+      "url": "https://news.dellows.jp/589827/?from",
+      "host": "news.dellows.jp",
+      "source": "Dellows News",
+      "summary": "",
+      "publishedAt": "2026-10-17T06:02:25.000Z",
+      "image": "https://news.dellows.jp/wp-content/uploads/2026/10/589827_1.jpg",
+      "categories": [
+        "anime"
+      ],
+      "works": [
+        "honzuki"
+      ],
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": true
+    },
+    {
       "id": "0e314b3b51f9",
       "title": "『ポコダン』×『無職転生Ⅲ』開幕！オルステッドは10月23日から、無料ガチャの対象も確認",
       "url": "https://gamedrive.jp/news/1792210021",
@@ -2630,27 +2696,6 @@
       "isNew": false
     },
     {
-      "id": "ec7e7190d7c3",
-      "title": "Re:ゼロのグッズ一覧【2026年10月】｜ガチャガチャ・プライズ・キャラクターくじ・コラボ・イベント 全195件",
-      "url": "https://charagoo.jp/ip/rezero/",
-      "host": "charagoo.jp",
-      "source": "キャラグー",
-      "summary": "",
-      "publishedAt": "2026-10-16T23:08:34.000Z",
-      "image": "",
-      "categories": [
-        "goods",
-        "game"
-      ],
-      "works": [
-        "rezero"
-      ],
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": false
-    },
-    {
       "id": "681de13dd15a",
       "title": "薬屋のひとりごと：テレビアニメ第3期 猫猫と壬氏の関係は？ 子守唄の「無言」の意味 筆坂明規監督インタビュー",
       "url": "https://mantan-web.jp/article/20261014dog00m200065000a.html",
@@ -2804,44 +2849,6 @@
       "works": [
         "mushoku"
       ],
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": false
-    },
-    {
-      "id": "7d0d7757ad66",
-      "title": "アニメ「薬屋のひとりごと」楼蘭妃（ろうらんひ）は生きてる？玉藻とは？正体、声優、年齢など情報まとめ",
-      "url": "https://times.abema.tv/articles/-/10110203",
-      "host": "times.abema.tv",
-      "source": "ABEMA TIMES",
-      "summary": "",
-      "publishedAt": "2026-10-16T17:29:00.000Z",
-      "image": "https://times-abema.ismcdn.jp/mwimgs/2/7/1200w/img_278e58599f55e74b5825d6b51b98d0d799158.jpg",
-      "categories": [
-        "anime"
-      ],
-      "works": [
-        "kusuriya"
-      ],
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": false
-    },
-    {
-      "id": "45b5ee236488",
-      "title": "アニメフル全話の徹底考察: 異世界の魔王を倒すために召喚された最強の魔法使いの転生 Franciacorta (0oopkn3TJP)",
-      "url": "https://media.unisba.ac.id/bf09babf/46a7b667OjweWCpFB1k6FlY",
-      "host": "media.unisba.ac.id",
-      "source": "Unisba Media",
-      "summary": "",
-      "publishedAt": "2026-10-16T17:20:03.000Z",
-      "image": "",
-      "categories": [
-        "anime"
-      ],
-      "works": [],
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
