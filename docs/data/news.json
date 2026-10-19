@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-19T20:00:17.543Z",
+  "updatedAt": "2026-10-19T20:30:17.887Z",
   "site": {
     "title": "なろう系まとめ",
     "tagline": "小説家になろう発の作品のアニメ化・コミカライズ・書籍化のニュースと、なろうのランキングをまとめています。",
@@ -12,7 +12,7 @@
     {
       "id": "anime",
       "label": "アニメ",
-      "count": 50
+      "count": 51
     },
     {
       "id": "comic",
@@ -32,7 +32,7 @@
     {
       "id": "game",
       "label": "ゲーム",
-      "count": 7
+      "count": 6
     },
     {
       "id": "goods",
@@ -42,7 +42,7 @@
     {
       "id": "other",
       "label": "そのほか",
-      "count": 22
+      "count": 21
     }
   ],
   "works": [
@@ -62,19 +62,19 @@
       "id": "rezero",
       "title": "Re:ゼロから始める異世界生活",
       "short": "リゼロ",
-      "count": 7
+      "count": 8
     },
     {
       "id": "honzuki",
       "title": "本好きの下剋上",
       "short": "本好き",
-      "count": 2
+      "count": 3
     },
     {
       "id": "kusuriya",
       "title": "薬屋のひとりごと",
       "short": "薬屋",
-      "count": 28
+      "count": 27
     },
     {
       "id": "kagejitsu",
@@ -300,7 +300,7 @@
     },
     {
       "name": "Unisba Media",
-      "count": 8
+      "count": 9
     },
     {
       "name": "Yahoo!ニュース",
@@ -327,10 +327,6 @@
       "count": 5
     },
     {
-      "name": "コラボカフェ",
-      "count": 3
-    },
-    {
       "name": "電撃オンライン",
       "count": 3
     },
@@ -343,7 +339,7 @@
       "count": 2
     },
     {
-      "name": "千葉テレビ放送株式会社",
+      "name": "コラボカフェ",
       "count": 2
     },
     {
@@ -352,6 +348,10 @@
     },
     {
       "name": "TVer",
+      "count": 2
+    },
+    {
+      "name": "Dellows News",
       "count": 2
     },
     {
@@ -407,6 +407,10 @@
       "count": 1
     },
     {
+      "name": "千葉テレビ放送株式会社",
+      "count": 1
+    },
+    {
       "name": "rockinon.com",
       "count": 1
     },
@@ -428,10 +432,6 @@
     },
     {
       "name": "tenki.jp",
-      "count": 1
-    },
-    {
-      "name": "Dellows News",
       "count": 1
     },
     {
@@ -767,30 +767,29 @@
       ]
     },
     {
-      "id": "92a35b697ee6",
-      "title": "追放された転生重騎士はゲーム知識で無双する",
+      "id": "39bf293e490e",
+      "title": "『本好きの下剋上』続編「貴族院の自称図書委員」編アニメ化決定 制作はWIT STUDIO",
       "summary": "",
-      "url": "https://tver.jp/episodes/ep5mnylvhk",
-      "image": "https://www.chiba-tv.com/vod-db/wp-content/uploads/2026/06/eyecatch_tsuihou-jukishi-anime.png",
-      "leadSource": "TVer",
-      "publishedAt": "2026-10-18T16:17:43.000Z",
+      "url": "https://www.sanyonews.jp/article/1999132?rct",
+      "image": "https://static.sanyonews.jp/image/article/size1/e/6/b/3/e6b3aa2868f5d7e89848e029284bc7ef_1.jpg",
+      "leadSource": "山陽新聞",
+      "publishedAt": "2026-10-19T00:40:47.000Z",
       "sourceCount": 2,
       "articleCount": 2,
       "categories": [
-        "game",
         "anime"
       ],
       "keywords": [
-        "ゲーム",
-        "追放",
-        "転生重騎士"
+        "本好き",
+        "wit",
+        "studio"
       ],
       "articles": [
         {
-          "title": "アニメ『追放された転生重騎士はゲーム知識で無双する』はどこで見れる？サブスク・配信サービスを全調査 | VODB! by チバテレ",
-          "url": "https://www.chiba-tv.com/vod-db/tsuihou-jukishi-anime/",
-          "source": "千葉テレビ放送株式会社",
-          "publishedAt": "2026-10-16T20:23:35.000Z",
+          "title": "本好きの下剋上 貴族院の自称図書委員編がTVアニメ化 制作はWIT STUDIO",
+          "url": "https://news.dellows.jp/589827/?from",
+          "source": "Dellows News",
+          "publishedAt": "2026-10-17T06:02:25.000Z",
           "isPR": false
         }
       ]
@@ -855,12 +854,12 @@
     }
   ],
   "churn": {
-    "previousAt": "2026-10-19T19:30:23.327Z",
-    "previousCount": 99,
-    "newCount": 5
+    "previousAt": "2026-10-19T20:00:17.543Z",
+    "previousCount": 100,
+    "newCount": 2
   },
   "updateGapMin": 30,
-  "nextUpdateAt": "2026-10-19T20:30:17.543Z",
+  "nextUpdateAt": "2026-10-19T21:00:17.887Z",
   "items": [
     {
       "id": "e45af8dd8416",
@@ -920,7 +919,7 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "93041da54e2d",
@@ -938,7 +937,7 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "d5c3727b2eae",
@@ -1211,7 +1210,7 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "f39e46578a97",
@@ -1232,7 +1231,7 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "5f038e771528",
@@ -1517,6 +1516,26 @@
       "isNew": false
     },
     {
+      "id": "a929ae3cacf1",
+      "title": "【リゼロ】ミニアニメ第81話「妾バンザイ」│『Re:ゼロから始める休憩時間(ブレイクタイム)』4th Season Usyk (0MVKtTegCR)",
+      "url": "https://media.unisba.ac.id/ea1897bf/e2ce22ediXKe8YlaxQ4",
+      "host": "media.unisba.ac.id",
+      "source": "Unisba Media",
+      "summary": "",
+      "publishedAt": "2026-10-19T03:56:47.000Z",
+      "image": "",
+      "categories": [
+        "anime"
+      ],
+      "works": [
+        "rezero"
+      ],
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": true
+    },
+    {
       "id": "bdcae550959c",
       "title": "「どうしてこうなった」絶望と歓喜が交錯!? 「過酷な運命に抗う姿」が熱かった2026夏の異世界アニメ（マグミクス）",
       "url": "https://news.yahoo.co.jp/articles/56990ee36c05cb4d154a641a79347b9a32f511be",
@@ -1667,7 +1686,7 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "39bf293e490e",
@@ -2494,26 +2513,6 @@
       "isNew": false
     },
     {
-      "id": "9bf894936a29",
-      "title": "薬屋のひとりごと × スイパラ 第3弾 10月30日より順次開催!",
-      "url": "https://collabo-cafe.com/events/collabo/kusuriya-anime-cafe-sweets-paradise-2026/",
-      "host": "collabo-cafe.com",
-      "source": "コラボカフェ",
-      "summary": "",
-      "publishedAt": "2026-10-17T07:48:05.000Z",
-      "image": "https://collabo-cafe.com/wp-content/uploads/kusuriya-anime-cafe-sweets-paradise-2026-schedule.jpg",
-      "categories": [
-        "other"
-      ],
-      "works": [
-        "kusuriya"
-      ],
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": false
-    },
-    {
       "id": "2a1c13964505",
       "title": "「無職転生Ⅲ」エリス役・加隈亜衣インタビュー「ルーデウスはすごいんだから」に込めた気持ち",
       "url": "https://jmagazine.myjcom.jp/category/anime/post001528/",
@@ -2552,6 +2551,26 @@
       "viaGoogle": false,
       "sourceKind": "news",
       "isNew": false
+    },
+    {
+      "id": "f527d8654b10",
+      "title": "本好きの下剋上 貴族院の自称図書委員編がTVアニメ化 制作はWIT STUDIO",
+      "url": "https://news.dellows.jp/589827/?from",
+      "host": "news.dellows.jp",
+      "source": "Dellows News",
+      "summary": "",
+      "publishedAt": "2026-10-17T06:02:25.000Z",
+      "image": "https://news.dellows.jp/wp-content/uploads/2026/10/589827_1.jpg",
+      "categories": [
+        "anime"
+      ],
+      "works": [
+        "honzuki"
+      ],
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": true
     },
     {
       "id": "0e314b3b51f9",
@@ -2803,25 +2822,6 @@
       "works": [
         "katainaka"
       ],
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": false
-    },
-    {
-      "id": "f7ac8bfe4b43",
-      "title": "アニメ『追放された転生重騎士はゲーム知識で無双する』はどこで見れる？サブスク・配信サービスを全調査 | VODB! by チバテレ",
-      "url": "https://www.chiba-tv.com/vod-db/tsuihou-jukishi-anime/",
-      "host": "chiba-tv.com",
-      "source": "千葉テレビ放送株式会社",
-      "summary": "",
-      "publishedAt": "2026-10-16T20:23:35.000Z",
-      "image": "https://www.chiba-tv.com/vod-db/wp-content/uploads/2026/06/eyecatch_tsuihou-jukishi-anime.png",
-      "categories": [
-        "anime",
-        "game"
-      ],
-      "works": [],
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
