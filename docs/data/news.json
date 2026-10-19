@@ -1,18 +1,18 @@
 {
-  "updatedAt": "2026-10-19T21:00:17.220Z",
+  "updatedAt": "2026-10-19T21:30:17.387Z",
   "site": {
     "title": "なろう系まとめ",
     "tagline": "小説家になろう発の作品のアニメ化・コミカライズ・書籍化のニュースと、なろうのランキングをまとめています。",
     "url": "https://naroumatome.gamelab.website/",
     "contactUrl": "https://docs.google.com/forms/d/e/1FAIpQLSesWyhmZ6sRS_ve-c3X2KqF_wC5PK2TgwgQbTKmnQltSlg5Jw/viewform"
   },
-  "total": 101,
-  "todayCount": 7,
+  "total": 100,
+  "todayCount": 8,
   "categories": [
     {
       "id": "anime",
       "label": "アニメ",
-      "count": 52
+      "count": 51
     },
     {
       "id": "comic",
@@ -68,7 +68,7 @@
       "id": "honzuki",
       "title": "本好きの下剋上",
       "short": "本好き",
-      "count": 2
+      "count": 3
     },
     {
       "id": "kusuriya",
@@ -164,7 +164,7 @@
       "id": "katainaka",
       "title": "片田舎のおっさん、剣聖になる",
       "short": "片田舎のおっさん",
-      "count": 1
+      "count": 0
     },
     {
       "id": "nozomanu",
@@ -295,20 +295,16 @@
   ],
   "sources": [
     {
-      "name": "山陽新聞",
-      "count": 9
-    },
-    {
       "name": "Unisba Media",
       "count": 9
     },
     {
-      "name": "Yahoo!ニュース",
+      "name": "山陽新聞",
       "count": 8
     },
     {
-      "name": "WEBザテレビジョン",
-      "count": 7
+      "name": "Yahoo!ニュース",
+      "count": 8
     },
     {
       "name": "アニメ！アニメ！",
@@ -317,6 +313,10 @@
     {
       "name": "GameWith",
       "count": 7
+    },
+    {
+      "name": "WEBザテレビジョン",
+      "count": 6
     },
     {
       "name": "ラノベニュースオンライン",
@@ -361,6 +361,10 @@
     {
       "name": "MANTANWEB",
       "count": 2
+    },
+    {
+      "name": "セレクトラ",
+      "count": 1
     },
     {
       "name": "UtaTen",
@@ -547,6 +551,48 @@
       ]
     },
     {
+      "id": "02c587a15d04",
+      "title": "劇場版『薬屋のひとりごと』新PV解禁 小野賢章、化蛇団の水蛇役「明らかに悪そうな顔してますが、、、笑」",
+      "summary": "",
+      "url": "https://www.sanyonews.jp/article/2003638",
+      "image": "https://static.sanyonews.jp/image/article/size1/8/2/f/5/82f54b9ccac21e53b38bd7a273f57d06_1.jpg",
+      "leadSource": "山陽新聞",
+      "publishedAt": "2026-10-19T20:39:17.000Z",
+      "sourceCount": 3,
+      "articleCount": 4,
+      "categories": [
+        "anime"
+      ],
+      "keywords": [
+        "薬屋",
+        "劇場版",
+        "解禁"
+      ],
+      "articles": [
+        {
+          "title": "『薬屋のひとりごと』アニメ3期はいつから？劇場版の最新情報も詳しく紹介",
+          "url": "https://selectra.jp/streaming/news/kusuriya-no-hitorigoto-season3-movie",
+          "source": "セレクトラ",
+          "publishedAt": "2026-10-19T19:30:00.000Z",
+          "isPR": false
+        },
+        {
+          "title": "劇場版 薬屋のひとりごと 亡妃の秘宝＞第3弾PV公開＆壬氏一行を狙う水賊・化蛇団メンバーに小野賢章ら決定",
+          "url": "https://thetv.jp/news/detail/1448116/landing/?utm_source",
+          "source": "WEBザテレビジョン",
+          "publishedAt": "2026-10-19T12:29:54.000Z",
+          "isPR": false
+        },
+        {
+          "title": "劇場版『薬屋のひとりごと』新PV解禁 追加キャストに飛田展男、渡辺久美子、野島裕史",
+          "url": "https://www.sanyonews.jp/article/2003381",
+          "source": "山陽新聞",
+          "publishedAt": "2026-10-18T18:12:57.000Z",
+          "isPR": false
+        }
+      ]
+    },
+    {
       "id": "32281a19e7b7",
       "title": "「リゼロ」スバル、エミリア、レムが水門都市でお出迎え♪ コラボ企画を開催",
       "summary": "",
@@ -619,41 +665,6 @@
           "url": "https://ln-news.com/articles/126975",
           "source": "ラノベニュースオンライン",
           "publishedAt": "2026-10-17T04:00:00.000Z",
-          "isPR": false
-        }
-      ]
-    },
-    {
-      "id": "02c587a15d04",
-      "title": "劇場版『薬屋のひとりごと』新PV解禁 小野賢章、化蛇団の水蛇役「明らかに悪そうな顔してますが、、、笑」",
-      "summary": "",
-      "url": "https://www.sanyonews.jp/article/2003638?rct",
-      "image": "https://static.sanyonews.jp/image/article/size1/8/2/f/5/82f54b9ccac21e53b38bd7a273f57d06_1.jpg",
-      "leadSource": "山陽新聞",
-      "publishedAt": "2026-10-19T18:19:04.000Z",
-      "sourceCount": 2,
-      "articleCount": 3,
-      "categories": [
-        "anime"
-      ],
-      "keywords": [
-        "薬屋",
-        "劇場版",
-        "解禁"
-      ],
-      "articles": [
-        {
-          "title": "劇場版 薬屋のひとりごと 亡妃の秘宝＞第3弾PV公開＆壬氏一行を狙う水賊・化蛇団メンバーに小野賢章ら決定",
-          "url": "https://thetv.jp/news/detail/1448116/landing/?utm_source",
-          "source": "WEBザテレビジョン",
-          "publishedAt": "2026-10-19T12:29:54.000Z",
-          "isPR": false
-        },
-        {
-          "title": "劇場版『薬屋のひとりごと』新PV解禁 追加キャストに飛田展男、渡辺久美子、野島裕史",
-          "url": "https://www.sanyonews.jp/article/2003381",
-          "source": "山陽新聞",
-          "publishedAt": "2026-10-18T18:12:57.000Z",
           "isPR": false
         }
       ]
@@ -798,13 +809,13 @@
       ]
     },
     {
-      "id": "ff26872e580d",
-      "title": "アニメ『本好きの下剋上 領主の養女』第2クールOPノンクレジット映像「Power Of Love」西野カナ/毎週土曜夕方5時半～放送中！ Catanzaro Informa (geeGqPHTxX)",
+      "id": "39bf293e490e",
+      "title": "『本好きの下剋上』続編「貴族院の自称図書委員」編アニメ化決定 制作はWIT STUDIO",
       "summary": "",
-      "url": "https://media.unisba.ac.id/52509bff/570b8e16XicIKjUeKhxfITM",
-      "image": "https://news.dellows.jp/wp-content/uploads/2026/10/589827_1.jpg",
-      "leadSource": "Unisba Media",
-      "publishedAt": "2026-10-18T23:55:59.000Z",
+      "url": "https://www.sanyonews.jp/article/1999132?rct",
+      "image": "https://static.sanyonews.jp/image/article/size1/e/6/b/3/e6b3aa2868f5d7e89848e029284bc7ef_1.jpg",
+      "leadSource": "山陽新聞",
+      "publishedAt": "2026-10-19T00:40:47.000Z",
       "sourceCount": 2,
       "articleCount": 2,
       "categories": [
@@ -812,8 +823,8 @@
       ],
       "keywords": [
         "本好き",
-        "本好",
-        "下剋上"
+        "wit",
+        "studio"
       ],
       "articles": [
         {
@@ -856,13 +867,53 @@
     }
   ],
   "churn": {
-    "previousAt": "2026-10-19T20:30:17.887Z",
-    "previousCount": 100,
-    "newCount": 3
+    "previousAt": "2026-10-19T21:00:17.220Z",
+    "previousCount": 101,
+    "newCount": 2
   },
   "updateGapMin": 30,
-  "nextUpdateAt": "2026-10-19T21:30:17.220Z",
+  "nextUpdateAt": "2026-10-19T22:00:17.387Z",
   "items": [
+    {
+      "id": "02c587a15d04",
+      "title": "劇場版『薬屋のひとりごと』新PV解禁 小野賢章、化蛇団の水蛇役「明らかに悪そうな顔してますが、、、笑」",
+      "url": "https://www.sanyonews.jp/article/2003638",
+      "host": "sanyonews.jp",
+      "source": "山陽新聞",
+      "summary": "",
+      "publishedAt": "2026-10-19T20:39:17.000Z",
+      "image": "https://static.sanyonews.jp/image/article/size1/8/2/f/5/82f54b9ccac21e53b38bd7a273f57d06_1.jpg",
+      "categories": [
+        "anime"
+      ],
+      "works": [
+        "kusuriya"
+      ],
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": false
+    },
+    {
+      "id": "ba06ab6323c7",
+      "title": "『薬屋のひとりごと』アニメ3期はいつから？劇場版の最新情報も詳しく紹介",
+      "url": "https://selectra.jp/streaming/news/kusuriya-no-hitorigoto-season3-movie",
+      "host": "selectra.jp",
+      "source": "セレクトラ",
+      "summary": "",
+      "publishedAt": "2026-10-19T19:30:00.000Z",
+      "image": "https://images.selectra.jp/articles/kusuriya-no-hitorigoto-season3-movie/hero.webp",
+      "categories": [
+        "anime"
+      ],
+      "works": [
+        "kusuriya"
+      ],
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": true
+    },
     {
       "id": "e45af8dd8416",
       "title": "【まおりゅう】闘破戦ラズルの攻略とおすすめ編成｜超絶級・地獄級・破滅級【転スラ】",
@@ -882,26 +933,6 @@
       "viaGoogle": false,
       "sourceKind": "news",
       "isNew": false
-    },
-    {
-      "id": "02c587a15d04",
-      "title": "劇場版『薬屋のひとりごと』新PV解禁 小野賢章、化蛇団の水蛇役「明らかに悪そうな顔してますが、、、笑」",
-      "url": "https://www.sanyonews.jp/article/2003638?rct",
-      "host": "sanyonews.jp",
-      "source": "山陽新聞",
-      "summary": "",
-      "publishedAt": "2026-10-19T18:19:04.000Z",
-      "image": "https://static.sanyonews.jp/image/article/size1/8/2/f/5/82f54b9ccac21e53b38bd7a273f57d06_1.jpg",
-      "categories": [
-        "anime"
-      ],
-      "works": [
-        "kusuriya"
-      ],
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": true
     },
     {
       "id": "9a8a90857c6f",
@@ -1652,26 +1683,6 @@
       "isNew": false
     },
     {
-      "id": "90fba31bc0a6",
-      "title": "『薬屋のひとりごと』火鼠の皮衣とは？湖に消えた美しい天女の伝説 第50話あらすじ＆場面カット解禁",
-      "url": "https://www.sanyonews.jp/article/2001864?rct",
-      "host": "sanyonews.jp",
-      "source": "山陽新聞",
-      "summary": "",
-      "publishedAt": "2026-10-19T01:32:07.000Z",
-      "image": "https://static.sanyonews.jp/image/article/size1/7/2/d/e/72dea31490b1ad563a8c9696162c4af9_1.jpg",
-      "categories": [
-        "anime"
-      ],
-      "works": [
-        "kusuriya"
-      ],
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": true
-    },
-    {
       "id": "d293d1a223a1",
       "title": "サンデーGX「薬屋のひとりごと」最新刊 第23巻 12月9日発売!",
       "url": "https://collabo-cafe.com/events/collabo/sundaygx-kusuriya-no-hitorigoto-comics23-release/?amp",
@@ -1731,6 +1742,26 @@
       "isNew": false
     },
     {
+      "id": "39bf293e490e",
+      "title": "『本好きの下剋上』続編「貴族院の自称図書委員」編アニメ化決定 制作はWIT STUDIO",
+      "url": "https://www.sanyonews.jp/article/1999132?rct",
+      "host": "sanyonews.jp",
+      "source": "山陽新聞",
+      "summary": "",
+      "publishedAt": "2026-10-19T00:40:47.000Z",
+      "image": "https://static.sanyonews.jp/image/article/size1/e/6/b/3/e6b3aa2868f5d7e89848e029284bc7ef_1.jpg",
+      "categories": [
+        "anime"
+      ],
+      "works": [
+        "honzuki"
+      ],
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": true
+    },
+    {
       "id": "ca31c7e51497",
       "title": "『ポコロンダンジョンズ』×『無職転生III』コラボ開催！「ルーデウス・グレイラット」や「ロキシー・M・グレイラット」などが登場！",
       "url": "https://gamewith.jp/gamedb/1068/articles/64558",
@@ -1744,26 +1775,6 @@
       ],
       "works": [
         "mushoku"
-      ],
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": false
-    },
-    {
-      "id": "ff26872e580d",
-      "title": "アニメ『本好きの下剋上 領主の養女』第2クールOPノンクレジット映像「Power Of Love」西野カナ/毎週土曜夕方5時半～放送中！ Catanzaro Informa (geeGqPHTxX)",
-      "url": "https://media.unisba.ac.id/52509bff/570b8e16XicIKjUeKhxfITM",
-      "host": "media.unisba.ac.id",
-      "source": "Unisba Media",
-      "summary": "",
-      "publishedAt": "2026-10-18T23:55:59.000Z",
-      "image": "",
-      "categories": [
-        "anime"
-      ],
-      "works": [
-        "honzuki"
       ],
       "isPR": false,
       "viaGoogle": false,
@@ -1809,24 +1820,6 @@
       "viaGoogle": false,
       "sourceKind": "news",
       "isNew": false
-    },
-    {
-      "id": "04a2e5ad2988",
-      "title": "＜転生重騎士＞エルマと新たなスキルを得たルーチェは百足坑道のダンジョンマスター討伐へ…第15話あらすじ＆場面カット公開",
-      "url": "https://thetv.jp/news/detail/1446055/18718965/",
-      "host": "thetv.jp",
-      "source": "WEBザテレビジョン",
-      "summary": "",
-      "publishedAt": "2026-10-18T19:00:01.000Z",
-      "image": "https://thetv.jp/i/nw/1446055/18718965.jpg?w=1284",
-      "categories": [
-        "anime"
-      ],
-      "works": [],
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": true
     },
     {
       "id": "22ffa863926e",
@@ -2033,6 +2026,26 @@
         "anime"
       ],
       "works": [],
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": false
+    },
+    {
+      "id": "ff26872e580d",
+      "title": "アニメ『本好きの下剋上 領主の養女』第2クールOPノンクレジット映像「Power Of Love」西野カナ/毎週土曜夕方5時半～放送中！ Catanzaro Informa (geeGqPHTxX)",
+      "url": "https://media.unisba.ac.id/2d215dd2/a510522b3BlCT0_r6RQ",
+      "host": "media.unisba.ac.id",
+      "source": "Unisba Media",
+      "summary": "",
+      "publishedAt": "2026-10-18T03:43:53.000Z",
+      "image": "",
+      "categories": [
+        "anime"
+      ],
+      "works": [
+        "honzuki"
+      ],
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
@@ -2278,7 +2291,7 @@
       "source": "Dellows News",
       "summary": "",
       "publishedAt": "2026-10-17T20:51:16.000Z",
-      "image": "https://news.dellows.jp/wp-content/uploads/2026/10/706515_1.jpg",
+      "image": "",
       "categories": [
         "goods"
       ],
@@ -2600,7 +2613,7 @@
       "source": "Dellows News",
       "summary": "",
       "publishedAt": "2026-10-17T06:02:25.000Z",
-      "image": "https://news.dellows.jp/wp-content/uploads/2026/10/589827_1.jpg",
+      "image": "",
       "categories": [
         "anime"
       ],
@@ -2821,26 +2834,6 @@
       ],
       "works": [
         "kusuriya"
-      ],
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": false
-    },
-    {
-      "id": "ea525af1a8b1",
-      "title": "『片田舎のおっさん、剣聖になる』第2期あらすじ＆場面カット解禁 狼の姿をした影が教師たち襲う",
-      "url": "https://www.sanyonews.jp/article/1957982?kw",
-      "host": "sanyonews.jp",
-      "source": "山陽新聞",
-      "summary": "",
-      "publishedAt": "2026-10-16T21:01:51.000Z",
-      "image": "https://static.sanyonews.jp/image/article/size1/0/9/3/e/093ee78577f75ad90bcf35368e554628_1.jpg",
-      "categories": [
-        "anime"
-      ],
-      "works": [
-        "katainaka"
       ],
       "isPR": false,
       "viaGoogle": false,
