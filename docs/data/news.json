@@ -1,18 +1,18 @@
 {
-  "updatedAt": "2026-10-19T02:00:18.100Z",
+  "updatedAt": "2026-10-19T02:30:17.993Z",
   "site": {
     "title": "なろう系まとめ",
     "tagline": "小説家になろう発の作品のアニメ化・コミカライズ・書籍化のニュースと、なろうのランキングをまとめています。",
     "url": "https://naroumatome.gamelab.website/",
     "contactUrl": "https://docs.google.com/forms/d/e/1FAIpQLSesWyhmZ6sRS_ve-c3X2KqF_wC5PK2TgwgQbTKmnQltSlg5Jw/viewform"
   },
-  "total": 111,
-  "todayCount": 15,
+  "total": 110,
+  "todayCount": 14,
   "categories": [
     {
       "id": "anime",
       "label": "アニメ",
-      "count": 54
+      "count": 52
     },
     {
       "id": "comic",
@@ -37,12 +37,12 @@
     {
       "id": "goods",
       "label": "グッズ・イベント",
-      "count": 28
+      "count": 27
     },
     {
       "id": "other",
       "label": "そのほか",
-      "count": 16
+      "count": 17
     }
   ],
   "works": [
@@ -56,7 +56,7 @@
       "id": "mushoku",
       "title": "無職転生 ～異世界行ったら本気だす～",
       "short": "無職転生",
-      "count": 6
+      "count": 7
     },
     {
       "id": "rezero",
@@ -68,13 +68,13 @@
       "id": "honzuki",
       "title": "本好きの下剋上",
       "short": "本好き",
-      "count": 1
+      "count": 0
     },
     {
       "id": "kusuriya",
       "title": "薬屋のひとりごと",
       "short": "薬屋",
-      "count": 30
+      "count": 28
     },
     {
       "id": "kagejitsu",
@@ -296,19 +296,15 @@
   "sources": [
     {
       "name": "Unisba Media",
-      "count": 13
+      "count": 12
+    },
+    {
+      "name": "Yahoo!ニュース",
+      "count": 9
     },
     {
       "name": "AppMedia",
       "count": 8
-    },
-    {
-      "name": "Yahoo!ニュース",
-      "count": 8
-    },
-    {
-      "name": "山陽新聞",
-      "count": 7
     },
     {
       "name": "アニメ！アニメ！",
@@ -320,7 +316,11 @@
     },
     {
       "name": "GameWith",
-      "count": 5
+      "count": 6
+    },
+    {
+      "name": "山陽新聞",
+      "count": 6
     },
     {
       "name": "ナタリー",
@@ -331,16 +331,16 @@
       "count": 5
     },
     {
+      "name": "PR TIMES",
+      "count": 4
+    },
+    {
       "name": "WEBザテレビジョン",
       "count": 4
     },
     {
       "name": "電撃オンライン",
       "count": 4
-    },
-    {
-      "name": "PR TIMES",
-      "count": 3
     },
     {
       "name": "はてなブログ",
@@ -352,10 +352,6 @@
     },
     {
       "name": "コラボカフェ",
-      "count": 2
-    },
-    {
-      "name": "キャラグー",
       "count": 2
     },
     {
@@ -373,6 +369,10 @@
     {
       "name": "神ゲー攻略",
       "count": 2
+    },
+    {
+      "name": "キャラグー",
+      "count": 1
     },
     {
       "name": "ABEMA",
@@ -436,10 +436,6 @@
     },
     {
       "name": "公式スイーツパラダイス",
-      "count": 1
-    },
-    {
-      "name": "マグミクス",
       "count": 1
     }
   ],
@@ -823,13 +819,31 @@
     }
   ],
   "churn": {
-    "previousAt": "2026-10-19T01:30:18.401Z",
+    "previousAt": "2026-10-19T02:00:18.100Z",
     "previousCount": 111,
-    "newCount": 1
+    "newCount": 2
   },
   "updateGapMin": 30,
-  "nextUpdateAt": "2026-10-19T02:30:18.100Z",
+  "nextUpdateAt": "2026-10-19T03:00:17.993Z",
   "items": [
+    {
+      "id": "2a006e5cb95a",
+      "title": "【堅物騎士団長×臆病なバーテンダーの、転生恋物語】『騎士団長は異世界バーで恋に落ちる 1』2026年10月19日（月）発売！",
+      "url": "https://prtimes.jp/main/html/rd/p/000020348.000007006.html",
+      "host": "prtimes.jp",
+      "source": "PR TIMES",
+      "summary": "",
+      "publishedAt": "2026-10-19T02:00:01.000Z",
+      "image": "https://prcdn.freetls.fastly.net/release_image/7006/20348/7006-20348-b57e87bd49fa4918b5dead55caf544fe-1500x2134.jpg?format=jpeg&auto=webp&fit=bounds&width=2400&height=1260",
+      "categories": [
+        "other"
+      ],
+      "works": [],
+      "isPR": true,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": true
+    },
     {
       "id": "d293d1a223a1",
       "title": "サンデーGX「薬屋のひとりごと」最新刊 第23巻 12月9日発売!",
@@ -1008,50 +1022,9 @@
       "isNew": false
     },
     {
-      "id": "80f0fa301e95",
-      "title": "『薬屋のひとりごと』第3期、ノンクレジットOP映像公開 Blu-ray発売決定でイラスト解禁",
-      "url": "https://www.sanyonews.jp/article/1998700?rct",
-      "host": "sanyonews.jp",
-      "source": "山陽新聞",
-      "summary": "",
-      "publishedAt": "2026-10-18T16:46:43.000Z",
-      "image": "https://static.sanyonews.jp/image/article/size1/5/9/7/8/59783af7bbcdc324127e682654421cc9_1.jpg",
-      "categories": [
-        "anime",
-        "goods"
-      ],
-      "works": [
-        "kusuriya"
-      ],
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": true
-    },
-    {
       "id": "426b304e7ca5",
       "title": "薬屋のひとりごと 亡妃の秘宝×近鉄 猫猫・壬氏 万葉への謎旅｜薬屋のひとりごとのコラボ・イベント 開催期間・場所・グッズ",
       "url": "https://charagoo.jp/collab/event/14849a33e4ac/",
-      "host": "charagoo.jp",
-      "source": "キャラグー",
-      "summary": "",
-      "publishedAt": "2026-10-18T16:26:52.000Z",
-      "image": "",
-      "categories": [
-        "goods"
-      ],
-      "works": [
-        "kusuriya"
-      ],
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": false
-    },
-    {
-      "id": "7290aed2b0a1",
-      "title": "薬屋のひとりごと × 着物レンタルVASARA × 歌舞伎座｜薬屋のひとりごとのコラボ・イベント 開催期間・場所・グッズ",
-      "url": "https://charagoo.jp/collab/event/9e4f9281c761/",
       "host": "charagoo.jp",
       "source": "キャラグー",
       "summary": "",
@@ -1111,7 +1084,7 @@
       "host": "abema.tv",
       "source": "ABEMA",
       "summary": "",
-      "publishedAt": "2026-10-18T15:34:08.000Z",
+      "publishedAt": "2026-10-18T15:00:00.000Z",
       "image": "",
       "categories": [
         "anime"
@@ -1212,26 +1185,6 @@
         "anime"
       ],
       "works": [],
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": false
-    },
-    {
-      "id": "ff26872e580d",
-      "title": "アニメ『本好きの下剋上 領主の養女』第2クールOPノンクレジット映像「Power Of Love」西野カナ/毎週土曜夕方5時半～放送中！ Catanzaro Informa (geeGqPHTxX)",
-      "url": "https://media.unisba.ac.id/2d215dd2/a510522b3BlCT0_r6RQ",
-      "host": "media.unisba.ac.id",
-      "source": "Unisba Media",
-      "summary": "",
-      "publishedAt": "2026-10-18T03:43:53.000Z",
-      "image": "",
-      "categories": [
-        "anime"
-      ],
-      "works": [
-        "honzuki"
-      ],
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
@@ -1689,6 +1642,26 @@
       "isNew": false
     },
     {
+      "id": "5a31efe24489",
+      "title": "【ポコダン】無職転生コラボ開催記念キャンペーン【ポコロンダンジョンズ】",
+      "url": "https://gamewith.jp/pocodun/article/show/583123",
+      "host": "gamewith.jp",
+      "source": "GameWith",
+      "summary": "",
+      "publishedAt": "2026-10-17T08:47:30.000Z",
+      "image": "https://img.gamewith.jp/article/thumbnail/rectangle/583123.png?date=1792226851",
+      "categories": [
+        "goods"
+      ],
+      "works": [
+        "mushoku"
+      ],
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": true
+    },
+    {
       "id": "7ff35b4de31e",
       "title": "「転生したら剣でしたII」ステファン役は井澤詩織「主従関係萌えの私は大歓喜です」（動画あり / コメントあり）",
       "url": "https://natalie.mu/comic/news/694137",
@@ -1900,6 +1873,24 @@
       "works": [
         "kagejitsu"
       ],
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": false
+    },
+    {
+      "id": "bdcae550959c",
+      "title": "「どうしてこうなった」絶望と歓喜が交錯!? 「過酷な運命に抗う姿」が熱かった2026夏の異世界アニメ（マグミクス）",
+      "url": "https://news.yahoo.co.jp/articles/56990ee36c05cb4d154a641a79347b9a32f511be",
+      "host": "news.yahoo.co.jp",
+      "source": "Yahoo!ニュース",
+      "summary": "",
+      "publishedAt": "2026-10-16T23:23:00.000Z",
+      "image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20261016-00380809-magmix-000-4-view.jpg?exp=10800",
+      "categories": [
+        "anime"
+      ],
+      "works": [],
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
@@ -2970,24 +2961,6 @@
         "kusuriya"
       ],
       "isPR": true,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": false
-    },
-    {
-      "id": "bdcae550959c",
-      "title": "「どうしてこうなった」絶望と歓喜が交錯!? 「過酷な運命に抗う姿」が熱かった2026夏の異世界アニメ",
-      "url": "https://magmix.jp/post/380809",
-      "host": "magmix.jp",
-      "source": "マグミクス",
-      "summary": "",
-      "publishedAt": "2026-10-16T02:25:00.000Z",
-      "image": "https://magmix.jp/wp-content/uploads/2027/10/261008-isekainatu-00.jpg",
-      "categories": [
-        "anime"
-      ],
-      "works": [],
-      "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
       "isNew": false
