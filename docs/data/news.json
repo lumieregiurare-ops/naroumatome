@@ -1,18 +1,18 @@
 {
-  "updatedAt": "2026-10-19T19:00:18.748Z",
+  "updatedAt": "2026-10-19T19:30:23.327Z",
   "site": {
     "title": "なろう系まとめ",
     "tagline": "小説家になろう発の作品のアニメ化・コミカライズ・書籍化のニュースと、なろうのランキングをまとめています。",
     "url": "https://naroumatome.gamelab.website/",
     "contactUrl": "https://docs.google.com/forms/d/e/1FAIpQLSesWyhmZ6sRS_ve-c3X2KqF_wC5PK2TgwgQbTKmnQltSlg5Jw/viewform"
   },
-  "total": 101,
+  "total": 99,
   "todayCount": 4,
   "categories": [
     {
       "id": "anime",
       "label": "アニメ",
-      "count": 52
+      "count": 51
     },
     {
       "id": "comic",
@@ -22,7 +22,7 @@
     {
       "id": "book",
       "label": "書籍・ラノベ",
-      "count": 7
+      "count": 6
     },
     {
       "id": "web",
@@ -42,7 +42,7 @@
     {
       "id": "other",
       "label": "そのほか",
-      "count": 21
+      "count": 20
     }
   ],
   "works": [
@@ -50,7 +50,7 @@
       "id": "tensura",
       "title": "転生したらスライムだった件",
       "short": "転スラ",
-      "count": 9
+      "count": 7
     },
     {
       "id": "mushoku",
@@ -62,19 +62,19 @@
       "id": "rezero",
       "title": "Re:ゼロから始める異世界生活",
       "short": "リゼロ",
-      "count": 8
+      "count": 7
     },
     {
       "id": "honzuki",
       "title": "本好きの下剋上",
       "short": "本好き",
-      "count": 2
+      "count": 3
     },
     {
       "id": "kusuriya",
       "title": "薬屋のひとりごと",
       "short": "薬屋",
-      "count": 27
+      "count": 28
     },
     {
       "id": "kagejitsu",
@@ -295,19 +295,19 @@
   ],
   "sources": [
     {
-      "name": "山陽新聞",
-      "count": 9
-    },
-    {
-      "name": "Unisba Media",
-      "count": 9
-    },
-    {
       "name": "アニメ！アニメ！",
       "count": 8
     },
     {
+      "name": "山陽新聞",
+      "count": 8
+    },
+    {
       "name": "GameWith",
+      "count": 7
+    },
+    {
+      "name": "Unisba Media",
       "count": 7
     },
     {
@@ -319,11 +319,11 @@
       "count": 6
     },
     {
-      "name": "Howl.link",
+      "name": "WEBザテレビジョン",
       "count": 5
     },
     {
-      "name": "WEBザテレビジョン",
+      "name": "Howl.link",
       "count": 5
     },
     {
@@ -363,6 +363,10 @@
       "count": 2
     },
     {
+      "name": "Dellows News",
+      "count": 2
+    },
+    {
       "name": "ナタリー",
       "count": 2
     },
@@ -371,7 +375,7 @@
       "count": 2
     },
     {
-      "name": "ABEMA",
+      "name": "UtaTen",
       "count": 1
     },
     {
@@ -424,10 +428,6 @@
     },
     {
       "name": "tenki.jp",
-      "count": 1
-    },
-    {
-      "name": "Dellows News",
       "count": 1
     },
     {
@@ -742,6 +742,34 @@
       ]
     },
     {
+      "id": "39bf293e490e",
+      "title": "『本好きの下剋上』続編「貴族院の自称図書委員」編アニメ化決定 制作はWIT STUDIO",
+      "summary": "",
+      "url": "https://www.sanyonews.jp/article/1999132?rct",
+      "image": "https://static.sanyonews.jp/image/article/size1/e/6/b/3/e6b3aa2868f5d7e89848e029284bc7ef_1.jpg",
+      "leadSource": "山陽新聞",
+      "publishedAt": "2026-10-19T00:40:47.000Z",
+      "sourceCount": 2,
+      "articleCount": 2,
+      "categories": [
+        "anime"
+      ],
+      "keywords": [
+        "本好き",
+        "wit",
+        "studio"
+      ],
+      "articles": [
+        {
+          "title": "本好きの下剋上 貴族院の自称図書委員編がTVアニメ化 制作はWIT STUDIO",
+          "url": "https://news.dellows.jp/589827/?from",
+          "source": "Dellows News",
+          "publishedAt": "2026-10-17T06:02:25.000Z",
+          "isPR": false
+        }
+      ]
+    },
+    {
       "id": "92a35b697ee6",
       "title": "追放された転生重騎士はゲーム知識で無双する",
       "summary": "",
@@ -827,43 +855,15 @@
           "isPR": false
         }
       ]
-    },
-    {
-      "id": "681de13dd15a",
-      "title": "薬屋のひとりごと：テレビアニメ第3期 猫猫と壬氏の関係は？ 子守唄の「無言」の意味 筆坂明規監督インタビュー",
-      "summary": "",
-      "url": "https://mantan-web.jp/article/20261014dog00m200065000a.html",
-      "image": "https://storage.mantan-web.jp/w=1280,h=720,icr=0:0.1:1:1,a=2,g=2,f=webp:auto/images/2026/10/14/20261014dog00m200065000a/001.jpg",
-      "leadSource": "MANTANWEB",
-      "publishedAt": "2026-10-16T22:05:35.000Z",
-      "sourceCount": 2,
-      "articleCount": 2,
-      "categories": [
-        "anime"
-      ],
-      "keywords": [
-        "薬屋",
-        "テレビアニメ",
-        "インタビュー"
-      ],
-      "articles": [
-        {
-          "title": "＜薬屋のひとりごと＞テレビアニメ第3期 猫猫と壬氏の関係は？ 子守唄の「無言」の意味 筆坂明規監督インタビュー",
-          "url": "https://news.yahoo.co.jp/articles/5c3841c782b9afb793b97bb8dc8327946345f8a2?page",
-          "source": "Yahoo!ニュース",
-          "publishedAt": "2026-10-16T22:05:00.000Z",
-          "isPR": false
-        }
-      ]
     }
   ],
   "churn": {
-    "previousAt": "2026-10-19T18:30:20.991Z",
-    "previousCount": 99,
-    "newCount": 5
+    "previousAt": "2026-10-19T19:00:18.748Z",
+    "previousCount": 101,
+    "newCount": 3
   },
   "updateGapMin": 30,
-  "nextUpdateAt": "2026-10-19T19:30:18.748Z",
+  "nextUpdateAt": "2026-10-19T20:00:23.327Z",
   "items": [
     {
       "id": "e45af8dd8416",
@@ -883,17 +883,17 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": true
+      "isNew": false
     },
     {
-      "id": "46c454fd4b32",
-      "title": "『薬屋のひとりごと』猫猫、物乞いへの“贅沢すぎる施し”に違和感 第51話あらすじ＆場面カット公開",
-      "url": "https://www.sanyonews.jp/article/2005343?rct",
-      "host": "sanyonews.jp",
-      "source": "山陽新聞",
+      "id": "9a8a90857c6f",
+      "title": "ヨルシカ「雲を抜け風下へ私だけ」歌詞の意味を考察！TVアニメ「薬屋のひとりごと」主題歌で綴る自由と孤独の旅",
+      "url": "https://utaten.com/specialArticle/index/10200",
+      "host": "utaten.com",
+      "source": "UtaTen",
       "summary": "",
-      "publishedAt": "2026-10-19T17:38:40.000Z",
-      "image": "https://static.sanyonews.jp/image/article/size1/0/2/b/2/02b26e8d4ce18b9a11a95164fff3f2c2_1.jpg",
+      "publishedAt": "2026-10-19T17:47:34.000Z",
+      "image": "https://cdn.utaten.com/uploads/images/specialArticle/10200/7708ed19a0bffe5b0c0cd6f95bcda6de519e712e.jpeg?type=original?r=2026102004",
       "categories": [
         "anime"
       ],
@@ -906,16 +906,16 @@
       "isNew": true
     },
     {
-      "id": "93041da54e2d",
-      "title": "転生ゴブリンだけど質問ある？ #4【地上波1週間先行・WEB最速】",
-      "url": "https://abema.tv/channels/abema-anime/slots/9QLZ8tazBwXmts",
-      "host": "abema.tv",
-      "source": "ABEMA",
+      "id": "d5c3727b2eae",
+      "title": "第4話 転生ゴブリンだけど質問ある？",
+      "url": "https://thetv.jp/program/0001077857/4/",
+      "host": "thetv.jp",
+      "source": "WEBザテレビジョン",
       "summary": "",
-      "publishedAt": "2026-10-19T17:27:57.000Z",
+      "publishedAt": "2026-10-19T17:26:27.000Z",
       "image": "",
       "categories": [
-        "other"
+        "anime"
       ],
       "works": [],
       "isPR": false,
@@ -1157,27 +1157,6 @@
       "viaGoogle": false,
       "sourceKind": "news",
       "isNew": false
-    },
-    {
-      "id": "f39e46578a97",
-      "title": "歴史に残る前代未聞のアニメ化で話題騒然！あのラノベがガチで化物すぎた…！週間ラノベ売上ランキングTOP10【2025年12月3週目】【ゆきとも】【転スラ／よう実／禁書】【2026年冬アニメ】 Naomi Osaka (5ms6HKgVid)",
-      "url": "https://media.unisba.ac.id/3859f7f8/572cdf10vMpom9iMv1U/?share",
-      "host": "media.unisba.ac.id",
-      "source": "Unisba Media",
-      "summary": "",
-      "publishedAt": "2026-10-19T09:19:43.000Z",
-      "image": "",
-      "categories": [
-        "anime",
-        "book"
-      ],
-      "works": [
-        "tensura"
-      ],
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": true
     },
     {
       "id": "5f038e771528",
@@ -1462,26 +1441,6 @@
       "isNew": false
     },
     {
-      "id": "a929ae3cacf1",
-      "title": "【リゼロ】ミニアニメ第81話「妾バンザイ」│『Re:ゼロから始める休憩時間(ブレイクタイム)』4th Season Usyk (0MVKtTegCR)",
-      "url": "https://media.unisba.ac.id/ea1897bf/e2ce22ediXKe8YlaxQ4",
-      "host": "media.unisba.ac.id",
-      "source": "Unisba Media",
-      "summary": "",
-      "publishedAt": "2026-10-19T03:56:47.000Z",
-      "image": "",
-      "categories": [
-        "anime"
-      ],
-      "works": [
-        "rezero"
-      ],
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": true
-    },
-    {
       "id": "4f56b364be5a",
       "title": "芦田愛菜主演『薬屋のひとりごと』“猫猫の父”役のキャスティングにファン注目 「絶対見たい」（マグミクス）",
       "url": "https://news.yahoo.co.jp/articles/94c0729a7c43ff0fbd805892eea8b2f40532e45c",
@@ -1558,6 +1517,26 @@
       "isNew": false
     },
     {
+      "id": "90fba31bc0a6",
+      "title": "『薬屋のひとりごと』火鼠の皮衣とは？湖に消えた美しい天女の伝説 第50話あらすじ＆場面カット解禁",
+      "url": "https://www.sanyonews.jp/article/2001864?rct",
+      "host": "sanyonews.jp",
+      "source": "山陽新聞",
+      "summary": "",
+      "publishedAt": "2026-10-19T01:32:07.000Z",
+      "image": "https://static.sanyonews.jp/image/article/size1/7/2/d/e/72dea31490b1ad563a8c9696162c4af9_1.jpg",
+      "categories": [
+        "anime"
+      ],
+      "works": [
+        "kusuriya"
+      ],
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": true
+    },
+    {
       "id": "d293d1a223a1",
       "title": "サンデーGX「薬屋のひとりごと」最新刊 第23巻 12月9日発売!",
       "url": "https://collabo-cafe.com/events/collabo/sundaygx-kusuriya-no-hitorigoto-comics23-release/?amp",
@@ -1595,26 +1574,6 @@
       "viaGoogle": false,
       "sourceKind": "news",
       "isNew": false
-    },
-    {
-      "id": "2373c0692c7f",
-      "title": "『転スラ』リムル様、大忙し！ラミリスから緊急連絡 尊いミリムの表情…第84話あらすじ＆場面カット解禁",
-      "url": "https://www.sanyonews.jp/article/1942798?kw",
-      "host": "sanyonews.jp",
-      "source": "山陽新聞",
-      "summary": "",
-      "publishedAt": "2026-10-19T00:48:11.000Z",
-      "image": "https://static.sanyonews.jp/image/article/size1/6/5/0/1/6501ce6b09cb9464f23235f99fbe6a7f_1.jpg",
-      "categories": [
-        "anime"
-      ],
-      "works": [
-        "tensura"
-      ],
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": true
     },
     {
       "id": "39bf293e490e",
@@ -2280,24 +2239,6 @@
       "isNew": false
     },
     {
-      "id": "d5c3727b2eae",
-      "title": "第4話 転生ゴブリンだけど質問ある？",
-      "url": "https://thetv.jp/program/0001077857/4/",
-      "host": "thetv.jp",
-      "source": "WEBザテレビジョン",
-      "summary": "",
-      "publishedAt": "2026-10-17T11:56:34.000Z",
-      "image": "",
-      "categories": [
-        "anime"
-      ],
-      "works": [],
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": false
-    },
-    {
       "id": "16253d094e53",
       "title": "転生したら剣でしたII＞地下迷宮で因縁の骸骨騎士と激突…第3話あらすじ＆ステファン役・井澤詩織コメント公開(3/4)",
       "url": "https://thetv.jp/news/detail/1449592/p3/",
@@ -2517,6 +2458,26 @@
       "viaGoogle": false,
       "sourceKind": "news",
       "isNew": false
+    },
+    {
+      "id": "f527d8654b10",
+      "title": "本好きの下剋上 貴族院の自称図書委員編がTVアニメ化 制作はWIT STUDIO",
+      "url": "https://news.dellows.jp/589827/?from",
+      "host": "news.dellows.jp",
+      "source": "Dellows News",
+      "summary": "",
+      "publishedAt": "2026-10-17T06:02:25.000Z",
+      "image": "https://news.dellows.jp/wp-content/uploads/2026/10/589827_1.jpg",
+      "categories": [
+        "anime"
+      ],
+      "works": [
+        "honzuki"
+      ],
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": true
     },
     {
       "id": "0e314b3b51f9",
