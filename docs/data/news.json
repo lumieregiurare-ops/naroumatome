@@ -1,18 +1,18 @@
 {
-  "updatedAt": "2026-10-19T23:00:19.819Z",
+  "updatedAt": "2026-10-19T23:30:19.174Z",
   "site": {
     "title": "なろう系まとめ",
     "tagline": "小説家になろう発の作品のアニメ化・コミカライズ・書籍化のニュースと、なろうのランキングをまとめています。",
     "url": "https://naroumatome.gamelab.website/",
     "contactUrl": "https://docs.google.com/forms/d/e/1FAIpQLSesWyhmZ6sRS_ve-c3X2KqF_wC5PK2TgwgQbTKmnQltSlg5Jw/viewform"
   },
-  "total": 98,
+  "total": 102,
   "todayCount": 9,
   "categories": [
     {
       "id": "anime",
       "label": "アニメ",
-      "count": 48
+      "count": 52
     },
     {
       "id": "comic",
@@ -37,7 +37,7 @@
     {
       "id": "goods",
       "label": "グッズ・イベント",
-      "count": 23
+      "count": 24
     },
     {
       "id": "other",
@@ -56,13 +56,13 @@
       "id": "mushoku",
       "title": "無職転生 ～異世界行ったら本気だす～",
       "short": "無職転生",
-      "count": 11
+      "count": 12
     },
     {
       "id": "rezero",
       "title": "Re:ゼロから始める異世界生活",
       "short": "リゼロ",
-      "count": 8
+      "count": 9
     },
     {
       "id": "honzuki",
@@ -74,7 +74,7 @@
       "id": "kusuriya",
       "title": "薬屋のひとりごと",
       "short": "薬屋",
-      "count": 26
+      "count": 28
     },
     {
       "id": "kagejitsu",
@@ -296,19 +296,15 @@
   "sources": [
     {
       "name": "山陽新聞",
-      "count": 8
+      "count": 9
     },
     {
       "name": "Unisba Media",
-      "count": 8
-    },
-    {
-      "name": "Yahoo!ニュース",
-      "count": 7
+      "count": 9
     },
     {
       "name": "アニメ！アニメ！",
-      "count": 7
+      "count": 8
     },
     {
       "name": "GameWith",
@@ -319,12 +315,16 @@
       "count": 6
     },
     {
-      "name": "ラノベニュースオンライン",
+      "name": "Howl.link",
       "count": 6
     },
     {
-      "name": "Howl.link",
-      "count": 5
+      "name": "Yahoo!ニュース",
+      "count": 6
+    },
+    {
+      "name": "ラノベニュースオンライン",
+      "count": 6
     },
     {
       "name": "電撃オンライン",
@@ -375,7 +375,11 @@
       "count": 1
     },
     {
-      "name": "valuepress",
+      "name": "Infoseek",
+      "count": 1
+    },
+    {
+      "name": "https://pr-free.jp/",
       "count": 1
     },
     {
@@ -455,7 +459,7 @@
       "count": 1
     },
     {
-      "name": "オリコンニュース",
+      "name": "MANTANWEB",
       "count": 1
     },
     {
@@ -670,6 +674,41 @@
       ]
     },
     {
+      "id": "5f7a25d6fb5b",
+      "title": "【ポコダン】万能ロキシー！！！3クエストフルオート＋ガーディバーディー自陣コラボキャラなしポチパ【無職転生】",
+      "summary": "",
+      "url": "https://t.co/4GS7Omt80D",
+      "image": "https://img.gamewith.jp/article/thumbnail/rectangle/583067.png?date=1792153835",
+      "leadSource": "Howl.link",
+      "publishedAt": "2026-10-19T14:50:10.000Z",
+      "sourceCount": 2,
+      "articleCount": 3,
+      "categories": [
+        "goods"
+      ],
+      "keywords": [
+        "無職転生",
+        "コラボ",
+        "ポコダン"
+      ],
+      "articles": [
+        {
+          "title": "【ポコダン】無職転生コラボ攻略まとめ【ポコロンダンジョンズ】",
+          "url": "https://gamewith.jp/pocodun/article/show/583067",
+          "source": "GameWith",
+          "publishedAt": "2026-10-19T07:09:11.000Z",
+          "isPR": false
+        },
+        {
+          "title": "『ポコロンダンジョンズ』×『無職転生III』コラボ開催！「ルーデウス・グレイラット」や「ロキシー・M・グレイラット」などが登場！",
+          "url": "https://gamewith.jp/gamedb/1068/articles/64558",
+          "source": "GameWith",
+          "publishedAt": "2026-10-19T00:34:59.000Z",
+          "isPR": false
+        }
+      ]
+    },
+    {
       "id": "93041da54e2d",
       "title": "転生ゴブリンだけど質問ある？ #4【地上波1週間先行・WEB最速】",
       "summary": "",
@@ -835,44 +874,15 @@
           "isPR": false
         }
       ]
-    },
-    {
-      "id": "16253d094e53",
-      "title": "転生したら剣でしたII＞地下迷宮で因縁の骸骨騎士と激突…第3話あらすじ＆ステファン役・井澤詩織コメント公開(3/4)",
-      "summary": "",
-      "url": "https://thetv.jp/news/detail/1449592/p3/",
-      "image": "https://thetv.jp/i/nw/1449592/18839765.jpg?w=1284",
-      "leadSource": "WEBザテレビジョン",
-      "publishedAt": "2026-10-17T11:35:54.000Z",
-      "sourceCount": 2,
-      "articleCount": 2,
-      "categories": [
-        "anime",
-        "other"
-      ],
-      "keywords": [
-        "ステファン",
-        "コメント",
-        "井澤詩織"
-      ],
-      "articles": [
-        {
-          "title": "「転生したら剣でしたII」ステファン役は井澤詩織「主従関係萌えの私は大歓喜です」（動画あり / コメントあり）",
-          "url": "https://natalie.mu/comic/news/694137",
-          "source": "ナタリー",
-          "publishedAt": "2026-10-17T08:00:00.000Z",
-          "isPR": false
-        }
-      ]
     }
   ],
   "churn": {
-    "previousAt": "2026-10-19T22:30:16.859Z",
-    "previousCount": 101,
-    "newCount": 1
+    "previousAt": "2026-10-19T23:00:19.819Z",
+    "previousCount": 98,
+    "newCount": 5
   },
   "updateGapMin": 30,
-  "nextUpdateAt": "2026-10-19T23:30:19.819Z",
+  "nextUpdateAt": "2026-10-20T00:00:19.174Z",
   "items": [
     {
       "id": "35940ca7118a",
@@ -891,7 +901,7 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "02c587a15d04",
@@ -1050,6 +1060,26 @@
       "isNew": false
     },
     {
+      "id": "5f7a25d6fb5b",
+      "title": "【ポコダン】万能ロキシー！！！3クエストフルオート＋ガーディバーディー自陣コラボキャラなしポチパ【無職転生】",
+      "url": "https://t.co/4GS7Omt80D",
+      "host": "t.co",
+      "source": "Howl.link",
+      "summary": "",
+      "publishedAt": "2026-10-19T14:50:10.000Z",
+      "image": "",
+      "categories": [
+        "goods"
+      ],
+      "works": [
+        "mushoku"
+      ],
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": true
+    },
+    {
       "id": "77dcfe217440",
       "title": "「朝ドラヒロイン見上愛さんが」「沢城さんまで…!!豪華すぎる!!」アニメ『薬屋のひとりごと』劇場版ゲスト声優PVに大反響",
       "url": "https://news.yahoo.co.jp/articles/3ed624203b82d64607291095012dfd725218e612",
@@ -1187,13 +1217,13 @@
     },
     {
       "id": "5d244b8aa956",
-      "title": "『薬屋のひとりごと』第3期、猫猫の“子守唄”にも視聴者注目！第2話コメント最多シーンランキングTOP3 (オタク総研)",
-      "url": "https://news.yahoo.co.jp/articles/4361bdf9c45b9534ddb46309fd6cc3156bc5c0f1/images/000",
-      "host": "news.yahoo.co.jp",
-      "source": "Yahoo!ニュース",
+      "title": "『薬屋のひとりごと』第3期、猫猫の“子守唄”にも視聴者注目！第2話コメント最多シーンランキングTOP3",
+      "url": "https://news.infoseek.co.jp/amp/article/otakulab_210530/",
+      "host": "news.infoseek.co.jp",
+      "source": "Infoseek",
       "summary": "",
-      "publishedAt": "2026-10-19T10:20:00.000Z",
-      "image": "https://news-pctr.c.yimg.jp/uUzvQ3lML_bkIqyakc1vFhNrRI0RUQxg5aFkrX0xDg1_T0wXrbEJjtNGtrf1o9y3xudcUclfbXjZqAvGT8NJnZZXkm11TaAkIydeP130GeczuPoGBQcYgKtP1SOo9wyw-W33UyJ3hd4xRe11PH5KwF-7WSMQRghfiORDBDThDUQisisYx8hFkoo0pwEuMtYGzhe9aiFcuuMPw_AAmP--0w==",
+      "publishedAt": "2026-10-19T10:18:10.000Z",
+      "image": "https://media.image.infoseek.co.jp/isnews/photos/otakulab/otakulab_210530_0-enlarge.jpg",
       "categories": [
         "anime",
         "web"
@@ -1205,6 +1235,25 @@
       "viaGoogle": false,
       "sourceKind": "news",
       "isNew": false
+    },
+    {
+      "id": "89276a5751bf",
+      "title": "Mediowl ／無料WEBコミックサイト「コミックヨンデル」公開！異世界・SF・コメディなど10作品を掲載 - https://pr-free.jp/",
+      "url": "https://pr-free.jp/2026/185506/",
+      "host": "pr-free.jp",
+      "source": "https://pr-free.jp/",
+      "summary": "",
+      "publishedAt": "2026-10-19T10:08:40.000Z",
+      "image": "https://pr-free.jp/wp-content/uploads/2026/10/20261019_929Comic_YONDERU.jpg",
+      "categories": [
+        "anime",
+        "comic"
+      ],
+      "works": [],
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": true
     },
     {
       "id": "daea2b931feb",
@@ -1221,24 +1270,6 @@
       ],
       "works": [],
       "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": false
-    },
-    {
-      "id": "1960a859ad52",
-      "title": "無料WEBコミックサイト「コミックヨンデル」公開！異世界・SF・コメディなど10作品を掲載",
-      "url": "https://www.value-press.com/s/pressrelease/382815",
-      "host": "value-press.com",
-      "source": "valuepress",
-      "summary": "",
-      "publishedAt": "2026-10-19T10:00:00.000Z",
-      "image": "https://files.value-press.com/czMjZXllY2F0Y2gjODg1NzMjODg1NzNfdUJadHBoblJ6TS5qcGc.jpg?size=eyecatch",
-      "categories": [
-        "comic"
-      ],
-      "works": [],
-      "isPR": true,
       "viaGoogle": false,
       "sourceKind": "news",
       "isNew": false
@@ -1588,6 +1619,26 @@
       "isNew": false
     },
     {
+      "id": "a929ae3cacf1",
+      "title": "【リゼロ】ミニアニメ第81話「妾バンザイ」│『Re:ゼロから始める休憩時間(ブレイクタイム)』4th Season Usyk (0MVKtTegCR)",
+      "url": "https://media.unisba.ac.id/ea1897bf/e2ce22ediXKe8YlaxQ4",
+      "host": "media.unisba.ac.id",
+      "source": "Unisba Media",
+      "summary": "",
+      "publishedAt": "2026-10-19T03:56:47.000Z",
+      "image": "",
+      "categories": [
+        "anime"
+      ],
+      "works": [
+        "rezero"
+      ],
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": true
+    },
+    {
       "id": "bdcae550959c",
       "title": "「どうしてこうなった」絶望と歓喜が交錯!? 「過酷な運命に抗う姿」が熱かった2026夏の異世界アニメ（マグミクス）",
       "url": "https://news.yahoo.co.jp/articles/56990ee36c05cb4d154a641a79347b9a32f511be",
@@ -1680,6 +1731,26 @@
       "viaGoogle": false,
       "sourceKind": "news",
       "isNew": false
+    },
+    {
+      "id": "90fba31bc0a6",
+      "title": "『薬屋のひとりごと』火鼠の皮衣とは？湖に消えた美しい天女の伝説 第50話あらすじ＆場面カット解禁",
+      "url": "https://www.sanyonews.jp/article/2001864?rct",
+      "host": "sanyonews.jp",
+      "source": "山陽新聞",
+      "summary": "",
+      "publishedAt": "2026-10-19T01:32:07.000Z",
+      "image": "https://static.sanyonews.jp/image/article/size1/7/2/d/e/72dea31490b1ad563a8c9696162c4af9_1.jpg",
+      "categories": [
+        "anime"
+      ],
+      "works": [
+        "kusuriya"
+      ],
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": true
     },
     {
       "id": "d293d1a223a1",
@@ -2708,12 +2779,12 @@
     {
       "id": "548665cae6a4",
       "title": "大人気異世界転生ファンタジー【姫騎士がクラスメート！ THE COMIC 制服風水着くじ】の販売がスタート！歴代のカバーイラストや貴重なカラーイラストを使用したグッズや描き下ろし制服風水着姿グッズも！",
-      "url": "https://www.oricon.co.jp/pressrelease/3042212/",
-      "host": "oricon.co.jp",
-      "source": "オリコンニュース",
+      "url": "https://mantan-web.jp/prtimes/article/20261017prt00m200000067a.html",
+      "host": "mantan-web.jp",
+      "source": "MANTANWEB",
       "summary": "",
-      "publishedAt": "2026-10-17T03:46:00.000Z",
-      "image": "https://prtimes.jp/img/49835/1032/thumb/d49835-1032-d735c2f4eae425ea02d6-17.jpg",
+      "publishedAt": "2026-10-17T03:41:37.000Z",
+      "image": "https://prtimes.jp/img/49835/1032/resize/d49835-1032-d735c2f4eae425ea02d6-17.jpg",
       "categories": [
         "goods"
       ],
@@ -2740,6 +2811,26 @@
       "viaGoogle": false,
       "sourceKind": "news",
       "isNew": false
+    },
+    {
+      "id": "a9d38a7bb976",
+      "title": "「メロすぎる」「トップクラスで好き」…「薬屋のひとりごと」シゴデキ男衆・右叫に沼る視聴者が続出!! 過酷な現実に立ち向かう少女には「泣ける」の声も【第51話ネタバレあり反応まとめ】",
+      "url": "https://animeanime.jp/article/2026/10/17/103900.html",
+      "host": "animeanime.jp",
+      "source": "アニメ！アニメ！",
+      "summary": "",
+      "publishedAt": "2026-10-17T02:00:08.000Z",
+      "image": "https://animeanime.jp/imgs/ogp_f/944400.jpg",
+      "categories": [
+        "anime"
+      ],
+      "works": [
+        "kusuriya"
+      ],
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": true
     },
     {
       "id": "35c77e3ceb51",
