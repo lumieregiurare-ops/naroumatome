@@ -1,18 +1,18 @@
 {
-  "updatedAt": "2026-10-19T17:30:24.457Z",
+  "updatedAt": "2026-10-19T18:00:28.623Z",
   "site": {
     "title": "なろう系まとめ",
     "tagline": "小説家になろう発の作品のアニメ化・コミカライズ・書籍化のニュースと、なろうのランキングをまとめています。",
     "url": "https://naroumatome.gamelab.website/",
     "contactUrl": "https://docs.google.com/forms/d/e/1FAIpQLSesWyhmZ6sRS_ve-c3X2KqF_wC5PK2TgwgQbTKmnQltSlg5Jw/viewform"
   },
-  "total": 101,
+  "total": 99,
   "todayCount": 1,
   "categories": [
     {
       "id": "anime",
       "label": "アニメ",
-      "count": 53
+      "count": 51
     },
     {
       "id": "comic",
@@ -62,19 +62,19 @@
       "id": "rezero",
       "title": "Re:ゼロから始める異世界生活",
       "short": "リゼロ",
-      "count": 7
+      "count": 8
     },
     {
       "id": "honzuki",
       "title": "本好きの下剋上",
       "short": "本好き",
-      "count": 3
+      "count": 1
     },
     {
       "id": "kusuriya",
       "title": "薬屋のひとりごと",
       "short": "薬屋",
-      "count": 27
+      "count": 26
     },
     {
       "id": "kagejitsu",
@@ -296,11 +296,7 @@
   "sources": [
     {
       "name": "Unisba Media",
-      "count": 9
-    },
-    {
-      "name": "山陽新聞",
-      "count": 9
+      "count": 10
     },
     {
       "name": "アニメ！アニメ！",
@@ -308,6 +304,10 @@
     },
     {
       "name": "GameWith",
+      "count": 7
+    },
+    {
+      "name": "山陽新聞",
       "count": 7
     },
     {
@@ -356,10 +356,6 @@
     },
     {
       "name": "ニコニコニュース",
-      "count": 2
-    },
-    {
-      "name": "Dellows News",
       "count": 2
     },
     {
@@ -432,6 +428,10 @@
     },
     {
       "name": "tenki.jp",
+      "count": 1
+    },
+    {
+      "name": "Dellows News",
       "count": 1
     },
     {
@@ -720,34 +720,6 @@
       ]
     },
     {
-      "id": "39bf293e490e",
-      "title": "『本好きの下剋上』続編「貴族院の自称図書委員」編アニメ化決定 制作はWIT STUDIO",
-      "summary": "",
-      "url": "https://www.sanyonews.jp/article/1999132?rct",
-      "image": "https://static.sanyonews.jp/image/article/size1/e/6/b/3/e6b3aa2868f5d7e89848e029284bc7ef_1.jpg",
-      "leadSource": "山陽新聞",
-      "publishedAt": "2026-10-19T00:40:47.000Z",
-      "sourceCount": 2,
-      "articleCount": 2,
-      "categories": [
-        "anime"
-      ],
-      "keywords": [
-        "本好き",
-        "wit",
-        "studio"
-      ],
-      "articles": [
-        {
-          "title": "本好きの下剋上 貴族院の自称図書委員編がTVアニメ化 制作はWIT STUDIO",
-          "url": "https://news.dellows.jp/589827/?from",
-          "source": "Dellows News",
-          "publishedAt": "2026-10-17T06:02:25.000Z",
-          "isPR": false
-        }
-      ]
-    },
-    {
       "id": "92a35b697ee6",
       "title": "追放された転生重騎士はゲーム知識で無双する",
       "summary": "",
@@ -864,12 +836,12 @@
     }
   ],
   "churn": {
-    "previousAt": "2026-10-19T17:00:17.612Z",
-    "previousCount": 102,
-    "newCount": 3
+    "previousAt": "2026-10-19T17:30:24.457Z",
+    "previousCount": 101,
+    "newCount": 1
   },
   "updateGapMin": 30,
-  "nextUpdateAt": "2026-10-19T18:00:24.457Z",
+  "nextUpdateAt": "2026-10-19T18:30:28.623Z",
   "items": [
     {
       "id": "93041da54e2d",
@@ -887,7 +859,7 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "77dcfe217440",
@@ -1426,6 +1398,26 @@
       "isNew": false
     },
     {
+      "id": "a929ae3cacf1",
+      "title": "【リゼロ】ミニアニメ第81話「妾バンザイ」│『Re:ゼロから始める休憩時間(ブレイクタイム)』4th Season Usyk (0MVKtTegCR)",
+      "url": "https://media.unisba.ac.id/ea1897bf/e2ce22ediXKe8YlaxQ4",
+      "host": "media.unisba.ac.id",
+      "source": "Unisba Media",
+      "summary": "",
+      "publishedAt": "2026-10-19T03:56:47.000Z",
+      "image": "",
+      "categories": [
+        "anime"
+      ],
+      "works": [
+        "rezero"
+      ],
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": true
+    },
+    {
       "id": "4f56b364be5a",
       "title": "芦田愛菜主演『薬屋のひとりごと』“猫猫の父”役のキャスティングにファン注目 「絶対見たい」（マグミクス）",
       "url": "https://news.yahoo.co.jp/articles/94c0729a7c43ff0fbd805892eea8b2f40532e45c",
@@ -1502,26 +1494,6 @@
       "isNew": false
     },
     {
-      "id": "90fba31bc0a6",
-      "title": "『薬屋のひとりごと』火鼠の皮衣とは？湖に消えた美しい天女の伝説 第50話あらすじ＆場面カット解禁",
-      "url": "https://www.sanyonews.jp/article/2001864?rct",
-      "host": "sanyonews.jp",
-      "source": "山陽新聞",
-      "summary": "",
-      "publishedAt": "2026-10-19T01:32:07.000Z",
-      "image": "https://static.sanyonews.jp/image/article/size1/7/2/d/e/72dea31490b1ad563a8c9696162c4af9_1.jpg",
-      "categories": [
-        "anime"
-      ],
-      "works": [
-        "kusuriya"
-      ],
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": true
-    },
-    {
       "id": "d293d1a223a1",
       "title": "サンデーGX「薬屋のひとりごと」最新刊 第23巻 12月9日発売!",
       "url": "https://collabo-cafe.com/events/collabo/sundaygx-kusuriya-no-hitorigoto-comics23-release/?amp",
@@ -1574,26 +1546,6 @@
       ],
       "works": [
         "tensura"
-      ],
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": false
-    },
-    {
-      "id": "39bf293e490e",
-      "title": "『本好きの下剋上』続編「貴族院の自称図書委員」編アニメ化決定 制作はWIT STUDIO",
-      "url": "https://www.sanyonews.jp/article/1999132?rct",
-      "host": "sanyonews.jp",
-      "source": "山陽新聞",
-      "summary": "",
-      "publishedAt": "2026-10-19T00:40:47.000Z",
-      "image": "https://static.sanyonews.jp/image/article/size1/e/6/b/3/e6b3aa2868f5d7e89848e029284bc7ef_1.jpg",
-      "categories": [
-        "anime"
-      ],
-      "works": [
-        "honzuki"
       ],
       "isPR": false,
       "viaGoogle": false,
@@ -2481,26 +2433,6 @@
       "viaGoogle": false,
       "sourceKind": "news",
       "isNew": false
-    },
-    {
-      "id": "f527d8654b10",
-      "title": "本好きの下剋上 貴族院の自称図書委員編がTVアニメ化 制作はWIT STUDIO",
-      "url": "https://news.dellows.jp/589827/?from",
-      "host": "news.dellows.jp",
-      "source": "Dellows News",
-      "summary": "",
-      "publishedAt": "2026-10-17T06:02:25.000Z",
-      "image": "https://news.dellows.jp/wp-content/uploads/2026/10/589827_1.jpg",
-      "categories": [
-        "anime"
-      ],
-      "works": [
-        "honzuki"
-      ],
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": true
     },
     {
       "id": "0e314b3b51f9",
