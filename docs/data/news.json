@@ -1,18 +1,18 @@
 {
-  "updatedAt": "2026-10-19T15:30:19.720Z",
+  "updatedAt": "2026-10-19T16:00:24.214Z",
   "site": {
     "title": "なろう系まとめ",
     "tagline": "小説家になろう発の作品のアニメ化・コミカライズ・書籍化のニュースと、なろうのランキングをまとめています。",
     "url": "https://naroumatome.gamelab.website/",
     "contactUrl": "https://docs.google.com/forms/d/e/1FAIpQLSesWyhmZ6sRS_ve-c3X2KqF_wC5PK2TgwgQbTKmnQltSlg5Jw/viewform"
   },
-  "total": 103,
+  "total": 101,
   "todayCount": 0,
   "categories": [
     {
       "id": "anime",
       "label": "アニメ",
-      "count": 57
+      "count": 56
     },
     {
       "id": "comic",
@@ -37,7 +37,7 @@
     {
       "id": "goods",
       "label": "グッズ・イベント",
-      "count": 23
+      "count": 22
     },
     {
       "id": "other",
@@ -80,7 +80,7 @@
       "id": "kagejitsu",
       "title": "陰の実力者になりたくて！",
       "short": "陰の実力者",
-      "count": 7
+      "count": 6
     },
     {
       "id": "tate",
@@ -304,7 +304,7 @@
     },
     {
       "name": "山陽新聞",
-      "count": 7
+      "count": 8
     },
     {
       "name": "Yahoo!ニュース",
@@ -325,10 +325,6 @@
     {
       "name": "Howl.link",
       "count": 4
-    },
-    {
-      "name": "ABEMA TIMES",
-      "count": 3
     },
     {
       "name": "コラボカフェ",
@@ -467,7 +463,7 @@
       "count": 1
     },
     {
-      "name": "Appliv Games",
+      "name": "ABEMA TIMES",
       "count": 1
     }
   ],
@@ -871,12 +867,12 @@
     }
   ],
   "churn": {
-    "previousAt": "2026-10-19T15:00:20.044Z",
-    "previousCount": 105,
+    "previousAt": "2026-10-19T15:30:19.720Z",
+    "previousCount": 103,
     "newCount": 2
   },
   "updateGapMin": 30,
-  "nextUpdateAt": "2026-10-19T16:00:19.720Z",
+  "nextUpdateAt": "2026-10-19T16:30:24.214Z",
   "items": [
     {
       "id": "048856b88e3c",
@@ -956,13 +952,13 @@
     },
     {
       "id": "3ec84382beaa",
-      "title": "猫猫の“ガンギマリ顔”に「やべぇ目」「怖い怖い怖いw」と爆笑！アニメ『薬屋のひとりごと』51話 | アニメニュース | アニメフリークス",
-      "url": "https://times.abema.tv/articles/-/10281942",
-      "host": "times.abema.tv",
-      "source": "ABEMA TIMES",
+      "title": "猫猫の“ガンギマリ顔”に「やべぇ目」「怖い怖い怖いw」と爆笑！アニメ『薬屋のひとりごと』51話（ABEMA TIMES）",
+      "url": "https://news.yahoo.co.jp/articles/1c18c7286fbbe6dc4b4614ab52772e06f7eedd99",
+      "host": "news.yahoo.co.jp",
+      "source": "Yahoo!ニュース",
       "summary": "",
-      "publishedAt": "2026-10-19T11:44:00.000Z",
-      "image": "https://times-abema.ismcdn.jp/mwimgs/4/e/1200w/img_4e21aafbd59c49c5bb9b8ab229ddef50145519.jpg",
+      "publishedAt": "2026-10-19T11:45:32.000Z",
+      "image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20261019-10281942-abemad-000-1-view.jpg?exp=10800",
       "categories": [
         "anime"
       ],
@@ -1510,6 +1506,26 @@
       "isNew": false
     },
     {
+      "id": "90fba31bc0a6",
+      "title": "『薬屋のひとりごと』火鼠の皮衣とは？湖に消えた美しい天女の伝説 第50話あらすじ＆場面カット解禁",
+      "url": "https://www.sanyonews.jp/article/2001864?rct",
+      "host": "sanyonews.jp",
+      "source": "山陽新聞",
+      "summary": "",
+      "publishedAt": "2026-10-19T01:32:07.000Z",
+      "image": "https://static.sanyonews.jp/image/article/size1/7/2/d/e/72dea31490b1ad563a8c9696162c4af9_1.jpg",
+      "categories": [
+        "anime"
+      ],
+      "works": [
+        "kusuriya"
+      ],
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": true
+    },
+    {
       "id": "d293d1a223a1",
       "title": "サンデーGX「薬屋のひとりごと」最新刊 第23巻 12月9日発売!",
       "url": "https://collabo-cafe.com/events/collabo/sundaygx-kusuriya-no-hitorigoto-comics23-release/?amp",
@@ -1547,6 +1563,26 @@
       "viaGoogle": false,
       "sourceKind": "news",
       "isNew": false
+    },
+    {
+      "id": "2373c0692c7f",
+      "title": "『転スラ』リムル様、大忙し！ラミリスから緊急連絡 尊いミリムの表情…第84話あらすじ＆場面カット解禁",
+      "url": "https://www.sanyonews.jp/article/1942798?kw",
+      "host": "sanyonews.jp",
+      "source": "山陽新聞",
+      "summary": "",
+      "publishedAt": "2026-10-19T00:48:11.000Z",
+      "image": "https://static.sanyonews.jp/image/article/size1/6/5/0/1/6501ce6b09cb9464f23235f99fbe6a7f_1.jpg",
+      "categories": [
+        "anime"
+      ],
+      "works": [
+        "tensura"
+      ],
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": true
     },
     {
       "id": "ca31c7e51497",
@@ -1841,26 +1877,6 @@
       "isNew": false
     },
     {
-      "id": "a2e2a0b308c2",
-      "title": "『転スラ』ヒナタ、クロエのスキルで過去へ 【勇者クロノア・前編】第92話あらすじ＆場面カット解禁",
-      "url": "https://www.sanyonews.jp/article/1977455",
-      "host": "sanyonews.jp",
-      "source": "山陽新聞",
-      "summary": "",
-      "publishedAt": "2026-10-18T05:59:25.000Z",
-      "image": "https://static.sanyonews.jp/image/article/size1/7/5/7/1/7571927a22a24427be37ec09b4dc1fbc_1.jpg",
-      "categories": [
-        "anime"
-      ],
-      "works": [
-        "tensura"
-      ],
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": true
-    },
-    {
       "id": "d6726594db56",
       "title": "【アニメ異世界】最強の魔獣と仲間になった俺、万能スキルで異世界をのんびり満喫します！【アニメ異世界】 Viareggio (lddK9mDR5x)",
       "url": "https://media.unisba.ac.id/3ba26c45/ead67570CjceCgpnH1cwMhE",
@@ -1914,7 +1930,7 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "a43aa9e6dada",
@@ -2830,64 +2846,6 @@
       "summary": "",
       "publishedAt": "2026-10-16T17:20:03.000Z",
       "image": "",
-      "categories": [
-        "anime"
-      ],
-      "works": [],
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": false
-    },
-    {
-      "id": "649b704173f6",
-      "title": "【#コンパス】 『陰の実力者になりたくて！』コラボカード＆コスチューム一挙紹介！豊富な【周】カードや新効果の【癒】カードが目玉!!",
-      "url": "https://games.app-liv.jp/archives/573775",
-      "host": "games.app-liv.jp",
-      "source": "Appliv Games",
-      "summary": "",
-      "publishedAt": "2026-10-16T15:59:54.000Z",
-      "image": "",
-      "categories": [
-        "goods"
-      ],
-      "works": [
-        "kagejitsu"
-      ],
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": false
-    },
-    {
-      "id": "ee237dc8ed84",
-      "title": "アニメ『薬屋のひとりごと』3期はいつから？2026年10月2日から分割2クールで放送！原作のどこからどこまで？",
-      "url": "https://times.abema.tv/articles/-/10078716",
-      "host": "times.abema.tv",
-      "source": "ABEMA TIMES",
-      "summary": "",
-      "publishedAt": "2026-10-16T15:54:00.000Z",
-      "image": "https://times-abema.ismcdn.jp/mwimgs/f/8/1200w/img_f8cb08e0d30ce9bbb369c8e57eb7241b118277.jpg",
-      "categories": [
-        "anime"
-      ],
-      "works": [
-        "kusuriya"
-      ],
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": false
-    },
-    {
-      "id": "1c71e3e17c2d",
-      "title": "＜魔法騎士レイアース＞異世界セフィーロへ召喚された光たちは伝説の魔法騎士を目指す 第1話あらすじ＆先行カット公開",
-      "url": "https://news.yahoo.co.jp/articles/058ad47c6b7e8824edcb82614cf9019c9b41d7c4",
-      "host": "news.yahoo.co.jp",
-      "source": "Yahoo!ニュース",
-      "summary": "",
-      "publishedAt": "2026-10-16T15:31:00.000Z",
-      "image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20261003-01445381-the_tv-000-2-view.jpg?exp=10800",
       "categories": [
         "anime"
       ],
