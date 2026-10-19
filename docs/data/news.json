@@ -1,18 +1,18 @@
 {
-  "updatedAt": "2026-10-19T05:00:18.497Z",
+  "updatedAt": "2026-10-19T05:30:19.870Z",
   "site": {
     "title": "なろう系まとめ",
     "tagline": "小説家になろう発の作品のアニメ化・コミカライズ・書籍化のニュースと、なろうのランキングをまとめています。",
     "url": "https://naroumatome.gamelab.website/",
     "contactUrl": "https://docs.google.com/forms/d/e/1FAIpQLSesWyhmZ6sRS_ve-c3X2KqF_wC5PK2TgwgQbTKmnQltSlg5Jw/viewform"
   },
-  "total": 110,
-  "todayCount": 18,
+  "total": 112,
+  "todayCount": 20,
   "categories": [
     {
       "id": "anime",
       "label": "アニメ",
-      "count": 53
+      "count": 56
     },
     {
       "id": "comic",
@@ -37,12 +37,12 @@
     {
       "id": "goods",
       "label": "グッズ・イベント",
-      "count": 24
+      "count": 25
     },
     {
       "id": "other",
       "label": "そのほか",
-      "count": 18
+      "count": 17
     }
   ],
   "works": [
@@ -68,13 +68,13 @@
       "id": "honzuki",
       "title": "本好きの下剋上",
       "short": "本好き",
-      "count": 1
+      "count": 3
     },
     {
       "id": "kusuriya",
       "title": "薬屋のひとりごと",
       "short": "薬屋",
-      "count": 28
+      "count": 29
     },
     {
       "id": "kagejitsu",
@@ -300,26 +300,26 @@
     },
     {
       "name": "アニメ！アニメ！",
-      "count": 8
+      "count": 9
+    },
+    {
+      "name": "山陽新聞",
+      "count": 9
     },
     {
       "name": "AppMedia",
       "count": 8
     },
     {
-      "name": "山陽新聞",
-      "count": 7
-    },
-    {
       "name": "Yahoo!ニュース",
       "count": 7
     },
     {
-      "name": "ラノベニュースオンライン",
-      "count": 7
+      "name": "GameWith",
+      "count": 6
     },
     {
-      "name": "GameWith",
+      "name": "ラノベニュースオンライン",
       "count": 6
     },
     {
@@ -349,10 +349,6 @@
     {
       "name": "Howl.link",
       "count": 3
-    },
-    {
-      "name": "PR TIMES",
-      "count": 2
     },
     {
       "name": "キャラグー",
@@ -411,6 +407,10 @@
       "count": 1
     },
     {
+      "name": "Dellows News",
+      "count": 1
+    },
+    {
       "name": "ゲームドライブ",
       "count": 1
     },
@@ -428,6 +428,10 @@
     },
     {
       "name": "ライブドアニュース",
+      "count": 1
+    },
+    {
+      "name": "PR TIMES",
       "count": 1
     },
     {
@@ -587,6 +591,34 @@
           "url": "https://collabo-cafe.com/events/collabo/sundaygx-kusuriya-no-hitorigoto-comics23-release/?amp",
           "source": "コラボカフェ",
           "publishedAt": "2026-10-19T01:05:13.000Z",
+          "isPR": false
+        }
+      ]
+    },
+    {
+      "id": "39bf293e490e",
+      "title": "『本好きの下剋上』続編「貴族院の自称図書委員」編アニメ化決定 制作はWIT STUDIO",
+      "summary": "",
+      "url": "https://www.sanyonews.jp/article/1999132?rct",
+      "image": "https://static.sanyonews.jp/image/article/size1/e/6/b/3/e6b3aa2868f5d7e89848e029284bc7ef_1.jpg",
+      "leadSource": "山陽新聞",
+      "publishedAt": "2026-10-19T00:40:47.000Z",
+      "sourceCount": 2,
+      "articleCount": 2,
+      "categories": [
+        "anime"
+      ],
+      "keywords": [
+        "本好き",
+        "wit",
+        "studio"
+      ],
+      "articles": [
+        {
+          "title": "本好きの下剋上 貴族院の自称図書委員編がTVアニメ化 制作はWIT STUDIO",
+          "url": "https://news.dellows.jp/589827/?from",
+          "source": "Dellows News",
+          "publishedAt": "2026-10-17T06:02:25.000Z",
           "isPR": false
         }
       ]
@@ -785,43 +817,15 @@
           "isPR": false
         }
       ]
-    },
-    {
-      "id": "0e314b3b51f9",
-      "title": "『ポコダン』×『無職転生Ⅲ』開幕！オルステッドは10月23日から、無料ガチャの対象も確認",
-      "summary": "",
-      "url": "https://gamedrive.jp/news/1792210021",
-      "image": "https://img.gamewith.jp/article/thumbnail/rectangle/583067.png?date=1792153835",
-      "leadSource": "ゲームドライブ",
-      "publishedAt": "2026-10-17T05:00:00.000Z",
-      "sourceCount": 2,
-      "articleCount": 2,
-      "categories": [
-        "game",
-        "goods"
-      ],
-      "keywords": [
-        "無職転生",
-        "ポコダン"
-      ],
-      "articles": [
-        {
-          "title": "【ポコダン】無職転生コラボ攻略まとめ【ポコロンダンジョンズ】",
-          "url": "https://gamewith.jp/pocodun/article/show/583067",
-          "source": "GameWith",
-          "publishedAt": "2026-10-16T12:30:34.000Z",
-          "isPR": false
-        }
-      ]
     }
   ],
   "churn": {
-    "previousAt": "2026-10-19T04:30:19.204Z",
-    "previousCount": 111,
-    "newCount": 0
+    "previousAt": "2026-10-19T05:00:18.497Z",
+    "previousCount": 110,
+    "newCount": 3
   },
   "updateGapMin": 30,
-  "nextUpdateAt": "2026-10-19T05:30:18.497Z",
+  "nextUpdateAt": "2026-10-19T06:00:19.870Z",
   "items": [
     {
       "id": "89d4f028dc3a",
@@ -866,17 +870,17 @@
     {
       "id": "2a006e5cb95a",
       "title": "【堅物騎士団長×臆病なバーテンダーの、転生恋物語】『騎士団長は異世界バーで恋に落ちる 1』2026年10月19日（月）発売！",
-      "url": "https://prtimes.jp/main/html/rd/p/000020348.000007006.html",
-      "host": "prtimes.jp",
-      "source": "PR TIMES",
+      "url": "https://animeanime.jp/release/prtimes/20261019/320657.html",
+      "host": "animeanime.jp",
+      "source": "アニメ！アニメ！",
       "summary": "",
-      "publishedAt": "2026-10-19T02:00:01.000Z",
-      "image": "https://prcdn.freetls.fastly.net/release_image/7006/20348/7006-20348-b57e87bd49fa4918b5dead55caf544fe-1500x2134.jpg?format=jpeg&auto=webp&fit=bounds&width=2400&height=1260",
+      "publishedAt": "2026-10-19T02:00:00.000Z",
+      "image": "https://animeanime.jp/release/imgs/list/564338.jpg",
       "categories": [
         "other"
       ],
       "works": [],
-      "isPR": true,
+      "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
       "isNew": false
@@ -937,6 +941,26 @@
       "viaGoogle": false,
       "sourceKind": "news",
       "isNew": false
+    },
+    {
+      "id": "39bf293e490e",
+      "title": "『本好きの下剋上』続編「貴族院の自称図書委員」編アニメ化決定 制作はWIT STUDIO",
+      "url": "https://www.sanyonews.jp/article/1999132?rct",
+      "host": "sanyonews.jp",
+      "source": "山陽新聞",
+      "summary": "",
+      "publishedAt": "2026-10-19T00:40:47.000Z",
+      "image": "https://static.sanyonews.jp/image/article/size1/e/6/b/3/e6b3aa2868f5d7e89848e029284bc7ef_1.jpg",
+      "categories": [
+        "anime"
+      ],
+      "works": [
+        "honzuki"
+      ],
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": true
     },
     {
       "id": "ca31c7e51497",
@@ -1075,6 +1099,27 @@
       "viaGoogle": false,
       "sourceKind": "news",
       "isNew": false
+    },
+    {
+      "id": "80f0fa301e95",
+      "title": "『薬屋のひとりごと』第3期、ノンクレジットOP映像公開 Blu-ray発売決定でイラスト解禁",
+      "url": "https://www.sanyonews.jp/article/1998700?rct",
+      "host": "sanyonews.jp",
+      "source": "山陽新聞",
+      "summary": "",
+      "publishedAt": "2026-10-18T16:46:43.000Z",
+      "image": "https://static.sanyonews.jp/image/article/size1/5/9/7/8/59783af7bbcdc324127e682654421cc9_1.jpg",
+      "categories": [
+        "anime",
+        "goods"
+      ],
+      "works": [
+        "kusuriya"
+      ],
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": true
     },
     {
       "id": "426b304e7ca5",
@@ -1818,26 +1863,6 @@
       "isNew": false
     },
     {
-      "id": "ba79219a2352",
-      "title": "【まおりゅう】武勇祭ノーマル最強戦闘キャラランキング【転スラ】",
-      "url": "https://appmedia.jp/ten-sura-m/79108667",
-      "host": "appmedia.jp",
-      "source": "AppMedia",
-      "summary": "",
-      "publishedAt": "2026-10-17T07:26:43.000Z",
-      "image": "https://appmedia.jp/wp-content/uploads/2025/07/123248_azpl5.webp",
-      "categories": [
-        "web"
-      ],
-      "works": [
-        "tensura"
-      ],
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": false
-    },
-    {
       "id": "34210dc3e741",
       "title": "「転ステ」第1弾・第2弾が無料プレミア公開決定！転スラ舞台第3弾上演記念",
       "url": "https://koubo.jp/article/131843",
@@ -1856,6 +1881,26 @@
       "viaGoogle": false,
       "sourceKind": "news",
       "isNew": false
+    },
+    {
+      "id": "f527d8654b10",
+      "title": "本好きの下剋上 貴族院の自称図書委員編がTVアニメ化 制作はWIT STUDIO",
+      "url": "https://news.dellows.jp/589827/?from",
+      "host": "news.dellows.jp",
+      "source": "Dellows News",
+      "summary": "",
+      "publishedAt": "2026-10-17T06:02:25.000Z",
+      "image": "",
+      "categories": [
+        "anime"
+      ],
+      "works": [
+        "honzuki"
+      ],
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": true
     },
     {
       "id": "0e314b3b51f9",
@@ -2803,6 +2848,26 @@
       "isNew": false
     },
     {
+      "id": "ba79219a2352",
+      "title": "【まおりゅう】武勇祭ノーマル最強戦闘キャラランキング【転スラ】",
+      "url": "https://appmedia.jp/ten-sura-m/79108667",
+      "host": "appmedia.jp",
+      "source": "AppMedia",
+      "summary": "",
+      "publishedAt": "2026-10-16T07:00:00.000Z",
+      "image": "https://appmedia.jp/wp-content/uploads/2025/07/123248_azpl5.webp",
+      "categories": [
+        "web"
+      ],
+      "works": [
+        "tensura"
+      ],
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": false
+    },
+    {
       "id": "017233b0a882",
       "title": "【まおりゅう】英傑杯最強キャラランキング｜最新Tier表【転スラ】",
       "url": "https://appmedia.jp/ten-sura-m/78901625",
@@ -2954,24 +3019,6 @@
       "works": [
         "rezero"
       ],
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": false
-    },
-    {
-      "id": "7db6f3d1bc0f",
-      "title": "アース・スターノベル2026年10月刊行のラインナップをご紹介。『もふもふとむくむくと異世界漂流生活15』『メイドなら当然です。9』など4冊",
-      "url": "https://ln-news.com/articles/126957",
-      "host": "ln-news.com",
-      "source": "ラノベニュースオンライン",
-      "summary": "",
-      "publishedAt": "2026-10-16T02:00:00.000Z",
-      "image": "https://assets.ln-news.com/images/medias/d7f07c49e52d46f6b2ab3c546c3c969d.jpg",
-      "categories": [
-        "other"
-      ],
-      "works": [],
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
