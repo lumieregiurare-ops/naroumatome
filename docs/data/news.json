@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-19T00:28:07.101Z",
+  "updatedAt": "2026-10-19T01:00:17.880Z",
   "site": {
     "title": "なろう系まとめ",
     "tagline": "小説家になろう発の作品のアニメ化・コミカライズ・書籍化のニュースと、なろうのランキングをまとめています。",
@@ -12,7 +12,7 @@
     {
       "id": "anime",
       "label": "アニメ",
-      "count": 55
+      "count": 54
     },
     {
       "id": "comic",
@@ -22,7 +22,7 @@
     {
       "id": "book",
       "label": "書籍・ラノベ",
-      "count": 7
+      "count": 8
     },
     {
       "id": "web",
@@ -37,12 +37,12 @@
     {
       "id": "goods",
       "label": "グッズ・イベント",
-      "count": 27
+      "count": 25
     },
     {
       "id": "other",
       "label": "そのほか",
-      "count": 17
+      "count": 18
     }
   ],
   "works": [
@@ -299,24 +299,24 @@
       "count": 13
     },
     {
+      "name": "Yahoo!ニュース",
+      "count": 10
+    },
+    {
       "name": "AppMedia",
       "count": 8
     },
     {
-      "name": "Yahoo!ニュース",
-      "count": 8
-    },
-    {
       "name": "アニメ！アニメ！",
-      "count": 8
-    },
-    {
-      "name": "山陽新聞",
       "count": 7
     },
     {
       "name": "ラノベニュースオンライン",
       "count": 7
+    },
+    {
+      "name": "山陽新聞",
+      "count": 6
     },
     {
       "name": "ナタリー",
@@ -347,10 +347,6 @@
       "count": 3
     },
     {
-      "name": "PR TIMES",
-      "count": 3
-    },
-    {
       "name": "キャラグー",
       "count": 2
     },
@@ -360,6 +356,10 @@
     },
     {
       "name": "千葉テレビ放送株式会社",
+      "count": 2
+    },
+    {
+      "name": "PR TIMES",
       "count": 2
     },
     {
@@ -407,7 +407,7 @@
       "count": 1
     },
     {
-      "name": "ファミ通.com",
+      "name": "ファミ通",
       "count": 1
     },
     {
@@ -440,6 +440,10 @@
     },
     {
       "name": "マグミクス",
+      "count": 1
+    },
+    {
+      "name": "紀伊國屋書店ウェブストア",
       "count": 1
     }
   ],
@@ -494,6 +498,49 @@
       ]
     },
     {
+      "id": "681de13dd15a",
+      "title": "薬屋のひとりごと：テレビアニメ第3期 猫猫と壬氏の関係は？ 子守唄の「無言」の意味 筆坂明規監督インタビュー",
+      "summary": "",
+      "url": "https://mantan-web.jp/article/20261014dog00m200065000a.html",
+      "image": "https://storage.mantan-web.jp/w=1280,h=720,icr=0:0.1:1:1,a=2,g=2,f=webp:auto/images/2026/10/14/20261014dog00m200065000a/001.jpg",
+      "leadSource": "MANTANWEB",
+      "publishedAt": "2026-10-16T22:05:35.000Z",
+      "sourceCount": 3,
+      "articleCount": 4,
+      "categories": [
+        "anime",
+        "other"
+      ],
+      "keywords": [
+        "薬屋",
+        "猫猫",
+        "壬氏"
+      ],
+      "articles": [
+        {
+          "title": "＜薬屋のひとりごと＞テレビアニメ第3期 猫猫と壬氏の関係は？ 子守唄の「無言」の意味 筆坂明規監督インタビュー",
+          "url": "https://news.yahoo.co.jp/articles/5c3841c782b9afb793b97bb8dc8327946345f8a2?page",
+          "source": "Yahoo!ニュース",
+          "publishedAt": "2026-10-16T22:05:00.000Z",
+          "isPR": false
+        },
+        {
+          "title": "『薬屋のひとりごと』初の公式おせちが発売決定！ 猫猫＆壬氏の描きおろしアクスタ付き（クランクイン！）",
+          "url": "https://news.yahoo.co.jp/articles/7ece6b67dbeeee7f5c6bf18691ea1b07752c68a1",
+          "source": "Yahoo!ニュース",
+          "publishedAt": "2026-10-16T09:15:00.000Z",
+          "isPR": false
+        },
+        {
+          "title": "「薬屋のひとりごと」猫猫＆壬氏のおせちが登場！ 描きおろしアクスタ付きで全18品♪",
+          "url": "https://animeanime.jp/article/2026/10/16/103881.html",
+          "source": "アニメ！アニメ！",
+          "publishedAt": "2026-10-16T07:00:09.000Z",
+          "isPR": false
+        }
+      ]
+    },
+    {
       "id": "af4ec8dc64d5",
       "title": "「リゼロ」スバル、エミリア、レムが水門都市でお出迎え♪ コラボ企画を開催☆ 12/27は小林裕介＆高橋李依トークショーも【ラグーナテンボス・ラグナシア】",
       "summary": "『リゼロ』3rd seasonの水門都市プリステラみたいなラグーナテンボス・ラグナシアで11月7日からコラボイベント開催！",
@@ -525,77 +572,6 @@
           "url": "https://news.infoseek.co.jp/article/abematimes_10281358/",
           "source": "Infoseek",
           "publishedAt": "2026-10-16T07:40:00.000Z",
-          "isPR": false
-        }
-      ]
-    },
-    {
-      "id": "681de13dd15a",
-      "title": "薬屋のひとりごと：テレビアニメ第3期 猫猫と壬氏の関係は？ 子守唄の「無言」の意味 筆坂明規監督インタビュー",
-      "summary": "",
-      "url": "https://mantan-web.jp/article/20261014dog00m200065000a.html",
-      "image": "https://storage.mantan-web.jp/w=1280,h=720,icr=0:0.1:1:1,a=2,g=2,f=webp:auto/images/2026/10/14/20261014dog00m200065000a/001.jpg",
-      "leadSource": "MANTANWEB",
-      "publishedAt": "2026-10-16T22:05:35.000Z",
-      "sourceCount": 3,
-      "articleCount": 3,
-      "categories": [
-        "anime",
-        "other"
-      ],
-      "keywords": [
-        "薬屋",
-        "猫猫",
-        "壬氏"
-      ],
-      "articles": [
-        {
-          "title": "＜薬屋のひとりごと＞テレビアニメ第3期 猫猫と壬氏の関係は？ 子守唄の「無言」の意味 筆坂明規監督インタビュー",
-          "url": "https://news.yahoo.co.jp/articles/5c3841c782b9afb793b97bb8dc8327946345f8a2?page",
-          "source": "Yahoo!ニュース",
-          "publishedAt": "2026-10-16T22:05:00.000Z",
-          "isPR": false
-        },
-        {
-          "title": "「薬屋のひとりごと」猫猫＆壬氏のおせちが登場！ 描きおろしアクスタ付きで全18品♪",
-          "url": "https://animeanime.jp/article/2026/10/16/103881.html",
-          "source": "アニメ！アニメ！",
-          "publishedAt": "2026-10-16T07:00:09.000Z",
-          "isPR": false
-        }
-      ]
-    },
-    {
-      "id": "d9931edfee03",
-      "title": "劇場版 薬屋のひとりごと 亡妃の秘宝＞第3弾PV公開＆壬氏一行を狙う水賊・化蛇団メンバーに小野賢章ら決定",
-      "summary": "",
-      "url": "https://thetv.jp/news/detail/1448116/landing/?utm_source",
-      "image": "https://static.sanyonews.jp/image/article/size1/8/2/f/5/82f54b9ccac21e53b38bd7a273f57d06_1.jpg",
-      "leadSource": "WEBザテレビジョン",
-      "publishedAt": "2026-10-18T14:50:08.000Z",
-      "sourceCount": 2,
-      "articleCount": 3,
-      "categories": [
-        "anime"
-      ],
-      "keywords": [
-        "薬屋",
-        "劇場版",
-        "壬氏一行"
-      ],
-      "articles": [
-        {
-          "title": "劇場版『薬屋のひとりごと』新PV解禁 小野賢章、化蛇団の水蛇役「明らかに悪そうな顔してますが、、、笑」",
-          "url": "https://www.sanyonews.jp/article/2003638",
-          "source": "山陽新聞",
-          "publishedAt": "2026-10-17T17:08:22.000Z",
-          "isPR": false
-        },
-        {
-          "title": "『薬屋のひとりごと』初の劇場版、4日連続キャラクターPV解禁 第1弾は猫猫・壬氏一行",
-          "url": "https://www.sanyonews.jp/article/2003085?rct",
-          "source": "山陽新聞",
-          "publishedAt": "2026-10-16T21:28:56.000Z",
           "isPR": false
         }
       ]
@@ -666,6 +642,34 @@
           "url": "https://news.yahoo.co.jp/articles/91ce8fef40eeeb8319c5b5c53ac7efb0e7a275a2",
           "source": "Yahoo!ニュース",
           "publishedAt": "2026-10-16T03:08:00.000Z",
+          "isPR": false
+        }
+      ]
+    },
+    {
+      "id": "d9931edfee03",
+      "title": "劇場版 薬屋のひとりごと 亡妃の秘宝＞第3弾PV公開＆壬氏一行を狙う水賊・化蛇団メンバーに小野賢章ら決定",
+      "summary": "",
+      "url": "https://thetv.jp/news/detail/1448116/landing/?utm_source",
+      "image": "https://static.sanyonews.jp/image/article/size1/8/2/f/5/82f54b9ccac21e53b38bd7a273f57d06_1.jpg",
+      "leadSource": "WEBザテレビジョン",
+      "publishedAt": "2026-10-18T22:39:10.000Z",
+      "sourceCount": 2,
+      "articleCount": 2,
+      "categories": [
+        "anime"
+      ],
+      "keywords": [
+        "薬屋",
+        "劇場版",
+        "化蛇団"
+      ],
+      "articles": [
+        {
+          "title": "劇場版『薬屋のひとりごと』新PV解禁 小野賢章、化蛇団の水蛇役「明らかに悪そうな顔してますが、、、笑」",
+          "url": "https://www.sanyonews.jp/article/2003638",
+          "source": "山陽新聞",
+          "publishedAt": "2026-10-17T17:08:22.000Z",
           "isPR": false
         }
       ]
@@ -781,6 +785,34 @@
       ]
     },
     {
+      "id": "3b6d7b2bc3d7",
+      "title": "【期間限定】『薬屋のひとりごと』原作小説カフェ @TOKYOの今日・明日の天気 週末の天気・紫外線情報【お出かけスポット天気】",
+      "summary": "",
+      "url": "https://tenki.jp/leisure/3/16/93/187094/",
+      "image": "https://d2goguvysdoarq.cloudfront.net/system/facility_photos/photos/307024/normal.jpg?1777519463&w=640&h=640&t=r",
+      "leadSource": "tenki.jp",
+      "publishedAt": "2026-10-17T22:36:42.000Z",
+      "sourceCount": 2,
+      "articleCount": 2,
+      "categories": [
+        "book",
+        "goods"
+      ],
+      "keywords": [
+        "薬屋",
+        "原作小説"
+      ],
+      "articles": [
+        {
+          "title": "薬屋のひとりごと 原作小説POP UP STORE",
+          "url": "https://store.kinokuniya.co.jp/event/1791960039/",
+          "source": "紀伊國屋書店ウェブストア",
+          "publishedAt": "2026-10-16T01:42:01.000Z",
+          "isPR": false
+        }
+      ]
+    },
+    {
       "id": "f6f5b132f70c",
       "title": "KADOKAWAグループ作品6万点以上に使える最大60％OFFクーポン配布！「陰の実力者」「聖剣学院の魔剣使い」など秋アニメ作品もお得に",
       "summary": "",
@@ -806,44 +838,36 @@
           "isPR": false
         }
       ]
-    },
-    {
-      "id": "ea525af1a8b1",
-      "title": "『片田舎のおっさん、剣聖になる』第2期あらすじ＆場面カット解禁 狼の姿をした影が教師たち襲う",
-      "summary": "",
-      "url": "https://www.sanyonews.jp/article/1957982?kw",
-      "image": "https://static.sanyonews.jp/image/article/size1/0/9/3/e/093ee78577f75ad90bcf35368e554628_1.jpg",
-      "leadSource": "山陽新聞",
-      "publishedAt": "2026-10-16T21:01:51.000Z",
-      "sourceCount": 2,
-      "articleCount": 2,
-      "categories": [
-        "anime"
-      ],
-      "keywords": [
-        "片田舎のおっさん",
-        "片田舎",
-        "剣聖"
-      ],
-      "articles": [
-        {
-          "title": "TVアニメ「片田舎のおっさん、剣聖になる」第三期制作決定！ | 平田広明お祝いコメント Motogp (HZuASx91UI)",
-          "url": "https://media.unisba.ac.id/0b3b996d/5213aebePTiAaJlM2y0/?share",
-          "source": "Unisba Media",
-          "publishedAt": "2026-10-16T12:09:57.000Z",
-          "isPR": false
-        }
-      ]
     }
   ],
   "churn": {
-    "previousAt": "2026-10-19T00:00:17.424Z",
+    "previousAt": "2026-10-19T00:28:07.101Z",
     "previousCount": 109,
     "newCount": 2
   },
   "updateGapMin": 30,
-  "nextUpdateAt": "2026-10-19T00:58:07.101Z",
+  "nextUpdateAt": "2026-10-19T01:30:17.880Z",
   "items": [
+    {
+      "id": "d9931edfee03",
+      "title": "劇場版 薬屋のひとりごと 亡妃の秘宝＞第3弾PV公開＆壬氏一行を狙う水賊・化蛇団メンバーに小野賢章ら決定",
+      "url": "https://thetv.jp/news/detail/1448116/landing/?utm_source",
+      "host": "thetv.jp",
+      "source": "WEBザテレビジョン",
+      "summary": "",
+      "publishedAt": "2026-10-18T22:39:10.000Z",
+      "image": "",
+      "categories": [
+        "anime"
+      ],
+      "works": [
+        "kusuriya"
+      ],
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": false
+    },
     {
       "id": "528ab15ffd00",
       "title": "『薬屋のひとりごと』最新話に反響 猫猫と壬氏の距離に変化？白鈴の核心つく一言に「それがまたいい」",
@@ -943,27 +967,6 @@
       "isNew": false
     },
     {
-      "id": "80f0fa301e95",
-      "title": "『薬屋のひとりごと』第3期、ノンクレジットOP映像公開 Blu-ray発売決定でイラスト解禁",
-      "url": "https://www.sanyonews.jp/article/1998700?rct",
-      "host": "sanyonews.jp",
-      "source": "山陽新聞",
-      "summary": "",
-      "publishedAt": "2026-10-18T16:46:43.000Z",
-      "image": "https://static.sanyonews.jp/image/article/size1/5/9/7/8/59783af7bbcdc324127e682654421cc9_1.jpg",
-      "categories": [
-        "anime",
-        "goods"
-      ],
-      "works": [
-        "kusuriya"
-      ],
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": true
-    },
-    {
       "id": "426b304e7ca5",
       "title": "薬屋のひとりごと 亡妃の秘宝×近鉄 猫猫・壬氏 万葉への謎旅｜薬屋のひとりごとのコラボ・イベント 開催期間・場所・グッズ",
       "url": "https://charagoo.jp/collab/event/14849a33e4ac/",
@@ -1052,26 +1055,6 @@
         "anime"
       ],
       "works": [],
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": false
-    },
-    {
-      "id": "d9931edfee03",
-      "title": "劇場版 薬屋のひとりごと 亡妃の秘宝＞第3弾PV公開＆壬氏一行を狙う水賊・化蛇団メンバーに小野賢章ら決定",
-      "url": "https://thetv.jp/news/detail/1448116/landing/?utm_source",
-      "host": "thetv.jp",
-      "source": "WEBザテレビジョン",
-      "summary": "",
-      "publishedAt": "2026-10-18T14:50:08.000Z",
-      "image": "",
-      "categories": [
-        "anime"
-      ],
-      "works": [
-        "kusuriya"
-      ],
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
@@ -1845,7 +1828,7 @@
       "title": "【Amazonプライム感謝祭】『陰の実力者になりたくて！』アルファが29％オフ！ 『にじさんじ』アンジュ・カトリーナ、『ホロライブ』ときのそらのねんどろいどもお買い得に",
       "url": "https://www.famitsu.com/article/202610/91274",
       "host": "famitsu.com",
-      "source": "ファミ通.com",
+      "source": "ファミ通",
       "summary": "",
       "publishedAt": "2026-10-17T00:10:00.000Z",
       "image": "https://cimg.kgl-systems.io/camion/files/91274/thumbnail_prUD.jpg?x=1280",
@@ -1938,7 +1921,7 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "ea525af1a8b1",
@@ -2410,6 +2393,26 @@
       "isNew": false
     },
     {
+      "id": "108eff4001ca",
+      "title": "『薬屋のひとりごと』初の公式おせちが発売決定！ 猫猫＆壬氏の描きおろしアクスタ付き（クランクイン！）",
+      "url": "https://news.yahoo.co.jp/articles/7ece6b67dbeeee7f5c6bf18691ea1b07752c68a1",
+      "host": "news.yahoo.co.jp",
+      "source": "Yahoo!ニュース",
+      "summary": "",
+      "publishedAt": "2026-10-16T09:15:00.000Z",
+      "image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20261016-00192771-crankinn-000-1-view.jpg?exp=10800",
+      "categories": [
+        "other"
+      ],
+      "works": [
+        "kusuriya"
+      ],
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": true
+    },
+    {
       "id": "b64c7f63d39f",
       "title": "「薬屋のひとりごと」キョンシー猫猫が可愛すぎる♡壬氏さまは美しい九尾に!?ハロウィンにぴったりなフィギュアが新登場",
       "url": "https://animeanime.jp/article/2026/10/16/103888.html",
@@ -2492,12 +2495,12 @@
     {
       "id": "9ea363e9791c",
       "title": "「鬼滅の刃」鬼舞辻、「転スラ」リムル、「オバロ」アインズ…慕われるリーダーから恐怖の支配者まで!? ボスキャラアニメ5選☆ボスの日記念【ABEMA】",
-      "url": "https://animeanime.jp/article/2026/10/16/103884.html",
-      "host": "animeanime.jp",
-      "source": "アニメ！アニメ！",
+      "url": "https://news.yahoo.co.jp/articles/c47792b9ce7bffc828bd8655a1cac01076b5ed2d/images/000",
+      "host": "news.yahoo.co.jp",
+      "source": "Yahoo!ニュース",
       "summary": "",
       "publishedAt": "2026-10-16T07:45:02.000Z",
-      "image": "https://animeanime.jp/imgs/ogp_f/944150.jpg",
+      "image": "https://news-pctr.c.yimg.jp/uUzvQ3lML_bkIqyakc1vFhNrRI0RUQxg5aFkrX0xDg1_T0wXrbEJjtNGtrf1o9y3xudcUclfbXjZqAvGT8NJnfLkrOukYyyH8Lz5H2cWoj66gm6boodWGClICAw3ER5tjZOL8cW4S5XyVX7qOjr62kLqf45lxdPyUQzTJzvJczplKrk-noq-N3MYUDnf7m4s",
       "categories": [
         "anime"
       ],
@@ -2966,25 +2969,25 @@
       "isNew": false
     },
     {
-      "id": "0ded9a647e91",
-      "title": "茨城県×アニメ『薬屋のひとりごと』、10月17日(土)からコラボメニューと第2弾オリジナルグッズ販売開始",
-      "url": "https://prtimes.jp/main/html/rd/p/000000022.000165784.html",
-      "host": "prtimes.jp",
-      "source": "PR TIMES",
+      "id": "76721cf0c2be",
+      "title": "薬屋のひとりごと 原作小説POP UP STORE",
+      "url": "https://store.kinokuniya.co.jp/event/1791960039/",
+      "host": "store.kinokuniya.co.jp",
+      "source": "紀伊國屋書店ウェブストア",
       "summary": "",
-      "publishedAt": "2026-10-16T01:00:01.000Z",
-      "image": "https://prcdn.freetls.fastly.net/release_image/165784/22/165784-22-c5d69f97ab02f60953972c07ac5cc41d-1200x700.png?format=jpeg&auto=webp&fit=bounds&width=2400&height=1260",
+      "publishedAt": "2026-10-16T01:42:01.000Z",
+      "image": "https://store.kinokuniya.co.jp/wp-content/uploads/2026/10/薬屋のひとりごと_ポスター画像-scaled.png",
       "categories": [
-        "goods",
-        "anime"
+        "anime",
+        "book"
       ],
       "works": [
         "kusuriya"
       ],
-      "isPR": true,
+      "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": false
+      "isNew": true
     }
   ]
 }
