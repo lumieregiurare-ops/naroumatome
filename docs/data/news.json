@@ -1,23 +1,23 @@
 {
-  "updatedAt": "2026-10-19T10:00:19.487Z",
+  "updatedAt": "2026-10-19T10:30:19.765Z",
   "site": {
     "title": "なろう系まとめ",
     "tagline": "小説家になろう発の作品のアニメ化・コミカライズ・書籍化のニュースと、なろうのランキングをまとめています。",
     "url": "https://naroumatome.gamelab.website/",
     "contactUrl": "https://docs.google.com/forms/d/e/1FAIpQLSesWyhmZ6sRS_ve-c3X2KqF_wC5PK2TgwgQbTKmnQltSlg5Jw/viewform"
   },
-  "total": 103,
-  "todayCount": 33,
+  "total": 105,
+  "todayCount": 34,
   "categories": [
     {
       "id": "anime",
       "label": "アニメ",
-      "count": 55
+      "count": 56
     },
     {
       "id": "comic",
       "label": "コミカライズ",
-      "count": 6
+      "count": 7
     },
     {
       "id": "book",
@@ -42,7 +42,7 @@
     {
       "id": "other",
       "label": "そのほか",
-      "count": 17
+      "count": 18
     }
   ],
   "works": [
@@ -50,7 +50,7 @@
       "id": "tensura",
       "title": "転生したらスライムだった件",
       "short": "転スラ",
-      "count": 6
+      "count": 7
     },
     {
       "id": "mushoku",
@@ -62,7 +62,7 @@
       "id": "rezero",
       "title": "Re:ゼロから始める異世界生活",
       "short": "リゼロ",
-      "count": 8
+      "count": 7
     },
     {
       "id": "honzuki",
@@ -212,7 +212,7 @@
       "id": "isekai-yakkyoku",
       "title": "異世界薬局",
       "short": "異世界薬局",
-      "count": 0
+      "count": 1
     },
     {
       "id": "log-horizon",
@@ -299,19 +299,19 @@
       "count": 12
     },
     {
-      "name": "アニメ！アニメ！",
+      "name": "Yahoo!ニュース",
       "count": 8
     },
     {
-      "name": "Yahoo!ニュース",
+      "name": "アニメ！アニメ！",
+      "count": 7
+    },
+    {
+      "name": "山陽新聞",
       "count": 7
     },
     {
       "name": "ラノベニュースオンライン",
-      "count": 6
-    },
-    {
-      "name": "山陽新聞",
       "count": 6
     },
     {
@@ -355,6 +355,10 @@
       "count": 2
     },
     {
+      "name": "Koubo",
+      "count": 2
+    },
+    {
       "name": "キャラグー",
       "count": 2
     },
@@ -367,7 +371,11 @@
       "count": 2
     },
     {
-      "name": "Infoseek",
+      "name": "https://pr-free.jp/",
+      "count": 1
+    },
+    {
+      "name": "rockinon.com",
       "count": 1
     },
     {
@@ -396,10 +404,6 @@
     },
     {
       "name": "日本経済新聞",
-      "count": 1
-    },
-    {
-      "name": "rockinon.com",
       "count": 1
     },
     {
@@ -436,10 +440,6 @@
     },
     {
       "name": "アニメイトタイムズ",
-      "count": 1
-    },
-    {
-      "name": "Koubo",
       "count": 1
     },
     {
@@ -665,7 +665,7 @@
       "url": "https://rockinon.com/blog/cut/216122",
       "image": "https://rockinon.com/images/entry/width:1200/216122/1",
       "leadSource": "rockinon.com",
-      "publishedAt": "2026-10-19T03:30:00.000Z",
+      "publishedAt": "2026-10-19T09:19:08.000Z",
       "sourceCount": 2,
       "articleCount": 2,
       "categories": [
@@ -801,13 +801,32 @@
     }
   ],
   "churn": {
-    "previousAt": "2026-10-19T09:30:17.762Z",
-    "previousCount": 104,
-    "newCount": 2
+    "previousAt": "2026-10-19T10:00:19.487Z",
+    "previousCount": 103,
+    "newCount": 3
   },
   "updateGapMin": 30,
-  "nextUpdateAt": "2026-10-19T10:30:19.487Z",
+  "nextUpdateAt": "2026-10-19T11:00:19.765Z",
   "items": [
+    {
+      "id": "89276a5751bf",
+      "title": "Mediowl ／無料WEBコミックサイト「コミックヨンデル」公開！異世界・SF・コメディなど10作品を掲載 - https://pr-free.jp/",
+      "url": "https://pr-free.jp/2026/185506/",
+      "host": "pr-free.jp",
+      "source": "https://pr-free.jp/",
+      "summary": "",
+      "publishedAt": "2026-10-19T10:08:40.000Z",
+      "image": "https://pr-free.jp/wp-content/uploads/2026/10/20261019_929Comic_YONDERU.jpg",
+      "categories": [
+        "anime",
+        "comic"
+      ],
+      "works": [],
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": true
+    },
     {
       "id": "daea2b931feb",
       "title": "アニメ『凶乱令嬢ニア・リストン 病弱令嬢に転生した神殺しの武人の華麗なる無双録』第3話「舞台の幕が下りた後」のあらすじ＆先行カット解禁",
@@ -825,17 +844,17 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "c262a1f8d5e7",
-      "title": "「待って衣装かわいい」「この衣装好きすぎる」アニメ『薬屋のひとりごと』スイーツパラダイスとのコラボ開催！描き下ろしイラストに絶賛の声",
-      "url": "https://news.infoseek.co.jp/article/abematimes_10281431/",
-      "host": "news.infoseek.co.jp",
-      "source": "Infoseek",
+      "title": "「待って衣装かわいい」「この衣装好きすぎる」アニメ『薬屋のひとりごと』スイーツパラダイスとのコラボ開催！描き下ろしイラストに絶賛の声（ABEMA TIMES）",
+      "url": "https://news.yahoo.co.jp/articles/7b912a0827bd8e7676368853c57cb5b342f95cd0",
+      "host": "news.yahoo.co.jp",
+      "source": "Yahoo!ニュース",
       "summary": "",
-      "publishedAt": "2026-10-19T09:50:00.000Z",
-      "image": "https://media.image.infoseek.co.jp/isnews/photos/abematimes/abematimes_10281431_0-enlarge.jpg",
+      "publishedAt": "2026-10-19T09:51:17.000Z",
+      "image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20261019-10281431-abemad-000-1-view.jpg?exp=10800",
       "categories": [
         "anime",
         "goods"
@@ -846,7 +865,27 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": true
+      "isNew": false
+    },
+    {
+      "id": "89d4f028dc3a",
+      "title": "CUT12月号のバックカバーが『薬屋のひとりごと』に決定！ 劇場版に先駆けた特集を展開します。CUTだけの描き下ろしビジュアルも。11月19日発売！",
+      "url": "https://rockinon.com/blog/cut/216122",
+      "host": "rockinon.com",
+      "source": "rockinon.com",
+      "summary": "",
+      "publishedAt": "2026-10-19T09:19:08.000Z",
+      "image": "https://rockinon.com/images/entry/width:1200/216122/1",
+      "categories": [
+        "anime"
+      ],
+      "works": [
+        "kusuriya"
+      ],
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": false
     },
     {
       "id": "7f27b1b6aa57",
@@ -1071,26 +1110,6 @@
       "isNew": false
     },
     {
-      "id": "a929ae3cacf1",
-      "title": "【リゼロ】ミニアニメ第81話「妾バンザイ」│『Re:ゼロから始める休憩時間(ブレイクタイム)』4th Season Usyk (0MVKtTegCR)",
-      "url": "https://media.unisba.ac.id/ea1897bf/e2ce22ediXKe8YlaxQ4",
-      "host": "media.unisba.ac.id",
-      "source": "Unisba Media",
-      "summary": "",
-      "publishedAt": "2026-10-19T03:56:47.000Z",
-      "image": "",
-      "categories": [
-        "anime"
-      ],
-      "works": [
-        "rezero"
-      ],
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": false
-    },
-    {
       "id": "4f56b364be5a",
       "title": "芦田愛菜主演『薬屋のひとりごと』“猫猫の父”役のキャスティングにファン注目 「絶対見たい」（マグミクス）",
       "url": "https://news.yahoo.co.jp/articles/94c0729a7c43ff0fbd805892eea8b2f40532e45c",
@@ -1101,26 +1120,6 @@
       "image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20261016-00380969-magmix-000-27-view.jpg?exp=10800",
       "categories": [
         "other"
-      ],
-      "works": [
-        "kusuriya"
-      ],
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": false
-    },
-    {
-      "id": "89d4f028dc3a",
-      "title": "CUT12月号のバックカバーが『薬屋のひとりごと』に決定！ 劇場版に先駆けた特集を展開します。CUTだけの描き下ろしビジュアルも。11月19日発売！",
-      "url": "https://rockinon.com/blog/cut/216122",
-      "host": "rockinon.com",
-      "source": "rockinon.com",
-      "summary": "",
-      "publishedAt": "2026-10-19T03:30:00.000Z",
-      "image": "https://rockinon.com/images/entry/width:1200/216122/1",
-      "categories": [
-        "anime"
       ],
       "works": [
         "kusuriya"
@@ -1151,12 +1150,12 @@
     {
       "id": "69e058fc822b",
       "title": "【推しの命は僕が守る！ 悲運の公爵嫡男×転生者のモブ 異世界転生学園BL！】『モブなのに推しから愛されルートに入りました 1』が2026年10月19日（月）に発売！",
-      "url": "https://animeanime.jp/release/prtimes/20261019/320655.html",
-      "host": "animeanime.jp",
-      "source": "アニメ！アニメ！",
+      "url": "https://koubo.jp/press-release/prtimes/c7006_r20366",
+      "host": "koubo.jp",
+      "source": "Koubo",
       "summary": "",
-      "publishedAt": "2026-10-19T02:46:36.000Z",
-      "image": "https://animeanime.jp/release/imgs/list/564451.jpg",
+      "publishedAt": "2026-10-19T02:00:00.000Z",
+      "image": "",
       "categories": [
         "other"
       ],
@@ -1204,6 +1203,26 @@
       "viaGoogle": false,
       "sourceKind": "news",
       "isNew": false
+    },
+    {
+      "id": "2373c0692c7f",
+      "title": "『転スラ』リムル様、大忙し！ラミリスから緊急連絡 尊いミリムの表情…第84話あらすじ＆場面カット解禁",
+      "url": "https://www.sanyonews.jp/article/1942798?kw",
+      "host": "sanyonews.jp",
+      "source": "山陽新聞",
+      "summary": "",
+      "publishedAt": "2026-10-19T00:48:11.000Z",
+      "image": "https://static.sanyonews.jp/image/article/size1/6/5/0/1/6501ce6b09cb9464f23235f99fbe6a7f_1.jpg",
+      "categories": [
+        "anime"
+      ],
+      "works": [
+        "tensura"
+      ],
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": true
     },
     {
       "id": "ca31c7e51497",
@@ -1846,6 +1865,26 @@
       "isNew": false
     },
     {
+      "id": "0f9720c587ca",
+      "title": "【感想】最悪の感染症。ペスト。【異世界薬局】【レビュー】 Jerry Greenfield (ttboIPtHx0)",
+      "url": "https://media.unisba.ac.id/2d91f5b3/249f6783Ay4tGSlPF1cgKzM//?share",
+      "host": "media.unisba.ac.id",
+      "source": "Unisba Media",
+      "summary": "",
+      "publishedAt": "2026-10-17T14:47:46.000Z",
+      "image": "",
+      "categories": [
+        "other"
+      ],
+      "works": [
+        "isekai-yakkyoku"
+      ],
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": true
+    },
+    {
       "id": "4f1520f407b5",
       "title": "嘆きの亡霊は引退したい 〜最弱ハンターは英雄の夢を見る〜【Web版】 作者： 槻影",
       "url": "https://t.co/Pn6fiGysnW",
@@ -2484,7 +2523,7 @@
       "source": "ABEMA TIMES",
       "summary": "",
       "publishedAt": "2026-10-16T15:54:00.000Z",
-      "image": "",
+      "image": "https://times-abema.ismcdn.jp/mwimgs/f/8/1200w/img_f8cb08e0d30ce9bbb369c8e57eb7241b118277.jpg",
       "categories": [
         "anime"
       ],
