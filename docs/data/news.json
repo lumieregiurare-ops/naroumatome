@@ -1,18 +1,18 @@
 {
-  "updatedAt": "2026-10-19T21:30:17.387Z",
+  "updatedAt": "2026-10-19T22:00:18.293Z",
   "site": {
     "title": "なろう系まとめ",
     "tagline": "小説家になろう発の作品のアニメ化・コミカライズ・書籍化のニュースと、なろうのランキングをまとめています。",
     "url": "https://naroumatome.gamelab.website/",
     "contactUrl": "https://docs.google.com/forms/d/e/1FAIpQLSesWyhmZ6sRS_ve-c3X2KqF_wC5PK2TgwgQbTKmnQltSlg5Jw/viewform"
   },
-  "total": 100,
+  "total": 101,
   "todayCount": 8,
   "categories": [
     {
       "id": "anime",
       "label": "アニメ",
-      "count": 51
+      "count": 52
     },
     {
       "id": "comic",
@@ -62,7 +62,7 @@
       "id": "rezero",
       "title": "Re:ゼロから始める異世界生活",
       "short": "リゼロ",
-      "count": 8
+      "count": 7
     },
     {
       "id": "honzuki",
@@ -74,7 +74,7 @@
       "id": "kusuriya",
       "title": "薬屋のひとりごと",
       "short": "薬屋",
-      "count": 28
+      "count": 29
     },
     {
       "id": "kagejitsu",
@@ -295,16 +295,20 @@
   ],
   "sources": [
     {
-      "name": "Unisba Media",
+      "name": "山陽新聞",
       "count": 9
     },
     {
-      "name": "山陽新聞",
+      "name": "Unisba Media",
       "count": 8
     },
     {
+      "name": "WEBザテレビジョン",
+      "count": 7
+    },
+    {
       "name": "Yahoo!ニュース",
-      "count": 8
+      "count": 7
     },
     {
       "name": "アニメ！アニメ！",
@@ -313,10 +317,6 @@
     {
       "name": "GameWith",
       "count": 7
-    },
-    {
-      "name": "WEBザテレビジョン",
-      "count": 6
     },
     {
       "name": "ラノベニュースオンライン",
@@ -372,6 +372,10 @@
     },
     {
       "name": "ABEMA",
+      "count": 1
+    },
+    {
+      "name": "Infoseek",
       "count": 1
     },
     {
@@ -867,12 +871,12 @@
     }
   ],
   "churn": {
-    "previousAt": "2026-10-19T21:00:17.220Z",
-    "previousCount": 101,
+    "previousAt": "2026-10-19T21:30:17.387Z",
+    "previousCount": 100,
     "newCount": 2
   },
   "updateGapMin": 30,
-  "nextUpdateAt": "2026-10-19T22:00:17.387Z",
+  "nextUpdateAt": "2026-10-19T22:30:18.293Z",
   "items": [
     {
       "id": "02c587a15d04",
@@ -912,7 +916,7 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "e45af8dd8416",
@@ -942,7 +946,7 @@
       "source": "UtaTen",
       "summary": "",
       "publishedAt": "2026-10-19T17:47:34.000Z",
-      "image": "https://cdn.utaten.com/uploads/images/specialArticle/10200/7708ed19a0bffe5b0c0cd6f95bcda6de519e712e.jpeg?type=original?r=2026102006",
+      "image": "https://cdn.utaten.com/uploads/images/specialArticle/10200/7708ed19a0bffe5b0c0cd6f95bcda6de519e712e.jpeg?type=original?r=2026102007",
       "categories": [
         "anime"
       ],
@@ -1168,13 +1172,13 @@
     },
     {
       "id": "5d244b8aa956",
-      "title": "『薬屋のひとりごと』第3期、猫猫の“子守唄”にも視聴者注目！第2話コメント最多シーンランキングTOP3 (オタク総研)",
-      "url": "https://news.yahoo.co.jp/articles/4361bdf9c45b9534ddb46309fd6cc3156bc5c0f1/images/000",
-      "host": "news.yahoo.co.jp",
-      "source": "Yahoo!ニュース",
+      "title": "『薬屋のひとりごと』第3期、猫猫の“子守唄”にも視聴者注目！第2話コメント最多シーンランキングTOP3",
+      "url": "https://news.infoseek.co.jp/amp/article/otakulab_210530/",
+      "host": "news.infoseek.co.jp",
+      "source": "Infoseek",
       "summary": "",
-      "publishedAt": "2026-10-19T10:20:00.000Z",
-      "image": "https://news-pctr.c.yimg.jp/uUzvQ3lML_bkIqyakc1vFhNrRI0RUQxg5aFkrX0xDg1_T0wXrbEJjtNGtrf1o9y3xudcUclfbXjZqAvGT8NJnZZXkm11TaAkIydeP130GeczuPoGBQcYgKtP1SOo9wyw-W33UyJ3hd4xRe11PH5KwF-7WSMQRghfiORDBDThDUQisisYx8hFkoo0pwEuMtYGzhe9aiFcuuMPw_AAmP--0w==",
+      "publishedAt": "2026-10-19T10:18:10.000Z",
+      "image": "https://media.image.infoseek.co.jp/isnews/photos/otakulab/otakulab_210530_0-enlarge.jpg",
       "categories": [
         "anime",
         "web"
@@ -1569,26 +1573,6 @@
       "isNew": false
     },
     {
-      "id": "a929ae3cacf1",
-      "title": "【リゼロ】ミニアニメ第81話「妾バンザイ」│『Re:ゼロから始める休憩時間(ブレイクタイム)』4th Season Usyk (0MVKtTegCR)",
-      "url": "https://media.unisba.ac.id/ea1897bf/e2ce22ediXKe8YlaxQ4",
-      "host": "media.unisba.ac.id",
-      "source": "Unisba Media",
-      "summary": "",
-      "publishedAt": "2026-10-19T03:56:47.000Z",
-      "image": "",
-      "categories": [
-        "anime"
-      ],
-      "works": [
-        "rezero"
-      ],
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": false
-    },
-    {
       "id": "bdcae550959c",
       "title": "「どうしてこうなった」絶望と歓喜が交錯!? 「過酷な運命に抗う姿」が熱かった2026夏の異世界アニメ（マグミクス）",
       "url": "https://news.yahoo.co.jp/articles/56990ee36c05cb4d154a641a79347b9a32f511be",
@@ -1683,6 +1667,26 @@
       "isNew": false
     },
     {
+      "id": "90fba31bc0a6",
+      "title": "『薬屋のひとりごと』火鼠の皮衣とは？湖に消えた美しい天女の伝説 第50話あらすじ＆場面カット解禁",
+      "url": "https://www.sanyonews.jp/article/2001864?rct",
+      "host": "sanyonews.jp",
+      "source": "山陽新聞",
+      "summary": "",
+      "publishedAt": "2026-10-19T01:32:07.000Z",
+      "image": "https://static.sanyonews.jp/image/article/size1/7/2/d/e/72dea31490b1ad563a8c9696162c4af9_1.jpg",
+      "categories": [
+        "anime"
+      ],
+      "works": [
+        "kusuriya"
+      ],
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": true
+    },
+    {
       "id": "d293d1a223a1",
       "title": "サンデーGX「薬屋のひとりごと」最新刊 第23巻 12月9日発売!",
       "url": "https://collabo-cafe.com/events/collabo/sundaygx-kusuriya-no-hitorigoto-comics23-release/?amp",
@@ -1759,7 +1763,7 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "ca31c7e51497",
@@ -1775,6 +1779,26 @@
       ],
       "works": [
         "mushoku"
+      ],
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": false
+    },
+    {
+      "id": "ff26872e580d",
+      "title": "アニメ『本好きの下剋上 領主の養女』第2クールOPノンクレジット映像「Power Of Love」西野カナ/毎週土曜夕方5時半～放送中！ Catanzaro Informa (geeGqPHTxX)",
+      "url": "https://media.unisba.ac.id/52509bff/570b8e16XicIKjUeKhxfITM",
+      "host": "media.unisba.ac.id",
+      "source": "Unisba Media",
+      "summary": "",
+      "publishedAt": "2026-10-18T23:55:59.000Z",
+      "image": "",
+      "categories": [
+        "anime"
+      ],
+      "works": [
+        "honzuki"
       ],
       "isPR": false,
       "viaGoogle": false,
@@ -1820,6 +1844,24 @@
       "viaGoogle": false,
       "sourceKind": "news",
       "isNew": false
+    },
+    {
+      "id": "04a2e5ad2988",
+      "title": "＜転生重騎士＞エルマと新たなスキルを得たルーチェは百足坑道のダンジョンマスター討伐へ…第15話あらすじ＆場面カット公開",
+      "url": "https://thetv.jp/news/detail/1446055/18718965/",
+      "host": "thetv.jp",
+      "source": "WEBザテレビジョン",
+      "summary": "",
+      "publishedAt": "2026-10-18T19:00:01.000Z",
+      "image": "https://thetv.jp/i/nw/1446055/18718965.jpg?w=1284",
+      "categories": [
+        "anime"
+      ],
+      "works": [],
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": true
     },
     {
       "id": "22ffa863926e",
@@ -2026,26 +2068,6 @@
         "anime"
       ],
       "works": [],
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": false
-    },
-    {
-      "id": "ff26872e580d",
-      "title": "アニメ『本好きの下剋上 領主の養女』第2クールOPノンクレジット映像「Power Of Love」西野カナ/毎週土曜夕方5時半～放送中！ Catanzaro Informa (geeGqPHTxX)",
-      "url": "https://media.unisba.ac.id/2d215dd2/a510522b3BlCT0_r6RQ",
-      "host": "media.unisba.ac.id",
-      "source": "Unisba Media",
-      "summary": "",
-      "publishedAt": "2026-10-18T03:43:53.000Z",
-      "image": "",
-      "categories": [
-        "anime"
-      ],
-      "works": [
-        "honzuki"
-      ],
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
@@ -2291,7 +2313,7 @@
       "source": "Dellows News",
       "summary": "",
       "publishedAt": "2026-10-17T20:51:16.000Z",
-      "image": "",
+      "image": "https://news.dellows.jp/wp-content/uploads/2026/10/706515_1.jpg",
       "categories": [
         "goods"
       ],
@@ -2613,7 +2635,7 @@
       "source": "Dellows News",
       "summary": "",
       "publishedAt": "2026-10-17T06:02:25.000Z",
-      "image": "",
+      "image": "https://news.dellows.jp/wp-content/uploads/2026/10/589827_1.jpg",
       "categories": [
         "anime"
       ],
