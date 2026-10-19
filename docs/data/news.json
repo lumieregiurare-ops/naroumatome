@@ -1,12 +1,12 @@
 {
-  "updatedAt": "2026-10-19T16:30:22.205Z",
+  "updatedAt": "2026-10-19T17:00:17.612Z",
   "site": {
     "title": "なろう系まとめ",
     "tagline": "小説家になろう発の作品のアニメ化・コミカライズ・書籍化のニュースと、なろうのランキングをまとめています。",
     "url": "https://naroumatome.gamelab.website/",
     "contactUrl": "https://docs.google.com/forms/d/e/1FAIpQLSesWyhmZ6sRS_ve-c3X2KqF_wC5PK2TgwgQbTKmnQltSlg5Jw/viewform"
   },
-  "total": 101,
+  "total": 102,
   "todayCount": 0,
   "categories": [
     {
@@ -37,7 +37,7 @@
     {
       "id": "goods",
       "label": "グッズ・イベント",
-      "count": 23
+      "count": 24
     },
     {
       "id": "other",
@@ -62,19 +62,19 @@
       "id": "rezero",
       "title": "Re:ゼロから始める異世界生活",
       "short": "リゼロ",
-      "count": 9
+      "count": 8
     },
     {
       "id": "honzuki",
       "title": "本好きの下剋上",
       "short": "本好き",
-      "count": 1
+      "count": 2
     },
     {
       "id": "kusuriya",
       "title": "薬屋のひとりごと",
       "short": "薬屋",
-      "count": 27
+      "count": 28
     },
     {
       "id": "kagejitsu",
@@ -296,10 +296,14 @@
   "sources": [
     {
       "name": "Unisba Media",
-      "count": 11
+      "count": 10
     },
     {
       "name": "アニメ！アニメ！",
+      "count": 8
+    },
+    {
+      "name": "山陽新聞",
       "count": 8
     },
     {
@@ -312,10 +316,6 @@
     },
     {
       "name": "ラノベニュースオンライン",
-      "count": 6
-    },
-    {
-      "name": "山陽新聞",
       "count": 6
     },
     {
@@ -371,7 +371,7 @@
       "count": 2
     },
     {
-      "name": "https://pr-free.jp/",
+      "name": "valuepress",
       "count": 1
     },
     {
@@ -836,12 +836,12 @@
     }
   ],
   "churn": {
-    "previousAt": "2026-10-19T16:00:24.214Z",
+    "previousAt": "2026-10-19T16:30:22.205Z",
     "previousCount": 101,
     "newCount": 3
   },
   "updateGapMin": 30,
-  "nextUpdateAt": "2026-10-19T17:00:22.205Z",
+  "nextUpdateAt": "2026-10-19T17:30:17.612Z",
   "items": [
     {
       "id": "77dcfe217440",
@@ -1001,25 +1001,6 @@
       "isNew": false
     },
     {
-      "id": "89276a5751bf",
-      "title": "Mediowl ／無料WEBコミックサイト「コミックヨンデル」公開！異世界・SF・コメディなど10作品を掲載 - https://pr-free.jp/",
-      "url": "https://pr-free.jp/2026/185506/",
-      "host": "pr-free.jp",
-      "source": "https://pr-free.jp/",
-      "summary": "",
-      "publishedAt": "2026-10-19T10:08:40.000Z",
-      "image": "https://pr-free.jp/wp-content/uploads/2026/10/20261019_929Comic_YONDERU.jpg",
-      "categories": [
-        "anime",
-        "comic"
-      ],
-      "works": [],
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": false
-    },
-    {
       "id": "daea2b931feb",
       "title": "アニメ『凶乱令嬢ニア・リストン 病弱令嬢に転生した神殺しの武人の華麗なる無双録』第3話「舞台の幕が下りた後」のあらすじ＆先行カット解禁",
       "url": "https://ln-news.com/articles/126974",
@@ -1037,6 +1018,24 @@
       "viaGoogle": false,
       "sourceKind": "news",
       "isNew": false
+    },
+    {
+      "id": "1960a859ad52",
+      "title": "無料WEBコミックサイト「コミックヨンデル」公開！異世界・SF・コメディなど10作品を掲載",
+      "url": "https://www.value-press.com/s/pressrelease/382815",
+      "host": "value-press.com",
+      "source": "valuepress",
+      "summary": "",
+      "publishedAt": "2026-10-19T10:00:00.000Z",
+      "image": "https://files.value-press.com/czMjZXllY2F0Y2gjODg1NzMjODg1NzNfdUJadHBoblJ6TS5qcGc.jpg?size=eyecatch",
+      "categories": [
+        "comic"
+      ],
+      "works": [],
+      "isPR": true,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": true
     },
     {
       "id": "c262a1f8d5e7",
@@ -1381,26 +1380,6 @@
       "isNew": false
     },
     {
-      "id": "a929ae3cacf1",
-      "title": "【リゼロ】ミニアニメ第81話「妾バンザイ」│『Re:ゼロから始める休憩時間(ブレイクタイム)』4th Season Usyk (0MVKtTegCR)",
-      "url": "https://media.unisba.ac.id/ea1897bf/e2ce22ediXKe8YlaxQ4",
-      "host": "media.unisba.ac.id",
-      "source": "Unisba Media",
-      "summary": "",
-      "publishedAt": "2026-10-19T03:56:47.000Z",
-      "image": "",
-      "categories": [
-        "anime"
-      ],
-      "works": [
-        "rezero"
-      ],
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": true
-    },
-    {
       "id": "4f56b364be5a",
       "title": "芦田愛菜主演『薬屋のひとりごと』“猫猫の父”役のキャスティングにファン注目 「絶対見たい」（マグミクス）",
       "url": "https://news.yahoo.co.jp/articles/94c0729a7c43ff0fbd805892eea8b2f40532e45c",
@@ -1534,6 +1513,26 @@
       "viaGoogle": false,
       "sourceKind": "news",
       "isNew": false
+    },
+    {
+      "id": "39bf293e490e",
+      "title": "『本好きの下剋上』続編「貴族院の自称図書委員」編アニメ化決定 制作はWIT STUDIO",
+      "url": "https://www.sanyonews.jp/article/1999132?rct",
+      "host": "sanyonews.jp",
+      "source": "山陽新聞",
+      "summary": "",
+      "publishedAt": "2026-10-19T00:40:47.000Z",
+      "image": "https://static.sanyonews.jp/image/article/size1/e/6/b/3/e6b3aa2868f5d7e89848e029284bc7ef_1.jpg",
+      "categories": [
+        "anime"
+      ],
+      "works": [
+        "honzuki"
+      ],
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": true
     },
     {
       "id": "ca31c7e51497",
@@ -1710,6 +1709,27 @@
       "viaGoogle": false,
       "sourceKind": "news",
       "isNew": false
+    },
+    {
+      "id": "80f0fa301e95",
+      "title": "『薬屋のひとりごと』第3期、ノンクレジットOP映像公開 Blu-ray発売決定でイラスト解禁",
+      "url": "https://www.sanyonews.jp/article/1998700?rct",
+      "host": "sanyonews.jp",
+      "source": "山陽新聞",
+      "summary": "",
+      "publishedAt": "2026-10-18T16:46:43.000Z",
+      "image": "https://static.sanyonews.jp/image/article/size1/5/9/7/8/59783af7bbcdc324127e682654421cc9_1.jpg",
+      "categories": [
+        "anime",
+        "goods"
+      ],
+      "works": [
+        "kusuriya"
+      ],
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": true
     },
     {
       "id": "426b304e7ca5",
@@ -2115,7 +2135,7 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "3001176857af",
@@ -2628,7 +2648,7 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "681de13dd15a",
@@ -2698,7 +2718,7 @@
       "source": "山陽新聞",
       "summary": "",
       "publishedAt": "2026-10-16T21:28:56.000Z",
-      "image": "",
+      "image": "https://static.sanyonews.jp/image/article/size1/e/b/6/b/eb6b7a7504ed54f053968b1350e5433d_1.jpg",
       "categories": [
         "anime"
       ],
@@ -2718,7 +2738,7 @@
       "source": "山陽新聞",
       "summary": "",
       "publishedAt": "2026-10-16T21:01:51.000Z",
-      "image": "",
+      "image": "https://static.sanyonews.jp/image/article/size1/0/9/3/e/093ee78577f75ad90bcf35368e554628_1.jpg",
       "categories": [
         "anime"
       ],
