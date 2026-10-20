@@ -1,18 +1,18 @@
 {
-  "updatedAt": "2026-10-20T14:00:19.731Z",
+  "updatedAt": "2026-10-20T14:30:21.272Z",
   "site": {
     "title": "なろう系まとめ",
     "tagline": "小説家になろう発の作品のアニメ化・コミカライズ・書籍化のニュースと、なろうのランキングをまとめています。",
     "url": "https://naroumatome.gamelab.website/",
     "contactUrl": "https://docs.google.com/forms/d/e/1FAIpQLSesWyhmZ6sRS_ve-c3X2KqF_wC5PK2TgwgQbTKmnQltSlg5Jw/viewform"
   },
-  "total": 119,
-  "todayCount": 56,
+  "total": 118,
+  "todayCount": 54,
   "categories": [
     {
       "id": "anime",
       "label": "アニメ",
-      "count": 68
+      "count": 66
     },
     {
       "id": "comic",
@@ -37,12 +37,12 @@
     {
       "id": "goods",
       "label": "グッズ・イベント",
-      "count": 18
+      "count": 17
     },
     {
       "id": "other",
       "label": "そのほか",
-      "count": 31
+      "count": 32
     }
   ],
   "works": [
@@ -50,7 +50,7 @@
       "id": "tensura",
       "title": "転生したらスライムだった件",
       "short": "転スラ",
-      "count": 13
+      "count": 12
     },
     {
       "id": "mushoku",
@@ -62,7 +62,7 @@
       "id": "rezero",
       "title": "Re:ゼロから始める異世界生活",
       "short": "リゼロ",
-      "count": 15
+      "count": 14
     },
     {
       "id": "honzuki",
@@ -74,7 +74,7 @@
       "id": "kusuriya",
       "title": "薬屋のひとりごと",
       "short": "薬屋",
-      "count": 30
+      "count": 29
     },
     {
       "id": "kagejitsu",
@@ -224,7 +224,7 @@
       "id": "tenken",
       "title": "転生したら剣でした",
       "short": "転剣",
-      "count": 2
+      "count": 3
     },
     {
       "id": "rupunana",
@@ -296,7 +296,7 @@
   "sources": [
     {
       "name": "山陽新聞",
-      "count": 14
+      "count": 13
     },
     {
       "name": "Yahoo!ニュース",
@@ -347,6 +347,10 @@
       "count": 2
     },
     {
+      "name": "リアルサウンド",
+      "count": 2
+    },
+    {
       "name": "ニコニコニュース",
       "count": 2
     },
@@ -383,10 +387,6 @@
       "count": 1
     },
     {
-      "name": "リアルサウンド",
-      "count": 1
-    },
-    {
       "name": "MANTANWEB",
       "count": 1
     },
@@ -408,10 +408,6 @@
     },
     {
       "name": "おた☆スケ",
-      "count": 1
-    },
-    {
-      "name": "アニメイトタイムズ",
       "count": 1
     },
     {
@@ -796,13 +792,13 @@
       ]
     },
     {
-      "id": "846103ca1e0d",
-      "title": "異世界転生してもこれで安心？ 塩から石けん、紙の作り方まで紹介する「異世界生活攻略レシピ図鑑」発売｜Infoseekニュース",
+      "id": "10c14d09ab34",
+      "title": "異世界転生後の生活を現代知識でアップデート？ 『異世界生活攻略レシピ図鑑』刊行へ",
       "summary": "",
-      "url": "https://news.infoseek.co.jp/article/otakuma_5917845/",
-      "image": "https://media.image.infoseek.co.jp/isnews/photos/otakuma/otakuma_5917845_0.jpg",
-      "leadSource": "Infoseek",
-      "publishedAt": "2026-10-20T06:00:08.000Z",
+      "url": "https://realsound.jp/book/2026/10/post-2558425.html/amp",
+      "image": "https://realsound.jp/wp-content/uploads/2026/10/20261020-isekaisekatsu-01.jpg",
+      "leadSource": "リアルサウンド",
+      "publishedAt": "2026-10-20T08:59:05.000Z",
       "sourceCount": 2,
       "articleCount": 2,
       "categories": [
@@ -810,15 +806,15 @@
       ],
       "keywords": [
         "レシピ",
-        "異世界生活攻略",
-        "図鑑"
+        "生活",
+        "異世界生活攻略"
       ],
       "articles": [
         {
-          "title": "もし中世ヨーロッパ風の異世界に転生したら？身近な材料で衣食住を生き抜く『異世界生活攻略レシピ図鑑』10月20日発売",
-          "url": "https://newscast.jp/smart/news/3537322",
-          "source": "Newscast.jp",
-          "publishedAt": "2026-10-20T02:30:00.000Z",
+          "title": "異世界転生してもこれで安心？ 塩から石けん、紙の作り方まで紹介する「異世界生活攻略レシピ図鑑」発売｜Infoseekニュース",
+          "url": "https://news.infoseek.co.jp/article/otakuma_5917845/",
+          "source": "Infoseek",
+          "publishedAt": "2026-10-20T06:00:08.000Z",
           "isPR": false
         }
       ]
@@ -935,12 +931,12 @@
     }
   ],
   "churn": {
-    "previousAt": "2026-10-20T13:30:18.990Z",
+    "previousAt": "2026-10-20T14:00:19.731Z",
     "previousCount": 119,
-    "newCount": 1
+    "newCount": 2
   },
   "updateGapMin": 30,
-  "nextUpdateAt": "2026-10-20T14:30:19.731Z",
+  "nextUpdateAt": "2026-10-20T15:00:21.272Z",
   "items": [
     {
       "id": "b1698f01bcfa",
@@ -1119,6 +1115,24 @@
       "isNew": false
     },
     {
+      "id": "10c14d09ab34",
+      "title": "異世界転生後の生活を現代知識でアップデート？ 『異世界生活攻略レシピ図鑑』刊行へ",
+      "url": "https://realsound.jp/book/2026/10/post-2558425.html/amp",
+      "host": "realsound.jp",
+      "source": "リアルサウンド",
+      "summary": "",
+      "publishedAt": "2026-10-20T08:59:05.000Z",
+      "image": "https://realsound.jp/wp-content/uploads/2026/10/20261020-isekaisekatsu-01.jpg",
+      "categories": [
+        "other"
+      ],
+      "works": [],
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": true
+    },
+    {
       "id": "e8e130225950",
       "title": "『無職転生～異世界行ったら本気だす～』LINEスタンプとLINE着せかえが発売",
       "url": "https://ln-news.com/articles/126790",
@@ -1140,13 +1154,13 @@
     },
     {
       "id": "f5752648fcb9",
-      "title": "『陰の実力者になりたくて』スマホゲームをタイ・ベトナムで配信へ Aimingが東南ア企業と独占契約締結（オタク総研）",
-      "url": "https://news.yahoo.co.jp/articles/03d1fd956a47acf51f56089f896abb108637c422",
+      "title": "『陰の実力者になりたくて』スマホゲームをタイ・ベトナムで配信へ Aimingが東南ア企業と独占契約締結 (オタク総研)",
+      "url": "https://news.yahoo.co.jp/articles/03d1fd956a47acf51f56089f896abb108637c422/images/000",
       "host": "news.yahoo.co.jp",
       "source": "Yahoo!ニュース",
       "summary": "",
       "publishedAt": "2026-10-20T08:06:00.000Z",
-      "image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20261020-00170600-otakulab-000-1-view.jpg?exp=10800",
+      "image": "https://news-pctr.c.yimg.jp/uUzvQ3lML_bkIqyakc1vFhNrRI0RUQxg5aFkrX0xDg1_T0wXrbEJjtNGtrf1o9y3xudcUclfbXjZqAvGT8NJnbYYjrkouWMlEd5-pN2exqvkY-4snzqTNyHY-eIAnG5_DUBUDQXlavJybbnTb55V3u_B3FQb0b0tqAFE3oIAKvT8TPA0jBkn0nJq38YrALBwqr_mr5Zd-_o6rc0t4KSYiA==",
       "categories": [
         "game",
         "anime"
@@ -1198,26 +1212,6 @@
       "isNew": false
     },
     {
-      "id": "1c57e7fcd71a",
-      "title": "ヨルシカの新曲「雲を抜け風下へ私だけ」ミュージックビデオが公開 「薬屋のひとりごと」第3期第1クールOPテーマの話題曲",
-      "url": "https://thetv.jp/news/detail/1449176/landing/",
-      "host": "thetv.jp",
-      "source": "WEBザテレビジョン",
-      "summary": "",
-      "publishedAt": "2026-10-20T06:12:28.000Z",
-      "image": "",
-      "categories": [
-        "anime"
-      ],
-      "works": [
-        "kusuriya"
-      ],
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": false
-    },
-    {
       "id": "846103ca1e0d",
       "title": "異世界転生してもこれで安心？ 塩から石けん、紙の作り方まで紹介する「異世界生活攻略レシピ図鑑」発売｜Infoseekニュース",
       "url": "https://news.infoseek.co.jp/article/otakuma_5917845/",
@@ -1234,6 +1228,26 @@
       "viaGoogle": false,
       "sourceKind": "news",
       "isNew": false
+    },
+    {
+      "id": "c9052baed860",
+      "title": "＜転生したら剣でしたII＞地下迷宮で因縁の骸骨騎士と激突…第3話あらすじ＆ステファン役・井澤詩織コメント公開",
+      "url": "https://thetv.jp/news/detail/1449592/18839768/",
+      "host": "thetv.jp",
+      "source": "WEBザテレビジョン",
+      "summary": "",
+      "publishedAt": "2026-10-20T05:58:44.000Z",
+      "image": "https://thetv.jp/i/nw/1449592/18839768.jpg?w=1284",
+      "categories": [
+        "anime"
+      ],
+      "works": [
+        "tenken"
+      ],
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": true
     },
     {
       "id": "2de64583c2ab",
@@ -1689,27 +1703,6 @@
       "isNew": false
     },
     {
-      "id": "a9d75b2b9514",
-      "title": "TVアニメ『リゼロ』10周年記念SPイベント 描きおろしビジュアルが公開",
-      "url": "https://www.animatetimes.com/news/img.php?id",
-      "host": "animatetimes.com",
-      "source": "アニメイトタイムズ",
-      "summary": "",
-      "publishedAt": "2026-10-20T00:36:33.000Z",
-      "image": "https://www.animatetimes.com/img/ogimage.png",
-      "categories": [
-        "anime",
-        "goods"
-      ],
-      "works": [
-        "rezero"
-      ],
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": true
-    },
-    {
       "id": "15d8975f3c90",
       "title": "薬屋のひとりごと アクリルスタンド｜薬屋のひとりごとのガチャガチャ 発売日・価格・設置場所",
       "url": "https://charagoo.jp/gacha/item/9869d9d61520/",
@@ -1746,26 +1739,6 @@
       ],
       "isPR": false,
       "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": false
-    },
-    {
-      "id": "523ba8013e78",
-      "title": "『転スラ』リムル、ブチギレ顔のマリアベルと戦闘！ユウキも参戦 第82話あらすじ＆場面カット公開",
-      "url": "https://news.google.com/rss/articles/CBMi2AJBVV95cUxPS3JEM3pnSUVKYmQ1Ti1TbkpGNWhUVVJuYk9jalhQQ2VlNFNYdkE0WDEtUmtpVXcxSHY0WW5IbXgtRXRFdGRiclc0S2tpREFBbFU4M0M5RWdnWTNmNGdhODV6QXRHRHZ6UzRzaTk4ODFrNHdYTzcwY1lVTHUzb2xLR01MZFphekl2TWh4RFJBWnd6RFlJaXBPYTh1c1FMbVIwbWNuQXF6UjV4VGM3YUdnYWl2RXVlMVg4LVhKTzROeW9OaVYzZXpRTWV3N1p4MVhPQ2NldGhIa2d6UlJnNGdvRHBiR2tFV28zeE5WeVRNYTM3dU0wYTdTek9taTBVV3NZLVBraXVTOGZZTGdfVkxEa0tZX1M4YnF3dklwT3M5RGZkcFA0NW9WTno1ZE1kTjlvb2dzeVl4RXducWdMM2xNbHFnUE5KQXlnS2VXNmlrYTVVZWsxMVdfag?oc=5",
-      "host": "sanyonews.jp",
-      "source": "山陽新聞",
-      "summary": "",
-      "publishedAt": "2026-10-19T22:14:23.000Z",
-      "image": "",
-      "categories": [
-        "anime"
-      ],
-      "works": [
-        "tensura"
-      ],
-      "isPR": false,
-      "viaGoogle": true,
       "sourceKind": "news",
       "isNew": false
     },
@@ -1861,26 +1834,6 @@
         "book"
       ],
       "works": [],
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": false
-    },
-    {
-      "id": "2373c0692c7f",
-      "title": "『転スラ』リムル様、大忙し！ラミリスから緊急連絡 尊いミリムの表情…第84話あらすじ＆場面カット解禁",
-      "url": "https://www.sanyonews.jp/article/1942798?kw",
-      "host": "sanyonews.jp",
-      "source": "山陽新聞",
-      "summary": "",
-      "publishedAt": "2026-10-19T20:48:16.000Z",
-      "image": "https://static.sanyonews.jp/image/article/size1/6/5/0/1/6501ce6b09cb9464f23235f99fbe6a7f_1.jpg",
-      "categories": [
-        "anime"
-      ],
-      "works": [
-        "tensura"
-      ],
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
@@ -2608,6 +2561,26 @@
         "book"
       ],
       "works": [],
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": false
+    },
+    {
+      "id": "2373c0692c7f",
+      "title": "『転スラ』リムル様、大忙し！ラミリスから緊急連絡 尊いミリムの表情…第84話あらすじ＆場面カット解禁",
+      "url": "https://www.sanyonews.jp/article/1942798?kw",
+      "host": "sanyonews.jp",
+      "source": "山陽新聞",
+      "summary": "",
+      "publishedAt": "2026-10-19T00:48:11.000Z",
+      "image": "https://static.sanyonews.jp/image/article/size1/6/5/0/1/6501ce6b09cb9464f23235f99fbe6a7f_1.jpg",
+      "categories": [
+        "anime"
+      ],
+      "works": [
+        "tensura"
+      ],
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
