@@ -1,13 +1,13 @@
 {
-  "updatedAt": "2026-10-20T00:00:21.633Z",
+  "updatedAt": "2026-10-20T00:30:18.328Z",
   "site": {
     "title": "なろう系まとめ",
     "tagline": "小説家になろう発の作品のアニメ化・コミカライズ・書籍化のニュースと、なろうのランキングをまとめています。",
     "url": "https://naroumatome.gamelab.website/",
     "contactUrl": "https://docs.google.com/forms/d/e/1FAIpQLSesWyhmZ6sRS_ve-c3X2KqF_wC5PK2TgwgQbTKmnQltSlg5Jw/viewform"
   },
-  "total": 102,
-  "todayCount": 9,
+  "total": 100,
+  "todayCount": 10,
   "categories": [
     {
       "id": "anime",
@@ -37,12 +37,12 @@
     {
       "id": "goods",
       "label": "グッズ・イベント",
-      "count": 24
+      "count": 23
     },
     {
       "id": "other",
       "label": "そのほか",
-      "count": 21
+      "count": 20
     }
   ],
   "works": [
@@ -80,7 +80,7 @@
       "id": "kagejitsu",
       "title": "陰の実力者になりたくて！",
       "short": "陰の実力者",
-      "count": 6
+      "count": 5
     },
     {
       "id": "tate",
@@ -212,7 +212,7 @@
       "id": "isekai-yakkyoku",
       "title": "異世界薬局",
       "short": "異世界薬局",
-      "count": 1
+      "count": 0
     },
     {
       "id": "log-horizon",
@@ -296,15 +296,19 @@
   "sources": [
     {
       "name": "山陽新聞",
-      "count": 9
+      "count": 10
     },
     {
       "name": "Unisba Media",
-      "count": 9
+      "count": 8
+    },
+    {
+      "name": "Yahoo!ニュース",
+      "count": 7
     },
     {
       "name": "アニメ！アニメ！",
-      "count": 8
+      "count": 7
     },
     {
       "name": "GameWith",
@@ -316,10 +320,6 @@
     },
     {
       "name": "Howl.link",
-      "count": 6
-    },
-    {
-      "name": "Yahoo!ニュース",
       "count": 6
     },
     {
@@ -372,10 +372,6 @@
     },
     {
       "name": "ABEMA",
-      "count": 1
-    },
-    {
-      "name": "Infoseek",
       "count": 1
     },
     {
@@ -460,10 +456,6 @@
     },
     {
       "name": "MANTANWEB",
-      "count": 1
-    },
-    {
-      "name": "ファミ通",
       "count": 1
     }
   ],
@@ -884,13 +876,33 @@
     }
   ],
   "churn": {
-    "previousAt": "2026-10-19T23:30:19.174Z",
+    "previousAt": "2026-10-20T00:00:21.633Z",
     "previousCount": 102,
-    "newCount": 0
+    "newCount": 1
   },
   "updateGapMin": 30,
-  "nextUpdateAt": "2026-10-20T00:30:21.633Z",
+  "nextUpdateAt": "2026-10-20T01:00:18.328Z",
   "items": [
+    {
+      "id": "7564efbaceb1",
+      "title": "『薬屋のひとりごと』ノンクレジットED映像公開 Eve「AIYOU」にのせ猫猫の記憶を辿る",
+      "url": "https://www.sanyonews.jp/article/1998838?rct",
+      "host": "sanyonews.jp",
+      "source": "山陽新聞",
+      "summary": "",
+      "publishedAt": "2026-10-19T22:09:27.000Z",
+      "image": "https://static.sanyonews.jp/image/article/size1/7/9/3/4/7934f2055233f31b4542d7db00029f6b_1.jpg",
+      "categories": [
+        "anime"
+      ],
+      "works": [
+        "kusuriya"
+      ],
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": true
+    },
     {
       "id": "35940ca7118a",
       "title": "「俺の指先で濡れる世界」6巻が本日発売！ 男性牧場の主・クラリスの本音とは魔法の指で世界を変える異世界×セクシーマンガ",
@@ -1224,13 +1236,13 @@
     },
     {
       "id": "5d244b8aa956",
-      "title": "『薬屋のひとりごと』第3期、猫猫の“子守唄”にも視聴者注目！第2話コメント最多シーンランキングTOP3",
-      "url": "https://news.infoseek.co.jp/amp/article/otakulab_210530/",
-      "host": "news.infoseek.co.jp",
-      "source": "Infoseek",
+      "title": "『薬屋のひとりごと』第3期、猫猫の“子守唄”にも視聴者注目！第2話コメント最多シーンランキングTOP3 (オタク総研)",
+      "url": "https://news.yahoo.co.jp/articles/4361bdf9c45b9534ddb46309fd6cc3156bc5c0f1/images/000",
+      "host": "news.yahoo.co.jp",
+      "source": "Yahoo!ニュース",
       "summary": "",
-      "publishedAt": "2026-10-19T10:18:10.000Z",
-      "image": "https://media.image.infoseek.co.jp/isnews/photos/otakulab/otakulab_210530_0-enlarge.jpg",
+      "publishedAt": "2026-10-19T10:20:00.000Z",
+      "image": "https://news-pctr.c.yimg.jp/uUzvQ3lML_bkIqyakc1vFhNrRI0RUQxg5aFkrX0xDg1_T0wXrbEJjtNGtrf1o9y3xudcUclfbXjZqAvGT8NJnZZXkm11TaAkIydeP130GeczuPoGBQcYgKtP1SOo9wyw-W33UyJ3hd4xRe11PH5KwF-7WSMQRghfiORDBDThDUQisisYx8hFkoo0pwEuMtYGzhe9aiFcuuMPw_AAmP--0w==",
       "categories": [
         "anime",
         "web"
@@ -2442,26 +2454,6 @@
       "isNew": false
     },
     {
-      "id": "0f9720c587ca",
-      "title": "【感想】最悪の感染症。ペスト。【異世界薬局】【レビュー】 Jerry Greenfield (ttboIPtHx0)",
-      "url": "https://media.unisba.ac.id/2d91f5b3/249f6783Ay4tGSlPF1cgKzM//?share",
-      "host": "media.unisba.ac.id",
-      "source": "Unisba Media",
-      "summary": "",
-      "publishedAt": "2026-10-17T14:47:46.000Z",
-      "image": "",
-      "categories": [
-        "other"
-      ],
-      "works": [
-        "isekai-yakkyoku"
-      ],
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": false
-    },
-    {
       "id": "4f1520f407b5",
       "title": "嘆きの亡霊は引退したい 〜最弱ハンターは英雄の夢を見る〜【Web版】 作者： 槻影",
       "url": "https://t.co/Pn6fiGysnW",
@@ -2820,26 +2812,6 @@
       "isNew": false
     },
     {
-      "id": "a9d38a7bb976",
-      "title": "「メロすぎる」「トップクラスで好き」…「薬屋のひとりごと」シゴデキ男衆・右叫に沼る視聴者が続出!! 過酷な現実に立ち向かう少女には「泣ける」の声も【第51話ネタバレあり反応まとめ】",
-      "url": "https://animeanime.jp/article/2026/10/17/103900.html",
-      "host": "animeanime.jp",
-      "source": "アニメ！アニメ！",
-      "summary": "",
-      "publishedAt": "2026-10-17T02:00:08.000Z",
-      "image": "https://animeanime.jp/imgs/ogp_f/944400.jpg",
-      "categories": [
-        "anime"
-      ],
-      "works": [
-        "kusuriya"
-      ],
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": false
-    },
-    {
       "id": "35c77e3ceb51",
       "title": "舞台『転生したらスライムだった件』＆『転生したらスライムだった件-魔王来襲編＆人魔交流編-』全編のYouTubeプレミア公開が実施",
       "url": "https://ln-news.com/articles/126976",
@@ -2872,26 +2844,6 @@
         "book"
       ],
       "works": [],
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": false
-    },
-    {
-      "id": "98c08d3f433c",
-      "title": "【Amazonプライム感謝祭】『陰の実力者になりたくて！』アルファが29％オフ！ 『にじさんじ』アンジュ・カトリーナ、『ホロライブ』ときのそらのねんどろいどもお買い得に",
-      "url": "https://www.famitsu.com/article/202610/91274",
-      "host": "famitsu.com",
-      "source": "ファミ通",
-      "summary": "",
-      "publishedAt": "2026-10-17T00:10:00.000Z",
-      "image": "https://cimg.kgl-systems.io/camion/files/91274/thumbnail_prUD.jpg?x=1280",
-      "categories": [
-        "goods"
-      ],
-      "works": [
-        "kagejitsu"
-      ],
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
