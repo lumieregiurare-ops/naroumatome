@@ -1,13 +1,13 @@
 {
-  "updatedAt": "2026-10-20T19:00:20.409Z",
+  "updatedAt": "2026-10-20T19:30:19.400Z",
   "site": {
     "title": "なろう系まとめ",
     "tagline": "小説家になろう発の作品のアニメ化・コミカライズ・書籍化のニュースと、なろうのランキングをまとめています。",
     "url": "https://naroumatome.gamelab.website/",
     "contactUrl": "https://docs.google.com/forms/d/e/1FAIpQLSesWyhmZ6sRS_ve-c3X2KqF_wC5PK2TgwgQbTKmnQltSlg5Jw/viewform"
   },
-  "total": 112,
-  "todayCount": 1,
+  "total": 113,
+  "todayCount": 2,
   "categories": [
     {
       "id": "anime",
@@ -27,7 +27,7 @@
     {
       "id": "web",
       "label": "Web小説・賞",
-      "count": 5
+      "count": 4
     },
     {
       "id": "game",
@@ -37,7 +37,7 @@
     {
       "id": "goods",
       "label": "グッズ・イベント",
-      "count": 17
+      "count": 18
     },
     {
       "id": "other",
@@ -50,7 +50,7 @@
       "id": "tensura",
       "title": "転生したらスライムだった件",
       "short": "転スラ",
-      "count": 14
+      "count": 15
     },
     {
       "id": "mushoku",
@@ -74,13 +74,13 @@
       "id": "kusuriya",
       "title": "薬屋のひとりごと",
       "short": "薬屋",
-      "count": 28
+      "count": 27
     },
     {
       "id": "kagejitsu",
       "title": "陰の実力者になりたくて！",
       "short": "陰の実力者",
-      "count": 3
+      "count": 4
     },
     {
       "id": "tate",
@@ -296,7 +296,7 @@
   "sources": [
     {
       "name": "山陽新聞",
-      "count": 14
+      "count": 15
     },
     {
       "name": "Yahoo!ニュース",
@@ -375,7 +375,15 @@
       "count": 1
     },
     {
+      "name": "Appliv Games",
+      "count": 1
+    },
+    {
       "name": "モデルプレス",
+      "count": 1
+    },
+    {
+      "name": "ライブドアニュース",
       "count": 1
     },
     {
@@ -419,19 +427,11 @@
       "count": 1
     },
     {
-      "name": "eeo",
-      "count": 1
-    },
-    {
       "name": "Yahoo!ファイナンス",
       "count": 1
     },
     {
       "name": "ｄメニューニュース",
-      "count": 1
-    },
-    {
-      "name": "電撃ホビーウェブ",
       "count": 1
     },
     {
@@ -713,6 +713,41 @@
       ]
     },
     {
+      "id": "1c1f6f096ad2",
+      "title": "MEメンバー「転スラ」主人公に扮したオフショット公開「見に行きますね」「写真が素敵」の声 (モデルプレス)",
+      "summary": "",
+      "url": "https://news.yahoo.co.jp/articles/dbd5dca436fc229941d42e6ba1aaeb7b27784667/images/000",
+      "image": "https://news-pctr.c.yimg.jp/uUzvQ3lML_bkIqyakc1vFhNrRI0RUQxg5aFkrX0xDg1_T0wXrbEJjtNGtrf1o9y3xudcUclfbXjZqAvGT8NJnQnBv78n2FrDPnfT4f4lE6ODgG_9i1SwwJn0a_albzZcM5zwZYy9f1XEfeJJcDDQoz3qBiYK1_VQhXrfv_LihTqz1EGX8dAqCitO6aQOehov",
+      "leadSource": "Yahoo!ニュース",
+      "publishedAt": "2026-10-20T04:54:10.000Z",
+      "sourceCount": 3,
+      "articleCount": 3,
+      "categories": [
+        "other"
+      ],
+      "keywords": [
+        "転スラ",
+        "メンバー",
+        "オフショット"
+      ],
+      "articles": [
+        {
+          "title": "≠MEメンバー「転スラ」主人公に扮したオフショット公開「見に行きますね」「写真が素敵」の声",
+          "url": "https://mdpr.jp/news/detail/4862274",
+          "source": "モデルプレス",
+          "publishedAt": "2026-10-20T04:54:08.000Z",
+          "isPR": false
+        },
+        {
+          "title": "【画像】≠MEメンバー「転スラ」主人公に扮したオフショット公開「見に行きますね」「写真が素敵」の声",
+          "url": "https://news.livedoor.com/article/image_detail/32610998/?img_id",
+          "source": "ライブドアニュース",
+          "publishedAt": "2026-10-20T04:54:08.000Z",
+          "isPR": false
+        }
+      ]
+    },
+    {
       "id": "32281a19e7b7",
       "title": "「リゼロ」スバル、エミリア、レムが水門都市でお出迎え♪ コラボ企画を開催",
       "summary": "",
@@ -768,9 +803,9 @@
       "articles": [
         {
           "title": "劇場版『薬屋のひとりごと』新PV解禁 小野賢章、化蛇団の水蛇役「明らかに悪そうな顔してますが、、、笑」",
-          "url": "https://www.sanyonews.jp/article/2003638",
+          "url": "https://www.sanyonews.jp/article/2003638?kw",
           "source": "山陽新聞",
-          "publishedAt": "2026-10-19T20:39:17.000Z",
+          "publishedAt": "2026-10-19T20:12:02.000Z",
           "isPR": false
         },
         {
@@ -790,58 +825,30 @@
       ]
     },
     {
-      "id": "1dc7263cccbd",
-      "title": "『薬屋のひとりごと』が3週連続1位を獲得！10月12日週アニメ週間ランキング発表",
+      "id": "a03489258624",
+      "title": "『薬屋のひとりごと』悠木碧＆大塚剛央が語る、第3期で深まる“意外な人間関係” 壬氏が馬閃に振り回される？【インタビュー後編】",
       "summary": "",
-      "url": "https://news.infoseek.co.jp/article/abematimes_10282235/",
-      "image": "https://media.image.infoseek.co.jp/isnews/photos/abematimes/abematimes_10282235_0-enlarge.jpg",
-      "leadSource": "Infoseek",
-      "publishedAt": "2026-10-20T10:50:00.000Z",
+      "url": "https://www.sanyonews.jp/article/2005706",
+      "image": "https://static.sanyonews.jp/image/article/size1/7/c/9/8/7c980a49dd5e536a09f3f767005bb091_1.jpg",
+      "leadSource": "山陽新聞",
+      "publishedAt": "2026-10-20T17:38:34.000Z",
       "sourceCount": 2,
       "articleCount": 2,
       "categories": [
         "anime",
-        "web"
-      ],
-      "keywords": [
-        "薬屋",
-        "ランキング",
-        "発表"
-      ],
-      "articles": [
-        {
-          "title": "α・Z世代が選ぶ2026年冬「映画館で観たい映画」ランキングが発表！ 1位は『劇場版 薬屋のひとりごと』【（株）シネブリッジ、（株）テスティー 調べ】",
-          "url": "https://eeo.today/media/2026/10/19/404511/",
-          "source": "eeo",
-          "publishedAt": "2026-10-19T06:19:59.000Z",
-          "isPR": false
-        }
-      ]
-    },
-    {
-      "id": "1c1f6f096ad2",
-      "title": "MEメンバー「転スラ」主人公に扮したオフショット公開「見に行きますね」「写真が素敵」の声 (モデルプレス)",
-      "summary": "",
-      "url": "https://news.yahoo.co.jp/articles/dbd5dca436fc229941d42e6ba1aaeb7b27784667/images/000",
-      "image": "https://news-pctr.c.yimg.jp/uUzvQ3lML_bkIqyakc1vFhNrRI0RUQxg5aFkrX0xDg1_T0wXrbEJjtNGtrf1o9y3xudcUclfbXjZqAvGT8NJnQnBv78n2FrDPnfT4f4lE6ODgG_9i1SwwJn0a_albzZcM5zwZYy9f1XEfeJJcDDQoz3qBiYK1_VQhXrfv_LihTqz1EGX8dAqCitO6aQOehov",
-      "leadSource": "Yahoo!ニュース",
-      "publishedAt": "2026-10-20T04:54:10.000Z",
-      "sourceCount": 2,
-      "articleCount": 2,
-      "categories": [
         "other"
       ],
       "keywords": [
-        "転スラ",
-        "メンバー",
-        "オフショット"
+        "薬屋",
+        "大塚剛央",
+        "壬氏"
       ],
       "articles": [
         {
-          "title": "≠MEメンバー「転スラ」主人公に扮したオフショット公開「見に行きますね」「写真が素敵」の声",
-          "url": "https://mdpr.jp/news/detail/4862274",
-          "source": "モデルプレス",
-          "publishedAt": "2026-10-20T04:54:08.000Z",
+          "title": "「薬屋のひとりごと」壬氏役・大塚剛央が語る作品への思い「終わってしまったら抜け殻になりそう(笑)」",
+          "url": "https://jmagazine.myjcom.jp/category/anime/post001759/",
+          "source": "J:magazine!",
+          "publishedAt": "2026-10-19T18:00:00.000Z",
           "isPR": false
         }
       ]
@@ -875,38 +882,11 @@
       ]
     },
     {
-      "id": "f4769f77a3c3",
-      "title": "「薬屋のひとりごと」壬氏役・大塚剛央が語る作品への思い「終わってしまったら抜け殻になりそう(笑)」",
-      "summary": "",
-      "url": "https://jmagazine.myjcom.jp/category/anime/post001759/",
-      "image": "https://jmagazine.myjcom.jp/uploads/261020_ootsuka_01.jpg",
-      "leadSource": "J:magazine!",
-      "publishedAt": "2026-10-19T18:00:00.000Z",
-      "sourceCount": 2,
-      "articleCount": 2,
-      "categories": [
-        "other"
-      ],
-      "keywords": [
-        "薬屋",
-        "作品"
-      ],
-      "articles": [
-        {
-          "title": "見上愛、“朝ドラ後初”作品で『薬屋のひとりごと』出演 元々ファン「本当にうれしかった」",
-          "url": "https://www.sanyonews.jp/photo/detail?article_id",
-          "source": "山陽新聞",
-          "publishedAt": "2026-10-19T15:51:26.000Z",
-          "isPR": false
-        }
-      ]
-    },
-    {
       "id": "5d303ce48491",
       "title": "サイレント・ウィッチ刊行5周年POP UP SHOPが新宿で開催へ くじも展開予定",
       "summary": "",
       "url": "https://news.dellows.jp/676771/",
-      "image": "https://assets.ln-news.com/images/medias/c92f19d1e0214a4299046add6f619be8.jpg",
+      "image": "https://news.dellows.jp/wp-content/uploads/2026/10/676771_1.jpg",
       "leadSource": "Dellows News",
       "publishedAt": "2026-10-19T13:27:17.000Z",
       "sourceCount": 2,
@@ -929,15 +909,44 @@
           "isPR": false
         }
       ]
+    },
+    {
+      "id": "daea2b931feb",
+      "title": "アニメ『凶乱令嬢ニア・リストン 病弱令嬢に転生した神殺しの武人の華麗なる無双録』第3話「舞台の幕が下りた後」のあらすじ＆先行カット解禁",
+      "summary": "",
+      "url": "https://ln-news.com/articles/126974",
+      "image": "https://assets.ln-news.com/images/medias/3d387c64741249558ce8029f83b7af6a.jpg",
+      "leadSource": "ラノベニュースオンライン",
+      "publishedAt": "2026-10-19T10:00:00.000Z",
+      "sourceCount": 2,
+      "articleCount": 2,
+      "categories": [
+        "anime",
+        "goods"
+      ],
+      "keywords": [
+        "リストン",
+        "凶乱令嬢",
+        "病弱令嬢"
+      ],
+      "articles": [
+        {
+          "title": "TVアニメ『凶乱令嬢ニア・リストン 病弱令嬢に転生した神殺しの武人の華麗なる無双録』第2弾PV Astros - Reds (kEFkJBxvzW)",
+          "url": "https://media.unisba.ac.id/aa48bb1a/1d4a5584VAgKOBlrKhwTRQE/?share",
+          "source": "Unisba Media",
+          "publishedAt": "2026-10-18T01:23:05.000Z",
+          "isPR": false
+        }
+      ]
     }
   ],
   "churn": {
-    "previousAt": "2026-10-20T18:30:18.581Z",
-    "previousCount": 114,
+    "previousAt": "2026-10-20T19:00:20.409Z",
+    "previousCount": 112,
     "newCount": 3
   },
   "updateGapMin": 30,
-  "nextUpdateAt": "2026-10-20T19:30:20.409Z",
+  "nextUpdateAt": "2026-10-20T20:00:19.400Z",
   "items": [
     {
       "id": "b9f04edf4e82",
@@ -958,6 +967,26 @@
       "viaGoogle": false,
       "sourceKind": "news",
       "isNew": false
+    },
+    {
+      "id": "a03489258624",
+      "title": "『薬屋のひとりごと』悠木碧＆大塚剛央が語る、第3期で深まる“意外な人間関係” 壬氏が馬閃に振り回される？【インタビュー後編】",
+      "url": "https://www.sanyonews.jp/article/2005706",
+      "host": "sanyonews.jp",
+      "source": "山陽新聞",
+      "summary": "",
+      "publishedAt": "2026-10-20T17:38:34.000Z",
+      "image": "https://static.sanyonews.jp/image/article/size1/7/c/9/8/7c980a49dd5e536a09f3f767005bb091_1.jpg",
+      "categories": [
+        "anime"
+      ],
+      "works": [
+        "kusuriya"
+      ],
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": true
     },
     {
       "id": "b1698f01bcfa",
@@ -1123,7 +1152,7 @@
       "source": "Dellows News",
       "summary": "",
       "publishedAt": "2026-10-20T09:00:00.000Z",
-      "image": "",
+      "image": "https://news.dellows.jp/wp-content/uploads/2026/10/815870_1.jpg",
       "categories": [
         "anime"
       ],
@@ -1271,6 +1300,26 @@
       "isNew": false
     },
     {
+      "id": "649b704173f6",
+      "title": "【#コンパス】 『陰の実力者になりたくて！』コラボカード＆コスチューム一挙紹介！豊富な【周】カードや新効果の【癒】カードが目玉!!",
+      "url": "https://games.app-liv.jp/archives/573775",
+      "host": "games.app-liv.jp",
+      "source": "Appliv Games",
+      "summary": "",
+      "publishedAt": "2026-10-20T05:12:12.000Z",
+      "image": "",
+      "categories": [
+        "goods"
+      ],
+      "works": [
+        "kagejitsu"
+      ],
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": true
+    },
+    {
       "id": "1c1f6f096ad2",
       "title": "MEメンバー「転スラ」主人公に扮したオフショット公開「見に行きますね」「写真が素敵」の声 (モデルプレス)",
       "url": "https://news.yahoo.co.jp/articles/dbd5dca436fc229941d42e6ba1aaeb7b27784667/images/000",
@@ -1309,6 +1358,26 @@
       "viaGoogle": false,
       "sourceKind": "news",
       "isNew": false
+    },
+    {
+      "id": "f42ae214a06c",
+      "title": "【画像】≠MEメンバー「転スラ」主人公に扮したオフショット公開「見に行きますね」「写真が素敵」の声",
+      "url": "https://news.livedoor.com/article/image_detail/32610998/?img_id",
+      "host": "news.livedoor.com",
+      "source": "ライブドアニュース",
+      "summary": "",
+      "publishedAt": "2026-10-20T04:54:08.000Z",
+      "image": "https://image.news.livedoor.com/newsimage/stf/6/8/68c92_749_7ac1033e_5fcca1e1.jpg",
+      "categories": [
+        "other"
+      ],
+      "works": [
+        "tensura"
+      ],
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": true
     },
     {
       "id": "0879a58eb5aa",
@@ -1827,11 +1896,11 @@
     {
       "id": "02c587a15d04",
       "title": "劇場版『薬屋のひとりごと』新PV解禁 小野賢章、化蛇団の水蛇役「明らかに悪そうな顔してますが、、、笑」",
-      "url": "https://www.sanyonews.jp/article/2003638",
+      "url": "https://www.sanyonews.jp/article/2003638?kw",
       "host": "sanyonews.jp",
       "source": "山陽新聞",
       "summary": "",
-      "publishedAt": "2026-10-19T20:39:17.000Z",
+      "publishedAt": "2026-10-19T20:12:02.000Z",
       "image": "https://static.sanyonews.jp/image/article/size1/8/2/f/5/82f54b9ccac21e53b38bd7a273f57d06_1.jpg",
       "categories": [
         "anime"
@@ -1970,7 +2039,7 @@
       "source": "Dellows News",
       "summary": "",
       "publishedAt": "2026-10-19T13:27:17.000Z",
-      "image": "",
+      "image": "https://news.dellows.jp/wp-content/uploads/2026/10/676771_1.jpg",
       "categories": [
         "anime",
         "goods"
@@ -2077,7 +2146,7 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "5d244b8aa956",
@@ -2242,27 +2311,6 @@
       "isNew": false
     },
     {
-      "id": "7090fea86e27",
-      "title": "α・Z世代が選ぶ2026年冬「映画館で観たい映画」ランキングが発表！ 1位は『劇場版 薬屋のひとりごと』【（株）シネブリッジ、（株）テスティー 調べ】",
-      "url": "https://eeo.today/media/2026/10/19/404511/",
-      "host": "eeo.today",
-      "source": "eeo",
-      "summary": "",
-      "publishedAt": "2026-10-19T06:19:59.000Z",
-      "image": "https://eeo.today/media/wp-content/uploads/2026/10/sub8-8.jpg",
-      "categories": [
-        "anime",
-        "web"
-      ],
-      "works": [
-        "kusuriya"
-      ],
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": true
-    },
-    {
       "id": "68b11ef57ad7",
       "title": "Ａｉｍｉｎｇ－続伸 「陰の実力者になりたくて！」の海外ライセンス契約締結(トレーダーズ・ウェブ)",
       "url": "https://finance.yahoo.co.jp/news/detail/3cf0cd280692877d6174d3f6d9a1fc3624053bfa",
@@ -2341,26 +2389,6 @@
       "viaGoogle": true,
       "sourceKind": "news",
       "isNew": false
-    },
-    {
-      "id": "5347edcabf33",
-      "title": "三月八日氏デザインの「ふわぷち」シリーズから、『薬屋のひとりごと』「猫猫」のふわぷちぬいぐるみが登場！オンラインストア「カドスト」にて予約受付中！",
-      "url": "https://hobby.dengeki.com/news/3200186/",
-      "host": "hobby.dengeki.com",
-      "source": "電撃ホビーウェブ",
-      "summary": "",
-      "publishedAt": "2026-10-19T06:00:00.000Z",
-      "image": "https://hobby.dengeki.com/ss/hobby/2026/11/tc_epNqyFlO6T35JRfzf7ZJSgsvUfqZQDXf_mpXZ-SoqySJWQcprUMxDbukJlk0A9D_2.jpg",
-      "categories": [
-        "other"
-      ],
-      "works": [
-        "kusuriya"
-      ],
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": true
     },
     {
       "id": "d8b09cfb1190",
@@ -3107,7 +3135,7 @@
       "source": "Dellows News",
       "summary": "",
       "publishedAt": "2026-10-17T20:51:16.000Z",
-      "image": "",
+      "image": "https://news.dellows.jp/wp-content/uploads/2026/10/706515_1.jpg",
       "categories": [
         "goods"
       ],
