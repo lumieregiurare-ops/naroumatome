@@ -1,13 +1,13 @@
 {
-  "updatedAt": "2026-10-20T10:00:19.505Z",
+  "updatedAt": "2026-10-20T10:30:18.978Z",
   "site": {
     "title": "なろう系まとめ",
     "tagline": "小説家になろう発の作品のアニメ化・コミカライズ・書籍化のニュースと、なろうのランキングをまとめています。",
     "url": "https://naroumatome.gamelab.website/",
     "contactUrl": "https://docs.google.com/forms/d/e/1FAIpQLSesWyhmZ6sRS_ve-c3X2KqF_wC5PK2TgwgQbTKmnQltSlg5Jw/viewform"
   },
-  "total": 118,
-  "todayCount": 50,
+  "total": 119,
+  "todayCount": 47,
   "categories": [
     {
       "id": "anime",
@@ -22,7 +22,7 @@
     {
       "id": "book",
       "label": "書籍・ラノベ",
-      "count": 10
+      "count": 11
     },
     {
       "id": "web",
@@ -32,7 +32,7 @@
     {
       "id": "game",
       "label": "ゲーム",
-      "count": 4
+      "count": 5
     },
     {
       "id": "goods",
@@ -42,7 +42,7 @@
     {
       "id": "other",
       "label": "そのほか",
-      "count": 31
+      "count": 30
     }
   ],
   "works": [
@@ -50,7 +50,7 @@
       "id": "tensura",
       "title": "転生したらスライムだった件",
       "short": "転スラ",
-      "count": 12
+      "count": 11
     },
     {
       "id": "mushoku",
@@ -212,7 +212,7 @@
       "id": "isekai-yakkyoku",
       "title": "異世界薬局",
       "short": "異世界薬局",
-      "count": 0
+      "count": 1
     },
     {
       "id": "log-horizon",
@@ -296,19 +296,23 @@
   "sources": [
     {
       "name": "山陽新聞",
-      "count": 14
+      "count": 15
+    },
+    {
+      "name": "Unisba Media",
+      "count": 9
     },
     {
       "name": "Yahoo!ニュース",
-      "count": 9
+      "count": 8
     },
     {
       "name": "アニメ！アニメ！",
       "count": 8
     },
     {
-      "name": "Unisba Media",
-      "count": 8
+      "name": "Infoseek",
+      "count": 6
     },
     {
       "name": "WEBザテレビジョン",
@@ -319,10 +323,6 @@
       "count": 6
     },
     {
-      "name": "Infoseek",
-      "count": 5
-    },
-    {
       "name": "GameWith",
       "count": 5
     },
@@ -331,19 +331,15 @@
       "count": 4
     },
     {
+      "name": "PR TIMES",
+      "count": 3
+    },
+    {
       "name": "電撃オンライン",
       "count": 3
     },
     {
       "name": "ナタリー",
-      "count": 2
-    },
-    {
-      "name": "PR TIMES",
-      "count": 2
-    },
-    {
-      "name": "モデルプレス",
       "count": 2
     },
     {
@@ -371,7 +367,11 @@
       "count": 2
     },
     {
-      "name": "セレクトラ",
+      "name": "TVer",
+      "count": 2
+    },
+    {
+      "name": "モデルプレス",
       "count": 1
     },
     {
@@ -388,10 +388,6 @@
     },
     {
       "name": "KAI-YOU",
-      "count": 1
-    },
-    {
-      "name": "Koubo",
       "count": 1
     },
     {
@@ -479,10 +475,6 @@
       "count": 1
     },
     {
-      "name": "TVer",
-      "count": 1
-    },
-    {
       "name": "ガルポ！",
       "count": 1
     },
@@ -562,7 +554,7 @@
       "articleCount": 5,
       "categories": [
         "other",
-        "anime"
+        "book"
       ],
       "keywords": [
         "本好き",
@@ -570,6 +562,13 @@
         "下剋上"
       ],
       "articles": [
+        {
+          "title": "『本好きの下剋上』シリーズ累計1500万部突破！（電子書籍を含む）",
+          "url": "https://prtimes.jp/main/html/rd/p/000000221.000174060.html",
+          "source": "PR TIMES",
+          "publishedAt": "2026-10-20T06:15:19.000Z",
+          "isPR": true
+        },
         {
           "title": "本好きの下剋上：累計1500万部突破 アニメも人気のラノベ",
           "url": "https://mantan-web.jp/article/20261020dog00m200040000a.html",
@@ -582,13 +581,6 @@
           "url": "https://news.yahoo.co.jp/articles/a759fd4f08e8ec312a5f4de746c547314c26d893",
           "source": "Yahoo!ニュース",
           "publishedAt": "2026-10-20T03:19:00.000Z",
-          "isPR": false
-        },
-        {
-          "title": "『本好きの下剋上』シリーズ累計1500万部突破！（電子書籍を含む）",
-          "url": "https://koubo.jp/press-release/prtimes/c174060_r221",
-          "source": "Koubo",
-          "publishedAt": "2026-10-20T03:00:00.000Z",
           "isPR": false
         },
         {
@@ -705,9 +697,9 @@
       "articles": [
         {
           "title": "劇場版『薬屋のひとりごと』新PV解禁 小野賢章、化蛇団の水蛇役「明らかに悪そうな顔してますが、、、笑」",
-          "url": "https://www.sanyonews.jp/article/2003638?kw",
+          "url": "https://www.sanyonews.jp/article/2003638",
           "source": "山陽新聞",
-          "publishedAt": "2026-10-19T20:12:02.000Z",
+          "publishedAt": "2026-10-19T20:39:17.000Z",
           "isPR": false
         },
         {
@@ -923,12 +915,12 @@
     }
   ],
   "churn": {
-    "previousAt": "2026-10-20T09:30:20.719Z",
-    "previousCount": 117,
-    "newCount": 4
+    "previousAt": "2026-10-20T10:00:19.505Z",
+    "previousCount": 118,
+    "newCount": 3
   },
   "updateGapMin": 30,
-  "nextUpdateAt": "2026-10-20T10:30:19.505Z",
+  "nextUpdateAt": "2026-10-20T11:00:18.978Z",
   "items": [
     {
       "id": "405b6ed2ba1d",
@@ -948,7 +940,7 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "2065bdaff630",
@@ -966,7 +958,7 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "7f2fc7e20d02",
@@ -984,26 +976,6 @@
         "tensura"
       ],
       "isPR": true,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": false
-    },
-    {
-      "id": "25a915f9b565",
-      "title": "「薬屋のひとりごと」実写キャスト予想！玉葉妃や梨花妃、阿多妃は誰が演じる？",
-      "url": "https://selectra.jp/streaming/news/kusuriya-cast",
-      "host": "selectra.jp",
-      "source": "セレクトラ",
-      "summary": "",
-      "publishedAt": "2026-10-20T09:11:59.000Z",
-      "image": "https://images.selectra.jp/selectra.jp/files/kusuriya-cast.png.webp",
-      "categories": [
-        "anime"
-      ],
-      "works": [
-        "kusuriya"
-      ],
-      "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
       "isNew": false
@@ -1045,6 +1017,26 @@
         "kagejitsu"
       ],
       "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": false
+    },
+    {
+      "id": "89ca26454710",
+      "title": "『本好きの下剋上』シリーズ累計1500万部突破！（電子書籍を含む）",
+      "url": "https://prtimes.jp/main/html/rd/p/000000221.000174060.html",
+      "host": "prtimes.jp",
+      "source": "PR TIMES",
+      "summary": "[株式会社ＴＯブックス] 株式会社TOブックス（本社：東京都渋谷区、代表：本田武市）が刊行する『本好きの下剋上』シリーズが累計1500万部（電子書籍を含む）突破したことを発表いたします。 [画像1: https://prcdn.freetls.fastly.net/r...",
+      "publishedAt": "2026-10-20T06:15:19.000Z",
+      "image": "https://prcdn.freetls.fastly.net/release_image/174060/221/174060-221-90c83234e9615c21fc341b61c73ee044-1400x900.jpg?format=jpeg&auto=webp&fit=bounds&width=2400&height=1260",
+      "categories": [
+        "book"
+      ],
+      "works": [
+        "honzuki"
+      ],
+      "isPR": true,
       "viaGoogle": false,
       "sourceKind": "news",
       "isNew": false
@@ -1116,26 +1108,6 @@
       "summary": "",
       "publishedAt": "2026-10-20T04:54:08.000Z",
       "image": "https://img-mdpr.freetls.fastly.net/article/dNvg/wm/dNvglDoXqVSD60s4OqPxVmksDGMr7VYo1a0P3VAh4FA.jpg?width=700&disable=upscale&auto=webp&quality=80",
-      "categories": [
-        "other"
-      ],
-      "works": [
-        "tensura"
-      ],
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": false
-    },
-    {
-      "id": "7b3885bd8d63",
-      "title": "(画像3/14) ≠MEメンバー「転スラ」主人公に扮したオフショット公開「見に行きますね」「写真が素敵」の声",
-      "url": "https://mdpr.jp/photo/detail/20606308",
-      "host": "mdpr.jp",
-      "source": "モデルプレス",
-      "summary": "",
-      "publishedAt": "2026-10-20T04:54:00.000Z",
-      "image": "https://img-mdpr.freetls.fastly.net/article/8tK4/nm/8tK4dEZ2ZGl4lqGaZFuSWzTHXSV_K0DlGZ3aGdal5g0.jpg",
       "categories": [
         "other"
       ],
@@ -1296,26 +1268,6 @@
         "anime"
       ],
       "works": [],
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": false
-    },
-    {
-      "id": "89ca26454710",
-      "title": "『本好きの下剋上』シリーズ累計1500万部突破！（電子書籍を含む）",
-      "url": "https://koubo.jp/press-release/prtimes/c174060_r221",
-      "host": "koubo.jp",
-      "source": "Koubo",
-      "summary": "",
-      "publishedAt": "2026-10-20T03:00:00.000Z",
-      "image": "",
-      "categories": [
-        "other"
-      ],
-      "works": [
-        "honzuki"
-      ],
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
@@ -1696,7 +1648,7 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "46c454fd4b32",
@@ -1738,33 +1690,13 @@
       "isNew": false
     },
     {
-      "id": "2373c0692c7f",
-      "title": "『転スラ』リムル様、大忙し！ラミリスから緊急連絡 尊いミリムの表情…第84話あらすじ＆場面カット解禁",
-      "url": "https://www.sanyonews.jp/article/1942798?kw",
-      "host": "sanyonews.jp",
-      "source": "山陽新聞",
-      "summary": "",
-      "publishedAt": "2026-10-19T20:48:16.000Z",
-      "image": "https://static.sanyonews.jp/image/article/size1/6/5/0/1/6501ce6b09cb9464f23235f99fbe6a7f_1.jpg",
-      "categories": [
-        "anime"
-      ],
-      "works": [
-        "tensura"
-      ],
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": false
-    },
-    {
       "id": "02c587a15d04",
       "title": "劇場版『薬屋のひとりごと』新PV解禁 小野賢章、化蛇団の水蛇役「明らかに悪そうな顔してますが、、、笑」",
-      "url": "https://www.sanyonews.jp/article/2003638?kw",
+      "url": "https://www.sanyonews.jp/article/2003638",
       "host": "sanyonews.jp",
       "source": "山陽新聞",
       "summary": "",
-      "publishedAt": "2026-10-19T20:12:02.000Z",
+      "publishedAt": "2026-10-19T20:39:17.000Z",
       "image": "https://static.sanyonews.jp/image/article/size1/8/2/f/5/82f54b9ccac21e53b38bd7a273f57d06_1.jpg",
       "categories": [
         "anime"
@@ -2526,6 +2458,26 @@
       "isNew": false
     },
     {
+      "id": "90fba31bc0a6",
+      "title": "『薬屋のひとりごと』火鼠の皮衣とは？湖に消えた美しい天女の伝説 第50話あらすじ＆場面カット解禁",
+      "url": "https://www.sanyonews.jp/article/2001864?rct",
+      "host": "sanyonews.jp",
+      "source": "山陽新聞",
+      "summary": "",
+      "publishedAt": "2026-10-19T01:32:07.000Z",
+      "image": "https://static.sanyonews.jp/image/article/size1/7/2/d/e/72dea31490b1ad563a8c9696162c4af9_1.jpg",
+      "categories": [
+        "anime"
+      ],
+      "works": [
+        "kusuriya"
+      ],
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": true
+    },
+    {
       "id": "6787b41d4f5a",
       "title": "異世界ファンタジーレーベル「comicスピラ」人気タイトルの紙コミックス＜最新刊＞が10月19日（月）一挙発売！書店購入特典＆電子書店フェアも開催",
       "url": "https://animeanime.jp/release/prtimes/20261019/320632.html",
@@ -2539,6 +2491,26 @@
         "book"
       ],
       "works": [],
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": false
+    },
+    {
+      "id": "2373c0692c7f",
+      "title": "『転スラ』リムル様、大忙し！ラミリスから緊急連絡 尊いミリムの表情…第84話あらすじ＆場面カット解禁",
+      "url": "https://www.sanyonews.jp/article/1942798?kw",
+      "host": "sanyonews.jp",
+      "source": "山陽新聞",
+      "summary": "",
+      "publishedAt": "2026-10-19T00:48:11.000Z",
+      "image": "https://static.sanyonews.jp/image/article/size1/6/5/0/1/6501ce6b09cb9464f23235f99fbe6a7f_1.jpg",
+      "categories": [
+        "anime"
+      ],
+      "works": [
+        "tensura"
+      ],
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
@@ -2744,6 +2716,24 @@
       "isNew": false
     },
     {
+      "id": "92a35b697ee6",
+      "title": "追放された転生重騎士はゲーム知識で無双する",
+      "url": "https://tver.jp/episodes/ep5mnylvhk",
+      "host": "tver.jp",
+      "source": "TVer",
+      "summary": "",
+      "publishedAt": "2026-10-18T16:17:43.000Z",
+      "image": "",
+      "categories": [
+        "game"
+      ],
+      "works": [],
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": true
+    },
+    {
       "id": "ce9c99bcd082",
       "title": "Kindleで『異世界サムライ』が5巻まで半額セール。異世界転移した最強侍がドラゴンやバジリスク相手に大暴れ！",
       "url": "https://dengekionline.com/article/202610/91338",
@@ -2918,13 +2908,13 @@
     },
     {
       "id": "f9007484a263",
-      "title": "アニメ第3期『転生貴族、鑑定スキルで成り上がる』現状打開の“ある作戦”とは…第28話「終戦」【先行カット】（オタク総研）",
-      "url": "https://news.yahoo.co.jp/articles/2330e18786ad5b53aad3a0dce4e271aabb1144fa",
-      "host": "news.yahoo.co.jp",
-      "source": "Yahoo!ニュース",
+      "title": "アニメ第3期『転生貴族、鑑定スキルで成り上がる』現状打開の“ある作戦”とは…第28話「終戦」【先行カット】",
+      "url": "https://news.infoseek.co.jp/amp/article/otakulab_210293/",
+      "host": "news.infoseek.co.jp",
+      "source": "Infoseek",
       "summary": "",
-      "publishedAt": "2026-10-18T02:56:00.000Z",
-      "image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20261018-00115600-otakulab-000-1-view.jpg?exp=10800",
+      "publishedAt": "2026-10-18T02:55:14.000Z",
+      "image": "https://media.image.infoseek.co.jp/isnews/photos/otakulab/otakulab_210293_0-enlarge.jpg",
       "categories": [
         "anime"
       ],
@@ -3152,6 +3142,26 @@
       "isNew": false
     },
     {
+      "id": "0f9720c587ca",
+      "title": "【感想】最悪の感染症。ペスト。【異世界薬局】【レビュー】 Jerry Greenfield (ttboIPtHx0)",
+      "url": "https://media.unisba.ac.id/2d91f5b3/249f6783Ay4tGSlPF1cgKzM//?share",
+      "host": "media.unisba.ac.id",
+      "source": "Unisba Media",
+      "summary": "",
+      "publishedAt": "2026-10-17T14:47:46.000Z",
+      "image": "",
+      "categories": [
+        "other"
+      ],
+      "works": [
+        "isekai-yakkyoku"
+      ],
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": true
+    },
+    {
       "id": "4f1520f407b5",
       "title": "嘆きの亡霊は引退したい 〜最弱ハンターは英雄の夢を見る〜【Web版】 作者： 槻影",
       "url": "https://t.co/Pn6fiGysnW",
@@ -3189,7 +3199,7 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "f1e344fb9da2",
