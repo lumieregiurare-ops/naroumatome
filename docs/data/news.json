@@ -1,23 +1,23 @@
 {
-  "updatedAt": "2026-10-20T18:00:19.958Z",
+  "updatedAt": "2026-10-20T18:30:18.581Z",
   "site": {
     "title": "なろう系まとめ",
     "tagline": "小説家になろう発の作品のアニメ化・コミカライズ・書籍化のニュースと、なろうのランキングをまとめています。",
     "url": "https://naroumatome.gamelab.website/",
     "contactUrl": "https://docs.google.com/forms/d/e/1FAIpQLSesWyhmZ6sRS_ve-c3X2KqF_wC5PK2TgwgQbTKmnQltSlg5Jw/viewform"
   },
-  "total": 113,
-  "todayCount": 0,
+  "total": 114,
+  "todayCount": 1,
   "categories": [
     {
       "id": "anime",
       "label": "アニメ",
-      "count": 65
+      "count": 66
     },
     {
       "id": "comic",
       "label": "コミカライズ",
-      "count": 5
+      "count": 4
     },
     {
       "id": "book",
@@ -37,12 +37,12 @@
     {
       "id": "goods",
       "label": "グッズ・イベント",
-      "count": 18
+      "count": 19
     },
     {
       "id": "other",
       "label": "そのほか",
-      "count": 28
+      "count": 27
     }
   ],
   "works": [
@@ -50,7 +50,7 @@
       "id": "tensura",
       "title": "転生したらスライムだった件",
       "short": "転スラ",
-      "count": 13
+      "count": 15
     },
     {
       "id": "mushoku",
@@ -224,7 +224,7 @@
       "id": "tenken",
       "title": "転生したら剣でした",
       "short": "転剣",
-      "count": 2
+      "count": 3
     },
     {
       "id": "rupunana",
@@ -296,7 +296,7 @@
   "sources": [
     {
       "name": "山陽新聞",
-      "count": 14
+      "count": 15
     },
     {
       "name": "Yahoo!ニュース",
@@ -319,16 +319,12 @@
       "count": 5
     },
     {
+      "name": "WEBザテレビジョン",
+      "count": 4
+    },
+    {
       "name": "ラノベニュースオンライン",
       "count": 4
-    },
-    {
-      "name": "Howl.link",
-      "count": 4
-    },
-    {
-      "name": "WEBザテレビジョン",
-      "count": 3
     },
     {
       "name": "Dellows News",
@@ -337,6 +333,14 @@
     {
       "name": "電撃オンライン",
       "count": 3
+    },
+    {
+      "name": "Howl.link",
+      "count": 3
+    },
+    {
+      "name": "Koubo",
+      "count": 2
     },
     {
       "name": "PR TIMES",
@@ -348,10 +352,6 @@
     },
     {
       "name": "ニコニコニュース",
-      "count": 2
-    },
-    {
-      "name": "キャラグー",
       "count": 2
     },
     {
@@ -395,11 +395,11 @@
       "count": 1
     },
     {
-      "name": "Koubo",
+      "name": "オタク総研",
       "count": 1
     },
     {
-      "name": "オタク総研",
+      "name": "セレクトラ",
       "count": 1
     },
     {
@@ -416,10 +416,6 @@
     },
     {
       "name": "J:magazine!",
-      "count": 1
-    },
-    {
-      "name": "https://pr-free.jp/",
       "count": 1
     },
     {
@@ -444,6 +440,10 @@
     },
     {
       "name": "rockinon.com",
+      "count": 1
+    },
+    {
+      "name": "キャラグー",
       "count": 1
     },
     {
@@ -677,6 +677,42 @@
       ]
     },
     {
+      "id": "b9f04edf4e82",
+      "title": "転スラ新グッズ登場！オーロラ缶バッジ等受注開始",
+      "summary": "",
+      "url": "https://koubo.jp/article/133167",
+      "image": "https://koubo-dz7cn3ci.s3.ap-northeast-1.amazonaws.com/strapi/article_133167_keyvisual_7c34556340.jpeg",
+      "leadSource": "Koubo",
+      "publishedAt": "2026-10-20T18:05:00.000Z",
+      "sourceCount": 3,
+      "articleCount": 3,
+      "categories": [
+        "goods",
+        "anime"
+      ],
+      "keywords": [
+        "オーロラ",
+        "バッジ",
+        "受注"
+      ],
+      "articles": [
+        {
+          "title": "アニメ『転生したらスライムだった件』オーロラ缶バッジ2個セット、プリズムビジュアルコレクション、フォトグレイ風ステッカーの受注を開始しました！",
+          "url": "https://www.asahi.com/and/pressrelease/16980105",
+          "source": "朝日新聞",
+          "publishedAt": "2026-10-20T09:00:00.000Z",
+          "isPR": false
+        },
+        {
+          "title": "転生したらスライムだった件（94話～96話） : いももちのアニメ道",
+          "url": "https://t.co/tJkGfuylfE",
+          "source": "Howl.link",
+          "publishedAt": "2026-10-19T16:00:00.000Z",
+          "isPR": false
+        }
+      ]
+    },
+    {
       "id": "32281a19e7b7",
       "title": "「リゼロ」スバル、エミリア、レムが水門都市でお出迎え♪ コラボ企画を開催",
       "summary": "",
@@ -754,32 +790,6 @@
       ]
     },
     {
-      "id": "7f2fc7e20d02",
-      "title": "アニメ『転生したらスライムだった件』オーロラ缶バッジ2個セット、プリズムビジュアルコレクション、フォトグレイ風ステッカーの受注を開始しました！",
-      "summary": "",
-      "url": "https://www.asahi.com/and/pressrelease/16980105",
-      "image": "",
-      "leadSource": "朝日新聞",
-      "publishedAt": "2026-10-20T09:00:00.000Z",
-      "sourceCount": 2,
-      "articleCount": 2,
-      "categories": [
-        "anime"
-      ],
-      "keywords": [
-        "スライム"
-      ],
-      "articles": [
-        {
-          "title": "転生したらスライムだった件（94話～96話） : いももちのアニメ道",
-          "url": "https://t.co/tJkGfuylfE",
-          "source": "Howl.link",
-          "publishedAt": "2026-10-19T16:00:00.000Z",
-          "isPR": false
-        }
-      ]
-    },
-    {
       "id": "1c1f6f096ad2",
       "title": "MEメンバー「転スラ」主人公に扮したオフショット公開「見に行きますね」「写真が素敵」の声 (モデルプレス)",
       "summary": "",
@@ -828,7 +838,7 @@
       "articles": [
         {
           "title": "打ち切り回避へ、キャラが勝手に動きだす！痛快メタ・コメディ 『先生、今度は異世界ですか？』",
-          "url": "https://news.nicovideo.jp/watch/nw19897447?news_ref",
+          "url": "https://news.nicovideo.jp/watch/nw19897447?from",
           "source": "ニコニコニュース",
           "publishedAt": "2026-10-20T04:30:25.000Z",
           "isPR": false
@@ -837,9 +847,9 @@
     },
     {
       "id": "f4769f77a3c3",
-      "title": "「薬屋のひとりごと」壬氏役・大塚剛央が語る作品への思い「終わってしまったら抜け殻になりそう(笑)」（画像 1 5",
+      "title": "「薬屋のひとりごと」壬氏役・大塚剛央が語る作品への思い「終わってしまったら抜け殻になりそう(笑)」",
       "summary": "",
-      "url": "https://jmagazine.myjcom.jp/category/anime/post001759/gallery/",
+      "url": "https://jmagazine.myjcom.jp/category/anime/post001759/",
       "image": "https://jmagazine.myjcom.jp/uploads/261020_ootsuka_01.jpg",
       "leadSource": "J:magazine!",
       "publishedAt": "2026-10-19T18:00:00.000Z",
@@ -922,13 +932,33 @@
     }
   ],
   "churn": {
-    "previousAt": "2026-10-20T17:30:20.595Z",
+    "previousAt": "2026-10-20T18:00:19.958Z",
     "previousCount": 113,
-    "newCount": 1
+    "newCount": 4
   },
   "updateGapMin": 30,
-  "nextUpdateAt": "2026-10-20T18:30:19.958Z",
+  "nextUpdateAt": "2026-10-20T19:00:18.581Z",
   "items": [
+    {
+      "id": "b9f04edf4e82",
+      "title": "転スラ新グッズ登場！オーロラ缶バッジ等受注開始",
+      "url": "https://koubo.jp/article/133167",
+      "host": "koubo.jp",
+      "source": "Koubo",
+      "summary": "",
+      "publishedAt": "2026-10-20T18:05:00.000Z",
+      "image": "https://koubo-dz7cn3ci.s3.ap-northeast-1.amazonaws.com/strapi/article_133167_keyvisual_7c34556340.jpeg",
+      "categories": [
+        "goods"
+      ],
+      "works": [
+        "tensura"
+      ],
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": true
+    },
     {
       "id": "b1698f01bcfa",
       "title": "“メロ男”は壬氏だけじゃない！猫猫をサポートする右叫に「初恋泥棒お兄さんすぎる」アニメ『薬屋のひとりごと』51話",
@@ -1203,6 +1233,26 @@
       "isNew": false
     },
     {
+      "id": "c9052baed860",
+      "title": "＜転生したら剣でしたII＞地下迷宮で因縁の骸骨騎士と激突…第3話あらすじ＆ステファン役・井澤詩織コメント公開",
+      "url": "https://thetv.jp/news/detail/1449592/18839768/",
+      "host": "thetv.jp",
+      "source": "WEBザテレビジョン",
+      "summary": "",
+      "publishedAt": "2026-10-20T05:58:44.000Z",
+      "image": "https://thetv.jp/i/nw/1449592/18839768.jpg?w=1284",
+      "categories": [
+        "anime"
+      ],
+      "works": [
+        "tenken"
+      ],
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": true
+    },
+    {
       "id": "2de64583c2ab",
       "title": "【ポコダン】無職転生コラボ攻略まとめ【ポコロンダンジョンズ】",
       "url": "https://gamewith.jp/pocodun/article/show/583067",
@@ -1301,7 +1351,7 @@
     {
       "id": "2048c987c3af",
       "title": "打ち切り回避へ、キャラが勝手に動きだす！痛快メタ・コメディ 『先生、今度は異世界ですか？』",
-      "url": "https://news.nicovideo.jp/watch/nw19897447?news_ref",
+      "url": "https://news.nicovideo.jp/watch/nw19897447?from",
       "host": "news.nicovideo.jp",
       "source": "ニコニコニュース",
       "summary": "",
@@ -1521,6 +1571,26 @@
       "isNew": false
     },
     {
+      "id": "e4d5ce1c36c1",
+      "title": "『薬屋のひとりごと』のゲームはいつ発売？『偽りの皇弟』の発売日やTGS2026新情報を紹介",
+      "url": "https://selectra.jp/telecom/news/kusuriyanohitorigoto-game",
+      "host": "selectra.jp",
+      "source": "セレクトラ",
+      "summary": "",
+      "publishedAt": "2026-10-20T02:07:36.000Z",
+      "image": "https://images.selectra.jp/articles/kusuriyanohitorigoto-game/hero.webp",
+      "categories": [
+        "game"
+      ],
+      "works": [
+        "kusuriya"
+      ],
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": true
+    },
+    {
       "id": "bcc66427eaea",
       "title": "日本・台湾のコンテンツ展開を支援する日盛図書、サイバーエージェント社企画・展開『転生したらスライムだった件』の台湾・台北POPUP STORE開催をサポート｜Infoseekニュース",
       "url": "https://news.infoseek.co.jp/article/prtimes_000000059_000019746/",
@@ -1657,26 +1727,6 @@
       "viaGoogle": false,
       "sourceKind": "news",
       "isNew": false
-    },
-    {
-      "id": "15d8975f3c90",
-      "title": "薬屋のひとりごと アクリルスタンド｜薬屋のひとりごとのガチャガチャ 発売日・価格・設置場所",
-      "url": "https://charagoo.jp/gacha/item/9869d9d61520/",
-      "host": "charagoo.jp",
-      "source": "キャラグー",
-      "summary": "",
-      "publishedAt": "2026-10-20T00:00:32.000Z",
-      "image": "",
-      "categories": [
-        "game"
-      ],
-      "works": [
-        "kusuriya"
-      ],
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": true
     },
     {
       "id": "528ab15ffd00",
@@ -1877,8 +1927,8 @@
     },
     {
       "id": "f4769f77a3c3",
-      "title": "「薬屋のひとりごと」壬氏役・大塚剛央が語る作品への思い「終わってしまったら抜け殻になりそう(笑)」（画像 1 5",
-      "url": "https://jmagazine.myjcom.jp/category/anime/post001759/gallery/",
+      "title": "「薬屋のひとりごと」壬氏役・大塚剛央が語る作品への思い「終わってしまったら抜け殻になりそう(笑)」",
+      "url": "https://jmagazine.myjcom.jp/category/anime/post001759/",
       "host": "jmagazine.myjcom.jp",
       "source": "J:magazine!",
       "summary": "",
@@ -2073,24 +2123,6 @@
       "isNew": false
     },
     {
-      "id": "de5b0058f778",
-      "title": "ヒトとキツネの異世界黙示録Ⅱ",
-      "url": "https://t.co/jorY7hshpr",
-      "host": "t.co",
-      "source": "Howl.link",
-      "summary": "",
-      "publishedAt": "2026-10-19T10:29:09.000Z",
-      "image": "",
-      "categories": [
-        "other"
-      ],
-      "works": [],
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": false
-    },
-    {
       "id": "5d244b8aa956",
       "title": "『薬屋のひとりごと』第3期、猫猫の“子守唄”にも視聴者注目！第2話コメント最多シーンランキングTOP3 (オタク総研)",
       "url": "https://news.yahoo.co.jp/articles/4361bdf9c45b9534ddb46309fd6cc3156bc5c0f1/images/000",
@@ -2106,25 +2138,6 @@
       "works": [
         "kusuriya"
       ],
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": false
-    },
-    {
-      "id": "89276a5751bf",
-      "title": "Mediowl ／無料WEBコミックサイト「コミックヨンデル」公開！異世界・SF・コメディなど10作品を掲載 - https://pr-free.jp/",
-      "url": "https://pr-free.jp/2026/185506/",
-      "host": "pr-free.jp",
-      "source": "https://pr-free.jp/",
-      "summary": "",
-      "publishedAt": "2026-10-19T10:08:40.000Z",
-      "image": "https://pr-free.jp/wp-content/uploads/2026/10/20261019_929Comic_YONDERU.jpg",
-      "categories": [
-        "anime",
-        "comic"
-      ],
-      "works": [],
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
@@ -2837,6 +2850,26 @@
       "viaGoogle": false,
       "sourceKind": "news",
       "isNew": false
+    },
+    {
+      "id": "a2e2a0b308c2",
+      "title": "『転スラ』ヒナタ、クロエのスキルで過去へ 【勇者クロノア・前編】第92話あらすじ＆場面カット解禁",
+      "url": "https://www.sanyonews.jp/article/1977455",
+      "host": "sanyonews.jp",
+      "source": "山陽新聞",
+      "summary": "",
+      "publishedAt": "2026-10-18T05:59:25.000Z",
+      "image": "https://static.sanyonews.jp/image/article/size1/7/5/7/1/7571927a22a24427be37ec09b4dc1fbc_1.jpg",
+      "categories": [
+        "anime"
+      ],
+      "works": [
+        "tensura"
+      ],
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": true
     },
     {
       "id": "d6726594db56",
