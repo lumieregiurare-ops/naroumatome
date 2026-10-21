@@ -1,23 +1,23 @@
 {
-  "updatedAt": "2026-10-21T12:00:23.118Z",
+  "updatedAt": "2026-10-21T12:30:18.275Z",
   "site": {
     "title": "なろう系まとめ",
     "tagline": "小説家になろう発の作品のアニメ化・コミカライズ・書籍化のニュースと、なろうのランキングをまとめています。",
     "url": "https://naroumatome.gamelab.website/",
     "contactUrl": "https://docs.google.com/forms/d/e/1FAIpQLSesWyhmZ6sRS_ve-c3X2KqF_wC5PK2TgwgQbTKmnQltSlg5Jw/viewform"
   },
-  "total": 121,
-  "todayCount": 46,
+  "total": 119,
+  "todayCount": 45,
   "categories": [
     {
       "id": "anime",
       "label": "アニメ",
-      "count": 67
+      "count": 66
     },
     {
       "id": "comic",
       "label": "コミカライズ",
-      "count": 9
+      "count": 8
     },
     {
       "id": "book",
@@ -37,12 +37,12 @@
     {
       "id": "goods",
       "label": "グッズ・イベント",
-      "count": 17
+      "count": 18
     },
     {
       "id": "other",
       "label": "そのほか",
-      "count": 30
+      "count": 28
     }
   ],
   "works": [
@@ -50,7 +50,7 @@
       "id": "tensura",
       "title": "転生したらスライムだった件",
       "short": "転スラ",
-      "count": 15
+      "count": 14
     },
     {
       "id": "mushoku",
@@ -68,13 +68,13 @@
       "id": "honzuki",
       "title": "本好きの下剋上",
       "short": "本好き",
-      "count": 11
+      "count": 10
     },
     {
       "id": "kusuriya",
       "title": "薬屋のひとりごと",
       "short": "薬屋",
-      "count": 34
+      "count": 36
     },
     {
       "id": "kagejitsu",
@@ -296,15 +296,19 @@
   "sources": [
     {
       "name": "Yahoo!ニュース",
-      "count": 15
+      "count": 14
     },
     {
       "name": "アニメ！アニメ！",
-      "count": 10
+      "count": 8
     },
     {
       "name": "ラノベニュースオンライン",
       "count": 7
+    },
+    {
+      "name": "山陽新聞",
+      "count": 6
     },
     {
       "name": "Infoseek",
@@ -323,19 +327,11 @@
       "count": 4
     },
     {
-      "name": "Unisba Media",
-      "count": 4
-    },
-    {
-      "name": "山陽新聞",
+      "name": "PR TIMES",
       "count": 4
     },
     {
       "name": "電撃オンライン",
-      "count": 3
-    },
-    {
-      "name": "ライブドアニュース",
       "count": 3
     },
     {
@@ -347,7 +343,7 @@
       "count": 3
     },
     {
-      "name": "Howl.link",
+      "name": "Unisba Media",
       "count": 3
     },
     {
@@ -359,15 +355,19 @@
       "count": 2
     },
     {
+      "name": "ライブドアニュース",
+      "count": 2
+    },
+    {
       "name": "gamebiz【ゲームビズ】",
       "count": 2
     },
     {
-      "name": "PR TIMES",
+      "name": "ナタリー",
       "count": 2
     },
     {
-      "name": "アニメイトタイムズ",
+      "name": "Howl.link",
       "count": 2
     },
     {
@@ -431,19 +431,15 @@
       "count": 1
     },
     {
-      "name": "山陽新聞デジタル｜さんデジ",
-      "count": 1
-    },
-    {
       "name": "株式会社ショーケース",
       "count": 1
     },
     {
-      "name": "ｄメニューニュース",
+      "name": "キャラグー",
       "count": 1
     },
     {
-      "name": "ナタリー",
+      "name": "ｄメニューニュース",
       "count": 1
     },
     {
@@ -483,6 +479,10 @@
       "count": 1
     },
     {
+      "name": "アニメイトタイムズ",
+      "count": 1
+    },
+    {
       "name": "Excite エキサイト",
       "count": 1
     },
@@ -509,7 +509,7 @@
       "leadSource": "ライブドアニュース",
       "publishedAt": "2026-10-21T09:48:29.000Z",
       "sourceCount": 5,
-      "articleCount": 8,
+      "articleCount": 7,
       "categories": [
         "anime",
         "other"
@@ -559,13 +559,6 @@
           "title": "『本好きの下剋上』シリーズ累計1500万部突破！（電子書籍を含む）｜Infoseekニュース",
           "url": "https://news.infoseek.co.jp/article/prtimes_000000221_000174060/",
           "source": "Infoseek",
-          "publishedAt": "2026-10-20T03:00:00.000Z",
-          "isPR": false
-        },
-        {
-          "title": "『本好きの下剋上』シリーズ累計1500万部突破！（電子書籍を含む） (2026年10月20日掲載)",
-          "url": "https://news.livedoor.com/pr_topics/detail/32614356/",
-          "source": "ライブドアニュース",
           "publishedAt": "2026-10-20T03:00:00.000Z",
           "isPR": false
         }
@@ -888,10 +881,10 @@
       ],
       "articles": [
         {
-          "title": "Spotifyで「リゼロ」「はがない」など154曲分のアニメOP＆EDノンクレジット映像配信（音楽ナタリー）",
-          "url": "https://news.yahoo.co.jp/articles/98ecbb9dd52401860ac02ae1d84a208ff3bc57b6",
-          "source": "Yahoo!ニュース",
-          "publishedAt": "2026-10-20T03:01:38.000Z",
+          "title": "Spotifyで「リゼロ」「はがない」など154曲分のアニメOP＆EDノンクレジット映像配信",
+          "url": "https://natalie.mu/music/news/694422",
+          "source": "ナタリー",
+          "publishedAt": "2026-10-20T03:00:00.000Z",
           "isPR": false
         },
         {
@@ -990,12 +983,12 @@
     }
   ],
   "churn": {
-    "previousAt": "2026-10-21T11:30:20.196Z",
-    "previousCount": 115,
-    "newCount": 8
+    "previousAt": "2026-10-21T12:00:23.118Z",
+    "previousCount": 121,
+    "newCount": 2
   },
   "updateGapMin": 30,
-  "nextUpdateAt": "2026-10-21T12:30:23.118Z",
+  "nextUpdateAt": "2026-10-21T13:00:18.275Z",
   "items": [
     {
       "id": "ba6e4f31c4e1",
@@ -1026,7 +1019,7 @@
       "source": "Yahoo!ニュース",
       "summary": "",
       "publishedAt": "2026-10-21T11:03:15.000Z",
-      "image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20261021-10282628-abemad-000-1-view.jpg?exp=10800",
+      "image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20261021-10282628-abemad-000-2-view.jpg?exp=10800",
       "categories": [
         "goods"
       ],
@@ -1512,26 +1505,6 @@
       "isNew": false
     },
     {
-      "id": "66dcd40c6db5",
-      "title": "『転スラ』声優・岡咲美保、熊田茜音出演の新ラジオが3/31より配信",
-      "url": "https://www.animatetimes.com/news/img.php?id",
-      "host": "animatetimes.com",
-      "source": "アニメイトタイムズ",
-      "summary": "",
-      "publishedAt": "2026-10-21T05:35:36.000Z",
-      "image": "",
-      "categories": [
-        "anime"
-      ],
-      "works": [
-        "tensura"
-      ],
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": true
-    },
-    {
       "id": "22ffa863926e",
       "title": "理不尽に職を失った“限界OL”が、悪役令嬢の従者に…異世界での再就職生活に「イキイキ働くのが最高」の声【漫画】",
       "url": "https://thetv.jp/news/detail/1444102/landing/",
@@ -1584,25 +1557,6 @@
       "works": [
         "rezero"
       ],
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": false
-    },
-    {
-      "id": "66a0351a23e5",
-      "title": "【アニメ異世界】異世界に召喚され、不思議な超能力に目覚めた私は、会社員からモンスターハンター戦士へと変貌を遂げた！【マンガ動画】 Vietnam War (wvZtjN2iOx)",
-      "url": "https://media.unisba.ac.id/766eccf6/116e8585DwcDBFVmTAQPA1o/?share",
-      "host": "media.unisba.ac.id",
-      "source": "Unisba Media",
-      "summary": "",
-      "publishedAt": "2026-10-21T04:15:39.000Z",
-      "image": "",
-      "categories": [
-        "anime",
-        "comic"
-      ],
-      "works": [],
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
@@ -1715,7 +1669,7 @@
       "title": "『薬屋のひとりごと』猫猫、物乞いへの“贅沢すぎる施し”に違和感 第51話あらすじ＆場面カット公開",
       "url": "https://www.sanyonews.jp/article/2005343?rct",
       "host": "sanyonews.jp",
-      "source": "山陽新聞デジタル｜さんデジ",
+      "source": "山陽新聞",
       "summary": "",
       "publishedAt": "2026-10-21T01:52:38.000Z",
       "image": "https://static.sanyonews.jp/image/article/size1/0/2/b/2/02b26e8d4ce18b9a11a95164fff3f2c2_1.jpg",
@@ -1807,6 +1761,26 @@
       "viaGoogle": false,
       "sourceKind": "news",
       "isNew": false
+    },
+    {
+      "id": "bb3cddabd535",
+      "title": "薬屋のひとりごと 猫猫と解き明かす！ザクザクの秘密キャンペーン｜薬屋のひとりごとのコラボ・イベント 開催期間・場所・グッズ",
+      "url": "https://charagoo.jp/collab/event/2cb2bd8b2491/",
+      "host": "charagoo.jp",
+      "source": "キャラグー",
+      "summary": "",
+      "publishedAt": "2026-10-20T23:09:28.000Z",
+      "image": "",
+      "categories": [
+        "goods"
+      ],
+      "works": [
+        "kusuriya"
+      ],
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": true
     },
     {
       "id": "d57958b74b5e",
@@ -1982,7 +1956,7 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "405b6ed2ba1d",
@@ -2040,7 +2014,7 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "98986eb8bdff",
@@ -2060,7 +2034,7 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "e8e130225950",
@@ -2219,7 +2193,7 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "0879a58eb5aa",
@@ -2378,26 +2352,6 @@
       "isNew": false
     },
     {
-      "id": "bf0958931afd",
-      "title": "Spotifyで「リゼロ」「はがない」など154曲分のアニメOP＆EDノンクレジット映像配信（音楽ナタリー）",
-      "url": "https://news.yahoo.co.jp/articles/98ecbb9dd52401860ac02ae1d84a208ff3bc57b6",
-      "host": "news.yahoo.co.jp",
-      "source": "Yahoo!ニュース",
-      "summary": "",
-      "publishedAt": "2026-10-20T03:01:38.000Z",
-      "image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20261020-00000048-natalien-000-1-view.jpg?exp=10800",
-      "categories": [
-        "anime"
-      ],
-      "works": [
-        "rezero"
-      ],
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": false
-    },
-    {
       "id": "89ca26454710",
       "title": "『本好きの下剋上』シリーズ累計1500万部突破！（電子書籍を含む）",
       "url": "https://koubo.jp/press-release/prtimes/c174060_r221",
@@ -2418,6 +2372,26 @@
       "isNew": false
     },
     {
+      "id": "bf0958931afd",
+      "title": "Spotifyで「リゼロ」「はがない」など154曲分のアニメOP＆EDノンクレジット映像配信",
+      "url": "https://natalie.mu/music/news/694422",
+      "host": "natalie.mu",
+      "source": "ナタリー",
+      "summary": "",
+      "publishedAt": "2026-10-20T03:00:00.000Z",
+      "image": "",
+      "categories": [
+        "anime"
+      ],
+      "works": [
+        "rezero"
+      ],
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": false
+    },
+    {
       "id": "8b84be7d4cef",
       "title": "『本好きの下剋上』シリーズ累計1500万部突破！（電子書籍を含む）｜Infoseekニュース",
       "url": "https://news.infoseek.co.jp/article/prtimes_000000221_000174060/",
@@ -2426,26 +2400,6 @@
       "summary": "",
       "publishedAt": "2026-10-20T03:00:00.000Z",
       "image": "https://media.image.infoseek.co.jp/isnews/pc/img/noimage_203x120_busi-econ-1.0.png",
-      "categories": [
-        "other"
-      ],
-      "works": [
-        "honzuki"
-      ],
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": false
-    },
-    {
-      "id": "f86b9901c417",
-      "title": "『本好きの下剋上』シリーズ累計1500万部突破！（電子書籍を含む） (2026年10月20日掲載)",
-      "url": "https://news.livedoor.com/pr_topics/detail/32614356/",
-      "host": "news.livedoor.com",
-      "source": "ライブドアニュース",
-      "summary": "",
-      "publishedAt": "2026-10-20T03:00:00.000Z",
-      "image": "https://image.news.livedoor.com/newsimage/stf/e/5/e5025_1863_74cf1dc4_90ac6d3b.jpg",
       "categories": [
         "other"
       ],
@@ -2517,7 +2471,7 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "cf8e1aa6ea37",
@@ -2677,6 +2631,26 @@
       "isNew": false
     },
     {
+      "id": "02c587a15d04",
+      "title": "劇場版『薬屋のひとりごと』新PV解禁 小野賢章、化蛇団の水蛇役「明らかに悪そうな顔してますが、、、笑」",
+      "url": "https://www.sanyonews.jp/article/2003638",
+      "host": "sanyonews.jp",
+      "source": "山陽新聞",
+      "summary": "",
+      "publishedAt": "2026-10-19T20:39:17.000Z",
+      "image": "https://static.sanyonews.jp/image/article/size1/8/2/f/5/82f54b9ccac21e53b38bd7a273f57d06_1.jpg",
+      "categories": [
+        "anime"
+      ],
+      "works": [
+        "kusuriya"
+      ],
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": true
+    },
+    {
       "id": "1d034ea68c7b",
       "title": "『転スラ』剣を交えるリムルとレオン！ルミナスも動く 第91話あらすじ＆場面カット解禁",
       "url": "https://www.sanyonews.jp/photo/detail?article_id",
@@ -2698,8 +2672,8 @@
     },
     {
       "id": "f4769f77a3c3",
-      "title": "「薬屋のひとりごと」壬氏役・大塚剛央が語る作品への思い「終わってしまったら抜け殻になりそう(笑)」",
-      "url": "https://jmagazine.myjcom.jp/category/anime/post001759/",
+      "title": "「薬屋のひとりごと」壬氏役・大塚剛央が語る作品への思い「終わってしまったら抜け殻になりそう(笑)」（画像 1 5",
+      "url": "https://jmagazine.myjcom.jp/category/anime/post001759/gallery/",
       "host": "jmagazine.myjcom.jp",
       "source": "J:magazine!",
       "summary": "",
@@ -2754,7 +2728,7 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "a421566895e7",
@@ -2852,24 +2826,6 @@
       "works": [
         "kusuriya"
       ],
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": false
-    },
-    {
-      "id": "de5b0058f778",
-      "title": "ヒトとキツネの異世界黙示録Ⅱ",
-      "url": "https://t.co/jorY7hshpr",
-      "host": "t.co",
-      "source": "Howl.link",
-      "summary": "",
-      "publishedAt": "2026-10-19T10:29:09.000Z",
-      "image": "",
-      "categories": [
-        "other"
-      ],
-      "works": [],
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
@@ -3175,24 +3131,6 @@
       "isNew": false
     },
     {
-      "id": "2a006e5cb95a",
-      "title": "【堅物騎士団長×臆病なバーテンダーの、転生恋物語】『騎士団長は異世界バーで恋に落ちる 1』2026年10月19日（月）発売！",
-      "url": "https://animeanime.jp/release/prtimes/20261019/320657.html",
-      "host": "animeanime.jp",
-      "source": "アニメ！アニメ！",
-      "summary": "",
-      "publishedAt": "2026-10-19T02:46:36.000Z",
-      "image": "https://animeanime.jp/release/imgs/list/564452.jpg",
-      "categories": [
-        "other"
-      ],
-      "works": [],
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": false
-    },
-    {
       "id": "69e058fc822b",
       "title": "【推しの命は僕が守る！ 悲運の公爵嫡男×転生者のモブ 異世界転生学園BL！】『モブなのに推しから愛されルートに入りました 1』が2026年10月19日（月）に発売！",
       "url": "https://animeanime.jp/release/prtimes/20261019/320655.html",
@@ -3211,20 +3149,38 @@
       "isNew": false
     },
     {
+      "id": "2a006e5cb95a",
+      "title": "【堅物騎士団長×臆病なバーテンダーの、転生恋物語】『騎士団長は異世界バーで恋に落ちる 1』2026年10月19日（月）発売！",
+      "url": "https://prtimes.jp/main/html/rd/p/000020348.000007006.html",
+      "host": "prtimes.jp",
+      "source": "PR TIMES",
+      "summary": "",
+      "publishedAt": "2026-10-19T02:00:01.000Z",
+      "image": "https://prcdn.freetls.fastly.net/release_image/7006/20348/7006-20348-b57e87bd49fa4918b5dead55caf544fe-1500x2134.jpg?format=jpeg&auto=webp&fit=bounds&width=2400&height=1260",
+      "categories": [
+        "other"
+      ],
+      "works": [],
+      "isPR": true,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": false
+    },
+    {
       "id": "6787b41d4f5a",
       "title": "異世界ファンタジーレーベル「comicスピラ」人気タイトルの紙コミックス＜最新刊＞が10月19日（月）一挙発売！書店購入特典＆電子書店フェアも開催",
-      "url": "https://animeanime.jp/release/prtimes/20261019/320632.html",
-      "host": "animeanime.jp",
-      "source": "アニメ！アニメ！",
+      "url": "https://prtimes.jp/main/html/rd/p/000000073.000110614.html",
+      "host": "prtimes.jp",
+      "source": "PR TIMES",
       "summary": "",
-      "publishedAt": "2026-10-19T01:00:00.000Z",
-      "image": "https://animeanime.jp/release/imgs/list/564312.jpg",
+      "publishedAt": "2026-10-19T01:00:02.000Z",
+      "image": "https://prcdn.freetls.fastly.net/release_image/110614/73/110614-73-77286558ca635dec56a3e4c4f4d9aa1f-1280x670.jpg?format=jpeg&auto=webp&fit=bounds&width=2400&height=1260",
       "categories": [
         "comic",
         "book"
       ],
       "works": [],
-      "isPR": false,
+      "isPR": true,
       "viaGoogle": false,
       "sourceKind": "news",
       "isNew": false
@@ -3327,7 +3283,7 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "68a803fd3c5e",
