@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-21T16:30:27.123Z",
+  "updatedAt": "2026-10-21T17:00:18.350Z",
   "site": {
     "title": "なろう系まとめ",
     "tagline": "小説家になろう発の作品のアニメ化・コミカライズ・書籍化のニュースと、なろうのランキングをまとめています。",
@@ -12,12 +12,12 @@
     {
       "id": "anime",
       "label": "アニメ",
-      "count": 64
+      "count": 62
     },
     {
       "id": "comic",
       "label": "コミカライズ",
-      "count": 9
+      "count": 8
     },
     {
       "id": "book",
@@ -42,7 +42,7 @@
     {
       "id": "other",
       "label": "そのほか",
-      "count": 29
+      "count": 31
     }
   ],
   "works": [
@@ -68,7 +68,7 @@
       "id": "honzuki",
       "title": "本好きの下剋上",
       "short": "本好き",
-      "count": 10
+      "count": 11
     },
     {
       "id": "kusuriya",
@@ -296,23 +296,19 @@
   "sources": [
     {
       "name": "Yahoo!ニュース",
-      "count": 15
+      "count": 16
+    },
+    {
+      "name": "アニメ！アニメ！",
+      "count": 8
     },
     {
       "name": "ラノベニュースオンライン",
       "count": 7
     },
     {
-      "name": "アニメ！アニメ！",
-      "count": 6
-    },
-    {
       "name": "Infoseek",
       "count": 6
-    },
-    {
-      "name": "PR TIMES",
-      "count": 5
     },
     {
       "name": "Dellows News",
@@ -331,15 +327,11 @@
       "count": 4
     },
     {
-      "name": "Unisba Media",
-      "count": 4
-    },
-    {
-      "name": "電撃オンライン",
+      "name": "PR TIMES",
       "count": 3
     },
     {
-      "name": "BANGER!!!（バンガー!!!）映画評論・情報サイト",
+      "name": "電撃オンライン",
       "count": 3
     },
     {
@@ -348,6 +340,10 @@
     },
     {
       "name": "Howl.link",
+      "count": 3
+    },
+    {
+      "name": "Unisba Media",
       "count": 3
     },
     {
@@ -363,7 +359,15 @@
       "count": 2
     },
     {
+      "name": "BANGER!!!（バンガー!!!）映画評論・情報サイト",
+      "count": 2
+    },
+    {
       "name": "AppMedia",
+      "count": 2
+    },
+    {
+      "name": "ライブドアニュース",
       "count": 2
     },
     {
@@ -439,10 +443,6 @@
       "count": 1
     },
     {
-      "name": "ライブドアニュース",
-      "count": 1
-    },
-    {
       "name": "BS12",
       "count": 1
     },
@@ -488,8 +488,8 @@
       "id": "a8b66f54ea31",
       "title": "『薬屋のひとりごと ～偽りの皇弟～』発売日が2027年3月18日に決定。パッケージ版が本日（10/21）より予約開始。豪華アイテムが同梱するボックスも発売",
       "summary": "",
-      "url": "https://www.famitsu.com/article/images/202610/91625/907739",
-      "image": "https://cimg.kgl-systems.io/camion/files/famitsu/91625/ad6c44aed4c00b4ceba1e047187168854.jpg?x=1280",
+      "url": "https://www.famitsu.com/article/images/202610/91625/907737",
+      "image": "https://cimg.kgl-systems.io/camion/files/famitsu/91625/a0713c7d5340ea051a0bf6d6152c56185.jpg?x=1280",
       "leadSource": "ファミ通",
       "publishedAt": "2026-10-21T14:26:19.000Z",
       "sourceCount": 6,
@@ -537,6 +537,77 @@
           "url": "https://gamebiz.jp/news/434479",
           "source": "gamebiz【ゲームビズ】",
           "publishedAt": "2026-10-21T08:48:00.000Z",
+          "isPR": false
+        }
+      ]
+    },
+    {
+      "id": "b9c5a803cb08",
+      "title": "『本好きの下剋上』シリーズ累計1500万部突破 続編「貴族院の自称図書委員」TVアニメ化も決定（リアルサウンド）",
+      "summary": "",
+      "url": "https://news.yahoo.co.jp/articles/18e7bda0453db2a5e0ea92107730ee5b8d6a6a91",
+      "image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20261021-00010058-realsound-000-1-view.jpg?exp=10800",
+      "leadSource": "Yahoo!ニュース",
+      "publishedAt": "2026-10-21T12:30:52.000Z",
+      "sourceCount": 5,
+      "articleCount": 8,
+      "categories": [
+        "anime",
+        "other"
+      ],
+      "keywords": [
+        "本好き",
+        "本好",
+        "下剋上"
+      ],
+      "articles": [
+        {
+          "title": "『本好きの下剋上』累計1500万部突破の快挙達成",
+          "url": "https://koubo.jp/article/133200",
+          "source": "Koubo",
+          "publishedAt": "2026-10-20T21:05:22.000Z",
+          "isPR": false
+        },
+        {
+          "title": "『本好きの下剋上』が電子書籍含む累計1500万部を突破、10年以上愛されるビブリア・ファンタジー",
+          "url": "https://news.infoseek.co.jp/amp/article/abematimes_10282216/",
+          "source": "Infoseek",
+          "publishedAt": "2026-10-20T09:50:00.000Z",
+          "isPR": false
+        },
+        {
+          "title": "本好きの下剋上：累計1500万部突破 アニメも人気のラノベ",
+          "url": "https://mantan-web.jp/article/20261020dog00m200040000a.html",
+          "source": "まんたんウェブ",
+          "publishedAt": "2026-10-20T03:20:41.000Z",
+          "isPR": false
+        },
+        {
+          "title": "本好きの下剋上＞累計1500万部突破 アニメも人気のラノベ（MANTANWEB）",
+          "url": "https://news.yahoo.co.jp/articles/a759fd4f08e8ec312a5f4de746c547314c26d893",
+          "source": "Yahoo!ニュース",
+          "publishedAt": "2026-10-20T03:19:00.000Z",
+          "isPR": false
+        },
+        {
+          "title": "『本好きの下剋上』シリーズ累計1500万部突破！（電子書籍を含む）",
+          "url": "https://koubo.jp/press-release/prtimes/c174060_r221",
+          "source": "Koubo",
+          "publishedAt": "2026-10-20T03:00:00.000Z",
+          "isPR": false
+        },
+        {
+          "title": "『本好きの下剋上』シリーズ累計1500万部突破！（電子書籍を含む）｜Infoseekニュース",
+          "url": "https://news.infoseek.co.jp/article/prtimes_000000221_000174060/",
+          "source": "Infoseek",
+          "publishedAt": "2026-10-20T03:00:00.000Z",
+          "isPR": false
+        },
+        {
+          "title": "『本好きの下剋上』シリーズ累計1500万部突破！（電子書籍を含む） (2026年10月20日掲載)",
+          "url": "https://news.livedoor.com/pr_topics/detail/32614356/",
+          "source": "ライブドアニュース",
+          "publishedAt": "2026-10-20T03:00:00.000Z",
           "isPR": false
         }
       ]
@@ -592,70 +663,6 @@
       ]
     },
     {
-      "id": "b9c5a803cb08",
-      "title": "『本好きの下剋上』シリーズ累計1500万部突破 続編「貴族院の自称図書委員」TVアニメ化も決定（リアルサウンド）",
-      "summary": "",
-      "url": "https://news.yahoo.co.jp/articles/18e7bda0453db2a5e0ea92107730ee5b8d6a6a91",
-      "image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20261021-00010058-realsound-000-1-view.jpg?exp=10800",
-      "leadSource": "Yahoo!ニュース",
-      "publishedAt": "2026-10-21T12:30:52.000Z",
-      "sourceCount": 4,
-      "articleCount": 7,
-      "categories": [
-        "anime",
-        "other"
-      ],
-      "keywords": [
-        "本好き",
-        "本好",
-        "下剋上"
-      ],
-      "articles": [
-        {
-          "title": "『本好きの下剋上』累計1500万部突破の快挙達成",
-          "url": "https://koubo.jp/article/133200",
-          "source": "Koubo",
-          "publishedAt": "2026-10-20T21:05:22.000Z",
-          "isPR": false
-        },
-        {
-          "title": "『本好きの下剋上』が電子書籍含む累計1500万部を突破、10年以上愛されるビブリア・ファンタジー",
-          "url": "https://news.infoseek.co.jp/amp/article/abematimes_10282216/",
-          "source": "Infoseek",
-          "publishedAt": "2026-10-20T09:50:00.000Z",
-          "isPR": false
-        },
-        {
-          "title": "本好きの下剋上：累計1500万部突破 アニメも人気のラノベ",
-          "url": "https://mantan-web.jp/article/20261020dog00m200040000a.html",
-          "source": "まんたんウェブ",
-          "publishedAt": "2026-10-20T03:20:41.000Z",
-          "isPR": false
-        },
-        {
-          "title": "本好きの下剋上＞累計1500万部突破 アニメも人気のラノベ（MANTANWEB）",
-          "url": "https://news.yahoo.co.jp/articles/a759fd4f08e8ec312a5f4de746c547314c26d893",
-          "source": "Yahoo!ニュース",
-          "publishedAt": "2026-10-20T03:19:00.000Z",
-          "isPR": false
-        },
-        {
-          "title": "『本好きの下剋上』シリーズ累計1500万部突破！（電子書籍を含む）",
-          "url": "https://koubo.jp/press-release/prtimes/c174060_r221",
-          "source": "Koubo",
-          "publishedAt": "2026-10-20T03:00:00.000Z",
-          "isPR": false
-        },
-        {
-          "title": "『本好きの下剋上』シリーズ累計1500万部突破！（電子書籍を含む）｜Infoseekニュース",
-          "url": "https://news.infoseek.co.jp/article/prtimes_000000221_000174060/",
-          "source": "Infoseek",
-          "publishedAt": "2026-10-20T03:00:00.000Z",
-          "isPR": false
-        }
-      ]
-    },
-    {
       "id": "5ef74e64012b",
       "title": "「薬屋のひとりごと 〜偽りの皇弟〜」，2027年3月18日発売。日向夏氏原案の完全新作ストーリーを描くミステリーアドベンチャー",
       "summary": "",
@@ -684,7 +691,7 @@
         },
         {
           "title": "『薬屋のひとりごと』新作ゲーム来年3月18日発売 映像公開でオリジナルキャラ登場",
-          "url": "https://www.oricon.co.jp/news/2487936/full/",
+          "url": "https://www.oricon.co.jp/news/2487936/photo/1/",
           "source": "オリコンニュース",
           "publishedAt": "2026-10-21T09:16:00.000Z",
           "isPR": false
@@ -694,55 +701,6 @@
           "url": "https://news.dellows.jp/833621/?from",
           "source": "Dellows News",
           "publishedAt": "2026-10-21T07:42:04.000Z",
-          "isPR": false
-        }
-      ]
-    },
-    {
-      "id": "48d41cc73fdd",
-      "title": "『薬屋のひとりごと』の見る順番｜DMM TVで1期・2期から3期まで追いつく",
-      "summary": "",
-      "url": "https://www.banger.jp/news/189065/",
-      "image": "https://www.banger.jp/wp-content/uploads/2026/10/7bbfdea05e4c4acf9485aa57d18c2aef.webp",
-      "leadSource": "BANGER!!!（バンガー!!!）映画評論・情報サイト",
-      "publishedAt": "2026-10-21T01:28:25.000Z",
-      "sourceCount": 3,
-      "articleCount": 5,
-      "categories": [
-        "anime"
-      ],
-      "keywords": [
-        "薬屋",
-        "dmm",
-        "サービス"
-      ],
-      "articles": [
-        {
-          "title": "『薬屋のひとりごと』第3期を安く見る方法｜DMM TVなら月550円で見放題",
-          "url": "https://www.banger.jp/news/189061/",
-          "source": "BANGER!!!（バンガー!!!）映画評論・情報サイト",
-          "publishedAt": "2026-10-21T01:28:25.000Z",
-          "isPR": false
-        },
-        {
-          "title": "『薬屋のひとりごと』第3期の配信はDMM TVで見放題｜放送日と配信サービスまとめ",
-          "url": "https://www.banger.jp/news/189058/",
-          "source": "BANGER!!!（バンガー!!!）映画評論・情報サイト",
-          "publishedAt": "2026-10-21T01:28:25.000Z",
-          "isPR": false
-        },
-        {
-          "title": "アニメ「薬屋のひとりごと」の配信はどこで見れる？無料視聴できるサービス・サブスクを紹介！",
-          "url": "https://animeanime.jp/article/2026/01/30/95607.html",
-          "source": "アニメ！アニメ！",
-          "publishedAt": "2026-10-19T13:52:54.000Z",
-          "isPR": false
-        },
-        {
-          "title": "アニメ『転生したら剣でしたII』はどこで見れる？サブスク・配信サービスを全調査 | VODB! by チバテレ",
-          "url": "https://www.chiba-tv.com/vod-db/tenken-s2-anime/",
-          "source": "千葉テレビ放送株式会社",
-          "publishedAt": "2026-10-19T05:46:20.000Z",
           "isPR": false
         }
       ]
@@ -849,6 +807,41 @@
           "url": "https://www.ota-suke.jp/news/292401",
           "source": "おた☆スケ",
           "publishedAt": "2026-10-20T00:46:00.000Z",
+          "isPR": false
+        }
+      ]
+    },
+    {
+      "id": "a421566895e7",
+      "title": "アニメ「薬屋のひとりごと」の配信はどこで見れる？無料視聴できるサービス・サブスクを紹介！",
+      "summary": "",
+      "url": "https://animeanime.jp/article/2026/01/30/95607.html",
+      "image": "https://www.chiba-tv.com/vod-db/wp-content/uploads/2026/09/eyecatch_tenken-s2-anime.png",
+      "leadSource": "アニメ！アニメ！",
+      "publishedAt": "2026-10-19T13:52:54.000Z",
+      "sourceCount": 3,
+      "articleCount": 3,
+      "categories": [
+        "anime"
+      ],
+      "keywords": [
+        "サービス",
+        "サブスク",
+        "vodb"
+      ],
+      "articles": [
+        {
+          "title": "アニメ『転生したら剣でしたII』はどこで見れる？サブスク・配信サービスを全調査 | VODB! by チバテレ",
+          "url": "https://www.chiba-tv.com/vod-db/tenken-s2-anime/",
+          "source": "千葉テレビ放送株式会社",
+          "publishedAt": "2026-10-19T05:46:20.000Z",
+          "isPR": false
+        },
+        {
+          "title": "アニメ『本好きの下剋上 領主の養女』はどこで見れる？サブスク・配信サービスを全調査 | VODB! by チバテレ",
+          "url": "https://www.chiba-tv.com/vod-db/honzuki-s4-anime/",
+          "source": "千葉テレビ放送",
+          "publishedAt": "2026-10-18T21:02:54.000Z",
           "isPR": false
         }
       ]
@@ -967,12 +960,12 @@
     }
   ],
   "churn": {
-    "previousAt": "2026-10-21T16:00:20.636Z",
+    "previousAt": "2026-10-21T16:30:27.123Z",
     "previousCount": 114,
     "newCount": 2
   },
   "updateGapMin": 30,
-  "nextUpdateAt": "2026-10-21T17:00:27.123Z",
+  "nextUpdateAt": "2026-10-21T17:30:18.350Z",
   "items": [
     {
       "id": "23d3adf55b0a",
@@ -996,12 +989,12 @@
     {
       "id": "a8b66f54ea31",
       "title": "『薬屋のひとりごと ～偽りの皇弟～』発売日が2027年3月18日に決定。パッケージ版が本日（10/21）より予約開始。豪華アイテムが同梱するボックスも発売",
-      "url": "https://www.famitsu.com/article/images/202610/91625/907739",
+      "url": "https://www.famitsu.com/article/images/202610/91625/907737",
       "host": "famitsu.com",
       "source": "ファミ通",
       "summary": "",
       "publishedAt": "2026-10-21T14:26:19.000Z",
-      "image": "https://cimg.kgl-systems.io/camion/files/famitsu/91625/ad6c44aed4c00b4ceba1e047187168854.jpg?x=1280",
+      "image": "https://cimg.kgl-systems.io/camion/files/famitsu/91625/a0713c7d5340ea051a0bf6d6152c56185.jpg?x=1280",
       "categories": [
         "other"
       ],
@@ -1292,7 +1285,7 @@
     {
       "id": "939837a7e961",
       "title": "『薬屋のひとりごと』新作ゲーム来年3月18日発売 映像公開でオリジナルキャラ登場",
-      "url": "https://www.oricon.co.jp/news/2487936/full/",
+      "url": "https://www.oricon.co.jp/news/2487936/photo/1/",
       "host": "oricon.co.jp",
       "source": "オリコンニュース",
       "summary": "",
@@ -1542,25 +1535,6 @@
       "isNew": false
     },
     {
-      "id": "66a0351a23e5",
-      "title": "【アニメ異世界】異世界に召喚され、不思議な超能力に目覚めた私は、会社員からモンスターハンター戦士へと変貌を遂げた！【マンガ動画】 Vietnam War (wvZtjN2iOx)",
-      "url": "https://media.unisba.ac.id/766eccf6/116e8585DwcDBFVmTAQPA1o/?share",
-      "host": "media.unisba.ac.id",
-      "source": "Unisba Media",
-      "summary": "",
-      "publishedAt": "2026-10-21T04:15:39.000Z",
-      "image": "",
-      "categories": [
-        "anime",
-        "comic"
-      ],
-      "works": [],
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": true
-    },
-    {
       "id": "f5c251ed415f",
       "title": "アニメ『転生したら剣でしたII』第3話「アンデッドはガチガチでした」のあらすじ＆先行カット解禁",
       "url": "https://ln-news.com/articles/126997",
@@ -1721,26 +1695,6 @@
       "viaGoogle": false,
       "sourceKind": "news",
       "isNew": false
-    },
-    {
-      "id": "08fc9d18602e",
-      "title": "『薬屋のひとりごと』第3期の配信はDMM TVで見放題｜放送日と配信サービスまとめ",
-      "url": "https://www.banger.jp/news/189058/",
-      "host": "banger.jp",
-      "source": "BANGER!!!（バンガー!!!）映画評論・情報サイト",
-      "summary": "",
-      "publishedAt": "2026-10-21T01:28:25.000Z",
-      "image": "https://www.banger.jp/wp-content/uploads/2026/10/7bbfdea05e4c4acf9485aa57d18c2aef.webp",
-      "categories": [
-        "anime"
-      ],
-      "works": [
-        "kusuriya"
-      ],
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": true
     },
     {
       "id": "5f7ff33cb2a8",
@@ -2408,6 +2362,26 @@
       "isNew": false
     },
     {
+      "id": "f86b9901c417",
+      "title": "『本好きの下剋上』シリーズ累計1500万部突破！（電子書籍を含む） (2026年10月20日掲載)",
+      "url": "https://news.livedoor.com/pr_topics/detail/32614356/",
+      "host": "news.livedoor.com",
+      "source": "ライブドアニュース",
+      "summary": "",
+      "publishedAt": "2026-10-20T03:00:00.000Z",
+      "image": "https://image.news.livedoor.com/newsimage/stf/e/5/e5025_1863_74cf1dc4_90ac6d3b.jpg",
+      "categories": [
+        "other"
+      ],
+      "works": [
+        "honzuki"
+      ],
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": true
+    },
+    {
       "id": "bbbdb116cd29",
       "title": "【ポコダン】無職転生コラボスキルポポロンは誰に使うべき？【ポコロンダンジョンズ】",
       "url": "https://gamewith.jp/pocodun/article/show/583252",
@@ -3047,6 +3021,44 @@
       "isNew": false
     },
     {
+      "id": "4f56b364be5a",
+      "title": "芦田愛菜主演『薬屋のひとりごと』“猫猫の父”役のキャスティングにファン注目 「絶対見たい」（マグミクス）",
+      "url": "https://news.yahoo.co.jp/articles/94c0729a7c43ff0fbd805892eea8b2f40532e45c",
+      "host": "news.yahoo.co.jp",
+      "source": "Yahoo!ニュース",
+      "summary": "",
+      "publishedAt": "2026-10-19T03:41:00.000Z",
+      "image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20261016-00380969-magmix-000-27-view.jpg?exp=10800",
+      "categories": [
+        "other"
+      ],
+      "works": [
+        "kusuriya"
+      ],
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": true
+    },
+    {
+      "id": "2a006e5cb95a",
+      "title": "【堅物騎士団長×臆病なバーテンダーの、転生恋物語】『騎士団長は異世界バーで恋に落ちる 1』2026年10月19日（月）発売！",
+      "url": "https://animeanime.jp/release/prtimes/20261019/320657.html",
+      "host": "animeanime.jp",
+      "source": "アニメ！アニメ！",
+      "summary": "",
+      "publishedAt": "2026-10-19T02:46:36.000Z",
+      "image": "",
+      "categories": [
+        "other"
+      ],
+      "works": [],
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": false
+    },
+    {
       "id": "69e058fc822b",
       "title": "【推しの命は僕が守る！ 悲運の公爵嫡男×転生者のモブ 異世界転生学園BL！】『モブなのに推しから愛されルートに入りました 1』が2026年10月19日（月）に発売！",
       "url": "https://animeanime.jp/release/prtimes/20261019/320655.html",
@@ -3065,38 +3077,20 @@
       "isNew": false
     },
     {
-      "id": "2a006e5cb95a",
-      "title": "【堅物騎士団長×臆病なバーテンダーの、転生恋物語】『騎士団長は異世界バーで恋に落ちる 1』2026年10月19日（月）発売！",
-      "url": "https://prtimes.jp/main/html/rd/p/000020348.000007006.html",
-      "host": "prtimes.jp",
-      "source": "PR TIMES",
-      "summary": "",
-      "publishedAt": "2026-10-19T02:00:01.000Z",
-      "image": "https://prcdn.freetls.fastly.net/release_image/7006/20348/7006-20348-b57e87bd49fa4918b5dead55caf544fe-1500x2134.jpg?format=jpeg&auto=webp&fit=bounds&width=2400&height=1260",
-      "categories": [
-        "other"
-      ],
-      "works": [],
-      "isPR": true,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": false
-    },
-    {
       "id": "6787b41d4f5a",
       "title": "異世界ファンタジーレーベル「comicスピラ」人気タイトルの紙コミックス＜最新刊＞が10月19日（月）一挙発売！書店購入特典＆電子書店フェアも開催",
-      "url": "https://prtimes.jp/main/html/rd/p/000000073.000110614.html",
-      "host": "prtimes.jp",
-      "source": "PR TIMES",
+      "url": "https://animeanime.jp/release/prtimes/20261019/320632.html",
+      "host": "animeanime.jp",
+      "source": "アニメ！アニメ！",
       "summary": "",
-      "publishedAt": "2026-10-19T01:00:02.000Z",
-      "image": "https://prcdn.freetls.fastly.net/release_image/110614/73/110614-73-77286558ca635dec56a3e4c4f4d9aa1f-1280x670.jpg?format=jpeg&auto=webp&fit=bounds&width=2400&height=1260",
+      "publishedAt": "2026-10-19T01:00:00.000Z",
+      "image": "",
       "categories": [
         "comic",
         "book"
       ],
       "works": [],
-      "isPR": true,
+      "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
       "isNew": false
