@@ -1,23 +1,23 @@
 {
-  "updatedAt": "2026-10-21T13:00:19.935Z",
+  "updatedAt": "2026-10-21T13:30:19.462Z",
   "site": {
     "title": "なろう系まとめ",
     "tagline": "小説家になろう発の作品のアニメ化・コミカライズ・書籍化のニュースと、なろうのランキングをまとめています。",
     "url": "https://naroumatome.gamelab.website/",
     "contactUrl": "https://docs.google.com/forms/d/e/1FAIpQLSesWyhmZ6sRS_ve-c3X2KqF_wC5PK2TgwgQbTKmnQltSlg5Jw/viewform"
   },
-  "total": 113,
-  "todayCount": 42,
+  "total": 120,
+  "todayCount": 45,
   "categories": [
     {
       "id": "anime",
       "label": "アニメ",
-      "count": 64
+      "count": 66
     },
     {
       "id": "comic",
       "label": "コミカライズ",
-      "count": 9
+      "count": 8
     },
     {
       "id": "book",
@@ -42,7 +42,7 @@
     {
       "id": "other",
       "label": "そのほか",
-      "count": 26
+      "count": 30
     }
   ],
   "works": [
@@ -50,7 +50,7 @@
       "id": "tensura",
       "title": "転生したらスライムだった件",
       "short": "転スラ",
-      "count": 8
+      "count": 15
     },
     {
       "id": "mushoku",
@@ -68,7 +68,7 @@
       "id": "honzuki",
       "title": "本好きの下剋上",
       "short": "本好き",
-      "count": 10
+      "count": 11
     },
     {
       "id": "kusuriya",
@@ -296,22 +296,26 @@
   "sources": [
     {
       "name": "Yahoo!ニュース",
-      "count": 17
-    },
-    {
-      "name": "アニメ！アニメ！",
-      "count": 10
+      "count": 16
     },
     {
       "name": "ラノベニュースオンライン",
       "count": 7
     },
     {
-      "name": "山陽新聞",
+      "name": "Infoseek",
       "count": 7
     },
     {
-      "name": "Infoseek",
+      "name": "アニメ！アニメ！",
+      "count": 7
+    },
+    {
+      "name": "山陽新聞",
+      "count": 6
+    },
+    {
+      "name": "Dellows News",
       "count": 5
     },
     {
@@ -323,27 +327,23 @@
       "count": 4
     },
     {
-      "name": "Dellows News",
-      "count": 4
-    },
-    {
-      "name": "Unisba Media",
-      "count": 4
-    },
-    {
       "name": "電撃オンライン",
       "count": 3
     },
     {
-      "name": "千葉テレビ放送",
+      "name": "BANGER!!!（バンガー!!!）映画評論・情報サイト",
+      "count": 3
+    },
+    {
+      "name": "Koubo",
+      "count": 3
+    },
+    {
+      "name": "Unisba Media",
       "count": 3
     },
     {
       "name": "PR TIMES",
-      "count": 3
-    },
-    {
-      "name": "BANGER!!!（バンガー!!!）映画評論・情報サイト",
       "count": 3
     },
     {
@@ -359,11 +359,31 @@
       "count": 2
     },
     {
-      "name": "Koubo",
+      "name": "アニメイトタイムズ",
+      "count": 2
+    },
+    {
+      "name": "ナタリー",
+      "count": 2
+    },
+    {
+      "name": "ライブドアニュース",
+      "count": 2
+    },
+    {
+      "name": "Howl.link",
       "count": 2
     },
     {
       "name": "千葉テレビ放送株式会社",
+      "count": 2
+    },
+    {
+      "name": "AppMedia",
+      "count": 2
+    },
+    {
+      "name": "千葉テレビ放送",
       "count": 2
     },
     {
@@ -372,6 +392,10 @@
     },
     {
       "name": "公式スイーツパラダイス",
+      "count": 1
+    },
+    {
+      "name": "Gamer",
       "count": 1
     },
     {
@@ -403,6 +427,10 @@
       "count": 1
     },
     {
+      "name": "ムビコレ",
+      "count": 1
+    },
+    {
       "name": "PHILE WEB",
       "count": 1
     },
@@ -411,7 +439,11 @@
       "count": 1
     },
     {
-      "name": "ナタリー",
+      "name": "ｄメニューニュース",
+      "count": 1
+    },
+    {
+      "name": "朝日新聞",
       "count": 1
     },
     {
@@ -443,15 +475,7 @@
       "count": 1
     },
     {
-      "name": "Howl.link",
-      "count": 1
-    },
-    {
       "name": "おた☆スケ",
-      "count": 1
-    },
-    {
-      "name": "アニメイトタイムズ",
       "count": 1
     },
     {
@@ -459,11 +483,7 @@
       "count": 1
     },
     {
-      "name": "AppMedia",
-      "count": 1
-    },
-    {
-      "name": "マイナビニュース",
+      "name": "J:magazine!",
       "count": 1
     },
     {
@@ -485,7 +505,7 @@
       "leadSource": "Yahoo!ニュース",
       "publishedAt": "2026-10-21T12:30:52.000Z",
       "sourceCount": 5,
-      "articleCount": 7,
+      "articleCount": 8,
       "categories": [
         "anime",
         "other"
@@ -526,15 +546,22 @@
         },
         {
           "title": "『本好きの下剋上』シリーズ累計1500万部突破！（電子書籍を含む）",
-          "url": "https://prtimes.jp/main/html/rd/p/000000221.000174060.html",
-          "source": "PR TIMES",
-          "publishedAt": "2026-10-20T03:00:01.000Z",
-          "isPR": true
+          "url": "https://koubo.jp/press-release/prtimes/c174060_r221",
+          "source": "Koubo",
+          "publishedAt": "2026-10-20T03:00:00.000Z",
+          "isPR": false
         },
         {
           "title": "『本好きの下剋上』シリーズ累計1500万部突破！（電子書籍を含む）｜Infoseekニュース",
           "url": "https://news.infoseek.co.jp/article/prtimes_000000221_000174060/",
           "source": "Infoseek",
+          "publishedAt": "2026-10-20T03:00:00.000Z",
+          "isPR": false
+        },
+        {
+          "title": "『本好きの下剋上』シリーズ累計1500万部突破！（電子書籍を含む） (2026年10月20日掲載)",
+          "url": "https://news.livedoor.com/pr_topics/detail/32614356/",
+          "source": "ライブドアニュース",
           "publishedAt": "2026-10-20T03:00:00.000Z",
           "isPR": false
         }
@@ -591,56 +618,6 @@
       ]
     },
     {
-      "id": "5ef74e64012b",
-      "title": "「薬屋のひとりごと 〜偽りの皇弟〜」，2027年3月18日発売。日向夏氏原案の完全新作ストーリーを描くミステリーアドベンチャー",
-      "summary": "",
-      "url": "https://www.4gamer.net/games/041/G104128/20261021033/",
-      "image": "https://www.4gamer.net/games/041/G104128/20261021033/SS/001.jpg",
-      "leadSource": "4Gamer.net",
-      "publishedAt": "2026-10-21T10:10:08.000Z",
-      "sourceCount": 5,
-      "articleCount": 5,
-      "categories": [
-        "other",
-        "game"
-      ],
-      "keywords": [
-        "薬屋",
-        "日発売",
-        "皇弟"
-      ],
-      "articles": [
-        {
-          "title": "「薬屋のひとりごと」ゲーム『薬屋のひとりごと ～偽りの皇弟～』来年3月18日発売へ。コエテクのガスト手がける“猫猫のアトリエ”",
-          "url": "https://automaton-media.com/articles/newsjp/20261021-474711/",
-          "source": "AUTOMATON",
-          "publishedAt": "2026-10-21T09:44:11.000Z",
-          "isPR": false
-        },
-        {
-          "title": "『薬屋のひとりごと』新作ゲーム来年3月18日発売 映像公開でオリジナルキャラ登場",
-          "url": "https://www.oricon.co.jp/news/2487936/full/",
-          "source": "オリコンニュース",
-          "publishedAt": "2026-10-21T09:16:00.000Z",
-          "isPR": false
-        },
-        {
-          "title": "完全新作〈完全版〉ＪＫハルは異世界で娼婦になった autumnが10月28日発売へ",
-          "url": "https://news.dellows.jp/833621/?from",
-          "source": "Dellows News",
-          "publishedAt": "2026-10-21T07:42:04.000Z",
-          "isPR": false
-        },
-        {
-          "title": "『薬屋のひとりごと』ノンクレジットED映像公開 Eve「AIYOU」にのせ猫猫の記憶を辿る",
-          "url": "https://www.sanyonews.jp/article/1998838?rct",
-          "source": "山陽新聞",
-          "publishedAt": "2026-10-19T22:09:27.000Z",
-          "isPR": false
-        }
-      ]
-    },
-    {
       "id": "e8e130225950",
       "title": "『無職転生～異世界行ったら本気だす～』LINEスタンプとLINE着せかえが発売",
       "summary": "",
@@ -686,6 +663,49 @@
           "url": "https://www.inside-games.jp/release/prtimes/20261019/313435.html",
           "source": "インサイド",
           "publishedAt": "2026-10-19T06:00:00.000Z",
+          "isPR": false
+        }
+      ]
+    },
+    {
+      "id": "5ef74e64012b",
+      "title": "「薬屋のひとりごと 〜偽りの皇弟〜」，2027年3月18日発売。日向夏氏原案の完全新作ストーリーを描くミステリーアドベンチャー",
+      "summary": "",
+      "url": "https://www.4gamer.net/games/041/G104128/20261021033/",
+      "image": "https://www.4gamer.net/games/041/G104128/20261021033/SS/001.jpg",
+      "leadSource": "4Gamer.net",
+      "publishedAt": "2026-10-21T10:10:08.000Z",
+      "sourceCount": 4,
+      "articleCount": 4,
+      "categories": [
+        "other",
+        "game"
+      ],
+      "keywords": [
+        "日発売",
+        "薬屋",
+        "皇弟"
+      ],
+      "articles": [
+        {
+          "title": "「薬屋のひとりごと」ゲーム『薬屋のひとりごと ～偽りの皇弟～』来年3月18日発売へ。コエテクのガスト手がける“猫猫のアトリエ”",
+          "url": "https://automaton-media.com/articles/newsjp/20261021-474711/",
+          "source": "AUTOMATON",
+          "publishedAt": "2026-10-21T09:44:11.000Z",
+          "isPR": false
+        },
+        {
+          "title": "『薬屋のひとりごと』新作ゲーム来年3月18日発売 映像公開でオリジナルキャラ登場",
+          "url": "https://www.oricon.co.jp/news/2487936/full/",
+          "source": "オリコンニュース",
+          "publishedAt": "2026-10-21T09:16:00.000Z",
+          "isPR": false
+        },
+        {
+          "title": "完全新作〈完全版〉ＪＫハルは異世界で娼婦になった autumnが10月28日発売へ",
+          "url": "https://news.dellows.jp/833621/?from",
+          "source": "Dellows News",
+          "publishedAt": "2026-10-21T07:42:04.000Z",
           "isPR": false
         }
       ]
@@ -740,28 +760,28 @@
       ]
     },
     {
-      "id": "ba6e4f31c4e1",
-      "title": "アニメ『薬屋のひとりごと』とのコラボカフェ第3弾の開催が決定！",
+      "id": "a2c7ecde4205",
+      "title": "『薬屋のひとりごと』羅漢役声優が“娘を守る”姿に「パパ最高」「猫猫から拒絶される…」とファン反響（マグミクス）",
       "summary": "",
-      "url": "https://www.sweets-paradise.jp/collaboration/kusuriyanohitorigoto3",
-      "image": "https://www.sweets-paradise.jp/wp-content/uploads/2026/10/2610_薬屋_アイキャッチ画像_w750×h511.jpg",
-      "leadSource": "公式スイーツパラダイス",
-      "publishedAt": "2026-10-21T11:03:50.000Z",
+      "url": "https://news.yahoo.co.jp/articles/adf271529f220228292773a5fc9c301118deadfd",
+      "image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20261021-00381835-magmix-000-5-view.jpg?exp=10800",
+      "leadSource": "Yahoo!ニュース",
+      "publishedAt": "2026-10-21T12:42:46.000Z",
       "sourceCount": 3,
       "articleCount": 3,
       "categories": [
-        "goods",
-        "anime"
+        "anime",
+        "goods"
       ],
       "keywords": [
         "薬屋"
       ],
       "articles": [
         {
-          "title": "「笑った笑顔に癒されるぅ」「運ぶ気なさそうな馬閃がかわいい」『薬屋のひとりごと』スイパラコラボのミニキャラKV公開",
-          "url": "https://news.yahoo.co.jp/articles/34b66e7312a521d7d2cb2519e4822c973a0a0f16",
-          "source": "Yahoo!ニュース",
-          "publishedAt": "2026-10-21T11:03:15.000Z",
+          "title": "アニメ『薬屋のひとりごと』とのコラボカフェ第3弾の開催が決定！",
+          "url": "https://www.sweets-paradise.jp/collaboration/kusuriyanohitorigoto3",
+          "source": "公式スイーツパラダイス",
+          "publishedAt": "2026-10-21T11:03:50.000Z",
           "isPR": false
         },
         {
@@ -774,37 +794,72 @@
       ]
     },
     {
-      "id": "b1698f01bcfa",
-      "title": "“メロ男”は壬氏だけじゃない！猫猫をサポートする右叫に「初恋泥棒お兄さんすぎる」アニメ『薬屋のひとりごと』51話",
+      "id": "b9f04edf4e82",
+      "title": "転スラ新グッズ登場！オーロラ缶バッジ等受注開始",
       "summary": "",
-      "url": "https://news.yahoo.co.jp/articles/cea61b5b9f186e9a7603a6c2be5ca0ec0c183309",
-      "image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20261020-10281943-abemad-000-1-view.jpg?exp=10800",
-      "leadSource": "Yahoo!ニュース",
-      "publishedAt": "2026-10-20T12:36:17.000Z",
+      "url": "https://koubo.jp/article/133167",
+      "image": "https://koubo-dz7cn3ci.s3.ap-northeast-1.amazonaws.com/strapi/article_133167_keyvisual_7c34556340.jpeg",
+      "leadSource": "Koubo",
+      "publishedAt": "2026-10-20T18:05:00.000Z",
       "sourceCount": 3,
       "articleCount": 3,
       "categories": [
-        "anime",
-        "other"
+        "goods",
+        "anime"
       ],
       "keywords": [
-        "薬屋",
-        "猫猫",
-        "壬氏"
+        "オーロラ",
+        "バッジ",
+        "受注"
       ],
       "articles": [
         {
-          "title": "『薬屋のひとりごと』最新話に反響 猫猫と壬氏の距離に変化？白鈴の核心つく一言に「それがまたいい」",
-          "url": "https://www.sanyonews.jp/photo/detail?article_id",
-          "source": "山陽新聞",
-          "publishedAt": "2026-10-19T22:37:05.000Z",
+          "title": "アニメ『転生したらスライムだった件』オーロラ缶バッジ2個セット、プリズムビジュアルコレクション、フォトグレイ風ステッカーの受注を開始しました！",
+          "url": "https://www.asahi.com/and/pressrelease/16980105",
+          "source": "朝日新聞",
+          "publishedAt": "2026-10-20T09:00:00.000Z",
           "isPR": false
         },
         {
-          "title": "『薬屋のひとりごと』第3期第3話SNSの反応 - 「右叫」に沼落ちする視聴者続出!? 猫猫が姉妹に突き付けた\"現実\"にも反響",
-          "url": "https://news.mynavi.jp/article/20261019-5156248/",
-          "source": "マイナビニュース",
-          "publishedAt": "2026-10-19T07:07:00.000Z",
+          "title": "転生したらスライムだった件（94話～96話） : いももちのアニメ道",
+          "url": "https://t.co/tJkGfuylfE",
+          "source": "Howl.link",
+          "publishedAt": "2026-10-19T16:00:00.000Z",
+          "isPR": false
+        }
+      ]
+    },
+    {
+      "id": "1c1f6f096ad2",
+      "title": "MEメンバー「転スラ」主人公に扮したオフショット公開「見に行きますね」「写真が素敵」の声 (モデルプレス)",
+      "summary": "",
+      "url": "https://news.yahoo.co.jp/articles/dbd5dca436fc229941d42e6ba1aaeb7b27784667/images/000",
+      "image": "https://news-pctr.c.yimg.jp/uUzvQ3lML_bkIqyakc1vFhNrRI0RUQxg5aFkrX0xDg1_T0wXrbEJjtNGtrf1o9y3xudcUclfbXjZqAvGT8NJnQnBv78n2FrDPnfT4f4lE6ODgG_9i1SwwJn0a_albzZcM5zwZYy9f1XEfeJJcDDQoz3qBiYK1_VQhXrfv_LihTqz1EGX8dAqCitO6aQOehov",
+      "leadSource": "Yahoo!ニュース",
+      "publishedAt": "2026-10-20T04:54:10.000Z",
+      "sourceCount": 3,
+      "articleCount": 3,
+      "categories": [
+        "other"
+      ],
+      "keywords": [
+        "転スラ",
+        "メンバー",
+        "オフショット"
+      ],
+      "articles": [
+        {
+          "title": "≠MEメンバー「転スラ」主人公に扮したオフショット公開「見に行きますね」「写真が素敵」の声",
+          "url": "https://mdpr.jp/news/detail/4862274",
+          "source": "モデルプレス",
+          "publishedAt": "2026-10-20T04:54:08.000Z",
+          "isPR": false
+        },
+        {
+          "title": "【画像】≠MEメンバー「転スラ」主人公に扮したオフショット公開「見に行きますね」「写真が素敵」の声",
+          "url": "https://news.livedoor.com/article/image_detail/32610998/?img_id",
+          "source": "ライブドアニュース",
+          "publishedAt": "2026-10-20T04:54:08.000Z",
           "isPR": false
         }
       ]
@@ -829,10 +884,10 @@
       ],
       "articles": [
         {
-          "title": "Spotifyで「リゼロ」「はがない」など154曲分のアニメOP＆EDノンクレジット映像配信（音楽ナタリー）",
-          "url": "https://news.yahoo.co.jp/articles/98ecbb9dd52401860ac02ae1d84a208ff3bc57b6",
-          "source": "Yahoo!ニュース",
-          "publishedAt": "2026-10-20T03:01:38.000Z",
+          "title": "Spotifyで「リゼロ」「はがない」など154曲分のアニメOP＆EDノンクレジット映像配信",
+          "url": "https://natalie.mu/music/news/694422",
+          "source": "ナタリー",
+          "publishedAt": "2026-10-20T03:00:00.000Z",
           "isPR": false
         },
         {
@@ -840,6 +895,34 @@
           "url": "https://www.ota-suke.jp/news/292401",
           "source": "おた☆スケ",
           "publishedAt": "2026-10-20T00:46:00.000Z",
+          "isPR": false
+        }
+      ]
+    },
+    {
+      "id": "10c14d09ab34",
+      "title": "異世界転生後の生活を現代知識でアップデート？ 『異世界生活攻略レシピ図鑑』刊行へ（リアルサウンド）",
+      "summary": "",
+      "url": "https://news.yahoo.co.jp/articles/f12acc72fb3099e5ab8f5e84e67e214373ee17e8",
+      "image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20261021-00010059-realsound-000-1-view.jpg?exp=10800",
+      "leadSource": "Yahoo!ニュース",
+      "publishedAt": "2026-10-21T13:01:06.000Z",
+      "sourceCount": 2,
+      "articleCount": 2,
+      "categories": [
+        "other"
+      ],
+      "keywords": [
+        "レシピ",
+        "生活",
+        "異世界生活攻略"
+      ],
+      "articles": [
+        {
+          "title": "異世界転生してもこれで安心？ 塩から石けん、紙の作り方まで紹介する「異世界生活攻略レシピ図鑑」発売｜Infoseekニュース",
+          "url": "https://news.infoseek.co.jp/article/otakuma_5917845/",
+          "source": "Infoseek",
+          "publishedAt": "2026-10-20T06:00:08.000Z",
           "isPR": false
         }
       ]
@@ -866,105 +949,89 @@
       "articles": [
         {
           "title": "「薬屋のひとりごと ～偽りの皇弟～」の発売日が2027年3月18日に決定！壬氏・毛毛を操作する探索パートなどのシステムを紹介",
-          "url": "https://www.chiba-tv.com/plus/detail/2026102141353",
-          "source": "千葉テレビ放送",
-          "publishedAt": "2026-10-21T09:51:54.000Z",
+          "url": "https://www.gamer.ne.jp/news/202610210041/image/16/",
+          "source": "Gamer",
+          "publishedAt": "2026-10-21T10:22:17.000Z",
           "isPR": false
         }
       ]
     },
     {
-      "id": "e64b85c72b41",
-      "title": "「転生ゴブリンだけど質問ある？」アニメの配信はどこで見れる？見放題サブスクまとめ",
-      "summary": "『転生ゴブリンだけど質問ある？』のアニメは、DMM TV・U-NEXT・Amazonプライムビデオ・Lemino・dアニメストア・Hulu・TELASAで見放題配信中です。おすすめのDMM TVや地上波先行の最速配信、あらすじ・声優も紹介。",
-      "url": "https://animeanime.jp/article/2026/10/21/104044.html",
-      "image": "https://animeanime.jp/imgs/rss/945825.jpg",
-      "leadSource": "アニメ！アニメ！",
-      "publishedAt": "2026-10-21T06:25:59.000Z",
-      "sourceCount": 2,
-      "articleCount": 2,
-      "categories": [
-        "anime"
-      ],
-      "keywords": [
-        "ゴブリン",
-        "質問"
-      ],
-      "articles": [
-        {
-          "title": "第4話 転生ゴブリンだけど質問ある？",
-          "url": "https://thetv.jp/program/0001077857/4/",
-          "source": "WEBザテレビジョン",
-          "publishedAt": "2026-10-20T20:10:37.000Z",
-          "isPR": false
-        }
-      ]
-    },
-    {
-      "id": "1c1f6f096ad2",
-      "title": "MEメンバー「転スラ」主人公に扮したオフショット公開「見に行きますね」「写真が素敵」の声 (モデルプレス)",
+      "id": "85479e2615da",
+      "title": "α・Z世代が選ぶ「冬に映画館で見たい映画」ランキング発表！『薬屋のひとりごと』が堂々の1位に",
       "summary": "",
-      "url": "https://news.yahoo.co.jp/articles/dbd5dca436fc229941d42e6ba1aaeb7b27784667/images/000",
-      "image": "https://news-pctr.c.yimg.jp/uUzvQ3lML_bkIqyakc1vFhNrRI0RUQxg5aFkrX0xDg1_T0wXrbEJjtNGtrf1o9y3xudcUclfbXjZqAvGT8NJnQnBv78n2FrDPnfT4f4lE6ODgG_9i1SwwJn0a_albzZcM5zwZYy9f1XEfeJJcDDQoz3qBiYK1_VQhXrfv_LihTqz1EGX8dAqCitO6aQOehov",
-      "leadSource": "Yahoo!ニュース",
-      "publishedAt": "2026-10-20T04:54:10.000Z",
-      "sourceCount": 2,
-      "articleCount": 2,
-      "categories": [
-        "other"
-      ],
-      "keywords": [
-        "転スラ",
-        "メンバー",
-        "オフショット"
-      ],
-      "articles": [
-        {
-          "title": "≠MEメンバー「転スラ」主人公に扮したオフショット公開「見に行きますね」「写真が素敵」の声",
-          "url": "https://mdpr.jp/news/detail/4862274",
-          "source": "モデルプレス",
-          "publishedAt": "2026-10-20T04:54:08.000Z",
-          "isPR": false
-        }
-      ]
-    },
-    {
-      "id": "0879a58eb5aa",
-      "title": "『先生、今度は異世界ですか？』2026年10月30日（金）より順次配信開始 |",
-      "summary": "",
-      "url": "https://www.twellv.co.jp/jiyunibunko/detail/261020_news/",
-      "image": "",
-      "leadSource": "BS12",
-      "publishedAt": "2026-10-20T04:34:23.000Z",
+      "url": "https://www.moviecollection.jp/news/310278/",
+      "image": "https://www.moviecollection.jp/wp/wp-content/uploads/2026/11/075c1519ee99b16d2cfe2f0d051f67a6-888x500.jpg",
+      "leadSource": "ムビコレ",
+      "publishedAt": "2026-10-21T08:21:35.000Z",
       "sourceCount": 2,
       "articleCount": 2,
       "categories": [
         "anime",
-        "other"
+        "web"
       ],
       "keywords": [
-        "先生",
-        "今度"
+        "薬屋",
+        "ランキング",
+        "発表"
       ],
       "articles": [
         {
-          "title": "打ち切り回避へ、キャラが勝手に動きだす！痛快メタ・コメディ 『先生、今度は異世界ですか？』",
-          "url": "https://news.nicovideo.jp/watch/nw19897447",
-          "source": "ニコニコニュース",
-          "publishedAt": "2026-10-20T04:30:25.000Z",
+          "title": "『薬屋のひとりごと』が3週連続1位を獲得！10月12日週アニメ週間ランキング発表",
+          "url": "https://news.infoseek.co.jp/article/abematimes_10282235/",
+          "source": "Infoseek",
+          "publishedAt": "2026-10-20T10:50:00.000Z",
           "isPR": false
         }
       ]
     }
   ],
   "churn": {
-    "previousAt": "2026-10-21T12:30:18.275Z",
-    "previousCount": 119,
-    "newCount": 5
+    "previousAt": "2026-10-21T13:00:19.935Z",
+    "previousCount": 113,
+    "newCount": 13
   },
   "updateGapMin": 30,
-  "nextUpdateAt": "2026-10-21T13:30:19.935Z",
+  "nextUpdateAt": "2026-10-21T14:00:19.462Z",
   "items": [
+    {
+      "id": "10c14d09ab34",
+      "title": "異世界転生後の生活を現代知識でアップデート？ 『異世界生活攻略レシピ図鑑』刊行へ（リアルサウンド）",
+      "url": "https://news.yahoo.co.jp/articles/f12acc72fb3099e5ab8f5e84e67e214373ee17e8",
+      "host": "news.yahoo.co.jp",
+      "source": "Yahoo!ニュース",
+      "summary": "",
+      "publishedAt": "2026-10-21T13:01:06.000Z",
+      "image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20261021-00010059-realsound-000-1-view.jpg?exp=10800",
+      "categories": [
+        "other"
+      ],
+      "works": [],
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": true
+    },
+    {
+      "id": "a2c7ecde4205",
+      "title": "『薬屋のひとりごと』羅漢役声優が“娘を守る”姿に「パパ最高」「猫猫から拒絶される…」とファン反響（マグミクス）",
+      "url": "https://news.yahoo.co.jp/articles/adf271529f220228292773a5fc9c301118deadfd",
+      "host": "news.yahoo.co.jp",
+      "source": "Yahoo!ニュース",
+      "summary": "",
+      "publishedAt": "2026-10-21T12:42:46.000Z",
+      "image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20261021-00381835-magmix-000-5-view.jpg?exp=10800",
+      "categories": [
+        "anime"
+      ],
+      "works": [
+        "kusuriya"
+      ],
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": false
+    },
     {
       "id": "b9c5a803cb08",
       "title": "『本好きの下剋上』シリーズ累計1500万部突破 続編「貴族院の自称図書委員」TVアニメ化も決定（リアルサウンド）",
@@ -1067,6 +1134,26 @@
       "isNew": false
     },
     {
+      "id": "79ed2d03e182",
+      "title": "「薬屋のひとりごと ～偽りの皇弟～」の発売日が2027年3月18日に決定！壬氏・毛毛を操作する探索パートなどのシステムを紹介",
+      "url": "https://www.gamer.ne.jp/news/202610210041/image/16/",
+      "host": "gamer.ne.jp",
+      "source": "Gamer",
+      "summary": "",
+      "publishedAt": "2026-10-21T10:22:17.000Z",
+      "image": "",
+      "categories": [
+        "other"
+      ],
+      "works": [
+        "kusuriya"
+      ],
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": false
+    },
+    {
       "id": "b788a84abd47",
       "title": "世界最高の暗殺者、異世界貴族に転生する",
       "url": "https://tver.jp/episodes/ep87unl1st",
@@ -1136,46 +1223,6 @@
       "categories": [
         "anime",
         "web"
-      ],
-      "works": [
-        "kusuriya"
-      ],
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": false
-    },
-    {
-      "id": "79ed2d03e182",
-      "title": "「薬屋のひとりごと ～偽りの皇弟～」の発売日が2027年3月18日に決定！壬氏・毛毛を操作する探索パートなどのシステムを紹介",
-      "url": "https://www.chiba-tv.com/plus/detail/2026102141353",
-      "host": "chiba-tv.com",
-      "source": "千葉テレビ放送",
-      "summary": "",
-      "publishedAt": "2026-10-21T09:51:54.000Z",
-      "image": "",
-      "categories": [
-        "other"
-      ],
-      "works": [
-        "kusuriya"
-      ],
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": false
-    },
-    {
-      "id": "a2c7ecde4205",
-      "title": "『薬屋のひとりごと』羅漢役声優が“娘を守る”姿に「パパ最高」「猫猫から拒絶される…」とファン反響（マグミクス）",
-      "url": "https://news.yahoo.co.jp/articles/adf271529f220228292773a5fc9c301118deadfd",
-      "host": "news.yahoo.co.jp",
-      "source": "Yahoo!ニュース",
-      "summary": "",
-      "publishedAt": "2026-10-21T09:50:00.000Z",
-      "image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20261021-00381835-magmix-000-5-view.jpg?exp=10800",
-      "categories": [
-        "anime"
       ],
       "works": [
         "kusuriya"
@@ -1364,6 +1411,27 @@
       "isNew": false
     },
     {
+      "id": "85479e2615da",
+      "title": "α・Z世代が選ぶ「冬に映画館で見たい映画」ランキング発表！『薬屋のひとりごと』が堂々の1位に",
+      "url": "https://www.moviecollection.jp/news/310278/",
+      "host": "moviecollection.jp",
+      "source": "ムビコレ",
+      "summary": "",
+      "publishedAt": "2026-10-21T08:21:35.000Z",
+      "image": "https://www.moviecollection.jp/wp/wp-content/uploads/2026/11/075c1519ee99b16d2cfe2f0d051f67a6-888x500.jpg",
+      "categories": [
+        "anime",
+        "web"
+      ],
+      "works": [
+        "kusuriya"
+      ],
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": true
+    },
+    {
       "id": "3732f6f12758",
       "title": "『アニメ化してほしいマンガランキング』第10回が開催決定 昨年は総投票数22万票超 過去に『SPY×FAMILY』『薬屋のひとりごと』など選出（オリコン）",
       "url": "https://news.yahoo.co.jp/articles/a2b25787d8e57e9998cf68ca9c8baa3e39251f8f",
@@ -1379,25 +1447,6 @@
       "works": [
         "kusuriya"
       ],
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": false
-    },
-    {
-      "id": "d97985136d2f",
-      "title": "「レイアース」獅堂光＆モコナの躍動感溢れるフィギュア登場！ 炎のエフェクトをまとい剣を掲げるポージング",
-      "url": "https://animeanime.jp/article/2026/10/21/104048.html",
-      "host": "animeanime.jp",
-      "source": "アニメ！アニメ！",
-      "summary": "アニメ『魔法騎士レイアース』より、異世界セフィーロに招かれた3人の少女のひとり・獅堂 光が立体化。こちらはコトブキヤからの商品となっており、価格は24,860円(税込)で発送は2027年5月を予定している。",
-      "publishedAt": "2026-10-21T07:45:03.000Z",
-      "image": "https://animeanime.jp/imgs/rss/946003.jpg",
-      "categories": [
-        "anime",
-        "goods"
-      ],
-      "works": [],
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
@@ -1423,19 +1472,19 @@
     },
     {
       "id": "fb1a69ab0dd3",
-      "title": "【SNSで話題沸騰】コミカライズ160万部突破の超人気シリーズに急展開！ 『〈完全版〉ＪＫハルは異世界で娼婦になった autumn』（新潮文庫nex）は10月28日発売です！",
-      "url": "https://prtimes.jp/main/html/rd/p/000003352.000047877.html",
-      "host": "prtimes.jp",
-      "source": "PR TIMES",
+      "title": "【SNSで話題沸騰】コミカライズ160万部突破の超人気シリーズに急展開！ 『〈完全版〉ＪＫハルは異世界で娼婦になった autumn』（新潮文庫nex）は10月28日発売です！｜Infoseekニュース",
+      "url": "https://news.infoseek.co.jp/article/prtimes_000003352_000047877/",
+      "host": "news.infoseek.co.jp",
+      "source": "Infoseek",
       "summary": "",
       "publishedAt": "2026-10-21T07:12:01.000Z",
-      "image": "https://prcdn.freetls.fastly.net/release_image/47877/3352/47877-3352-6890a87a173bcabe2d5c5f6e734c03f6-1462x2080.jpg?format=jpeg&auto=webp&fit=bounds&width=2400&height=1260",
+      "image": "https://media.image.infoseek.co.jp/isnews/pc/img/noimage_203x120_busi-econ-1.0.png",
       "categories": [
         "comic",
         "book"
       ],
       "works": [],
-      "isPR": true,
+      "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
       "isNew": false
@@ -1446,9 +1495,9 @@
       "url": "https://animeanime.jp/article/2026/10/21/104044.html",
       "host": "animeanime.jp",
       "source": "アニメ！アニメ！",
-      "summary": "『転生ゴブリンだけど質問ある？』のアニメは、DMM TV・U-NEXT・Amazonプライムビデオ・Lemino・dアニメストア・Hulu・TELASAで見放題配信中です。おすすめのDMM TVや地上波先行の最速配信、あらすじ・声優も紹介。",
+      "summary": "",
       "publishedAt": "2026-10-21T06:25:59.000Z",
-      "image": "https://animeanime.jp/imgs/rss/945825.jpg",
+      "image": "",
       "categories": [
         "anime"
       ],
@@ -1457,6 +1506,26 @@
       "viaGoogle": false,
       "sourceKind": "news",
       "isNew": false
+    },
+    {
+      "id": "66dcd40c6db5",
+      "title": "『転スラ』声優・岡咲美保、熊田茜音出演の新ラジオが3/31より配信",
+      "url": "https://www.animatetimes.com/news/img.php?id",
+      "host": "animatetimes.com",
+      "source": "アニメイトタイムズ",
+      "summary": "",
+      "publishedAt": "2026-10-21T05:35:36.000Z",
+      "image": "",
+      "categories": [
+        "anime"
+      ],
+      "works": [
+        "tensura"
+      ],
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": true
     },
     {
       "id": "22ffa863926e",
@@ -1475,25 +1544,6 @@
       "viaGoogle": false,
       "sourceKind": "news",
       "isNew": false
-    },
-    {
-      "id": "66a0351a23e5",
-      "title": "【アニメ異世界】異世界に召喚され、不思議な超能力に目覚めた私は、会社員からモンスターハンター戦士へと変貌を遂げた！【マンガ動画】 Vietnam War (wvZtjN2iOx)",
-      "url": "https://media.unisba.ac.id/1f124728/d8313086DwcDBFVmTAQPA1o/?share",
-      "host": "media.unisba.ac.id",
-      "source": "Unisba Media",
-      "summary": "",
-      "publishedAt": "2026-10-21T04:41:15.000Z",
-      "image": "",
-      "categories": [
-        "anime",
-        "comic"
-      ],
-      "works": [],
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": true
     },
     {
       "id": "fcaee2850312",
@@ -1584,7 +1634,7 @@
       "source": "アニメ！アニメ！",
       "summary": "",
       "publishedAt": "2026-10-21T03:00:00.000Z",
-      "image": "https://animeanime.jp/release/imgs/list/565216.png",
+      "image": "",
       "categories": [
         "anime",
         "goods"
@@ -1605,7 +1655,7 @@
       "source": "アニメ！アニメ！",
       "summary": "",
       "publishedAt": "2026-10-21T03:00:00.000Z",
-      "image": "https://animeanime.jp/release/imgs/list/565217.png",
+      "image": "",
       "categories": [
         "anime",
         "goods"
@@ -1636,6 +1686,26 @@
       "viaGoogle": false,
       "sourceKind": "news",
       "isNew": false
+    },
+    {
+      "id": "46c454fd4b32",
+      "title": "『薬屋のひとりごと』猫猫、物乞いへの“贅沢すぎる施し”に違和感 第51話あらすじ＆場面カット公開",
+      "url": "https://www.sanyonews.jp/article/2005343?rct",
+      "host": "sanyonews.jp",
+      "source": "山陽新聞",
+      "summary": "",
+      "publishedAt": "2026-10-21T01:52:38.000Z",
+      "image": "https://static.sanyonews.jp/image/article/size1/0/2/b/2/02b26e8d4ce18b9a11a95164fff3f2c2_1.jpg",
+      "categories": [
+        "anime"
+      ],
+      "works": [
+        "kusuriya"
+      ],
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": true
     },
     {
       "id": "48d41cc73fdd",
@@ -1754,6 +1824,26 @@
       "isNew": false
     },
     {
+      "id": "6aa7bb844ab9",
+      "title": "【薬屋のひとりごと×リジュラン】初コラボが話題！ハリ・ツヤ肌を目指す美容液&毛穴ケアアンプルに注目",
+      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9xMFoybGNNNmd1SFdXM0dlMk51Z2FkaE9rNTdYRE4tVFpJck9kWjBpeGhYMTNVVEpkVlp1Vmgxc3NTbjV3eVlnbFNjUERwSjgtYXVzM0RTWllhUm1PQkpTX0lCcGJtUFl0cjh5MDlOZ3VDVE9VcENDTTBtTS3SAXxBVV95cUxPcTBaMmxjTTZndUhXVzNHZTJOdWdhZGhPazU3WEROLVRaSXJPZFowaXhoWDEzVVRKZFZadVZoMXNzU241d3lZZ2xTY1BEcEo4LWF1czNEU1pZYVJtT0JKU19JQnBibVBZdHI4eTA5Tmd1Q1RPVXBDQ00wbU0t?oc=5",
+      "host": "topics.smt.docomo.ne.jp",
+      "source": "ｄメニューニュース",
+      "summary": "",
+      "publishedAt": "2026-10-20T21:00:00.000Z",
+      "image": "",
+      "categories": [
+        "goods"
+      ],
+      "works": [
+        "kusuriya"
+      ],
+      "isPR": false,
+      "viaGoogle": true,
+      "sourceKind": "news",
+      "isNew": true
+    },
+    {
       "id": "d5c3727b2eae",
       "title": "第4話 転生ゴブリンだけど質問ある？",
       "url": "https://thetv.jp/program/0001077857/4/",
@@ -1839,7 +1929,7 @@
       "source": "アニメ！アニメ！",
       "summary": "",
       "publishedAt": "2026-10-20T11:00:00.000Z",
-      "image": "https://animeanime.jp/release/imgs/list/565049.png",
+      "image": "",
       "categories": [
         "anime",
         "comic"
@@ -1908,6 +1998,46 @@
       "viaGoogle": false,
       "sourceKind": "news",
       "isNew": false
+    },
+    {
+      "id": "7f2fc7e20d02",
+      "title": "アニメ『転生したらスライムだった件』オーロラ缶バッジ2個セット、プリズムビジュアルコレクション、フォトグレイ風ステッカーの受注を開始しました！",
+      "url": "https://www.asahi.com/and/pressrelease/16980105",
+      "host": "asahi.com",
+      "source": "朝日新聞",
+      "summary": "",
+      "publishedAt": "2026-10-20T09:00:00.000Z",
+      "image": "",
+      "categories": [
+        "anime"
+      ],
+      "works": [
+        "tensura"
+      ],
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": true
+    },
+    {
+      "id": "98986eb8bdff",
+      "title": "アズメーカー、きゃらON！でアニメ転生したらスライムだった件の新商品を受注開始",
+      "url": "https://news.dellows.jp/815870/?from",
+      "host": "news.dellows.jp",
+      "source": "Dellows News",
+      "summary": "",
+      "publishedAt": "2026-10-20T09:00:00.000Z",
+      "image": "https://news.dellows.jp/wp-content/uploads/2026/10/815870_1.jpg",
+      "categories": [
+        "anime"
+      ],
+      "works": [
+        "tensura"
+      ],
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": true
     },
     {
       "id": "e8e130225950",
@@ -2047,6 +2177,26 @@
       "viaGoogle": false,
       "sourceKind": "news",
       "isNew": false
+    },
+    {
+      "id": "f42ae214a06c",
+      "title": "【画像】≠MEメンバー「転スラ」主人公に扮したオフショット公開「見に行きますね」「写真が素敵」の声",
+      "url": "https://news.livedoor.com/article/image_detail/32610998/?img_id",
+      "host": "news.livedoor.com",
+      "source": "ライブドアニュース",
+      "summary": "",
+      "publishedAt": "2026-10-20T04:54:08.000Z",
+      "image": "https://image.news.livedoor.com/newsimage/stf/6/8/68c92_749_7ac1033e_5fcca1e1.jpg",
+      "categories": [
+        "other"
+      ],
+      "works": [
+        "tensura"
+      ],
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": true
     },
     {
       "id": "0879a58eb5aa",
@@ -2205,19 +2355,19 @@
       "isNew": false
     },
     {
-      "id": "bf0958931afd",
-      "title": "Spotifyで「リゼロ」「はがない」など154曲分のアニメOP＆EDノンクレジット映像配信（音楽ナタリー）",
-      "url": "https://news.yahoo.co.jp/articles/98ecbb9dd52401860ac02ae1d84a208ff3bc57b6",
-      "host": "news.yahoo.co.jp",
-      "source": "Yahoo!ニュース",
+      "id": "89ca26454710",
+      "title": "『本好きの下剋上』シリーズ累計1500万部突破！（電子書籍を含む）",
+      "url": "https://koubo.jp/press-release/prtimes/c174060_r221",
+      "host": "koubo.jp",
+      "source": "Koubo",
       "summary": "",
-      "publishedAt": "2026-10-20T03:01:38.000Z",
-      "image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20261020-00000048-natalien-000-1-view.jpg?exp=10800",
+      "publishedAt": "2026-10-20T03:00:00.000Z",
+      "image": "",
       "categories": [
-        "anime"
+        "other"
       ],
       "works": [
-        "rezero"
+        "honzuki"
       ],
       "isPR": false,
       "viaGoogle": false,
@@ -2225,21 +2375,21 @@
       "isNew": false
     },
     {
-      "id": "89ca26454710",
-      "title": "『本好きの下剋上』シリーズ累計1500万部突破！（電子書籍を含む）",
-      "url": "https://prtimes.jp/main/html/rd/p/000000221.000174060.html",
-      "host": "prtimes.jp",
-      "source": "PR TIMES",
+      "id": "bf0958931afd",
+      "title": "Spotifyで「リゼロ」「はがない」など154曲分のアニメOP＆EDノンクレジット映像配信",
+      "url": "https://natalie.mu/music/news/694422",
+      "host": "natalie.mu",
+      "source": "ナタリー",
       "summary": "",
-      "publishedAt": "2026-10-20T03:00:01.000Z",
-      "image": "https://prcdn.freetls.fastly.net/release_image/174060/221/174060-221-90c83234e9615c21fc341b61c73ee044-1400x900.jpg?format=jpeg&auto=webp&fit=bounds&width=2400&height=1260",
+      "publishedAt": "2026-10-20T03:00:00.000Z",
+      "image": "",
       "categories": [
-        "other"
+        "anime"
       ],
       "works": [
-        "honzuki"
+        "rezero"
       ],
-      "isPR": true,
+      "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
       "isNew": false
@@ -2263,6 +2413,26 @@
       "viaGoogle": false,
       "sourceKind": "news",
       "isNew": false
+    },
+    {
+      "id": "f86b9901c417",
+      "title": "『本好きの下剋上』シリーズ累計1500万部突破！（電子書籍を含む） (2026年10月20日掲載)",
+      "url": "https://news.livedoor.com/pr_topics/detail/32614356/",
+      "host": "news.livedoor.com",
+      "source": "ライブドアニュース",
+      "summary": "",
+      "publishedAt": "2026-10-20T03:00:00.000Z",
+      "image": "https://image.news.livedoor.com/newsimage/stf/e/5/e5025_1863_74cf1dc4_90ac6d3b.jpg",
+      "categories": [
+        "other"
+      ],
+      "works": [
+        "honzuki"
+      ],
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": true
     },
     {
       "id": "bbbdb116cd29",
@@ -2305,6 +2475,26 @@
       "viaGoogle": false,
       "sourceKind": "news",
       "isNew": false
+    },
+    {
+      "id": "bcc66427eaea",
+      "title": "日本・台湾のコンテンツ展開を支援する日盛図書、サイバーエージェント社企画・展開『転生したらスライムだった件』の台湾・台北POPUP STORE開催をサポート｜Infoseekニュース",
+      "url": "https://news.infoseek.co.jp/article/prtimes_000000059_000019746/",
+      "host": "news.infoseek.co.jp",
+      "source": "Infoseek",
+      "summary": "",
+      "publishedAt": "2026-10-20T02:00:00.000Z",
+      "image": "https://media.image.infoseek.co.jp/isnews/pc/img/noimage_203x120_busi-econ-1.0.png",
+      "categories": [
+        "anime"
+      ],
+      "works": [
+        "tensura"
+      ],
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": true
     },
     {
       "id": "cf8e1aa6ea37",
@@ -2387,26 +2577,6 @@
       "isNew": false
     },
     {
-      "id": "528ab15ffd00",
-      "title": "『薬屋のひとりごと』最新話に反響 猫猫と壬氏の距離に変化？白鈴の核心つく一言に「それがまたいい」",
-      "url": "https://www.sanyonews.jp/photo/detail?article_id",
-      "host": "sanyonews.jp",
-      "source": "山陽新聞",
-      "summary": "",
-      "publishedAt": "2026-10-19T22:37:05.000Z",
-      "image": "",
-      "categories": [
-        "other"
-      ],
-      "works": [
-        "kusuriya"
-      ],
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": true
-    },
-    {
       "id": "523ba8013e78",
       "title": "『転スラ』リムル、ブチギレ顔のマリアベルと戦闘！ユウキも参戦 第82話あらすじ＆場面カット公開",
       "url": "https://news.google.com/rss/articles/CBMi2AJBVV95cUxPS3JEM3pnSUVKYmQ1Ti1TbkpGNWhUVVJuYk9jalhQQ2VlNFNYdkE0WDEtUmtpVXcxSHY0WW5IbXgtRXRFdGRiclc0S2tpREFBbFU4M0M5RWdnWTNmNGdhODV6QXRHRHZ6UzRzaTk4ODFrNHdYTzcwY1lVTHUzb2xLR01MZFphekl2TWh4RFJBWnd6RFlJaXBPYTh1c1FMbVIwbWNuQXF6UjV4VGM3YUdnYWl2RXVlMVg4LVhKTzROeW9OaVYzZXpRTWV3N1p4MVhPQ2NldGhIa2d6UlJnNGdvRHBiR2tFV28zeE5WeVRNYTM3dU0wYTdTek9taTBVV3NZLVBraXVTOGZZTGdfVkxEa0tZX1M4YnF3dklwT3M5RGZkcFA0NW9WTno1ZE1kTjlvb2dzeVl4RXducWdMM2xNbHFnUE5KQXlnS2VXNmlrYTVVZWsxMVdfag?oc=5",
@@ -2425,26 +2595,6 @@
       "viaGoogle": true,
       "sourceKind": "news",
       "isNew": false
-    },
-    {
-      "id": "7564efbaceb1",
-      "title": "『薬屋のひとりごと』ノンクレジットED映像公開 Eve「AIYOU」にのせ猫猫の記憶を辿る",
-      "url": "https://www.sanyonews.jp/article/1998838?rct",
-      "host": "sanyonews.jp",
-      "source": "山陽新聞",
-      "summary": "",
-      "publishedAt": "2026-10-19T22:09:27.000Z",
-      "image": "https://static.sanyonews.jp/image/article/size1/7/9/3/4/7934f2055233f31b4542d7db00029f6b_1.jpg",
-      "categories": [
-        "anime"
-      ],
-      "works": [
-        "kusuriya"
-      ],
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": true
     },
     {
       "id": "9033f9b119bc",
@@ -2544,6 +2694,26 @@
       "isNew": false
     },
     {
+      "id": "f4769f77a3c3",
+      "title": "「薬屋のひとりごと」壬氏役・大塚剛央が語る作品への思い「終わってしまったら抜け殻になりそう(笑)」",
+      "url": "https://jmagazine.myjcom.jp/category/anime/post001759/",
+      "host": "jmagazine.myjcom.jp",
+      "source": "J:magazine!",
+      "summary": "",
+      "publishedAt": "2026-10-19T18:00:00.000Z",
+      "image": "https://jmagazine.myjcom.jp/uploads/261020_ootsuka_01.jpg",
+      "categories": [
+        "other"
+      ],
+      "works": [
+        "kusuriya"
+      ],
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": true
+    },
+    {
       "id": "e45af8dd8416",
       "title": "【まおりゅう】闘破戦ラズルの攻略とおすすめ編成｜超絶級・地獄級・破滅級【転スラ】",
       "url": "https://appmedia.jp/ten-sura-m/80494153",
@@ -2564,6 +2734,26 @@
       "isNew": false
     },
     {
+      "id": "95be1ab36ce6",
+      "title": "転生したらスライムだった件（94話～96話） : いももちのアニメ道",
+      "url": "https://t.co/tJkGfuylfE",
+      "host": "t.co",
+      "source": "Howl.link",
+      "summary": "",
+      "publishedAt": "2026-10-19T16:00:00.000Z",
+      "image": "",
+      "categories": [
+        "anime"
+      ],
+      "works": [
+        "tensura"
+      ],
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": true
+    },
+    {
       "id": "a421566895e7",
       "title": "アニメ「薬屋のひとりごと」の配信はどこで見れる？無料視聴できるサービス・サブスクを紹介！",
       "url": "https://animeanime.jp/article/2026/01/30/95607.html",
@@ -2571,7 +2761,7 @@
       "source": "アニメ！アニメ！",
       "summary": "",
       "publishedAt": "2026-10-19T13:52:54.000Z",
-      "image": "https://animeanime.jp/imgs/ogp_f/835429.jpg",
+      "image": "",
       "categories": [
         "anime"
       ],
@@ -2652,7 +2842,7 @@
       "source": "アニメ！アニメ！",
       "summary": "",
       "publishedAt": "2026-10-19T11:00:03.000Z",
-      "image": "https://animeanime.jp/imgs/ogp_f/945223.jpg",
+      "image": "",
       "categories": [
         "anime"
       ],
@@ -2663,27 +2853,6 @@
       "viaGoogle": false,
       "sourceKind": "news",
       "isNew": false
-    },
-    {
-      "id": "5d244b8aa956",
-      "title": "『薬屋のひとりごと』第3期、猫猫の“子守唄”にも視聴者注目！第2話コメント最多シーンランキングTOP3 (オタク総研)",
-      "url": "https://news.yahoo.co.jp/articles/4361bdf9c45b9534ddb46309fd6cc3156bc5c0f1/images/000",
-      "host": "news.yahoo.co.jp",
-      "source": "Yahoo!ニュース",
-      "summary": "",
-      "publishedAt": "2026-10-19T10:20:00.000Z",
-      "image": "https://news-pctr.c.yimg.jp/uUzvQ3lML_bkIqyakc1vFhNrRI0RUQxg5aFkrX0xDg1_T0wXrbEJjtNGtrf1o9y3xudcUclfbXjZqAvGT8NJnZZXkm11TaAkIydeP130GeczuPoGBQcYgKtP1SOo9wyw-W33UyJ3hd4xRe11PH5KwF-7WSMQRghfiORDBDThDUQisisYx8hFkoo0pwEuMtYGzhe9aiFcuuMPw_AAmP--0w==",
-      "categories": [
-        "anime",
-        "web"
-      ],
-      "works": [
-        "kusuriya"
-      ],
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": true
     },
     {
       "id": "daea2b931feb",
@@ -2765,26 +2934,6 @@
       "viaGoogle": false,
       "sourceKind": "news",
       "isNew": false
-    },
-    {
-      "id": "7f27b1b6aa57",
-      "title": "『薬屋のひとりごと』第3期第3話SNSの反応 - 「右叫」に沼落ちする視聴者続出!? 猫猫が姉妹に突き付けた\"現実\"にも反響",
-      "url": "https://news.mynavi.jp/article/20261019-5156248/",
-      "host": "news.mynavi.jp",
-      "source": "マイナビニュース",
-      "summary": "",
-      "publishedAt": "2026-10-19T07:07:00.000Z",
-      "image": "https://news.mynavi.jp/article/20261019-5156248/ogp_images/ogp.jpg",
-      "categories": [
-        "anime"
-      ],
-      "works": [
-        "kusuriya"
-      ],
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": true
     },
     {
       "id": "65a4cf67dbe4",
@@ -2874,7 +3023,7 @@
       "source": "インサイド",
       "summary": "",
       "publishedAt": "2026-10-19T06:00:00.000Z",
-      "image": "https://www.inside-games.jp/release/imgs/list/550514.png",
+      "image": "",
       "categories": [
         "anime"
       ],
@@ -3005,24 +3154,6 @@
       "isNew": false
     },
     {
-      "id": "2a006e5cb95a",
-      "title": "【堅物騎士団長×臆病なバーテンダーの、転生恋物語】『騎士団長は異世界バーで恋に落ちる 1』2026年10月19日（月）発売！",
-      "url": "https://animeanime.jp/release/prtimes/20261019/320657.html",
-      "host": "animeanime.jp",
-      "source": "アニメ！アニメ！",
-      "summary": "",
-      "publishedAt": "2026-10-19T02:46:36.000Z",
-      "image": "https://animeanime.jp/release/imgs/list/564452.jpg",
-      "categories": [
-        "other"
-      ],
-      "works": [],
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": false
-    },
-    {
       "id": "69e058fc822b",
       "title": "【推しの命は僕が守る！ 悲運の公爵嫡男×転生者のモブ 異世界転生学園BL！】『モブなのに推しから愛されルートに入りました 1』が2026年10月19日（月）に発売！",
       "url": "https://animeanime.jp/release/prtimes/20261019/320655.html",
@@ -3030,7 +3161,7 @@
       "source": "アニメ！アニメ！",
       "summary": "",
       "publishedAt": "2026-10-19T02:46:36.000Z",
-      "image": "https://animeanime.jp/release/imgs/list/564451.jpg",
+      "image": "",
       "categories": [
         "other"
       ],
@@ -3041,20 +3172,38 @@
       "isNew": false
     },
     {
+      "id": "2a006e5cb95a",
+      "title": "【堅物騎士団長×臆病なバーテンダーの、転生恋物語】『騎士団長は異世界バーで恋に落ちる 1』2026年10月19日（月）発売！",
+      "url": "https://prtimes.jp/main/html/rd/p/000020348.000007006.html",
+      "host": "prtimes.jp",
+      "source": "PR TIMES",
+      "summary": "",
+      "publishedAt": "2026-10-19T02:00:01.000Z",
+      "image": "https://prcdn.freetls.fastly.net/release_image/7006/20348/7006-20348-b57e87bd49fa4918b5dead55caf544fe-1500x2134.jpg?format=jpeg&auto=webp&fit=bounds&width=2400&height=1260",
+      "categories": [
+        "other"
+      ],
+      "works": [],
+      "isPR": true,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": false
+    },
+    {
       "id": "6787b41d4f5a",
       "title": "異世界ファンタジーレーベル「comicスピラ」人気タイトルの紙コミックス＜最新刊＞が10月19日（月）一挙発売！書店購入特典＆電子書店フェアも開催",
-      "url": "https://animeanime.jp/release/prtimes/20261019/320632.html",
-      "host": "animeanime.jp",
-      "source": "アニメ！アニメ！",
+      "url": "https://prtimes.jp/main/html/rd/p/000000073.000110614.html",
+      "host": "prtimes.jp",
+      "source": "PR TIMES",
       "summary": "",
-      "publishedAt": "2026-10-19T01:00:00.000Z",
-      "image": "https://animeanime.jp/release/imgs/list/564312.jpg",
+      "publishedAt": "2026-10-19T01:00:02.000Z",
+      "image": "https://prcdn.freetls.fastly.net/release_image/110614/73/110614-73-77286558ca635dec56a3e4c4f4d9aa1f-1280x670.jpg?format=jpeg&auto=webp&fit=bounds&width=2400&height=1260",
       "categories": [
         "comic",
         "book"
       ],
       "works": [],
-      "isPR": false,
+      "isPR": true,
       "viaGoogle": false,
       "sourceKind": "news",
       "isNew": false
@@ -3138,6 +3287,26 @@
       "viaGoogle": false,
       "sourceKind": "news",
       "isNew": false
+    },
+    {
+      "id": "d3637cc9f106",
+      "title": "【まおりゅう】特命交流とは？｜効率の検証とおすすめの使い方【転スラ】",
+      "url": "https://appmedia.jp/ten-sura-m/80489785",
+      "host": "appmedia.jp",
+      "source": "AppMedia",
+      "summary": "",
+      "publishedAt": "2026-10-18T19:52:40.000Z",
+      "image": "https://appmedia.jp/wp-content/uploads/2026/10/154101_mhyja.webp",
+      "categories": [
+        "other"
+      ],
+      "works": [
+        "tensura"
+      ],
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": true
     },
     {
       "id": "68a803fd3c5e",
