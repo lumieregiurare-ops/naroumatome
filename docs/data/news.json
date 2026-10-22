@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-21T23:30:22.204Z",
+  "updatedAt": "2026-10-22T00:00:18.575Z",
   "site": {
     "title": "なろう系まとめ",
     "tagline": "小説家になろう発の作品のアニメ化・コミカライズ・書籍化のニュースと、なろうのランキングをまとめています。",
@@ -27,7 +27,7 @@
     {
       "id": "web",
       "label": "Web小説・賞",
-      "count": 2
+      "count": 3
     },
     {
       "id": "game",
@@ -68,13 +68,13 @@
       "id": "honzuki",
       "title": "本好きの下剋上",
       "short": "本好き",
-      "count": 11
+      "count": 10
     },
     {
       "id": "kusuriya",
       "title": "薬屋のひとりごと",
       "short": "薬屋",
-      "count": 25
+      "count": 26
     },
     {
       "id": "kagejitsu",
@@ -307,11 +307,11 @@
       "count": 7
     },
     {
-      "name": "Dellows News",
-      "count": 5
+      "name": "Infoseek",
+      "count": 6
     },
     {
-      "name": "Infoseek",
+      "name": "Dellows News",
       "count": 5
     },
     {
@@ -320,10 +320,6 @@
     },
     {
       "name": "PR TIMES",
-      "count": 4
-    },
-    {
-      "name": "Unisba Media",
       "count": 4
     },
     {
@@ -340,6 +336,10 @@
     },
     {
       "name": "ライブドアニュース",
+      "count": 3
+    },
+    {
+      "name": "Unisba Media",
       "count": 3
     },
     {
@@ -620,8 +620,8 @@
       "id": "a8b66f54ea31",
       "title": "『薬屋のひとりごと ～偽りの皇弟～』発売日が2027年3月18日に決定。パッケージ版が本日（10/21）より予約開始。豪華アイテムが同梱するボックスも発売",
       "summary": "",
-      "url": "https://www.famitsu.com/article/images/202610/91625/907737",
-      "image": "https://cimg.kgl-systems.io/camion/files/famitsu/91625/a0713c7d5340ea051a0bf6d6152c56185.jpg?x=1280",
+      "url": "https://www.famitsu.com/article/images/202610/91625/907739",
+      "image": "https://cimg.kgl-systems.io/camion/files/famitsu/91625/ad6c44aed4c00b4ceba1e047187168854.jpg?x=1280",
       "leadSource": "ファミ通",
       "publishedAt": "2026-10-21T14:26:19.000Z",
       "sourceCount": 4,
@@ -986,12 +986,12 @@
     }
   ],
   "churn": {
-    "previousAt": "2026-10-21T23:00:20.795Z",
-    "previousCount": 107,
-    "newCount": 7
+    "previousAt": "2026-10-21T23:30:22.204Z",
+    "previousCount": 111,
+    "newCount": 1
   },
   "updateGapMin": 30,
-  "nextUpdateAt": "2026-10-22T00:00:22.204Z",
+  "nextUpdateAt": "2026-10-22T00:30:18.575Z",
   "items": [
     {
       "id": "ba6e4f31c4e1",
@@ -1052,7 +1052,7 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "daf9ae02a604",
@@ -1156,12 +1156,12 @@
     {
       "id": "a8b66f54ea31",
       "title": "『薬屋のひとりごと ～偽りの皇弟～』発売日が2027年3月18日に決定。パッケージ版が本日（10/21）より予約開始。豪華アイテムが同梱するボックスも発売",
-      "url": "https://www.famitsu.com/article/images/202610/91625/907737",
+      "url": "https://www.famitsu.com/article/images/202610/91625/907739",
       "host": "famitsu.com",
       "source": "ファミ通",
       "summary": "",
       "publishedAt": "2026-10-21T14:26:19.000Z",
-      "image": "https://cimg.kgl-systems.io/camion/files/famitsu/91625/a0713c7d5340ea051a0bf6d6152c56185.jpg?x=1280",
+      "image": "https://cimg.kgl-systems.io/camion/files/famitsu/91625/ad6c44aed4c00b4ceba1e047187168854.jpg?x=1280",
       "categories": [
         "other"
       ],
@@ -1297,7 +1297,7 @@
       "source": "GAME Watch",
       "summary": "",
       "publishedAt": "2026-10-21T10:12:50.000Z",
-      "image": "https://game.watch.impress.co.jp/img/gmw/list/2150/129/1.jpg",
+      "image": "",
       "categories": [
         "anime"
       ],
@@ -1682,7 +1682,7 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "f5c251ed415f",
@@ -1918,6 +1918,27 @@
       "isNew": false
     },
     {
+      "id": "1dc7263cccbd",
+      "title": "『薬屋のひとりごと』が3週連続1位を獲得！10月12日週アニメ週間ランキング発表",
+      "url": "https://news.infoseek.co.jp/article/abematimes_10282235/",
+      "host": "news.infoseek.co.jp",
+      "source": "Infoseek",
+      "summary": "",
+      "publishedAt": "2026-10-20T10:50:00.000Z",
+      "image": "https://media.image.infoseek.co.jp/isnews/photos/abematimes/abematimes_10282235_0-enlarge.jpg",
+      "categories": [
+        "anime",
+        "web"
+      ],
+      "works": [
+        "kusuriya"
+      ],
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": true
+    },
+    {
       "id": "405b6ed2ba1d",
       "title": "『本好きの下剋上』が電子書籍含む累計1500万部を突破、10年以上愛されるビブリア・ファンタジー",
       "url": "https://news.infoseek.co.jp/amp/article/abematimes_10282216/",
@@ -2034,7 +2055,7 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "980f1504bc3a",
@@ -2112,7 +2133,7 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "1c1f6f096ad2",
@@ -2867,7 +2888,7 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "d7a98fa63962",
@@ -2927,7 +2948,7 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "3233bdb0aba8",
@@ -2987,7 +3008,7 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "a42f6d8b68a8",
@@ -3156,26 +3177,6 @@
       ],
       "works": [
         "mushoku"
-      ],
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": false
-    },
-    {
-      "id": "ff26872e580d",
-      "title": "アニメ『本好きの下剋上 領主の養女』第2クールOPノンクレジット映像「Power Of Love」西野カナ/毎週土曜夕方5時半～放送中！ Catanzaro Informa (geeGqPHTxX)",
-      "url": "https://media.unisba.ac.id/52509bff/570b8e16XicIKjUeKhxfITM",
-      "host": "media.unisba.ac.id",
-      "source": "Unisba Media",
-      "summary": "",
-      "publishedAt": "2026-10-18T23:55:59.000Z",
-      "image": "",
-      "categories": [
-        "anime"
-      ],
-      "works": [
-        "honzuki"
       ],
       "isPR": false,
       "viaGoogle": false,
