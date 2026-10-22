@@ -1,18 +1,18 @@
 {
-  "updatedAt": "2026-10-22T05:30:19.761Z",
+  "updatedAt": "2026-10-22T06:00:17.272Z",
   "site": {
     "title": "なろう系まとめ",
     "tagline": "小説家になろう発の作品のアニメ化・コミカライズ・書籍化のニュースと、なろうのランキングをまとめています。",
     "url": "https://naroumatome.gamelab.website/",
     "contactUrl": "https://docs.google.com/forms/d/e/1FAIpQLSesWyhmZ6sRS_ve-c3X2KqF_wC5PK2TgwgQbTKmnQltSlg5Jw/viewform"
   },
-  "total": 114,
-  "todayCount": 17,
+  "total": 113,
+  "todayCount": 21,
   "categories": [
     {
       "id": "anime",
       "label": "アニメ",
-      "count": 63
+      "count": 58
     },
     {
       "id": "comic",
@@ -22,7 +22,7 @@
     {
       "id": "book",
       "label": "書籍・ラノベ",
-      "count": 9
+      "count": 8
     },
     {
       "id": "web",
@@ -32,17 +32,17 @@
     {
       "id": "game",
       "label": "ゲーム",
-      "count": 6
+      "count": 5
     },
     {
       "id": "goods",
       "label": "グッズ・イベント",
-      "count": 17
+      "count": 20
     },
     {
       "id": "other",
       "label": "そのほか",
-      "count": 32
+      "count": 35
     }
   ],
   "works": [
@@ -50,13 +50,13 @@
       "id": "tensura",
       "title": "転生したらスライムだった件",
       "short": "転スラ",
-      "count": 15
+      "count": 17
     },
     {
       "id": "mushoku",
       "title": "無職転生 ～異世界行ったら本気だす～",
       "short": "無職転生",
-      "count": 10
+      "count": 9
     },
     {
       "id": "rezero",
@@ -224,7 +224,7 @@
       "id": "tenken",
       "title": "転生したら剣でした",
       "short": "転剣",
-      "count": 3
+      "count": 2
     },
     {
       "id": "rupunana",
@@ -254,7 +254,7 @@
       "id": "tensei-kizoku",
       "title": "転生貴族、鑑定スキルで成り上がる",
       "short": "転生貴族",
-      "count": 1
+      "count": 0
     },
     {
       "id": "kuro-no-shokanshi",
@@ -296,7 +296,7 @@
   "sources": [
     {
       "name": "Yahoo!ニュース",
-      "count": 13
+      "count": 15
     },
     {
       "name": "ラノベニュースオンライン",
@@ -307,19 +307,27 @@
       "count": 7
     },
     {
+      "name": "GameWith",
+      "count": 5
+    },
+    {
+      "name": "Dellows News",
+      "count": 5
+    },
+    {
       "name": "アニメ！アニメ！",
       "count": 4
     },
     {
-      "name": "Dellows News",
-      "count": 4
-    },
-    {
-      "name": "GameWith",
-      "count": 4
+      "name": "PR TIMES",
+      "count": 3
     },
     {
       "name": "山陽新聞デジタル｜さんデジ",
+      "count": 3
+    },
+    {
+      "name": "ニコニコニュース",
       "count": 3
     },
     {
@@ -339,23 +347,11 @@
       "count": 3
     },
     {
-      "name": "PR TIMES",
-      "count": 3
-    },
-    {
-      "name": "山陽新聞",
-      "count": 3
-    },
-    {
-      "name": "Koubo",
-      "count": 3
-    },
-    {
-      "name": "パチンコ・パチスロ情報島＋",
+      "name": "ナタリー",
       "count": 2
     },
     {
-      "name": "ABEMA",
+      "name": "パチンコ・パチスロ情報島＋",
       "count": 2
     },
     {
@@ -375,7 +371,7 @@
       "count": 2
     },
     {
-      "name": "千葉テレビ放送",
+      "name": "Koubo",
       "count": 2
     },
     {
@@ -383,7 +379,7 @@
       "count": 2
     },
     {
-      "name": "千葉テレビ放送株式会社",
+      "name": "山陽新聞",
       "count": 2
     },
     {
@@ -403,19 +399,15 @@
       "count": 1
     },
     {
+      "name": "ABEMA",
+      "count": 1
+    },
+    {
       "name": "公式スイーツパラダイス",
       "count": 1
     },
     {
-      "name": "オタク総研",
-      "count": 1
-    },
-    {
       "name": "SmartNews",
-      "count": 1
-    },
-    {
-      "name": "4Gamer.net",
       "count": 1
     },
     {
@@ -424,6 +416,10 @@
     },
     {
       "name": "GAME Watch",
+      "count": 1
+    },
+    {
+      "name": "4Gamer.net",
       "count": 1
     },
     {
@@ -451,7 +447,7 @@
       "count": 1
     },
     {
-      "name": "ナタリー",
+      "name": "千葉テレビ放送",
       "count": 1
     },
     {
@@ -471,10 +467,6 @@
       "count": 1
     },
     {
-      "name": "ニコニコニュース",
-      "count": 1
-    },
-    {
       "name": "リアルサウンド",
       "count": 1
     },
@@ -491,6 +483,10 @@
       "count": 1
     },
     {
+      "name": "千葉テレビ放送株式会社",
+      "count": 1
+    },
+    {
       "name": "J:magazine!",
       "count": 1
     },
@@ -500,14 +496,6 @@
     },
     {
       "name": "Yahoo!ファイナンス",
-      "count": 1
-    },
-    {
-      "name": "インサイド",
-      "count": 1
-    },
-    {
-      "name": "日本経済新聞",
       "count": 1
     }
   ],
@@ -520,7 +508,7 @@
       "image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20261021-00010058-realsound-000-1-view.jpg?exp=10800",
       "leadSource": "Yahoo!ニュース",
       "publishedAt": "2026-10-21T12:30:52.000Z",
-      "sourceCount": 5,
+      "sourceCount": 6,
       "articleCount": 9,
       "categories": [
         "anime",
@@ -569,10 +557,10 @@
         },
         {
           "title": "『本好きの下剋上』シリーズ累計1500万部突破！（電子書籍を含む）",
-          "url": "https://koubo.jp/press-release/prtimes/c174060_r221",
-          "source": "Koubo",
-          "publishedAt": "2026-10-20T03:00:00.000Z",
-          "isPR": false
+          "url": "https://prtimes.jp/main/html/rd/p/000000221.000174060.html",
+          "source": "PR TIMES",
+          "publishedAt": "2026-10-20T03:00:01.000Z",
+          "isPR": true
         },
         {
           "title": "『本好きの下剋上』シリーズ累計1500万部突破！（電子書籍を含む）｜Infoseekニュース",
@@ -586,56 +574,6 @@
           "url": "https://news.livedoor.com/pr_topics/detail/32614356/",
           "source": "ライブドアニュース",
           "publishedAt": "2026-10-20T03:00:00.000Z",
-          "isPR": false
-        }
-      ]
-    },
-    {
-      "id": "e8e130225950",
-      "title": "『無職転生～異世界行ったら本気だす～』LINEスタンプとLINE着せかえが発売",
-      "summary": "",
-      "url": "https://ln-news.com/articles/126790",
-      "image": "https://assets.ln-news.com/images/medias/d6d3d7990820485391187da1c0141869.jpg",
-      "leadSource": "ラノベニュースオンライン",
-      "publishedAt": "2026-10-20T08:30:00.000Z",
-      "sourceCount": 5,
-      "articleCount": 5,
-      "categories": [
-        "other",
-        "anime"
-      ],
-      "keywords": [
-        "無職転生",
-        "異世界行",
-        "本気"
-      ],
-      "articles": [
-        {
-          "title": "『無職転生 〜異世界行ったら本気だす〜 クロニクル・オブ・エコーズ』ハロウィン衣装の「[幻惑の兎耳] ロキシー」が登場！",
-          "url": "https://gamewith.jp/gamedb/15536/articles/64592",
-          "source": "GameWith",
-          "publishedAt": "2026-10-19T07:10:12.000Z",
-          "isPR": false
-        },
-        {
-          "title": "グリーENT、『無職転生 〜異世界行ったら本気だす〜 クロエコ』に[幻惑の兎耳] ロキシーが明日登場…生配信番組「クロエコ情報局 Vol.03」配信決定",
-          "url": "https://gamebiz.jp/news/434308",
-          "source": "gamebiz【ゲームビズ】",
-          "publishedAt": "2026-10-19T06:50:00.000Z",
-          "isPR": false
-        },
-        {
-          "title": "『無職転生 〜異世界行ったら本気だす〜 クロニクル・オブ・エコーズ』、[幻惑の兎耳] ロキシーが期間限定で登場！さらに、生配信番組「クロエコ情報局 Vol.03」配信決定！",
-          "url": "https://prtimes.jp/main/html/rd/p/000000201.000090815.html",
-          "source": "PR TIMES",
-          "publishedAt": "2026-10-19T06:00:02.000Z",
-          "isPR": true
-        },
-        {
-          "title": "『無職転生 ～異世界行ったら本気だす～ クロニクル・オブ・エコーズ』、[幻惑の兎耳] ロキシーが期間限定で登場！さらに、生配信番組「クロエコ情報局 Vol.03」配信決定！",
-          "url": "https://www.inside-games.jp/release/prtimes/20261019/313435.html",
-          "source": "インサイド",
-          "publishedAt": "2026-10-19T06:00:00.000Z",
           "isPR": false
         }
       ]
@@ -687,6 +625,49 @@
           "source": "PR TIMES",
           "publishedAt": "2026-10-21T03:00:02.000Z",
           "isPR": true
+        }
+      ]
+    },
+    {
+      "id": "e8e130225950",
+      "title": "『無職転生～異世界行ったら本気だす～』LINEスタンプとLINE着せかえが発売",
+      "summary": "",
+      "url": "https://ln-news.com/articles/126790",
+      "image": "https://assets.ln-news.com/images/medias/d6d3d7990820485391187da1c0141869.jpg",
+      "leadSource": "ラノベニュースオンライン",
+      "publishedAt": "2026-10-20T08:30:00.000Z",
+      "sourceCount": 4,
+      "articleCount": 4,
+      "categories": [
+        "other",
+        "anime"
+      ],
+      "keywords": [
+        "無職転生",
+        "異世界行",
+        "本気"
+      ],
+      "articles": [
+        {
+          "title": "『無職転生 ～異世界行ったら本気だす～ クロニクル・オブ・エコーズ』、[幻惑の兎耳]",
+          "url": "https://news.nicovideo.jp/watch/nw19895494",
+          "source": "ニコニコニュース",
+          "publishedAt": "2026-10-19T13:00:39.000Z",
+          "isPR": false
+        },
+        {
+          "title": "『無職転生 〜異世界行ったら本気だす〜 クロニクル・オブ・エコーズ』ハロウィン衣装の「[幻惑の兎耳] ロキシー」が登場！",
+          "url": "https://gamewith.jp/gamedb/15536/articles/64592",
+          "source": "GameWith",
+          "publishedAt": "2026-10-19T07:10:12.000Z",
+          "isPR": false
+        },
+        {
+          "title": "グリーENT、『無職転生 〜異世界行ったら本気だす〜 クロエコ』に[幻惑の兎耳] ロキシーが明日登場…生配信番組「クロエコ情報局 Vol.03」配信決定",
+          "url": "https://gamebiz.jp/news/434308",
+          "source": "gamebiz【ゲームビズ】",
+          "publishedAt": "2026-10-19T06:50:00.000Z",
+          "isPR": false
         }
       ]
     },
@@ -842,10 +823,10 @@
       "id": "5ef74e64012b",
       "title": "「薬屋のひとりごと 〜偽りの皇弟〜」，2027年3月18日発売。日向夏氏原案の完全新作ストーリーを描くミステリーアドベンチャー",
       "summary": "",
-      "url": "https://www.4gamer.net/games/041/G104128/20261021033/screenshot.html?num",
+      "url": "https://www.4gamer.net/games/041/G104128/20261021033/screenshot.html?mode",
       "image": "https://www.4gamer.net/games/041/G104128/20261021033/SS/001.jpg",
       "leadSource": "4Gamer.net",
-      "publishedAt": "2026-10-21T10:23:26.000Z",
+      "publishedAt": "2026-10-21T10:10:00.000Z",
       "sourceCount": 3,
       "articleCount": 3,
       "categories": [
@@ -981,43 +962,102 @@
       ]
     },
     {
-      "id": "6eb7c9431929",
-      "title": "『劇場版 薬屋のひとりごと 亡妃の秘宝』デフォルメフィギュア「ぷちげき」に猫猫と壬氏が登場！愛らしい座りポーズで付属の椅子は連結可能！",
+      "id": "33e1c02b47b4",
+      "title": "舞台「転生したらスライムだった件」魔王覚醒編＆八星輝翔編スタート",
       "summary": "",
-      "url": "https://hobby.dengeki.com/news/3189377/",
-      "image": "https://hobby.dengeki.com/ss/hobby/2026/10/00Tw_aDuxTeYMFdB26KbhK3gvPugyK9FDJS32_sygEUS-ZSBMMeer3vG0KdmWQtflaUVp5.jpg",
-      "leadSource": "電撃ホビーウェブ",
-      "publishedAt": "2026-10-22T03:00:00.000Z",
+      "url": "https://natalie.mu/stage/news/694781",
+      "image": "https://prcdn.freetls.fastly.net/release_image/51825/832/51825-832-a8abdac79bb93149302d5a9b21b86b00-3900x2601.jpg?format=jpeg&auto=webp&fit=bounds&width=2400&height=1260",
+      "leadSource": "ナタリー",
+      "publishedAt": "2026-10-22T05:40:42.000Z",
       "sourceCount": 2,
       "articleCount": 2,
       "categories": [
-        "anime",
         "goods"
       ],
       "keywords": [
-        "薬屋",
-        "猫猫",
-        "壬氏"
+        "スライム",
+        "舞台",
+        "魔王覚醒編"
       ],
       "articles": [
         {
-          "title": "“メロ男”は壬氏だけじゃない！猫猫をサポートする右叫に「初恋泥棒お兄さんすぎる」アニメ『薬屋のひとりごと』51話",
-          "url": "https://news.yahoo.co.jp/articles/cea61b5b9f186e9a7603a6c2be5ca0ec0c183309",
-          "source": "Yahoo!ニュース",
-          "publishedAt": "2026-10-20T12:36:17.000Z",
-          "isPR": false
+          "title": "再び動き出した「転ステ」の物語！舞台『転生したらスライムだった件』3-魔王覚醒編＆八星輝翔編-ゲネプロ公演レポート",
+          "url": "https://prtimes.jp/main/html/rd/p/000000832.000051825.html",
+          "source": "PR TIMES",
+          "publishedAt": "2026-10-22T05:40:42.000Z",
+          "isPR": true
         }
       ]
     }
   ],
   "churn": {
-    "previousAt": "2026-10-22T05:00:18.406Z",
-    "previousCount": 115,
-    "newCount": 3
+    "previousAt": "2026-10-22T05:30:19.761Z",
+    "previousCount": 114,
+    "newCount": 5
   },
   "updateGapMin": 30,
-  "nextUpdateAt": "2026-10-22T06:00:19.761Z",
+  "nextUpdateAt": "2026-10-22T06:30:17.272Z",
   "items": [
+    {
+      "id": "d35bc2d20fdc",
+      "title": "再び動き出した「転ステ」の物語！舞台『転生したらスライムだった件』3-魔王覚醒編＆八星輝翔編-ゲネプロ公演レポート",
+      "url": "https://prtimes.jp/main/html/rd/p/000000832.000051825.html",
+      "host": "prtimes.jp",
+      "source": "PR TIMES",
+      "summary": "[株式会社HIKE] 株式会社HIKEが企画・制作する舞台『転生したらスライムだった件』3-魔王覚醒編＆八星輝翔編-が、10月22日（木）より東京・シアター1010にて開幕いたしました。本リリースでは、初日を前に実施されたゲネプロ公演...",
+      "publishedAt": "2026-10-22T05:40:42.000Z",
+      "image": "https://prcdn.freetls.fastly.net/release_image/51825/832/51825-832-a8abdac79bb93149302d5a9b21b86b00-3900x2601.jpg?format=jpeg&auto=webp&fit=bounds&width=2400&height=1260",
+      "categories": [
+        "goods"
+      ],
+      "works": [
+        "tensura"
+      ],
+      "isPR": true,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": true
+    },
+    {
+      "id": "33e1c02b47b4",
+      "title": "舞台「転生したらスライムだった件」魔王覚醒編＆八星輝翔編スタート",
+      "url": "https://natalie.mu/stage/news/694781",
+      "host": "natalie.mu",
+      "source": "ナタリー",
+      "summary": "",
+      "publishedAt": "2026-10-22T05:40:00.000Z",
+      "image": "",
+      "categories": [
+        "goods"
+      ],
+      "works": [
+        "tensura"
+      ],
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": true
+    },
+    {
+      "id": "8527a46397b8",
+      "title": "『陰の実力者になりたくて！マスターオブガーデン』4周年記念を控えた「総力決戦〜phase0〜」キャンペーンを開催！",
+      "url": "https://gamewith.jp/gamedb/8388/articles/64760",
+      "host": "gamewith.jp",
+      "source": "GameWith",
+      "summary": "",
+      "publishedAt": "2026-10-22T05:28:45.000Z",
+      "image": "https://img.gamewith.jp/article/thumbnail/gamearticle/8388/rectangle/64760.png?t=1792646973",
+      "categories": [
+        "other"
+      ],
+      "works": [
+        "kagejitsu"
+      ],
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": true
+    },
     {
       "id": "3be0ade810fa",
       "title": "薬屋のひとりごと第3期、毎週金曜23時放送中——OPはヨルシカ「雲を抜け風下へ私だけ」",
@@ -1174,7 +1214,7 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "ba6e4f31c4e1",
@@ -1211,6 +1251,26 @@
       ],
       "works": [
         "rezero"
+      ],
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": false
+    },
+    {
+      "id": "daf9ae02a604",
+      "title": "無職転生、海外の人気が“トップティア”になっていた。『フリーレン』と僅差…海外アニメ配信サイトで40万クラブ入り (オタク総研)",
+      "url": "https://news.yahoo.co.jp/articles/85a3243172d1020875aad5ab8252bff9ced5c637/images/000",
+      "host": "news.yahoo.co.jp",
+      "source": "Yahoo!ニュース",
+      "summary": "",
+      "publishedAt": "2026-10-21T22:29:08.000Z",
+      "image": "https://news-pctr.c.yimg.jp/uUzvQ3lML_bkIqyakc1vFhNrRI0RUQxg5aFkrX0xDg1_T0wXrbEJjtNGtrf1o9y3xudcUclfbXjZqAvGT8NJnZgGaXYJPtnoQs1-nPvFcgUFuKKbr-qKd2dthUR0zdvLVL23ciiqGWoDTq19zc9IyK9kDYBIsguRF96frSMsrDnmQYwzGX3VYzHU_pvvxvl-zNvSaaKWdSR5GnAvkLp-tg==",
+      "categories": [
+        "anime"
+      ],
+      "works": [
+        "mushoku"
       ],
       "isPR": false,
       "viaGoogle": false,
@@ -1258,26 +1318,6 @@
       "isNew": false
     },
     {
-      "id": "daf9ae02a604",
-      "title": "無職転生、海外の人気が“トップティア”になっていた。『フリーレン』と僅差…海外アニメ配信サイトで40万クラブ入り",
-      "url": "https://0115765.com/archives/209268",
-      "host": "0115765.com",
-      "source": "オタク総研",
-      "summary": "",
-      "publishedAt": "2026-10-21T21:13:43.000Z",
-      "image": "https://0115765.com/wp-content/uploads/2026/07/20260718-yasq5sm0.jpg",
-      "categories": [
-        "anime"
-      ],
-      "works": [
-        "mushoku"
-      ],
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": false
-    },
-    {
       "id": "80dae3b81de8",
       "title": "『転スラ』リムル戦闘！ディアブロ含めキャラ大集結 第90話あらすじ＆場面カット解禁",
       "url": "https://www.sanyonews.jp/article/1970647?rct",
@@ -1312,6 +1352,24 @@
       "works": [
         "kusuriya"
       ],
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": false
+    },
+    {
+      "id": "fb1a69ab0dd3",
+      "title": "【SNSで話題沸騰】コミカライズ160万部突破の超人気シリーズに急展開！ 『〈完全版〉ＪＫハルは異世界で娼婦になった",
+      "url": "https://news.nicovideo.jp/watch/nw19904139?news_ref",
+      "host": "news.nicovideo.jp",
+      "source": "ニコニコニュース",
+      "summary": "",
+      "publishedAt": "2026-10-21T17:30:25.000Z",
+      "image": "",
+      "categories": [
+        "comic"
+      ],
+      "works": [],
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
@@ -1355,7 +1413,7 @@
       "isPR": false,
       "viaGoogle": true,
       "sourceKind": "news",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "f1e344fb9da2",
@@ -1380,12 +1438,12 @@
     {
       "id": "a8b66f54ea31",
       "title": "『薬屋のひとりごと ～偽りの皇弟～』発売日が2027年3月18日に決定。パッケージ版が本日（10/21）より予約開始。豪華アイテムが同梱するボックスも発売",
-      "url": "https://www.famitsu.com/article/images/202610/91625/907737",
+      "url": "https://www.famitsu.com/article/images/202610/91625/907739",
       "host": "famitsu.com",
       "source": "ファミ通",
       "summary": "",
       "publishedAt": "2026-10-21T14:26:19.000Z",
-      "image": "https://cimg.kgl-systems.io/camion/files/famitsu/91625/a0713c7d5340ea051a0bf6d6152c56185.jpg?x=1280",
+      "image": "https://cimg.kgl-systems.io/camion/files/famitsu/91625/ad6c44aed4c00b4ceba1e047187168854.jpg?x=1280",
       "categories": [
         "other"
       ],
@@ -1476,26 +1534,6 @@
       "isNew": false
     },
     {
-      "id": "5ef74e64012b",
-      "title": "「薬屋のひとりごと 〜偽りの皇弟〜」，2027年3月18日発売。日向夏氏原案の完全新作ストーリーを描くミステリーアドベンチャー",
-      "url": "https://www.4gamer.net/games/041/G104128/20261021033/screenshot.html?num",
-      "host": "4gamer.net",
-      "source": "4Gamer.net",
-      "summary": "",
-      "publishedAt": "2026-10-21T10:23:26.000Z",
-      "image": "https://www.4gamer.net/games/041/G104128/20261021033/SS/001.jpg",
-      "categories": [
-        "other"
-      ],
-      "works": [
-        "kusuriya"
-      ],
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": false
-    },
-    {
       "id": "b788a84abd47",
       "title": "世界最高の暗殺者、異世界貴族に転生する",
       "url": "https://tver.jp/episodes/ep87unl1st",
@@ -1524,6 +1562,26 @@
       "image": "https://game.watch.impress.co.jp/img/gmw/list/2150/129/1.jpg",
       "categories": [
         "anime"
+      ],
+      "works": [
+        "kusuriya"
+      ],
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": false
+    },
+    {
+      "id": "5ef74e64012b",
+      "title": "「薬屋のひとりごと 〜偽りの皇弟〜」，2027年3月18日発売。日向夏氏原案の完全新作ストーリーを描くミステリーアドベンチャー",
+      "url": "https://www.4gamer.net/games/041/G104128/20261021033/screenshot.html?mode",
+      "host": "4gamer.net",
+      "source": "4Gamer.net",
+      "summary": "",
+      "publishedAt": "2026-10-21T10:10:00.000Z",
+      "image": "https://www.4gamer.net/games/041/G104128/20261021033/SS/001.jpg",
+      "categories": [
+        "other"
       ],
       "works": [
         "kusuriya"
@@ -1592,7 +1650,7 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "f4fd27e3bb4a",
@@ -1616,13 +1674,13 @@
     },
     {
       "id": "eda700d3e6ed",
-      "title": "「男子中学生だよねぇ…ww」「遊ばれてんなぁ（笑）」『薬屋のひとりごと』ミニアニメでも馬閃のウブさが可愛い！猫猫の「初物」呼びにもファン大笑い（ABEMA TIMES）",
-      "url": "https://news.yahoo.co.jp/articles/3ff731eb3b801e84d2f2c1ac74ee70114f884696",
+      "title": "「男子中学生だよねぇ…ww」「遊ばれてんなぁ（笑）」『薬屋のひとりごと』ミニアニメでも馬閃のウブさが可愛い！猫猫の「初物」呼びにもファン大笑い (ABEMA TIMES)",
+      "url": "https://news.yahoo.co.jp/articles/3ff731eb3b801e84d2f2c1ac74ee70114f884696/images/000",
       "host": "news.yahoo.co.jp",
       "source": "Yahoo!ニュース",
       "summary": "",
       "publishedAt": "2026-10-21T09:39:15.000Z",
-      "image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20261021-10282241-abemad-000-1-view.jpg?exp=10800",
+      "image": "https://news-pctr.c.yimg.jp/uUzvQ3lML_bkIqyakc1vFhNrRI0RUQxg5aFkrX0xDg1_T0wXrbEJjtNGtrf1o9y3xudcUclfbXjZqAvGT8NJnRppRmpvifTtkky1ZRSSmQLTedwMz9IVq5meozHM3aKdrqYbF20qf-9iD8Q_dL4nm6TqLCm9J9K7Obpahu_OgXO1KxCaMOz6DJOyd-EmmoMbO2iQxIXgMfr6zvlqrVL_wA==",
       "categories": [
         "anime"
       ],
@@ -1752,23 +1810,22 @@
       "isNew": false
     },
     {
-      "id": "fb1a69ab0dd3",
-      "title": "【SNSで話題沸騰】コミカライズ160万部突破の超人気シリーズに急展開！ 『〈完全版〉ＪＫハルは異世界で娼婦になった autumn』（新潮文庫nex）は10月28日発売です！",
-      "url": "https://prtimes.jp/main/html/rd/p/000003352.000047877.html",
-      "host": "prtimes.jp",
-      "source": "PR TIMES",
+      "id": "d367c09f63ae",
+      "title": "完全新作〈完全版〉ＪＫハルは異世界で娼婦になった autumnが10月28日発売へ",
+      "url": "https://news.dellows.jp/833621/?from",
+      "host": "news.dellows.jp",
+      "source": "Dellows News",
       "summary": "",
-      "publishedAt": "2026-10-21T07:12:01.000Z",
-      "image": "https://prcdn.freetls.fastly.net/release_image/47877/3352/47877-3352-6890a87a173bcabe2d5c5f6e734c03f6-1462x2080.jpg?format=jpeg&auto=webp&fit=bounds&width=2400&height=1260",
+      "publishedAt": "2026-10-21T07:42:04.000Z",
+      "image": "https://news.dellows.jp/wp-content/uploads/2026/10/833621_1.jpg",
       "categories": [
-        "comic",
-        "book"
+        "other"
       ],
       "works": [],
-      "isPR": true,
+      "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": false
+      "isNew": true
     },
     {
       "id": "43415f132384",
@@ -1949,26 +2006,6 @@
       "isNew": false
     },
     {
-      "id": "46c454fd4b32",
-      "title": "『薬屋のひとりごと』猫猫、物乞いへの“贅沢すぎる施し”に違和感 第51話あらすじ＆場面カット公開",
-      "url": "https://www.sanyonews.jp/article/2005343?rct",
-      "host": "sanyonews.jp",
-      "source": "山陽新聞",
-      "summary": "",
-      "publishedAt": "2026-10-21T01:52:38.000Z",
-      "image": "https://static.sanyonews.jp/image/article/size1/0/2/b/2/02b26e8d4ce18b9a11a95164fff3f2c2_1.jpg",
-      "categories": [
-        "anime"
-      ],
-      "works": [
-        "kusuriya"
-      ],
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": false
-    },
-    {
       "id": "5f7ff33cb2a8",
       "title": "ブックライブ「異世界コンプリートマップ」とは？参加方法と特典を解説",
       "url": "https://www.showcase-tv.com/entertainment/booklive-isekai-map/",
@@ -2057,24 +2094,6 @@
       "works": [
         "tensura"
       ],
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": false
-    },
-    {
-      "id": "86c279374abe",
-      "title": "異世界・ファンタジーアニメ5チャンネル | 無料で放送中の番組や配信中の話題作が見放題",
-      "url": "https://abema.tv/now-on-air/isekai-anime-5",
-      "host": "abema.tv",
-      "source": "ABEMA",
-      "summary": "",
-      "publishedAt": "2026-10-20T15:00:00.000Z",
-      "image": "",
-      "categories": [
-        "anime"
-      ],
-      "works": [],
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
@@ -2614,19 +2633,19 @@
     {
       "id": "89ca26454710",
       "title": "『本好きの下剋上』シリーズ累計1500万部突破！（電子書籍を含む）",
-      "url": "https://koubo.jp/press-release/prtimes/c174060_r221",
-      "host": "koubo.jp",
-      "source": "Koubo",
+      "url": "https://prtimes.jp/main/html/rd/p/000000221.000174060.html",
+      "host": "prtimes.jp",
+      "source": "PR TIMES",
       "summary": "",
-      "publishedAt": "2026-10-20T03:00:00.000Z",
-      "image": "",
+      "publishedAt": "2026-10-20T03:00:01.000Z",
+      "image": "https://prcdn.freetls.fastly.net/release_image/174060/221/174060-221-90c83234e9615c21fc341b61c73ee044-1400x900.jpg?format=jpeg&auto=webp&fit=bounds&width=2400&height=1260",
       "categories": [
         "other"
       ],
       "works": [
         "honzuki"
       ],
-      "isPR": false,
+      "isPR": true,
       "viaGoogle": false,
       "sourceKind": "news",
       "isNew": false
@@ -2992,6 +3011,26 @@
       "isNew": false
     },
     {
+      "id": "5022823c1899",
+      "title": "『無職転生 ～異世界行ったら本気だす～ クロニクル・オブ・エコーズ』、[幻惑の兎耳]",
+      "url": "https://news.nicovideo.jp/watch/nw19895494",
+      "host": "news.nicovideo.jp",
+      "source": "ニコニコニュース",
+      "summary": "",
+      "publishedAt": "2026-10-19T13:00:39.000Z",
+      "image": "",
+      "categories": [
+        "other"
+      ],
+      "works": [
+        "mushoku"
+      ],
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": false
+    },
+    {
       "id": "2249b9df4b34",
       "title": "第4話 転生したら剣でしたII",
       "url": "https://thetv.jp/program/0001064066/4/",
@@ -3049,6 +3088,27 @@
       "viaGoogle": false,
       "sourceKind": "news",
       "isNew": false
+    },
+    {
+      "id": "c262a1f8d5e7",
+      "title": "「待って衣装かわいい」「この衣装好きすぎる」アニメ『薬屋のひとりごと』スイーツパラダイスとのコラボ開催！描き下ろしイラストに絶賛の声（ABEMA TIMES）",
+      "url": "https://news.yahoo.co.jp/articles/7b912a0827bd8e7676368853c57cb5b342f95cd0",
+      "host": "news.yahoo.co.jp",
+      "source": "Yahoo!ニュース",
+      "summary": "",
+      "publishedAt": "2026-10-19T09:51:17.000Z",
+      "image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20261019-10281431-abemad-000-1-view.jpg?exp=10800",
+      "categories": [
+        "anime",
+        "goods"
+      ],
+      "works": [
+        "kusuriya"
+      ],
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": true
     },
     {
       "id": "f39e46578a97",
@@ -3165,106 +3225,6 @@
       ],
       "works": [
         "kagejitsu"
-      ],
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": false
-    },
-    {
-      "id": "3233bdb0aba8",
-      "title": "『無職転生 〜異世界行ったら本気だす〜 クロニクル・オブ・エコーズ』、[幻惑の兎耳] ロキシーが期間限定で登場！さらに、生配信番組「クロエコ情報局 Vol.03」配信決定！",
-      "url": "https://prtimes.jp/main/html/rd/p/000000201.000090815.html",
-      "host": "prtimes.jp",
-      "source": "PR TIMES",
-      "summary": "",
-      "publishedAt": "2026-10-19T06:00:02.000Z",
-      "image": "https://prcdn.freetls.fastly.net/release_image/90815/201/90815-201-7c97c79ab4f9d7ec3285b8fe1bf5c677-1920x1080.png?format=jpeg&auto=webp&fit=bounds&width=2400&height=1260",
-      "categories": [
-        "anime"
-      ],
-      "works": [
-        "mushoku"
-      ],
-      "isPR": true,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": false
-    },
-    {
-      "id": "5022823c1899",
-      "title": "『無職転生 ～異世界行ったら本気だす～ クロニクル・オブ・エコーズ』、[幻惑の兎耳] ロキシーが期間限定で登場！さらに、生配信番組「クロエコ情報局 Vol.03」配信決定！",
-      "url": "https://www.inside-games.jp/release/prtimes/20261019/313435.html",
-      "host": "inside-games.jp",
-      "source": "インサイド",
-      "summary": "",
-      "publishedAt": "2026-10-19T06:00:00.000Z",
-      "image": "https://www.inside-games.jp/release/imgs/list/550514.png",
-      "categories": [
-        "anime"
-      ],
-      "works": [
-        "mushoku"
-      ],
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": false
-    },
-    {
-      "id": "d8b09cfb1190",
-      "title": "Ａｉｍｉｎｇ[3911]：スマートフォン向けゲーム『陰の実力者になりたくて！マスターオブガーデン』海外ライセンス契約締結に関するお知らせ 2026年10月19日(適時開示) ：日経会社情報DIGITAL",
-      "url": "https://www.nikkei.com/nkd/disclosure/tdnr/20261019552790/",
-      "host": "nikkei.com",
-      "source": "日本経済新聞",
-      "summary": "",
-      "publishedAt": "2026-10-19T06:00:00.000Z",
-      "image": "https://www.nikkei.com/nkd/disclosure/tdnr/20261019552790/thumbnail/?ttype=ogp",
-      "categories": [
-        "game"
-      ],
-      "works": [
-        "kagejitsu"
-      ],
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": false
-    },
-    {
-      "id": "a42f6d8b68a8",
-      "title": "転生貴族、鑑定スキルで成り上がる 第3期",
-      "url": "https://www.chiba-tv.com/vod-db/tensei-kizoku-s3-anime/",
-      "host": "chiba-tv.com",
-      "source": "千葉テレビ放送",
-      "summary": "",
-      "publishedAt": "2026-10-19T05:46:44.000Z",
-      "image": "https://www.chiba-tv.com/vod-db/wp-content/uploads/2026/09/eyecatch_tensei-kizoku-s3-anime.png",
-      "categories": [
-        "anime"
-      ],
-      "works": [
-        "tensei-kizoku"
-      ],
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": false
-    },
-    {
-      "id": "36880c305195",
-      "title": "アニメ『転生したら剣でしたII』はどこで見れる？サブスク・配信サービスを全調査 | VODB! by チバテレ",
-      "url": "https://www.chiba-tv.com/vod-db/tenken-s2-anime/",
-      "host": "chiba-tv.com",
-      "source": "千葉テレビ放送株式会社",
-      "summary": "",
-      "publishedAt": "2026-10-19T05:46:20.000Z",
-      "image": "https://www.chiba-tv.com/vod-db/wp-content/uploads/2026/09/eyecatch_tenken-s2-anime.png",
-      "categories": [
-        "anime"
-      ],
-      "works": [
-        "tenken"
       ],
       "isPR": false,
       "viaGoogle": false,
