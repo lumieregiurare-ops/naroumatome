@@ -1,18 +1,18 @@
 {
-  "updatedAt": "2026-10-22T07:30:19.433Z",
+  "updatedAt": "2026-10-22T08:00:19.831Z",
   "site": {
     "title": "なろう系まとめ",
     "tagline": "小説家になろう発の作品のアニメ化・コミカライズ・書籍化のニュースと、なろうのランキングをまとめています。",
     "url": "https://naroumatome.gamelab.website/",
     "contactUrl": "https://docs.google.com/forms/d/e/1FAIpQLSesWyhmZ6sRS_ve-c3X2KqF_wC5PK2TgwgQbTKmnQltSlg5Jw/viewform"
   },
-  "total": 108,
-  "todayCount": 21,
+  "total": 104,
+  "todayCount": 20,
   "categories": [
     {
       "id": "anime",
       "label": "アニメ",
-      "count": 58
+      "count": 55
     },
     {
       "id": "comic",
@@ -22,7 +22,7 @@
     {
       "id": "book",
       "label": "書籍・ラノベ",
-      "count": 9
+      "count": 8
     },
     {
       "id": "web",
@@ -37,7 +37,7 @@
     {
       "id": "goods",
       "label": "グッズ・イベント",
-      "count": 19
+      "count": 18
     },
     {
       "id": "other",
@@ -50,7 +50,7 @@
       "id": "tensura",
       "title": "転生したらスライムだった件",
       "short": "転スラ",
-      "count": 18
+      "count": 17
     },
     {
       "id": "mushoku",
@@ -74,7 +74,7 @@
       "id": "kusuriya",
       "title": "薬屋のひとりごと",
       "short": "薬屋",
-      "count": 29
+      "count": 28
     },
     {
       "id": "kagejitsu",
@@ -200,7 +200,7 @@
       "id": "silent-witch",
       "title": "サイレント・ウィッチ",
       "short": "サイレント・ウィッチ",
-      "count": 3
+      "count": 2
     },
     {
       "id": "kamitachi",
@@ -224,7 +224,7 @@
       "id": "tenken",
       "title": "転生したら剣でした",
       "short": "転剣",
-      "count": 1
+      "count": 2
     },
     {
       "id": "rupunana",
@@ -304,26 +304,14 @@
     },
     {
       "name": "Infoseek",
-      "count": 8
+      "count": 6
     },
     {
       "name": "GameWith",
       "count": 4
     },
     {
-      "name": "Dellows News",
-      "count": 4
-    },
-    {
-      "name": "山陽新聞",
-      "count": 4
-    },
-    {
       "name": "ナタリー",
-      "count": 3
-    },
-    {
-      "name": "まんたんウェブ",
       "count": 3
     },
     {
@@ -343,15 +331,27 @@
       "count": 3
     },
     {
+      "name": "PR TIMES",
+      "count": 3
+    },
+    {
+      "name": "Dellows News",
+      "count": 3
+    },
+    {
+      "name": "山陽新聞",
+      "count": 3
+    },
+    {
       "name": "Koubo",
       "count": 3
     },
     {
-      "name": "WEBザテレビジョン",
+      "name": "パチンコ・パチスロ情報島＋",
       "count": 2
     },
     {
-      "name": "パチンコ・パチスロ情報島＋",
+      "name": "まんたんウェブ",
       "count": 2
     },
     {
@@ -364,6 +364,10 @@
     },
     {
       "name": "Unisba Media",
+      "count": 2
+    },
+    {
+      "name": "千葉テレビ放送",
       "count": 2
     },
     {
@@ -403,6 +407,10 @@
       "count": 1
     },
     {
+      "name": "オタク総研",
+      "count": 1
+    },
+    {
       "name": "SmartNews",
       "count": 1
     },
@@ -416,10 +424,6 @@
     },
     {
       "name": "TVer",
-      "count": 1
-    },
-    {
-      "name": "GAME Watch",
       "count": 1
     },
     {
@@ -448,14 +452,6 @@
     },
     {
       "name": "株式会社ショーケース",
-      "count": 1
-    },
-    {
-      "name": "千葉テレビ放送",
-      "count": 1
-    },
-    {
-      "name": "PR TIMES",
       "count": 1
     },
     {
@@ -606,13 +602,6 @@
           "isPR": false
         },
         {
-          "title": "V、TVアニメ『Re:ゼロから始める異世界生活』コラボの公式3Dデジタルファッション制作に参画",
-          "url": "https://mantan-web.jp/prtimes/article/20261021prt00m200000592a/photopage/001.html",
-          "source": "まんたんウェブ",
-          "publishedAt": "2026-10-21T06:28:42.000Z",
-          "isPR": false
-        },
-        {
           "title": "ARROVA、Re:ゼロから始める異世界生活のVRChat向け衣装を10月発売へ",
           "url": "https://news.dellows.jp/827583/?from",
           "source": "Dellows News",
@@ -625,6 +614,13 @@
           "source": "Dellows News",
           "publishedAt": "2026-10-21T04:40:36.000Z",
           "isPR": false
+        },
+        {
+          "title": "V、TVアニメ『Re:ゼロから始める異世界生活』コラボの公式3Dデジタルファッション制作に参画",
+          "url": "https://prtimes.jp/main/html/rd/p/000000198.000049339.html",
+          "source": "PR TIMES",
+          "publishedAt": "2026-10-21T03:00:02.000Z",
+          "isPR": true
         }
       ]
     },
@@ -680,7 +676,7 @@
       "leadSource": "山陽新聞デジタル｜さんデジ",
       "publishedAt": "2026-10-21T18:26:33.000Z",
       "sourceCount": 3,
-      "articleCount": 5,
+      "articleCount": 4,
       "categories": [
         "anime"
       ],
@@ -705,53 +701,10 @@
           "isPR": false
         },
         {
-          "title": "『転スラ』リムル様、大忙し！ラミリスから緊急連絡 尊いミリムの表情…第84話あらすじ＆場面カット解禁",
-          "url": "https://www.sanyonews.jp/article/1942798?kw",
-          "source": "山陽新聞",
-          "publishedAt": "2026-10-19T20:48:16.000Z",
-          "isPR": false
-        },
-        {
           "title": "『転スラ』剣を交えるリムルとレオン！ルミナスも動く 第91話あらすじ＆場面カット解禁",
           "url": "https://www.sanyonews.jp/photo/detail?article_id",
           "source": "山陽新聞",
           "publishedAt": "2026-10-19T19:59:55.000Z",
-          "isPR": false
-        }
-      ]
-    },
-    {
-      "id": "1c57e7fcd71a",
-      "title": "ヨルシカの新曲「雲を抜け風下へ私だけ」ミュージックビデオが公開 「薬屋のひとりごと」第3期第1クールOPテーマの話題曲",
-      "summary": "",
-      "url": "https://thetv.jp/news/detail/1449176/18827490/",
-      "image": "https://thetv.jp/i/nw/1449176/18827490.jpg?w=1284",
-      "leadSource": "WEBザテレビジョン",
-      "publishedAt": "2026-10-22T05:00:03.000Z",
-      "sourceCount": 3,
-      "articleCount": 3,
-      "categories": [
-        "anime",
-        "goods"
-      ],
-      "keywords": [
-        "薬屋",
-        "ヨルシカ",
-        "風下"
-      ],
-      "articles": [
-        {
-          "title": "薬屋のひとりごと第3期、毎週金曜23時放送中——OPはヨルシカ「雲を抜け風下へ私だけ」",
-          "url": "https://hashout.jp/anime/13010/",
-          "source": "shiritomo",
-          "publishedAt": "2026-10-22T04:25:35.000Z",
-          "isPR": false
-        },
-        {
-          "title": "アニメ『薬屋のひとりごと』とのコラボカフェ第3弾の開催が決定！",
-          "url": "https://www.sweets-paradise.jp/collaboration/kusuriyanohitorigoto3",
-          "source": "公式スイーツパラダイス",
-          "publishedAt": "2026-10-21T23:09:12.000Z",
           "isPR": false
         }
       ]
@@ -962,6 +915,33 @@
       ]
     },
     {
+      "id": "3be0ade810fa",
+      "title": "薬屋のひとりごと第3期、毎週金曜23時放送中——OPはヨルシカ「雲を抜け風下へ私だけ」",
+      "summary": "",
+      "url": "https://hashout.jp/anime/13010/",
+      "image": "https://hashout.jp/wp-content/uploads/2026/10/2112686994748825620-img-1200x675.png",
+      "leadSource": "shiritomo",
+      "publishedAt": "2026-10-22T04:25:35.000Z",
+      "sourceCount": 2,
+      "articleCount": 2,
+      "categories": [
+        "anime",
+        "goods"
+      ],
+      "keywords": [
+        "薬屋"
+      ],
+      "articles": [
+        {
+          "title": "アニメ『薬屋のひとりごと』とのコラボカフェ第3弾の開催が決定！",
+          "url": "https://www.sweets-paradise.jp/collaboration/kusuriyanohitorigoto3",
+          "source": "公式スイーツパラダイス",
+          "publishedAt": "2026-10-21T23:09:12.000Z",
+          "isPR": false
+        }
+      ]
+    },
+    {
       "id": "6eb7c9431929",
       "title": "『劇場版 薬屋のひとりごと 亡妃の秘宝』デフォルメフィギュア「ぷちげき」に猫猫と壬氏が登場！愛らしい座りポーズで付属の椅子は連結可能！",
       "summary": "",
@@ -992,12 +972,12 @@
     }
   ],
   "churn": {
-    "previousAt": "2026-10-22T07:00:18.086Z",
-    "previousCount": 110,
-    "newCount": 3
+    "previousAt": "2026-10-22T07:30:19.433Z",
+    "previousCount": 108,
+    "newCount": 1
   },
   "updateGapMin": 30,
-  "nextUpdateAt": "2026-10-22T08:00:19.433Z",
+  "nextUpdateAt": "2026-10-22T08:30:19.831Z",
   "items": [
     {
       "id": "766ea0725422",
@@ -1058,26 +1038,6 @@
       "viaGoogle": false,
       "sourceKind": "news",
       "isNew": false
-    },
-    {
-      "id": "1c57e7fcd71a",
-      "title": "ヨルシカの新曲「雲を抜け風下へ私だけ」ミュージックビデオが公開 「薬屋のひとりごと」第3期第1クールOPテーマの話題曲",
-      "url": "https://thetv.jp/news/detail/1449176/18827490/",
-      "host": "thetv.jp",
-      "source": "WEBザテレビジョン",
-      "summary": "",
-      "publishedAt": "2026-10-22T05:00:03.000Z",
-      "image": "https://thetv.jp/i/nw/1449176/18827490.jpg?w=1284",
-      "categories": [
-        "anime"
-      ],
-      "works": [
-        "kusuriya"
-      ],
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": true
     },
     {
       "id": "3be0ade810fa",
@@ -1279,26 +1239,6 @@
       "isNew": false
     },
     {
-      "id": "daf9ae02a604",
-      "title": "無職転生、海外の人気が“トップティア”になっていた。『フリーレン』と僅差…海外アニメ配信サイトで40万クラブ入り (オタク総研)",
-      "url": "https://news.yahoo.co.jp/articles/85a3243172d1020875aad5ab8252bff9ced5c637/images/000",
-      "host": "news.yahoo.co.jp",
-      "source": "Yahoo!ニュース",
-      "summary": "",
-      "publishedAt": "2026-10-21T22:15:00.000Z",
-      "image": "https://news-pctr.c.yimg.jp/uUzvQ3lML_bkIqyakc1vFhNrRI0RUQxg5aFkrX0xDg1_T0wXrbEJjtNGtrf1o9y3xudcUclfbXjZqAvGT8NJnZgGaXYJPtnoQs1-nPvFcgUFuKKbr-qKd2dthUR0zdvLVL23ciiqGWoDTq19zc9IyK9kDYBIsguRF96frSMsrDnmQYwzGX3VYzHU_pvvxvl-zNvSaaKWdSR5GnAvkLp-tg==",
-      "categories": [
-        "anime"
-      ],
-      "works": [
-        "mushoku"
-      ],
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": false
-    },
-    {
       "id": "608450ae4dff",
       "title": "薬屋のひとりごと＞藤原夏海インタビュー 響迂から趙迂へ 第3期は明るく元気に “猫猫”悠木碧の愛 (MANTANWEB)",
       "url": "https://news.yahoo.co.jp/articles/335ca3006fe1d7d33d10682d180d547cdbe1e2d1/images/000",
@@ -1332,6 +1272,26 @@
       ],
       "works": [
         "kusuriya"
+      ],
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": false
+    },
+    {
+      "id": "daf9ae02a604",
+      "title": "無職転生、海外の人気が“トップティア”になっていた。『フリーレン』と僅差…海外アニメ配信サイトで40万クラブ入り",
+      "url": "https://0115765.com/archives/209268",
+      "host": "0115765.com",
+      "source": "オタク総研",
+      "summary": "",
+      "publishedAt": "2026-10-21T21:13:43.000Z",
+      "image": "https://0115765.com/wp-content/uploads/2026/07/20260718-yasq5sm0.jpg",
+      "categories": [
+        "anime"
+      ],
+      "works": [
+        "mushoku"
       ],
       "isPR": false,
       "viaGoogle": false,
@@ -1556,13 +1516,13 @@
     },
     {
       "id": "ef6b0847e007",
-      "title": "「薬屋のひとりごと ～偽りの皇弟～」の発売日が2027年3月18日に決定！ 猫猫たちが登場する新PVも公開",
-      "url": "https://game.watch.impress.co.jp/docs/news/2150129.html",
-      "host": "game.watch.impress.co.jp",
-      "source": "GAME Watch",
+      "title": "「薬屋のひとりごと ～偽りの皇弟～」の発売日が2027年3月18日に決定！ 猫猫たちが登場する新PVも公開 (GAME Watch)",
+      "url": "https://news.yahoo.co.jp/articles/fb9f24ee9dd990c9982de4cf3bd920b058e68648/images/000",
+      "host": "news.yahoo.co.jp",
+      "source": "Yahoo!ニュース",
       "summary": "",
-      "publishedAt": "2026-10-21T10:12:50.000Z",
-      "image": "https://game.watch.impress.co.jp/img/gmw/list/2150/129/1.jpg",
+      "publishedAt": "2026-10-21T10:12:00.000Z",
+      "image": "https://news-pctr.c.yimg.jp/uUzvQ3lML_bkIqyakc1vFhNrRI0RUQxg5aFkrX0xDg1_T0wXrbEJjtNGtrf1o9y3xudcUclfbXjZqAvGT8NJnXwlpoK45hX57kkwAE9oKZQlSyvmWpR8_KpYbIZxEKQxvaGScGZuAKXjEIP0tHubOGSJbDYU-JCx1u3BsUtwSMe5edgMB2ViblK8rb748Wpn",
       "categories": [
         "anime"
       ],
@@ -1774,19 +1734,19 @@
     },
     {
       "id": "fb1a69ab0dd3",
-      "title": "【SNSで話題沸騰】コミカライズ160万部突破の超人気シリーズに急展開！ 『〈完全版〉ＪＫハルは異世界で娼婦になった autumn』（新潮文庫nex）は10月28日発売です！｜Infoseekニュース",
-      "url": "https://news.infoseek.co.jp/article/prtimes_000003352_000047877/",
-      "host": "news.infoseek.co.jp",
-      "source": "Infoseek",
+      "title": "【SNSで話題沸騰】コミカライズ160万部突破の超人気シリーズに急展開！ 『〈完全版〉ＪＫハルは異世界で娼婦になった autumn』（新潮文庫nex）は10月28日発売です！",
+      "url": "https://prtimes.jp/main/html/rd/p/000003352.000047877.html",
+      "host": "prtimes.jp",
+      "source": "PR TIMES",
       "summary": "",
       "publishedAt": "2026-10-21T07:12:01.000Z",
-      "image": "https://media.image.infoseek.co.jp/isnews/pc/img/noimage_203x120_busi-econ-1.0.png",
+      "image": "https://prcdn.freetls.fastly.net/release_image/47877/3352/47877-3352-6890a87a173bcabe2d5c5f6e734c03f6-1462x2080.jpg?format=jpeg&auto=webp&fit=bounds&width=2400&height=1260",
       "categories": [
         "comic",
         "book"
       ],
       "works": [],
-      "isPR": false,
+      "isPR": true,
       "viaGoogle": false,
       "sourceKind": "news",
       "isNew": false
@@ -1800,27 +1760,6 @@
       "summary": "",
       "publishedAt": "2026-10-21T07:00:00.000Z",
       "image": "",
-      "categories": [
-        "anime",
-        "goods"
-      ],
-      "works": [
-        "rezero"
-      ],
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": false
-    },
-    {
-      "id": "9d0c501237e4",
-      "title": "V、TVアニメ『Re:ゼロから始める異世界生活』コラボの公式3Dデジタルファッション制作に参画",
-      "url": "https://mantan-web.jp/prtimes/article/20261021prt00m200000592a/photopage/001.html",
-      "host": "mantan-web.jp",
-      "source": "まんたんウェブ",
-      "summary": "",
-      "publishedAt": "2026-10-21T06:28:42.000Z",
-      "image": "https://prtimes.jp/img/49339/198/resize/d49339-198-5677ac84440653f47a24-0.png",
       "categories": [
         "anime",
         "goods"
@@ -1946,6 +1885,27 @@
         "tenken"
       ],
       "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": false
+    },
+    {
+      "id": "9d0c501237e4",
+      "title": "V、TVアニメ『Re:ゼロから始める異世界生活』コラボの公式3Dデジタルファッション制作に参画",
+      "url": "https://prtimes.jp/main/html/rd/p/000000198.000049339.html",
+      "host": "prtimes.jp",
+      "source": "PR TIMES",
+      "summary": "",
+      "publishedAt": "2026-10-21T03:00:02.000Z",
+      "image": "https://prcdn.freetls.fastly.net/release_image/49339/198/49339-198-a62939f1fa574e740b367bb1ff3121c0-1999x988.png?format=jpeg&auto=webp&fit=bounds&width=2400&height=1260",
+      "categories": [
+        "anime",
+        "goods"
+      ],
+      "works": [
+        "rezero"
+      ],
+      "isPR": true,
       "viaGoogle": false,
       "sourceKind": "news",
       "isNew": false
@@ -2436,7 +2396,7 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "2048c987c3af",
@@ -2471,24 +2431,6 @@
       "works": [
         "rezero"
       ],
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": false
-    },
-    {
-      "id": "d55534a914e0",
-      "title": "累計100万部突破記念!! スペシャル企画始動!『追放された転生貴族、外れスキルで内政無双』9巻 10月23日(金)発売",
-      "url": "https://news.infoseek.co.jp/article/prtimes_000002285_000000607/",
-      "host": "news.infoseek.co.jp",
-      "source": "Infoseek",
-      "summary": "",
-      "publishedAt": "2026-10-20T04:10:00.000Z",
-      "image": "https://media.image.infoseek.co.jp/isnews/pc/img/noimage_203x120_busi-econ-1.0.png",
-      "categories": [
-        "book"
-      ],
-      "works": [],
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
@@ -2571,24 +2513,6 @@
       "works": [
         "rezero"
       ],
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": false
-    },
-    {
-      "id": "155e519959cd",
-      "title": "＜転生重騎士＞エルマはマスターの存在進化への危機感から、ギルド長への面会を打診する…第17話あらすじ＆場面カット公開",
-      "url": "https://thetv.jp/news/detail/1450128/p2/",
-      "host": "thetv.jp",
-      "source": "WEBザテレビジョン",
-      "summary": "",
-      "publishedAt": "2026-10-20T03:00:42.000Z",
-      "image": "https://thetv.jp/i/nw/1450128/18860013.jpg?w=1284",
-      "categories": [
-        "anime"
-      ],
-      "works": [],
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
@@ -2697,12 +2621,12 @@
     {
       "id": "092199e74ed7",
       "title": "リゼロに無職転生…豊作だった夏アニメ、レビュワーが選ぶ“満足度ランキング”上位は？最終話前の『BLEACH』上回る注目作も",
-      "url": "https://news.yahoo.co.jp/articles/05536d1c4246481252338e91fbaa0c01daffc77a/images/000",
+      "url": "https://news.yahoo.co.jp/articles/05536d1c4246481252338e91fbaa0c01daffc77a",
       "host": "news.yahoo.co.jp",
       "source": "Yahoo!ニュース",
       "summary": "",
       "publishedAt": "2026-10-20T02:36:00.000Z",
-      "image": "https://news-pctr.c.yimg.jp/uUzvQ3lML_bkIqyakc1vFhNrRI0RUQxg5aFkrX0xDg1_T0wXrbEJjtNGtrf1o9y3xudcUclfbXjZqAvGT8NJnZjpZsMCs_hSK9j6YMZkH8HMPX_SNKVUrddqmILcE_zmAsbpWF3qwci5P6I1830En-5qrmw3GYTJ6A7L7G34VCGKMw9pjr8KBt8fkLjXGypvQEEepUUn0uDzlO9qSE1f0A==",
+      "image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20261020-00113600-otakulab-000-299-view.jpg?exp=10800",
       "categories": [
         "anime",
         "web"
@@ -2871,26 +2795,6 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": true
-    },
-    {
-      "id": "2373c0692c7f",
-      "title": "『転スラ』リムル様、大忙し！ラミリスから緊急連絡 尊いミリムの表情…第84話あらすじ＆場面カット解禁",
-      "url": "https://www.sanyonews.jp/article/1942798?kw",
-      "host": "sanyonews.jp",
-      "source": "山陽新聞",
-      "summary": "",
-      "publishedAt": "2026-10-19T20:48:16.000Z",
-      "image": "https://static.sanyonews.jp/image/article/size1/6/5/0/1/6501ce6b09cb9464f23235f99fbe6a7f_1.jpg",
-      "categories": [
-        "anime"
-      ],
-      "works": [
-        "tensura"
-      ],
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
       "isNew": false
     },
     {
@@ -2994,27 +2898,6 @@
       "isNew": false
     },
     {
-      "id": "5d303ce48491",
-      "title": "サイレント・ウィッチ刊行5周年POP UP SHOPが新宿で開催へ くじも展開予定",
-      "url": "https://news.dellows.jp/676771/",
-      "host": "news.dellows.jp",
-      "source": "Dellows News",
-      "summary": "",
-      "publishedAt": "2026-10-19T13:27:17.000Z",
-      "image": "https://news.dellows.jp/wp-content/uploads/2026/10/676771_1.jpg",
-      "categories": [
-        "anime",
-        "goods"
-      ],
-      "works": [
-        "silent-witch"
-      ],
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": false
-    },
-    {
       "id": "5022823c1899",
       "title": "『無職転生 ～異世界行ったら本気だす～ クロニクル・オブ・エコーズ』、[幻惑の兎耳]",
       "url": "https://news.nicovideo.jp/watch/nw19895494",
@@ -3072,6 +2955,26 @@
       "viaGoogle": false,
       "sourceKind": "news",
       "isNew": false
+    },
+    {
+      "id": "36880c305195",
+      "title": "アニメ『転生したら剣でしたII』はどこで見れる？サブスク・配信サービスを全調査 | VODB! by チバテレ",
+      "url": "https://www.chiba-tv.com/vod-db/tenken-s2-anime/",
+      "host": "chiba-tv.com",
+      "source": "千葉テレビ放送",
+      "summary": "",
+      "publishedAt": "2026-10-19T10:00:00.000Z",
+      "image": "https://www.chiba-tv.com/vod-db/wp-content/uploads/2026/09/eyecatch_tenken-s2-anime.png",
+      "categories": [
+        "anime"
+      ],
+      "works": [
+        "tenken"
+      ],
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": true
     },
     {
       "id": "c262a1f8d5e7",
