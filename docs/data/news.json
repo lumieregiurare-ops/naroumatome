@@ -1,18 +1,18 @@
 {
-  "updatedAt": "2026-10-23T10:00:18.951Z",
+  "updatedAt": "2026-10-23T10:30:16.951Z",
   "site": {
     "title": "なろう系まとめ",
     "tagline": "小説家になろう発の作品のアニメ化・コミカライズ・書籍化のニュースと、なろうのランキングをまとめています。",
     "url": "https://naroumatome.gamelab.website/",
     "contactUrl": "https://docs.google.com/forms/d/e/1FAIpQLSesWyhmZ6sRS_ve-c3X2KqF_wC5PK2TgwgQbTKmnQltSlg5Jw/viewform"
   },
-  "total": 101,
-  "todayCount": 42,
+  "total": 104,
+  "todayCount": 46,
   "categories": [
     {
       "id": "anime",
       "label": "アニメ",
-      "count": 58
+      "count": 60
     },
     {
       "id": "comic",
@@ -22,17 +22,17 @@
     {
       "id": "book",
       "label": "書籍・ラノベ",
-      "count": 9
+      "count": 11
     },
     {
       "id": "web",
       "label": "Web小説・賞",
-      "count": 3
+      "count": 5
     },
     {
       "id": "game",
       "label": "ゲーム",
-      "count": 6
+      "count": 7
     },
     {
       "id": "goods",
@@ -42,7 +42,7 @@
     {
       "id": "other",
       "label": "そのほか",
-      "count": 21
+      "count": 20
     }
   ],
   "works": [
@@ -62,7 +62,7 @@
       "id": "rezero",
       "title": "Re:ゼロから始める異世界生活",
       "short": "リゼロ",
-      "count": 16
+      "count": 17
     },
     {
       "id": "honzuki",
@@ -74,7 +74,7 @@
       "id": "kusuriya",
       "title": "薬屋のひとりごと",
       "short": "薬屋",
-      "count": 37
+      "count": 38
     },
     {
       "id": "kagejitsu",
@@ -308,22 +308,30 @@
     },
     {
       "name": "GameWith",
-      "count": 8
+      "count": 9
     },
     {
       "name": "Dellows News",
-      "count": 5
+      "count": 4
     },
     {
-      "name": "ニコニコニュース",
+      "name": "ｄメニューニュース",
       "count": 3
+    },
+    {
+      "name": "オリコンニュース",
+      "count": 3
+    },
+    {
+      "name": "ABEMA TIMES",
+      "count": 2
     },
     {
       "name": "ナタリー",
       "count": 2
     },
     {
-      "name": "PR TIMES",
+      "name": "ABEMA",
       "count": 2
     },
     {
@@ -331,11 +339,7 @@
       "count": 2
     },
     {
-      "name": "ｄメニューニュース",
-      "count": 2
-    },
-    {
-      "name": "オリコンニュース",
+      "name": "まんたんウェブ",
       "count": 2
     },
     {
@@ -347,7 +351,11 @@
       "count": 2
     },
     {
-      "name": "まんたんウェブ",
+      "name": "ニコニコニュース",
+      "count": 2
+    },
+    {
+      "name": "Howl.link",
       "count": 2
     },
     {
@@ -365,6 +373,10 @@
     {
       "name": "ファミ通.com",
       "count": 2
+    },
+    {
+      "name": "Rolling Stone Japan(ローリングストーン ジャパン）",
+      "count": 1
     },
     {
       "name": "電撃オンライン",
@@ -395,6 +407,10 @@
       "count": 1
     },
     {
+      "name": "Gamer",
+      "count": 1
+    },
+    {
       "name": "ファッションプレス",
       "count": 1
     },
@@ -403,23 +419,7 @@
       "count": 1
     },
     {
-      "name": "インサイド",
-      "count": 1
-    },
-    {
-      "name": "OTOTOY",
-      "count": 1
-    },
-    {
       "name": "PASH! PLUS",
-      "count": 1
-    },
-    {
-      "name": "Gamer",
-      "count": 1
-    },
-    {
-      "name": "ABEMA",
       "count": 1
     },
     {
@@ -443,15 +443,15 @@
       "count": 1
     },
     {
-      "name": "Howl.link",
-      "count": 1
-    },
-    {
       "name": "TVer",
       "count": 1
     },
     {
       "name": "ライブドアニュース",
+      "count": 1
+    },
+    {
+      "name": "Infoseek",
       "count": 1
     },
     {
@@ -463,7 +463,7 @@
       "count": 1
     },
     {
-      "name": "ABEMA TIMES",
+      "name": "PR TIMES",
       "count": 1
     }
   ],
@@ -477,7 +477,7 @@
       "leadSource": "アニメ！アニメ！",
       "publishedAt": "2026-10-23T09:00:00.000Z",
       "sourceCount": 8,
-      "articleCount": 9,
+      "articleCount": 12,
       "categories": [
         "anime",
         "book"
@@ -485,7 +485,7 @@
       "keywords": [
         "薬屋",
         "劇場版",
-        "主題歌"
+        "亡妃"
       ],
       "articles": [
         {
@@ -510,10 +510,31 @@
           "isPR": false
         },
         {
+          "title": "一番くじ『劇場版 薬屋のひとりごと 亡妃の秘宝』全ラインナップ公開！猫猫＆壬氏のフィギュアが登場",
+          "url": "https://www.toy-people.com/jp/?p",
+          "source": "玩具人 TOY PEOPLE",
+          "publishedAt": "2026-10-23T05:33:48.000Z",
+          "isPR": false
+        },
+        {
+          "title": "一番くじ『劇場版 薬屋のひとりごと 亡妃の秘宝』全ラインナップ公開！ビッグアクリルスタンドやきららいずマスコット、ラバーコレクションなどが登場！",
+          "url": "https://hobby.dengeki.com/news/3206074/",
+          "source": "電撃ホビーウェブ",
+          "publishedAt": "2026-10-23T04:45:00.000Z",
+          "isPR": false
+        },
+        {
           "title": "米津玄師、書き下ろし楽曲「春が灯り」が『劇場版 薬屋のひとりごと 亡妃の秘宝』主題歌に決定（CDJournal）",
           "url": "https://news.yahoo.co.jp/articles/204fe15e3fdbfb33c1fa5398b8ba83593281e933",
           "source": "Yahoo!ニュース",
           "publishedAt": "2026-10-23T04:26:11.000Z",
+          "isPR": false
+        },
+        {
+          "title": "「また散財だ」『劇場版 薬屋のひとりごと』一番くじ全ラインナップ公開 争奪戦必至？",
+          "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOLXBPYjBmQmtBSjFZQTNSNVdkMFNVNlY2UThWZXk3clJfWWk4TFBnSmNvakxoQi1vMUJXSkxYYmJvcWljcEoxVTZKckRtNWVfbUJIYkdTelBfdGlTZ2xBa0pqQldWcVR2aEdJel9RMlBfNkR1QXExZnprLWxEbTJrOVUwVG16LXR10gGEAUFVX3lxTFBydVlZMmcyb3otN2hPRlFHTDFjTGREaVJ3RmdmcUJydmNnT2I1Q3M2R3hwMkE3bWI3TUxsUzVLaW5sczlOVXRyeV8wMTVPUEFTdTVnVUhiaVhkb1BSWnBXR2NsTERWWUdNVWJDZ1RqM2VrMW5jbzZhbWhxdkZ6NmUtdlFxbg?oc=5",
+          "source": "ｄメニューニュース",
+          "publishedAt": "2026-10-23T03:40:00.000Z",
           "isPR": false
         },
         {
@@ -522,26 +543,61 @@
           "source": "ファッションプレス",
           "publishedAt": "2026-10-23T03:00:51.000Z",
           "isPR": false
-        },
+        }
+      ]
+    },
+    {
+      "id": "61374bcaa541",
+      "title": "薬屋のひとりごと＞第52話「最後の一冊」 翠苓に会いに阿多の屋敷へ “ある人物”が残していた手掛かり（MANTANWEB）",
+      "summary": "",
+      "url": "https://news.yahoo.co.jp/articles/69a2b0918dbdd0e4456d8da0e5bfa9316979ac57",
+      "image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20261023-00000030-mantan-000-1-view.jpg?exp=10800",
+      "leadSource": "Yahoo!ニュース",
+      "publishedAt": "2026-10-23T03:09:00.000Z",
+      "sourceCount": 6,
+      "articleCount": 6,
+      "categories": [
+        "anime"
+      ],
+      "keywords": [
+        "薬屋",
+        "阿多",
+        "最後"
+      ],
+      "articles": [
         {
-          "title": "『劇場版 薬屋のひとりごと』主題歌は米津玄師「春が灯り」 新予告＆新ビジュアルも（リアルサウンド）",
-          "url": "https://news.yahoo.co.jp/articles/dc553b09300938de184d10504367a699fc9380e9",
-          "source": "Yahoo!ニュース",
-          "publishedAt": "2026-10-23T02:51:44.000Z",
+          "title": "アニメ『薬屋のひとりごと』猫猫は蝗害対策の手掛かりとなる一冊の行方を求めて元四夫人・阿多の屋敷を訪問する。第52話「最後の一冊」あらすじ＆先行カット",
+          "url": "https://www.pashplus.jp/anime/499913/",
+          "source": "PASH! PLUS",
+          "publishedAt": "2026-10-22T22:36:17.000Z",
           "isPR": false
         },
         {
-          "title": "米津玄師、〈劇場版 薬屋のひとりごと〉主題歌に「春が灯り」書きおろし",
-          "url": "https://ototoy.jp/news/132404",
-          "source": "OTOTOY",
-          "publishedAt": "2026-10-23T01:00:00.000Z",
-          "isPR": false
-        },
-        {
-          "title": "劇場版 薬屋のひとりごと 亡妃の秘宝：主題歌は米津玄師 伏線ちりばめられたキービジュアル公開 予告映像に意味深なセリフも",
-          "url": "https://mantan-web.jp/article/20261022dog00m200063000a.html",
+          "title": "薬屋のひとりごと：第52話「最後の一冊」 翠苓に会いに阿多の屋敷へ “ある人物”が残していた手掛かり",
+          "url": "https://mantan-web.jp/article/20261022dog00m200067000a.html",
           "source": "まんたんウェブ",
-          "publishedAt": "2026-10-22T11:30:54.000Z",
+          "publishedAt": "2026-10-22T21:22:02.000Z",
+          "isPR": false
+        },
+        {
+          "title": "『薬屋のひとりごと』阿多を訪ねた猫猫、手掛かりに気づく 第52話あらすじ＆場面カット公開",
+          "url": "https://www.oricon.co.jp/news/2488159/",
+          "source": "オリコンニュース",
+          "publishedAt": "2026-10-22T21:16:03.000Z",
+          "isPR": false
+        },
+        {
+          "title": "『薬屋のひとりごと』第52話「最後の一冊」あらすじ＆先行カット公開 - 猫猫が元四夫人・阿多の元を訪れる",
+          "url": "https://news.mynavi.jp/article/20261023-5176079/",
+          "source": "マイナビニュース",
+          "publishedAt": "2026-10-22T21:10:17.000Z",
+          "isPR": false
+        },
+        {
+          "title": "アニメ『転生したら剣でしたII』第3話「アンデッドはガチガチでした」のあらすじ＆先行カット解禁",
+          "url": "https://ln-news.com/articles/126997",
+          "source": "ラノベニュースオンライン",
+          "publishedAt": "2026-10-21T04:00:00.000Z",
           "isPR": false
         }
       ]
@@ -635,91 +691,6 @@
           "url": "https://mantan-web.jp/article/20261020dog00m200091000a.html",
           "source": "まんたんウェブ",
           "publishedAt": "2026-10-21T22:01:41.000Z",
-          "isPR": false
-        }
-      ]
-    },
-    {
-      "id": "f31f909d22ac",
-      "title": "「また散財だ」『劇場版 薬屋のひとりごと』一番くじ全ラインナップ公開 争奪戦必至？ (マグミクス)",
-      "summary": "",
-      "url": "https://news.yahoo.co.jp/articles/59c8e943310f3493b3126c0b5365d9ffe8a04b95/images/000",
-      "image": "https://news-pctr.c.yimg.jp/uUzvQ3lML_bkIqyakc1vFhNrRI0RUQxg5aFkrX0xDg1_T0wXrbEJjtNGtrf1o9y3xudcUclfbXjZqAvGT8NJnfYl0EOaF78QBOvDaczPheExb1FgpLKPEx7HSdcc7TgNRjKCp9O25GP13-06GmbJ1nSiSfHCETiD0spMpcH5KdQgs7OUXFhauRt91quaL34zINCTaHOXYsCMdPJ7TMmzFQ==",
-      "leadSource": "Yahoo!ニュース",
-      "publishedAt": "2026-10-23T07:56:31.000Z",
-      "sourceCount": 4,
-      "articleCount": 4,
-      "categories": [
-        "anime",
-        "goods"
-      ],
-      "keywords": [
-        "薬屋",
-        "ラインナップ",
-        "劇場版"
-      ],
-      "articles": [
-        {
-          "title": "一番くじ『劇場版 薬屋のひとりごと 亡妃の秘宝』全ラインナップ公開！猫猫＆壬氏のフィギュアが登場",
-          "url": "https://www.toy-people.com/jp/?p",
-          "source": "玩具人 TOY PEOPLE",
-          "publishedAt": "2026-10-23T05:33:48.000Z",
-          "isPR": false
-        },
-        {
-          "title": "一番くじ『劇場版 薬屋のひとりごと 亡妃の秘宝』全ラインナップ公開！ビッグアクリルスタンドやきららいずマスコット、ラバーコレクションなどが登場！",
-          "url": "https://hobby.dengeki.com/news/3206074/",
-          "source": "電撃ホビーウェブ",
-          "publishedAt": "2026-10-23T04:45:00.000Z",
-          "isPR": false
-        },
-        {
-          "title": "「薬屋のひとりごと」新作一番くじの全ラインナップ公開！劇場版衣装の「猫猫」「壬氏」が、世界観をプラスした“新ブランド”で立体化",
-          "url": "https://www.inside-games.jp/article/2026/10/23/189671.html",
-          "source": "インサイド",
-          "publishedAt": "2026-10-23T01:30:03.000Z",
-          "isPR": false
-        }
-      ]
-    },
-    {
-      "id": "61374bcaa541",
-      "title": "薬屋のひとりごと＞第52話「最後の一冊」 翠苓に会いに阿多の屋敷へ “ある人物”が残していた手掛かり（MANTANWEB）",
-      "summary": "",
-      "url": "https://news.yahoo.co.jp/articles/69a2b0918dbdd0e4456d8da0e5bfa9316979ac57",
-      "image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20261023-00000030-mantan-000-1-view.jpg?exp=10800",
-      "leadSource": "Yahoo!ニュース",
-      "publishedAt": "2026-10-23T03:09:00.000Z",
-      "sourceCount": 4,
-      "articleCount": 4,
-      "categories": [
-        "anime"
-      ],
-      "keywords": [
-        "薬屋",
-        "最後",
-        "一冊"
-      ],
-      "articles": [
-        {
-          "title": "アニメ『薬屋のひとりごと』猫猫は蝗害対策の手掛かりとなる一冊の行方を求めて元四夫人・阿多の屋敷を訪問する。第52話「最後の一冊」あらすじ＆先行カット",
-          "url": "https://www.pashplus.jp/anime/499913/",
-          "source": "PASH! PLUS",
-          "publishedAt": "2026-10-22T22:36:17.000Z",
-          "isPR": false
-        },
-        {
-          "title": "『薬屋のひとりごと』第52話「最後の一冊」あらすじ＆先行カット公開 - 猫猫が元四夫人・阿多の元を訪れる",
-          "url": "https://news.mynavi.jp/article/20261023-5176079/",
-          "source": "マイナビニュース",
-          "publishedAt": "2026-10-22T21:10:17.000Z",
-          "isPR": false
-        },
-        {
-          "title": "アニメ『転生したら剣でしたII』第3話「アンデッドはガチガチでした」のあらすじ＆先行カット解禁",
-          "url": "https://ln-news.com/articles/126997",
-          "source": "ラノベニュースオンライン",
-          "publishedAt": "2026-10-21T04:00:00.000Z",
           "isPR": false
         }
       ]
@@ -829,16 +800,16 @@
       ],
       "articles": [
         {
-          "title": "TVアニメ『転生貴族、鑑定スキルで成り上がる 第3期』10月25日（日）夜11時30分～放送の第29話（第3期5話目）あらすじ＆先行カット公開！",
-          "url": "https://prtimes.jp/main/html/rd/p/000009829.000014827.html",
-          "source": "PR TIMES",
-          "publishedAt": "2026-10-23T08:00:01.000Z",
-          "isPR": true
-        },
-        {
           "title": "『転生貴族、鑑定スキルで成り上がる 第3期』第29話（第3期5話目）「バサマークの最期」のあらすじ＆先行場面カットが公開！",
           "url": "https://www.animatetimes.com/news/details.php?id",
           "source": "アニメイトタイムズ",
+          "publishedAt": "2026-10-23T08:00:00.000Z",
+          "isPR": false
+        },
+        {
+          "title": "TVアニメ『転生貴族、鑑定スキルで成り上がる 第3期』10月25日（日）夜11時30分～放送の第29話（第3期5話目）あらすじ＆先行カット公開！ - PR TIMES",
+          "url": "https://animeanime.jp/release/prtimes/20261023/322041.html",
+          "source": "アニメ！アニメ！",
           "publishedAt": "2026-10-23T08:00:00.000Z",
           "isPR": false
         }
@@ -866,9 +837,9 @@
       "articles": [
         {
           "title": "「陰の実力者になりたくて！マスターオブガーデン」SS確定ガチャチケットなどが手に入るチャンス！総力決戦～phase0～キャンペーンが開催",
-          "url": "https://www.gamer.ne.jp/news/202610220048/image/8/",
+          "url": "https://www.gamer.ne.jp/news/202610220048/image/1/",
           "source": "Gamer",
-          "publishedAt": "2026-10-22T16:27:51.000Z",
+          "publishedAt": "2026-10-23T03:41:58.000Z",
           "isPR": false
         },
         {
@@ -889,7 +860,7 @@
       "leadSource": "Yahoo!ニュース",
       "publishedAt": "2026-10-23T03:00:00.000Z",
       "sourceCount": 2,
-      "articleCount": 3,
+      "articleCount": 2,
       "categories": [
         "anime",
         "book"
@@ -905,13 +876,6 @@
           "url": "https://www.oricon.co.jp/news/2488187/photo/6/",
           "source": "オリコンニュース",
           "publishedAt": "2026-10-22T13:46:11.000Z",
-          "isPR": false
-        },
-        {
-          "title": "『劇場版 薬屋のひとりごと』7つの最新情報が一挙解禁！ 完成披露試写会や金ロー特別版の放送も（ぴあ）",
-          "url": "https://news.yahoo.co.jp/articles/ce83e0bd6738a98bb34ec014c1d6e563e88e2a34",
-          "source": "Yahoo!ニュース",
-          "publishedAt": "2026-10-22T12:11:19.000Z",
           "isPR": false
         }
       ]
@@ -943,44 +907,37 @@
           "isPR": false
         }
       ]
-    },
-    {
-      "id": "fb1a69ab0dd3",
-      "title": "【SNSで話題沸騰】コミカライズ160万部突破の超人気シリーズに急展開！ 『〈完全版〉ＪＫハルは異世界で娼婦になった",
-      "summary": "",
-      "url": "https://news.nicovideo.jp/watch/nw19904139?news_ref",
-      "image": "https://news.dellows.jp/wp-content/uploads/2026/10/833621_1.jpg",
-      "leadSource": "ニコニコニュース",
-      "publishedAt": "2026-10-21T17:30:25.000Z",
-      "sourceCount": 2,
-      "articleCount": 2,
-      "categories": [
-        "comic",
-        "other"
-      ],
-      "keywords": [
-        "完全版",
-        "娼婦"
-      ],
-      "articles": [
-        {
-          "title": "完全新作〈完全版〉ＪＫハルは異世界で娼婦になった autumnが10月28日発売へ",
-          "url": "https://news.dellows.jp/833621/?from",
-          "source": "Dellows News",
-          "publishedAt": "2026-10-21T07:42:04.000Z",
-          "isPR": false
-        }
-      ]
     }
   ],
   "churn": {
-    "previousAt": "2026-10-23T09:30:17.238Z",
-    "previousCount": 99,
+    "previousAt": "2026-10-23T10:00:18.951Z",
+    "previousCount": 101,
     "newCount": 8
   },
   "updateGapMin": 30,
-  "nextUpdateAt": "2026-10-23T10:30:18.951Z",
+  "nextUpdateAt": "2026-10-23T11:00:16.951Z",
   "items": [
+    {
+      "id": "8b57b1cc0a00",
+      "title": "「眼鏡かけてる壬氏助かる」「オリキャラ良すぎる！」ゲーム『薬屋のひとりごと ～偽りの皇弟～』新キャラ＆声優判明のPV第2弾解禁に期待の声 | アニメニュース | アニメフリークス",
+      "url": "https://times.abema.tv/articles/-/10282972",
+      "host": "times.abema.tv",
+      "source": "ABEMA TIMES",
+      "summary": "",
+      "publishedAt": "2026-10-23T10:13:00.000Z",
+      "image": "https://times-abema.ismcdn.jp/mwimgs/7/9/1200w/img_79d99d59b9a30ad58f06c39a66617534180640.jpg",
+      "categories": [
+        "anime",
+        "game"
+      ],
+      "works": [
+        "kusuriya"
+      ],
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": true
+    },
     {
       "id": "9d7724b29fde",
       "title": "アニメ『転生貴族、鑑定スキルで成り上がる 第3期』第29話「バサマークの最期」のあらすじ＆先行カット解禁",
@@ -995,6 +952,26 @@
       ],
       "works": [
         "tensei-kizoku"
+      ],
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": false
+    },
+    {
+      "id": "82eb0e49ecd1",
+      "title": "Eve、TVアニメ『薬屋のひとりごと』EDテーマ表題の新EPリリース決定 - Rolling Stone Japan(ローリングストーン ジャパン）",
+      "url": "https://rollingstonejapan.com/articles/detail/45650",
+      "host": "rollingstonejapan.com",
+      "source": "Rolling Stone Japan(ローリングストーン ジャパン）",
+      "summary": "",
+      "publishedAt": "2026-10-23T10:00:00.000Z",
+      "image": "",
+      "categories": [
+        "anime"
+      ],
+      "works": [
+        "kusuriya"
       ],
       "isPR": false,
       "viaGoogle": false,
@@ -1017,7 +994,7 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "48cd61f38b7d",
@@ -1035,7 +1012,7 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "e938301bbfd4",
@@ -1120,6 +1097,24 @@
       "isNew": false
     },
     {
+      "id": "048856b88e3c",
+      "title": "異世界・ファンタジーアニメ4チャンネル | 無料で放送中の番組や配信中の話題作が見放題",
+      "url": "https://abema.tv/now-on-air/isekai-anime-4",
+      "host": "abema.tv",
+      "source": "ABEMA",
+      "summary": "",
+      "publishedAt": "2026-10-23T08:31:47.000Z",
+      "image": "",
+      "categories": [
+        "anime"
+      ],
+      "works": [],
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": true
+    },
+    {
       "id": "4862886090ee",
       "title": "全世界シリーズ累計5,700万部突破『薬屋のひとりごと』の新エピソードが小説・漫画・映画に！ 日向夏による完全新作小説『小説 薬屋のひとりごと 亡妃の秘宝』は、12月9日発売決定！",
       "url": "https://www.jiji.com/jc/article?k",
@@ -1161,26 +1156,6 @@
       "isNew": false
     },
     {
-      "id": "a71f95a21deb",
-      "title": "TVアニメ『転生貴族、鑑定スキルで成り上がる 第3期』10月25日（日）夜11時30分～放送の第29話（第3期5話目）あらすじ＆先行カット公開！",
-      "url": "https://prtimes.jp/main/html/rd/p/000009829.000014827.html",
-      "host": "prtimes.jp",
-      "source": "PR TIMES",
-      "summary": "",
-      "publishedAt": "2026-10-23T08:00:01.000Z",
-      "image": "https://prcdn.freetls.fastly.net/release_image/14827/9829/14827-9829-55c1051cbefe7107c863f702e556bc0d-1920x1080.jpg?format=jpeg&auto=webp&fit=bounds&width=2400&height=1260",
-      "categories": [
-        "anime"
-      ],
-      "works": [
-        "tensei-kizoku"
-      ],
-      "isPR": true,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": false
-    },
-    {
       "id": "58492d3f897b",
       "title": "『転生貴族、鑑定スキルで成り上がる 第3期』第29話（第3期5話目）「バサマークの最期」のあらすじ＆先行場面カットが公開！",
       "url": "https://www.animatetimes.com/news/details.php?id",
@@ -1198,23 +1173,22 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": true
+      "isNew": false
     },
     {
-      "id": "f31f909d22ac",
-      "title": "「また散財だ」『劇場版 薬屋のひとりごと』一番くじ全ラインナップ公開 争奪戦必至？ (マグミクス)",
-      "url": "https://news.yahoo.co.jp/articles/59c8e943310f3493b3126c0b5365d9ffe8a04b95/images/000",
-      "host": "news.yahoo.co.jp",
-      "source": "Yahoo!ニュース",
+      "id": "a71f95a21deb",
+      "title": "TVアニメ『転生貴族、鑑定スキルで成り上がる 第3期』10月25日（日）夜11時30分～放送の第29話（第3期5話目）あらすじ＆先行カット公開！ - PR TIMES",
+      "url": "https://animeanime.jp/release/prtimes/20261023/322041.html",
+      "host": "animeanime.jp",
+      "source": "アニメ！アニメ！",
       "summary": "",
-      "publishedAt": "2026-10-23T07:56:31.000Z",
-      "image": "https://news-pctr.c.yimg.jp/uUzvQ3lML_bkIqyakc1vFhNrRI0RUQxg5aFkrX0xDg1_T0wXrbEJjtNGtrf1o9y3xudcUclfbXjZqAvGT8NJnfYl0EOaF78QBOvDaczPheExb1FgpLKPEx7HSdcc7TgNRjKCp9O25GP13-06GmbJ1nSiSfHCETiD0spMpcH5KdQgs7OUXFhauRt91quaL34zINCTaHOXYsCMdPJ7TMmzFQ==",
+      "publishedAt": "2026-10-23T08:00:00.000Z",
+      "image": "https://animeanime.jp/release/imgs/list/566433.jpg",
       "categories": [
-        "anime",
-        "goods"
+        "anime"
       ],
       "works": [
-        "kusuriya"
+        "tensei-kizoku"
       ],
       "isPR": false,
       "viaGoogle": false,
@@ -1406,6 +1380,47 @@
       "isNew": false
     },
     {
+      "id": "949ecf2d3ba5",
+      "title": "「陰の実力者になりたくて！マスターオブガーデン」SS確定ガチャチケットなどが手に入るチャンス！総力決戦～phase0～キャンペーンが開催",
+      "url": "https://www.gamer.ne.jp/news/202610220048/image/1/",
+      "host": "gamer.ne.jp",
+      "source": "Gamer",
+      "summary": "",
+      "publishedAt": "2026-10-23T03:41:58.000Z",
+      "image": "",
+      "categories": [
+        "game"
+      ],
+      "works": [
+        "kagejitsu"
+      ],
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": false
+    },
+    {
+      "id": "f31f909d22ac",
+      "title": "「また散財だ」『劇場版 薬屋のひとりごと』一番くじ全ラインナップ公開 争奪戦必至？",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOLXBPYjBmQmtBSjFZQTNSNVdkMFNVNlY2UThWZXk3clJfWWk4TFBnSmNvakxoQi1vMUJXSkxYYmJvcWljcEoxVTZKckRtNWVfbUJIYkdTelBfdGlTZ2xBa0pqQldWcVR2aEdJel9RMlBfNkR1QXExZnprLWxEbTJrOVUwVG16LXR10gGEAUFVX3lxTFBydVlZMmcyb3otN2hPRlFHTDFjTGREaVJ3RmdmcUJydmNnT2I1Q3M2R3hwMkE3bWI3TUxsUzVLaW5sczlOVXRyeV8wMTVPUEFTdTVnVUhiaVhkb1BSWnBXR2NsTERWWUdNVWJDZ1RqM2VrMW5jbzZhbWhxdkZ6NmUtdlFxbg?oc=5",
+      "host": "topics.smt.docomo.ne.jp",
+      "source": "ｄメニューニュース",
+      "summary": "",
+      "publishedAt": "2026-10-23T03:40:00.000Z",
+      "image": "",
+      "categories": [
+        "anime",
+        "goods"
+      ],
+      "works": [
+        "kusuriya"
+      ],
+      "isPR": false,
+      "viaGoogle": true,
+      "sourceKind": "news",
+      "isNew": false
+    },
+    {
       "id": "e214c411cf9d",
       "title": "「薬屋のひとりごと」壬氏＆猫猫の麗しい姿が新グッズに！「東京シティビュー」コラボ終了まであとわずか！フォトコンテストなど見どころご紹介",
       "url": "https://animeanime.jp/article/2026/10/23/104106.html",
@@ -1445,7 +1460,7 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "61374bcaa541",
@@ -1610,36 +1625,16 @@
     },
     {
       "id": "d5900627f687",
-      "title": "「薬屋のひとりごと」新作一番くじの全ラインナップ公開！劇場版衣装の「猫猫」「壬氏」が、世界観をプラスした“新ブランド”で立体化",
-      "url": "https://www.inside-games.jp/article/2026/10/23/189671.html",
-      "host": "inside-games.jp",
-      "source": "インサイド",
+      "title": "「薬屋のひとりごと」新作一番くじの全ラインナップ公開！劇場版衣装の「猫猫」「壬氏」が、世界観をプラスした“新ブランド”で立体化（インサイド）",
+      "url": "https://news.yahoo.co.jp/articles/e7afd8c34184305e1e9bac362a680bb9545a1d11",
+      "host": "news.yahoo.co.jp",
+      "source": "Yahoo!ニュース",
       "summary": "",
       "publishedAt": "2026-10-23T01:30:03.000Z",
-      "image": "https://www.inside-games.jp/imgs/ogp_f/1797436.jpg",
+      "image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20261023-00000009-isd-000-1-view.jpg?exp=10800",
       "categories": [
         "anime",
         "goods"
-      ],
-      "works": [
-        "kusuriya"
-      ],
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": false
-    },
-    {
-      "id": "fd798e000f0d",
-      "title": "米津玄師、〈劇場版 薬屋のひとりごと〉主題歌に「春が灯り」書きおろし",
-      "url": "https://ototoy.jp/news/132404",
-      "host": "ototoy.jp",
-      "source": "OTOTOY",
-      "summary": "",
-      "publishedAt": "2026-10-23T01:00:00.000Z",
-      "image": "https://imgs.ototoy.jp/news/image.php/132404/0.jpg",
-      "categories": [
-        "anime"
       ],
       "works": [
         "kusuriya"
@@ -1689,6 +1684,46 @@
       "isNew": false
     },
     {
+      "id": "8bd29eb4b167",
+      "title": "薬屋のひとりごと：第52話「最後の一冊」 翠苓に会いに阿多の屋敷へ “ある人物”が残していた手掛かり",
+      "url": "https://mantan-web.jp/article/20261022dog00m200067000a.html",
+      "host": "mantan-web.jp",
+      "source": "まんたんウェブ",
+      "summary": "",
+      "publishedAt": "2026-10-22T21:22:02.000Z",
+      "image": "https://storage.mantan-web.jp/w=1280,h=720,icr=0:0.1:1:1,a=2,g=2,f=webp:auto/images/2026/10/22/20261022dog00m200067000a/001.jpg",
+      "categories": [
+        "anime"
+      ],
+      "works": [
+        "kusuriya"
+      ],
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": true
+    },
+    {
+      "id": "4767e9d90138",
+      "title": "『薬屋のひとりごと』阿多を訪ねた猫猫、手掛かりに気づく 第52話あらすじ＆場面カット公開",
+      "url": "https://www.oricon.co.jp/news/2488159/",
+      "host": "oricon.co.jp",
+      "source": "オリコンニュース",
+      "summary": "",
+      "publishedAt": "2026-10-22T21:16:03.000Z",
+      "image": "https://contents.oricon.co.jp/upimg/news/2489000/2488159/20261022_174929_p_o_80878767.jpg",
+      "categories": [
+        "anime"
+      ],
+      "works": [
+        "kusuriya"
+      ],
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": true
+    },
+    {
       "id": "8ccd191d9711",
       "title": "『薬屋のひとりごと』第52話「最後の一冊」あらすじ＆先行カット公開 - 猫猫が元四夫人・阿多の元を訪れる",
       "url": "https://news.mynavi.jp/article/20261023-5176079/",
@@ -1725,7 +1760,7 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "22ffa863926e",
@@ -1740,26 +1775,6 @@
         "comic"
       ],
       "works": [],
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": false
-    },
-    {
-      "id": "949ecf2d3ba5",
-      "title": "「陰の実力者になりたくて！マスターオブガーデン」SS確定ガチャチケットなどが手に入るチャンス！総力決戦～phase0～キャンペーンが開催",
-      "url": "https://www.gamer.ne.jp/news/202610220048/image/8/",
-      "host": "gamer.ne.jp",
-      "source": "Gamer",
-      "summary": "",
-      "publishedAt": "2026-10-22T16:27:51.000Z",
-      "image": "",
-      "categories": [
-        "game"
-      ],
-      "works": [
-        "kagejitsu"
-      ],
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
@@ -1943,26 +1958,6 @@
       "isNew": false
     },
     {
-      "id": "9f15cb332608",
-      "title": "『劇場版 薬屋のひとりごと』7つの最新情報が一挙解禁！ 完成披露試写会や金ロー特別版の放送も（ぴあ）",
-      "url": "https://news.yahoo.co.jp/articles/ce83e0bd6738a98bb34ec014c1d6e563e88e2a34",
-      "host": "news.yahoo.co.jp",
-      "source": "Yahoo!ニュース",
-      "summary": "",
-      "publishedAt": "2026-10-22T12:11:19.000Z",
-      "image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20261022-00010020-piaeigat-000-1-view.jpg?exp=10800",
-      "categories": [
-        "anime"
-      ],
-      "works": [
-        "kusuriya"
-      ],
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": true
-    },
-    {
       "id": "2bda16e8fb7e",
       "title": "＜薬屋のひとりごと＞金ローでスペシャルエディション放送 新規映像も 劇場版の第1弾特典に小冊子「帰路の向日葵」",
       "url": "https://news.yahoo.co.jp/articles/db3e969ad689d9e45196ccb0cbac37f2a7bd24ad",
@@ -1983,14 +1978,14 @@
       "isNew": false
     },
     {
-      "id": "b681ae4359e7",
-      "title": "劇場版 薬屋のひとりごと 亡妃の秘宝：主題歌は米津玄師 伏線ちりばめられたキービジュアル公開 予告映像に意味深なセリフも",
-      "url": "https://mantan-web.jp/article/20261022dog00m200063000a.html",
-      "host": "mantan-web.jp",
-      "source": "まんたんウェブ",
+      "id": "0796bedfa054",
+      "title": "劇場版 薬屋のひとりごと 亡妃の秘宝＞主題歌は米津玄師 伏線ちりばめられたキービジュアル公開 予告映像に意味深なセリフも（MANTANWEB）",
+      "url": "https://news.yahoo.co.jp/articles/fe0a74881c5031bf1afa47ca2854d86de5d89eeb",
+      "host": "news.yahoo.co.jp",
+      "source": "Yahoo!ニュース",
       "summary": "",
-      "publishedAt": "2026-10-22T11:30:54.000Z",
-      "image": "https://storage.mantan-web.jp/w=1280,h=720,icr=0:0.1:1:1,a=2,g=2,f=webp:auto/images/2026/10/22/20261022dog00m200063000a/001.jpg",
+      "publishedAt": "2026-10-22T11:30:00.000Z",
+      "image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20261022-00000064-mantan-000-1-view.jpg?exp=10800",
       "categories": [
         "anime"
       ],
@@ -2003,25 +1998,23 @@
       "isNew": true
     },
     {
-      "id": "55f15d8cad36",
-      "title": "「薬屋のひとりごと」初のコンシューマーゲームが2027年3月18日発売！ オリキャラ情報も明らかに",
-      "url": "https://animeanime.jp/article/2026/10/22/104083.html",
-      "host": "animeanime.jp",
-      "source": "アニメ！アニメ！",
-      "summary": "TVアニメ『薬屋のひとりごと』初のコンシューマーゲームとなる『薬屋のひとりごと ～偽りの皇弟～』が、2027年3月18日にNintendo Switch2、Nintendo Switch、PlayStation5、Steam向けに発売されることがわかった。これに伴いプロモーションムービーが公開され、新規オリジナルキャ…",
-      "publishedAt": "2026-10-22T09:00:03.000Z",
-      "image": "https://animeanime.jp/imgs/rss/946375.jpg",
+      "id": "18214d39611f",
+      "title": "【投稿削除】銀賞作家が生活保護投稿で執筆休止！集英社WEB小説大賞銀賞を受賞した「なろう小説家」印税が入ってきたにも関わらず生活保護二文句を言って",
+      "url": "https://t.co/IGifaUPeau",
+      "host": "t.co",
+      "source": "Howl.link",
+      "summary": "",
+      "publishedAt": "2026-10-22T11:14:31.000Z",
+      "image": "",
       "categories": [
-        "game",
-        "anime"
+        "web",
+        "book"
       ],
-      "works": [
-        "kusuriya"
-      ],
+      "works": [],
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": false
+      "isNew": true
     },
     {
       "id": "305e94fc50fc",
@@ -2240,13 +2233,13 @@
     },
     {
       "id": "daf9ae02a604",
-      "title": "無職転生、海外の人気が“トップティア”になっていた。『フリーレン』と僅差…海外アニメ配信サイトで40万クラブ入り (オタク総研)",
-      "url": "https://news.yahoo.co.jp/articles/85a3243172d1020875aad5ab8252bff9ced5c637/images/000",
+      "title": "無職転生、海外の人気が“トップティア”になっていた。『フリーレン』と僅差…海外アニメ配信サイトで40万クラブ入り（オタク総研）",
+      "url": "https://news.yahoo.co.jp/articles/85a3243172d1020875aad5ab8252bff9ced5c637",
       "host": "news.yahoo.co.jp",
       "source": "Yahoo!ニュース",
       "summary": "",
       "publishedAt": "2026-10-21T22:15:00.000Z",
-      "image": "https://news-pctr.c.yimg.jp/uUzvQ3lML_bkIqyakc1vFhNrRI0RUQxg5aFkrX0xDg1_T0wXrbEJjtNGtrf1o9y3xudcUclfbXjZqAvGT8NJnZgGaXYJPtnoQs1-nPvFcgUFuKKbr-qKd2dthUR0zdvLVL23ciiqGWoDTq19zc9IyK9kDYBIsguRF96frSMsrDnmQYwzGX3VYzHU_pvvxvl-zNvSaaKWdSR5GnAvkLp-tg==",
+      "image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20261022-00071500-otakulab-000-1-view.jpg?exp=10800",
       "categories": [
         "anime"
       ],
@@ -2313,24 +2306,6 @@
       "works": [
         "tensura"
       ],
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": false
-    },
-    {
-      "id": "fb1a69ab0dd3",
-      "title": "【SNSで話題沸騰】コミカライズ160万部突破の超人気シリーズに急展開！ 『〈完全版〉ＪＫハルは異世界で娼婦になった",
-      "url": "https://news.nicovideo.jp/watch/nw19904139?news_ref",
-      "host": "news.nicovideo.jp",
-      "source": "ニコニコニュース",
-      "summary": "",
-      "publishedAt": "2026-10-21T17:30:25.000Z",
-      "image": "",
-      "categories": [
-        "comic"
-      ],
-      "works": [],
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
@@ -2471,16 +2446,17 @@
       "isNew": false
     },
     {
-      "id": "d367c09f63ae",
-      "title": "完全新作〈完全版〉ＪＫハルは異世界で娼婦になった autumnが10月28日発売へ",
-      "url": "https://news.dellows.jp/833621/?from",
-      "host": "news.dellows.jp",
-      "source": "Dellows News",
+      "id": "fb1a69ab0dd3",
+      "title": "【SNSで話題沸騰】コミカライズ160万部突破の超人気シリーズに急展開！ 『〈完全版〉ＪＫハルは異世界で娼婦になった autumn』（新潮文庫nex）は10月28日発売です！｜Infoseekニュース",
+      "url": "https://news.infoseek.co.jp/article/prtimes_000003352_000047877/",
+      "host": "news.infoseek.co.jp",
+      "source": "Infoseek",
       "summary": "",
-      "publishedAt": "2026-10-21T07:42:04.000Z",
-      "image": "https://news.dellows.jp/wp-content/uploads/2026/10/833621_1.jpg",
+      "publishedAt": "2026-10-21T07:12:01.000Z",
+      "image": "https://media.image.infoseek.co.jp/isnews/pc/img/noimage_203x120_busi-econ-1.0.png",
       "categories": [
-        "other"
+        "comic",
+        "book"
       ],
       "works": [],
       "isPR": false,
@@ -2604,6 +2580,27 @@
       "viaGoogle": false,
       "sourceKind": "news",
       "isNew": false
+    },
+    {
+      "id": "367e42c1343b",
+      "title": "【パズドラ】リゼロコラボの交換おすすめランキングと確保数",
+      "url": "https://xn--0ck4aw2h.gamewith.jp/article/show/541302",
+      "host": "xn--0ck4aw2h.gamewith.jp",
+      "source": "GameWith",
+      "summary": "",
+      "publishedAt": "2026-10-21T03:50:12.000Z",
+      "image": "https://img.gamewith.jp/article/thumbnail/rectangle/541302.png?date=1769084696",
+      "categories": [
+        "web",
+        "game"
+      ],
+      "works": [
+        "rezero"
+      ],
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": true
     },
     {
       "id": "43415f132384",
