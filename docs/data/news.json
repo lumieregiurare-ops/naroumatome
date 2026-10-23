@@ -1,28 +1,28 @@
 {
-  "updatedAt": "2026-10-23T03:00:18.023Z",
+  "updatedAt": "2026-10-23T03:30:18.749Z",
   "site": {
     "title": "なろう系まとめ",
     "tagline": "小説家になろう発の作品のアニメ化・コミカライズ・書籍化のニュースと、なろうのランキングをまとめています。",
     "url": "https://naroumatome.gamelab.website/",
     "contactUrl": "https://docs.google.com/forms/d/e/1FAIpQLSesWyhmZ6sRS_ve-c3X2KqF_wC5PK2TgwgQbTKmnQltSlg5Jw/viewform"
   },
-  "total": 103,
-  "todayCount": 18,
+  "total": 110,
+  "todayCount": 24,
   "categories": [
     {
       "id": "anime",
       "label": "アニメ",
-      "count": 61
+      "count": 60
     },
     {
       "id": "comic",
       "label": "コミカライズ",
-      "count": 8
+      "count": 9
     },
     {
       "id": "book",
       "label": "書籍・ラノベ",
-      "count": 10
+      "count": 9
     },
     {
       "id": "web",
@@ -32,17 +32,17 @@
     {
       "id": "game",
       "label": "ゲーム",
-      "count": 4
+      "count": 5
     },
     {
       "id": "goods",
       "label": "グッズ・イベント",
-      "count": 16
+      "count": 21
     },
     {
       "id": "other",
       "label": "そのほか",
-      "count": 22
+      "count": 25
     }
   ],
   "works": [
@@ -50,7 +50,7 @@
       "id": "tensura",
       "title": "転生したらスライムだった件",
       "short": "転スラ",
-      "count": 13
+      "count": 14
     },
     {
       "id": "mushoku",
@@ -62,19 +62,19 @@
       "id": "rezero",
       "title": "Re:ゼロから始める異世界生活",
       "short": "リゼロ",
-      "count": 12
+      "count": 16
     },
     {
       "id": "honzuki",
       "title": "本好きの下剋上",
       "short": "本好き",
-      "count": 8
+      "count": 6
     },
     {
       "id": "kusuriya",
       "title": "薬屋のひとりごと",
       "short": "薬屋",
-      "count": 32
+      "count": 36
     },
     {
       "id": "kagejitsu",
@@ -299,28 +299,32 @@
       "count": 16
     },
     {
+      "name": "GameWith",
+      "count": 9
+    },
+    {
       "name": "ラノベニュースオンライン",
       "count": 8
     },
     {
-      "name": "GameWith",
+      "name": "アニメ！アニメ！",
       "count": 7
     },
     {
-      "name": "Infoseek",
-      "count": 6
-    },
-    {
-      "name": "アニメ！アニメ！",
+      "name": "Dellows News",
       "count": 5
     },
     {
-      "name": "まんたんウェブ",
-      "count": 4
+      "name": "Infoseek",
+      "count": 5
     },
     {
       "name": "オリコンニュース",
       "count": 4
+    },
+    {
+      "name": "まんたんウェブ",
+      "count": 3
     },
     {
       "name": "ナタリー",
@@ -329,6 +333,14 @@
     {
       "name": "ニコニコニュース",
       "count": 3
+    },
+    {
+      "name": "ｄメニューニュース",
+      "count": 2
+    },
+    {
+      "name": "Real Sound｜リアルサウンド",
+      "count": 2
     },
     {
       "name": "PR TIMES",
@@ -340,6 +352,10 @@
     },
     {
       "name": "マイナビニュース",
+      "count": 2
+    },
+    {
+      "name": "Howl.link",
       "count": 2
     },
     {
@@ -355,10 +371,6 @@
       "count": 2
     },
     {
-      "name": "Dellows News",
-      "count": 2
-    },
-    {
       "name": "ライブドアニュース",
       "count": 2
     },
@@ -371,11 +383,11 @@
       "count": 2
     },
     {
-      "name": "時事ドットコム",
+      "name": "インサイド",
       "count": 1
     },
     {
-      "name": "OTOTOY",
+      "name": "時事ドットコム",
       "count": 1
     },
     {
@@ -388,6 +400,10 @@
     },
     {
       "name": "Gamer",
+      "count": 1
+    },
+    {
+      "name": "WEBザテレビジョン",
       "count": 1
     },
     {
@@ -407,23 +423,15 @@
       "count": 1
     },
     {
-      "name": "Howl.link",
-      "count": 1
-    },
-    {
-      "name": "ABEMA TIMES",
-      "count": 1
-    },
-    {
-      "name": "ｄメニューニュース",
-      "count": 1
-    },
-    {
       "name": "eeo",
       "count": 1
     },
     {
       "name": "千葉テレビ放送",
+      "count": 1
+    },
+    {
+      "name": "CINEMA Life! シネマライフ",
       "count": 1
     },
     {
@@ -465,29 +473,17 @@
     {
       "name": "BS12",
       "count": 1
-    },
-    {
-      "name": "Real Sound｜リアルサウンド",
-      "count": 1
-    },
-    {
-      "name": "KAI-YOU",
-      "count": 1
-    },
-    {
-      "name": "WEBザテレビジョン",
-      "count": 1
     }
   ],
   "topics": [
     {
-      "id": "51f84a061f94",
-      "title": "アニメ『薬屋のひとりごと』猫猫は蝗害対策の手掛かりとなる一冊の行方を求めて元四夫人・阿多の屋敷を訪問する。第52話「最後の一冊」あらすじ＆先行カット",
+      "id": "61374bcaa541",
+      "title": "薬屋のひとりごと＞第52話「最後の一冊」 翠苓に会いに阿多の屋敷へ “ある人物”が残していた手掛かり（MANTANWEB）",
       "summary": "",
-      "url": "https://www.pashplus.jp/anime/499913/",
-      "image": "https://www.pashplus.jp/wp-content/uploads/c75ceef043b9df3a2e3f3f151723ea31.jpg",
-      "leadSource": "PASH! PLUS",
-      "publishedAt": "2026-10-22T22:36:17.000Z",
+      "url": "https://news.yahoo.co.jp/articles/69a2b0918dbdd0e4456d8da0e5bfa9316979ac57",
+      "image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20261023-00000030-mantan-000-1-view.jpg?exp=10800",
+      "leadSource": "Yahoo!ニュース",
+      "publishedAt": "2026-10-23T03:09:00.000Z",
       "sourceCount": 8,
       "articleCount": 8,
       "categories": [
@@ -496,9 +492,16 @@
       "keywords": [
         "薬屋",
         "カット",
-        "猫猫"
+        "最後"
       ],
       "articles": [
+        {
+          "title": "アニメ『薬屋のひとりごと』猫猫は蝗害対策の手掛かりとなる一冊の行方を求めて元四夫人・阿多の屋敷を訪問する。第52話「最後の一冊」あらすじ＆先行カット",
+          "url": "https://www.pashplus.jp/anime/499913/",
+          "source": "PASH! PLUS",
+          "publishedAt": "2026-10-22T22:36:17.000Z",
+          "isPR": false
+        },
         {
           "title": "薬屋のひとりごと：第52話「最後の一冊」 翠苓に会いに阿多の屋敷へ “ある人物”が残していた手掛かり",
           "url": "https://mantan-web.jp/article/20261022dog00m200067000a.html",
@@ -518,13 +521,6 @@
           "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOcy1rd3FwN2FHTzdUUmg2UVdmMmhtWVJJS1ZhaUFiYWZzSVJpNDFGQmxmNnI1TTdDWUlEUHhXajh6RE9lRzZ2SDdaanZHTW5KNHFXUUdQcERVSEtreUx2XzNoY1pGSUY5LU80Q3JPaEUwLVlycmZPLXZLOFdUUzlHT016Y9IBgwFBVV95cUxOcy1rd3FwN2FHTzdUUmg2UVdmMmhtWVJJS1ZhaUFiYWZzSVJpNDFGQmxmNnI1TTdDWUlEUHhXajh6RE9lRzZ2SDdaanZHTW5KNHFXUUdQcERVSEtreUx2XzNoY1pGSUY5LU80Q3JPaEUwLVlycmZPLXZLOFdUUzlHT016Yw?oc=5",
           "source": "ｄメニューニュース",
           "publishedAt": "2026-10-22T10:28:00.000Z",
-          "isPR": false
-        },
-        {
-          "title": "猫猫は“ある⼈物”が残していた⼿掛かりに気づく…アニメ『薬屋のひとりごと』第52話あらすじ・先行カット公開（ABEMA TIMES）",
-          "url": "https://news.yahoo.co.jp/articles/3c7c7643cf5ace0cc8db06b951e01f469b4b215d",
-          "source": "Yahoo!ニュース",
-          "publishedAt": "2026-10-22T09:00:39.000Z",
           "isPR": false
         },
         {
@@ -557,9 +553,9 @@
       "url": "https://animeanime.jp/article/2026/10/23/104100.html",
       "image": "https://animeanime.jp/imgs/rss/946827.jpg",
       "leadSource": "アニメ！アニメ！",
-      "publishedAt": "2026-10-23T02:51:16.000Z",
-      "sourceCount": 7,
-      "articleCount": 11,
+      "publishedAt": "2026-10-23T02:56:15.000Z",
+      "sourceCount": 5,
+      "articleCount": 7,
       "categories": [
         "anime",
         "goods"
@@ -567,35 +563,21 @@
       "keywords": [
         "薬屋",
         "劇場版",
-        "米津玄師"
+        "新規映像"
       ],
       "articles": [
+        {
+          "title": "『劇場版 薬屋のひとりごと』7つの新情報発表 『金曜ロードショー』で特別編集版の放送も（リアルサウンド）",
+          "url": "https://news.yahoo.co.jp/articles/e1ff383042ddc6bdabc92ba55c22757f52826545",
+          "source": "Yahoo!ニュース",
+          "publishedAt": "2026-10-23T02:56:15.000Z",
+          "isPR": false
+        },
         {
           "title": "ファミマ「劇場版 薬屋のひとりごと 亡妃の秘宝」のブロマイドが買える特典付きムビチケコンビニ券を販売！一番くじも登場",
           "url": "https://news.yahoo.co.jp/articles/db972f0b96fcf77ebb871f41e9524ef3e079489b",
           "source": "Yahoo!ニュース",
           "publishedAt": "2026-10-23T02:05:00.000Z",
-          "isPR": false
-        },
-        {
-          "title": "米津玄師、〈劇場版 薬屋のひとりごと〉主題歌に「春が灯り」書きおろし",
-          "url": "https://ototoy.jp/news/132404",
-          "source": "OTOTOY",
-          "publishedAt": "2026-10-23T01:00:00.000Z",
-          "isPR": false
-        },
-        {
-          "title": "『劇場版 薬屋のひとりごと 亡妃の秘宝』本予告が公開 主題歌は米津玄師「春が灯り」",
-          "url": "https://www.toy-people.com/jp/?p",
-          "source": "玩具人 TOY PEOPLE",
-          "publishedAt": "2026-10-22T21:02:32.000Z",
-          "isPR": false
-        },
-        {
-          "title": "『薬屋のひとりごと』初の劇場版、最新映像&キービジュアル&相関図が公開 主題歌は米津玄師「春が灯り」",
-          "url": "https://www.oricon.co.jp/news/2488182/photo/2/",
-          "source": "オリコンニュース",
-          "publishedAt": "2026-10-22T13:55:11.000Z",
           "isPR": false
         },
         {
@@ -613,17 +595,66 @@
           "isPR": false
         },
         {
-          "title": "米津玄師、『劇場版 薬屋のひとりごと 亡妃の秘宝』主題歌に決定！ 童謡から影響受けた書き下ろし新曲「春が灯り」流れる予告映像も公開",
-          "url": "https://animeanime.jp/article/2026/10/22/104094.html",
-          "source": "アニメ！アニメ！",
-          "publishedAt": "2026-10-22T12:15:03.000Z",
-          "isPR": false
-        },
-        {
           "title": "＜薬屋のひとりごと＞金ローでスペシャルエディション放送 新規映像も 劇場版の第1弾特典に小冊子「帰路の向日葵」",
           "url": "https://news.yahoo.co.jp/articles/db3e969ad689d9e45196ccb0cbac37f2a7bd24ad",
           "source": "Yahoo!ニュース",
           "publishedAt": "2026-10-22T12:00:00.000Z",
+          "isPR": false
+        },
+        {
+          "title": "『薬屋のひとりごと』金ローで特別編集版放送決定 第2期ラストシーンにつながる約4分の新規映像が追加",
+          "url": "https://www.oricon.co.jp/news/2488214/full/",
+          "source": "オリコンニュース",
+          "publishedAt": "2026-10-22T12:00:00.000Z",
+          "isPR": false
+        }
+      ]
+    },
+    {
+      "id": "6f09288fa895",
+      "title": "米津玄師、『劇場版 薬屋のひとりごと 亡妃の秘宝』主題歌に決定！ 童謡から影響受けた書き下ろし新曲「春が灯り」流れる予告映像も公開",
+      "summary": "2026年12月11日公開の『劇場版 薬屋のひとりごと 亡妃の秘宝』で、米津玄師が主題歌を担当することが決定した。新曲「春が灯り」を使用した最新予告映像、キービジュアル、キャラクター相関図も公開。米津は脚本を読み込むとともに童謡を参照して楽曲を制作したことを明かしている。",
+      "url": "https://animeanime.jp/article/2026/10/22/104094.html",
+      "image": "https://animeanime.jp/imgs/rss/946649.jpg",
+      "leadSource": "アニメ！アニメ！",
+      "publishedAt": "2026-10-23T02:30:16.000Z",
+      "sourceCount": 5,
+      "articleCount": 5,
+      "categories": [
+        "anime"
+      ],
+      "keywords": [
+        "薬屋",
+        "劇場版",
+        "主題歌"
+      ],
+      "articles": [
+        {
+          "title": "『劇場版 薬屋のひとりごと』主題歌は米津玄師「春が灯り」 新予告＆新ビジュアルも",
+          "url": "https://realsound.jp/movie/2026/10/post-2561975.html",
+          "source": "Real Sound｜リアルサウンド",
+          "publishedAt": "2026-10-23T02:30:16.000Z",
+          "isPR": false
+        },
+        {
+          "title": "『劇場版 薬屋のひとりごと 亡妃の秘宝』本予告が公開 主題歌は米津玄師「春が灯り」",
+          "url": "https://www.toy-people.com/jp/?p",
+          "source": "玩具人 TOY PEOPLE",
+          "publishedAt": "2026-10-22T21:02:32.000Z",
+          "isPR": false
+        },
+        {
+          "title": "『薬屋のひとりごと』初の劇場版、最新映像&キービジュアル&相関図が公開 主題歌は米津玄師「春が灯り」",
+          "url": "https://www.oricon.co.jp/news/2488182/photo/2/",
+          "source": "オリコンニュース",
+          "publishedAt": "2026-10-22T13:55:11.000Z",
+          "isPR": false
+        },
+        {
+          "title": "劇場版 薬屋のひとりごと 亡妃の秘宝＞主題歌は米津玄師 伏線ちりばめられたキービジュアル公開 予告映像に意味深なセリフも（MANTANWEB）",
+          "url": "https://news.yahoo.co.jp/articles/fe0a74881c5031bf1afa47ca2854d86de5d89eeb",
+          "source": "Yahoo!ニュース",
+          "publishedAt": "2026-10-22T11:30:00.000Z",
           "isPR": false
         }
       ]
@@ -636,8 +667,8 @@
       "image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20261021-00010058-realsound-000-1-view.jpg?exp=10800",
       "leadSource": "Yahoo!ニュース",
       "publishedAt": "2026-10-21T12:30:52.000Z",
-      "sourceCount": 6,
-      "articleCount": 7,
+      "sourceCount": 5,
+      "articleCount": 5,
       "categories": [
         "anime",
         "other"
@@ -675,36 +706,72 @@
           "source": "Infoseek",
           "publishedAt": "2026-10-20T09:50:00.000Z",
           "isPR": false
-        },
+        }
+      ]
+    },
+    {
+      "id": "d06d698be1dc",
+      "title": "『Re:ゼロから始める異世界生活』の公式3Dファッション、VRChatに対応",
+      "summary": "",
+      "url": "https://www.moguravr.com/rezero-vrchat-3d-fashion/",
+      "image": "https://assets.moguravr.com/uploads/2026/10/e729a9fc3c2b710aa690a89ac2c2cfbc-kix.vtrap8e8z2nn.webp",
+      "leadSource": "Mogura VR",
+      "publishedAt": "2026-10-22T02:33:44.000Z",
+      "sourceCount": 4,
+      "articleCount": 5,
+      "categories": [
+        "other",
+        "anime"
+      ],
+      "keywords": [
+        "vrchat",
+        "ファッション",
+        "異世界生活"
+      ],
+      "articles": [
         {
-          "title": "本好きの下剋上：累計1500万部突破 アニメも人気のラノベ",
-          "url": "https://mantan-web.jp/article/20261020dog00m200040000a.html",
+          "title": "V、TVアニメ『Re:ゼロから始める異世界生活』コラボの公式3Dデジタルファッション制作に参画",
+          "url": "https://mantan-web.jp/prtimes/article/20261021prt00m200000592a/photopage/001.html",
           "source": "まんたんウェブ",
-          "publishedAt": "2026-10-20T03:20:41.000Z",
+          "publishedAt": "2026-10-21T06:28:42.000Z",
           "isPR": false
         },
         {
-          "title": "本好きの下剋上＞累計1500万部突破 アニメも人気のラノベ（MANTANWEB）",
-          "url": "https://news.yahoo.co.jp/articles/a759fd4f08e8ec312a5f4de746c547314c26d893",
-          "source": "Yahoo!ニュース",
-          "publishedAt": "2026-10-20T03:19:00.000Z",
+          "title": "ARROVA、Re:ゼロから始める異世界生活のVRChat向け衣装を10月発売へ",
+          "url": "https://news.dellows.jp/827583/?from",
+          "source": "Dellows News",
+          "publishedAt": "2026-10-21T04:40:36.000Z",
+          "isPR": false
+        },
+        {
+          "title": "リゼロ公式3Dファッションアイテム発売へ VRChat向けに順次展開",
+          "url": "https://news.dellows.jp/827613/?from",
+          "source": "Dellows News",
+          "publishedAt": "2026-10-21T04:40:36.000Z",
+          "isPR": false
+        },
+        {
+          "title": "「TOKYO AVATAR GATE」 が TVアニメ『Re:ゼロから始める異世界生活』とコラボレーション。VRChat向け公式デジタルファッションを発売。",
+          "url": "https://animeanime.jp/release/prtimes/20261021/321232.html",
+          "source": "アニメ！アニメ！",
+          "publishedAt": "2026-10-21T03:00:00.000Z",
           "isPR": false
         }
       ]
     },
     {
-      "id": "d5900627f687",
-      "title": "「薬屋のひとりごと」新作一番くじの全ラインナップ公開！劇場版衣装の「猫猫」「壬氏」が、世界観をプラスした“新ブランド”で立体化｜Infoseekニュース",
-      "summary": "",
-      "url": "https://news.infoseek.co.jp/article/inside_189671/",
-      "image": "https://media.image.infoseek.co.jp/isnews/photos/inside/inside_189671_0-enlarge.jpg",
-      "leadSource": "Infoseek",
-      "publishedAt": "2026-10-23T01:30:03.000Z",
-      "sourceCount": 5,
-      "articleCount": 5,
+      "id": "e214c411cf9d",
+      "title": "「薬屋のひとりごと」壬氏＆猫猫の麗しい姿が新グッズに！「東京シティビュー」コラボ終了まであとわずか！フォトコンテストなど見どころご紹介",
+      "summary": "TVアニメ『薬屋のひとりごと』の世界を楽しめるイベント「舞が織りなす幻想の世界 ―天空に響く、舞のしらべ―」が、東京シティビューにて10月26日まで開催中だ。10月より新たなグッズが登場しており、公式X（旧Twitter）ではキャストの直筆サイン入りポスターなどが当たるフォトコンテストも行われている。会期終了まであと…",
+      "url": "https://animeanime.jp/article/2026/10/23/104106.html",
+      "image": "https://animeanime.jp/imgs/rss/946763.jpg",
+      "leadSource": "アニメ！アニメ！",
+      "publishedAt": "2026-10-23T03:20:02.000Z",
+      "sourceCount": 4,
+      "articleCount": 4,
       "categories": [
-        "anime",
-        "goods"
+        "goods",
+        "anime"
       ],
       "keywords": [
         "薬屋",
@@ -717,13 +784,6 @@
           "url": "https://xtrend.nikkei.com/atcl/contents/18/01241/00022/",
           "source": "日経クロストレンド",
           "publishedAt": "2026-10-22T15:00:00.000Z",
-          "isPR": false
-        },
-        {
-          "title": "猫猫と壬氏のやり取りに背を向ける高順が1位！アニメ『薬屋のひとりごと』第50話コメント最多シーンTOP3",
-          "url": "https://times.abema.tv/articles/-/10282959",
-          "source": "ABEMA TIMES",
-          "publishedAt": "2026-10-22T11:14:00.000Z",
           "isPR": false
         },
         {
@@ -743,37 +803,86 @@
       ]
     },
     {
-      "id": "d06d698be1dc",
-      "title": "『Re:ゼロから始める異世界生活』の公式3Dファッション、VRChatに対応",
+      "id": "7afb1d828c05",
+      "title": "『薬屋のひとりごと』映画で描かれない、”3万字多い”小説版も発売 怒涛の「最新情報」を一挙解禁",
       "summary": "",
-      "url": "https://www.moguravr.com/rezero-vrchat-3d-fashion/",
-      "image": "https://assets.moguravr.com/uploads/2026/10/e729a9fc3c2b710aa690a89ac2c2cfbc-kix.vtrap8e8z2nn.webp",
-      "leadSource": "Mogura VR",
-      "publishedAt": "2026-10-22T02:33:44.000Z",
+      "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQVUNGMkJpeGpkSWdGX2NGaU9vdFRENk1WTjdHV2Q5Mld6Q2Z6eUw5WEhVLXE0NmhLdkNGN0NEUTlBQy1JRnBhc2dCN05vY0UyQmktc0FFSEpvOUtscnV3UnpBSElkbWJIYjBfeVVXTDhpMGM3MDZjdjRxQjg4QUhYdWpKZHNDVkptcGYtSmtmSjhOWWFEc3F4NEFTeF9zTU8ydk5zRy1pUVJNazdGOTFFNDhGSDNPZ2tjTEdOV3lReUtPb3Z4VWlyLU1TaXRsQWZuWUpEadIBhAFBVV95cUxPRm5EbURaaGFfY0NJNXZHcmpMMThRRHMtRm1FdVVtRGdVX0dmWUVVZWFHdjdsVk5nak9ma2o3V3diUmZzQ0Y5UWhjTXlXZ293S2J6S1h0ZGp0eTQ0NktxcDJ3eGFKcmVwTDNRNDF0bXdWOTdXbXhieE1xV1dQLWpGUGNwaWI?oc=5",
+      "image": "https://contents.oricon.co.jp/upimg/news/2489000/2488187/20261022_182153_p_o_45899917.jpg",
+      "leadSource": "ｄメニューニュース",
+      "publishedAt": "2026-10-23T03:00:00.000Z",
       "sourceCount": 3,
-      "articleCount": 3,
+      "articleCount": 5,
       "categories": [
-        "other",
-        "anime"
+        "anime",
+        "book"
       ],
       "keywords": [
-        "ファッション",
-        "異世界生活",
-        "公式"
+        "薬屋",
+        "劇場版",
+        "最新情報"
       ],
       "articles": [
         {
-          "title": "V、TVアニメ『Re:ゼロから始める異世界生活』コラボの公式3Dデジタルファッション制作に参画",
-          "url": "https://mantan-web.jp/prtimes/article/20261021prt00m200000592a/photopage/001.html",
-          "source": "まんたんウェブ",
-          "publishedAt": "2026-10-21T06:28:42.000Z",
+          "title": "劇場版『薬屋のひとりごと』最新情報が一挙解禁 キャスト登壇完成披露試写会、原作者書き下ろし入場者特典など7項目",
+          "url": "https://www.oricon.co.jp/news/2488187/photo/6/",
+          "source": "オリコンニュース",
+          "publishedAt": "2026-10-22T13:46:11.000Z",
           "isPR": false
         },
         {
-          "title": "「TOKYO AVATAR GATE」 が TVアニメ『Re:ゼロから始める異世界生活』とコラボレーション。VRChat向け公式デジタルファッションを発売。",
-          "url": "https://animeanime.jp/release/prtimes/20261021/321232.html",
-          "source": "アニメ！アニメ！",
-          "publishedAt": "2026-10-21T03:00:00.000Z",
+          "title": "「壬氏様、映画じゃなくて猫猫しか見てない」『劇場版 薬屋のひとりごと』が映画館をテーマにした新フィギュア「ぷちげき」に登場",
+          "url": "https://news.yahoo.co.jp/articles/672704b5f9a4d14817f499a0bad12a0b99e9550a",
+          "source": "Yahoo!ニュース",
+          "publishedAt": "2026-10-22T12:54:16.000Z",
+          "isPR": false
+        },
+        {
+          "title": "『劇場版 薬屋のひとりごと』7つの最新情報が一挙解禁！ 完成披露試写会や金ロー特別版の放送も（ぴあ）",
+          "url": "https://news.yahoo.co.jp/articles/ce83e0bd6738a98bb34ec014c1d6e563e88e2a34",
+          "source": "Yahoo!ニュース",
+          "publishedAt": "2026-10-22T12:11:19.000Z",
+          "isPR": false
+        },
+        {
+          "title": "劇場版『薬屋のひとりごと』入場者特典は原作者書き下ろし小説 猫猫＆壬氏の“その後”描く (オリコン)",
+          "url": "https://news.yahoo.co.jp/articles/490303fd73533347a55f8c1f83b0319def8cae11/images/000",
+          "source": "Yahoo!ニュース",
+          "publishedAt": "2026-10-22T12:00:00.000Z",
+          "isPR": false
+        }
+      ]
+    },
+    {
+      "id": "d35bc2d20fdc",
+      "title": "再び動き出した「転ステ」の物語！舞台『転生したらスライムだった件』3-魔王覚醒編＆八星輝翔編-ゲネプロ公演レポート",
+      "summary": "",
+      "url": "https://news.nicovideo.jp/watch/nw19907782?news_ref",
+      "image": "https://www.cinema-life.net/wp-content/uploads/79a6b7f317c691f5514fc25007789a68.jpg",
+      "leadSource": "ニコニコニュース",
+      "publishedAt": "2026-10-22T14:00:24.000Z",
+      "sourceCount": 3,
+      "articleCount": 3,
+      "categories": [
+        "goods"
+      ],
+      "keywords": [
+        "スライム",
+        "舞台",
+        "魔王覚醒編"
+      ],
+      "articles": [
+        {
+          "title": "舞台「転生したらスライムだった件」魔王覚醒編＆八星輝翔編スタート",
+          "url": "https://natalie.mu/stage/news/694781",
+          "source": "ナタリー",
+          "publishedAt": "2026-10-22T05:40:00.000Z",
+          "isPR": false
+        },
+        {
+          "title": "舞台『転生したらスライムだった件』3-魔王覚醒編＆八星輝翔編- キービジュアル＆キャラクタービジュアル公開",
+          "url": "https://www.cinema-life.net/p260911_tspr/",
+          "source": "CINEMA Life! シネマライフ",
+          "publishedAt": "2026-10-22T02:47:34.000Z",
           "isPR": false
         }
       ]
@@ -814,41 +923,6 @@
       ]
     },
     {
-      "id": "ad016e82d16c",
-      "title": "Spotify、アニメのノンクレジットOP・ED映像を配信 『リゼロ』『ノゲノラ』などKADOKAWA作品を中心に154曲をラインナップ",
-      "summary": "",
-      "url": "https://news.yahoo.co.jp/articles/3536301432144a82987f50ae8dd78393d49f3bdd",
-      "image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20261020-00096884-kaiyou-000-1-view.jpg?exp=10800",
-      "leadSource": "Yahoo!ニュース",
-      "publishedAt": "2026-10-20T04:00:22.000Z",
-      "sourceCount": 2,
-      "articleCount": 3,
-      "categories": [
-        "anime"
-      ],
-      "keywords": [
-        "リゼロ",
-        "spotify",
-        "ノンクレジット"
-      ],
-      "articles": [
-        {
-          "title": "Spotify、アニメのノンクレジットOP／ED映像154曲を配信 『リゼロ』『ノゲノラ』など - KAI-YOU",
-          "url": "https://kai-you.net/article/96884",
-          "source": "KAI-YOU",
-          "publishedAt": "2026-10-20T03:11:00.000Z",
-          "isPR": false
-        },
-        {
-          "title": "Spotifyで「リゼロ」「はがない」など154曲分のアニメOP＆EDノンクレジット映像配信（音楽ナタリー）",
-          "url": "https://news.yahoo.co.jp/articles/98ecbb9dd52401860ac02ae1d84a208ff3bc57b6",
-          "source": "Yahoo!ニュース",
-          "publishedAt": "2026-10-20T03:01:38.000Z",
-          "isPR": false
-        }
-      ]
-    },
-    {
       "id": "949ecf2d3ba5",
       "title": "「陰の実力者になりたくて！マスターオブガーデン」SS確定ガチャチケットなどが手に入るチャンス！総力決戦～phase0～キャンペーンが開催",
       "summary": "",
@@ -873,63 +947,6 @@
           "url": "https://gamewith.jp/gamedb/8388/articles/64760",
           "source": "GameWith",
           "publishedAt": "2026-10-22T05:28:45.000Z",
-          "isPR": false
-        }
-      ]
-    },
-    {
-      "id": "d35bc2d20fdc",
-      "title": "再び動き出した「転ステ」の物語！舞台『転生したらスライムだった件』3-魔王覚醒編＆八星輝翔編-ゲネプロ公演レポート",
-      "summary": "",
-      "url": "https://news.nicovideo.jp/watch/nw19907782?news_ref",
-      "image": "",
-      "leadSource": "ニコニコニュース",
-      "publishedAt": "2026-10-22T14:00:24.000Z",
-      "sourceCount": 2,
-      "articleCount": 2,
-      "categories": [
-        "goods"
-      ],
-      "keywords": [
-        "スライム",
-        "舞台",
-        "魔王覚醒編"
-      ],
-      "articles": [
-        {
-          "title": "舞台「転生したらスライムだった件」魔王覚醒編＆八星輝翔編スタート",
-          "url": "https://natalie.mu/stage/news/694781",
-          "source": "ナタリー",
-          "publishedAt": "2026-10-22T05:40:00.000Z",
-          "isPR": false
-        }
-      ]
-    },
-    {
-      "id": "341349d01900",
-      "title": "劇場版『薬屋のひとりごと』最新情報が一挙解禁 キャスト登壇完成披露試写会、原作者書き下ろし入場者特典など7項目",
-      "summary": "",
-      "url": "https://www.oricon.co.jp/news/2488187/photo/6/",
-      "image": "https://contents.oricon.co.jp/upimg/news/2489000/2488187/20261022_182153_p_o_45899917.jpg",
-      "leadSource": "オリコンニュース",
-      "publishedAt": "2026-10-22T13:46:11.000Z",
-      "sourceCount": 2,
-      "articleCount": 2,
-      "categories": [
-        "anime",
-        "book"
-      ],
-      "keywords": [
-        "薬屋",
-        "劇場版",
-        "原作者書"
-      ],
-      "articles": [
-        {
-          "title": "劇場版『薬屋のひとりごと』入場者特典は原作者書き下ろし小説 猫猫＆壬氏の“その後”描く (オリコン)",
-          "url": "https://news.yahoo.co.jp/articles/490303fd73533347a55f8c1f83b0319def8cae11/images/000",
-          "source": "Yahoo!ニュース",
-          "publishedAt": "2026-10-22T12:00:00.000Z",
           "isPR": false
         }
       ]
@@ -993,13 +1010,116 @@
     }
   ],
   "churn": {
-    "previousAt": "2026-10-23T02:30:17.958Z",
-    "previousCount": 112,
-    "newCount": 6
+    "previousAt": "2026-10-23T03:00:18.023Z",
+    "previousCount": 103,
+    "newCount": 15
   },
   "updateGapMin": 30,
-  "nextUpdateAt": "2026-10-23T03:30:18.023Z",
+  "nextUpdateAt": "2026-10-23T04:00:18.749Z",
   "items": [
+    {
+      "id": "e214c411cf9d",
+      "title": "「薬屋のひとりごと」壬氏＆猫猫の麗しい姿が新グッズに！「東京シティビュー」コラボ終了まであとわずか！フォトコンテストなど見どころご紹介",
+      "url": "https://animeanime.jp/article/2026/10/23/104106.html",
+      "host": "animeanime.jp",
+      "source": "アニメ！アニメ！",
+      "summary": "TVアニメ『薬屋のひとりごと』の世界を楽しめるイベント「舞が織りなす幻想の世界 ―天空に響く、舞のしらべ―」が、東京シティビューにて10月26日まで開催中だ。10月より新たなグッズが登場しており、公式X（旧Twitter）ではキャストの直筆サイン入りポスターなどが当たるフォトコンテストも行われている。会期終了まであと…",
+      "publishedAt": "2026-10-23T03:20:02.000Z",
+      "image": "https://animeanime.jp/imgs/rss/946763.jpg",
+      "categories": [
+        "goods",
+        "anime"
+      ],
+      "works": [
+        "kusuriya"
+      ],
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": true
+    },
+    {
+      "id": "61374bcaa541",
+      "title": "薬屋のひとりごと＞第52話「最後の一冊」 翠苓に会いに阿多の屋敷へ “ある人物”が残していた手掛かり（MANTANWEB）",
+      "url": "https://news.yahoo.co.jp/articles/69a2b0918dbdd0e4456d8da0e5bfa9316979ac57",
+      "host": "news.yahoo.co.jp",
+      "source": "Yahoo!ニュース",
+      "summary": "",
+      "publishedAt": "2026-10-23T03:09:00.000Z",
+      "image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20261023-00000030-mantan-000-1-view.jpg?exp=10800",
+      "categories": [
+        "anime"
+      ],
+      "works": [
+        "kusuriya"
+      ],
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": true
+    },
+    {
+      "id": "88197f69db1f",
+      "title": "Tシャツ980円前後、描き下ろしデザイン多数！ “オタク全開じゃない”からこそ刺さる、ワークマン流「薬屋のひとりごと」「呪術廻戦」などアニメアパレルの秘密に迫る",
+      "url": "https://animeanime.jp/article/2026/10/23/104103.html",
+      "host": "animeanime.jp",
+      "source": "アニメ！アニメ！",
+      "summary": "今回アニメ！アニメ！編集部は、ワークマンの新製品発表会へと向かい、それらアニメコラボアパレルの実物を見てきただけでなく、アニメ・IPコラボを手がける担当者にも展開について訊いた。急成長するアニメコラボ戦略の裏側と、その人気の理由をたっぷりと伺っている。",
+      "publishedAt": "2026-10-23T03:05:02.000Z",
+      "image": "https://animeanime.jp/imgs/rss/946537.jpg",
+      "categories": [
+        "anime",
+        "goods"
+      ],
+      "works": [
+        "kusuriya"
+      ],
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": true
+    },
+    {
+      "id": "7afb1d828c05",
+      "title": "『薬屋のひとりごと』映画で描かれない、”3万字多い”小説版も発売 怒涛の「最新情報」を一挙解禁",
+      "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQVUNGMkJpeGpkSWdGX2NGaU9vdFRENk1WTjdHV2Q5Mld6Q2Z6eUw5WEhVLXE0NmhLdkNGN0NEUTlBQy1JRnBhc2dCN05vY0UyQmktc0FFSEpvOUtscnV3UnpBSElkbWJIYjBfeVVXTDhpMGM3MDZjdjRxQjg4QUhYdWpKZHNDVkptcGYtSmtmSjhOWWFEc3F4NEFTeF9zTU8ydk5zRy1pUVJNazdGOTFFNDhGSDNPZ2tjTEdOV3lReUtPb3Z4VWlyLU1TaXRsQWZuWUpEadIBhAFBVV95cUxPRm5EbURaaGFfY0NJNXZHcmpMMThRRHMtRm1FdVVtRGdVX0dmWUVVZWFHdjdsVk5nak9ma2o3V3diUmZzQ0Y5UWhjTXlXZ293S2J6S1h0ZGp0eTQ0NktxcDJ3eGFKcmVwTDNRNDF0bXdWOTdXbXhieE1xV1dQLWpGUGNwaWI?oc=5",
+      "host": "topics.smt.docomo.ne.jp",
+      "source": "ｄメニューニュース",
+      "summary": "",
+      "publishedAt": "2026-10-23T03:00:00.000Z",
+      "image": "",
+      "categories": [
+        "anime",
+        "book"
+      ],
+      "works": [
+        "kusuriya"
+      ],
+      "isPR": false,
+      "viaGoogle": true,
+      "sourceKind": "news",
+      "isNew": true
+    },
+    {
+      "id": "ec0ff3eb8c5a",
+      "title": "『劇場版 薬屋のひとりごと』7つの新情報発表 『金曜ロードショー』で特別編集版の放送も（リアルサウンド）",
+      "url": "https://news.yahoo.co.jp/articles/e1ff383042ddc6bdabc92ba55c22757f52826545",
+      "host": "news.yahoo.co.jp",
+      "source": "Yahoo!ニュース",
+      "summary": "",
+      "publishedAt": "2026-10-23T02:56:15.000Z",
+      "image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20261023-00010014-realsound-000-1-view.jpg?exp=10800",
+      "categories": [
+        "anime"
+      ],
+      "works": [
+        "kusuriya"
+      ],
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": true
+    },
     {
       "id": "fd0238edb12f",
       "title": "「劇場版 薬屋のひとりごと」入プレ第1弾やムビチケ第2弾が決定！ 7つの最新情報が一挙お披露目",
@@ -1009,6 +1129,26 @@
       "summary": "『劇場版 薬屋のひとりごと 亡妃の秘宝』が、2026年12月11日より公開される。このたび、入場者特典第1弾の配布やムビチケ第2弾の発売など、7つの豪華な最新情報が一挙にお披露目となった。さらに公開初日には金曜ロードショーにて、TVアニメ第２期２クール目のエピソードを中心とする特別編集版「『薬屋のひとりごと』スペシャ…",
       "publishedAt": "2026-10-23T02:51:16.000Z",
       "image": "https://animeanime.jp/imgs/rss/946827.jpg",
+      "categories": [
+        "anime"
+      ],
+      "works": [
+        "kusuriya"
+      ],
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": false
+    },
+    {
+      "id": "2d03f9fe3645",
+      "title": "『劇場版 薬屋のひとりごと』主題歌は米津玄師「春が灯り」 新予告＆新ビジュアルも",
+      "url": "https://realsound.jp/movie/2026/10/post-2561975.html",
+      "host": "realsound.jp",
+      "source": "Real Sound｜リアルサウンド",
+      "summary": "",
+      "publishedAt": "2026-10-23T02:30:16.000Z",
+      "image": "https://realsound.jp/wp-content/uploads/2026/10/20261023-kusuriyayonedu-01.jpg",
       "categories": [
         "anime"
       ],
@@ -1043,13 +1183,13 @@
     },
     {
       "id": "d5900627f687",
-      "title": "「薬屋のひとりごと」新作一番くじの全ラインナップ公開！劇場版衣装の「猫猫」「壬氏」が、世界観をプラスした“新ブランド”で立体化｜Infoseekニュース",
-      "url": "https://news.infoseek.co.jp/article/inside_189671/",
-      "host": "news.infoseek.co.jp",
-      "source": "Infoseek",
+      "title": "「薬屋のひとりごと」新作一番くじの全ラインナップ公開！劇場版衣装の「猫猫」「壬氏」が、世界観をプラスした“新ブランド”で立体化",
+      "url": "https://www.inside-games.jp/article/2026/10/23/189671.html",
+      "host": "inside-games.jp",
+      "source": "インサイド",
       "summary": "",
       "publishedAt": "2026-10-23T01:30:03.000Z",
-      "image": "https://media.image.infoseek.co.jp/isnews/photos/inside/inside_189671_0-enlarge.jpg",
+      "image": "https://www.inside-games.jp/imgs/ogp_f/1797436.jpg",
       "categories": [
         "anime",
         "goods"
@@ -1103,26 +1243,6 @@
       "isNew": false
     },
     {
-      "id": "fd798e000f0d",
-      "title": "米津玄師、〈劇場版 薬屋のひとりごと〉主題歌に「春が灯り」書きおろし",
-      "url": "https://ototoy.jp/news/132404",
-      "host": "ototoy.jp",
-      "source": "OTOTOY",
-      "summary": "",
-      "publishedAt": "2026-10-23T01:00:00.000Z",
-      "image": "https://imgs.ototoy.jp/news/image.php/132404/0.jpg",
-      "categories": [
-        "anime"
-      ],
-      "works": [
-        "kusuriya"
-      ],
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": true
-    },
-    {
       "id": "048856b88e3c",
       "title": "異世界・ファンタジーアニメ4チャンネル | 無料で放送中の番組や配信中の話題作が見放題",
       "url": "https://abema.tv/now-on-air/isekai-anime-4",
@@ -1138,7 +1258,7 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "628ce4efd750",
@@ -1258,6 +1378,24 @@
       "viaGoogle": false,
       "sourceKind": "news",
       "isNew": false
+    },
+    {
+      "id": "22ffa863926e",
+      "title": "理不尽に職を失った“限界OL”が、悪役令嬢の従者に…異世界での再就職生活に「イキイキ働くのが最高」の声【漫画】",
+      "url": "https://thetv.jp/news/detail/1444102/landing/",
+      "host": "thetv.jp",
+      "source": "WEBザテレビジョン",
+      "summary": "",
+      "publishedAt": "2026-10-22T16:43:21.000Z",
+      "image": "",
+      "categories": [
+        "comic"
+      ],
+      "works": [],
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": true
     },
     {
       "id": "980f1504bc3a",
@@ -1518,6 +1656,26 @@
       "isNew": false
     },
     {
+      "id": "9f15cb332608",
+      "title": "『劇場版 薬屋のひとりごと』7つの最新情報が一挙解禁！ 完成披露試写会や金ロー特別版の放送も（ぴあ）",
+      "url": "https://news.yahoo.co.jp/articles/ce83e0bd6738a98bb34ec014c1d6e563e88e2a34",
+      "host": "news.yahoo.co.jp",
+      "source": "Yahoo!ニュース",
+      "summary": "",
+      "publishedAt": "2026-10-22T12:11:19.000Z",
+      "image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20261022-00010020-piaeigat-000-1-view.jpg?exp=10800",
+      "categories": [
+        "anime"
+      ],
+      "works": [
+        "kusuriya"
+      ],
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": true
+    },
+    {
       "id": "a2ab2a24aba0",
       "title": "「薬屋のひとりごと」金ローでTVアニメ特別編集版放送 約4分の新規映像追加 劇場版最新情報一挙発表（シネマトゥデイ）",
       "url": "https://news.yahoo.co.jp/articles/4332dea8128506a6e4ade0ff9e56e65aaa1d2c8d",
@@ -1638,26 +1796,6 @@
       "isNew": false
     },
     {
-      "id": "263d8ac7cfb2",
-      "title": "猫猫と壬氏のやり取りに背を向ける高順が1位！アニメ『薬屋のひとりごと』第50話コメント最多シーンTOP3",
-      "url": "https://times.abema.tv/articles/-/10282959",
-      "host": "times.abema.tv",
-      "source": "ABEMA TIMES",
-      "summary": "",
-      "publishedAt": "2026-10-22T11:14:00.000Z",
-      "image": "https://times-abema.ismcdn.jp/mwimgs/1/d/1200w/img_1d3a752d8bdabe56ca5d07dafe6686fd584473.jpg",
-      "categories": [
-        "anime"
-      ],
-      "works": [
-        "kusuriya"
-      ],
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": false
-    },
-    {
       "id": "e2c9c2e72210",
       "title": "＜薬屋のひとりごと＞猫猫は蝗害対策の手がかりが載る最後の一冊を求め、翠苓のもとを訪ねる…第52話あらすじ＆先行カット公開",
       "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOcy1rd3FwN2FHTzdUUmg2UVdmMmhtWVJJS1ZhaUFiYWZzSVJpNDFGQmxmNnI1TTdDWUlEUHhXajh6RE9lRzZ2SDdaanZHTW5KNHFXUUdQcERVSEtreUx2XzNoY1pGSUY5LU80Q3JPaEUwLVlycmZPLXZLOFdUUzlHT016Y9IBgwFBVV95cUxOcy1rd3FwN2FHTzdUUmg2UVdmMmhtWVJJS1ZhaUFiYWZzSVJpNDFGQmxmNnI1TTdDWUlEUHhXajh6RE9lRzZ2SDdaanZHTW5KNHFXUUdQcERVSEtreUx2XzNoY1pGSUY5LU80Q3JPaEUwLVlycmZPLXZLOFdUUzlHT016Yw?oc=5",
@@ -1686,26 +1824,6 @@
       "summary": "",
       "publishedAt": "2026-10-22T09:07:45.000Z",
       "image": "https://eeo.today/media/wp-content/uploads/2026/10/EP52②（©）.jpg",
-      "categories": [
-        "anime"
-      ],
-      "works": [
-        "kusuriya"
-      ],
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": false
-    },
-    {
-      "id": "e667bd5f6b06",
-      "title": "猫猫は“ある⼈物”が残していた⼿掛かりに気づく…アニメ『薬屋のひとりごと』第52話あらすじ・先行カット公開（ABEMA TIMES）",
-      "url": "https://news.yahoo.co.jp/articles/3c7c7643cf5ace0cc8db06b951e01f469b4b215d",
-      "host": "news.yahoo.co.jp",
-      "source": "Yahoo!ニュース",
-      "summary": "",
-      "publishedAt": "2026-10-22T09:00:39.000Z",
-      "image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20261022-10282893-abemad-000-1-view.jpg?exp=10800",
       "categories": [
         "anime"
       ],
@@ -1896,6 +2014,26 @@
       "isNew": false
     },
     {
+      "id": "b2d97375dc28",
+      "title": "舞台『転生したらスライムだった件』3-魔王覚醒編＆八星輝翔編- キービジュアル＆キャラクタービジュアル公開",
+      "url": "https://www.cinema-life.net/p260911_tspr/",
+      "host": "cinema-life.net",
+      "source": "CINEMA Life! シネマライフ",
+      "summary": "",
+      "publishedAt": "2026-10-22T02:47:34.000Z",
+      "image": "https://www.cinema-life.net/wp-content/uploads/79a6b7f317c691f5514fc25007789a68.jpg",
+      "categories": [
+        "goods"
+      ],
+      "works": [
+        "tensura"
+      ],
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": true
+    },
+    {
       "id": "d06d698be1dc",
       "title": "『Re:ゼロから始める異世界生活』の公式3Dファッション、VRChatに対応",
       "url": "https://www.moguravr.com/rezero-vrchat-3d-fashion/",
@@ -1928,6 +2066,26 @@
         "other"
       ],
       "works": [],
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": false
+    },
+    {
+      "id": "90830af949f6",
+      "title": "愛知のラグナシアでリゼロコラボイベントが2026年11月7日より開催へ",
+      "url": "https://news.dellows.jp/706515/",
+      "host": "news.dellows.jp",
+      "source": "Dellows News",
+      "summary": "",
+      "publishedAt": "2026-10-21T23:22:43.000Z",
+      "image": "https://news.dellows.jp/wp-content/uploads/2026/10/706515_1.jpg",
+      "categories": [
+        "goods"
+      ],
+      "works": [
+        "rezero"
+      ],
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
@@ -2072,6 +2230,26 @@
       "isNew": false
     },
     {
+      "id": "f1e344fb9da2",
+      "title": "＃4【同時視聴】『Re:ゼロから始める異世界生活』完全初見同時視聴！【侠凪あきな/#新人vtuber 】",
+      "url": "https://t.co/oUrWhaESqG",
+      "host": "t.co",
+      "source": "Howl.link",
+      "summary": "",
+      "publishedAt": "2026-10-21T14:59:03.000Z",
+      "image": "",
+      "categories": [
+        "other"
+      ],
+      "works": [
+        "rezero"
+      ],
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": true
+    },
+    {
       "id": "10c14d09ab34",
       "title": "異世界転生後の生活を現代知識でアップデート？ 『異世界生活攻略レシピ図鑑』刊行へ (リアルサウンド)",
       "url": "https://news.yahoo.co.jp/articles/f12acc72fb3099e5ab8f5e84e67e214373ee17e8/images/000",
@@ -2146,6 +2324,26 @@
       "viaGoogle": false,
       "sourceKind": "news",
       "isNew": false
+    },
+    {
+      "id": "d0271d413d43",
+      "title": "【モンスト】エミリアαの評価とわくわくの実｜リゼロ",
+      "url": "https://xn--eckwa2aa3a9c8j8bve9d.gamewith.jp/article/show/379887",
+      "host": "xn--eckwa2aa3a9c8j8bve9d.gamewith.jp",
+      "source": "GameWith",
+      "summary": "",
+      "publishedAt": "2026-10-21T08:47:29.000Z",
+      "image": "https://img.gamewith.jp/article/thumbnail/rectangle/379887.png?date=1671109518",
+      "categories": [
+        "game"
+      ],
+      "works": [
+        "rezero"
+      ],
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": true
     },
     {
       "id": "cd3f374a2336",
@@ -2246,11 +2444,11 @@
     {
       "id": "66a0351a23e5",
       "title": "【アニメ異世界】異世界に召喚され、不思議な超能力に目覚めた私は、会社員からモンスターハンター戦士へと変貌を遂げた！【マンガ動画】 Vietnam War (wvZtjN2iOx)",
-      "url": "https://media.unisba.ac.id/766eccf6/116e8585DwcDBFVmTAQPA1o/?share",
+      "url": "https://media.unisba.ac.id/1f124728/d8313086DwcDBFVmTAQPA1o/?share",
       "host": "media.unisba.ac.id",
       "source": "Unisba Media",
       "summary": "",
-      "publishedAt": "2026-10-21T04:15:39.000Z",
+      "publishedAt": "2026-10-21T04:41:15.000Z",
       "image": "",
       "categories": [
         "anime",
@@ -2261,6 +2459,46 @@
       "viaGoogle": false,
       "sourceKind": "news",
       "isNew": false
+    },
+    {
+      "id": "fcaee2850312",
+      "title": "ARROVA、Re:ゼロから始める異世界生活のVRChat向け衣装を10月発売へ",
+      "url": "https://news.dellows.jp/827583/?from",
+      "host": "news.dellows.jp",
+      "source": "Dellows News",
+      "summary": "",
+      "publishedAt": "2026-10-21T04:40:36.000Z",
+      "image": "https://news.dellows.jp/wp-content/uploads/2026/10/827583_1.jpg",
+      "categories": [
+        "other"
+      ],
+      "works": [
+        "rezero"
+      ],
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": true
+    },
+    {
+      "id": "b47fe5d7a757",
+      "title": "リゼロ公式3Dファッションアイテム発売へ VRChat向けに順次展開",
+      "url": "https://news.dellows.jp/827613/?from",
+      "host": "news.dellows.jp",
+      "source": "Dellows News",
+      "summary": "",
+      "publishedAt": "2026-10-21T04:40:36.000Z",
+      "image": "https://news.dellows.jp/wp-content/uploads/2026/10/827613_1.jpg",
+      "categories": [
+        "other"
+      ],
+      "works": [
+        "rezero"
+      ],
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": true
     },
     {
       "id": "f5c251ed415f",
@@ -2379,6 +2617,26 @@
       "viaGoogle": false,
       "sourceKind": "news",
       "isNew": false
+    },
+    {
+      "id": "57882cbd6e66",
+      "title": "【白猫】レムの評価とおすすめ武器 | リゼロコラボ",
+      "url": "https://gamewith.jp/shironeko/article/show/67585",
+      "host": "gamewith.jp",
+      "source": "GameWith",
+      "summary": "",
+      "publishedAt": "2026-10-20T14:03:46.000Z",
+      "image": "https://img.gamewith.jp/article/thumbnail/rectangle/67585.png?date=1504687473",
+      "categories": [
+        "goods"
+      ],
+      "works": [
+        "rezero"
+      ],
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": true
     },
     {
       "id": "1fb1a35b1cef",
@@ -2910,7 +3168,7 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "5bd475e649e2",
@@ -2931,106 +3189,6 @@
       "viaGoogle": false,
       "sourceKind": "news",
       "isNew": false
-    },
-    {
-      "id": "84f21a163a65",
-      "title": "本好きの下剋上：累計1500万部突破 アニメも人気のラノベ",
-      "url": "https://mantan-web.jp/article/20261020dog00m200040000a.html",
-      "host": "mantan-web.jp",
-      "source": "まんたんウェブ",
-      "summary": "",
-      "publishedAt": "2026-10-20T03:20:41.000Z",
-      "image": "https://storage.mantan-web.jp/w=1280,h=720,icr=0:0.1:1:1,a=2,g=2,f=webp:auto/images/2026/10/20/20261020dog00m200040000a/001.jpg",
-      "categories": [
-        "anime",
-        "book"
-      ],
-      "works": [
-        "honzuki"
-      ],
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": false
-    },
-    {
-      "id": "38b68ee7014a",
-      "title": "本好きの下剋上＞累計1500万部突破 アニメも人気のラノベ（MANTANWEB）",
-      "url": "https://news.yahoo.co.jp/articles/a759fd4f08e8ec312a5f4de746c547314c26d893",
-      "host": "news.yahoo.co.jp",
-      "source": "Yahoo!ニュース",
-      "summary": "",
-      "publishedAt": "2026-10-20T03:19:00.000Z",
-      "image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20261020-00000030-mantan-000-1-view.jpg?exp=10800",
-      "categories": [
-        "anime",
-        "book"
-      ],
-      "works": [
-        "honzuki"
-      ],
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": false
-    },
-    {
-      "id": "1e95686d0b87",
-      "title": "Spotify、アニメのノンクレジットOP／ED映像154曲を配信 『リゼロ』『ノゲノラ』など - KAI-YOU",
-      "url": "https://kai-you.net/article/96884",
-      "host": "kai-you.net",
-      "source": "KAI-YOU",
-      "summary": "",
-      "publishedAt": "2026-10-20T03:11:00.000Z",
-      "image": "https://img.kai-you.net/storage/2026/10/6056a670-2bcc-42da-bb20-37c3767698c5/jpg/AnimeHits10sVideo.jpg",
-      "categories": [
-        "anime"
-      ],
-      "works": [
-        "rezero"
-      ],
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": false
-    },
-    {
-      "id": "bf0958931afd",
-      "title": "Spotifyで「リゼロ」「はがない」など154曲分のアニメOP＆EDノンクレジット映像配信（音楽ナタリー）",
-      "url": "https://news.yahoo.co.jp/articles/98ecbb9dd52401860ac02ae1d84a208ff3bc57b6",
-      "host": "news.yahoo.co.jp",
-      "source": "Yahoo!ニュース",
-      "summary": "",
-      "publishedAt": "2026-10-20T03:01:38.000Z",
-      "image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20261020-00000048-natalien-000-1-view.jpg?exp=10800",
-      "categories": [
-        "anime"
-      ],
-      "works": [
-        "rezero"
-      ],
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": false
-    },
-    {
-      "id": "155e519959cd",
-      "title": "＜転生重騎士＞エルマはマスターの存在進化への危機感から、ギルド長への面会を打診する…第17話あらすじ＆場面カット公開",
-      "url": "https://thetv.jp/news/detail/1450128/p2/",
-      "host": "thetv.jp",
-      "source": "WEBザテレビジョン",
-      "summary": "",
-      "publishedAt": "2026-10-20T03:00:42.000Z",
-      "image": "https://thetv.jp/i/nw/1450128/18860013.jpg?w=1284",
-      "categories": [
-        "anime"
-      ],
-      "works": [],
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": true
     }
   ]
 }
