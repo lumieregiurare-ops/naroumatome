@@ -1,18 +1,18 @@
 {
-  "updatedAt": "2026-10-23T21:00:19.549Z",
+  "updatedAt": "2026-10-23T21:30:18.619Z",
   "site": {
     "title": "なろう系まとめ",
     "tagline": "小説家になろう発の作品のアニメ化・コミカライズ・書籍化のニュースと、なろうのランキングをまとめています。",
     "url": "https://naroumatome.gamelab.website/",
     "contactUrl": "https://docs.google.com/forms/d/e/1FAIpQLSesWyhmZ6sRS_ve-c3X2KqF_wC5PK2TgwgQbTKmnQltSlg5Jw/viewform"
   },
-  "total": 96,
-  "todayCount": 8,
+  "total": 102,
+  "todayCount": 9,
   "categories": [
     {
       "id": "anime",
       "label": "アニメ",
-      "count": 62
+      "count": 61
     },
     {
       "id": "comic",
@@ -22,27 +22,27 @@
     {
       "id": "book",
       "label": "書籍・ラノベ",
-      "count": 14
+      "count": 16
     },
     {
       "id": "web",
       "label": "Web小説・賞",
-      "count": 5
+      "count": 7
     },
     {
       "id": "game",
       "label": "ゲーム",
-      "count": 6
+      "count": 8
     },
     {
       "id": "goods",
       "label": "グッズ・イベント",
-      "count": 12
+      "count": 13
     },
     {
       "id": "other",
       "label": "そのほか",
-      "count": 13
+      "count": 15
     }
   ],
   "works": [
@@ -62,13 +62,13 @@
       "id": "rezero",
       "title": "Re:ゼロから始める異世界生活",
       "short": "リゼロ",
-      "count": 10
+      "count": 16
     },
     {
       "id": "honzuki",
       "title": "本好きの下剋上",
       "short": "本好き",
-      "count": 3
+      "count": 1
     },
     {
       "id": "kusuriya",
@@ -307,12 +307,24 @@
       "count": 9
     },
     {
+      "name": "Dellows News",
+      "count": 5
+    },
+    {
       "name": "eeo",
       "count": 4
     },
     {
       "name": "ナタリー",
       "count": 4
+    },
+    {
+      "name": "GameWith",
+      "count": 4
+    },
+    {
+      "name": "ABEMA",
+      "count": 3
     },
     {
       "name": "ニコニコニュース",
@@ -323,15 +335,7 @@
       "count": 3
     },
     {
-      "name": "Dellows News",
-      "count": 3
-    },
-    {
       "name": "山陽新聞デジタル｜さんデジ",
-      "count": 2
-    },
-    {
-      "name": "ABEMA",
       "count": 2
     },
     {
@@ -351,7 +355,11 @@
       "count": 2
     },
     {
-      "name": "GameWith",
+      "name": "Howl.link",
+      "count": 2
+    },
+    {
+      "name": "パチンコ・パチスロ情報島＋",
       "count": 2
     },
     {
@@ -435,10 +443,6 @@
       "count": 1
     },
     {
-      "name": "パチンコ・パチスロ情報島＋",
-      "count": 1
-    },
-    {
       "name": "Mogura VR",
       "count": 1
     },
@@ -451,10 +455,6 @@
       "count": 1
     },
     {
-      "name": "ライブドアニュース",
-      "count": 1
-    },
-    {
       "name": "Infoseek",
       "count": 1
     },
@@ -464,10 +464,6 @@
     },
     {
       "name": "産経ニュース",
-      "count": 1
-    },
-    {
-      "name": "Koubo",
       "count": 1
     }
   ],
@@ -594,6 +590,56 @@
       ]
     },
     {
+      "id": "d06d698be1dc",
+      "title": "『Re:ゼロから始める異世界生活』の公式3Dファッション、VRChatに対応",
+      "summary": "",
+      "url": "https://www.moguravr.com/rezero-vrchat-3d-fashion/",
+      "image": "https://assets.moguravr.com/uploads/2026/10/e729a9fc3c2b710aa690a89ac2c2cfbc-kix.vtrap8e8z2nn.webp",
+      "leadSource": "Mogura VR",
+      "publishedAt": "2026-10-22T02:33:44.000Z",
+      "sourceCount": 4,
+      "articleCount": 5,
+      "categories": [
+        "other",
+        "anime"
+      ],
+      "keywords": [
+        "vrchat",
+        "ファッション",
+        "異世界生活"
+      ],
+      "articles": [
+        {
+          "title": "ARROVA、Re:ゼロから始める異世界生活のVRChat向け衣装を10月発売へ",
+          "url": "https://news.dellows.jp/827583/?from",
+          "source": "Dellows News",
+          "publishedAt": "2026-10-21T04:40:36.000Z",
+          "isPR": false
+        },
+        {
+          "title": "リゼロ公式3Dファッションアイテム発売へ VRChat向けに順次展開",
+          "url": "https://news.dellows.jp/827613/?from",
+          "source": "Dellows News",
+          "publishedAt": "2026-10-21T04:40:36.000Z",
+          "isPR": false
+        },
+        {
+          "title": "「TOKYO AVATAR GATE」 が TVアニメ『Re:ゼロから始める異世界生活』とコラボレーション。VRChat向け公式デジタルファッションを発売。",
+          "url": "https://animeanime.jp/release/prtimes/20261021/321232.html",
+          "source": "アニメ！アニメ！",
+          "publishedAt": "2026-10-21T03:00:00.000Z",
+          "isPR": false
+        },
+        {
+          "title": "V、TVアニメ『Re:ゼロから始める異世界生活』コラボの公式3Dデジタルファッション制作に参画",
+          "url": "https://www.sankei.com/pressrelease/prtimes/XKH4R6XRSFL2DNHKKAO54S54VY/",
+          "source": "産経ニュース",
+          "publishedAt": "2026-10-21T03:00:00.000Z",
+          "isPR": false
+        }
+      ]
+    },
+    {
       "id": "fd0238edb12f",
       "title": "「劇場版 薬屋のひとりごと」入プレ第1弾やムビチケ第2弾が決定！ 7つの最新情報が一挙お披露目",
       "summary": "『劇場版 薬屋のひとりごと 亡妃の秘宝』が、2026年12月11日より公開される。このたび、入場者特典第1弾の配布やムビチケ第2弾の発売など、7つの豪華な最新情報が一挙にお披露目となった。さらに公開初日には金曜ロードショーにて、TVアニメ第２期２クール目のエピソードを中心とする特別編集版「『薬屋のひとりごと』スペシャ…",
@@ -636,56 +682,13 @@
       ]
     },
     {
-      "id": "d06d698be1dc",
-      "title": "『Re:ゼロから始める異世界生活』の公式3Dファッション、VRChatに対応",
+      "id": "1615e9d935d0",
+      "title": "薬屋のひとりごと 第3期 #49〜53",
       "summary": "",
-      "url": "https://www.moguravr.com/rezero-vrchat-3d-fashion/",
-      "image": "https://assets.moguravr.com/uploads/2026/10/e729a9fc3c2b710aa690a89ac2c2cfbc-kix.vtrap8e8z2nn.webp",
-      "leadSource": "Mogura VR",
-      "publishedAt": "2026-10-22T02:33:44.000Z",
-      "sourceCount": 4,
-      "articleCount": 4,
-      "categories": [
-        "other",
-        "anime"
-      ],
-      "keywords": [
-        "異世界生活",
-        "vrchat",
-        "ファッション"
-      ],
-      "articles": [
-        {
-          "title": "ARROVA、Re:ゼロから始める異世界生活のVRChat向け衣装を10月発売へ",
-          "url": "https://news.dellows.jp/827583/?from",
-          "source": "Dellows News",
-          "publishedAt": "2026-10-21T04:40:36.000Z",
-          "isPR": false
-        },
-        {
-          "title": "「TOKYO AVATAR GATE」 が TVアニメ『Re:ゼロから始める異世界生活』とコラボレーション。VRChat向け公式デジタルファッションを発売。",
-          "url": "https://animeanime.jp/release/prtimes/20261021/321232.html",
-          "source": "アニメ！アニメ！",
-          "publishedAt": "2026-10-21T03:00:00.000Z",
-          "isPR": false
-        },
-        {
-          "title": "V、TVアニメ『Re:ゼロから始める異世界生活』コラボの公式3Dデジタルファッション制作に参画",
-          "url": "https://www.sankei.com/pressrelease/prtimes/XKH4R6XRSFL2DNHKKAO54S54VY/",
-          "source": "産経ニュース",
-          "publishedAt": "2026-10-21T03:00:00.000Z",
-          "isPR": false
-        }
-      ]
-    },
-    {
-      "id": "5677f018e565",
-      "title": "Eveが「薬屋のひとりごと」ED曲収録の新作EP「AIYOU」リリース",
-      "summary": "",
-      "url": "https://natalie.mu/music/news/695055",
-      "image": "https://skream.jp/news/2026/10/23/images/Main_1_yao_large_105_fix2.jpg",
-      "leadSource": "ナタリー",
-      "publishedAt": "2026-10-23T10:39:00.000Z",
+      "url": "https://abema.tv/channels/abema-anime-3/slots/AQzUYN6B1nb79y",
+      "image": "https://static.sanyonews.jp/image/article/size1/f/7/1/d/f71dee3ccd661920ea7bafdeac4e8b6b_1.jpg",
+      "leadSource": "ABEMA",
+      "publishedAt": "2026-10-23T20:02:17.000Z",
       "sourceCount": 3,
       "articleCount": 3,
       "categories": [
@@ -693,22 +696,21 @@
       ],
       "keywords": [
         "薬屋",
-        "eve",
-        "リリース"
+        "新規映像"
       ],
       "articles": [
         {
-          "title": "Eve、TVアニメ\"薬屋のひとりごと\"第3期第1クールEDテーマを表題曲としたEP『AIYOU』11/25リリース決定。まりやす、中谷友紀子による描き下ろしジャケット公開",
-          "url": "https://skream.jp/news/2026/10/eve_aiyou_ep.php",
-          "source": "Skream!",
-          "publishedAt": "2026-10-23T10:00:00.000Z",
+          "title": "『薬屋のひとりごと』金ローで特別編集版放送決定 第2期ラストシーンにつながる約4分の新規映像が追加",
+          "url": "https://www.sanyonews.jp/article/2009126?rct",
+          "source": "山陽新聞デジタル｜さんデジ",
+          "publishedAt": "2026-10-23T18:17:07.000Z",
           "isPR": false
         },
         {
-          "title": "Eve、TVアニメ『薬屋のひとりごと』EDテーマ表題の新EPリリース決定 - Rolling Stone Japan(ローリングストーン ジャパン）",
-          "url": "https://rollingstonejapan.com/articles/detail/45650",
-          "source": "Rolling Stone Japan(ローリングストーン ジャパン）",
-          "publishedAt": "2026-10-23T10:00:00.000Z",
+          "title": "＜薬屋のひとりごと＞金ローでスペシャルエディション放送 新規映像も 劇場版の第1弾特典に小冊子「帰路の向日葵」",
+          "url": "https://news.yahoo.co.jp/articles/db3e969ad689d9e45196ccb0cbac37f2a7bd24ad",
+          "source": "Yahoo!ニュース",
+          "publishedAt": "2026-10-22T12:00:00.000Z",
           "isPR": false
         }
       ]
@@ -745,42 +747,6 @@
           "url": "https://gamewith.jp/gamedb/8388/articles/64760",
           "source": "GameWith",
           "publishedAt": "2026-10-22T05:28:45.000Z",
-          "isPR": false
-        }
-      ]
-    },
-    {
-      "id": "b9c5a803cb08",
-      "title": "『本好きの下剋上』シリーズ累計1500万部突破 続編「貴族院の自称図書委員」TVアニメ化も決定（リアルサウンド）",
-      "summary": "",
-      "url": "https://news.yahoo.co.jp/articles/18e7bda0453db2a5e0ea92107730ee5b8d6a6a91",
-      "image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20261021-00010058-realsound-000-1-view.jpg?exp=10800",
-      "leadSource": "Yahoo!ニュース",
-      "publishedAt": "2026-10-21T12:30:52.000Z",
-      "sourceCount": 3,
-      "articleCount": 3,
-      "categories": [
-        "anime",
-        "other"
-      ],
-      "keywords": [
-        "本好き",
-        "本好",
-        "下剋上"
-      ],
-      "articles": [
-        {
-          "title": "【画像】『本好きの下剋上』シリーズ累計1500万部突破 続編「貴族院の自称図書委員」TVアニメ化も決定",
-          "url": "https://news.livedoor.com/article/image_detail/32622564/?img_id",
-          "source": "ライブドアニュース",
-          "publishedAt": "2026-10-21T09:48:29.000Z",
-          "isPR": false
-        },
-        {
-          "title": "『本好きの下剋上』累計1500万部突破の快挙達成",
-          "url": "https://koubo.jp/article/133200",
-          "source": "Koubo",
-          "publishedAt": "2026-10-20T21:05:22.000Z",
           "isPR": false
         }
       ]
@@ -829,33 +795,6 @@
       ]
     },
     {
-      "id": "fed6a38212c2",
-      "title": "『薬屋のひとりごと』金ローで特別編集版放送決定 第2期ラストシーンにつながる約4分の新規映像が追加",
-      "summary": "",
-      "url": "https://www.sanyonews.jp/article/2009126?rct",
-      "image": "https://static.sanyonews.jp/image/article/size1/f/7/1/d/f71dee3ccd661920ea7bafdeac4e8b6b_1.jpg",
-      "leadSource": "山陽新聞デジタル｜さんデジ",
-      "publishedAt": "2026-10-23T18:17:07.000Z",
-      "sourceCount": 2,
-      "articleCount": 2,
-      "categories": [
-        "anime"
-      ],
-      "keywords": [
-        "薬屋",
-        "新規映像"
-      ],
-      "articles": [
-        {
-          "title": "＜薬屋のひとりごと＞金ローでスペシャルエディション放送 新規映像も 劇場版の第1弾特典に小冊子「帰路の向日葵」",
-          "url": "https://news.yahoo.co.jp/articles/db3e969ad689d9e45196ccb0cbac37f2a7bd24ad",
-          "source": "Yahoo!ニュース",
-          "publishedAt": "2026-10-22T12:00:00.000Z",
-          "isPR": false
-        }
-      ]
-    },
-    {
       "id": "07522b67bff2",
       "title": "劇場版『薬屋のひとりごと』入場者特典は原作者書き下ろし小説 猫猫＆壬氏の“その後”描く",
       "summary": "",
@@ -880,6 +819,62 @@
           "url": "https://news.yahoo.co.jp/articles/fdddd9b512708b7ea220c68f98650a2716a55d1e",
           "source": "Yahoo!ニュース",
           "publishedAt": "2026-10-23T15:09:15.000Z",
+          "isPR": false
+        }
+      ]
+    },
+    {
+      "id": "6749653167b8",
+      "title": "Eve、TVアニメ\"薬屋のひとりごと\"第3期第1クールEDテーマを表題曲としたEP『AIYOU』11/25リリース決定。まりやす、中谷友紀子による描き下ろしジャケット公開",
+      "summary": "",
+      "url": "https://skream.jp/news/2026/10/eve_aiyou_ep.php",
+      "image": "https://skream.jp/news/2026/10/23/images/Main_1_yao_large_105_fix2.jpg",
+      "leadSource": "Skream!",
+      "publishedAt": "2026-10-23T10:00:00.000Z",
+      "sourceCount": 2,
+      "articleCount": 2,
+      "categories": [
+        "anime"
+      ],
+      "keywords": [
+        "薬屋",
+        "eve",
+        "テーマ"
+      ],
+      "articles": [
+        {
+          "title": "Eve、TVアニメ『薬屋のひとりごと』EDテーマ表題の新EPリリース決定 - Rolling Stone Japan(ローリングストーン ジャパン）",
+          "url": "https://rollingstonejapan.com/articles/detail/45650",
+          "source": "Rolling Stone Japan(ローリングストーン ジャパン）",
+          "publishedAt": "2026-10-23T10:00:00.000Z",
+          "isPR": false
+        }
+      ]
+    },
+    {
+      "id": "a2e5f68ad8b4",
+      "title": "「異世界おじさん」累計600万部突破 16巻CMに悠木碧演じるメイベル（動画あり）",
+      "summary": "",
+      "url": "https://natalie.mu/comic/news/694935",
+      "image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20261021-00010058-realsound-000-1-view.jpg?exp=10800",
+      "leadSource": "ナタリー",
+      "publishedAt": "2026-10-23T09:25:00.000Z",
+      "sourceCount": 2,
+      "articleCount": 2,
+      "categories": [
+        "book",
+        "anime"
+      ],
+      "keywords": [
+        "累計",
+        "万部突破"
+      ],
+      "articles": [
+        {
+          "title": "『本好きの下剋上』シリーズ累計1500万部突破 続編「貴族院の自称図書委員」TVアニメ化も決定（リアルサウンド）",
+          "url": "https://news.yahoo.co.jp/articles/18e7bda0453db2a5e0ea92107730ee5b8d6a6a91",
+          "source": "Yahoo!ニュース",
+          "publishedAt": "2026-10-21T12:30:52.000Z",
           "isPR": false
         }
       ]
@@ -942,13 +937,33 @@
     }
   ],
   "churn": {
-    "previousAt": "2026-10-23T20:30:19.646Z",
-    "previousCount": 104,
-    "newCount": 1
+    "previousAt": "2026-10-23T21:00:19.549Z",
+    "previousCount": 96,
+    "newCount": 9
   },
   "updateGapMin": 30,
-  "nextUpdateAt": "2026-10-23T21:30:19.549Z",
+  "nextUpdateAt": "2026-10-23T22:00:18.619Z",
   "items": [
+    {
+      "id": "1615e9d935d0",
+      "title": "薬屋のひとりごと 第3期 #49〜53",
+      "url": "https://abema.tv/channels/abema-anime-3/slots/AQzUYN6B1nb79y",
+      "host": "abema.tv",
+      "source": "ABEMA",
+      "summary": "",
+      "publishedAt": "2026-10-23T20:02:17.000Z",
+      "image": "",
+      "categories": [
+        "anime"
+      ],
+      "works": [
+        "kusuriya"
+      ],
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": true
+    },
     {
       "id": "e56d4cd36666",
       "title": "小説家になろう公式X（@syosetu）から",
@@ -1343,26 +1358,6 @@
       "isNew": false
     },
     {
-      "id": "5677f018e565",
-      "title": "Eveが「薬屋のひとりごと」ED曲収録の新作EP「AIYOU」リリース",
-      "url": "https://natalie.mu/music/news/695055",
-      "host": "natalie.mu",
-      "source": "ナタリー",
-      "summary": "",
-      "publishedAt": "2026-10-23T10:39:00.000Z",
-      "image": "",
-      "categories": [
-        "anime"
-      ],
-      "works": [
-        "kusuriya"
-      ],
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": false
-    },
-    {
       "id": "37f45a222c46",
       "title": "缶バッジ「TVアニメ『Re:ゼロから始める異世界生活』」02/星空の探検衣装ver. コンプリートセット(全8種)(ミニキャライラスト)",
       "url": "https://eeo.today/store/101/products/detail/338322",
@@ -1576,6 +1571,24 @@
       "viaGoogle": false,
       "sourceKind": "news",
       "isNew": false
+    },
+    {
+      "id": "a2e5f68ad8b4",
+      "title": "「異世界おじさん」累計600万部突破 16巻CMに悠木碧演じるメイベル（動画あり）",
+      "url": "https://natalie.mu/comic/news/694935",
+      "host": "natalie.mu",
+      "source": "ナタリー",
+      "summary": "",
+      "publishedAt": "2026-10-23T09:25:00.000Z",
+      "image": "",
+      "categories": [
+        "book"
+      ],
+      "works": [],
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": true
     },
     {
       "id": "e938301bbfd4",
@@ -2117,7 +2130,7 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "6f09288fa895",
@@ -2178,6 +2191,25 @@
       "viaGoogle": false,
       "sourceKind": "news",
       "isNew": false
+    },
+    {
+      "id": "18214d39611f",
+      "title": "【投稿削除】銀賞作家が生活保護投稿で執筆休止！集英社WEB小説大賞銀賞を受賞した「なろう小説家」印税が入ってきたにも関わらず生活保護二文句を言って",
+      "url": "https://t.co/IGifaUPeau",
+      "host": "t.co",
+      "source": "Howl.link",
+      "summary": "",
+      "publishedAt": "2026-10-22T11:14:31.000Z",
+      "image": "",
+      "categories": [
+        "web",
+        "book"
+      ],
+      "works": [],
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": true
     },
     {
       "id": "980f1504bc3a",
@@ -2297,6 +2329,26 @@
       "isNew": false
     },
     {
+      "id": "c9e4759a1095",
+      "title": "「リゼロ」「モンハン」が最多導入【直近１カ月における新機種導入状況】",
+      "url": "https://p-johojima.jp/yugijoho/post-74036/",
+      "host": "p-johojima.jp",
+      "source": "パチンコ・パチスロ情報島＋",
+      "summary": "",
+      "publishedAt": "2026-10-22T03:35:44.000Z",
+      "image": "https://p-johojima.jp/wp-content/uploads/2026/01/colum_image_20221205.jpg",
+      "categories": [
+        "other"
+      ],
+      "works": [
+        "rezero"
+      ],
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": true
+    },
+    {
       "id": "b879bb9d41e9",
       "title": "「リゼロ」も下落、パチンコ稼働の回復必須【パチンコ中古機流通状況】",
       "url": "https://p-johojima.jp/yugijoho/post-74034/",
@@ -2335,6 +2387,26 @@
       "viaGoogle": false,
       "sourceKind": "news",
       "isNew": false
+    },
+    {
+      "id": "90830af949f6",
+      "title": "愛知のラグナシアでリゼロコラボイベントが2026年11月7日より開催へ",
+      "url": "https://news.dellows.jp/706515/",
+      "host": "news.dellows.jp",
+      "source": "Dellows News",
+      "summary": "",
+      "publishedAt": "2026-10-21T23:22:43.000Z",
+      "image": "https://news.dellows.jp/wp-content/uploads/2026/10/706515_1.jpg",
+      "categories": [
+        "goods"
+      ],
+      "works": [
+        "rezero"
+      ],
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": true
     },
     {
       "id": "d6726594db56",
@@ -2476,6 +2548,26 @@
       "isNew": false
     },
     {
+      "id": "f1e344fb9da2",
+      "title": "＃4【同時視聴】『Re:ゼロから始める異世界生活』完全初見同時視聴！【侠凪あきな/#新人vtuber 】",
+      "url": "https://t.co/oUrWhaESqG",
+      "host": "t.co",
+      "source": "Howl.link",
+      "summary": "",
+      "publishedAt": "2026-10-21T14:59:03.000Z",
+      "image": "",
+      "categories": [
+        "other"
+      ],
+      "works": [
+        "rezero"
+      ],
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": true
+    },
+    {
       "id": "10c14d09ab34",
       "title": "異世界転生後の生活を現代知識でアップデート？ 『異世界生活攻略レシピ図鑑』刊行へ (リアルサウンド)",
       "url": "https://news.yahoo.co.jp/articles/f12acc72fb3099e5ab8f5e84e67e214373ee17e8/images/000",
@@ -2532,24 +2624,24 @@
       "isNew": false
     },
     {
-      "id": "1f138259f874",
-      "title": "【画像】『本好きの下剋上』シリーズ累計1500万部突破 続編「貴族院の自称図書委員」TVアニメ化も決定",
-      "url": "https://news.livedoor.com/article/image_detail/32622564/?img_id",
-      "host": "news.livedoor.com",
-      "source": "ライブドアニュース",
+      "id": "d0271d413d43",
+      "title": "【モンスト】エミリアαの評価とわくわくの実｜リゼロ",
+      "url": "https://xn--eckwa2aa3a9c8j8bve9d.gamewith.jp/article/show/379887",
+      "host": "xn--eckwa2aa3a9c8j8bve9d.gamewith.jp",
+      "source": "GameWith",
       "summary": "",
-      "publishedAt": "2026-10-21T09:48:29.000Z",
-      "image": "https://image.news.livedoor.com/newsimage/stf/2/1/21312_1830_d6d40cb5_0313e93e.jpg",
+      "publishedAt": "2026-10-21T08:47:29.000Z",
+      "image": "https://img.gamewith.jp/article/thumbnail/rectangle/379887.png?date=1671109518",
       "categories": [
-        "anime"
+        "game"
       ],
       "works": [
-        "honzuki"
+        "rezero"
       ],
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": false
+      "isNew": true
     },
     {
       "id": "cd3f374a2336",
@@ -2704,6 +2796,26 @@
       "isNew": false
     },
     {
+      "id": "b47fe5d7a757",
+      "title": "リゼロ公式3Dファッションアイテム発売へ VRChat向けに順次展開",
+      "url": "https://news.dellows.jp/827613/?from",
+      "host": "news.dellows.jp",
+      "source": "Dellows News",
+      "summary": "",
+      "publishedAt": "2026-10-21T04:40:36.000Z",
+      "image": "https://news.dellows.jp/wp-content/uploads/2026/10/827613_1.jpg",
+      "categories": [
+        "other"
+      ],
+      "works": [
+        "rezero"
+      ],
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": true
+    },
+    {
       "id": "f5c251ed415f",
       "title": "アニメ『転生したら剣でしたII』第3話「アンデッドはガチガチでした」のあらすじ＆先行カット解禁",
       "url": "https://ln-news.com/articles/126997",
@@ -2722,6 +2834,27 @@
       "viaGoogle": false,
       "sourceKind": "news",
       "isNew": false
+    },
+    {
+      "id": "367e42c1343b",
+      "title": "【パズドラ】リゼロコラボの交換おすすめランキングと確保数",
+      "url": "https://xn--0ck4aw2h.gamewith.jp/article/show/541302",
+      "host": "xn--0ck4aw2h.gamewith.jp",
+      "source": "GameWith",
+      "summary": "",
+      "publishedAt": "2026-10-21T03:50:12.000Z",
+      "image": "https://img.gamewith.jp/article/thumbnail/rectangle/541302.png?date=1769084696",
+      "categories": [
+        "web",
+        "game"
+      ],
+      "works": [
+        "rezero"
+      ],
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": true
     },
     {
       "id": "43415f132384",
@@ -2797,26 +2930,6 @@
         "comic"
       ],
       "works": [],
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": false
-    },
-    {
-      "id": "d57958b74b5e",
-      "title": "『本好きの下剋上』累計1500万部突破の快挙達成",
-      "url": "https://koubo.jp/article/133200",
-      "host": "koubo.jp",
-      "source": "Koubo",
-      "summary": "",
-      "publishedAt": "2026-10-20T21:05:22.000Z",
-      "image": "https://koubo-dz7cn3ci.s3.ap-northeast-1.amazonaws.com/strapi/article_133200_keyvisual_85f3d58452.jpeg",
-      "categories": [
-        "other"
-      ],
-      "works": [
-        "honzuki"
-      ],
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
