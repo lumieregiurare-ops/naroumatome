@@ -1,18 +1,18 @@
 {
-  "updatedAt": "2026-10-24T01:30:20.713Z",
+  "updatedAt": "2026-10-24T01:57:01.360Z",
   "site": {
     "title": "なろう系まとめ",
     "tagline": "小説家になろう発の作品のアニメ化・コミカライズ・書籍化のニュースと、なろうのランキングをまとめています。",
     "url": "https://naroumatome.gamelab.website/",
     "contactUrl": "https://docs.google.com/forms/d/e/1FAIpQLSesWyhmZ6sRS_ve-c3X2KqF_wC5PK2TgwgQbTKmnQltSlg5Jw/viewform"
   },
-  "total": 105,
+  "total": 97,
   "todayCount": 13,
   "categories": [
     {
       "id": "anime",
       "label": "アニメ",
-      "count": 63
+      "count": 60
     },
     {
       "id": "comic",
@@ -27,22 +27,22 @@
     {
       "id": "web",
       "label": "Web小説・賞",
-      "count": 9
+      "count": 7
     },
     {
       "id": "game",
       "label": "ゲーム",
-      "count": 10
+      "count": 7
     },
     {
       "id": "goods",
       "label": "グッズ・イベント",
-      "count": 16
+      "count": 15
     },
     {
       "id": "other",
       "label": "そのほか",
-      "count": 15
+      "count": 13
     }
   ],
   "works": [
@@ -50,7 +50,7 @@
       "id": "tensura",
       "title": "転生したらスライムだった件",
       "short": "転スラ",
-      "count": 4
+      "count": 5
     },
     {
       "id": "mushoku",
@@ -62,7 +62,7 @@
       "id": "rezero",
       "title": "Re:ゼロから始める異世界生活",
       "short": "リゼロ",
-      "count": 16
+      "count": 10
     },
     {
       "id": "honzuki",
@@ -74,7 +74,7 @@
       "id": "kusuriya",
       "title": "薬屋のひとりごと",
       "short": "薬屋",
-      "count": 39
+      "count": 37
     },
     {
       "id": "kagejitsu",
@@ -296,7 +296,7 @@
   "sources": [
     {
       "name": "Yahoo!ニュース",
-      "count": 18
+      "count": 19
     },
     {
       "name": "ラノベニュースオンライン",
@@ -307,19 +307,11 @@
       "count": 9
     },
     {
-      "name": "ナタリー",
-      "count": 5
-    },
-    {
-      "name": "Dellows News",
-      "count": 5
-    },
-    {
       "name": "eeo",
       "count": 4
     },
     {
-      "name": "GameWith",
+      "name": "ナタリー",
       "count": 4
     },
     {
@@ -331,6 +323,14 @@
       "count": 3
     },
     {
+      "name": "まんたんウェブ",
+      "count": 3
+    },
+    {
+      "name": "Dellows News",
+      "count": 3
+    },
+    {
       "name": "山陽新聞デジタル｜さんデジ",
       "count": 2
     },
@@ -339,31 +339,11 @@
       "count": 2
     },
     {
-      "name": "WEBザテレビジョン",
-      "count": 2
-    },
-    {
-      "name": "ｄメニューニュース",
-      "count": 2
-    },
-    {
-      "name": "アニメハック",
-      "count": 2
-    },
-    {
       "name": "アニメイトタイムズ",
       "count": 2
     },
     {
-      "name": "まんたんウェブ",
-      "count": 2
-    },
-    {
-      "name": "Howl.link",
-      "count": 2
-    },
-    {
-      "name": "パチンコ・パチスロ情報島＋",
+      "name": "GameWith",
       "count": 2
     },
     {
@@ -399,6 +379,10 @@
       "count": 1
     },
     {
+      "name": "ｄメニューニュース",
+      "count": 1
+    },
+    {
       "name": "Skream!",
       "count": 1
     },
@@ -411,7 +395,15 @@
       "count": 1
     },
     {
+      "name": "アニメハック",
+      "count": 1
+    },
+    {
       "name": "オリコンニュース",
+      "count": 1
+    },
+    {
+      "name": "Gamerch",
       "count": 1
     },
     {
@@ -419,7 +411,15 @@
       "count": 1
     },
     {
-      "name": "Gamerch",
+      "name": "WEBザテレビジョン",
+      "count": 1
+    },
+    {
+      "name": "Howl.link",
+      "count": 1
+    },
+    {
+      "name": "AppMedia",
       "count": 1
     },
     {
@@ -431,11 +431,11 @@
       "count": 1
     },
     {
-      "name": "Mogura VR",
+      "name": "パチンコ・パチスロ情報島＋",
       "count": 1
     },
     {
-      "name": "ウォーカープラス",
+      "name": "Mogura VR",
       "count": 1
     },
     {
@@ -463,7 +463,7 @@
       "count": 1
     },
     {
-      "name": "産経ニュース",
+      "name": "ウォーカープラス",
       "count": 1
     }
   ],
@@ -476,8 +476,8 @@
       "image": "https://animeanime.jp/imgs/rss/946649.jpg",
       "leadSource": "アニメ！アニメ！",
       "publishedAt": "2026-10-23T11:46:10.000Z",
-      "sourceCount": 6,
-      "articleCount": 8,
+      "sourceCount": 5,
+      "articleCount": 7,
       "categories": [
         "anime",
         "book"
@@ -507,13 +507,6 @@
           "url": "https://news.yahoo.co.jp/articles/f3bdcb52a73ad85c5cdc1c4dee927ab222f120c1/images/000",
           "source": "Yahoo!ニュース",
           "publishedAt": "2026-10-23T05:56:48.000Z",
-          "isPR": false
-        },
-        {
-          "title": "＜劇場版 薬屋のひとりごと＞主題歌が米津玄師に決定 予告映像＆キービジュアルも一挙公開",
-          "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPQnZBZUVSZTA0dW9YM2VsS2EtOFdsOEJLX0ExVlZxRkR0RTNVak1ncUdYVE84dmFyOUdQYTRnVzcxNDAzcjlpYnFBQVI5ZEFTaDNzcVZWU3hoYkFPbllfeHBES3pKQ0hzenhHVVRPWTdyTDdwNnJOTi1uenI0Zl9fZUJnVdIBgwFBVV95cUxPQnZBZUVSZTA0dW9YM2VsS2EtOFdsOEJLX0ExVlZxRkR0RTNVak1ncUdYVE84dmFyOUdQYTRnVzcxNDAzcjlpYnFBQVI5ZEFTaDNzcVZWU3hoYkFPbllfeHBES3pKQ0hzenhHVVRPWTdyTDdwNnJOTi1uenI0Zl9fZUJnVQ?oc=5",
-          "source": "ｄメニューニュース",
-          "publishedAt": "2026-10-23T05:56:00.000Z",
           "isPR": false
         },
         {
@@ -598,15 +591,15 @@
       "leadSource": "Mogura VR",
       "publishedAt": "2026-10-22T02:33:44.000Z",
       "sourceCount": 4,
-      "articleCount": 5,
+      "articleCount": 4,
       "categories": [
         "other",
         "anime"
       ],
       "keywords": [
+        "異世界生活",
         "vrchat",
-        "ファッション",
-        "異世界生活"
+        "ファッション"
       ],
       "articles": [
         {
@@ -617,24 +610,17 @@
           "isPR": false
         },
         {
+          "title": "V、TVアニメ『Re:ゼロから始める異世界生活』コラボの公式3Dデジタルファッション制作に参画",
+          "url": "https://mantan-web.jp/prtimes/article/20261021prt00m200000592a.html",
+          "source": "まんたんウェブ",
+          "publishedAt": "2026-10-21T05:15:14.000Z",
+          "isPR": false
+        },
+        {
           "title": "ARROVA、Re:ゼロから始める異世界生活のVRChat向け衣装を10月発売へ",
           "url": "https://news.dellows.jp/827583/?from",
           "source": "Dellows News",
           "publishedAt": "2026-10-21T04:40:36.000Z",
-          "isPR": false
-        },
-        {
-          "title": "リゼロ公式3Dファッションアイテム発売へ VRChat向けに順次展開",
-          "url": "https://news.dellows.jp/827613/?from",
-          "source": "Dellows News",
-          "publishedAt": "2026-10-21T04:40:36.000Z",
-          "isPR": false
-        },
-        {
-          "title": "V、TVアニメ『Re:ゼロから始める異世界生活』コラボの公式3Dデジタルファッション制作に参画",
-          "url": "https://www.sankei.com/pressrelease/prtimes/XKH4R6XRSFL2DNHKKAO54S54VY/",
-          "source": "産経ニュース",
-          "publishedAt": "2026-10-21T03:00:00.000Z",
           "isPR": false
         }
       ]
@@ -697,9 +683,9 @@
       "articles": [
         {
           "title": "「陰の実力者になりたくて！マスターオブガーデン」SS確定ガチャチケットなどが手に入るチャンス！総力決戦～phase0～キャンペーンが開催",
-          "url": "https://www.gamer.ne.jp/news/202610220048/image/1/",
+          "url": "https://www.gamer.ne.jp/news/202610220048/image/2/",
           "source": "Gamer",
-          "publishedAt": "2026-10-23T03:41:58.000Z",
+          "publishedAt": "2026-10-22T17:26:16.000Z",
           "isPR": false
         },
         {
@@ -867,35 +853,6 @@
       ]
     },
     {
-      "id": "92a35b697ee6",
-      "title": "追放された転生重騎士はゲーム知識で無双する #18【WEB最速】",
-      "summary": "",
-      "url": "https://abema.tv/channels/abema-anime/slots/CQ2AnFax65Y6yd",
-      "image": "",
-      "leadSource": "ABEMA",
-      "publishedAt": "2026-10-23T13:31:46.000Z",
-      "sourceCount": 2,
-      "articleCount": 2,
-      "categories": [
-        "game",
-        "anime"
-      ],
-      "keywords": [
-        "ゲーム",
-        "追放",
-        "転生重騎士"
-      ],
-      "articles": [
-        {
-          "title": "第18話 追放された転生重騎士はゲーム知識で無双する",
-          "url": "https://thetv.jp/program/0001075247/18/",
-          "source": "WEBザテレビジョン",
-          "publishedAt": "2026-10-23T12:58:59.000Z",
-          "isPR": false
-        }
-      ]
-    },
-    {
       "id": "fd0238edb12f",
       "title": "「劇場版 薬屋のひとりごと」入プレ第1弾やムビチケ第2弾が決定！ 7つの最新情報が一挙お披露目",
       "summary": "『劇場版 薬屋のひとりごと 亡妃の秘宝』が、2026年12月11日より公開される。このたび、入場者特典第1弾の配布やムビチケ第2弾の発売など、7つの豪華な最新情報が一挙にお披露目となった。さらに公開初日には金曜ロードショーにて、TVアニメ第２期２クール目のエピソードを中心とする特別編集版「『薬屋のひとりごと』スペシャ…",
@@ -922,15 +879,43 @@
           "isPR": false
         }
       ]
+    },
+    {
+      "id": "6749653167b8",
+      "title": "Eve、TVアニメ\"薬屋のひとりごと\"第3期第1クールEDテーマを表題曲としたEP『AIYOU』11/25リリース決定。まりやす、中谷友紀子による描き下ろしジャケット公開",
+      "summary": "",
+      "url": "https://skream.jp/news/2026/10/eve_aiyou_ep.php",
+      "image": "https://skream.jp/news/2026/10/23/images/Main_1_yao_large_105_fix2.jpg",
+      "leadSource": "Skream!",
+      "publishedAt": "2026-10-23T10:00:00.000Z",
+      "sourceCount": 2,
+      "articleCount": 2,
+      "categories": [
+        "anime"
+      ],
+      "keywords": [
+        "薬屋",
+        "eve",
+        "テーマ"
+      ],
+      "articles": [
+        {
+          "title": "Eve、TVアニメ『薬屋のひとりごと』EDテーマ表題の新EPリリース決定 - Rolling Stone Japan(ローリングストーン ジャパン）",
+          "url": "https://rollingstonejapan.com/articles/detail/45650",
+          "source": "Rolling Stone Japan(ローリングストーン ジャパン）",
+          "publishedAt": "2026-10-23T10:00:00.000Z",
+          "isPR": false
+        }
+      ]
     }
   ],
   "churn": {
-    "previousAt": "2026-10-24T01:00:19.391Z",
-    "previousCount": 100,
-    "newCount": 7
+    "previousAt": "2026-10-24T01:30:20.713Z",
+    "previousCount": 105,
+    "newCount": 1
   },
   "updateGapMin": 30,
-  "nextUpdateAt": "2026-10-24T02:00:20.713Z",
+  "nextUpdateAt": "2026-10-24T02:27:01.360Z",
   "items": [
     {
       "id": "460830f1d0fa",
@@ -1219,25 +1204,6 @@
       "publishedAt": "2026-10-23T13:31:46.000Z",
       "image": "",
       "categories": [
-        "game"
-      ],
-      "works": [],
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": false
-    },
-    {
-      "id": "ed3ae087d840",
-      "title": "第18話 追放された転生重騎士はゲーム知識で無双する",
-      "url": "https://thetv.jp/program/0001075247/18/",
-      "host": "thetv.jp",
-      "source": "WEBザテレビジョン",
-      "summary": "",
-      "publishedAt": "2026-10-23T12:58:59.000Z",
-      "image": "",
-      "categories": [
-        "anime",
         "game"
       ],
       "works": [],
@@ -1544,7 +1510,7 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "d6a7d9d02359",
@@ -1598,7 +1564,7 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "a2e5f68ad8b4",
@@ -1616,7 +1582,7 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "e938301bbfd4",
@@ -1802,26 +1768,6 @@
       "isNew": false
     },
     {
-      "id": "7e7cf7e456bc",
-      "title": "＜劇場版 薬屋のひとりごと＞主題歌が米津玄師に決定 予告映像＆キービジュアルも一挙公開",
-      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPQnZBZUVSZTA0dW9YM2VsS2EtOFdsOEJLX0ExVlZxRkR0RTNVak1ncUdYVE84dmFyOUdQYTRnVzcxNDAzcjlpYnFBQVI5ZEFTaDNzcVZWU3hoYkFPbllfeHBES3pKQ0hzenhHVVRPWTdyTDdwNnJOTi1uenI0Zl9fZUJnVdIBgwFBVV95cUxPQnZBZUVSZTA0dW9YM2VsS2EtOFdsOEJLX0ExVlZxRkR0RTNVak1ncUdYVE84dmFyOUdQYTRnVzcxNDAzcjlpYnFBQVI5ZEFTaDNzcVZWU3hoYkFPbllfeHBES3pKQ0hzenhHVVRPWTdyTDdwNnJOTi1uenI0Zl9fZUJnVQ?oc=5",
-      "host": "topics.smt.docomo.ne.jp",
-      "source": "ｄメニューニュース",
-      "summary": "",
-      "publishedAt": "2026-10-23T05:56:00.000Z",
-      "image": "",
-      "categories": [
-        "anime"
-      ],
-      "works": [
-        "kusuriya"
-      ],
-      "isPR": false,
-      "viaGoogle": true,
-      "sourceKind": "news",
-      "isNew": false
-    },
-    {
       "id": "760071b97af5",
       "title": "『薬屋のひとりごと』初の劇場版、最新映像&キービジュアル&相関図が公開 主題歌は米津玄師「春が灯り」",
       "url": "https://www.oricon.co.jp/news/2488182/photo/2/",
@@ -1852,26 +1798,6 @@
       "image": "https://assets.ln-news.com/images/medias/2ca3f7263a4b4ee58d7cb8c22226cc91.jpg",
       "categories": [
         "anime",
-        "game"
-      ],
-      "works": [
-        "kagejitsu"
-      ],
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": false
-    },
-    {
-      "id": "949ecf2d3ba5",
-      "title": "「陰の実力者になりたくて！マスターオブガーデン」SS確定ガチャチケットなどが手に入るチャンス！総力決戦～phase0～キャンペーンが開催",
-      "url": "https://www.gamer.ne.jp/news/202610220048/image/1/",
-      "host": "gamer.ne.jp",
-      "source": "Gamer",
-      "summary": "",
-      "publishedAt": "2026-10-23T03:41:58.000Z",
-      "image": "",
-      "categories": [
         "game"
       ],
       "works": [
@@ -2082,7 +2008,7 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "8bd29eb4b167",
@@ -2105,6 +2031,26 @@
       "isNew": false
     },
     {
+      "id": "949ecf2d3ba5",
+      "title": "「陰の実力者になりたくて！マスターオブガーデン」SS確定ガチャチケットなどが手に入るチャンス！総力決戦～phase0～キャンペーンが開催",
+      "url": "https://www.gamer.ne.jp/news/202610220048/image/2/",
+      "host": "gamer.ne.jp",
+      "source": "Gamer",
+      "summary": "",
+      "publishedAt": "2026-10-22T17:26:16.000Z",
+      "image": "",
+      "categories": [
+        "game"
+      ],
+      "works": [
+        "kagejitsu"
+      ],
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": false
+    },
+    {
       "id": "22ffa863926e",
       "title": "理不尽に職を失った“限界OL”が、悪役令嬢の従者に…異世界での再就職生活に「イキイキ働くのが最高」の声【漫画】",
       "url": "https://thetv.jp/news/detail/1444102/landing/",
@@ -2120,7 +2066,7 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "166af4676432",
@@ -2144,7 +2090,7 @@
     {
       "id": "d35bc2d20fdc",
       "title": "再び動き出した「転ステ」の物語！舞台『転生したらスライムだった件』3-魔王覚醒編＆八星輝翔編-ゲネプロ公演レポート",
-      "url": "https://news.nicovideo.jp/watch/nw19907782?news_ref",
+      "url": "https://news.nicovideo.jp/watch/nw19907782",
       "host": "news.nicovideo.jp",
       "source": "ニコニコニュース",
       "summary": "",
@@ -2261,6 +2207,26 @@
       "isNew": false
     },
     {
+      "id": "980f1504bc3a",
+      "title": "【まおりゅう】特命交流のおすすめの使い方と効率の検証【転スラ】",
+      "url": "https://appmedia.jp/ten-sura-m/80489785",
+      "host": "appmedia.jp",
+      "source": "AppMedia",
+      "summary": "",
+      "publishedAt": "2026-10-22T07:00:00.000Z",
+      "image": "https://appmedia.jp/wp-content/uploads/2026/10/154101_mhyja.webp",
+      "categories": [
+        "other"
+      ],
+      "works": [
+        "tensura"
+      ],
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": true
+    },
+    {
       "id": "c1e42cfa78c0",
       "title": "アニメ『Lv2からチートだった元勇者候補のまったり異世界ライフ』はどこで見れる？サブスク・配信サービスを全調査",
       "url": "https://www.chiba-tv.com/vod-db/lv2-cheat-anime/",
@@ -2300,13 +2266,13 @@
     },
     {
       "id": "33e1c02b47b4",
-      "title": "舞台「転生したらスライムだった件」魔王覚醒編＆八星輝翔編スタート",
-      "url": "https://natalie.mu/stage/news/694781",
-      "host": "natalie.mu",
-      "source": "ナタリー",
+      "title": "舞台「転生したらスライムだった件」魔王覚醒編＆八星輝翔編スタート (ステージナタリー)",
+      "url": "https://news.yahoo.co.jp/articles/a5ff21e803c31fb3c41ae8950c7155b7eca7cd44/images/000",
+      "host": "news.yahoo.co.jp",
+      "source": "Yahoo!ニュース",
       "summary": "",
-      "publishedAt": "2026-10-22T05:40:00.000Z",
-      "image": "",
+      "publishedAt": "2026-10-22T05:40:10.000Z",
+      "image": "https://news-pctr.c.yimg.jp/uUzvQ3lML_bkIqyakc1vFhNrRI0RUQxg5aFkrX0xDg1_T0wXrbEJjtNGtrf1o9y3xudcUclfbXjZqAvGT8NJnQg17fFr455lnb9rowIdpWesMCENfXCfIGQlvIly5qxqyJrwZdiTAwnzFk2Y0X5QAKLWEQLFGhaTD8jtI-RYGFbzSUpbaiJH9Ki4vw-0ZUHL",
       "categories": [
         "goods"
       ],
@@ -2358,26 +2324,6 @@
       "isNew": false
     },
     {
-      "id": "c9e4759a1095",
-      "title": "「リゼロ」「モンハン」が最多導入【直近１カ月における新機種導入状況】",
-      "url": "https://p-johojima.jp/yugijoho/post-74036/",
-      "host": "p-johojima.jp",
-      "source": "パチンコ・パチスロ情報島＋",
-      "summary": "",
-      "publishedAt": "2026-10-22T03:35:44.000Z",
-      "image": "https://p-johojima.jp/wp-content/uploads/2026/01/colum_image_20221205.jpg",
-      "categories": [
-        "other"
-      ],
-      "works": [
-        "rezero"
-      ],
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": false
-    },
-    {
       "id": "b879bb9d41e9",
       "title": "「リゼロ」も下落、パチンコ稼働の回復必須【パチンコ中古機流通状況】",
       "url": "https://p-johojima.jp/yugijoho/post-74034/",
@@ -2408,26 +2354,6 @@
       "image": "https://assets.moguravr.com/uploads/2026/10/e729a9fc3c2b710aa690a89ac2c2cfbc-kix.vtrap8e8z2nn.webp",
       "categories": [
         "other"
-      ],
-      "works": [
-        "rezero"
-      ],
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": false
-    },
-    {
-      "id": "90830af949f6",
-      "title": "愛知のラグナシアでリゼロコラボイベントが2026年11月7日より開催へ",
-      "url": "https://news.dellows.jp/706515/",
-      "host": "news.dellows.jp",
-      "source": "Dellows News",
-      "summary": "",
-      "publishedAt": "2026-10-21T23:22:43.000Z",
-      "image": "https://news.dellows.jp/wp-content/uploads/2026/10/706515_1.jpg",
-      "categories": [
-        "goods"
       ],
       "works": [
         "rezero"
@@ -2469,26 +2395,6 @@
       ],
       "works": [
         "rezero"
-      ],
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": false
-    },
-    {
-      "id": "f6f5b132f70c",
-      "title": "KADOKAWAグループ作品6万点以上に使える最大60％OFFクーポン配布！「陰の実力者」「聖剣学院の魔剣使い」など秋アニメ作品もお得に",
-      "url": "https://www.walkerplus.com/article/1163318/",
-      "host": "walkerplus.com",
-      "source": "ウォーカープラス",
-      "summary": "",
-      "publishedAt": "2026-10-21T22:53:02.000Z",
-      "image": "https://news.walkerplus.com/article/1163318/12301909_615.jpg",
-      "categories": [
-        "anime"
-      ],
-      "works": [
-        "kagejitsu"
       ],
       "isPR": false,
       "viaGoogle": false,
@@ -2597,26 +2503,6 @@
       "isNew": false
     },
     {
-      "id": "f1e344fb9da2",
-      "title": "＃4【同時視聴】『Re:ゼロから始める異世界生活』完全初見同時視聴！【侠凪あきな/#新人vtuber 】",
-      "url": "https://t.co/oUrWhaESqG",
-      "host": "t.co",
-      "source": "Howl.link",
-      "summary": "",
-      "publishedAt": "2026-10-21T14:59:03.000Z",
-      "image": "",
-      "categories": [
-        "other"
-      ],
-      "works": [
-        "rezero"
-      ],
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": false
-    },
-    {
       "id": "10c14d09ab34",
       "title": "異世界転生後の生活を現代知識でアップデート？ 『異世界生活攻略レシピ図鑑』刊行へ (リアルサウンド)",
       "url": "https://news.yahoo.co.jp/articles/f12acc72fb3099e5ab8f5e84e67e214373ee17e8/images/000",
@@ -2673,27 +2559,6 @@
       "isNew": false
     },
     {
-      "id": "6b62bc374312",
-      "title": "【今期TVアニメランキング】「薬屋のひとりごと」大差で首位 「ドラゴンボール超 ビルス」が3位に浮上 : ニュース",
-      "url": "https://anime.eiga.com/news/column/konki_ranking/127692/",
-      "host": "anime.eiga.com",
-      "source": "アニメハック",
-      "summary": "",
-      "publishedAt": "2026-10-21T10:00:00.000Z",
-      "image": "https://media.eiga.com/images/anime/news/127692/photo/bf3062528d78ab89/640.jpg",
-      "categories": [
-        "anime",
-        "web"
-      ],
-      "works": [
-        "kusuriya"
-      ],
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": true
-    },
-    {
       "id": "1f138259f874",
       "title": "【画像】『本好きの下剋上』シリーズ累計1500万部突破 続編「貴族院の自称図書委員」TVアニメ化も決定",
       "url": "https://news.livedoor.com/article/image_detail/32622564/?img_id",
@@ -2727,26 +2592,6 @@
       ],
       "works": [
         "kusuriya"
-      ],
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": true
-    },
-    {
-      "id": "d0271d413d43",
-      "title": "【モンスト】エミリアαの評価とわくわくの実｜リゼロ",
-      "url": "https://xn--eckwa2aa3a9c8j8bve9d.gamewith.jp/article/show/379887",
-      "host": "xn--eckwa2aa3a9c8j8bve9d.gamewith.jp",
-      "source": "GameWith",
-      "summary": "",
-      "publishedAt": "2026-10-21T08:47:29.000Z",
-      "image": "https://img.gamewith.jp/article/thumbnail/rectangle/379887.png?date=1671109518",
-      "categories": [
-        "game"
-      ],
-      "works": [
-        "rezero"
       ],
       "isPR": false,
       "viaGoogle": false,
@@ -2830,6 +2675,26 @@
       "isNew": false
     },
     {
+      "id": "f6f5b132f70c",
+      "title": "KADOKAWAグループ作品6万点以上に使える最大60％OFFクーポン配布！「陰の実力者」「聖剣学院の魔剣使い」など秋アニメ作品もお得に",
+      "url": "https://www.walkerplus.com/article/1163318/",
+      "host": "walkerplus.com",
+      "source": "ウォーカープラス",
+      "summary": "",
+      "publishedAt": "2026-10-21T07:00:00.000Z",
+      "image": "https://news.walkerplus.com/article/1163318/12301909_615.jpg",
+      "categories": [
+        "anime"
+      ],
+      "works": [
+        "kagejitsu"
+      ],
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": false
+    },
+    {
       "id": "e64b85c72b41",
       "title": "「転生ゴブリンだけど質問ある？」アニメの配信はどこで見れる？見放題サブスクまとめ",
       "url": "https://animeanime.jp/article/2026/10/21/104044.html",
@@ -2861,6 +2726,27 @@
       ],
       "works": [
         "tensura"
+      ],
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": false
+    },
+    {
+      "id": "9d0c501237e4",
+      "title": "V、TVアニメ『Re:ゼロから始める異世界生活』コラボの公式3Dデジタルファッション制作に参画",
+      "url": "https://mantan-web.jp/prtimes/article/20261021prt00m200000592a.html",
+      "host": "mantan-web.jp",
+      "source": "まんたんウェブ",
+      "summary": "",
+      "publishedAt": "2026-10-21T05:15:14.000Z",
+      "image": "https://prtimes.jp/img/49339/198/resize/d49339-198-5677ac84440653f47a24-0.png",
+      "categories": [
+        "anime",
+        "goods"
+      ],
+      "works": [
+        "rezero"
       ],
       "isPR": false,
       "viaGoogle": false,
@@ -2907,26 +2793,6 @@
       "isNew": false
     },
     {
-      "id": "b47fe5d7a757",
-      "title": "リゼロ公式3Dファッションアイテム発売へ VRChat向けに順次展開",
-      "url": "https://news.dellows.jp/827613/?from",
-      "host": "news.dellows.jp",
-      "source": "Dellows News",
-      "summary": "",
-      "publishedAt": "2026-10-21T04:40:36.000Z",
-      "image": "https://news.dellows.jp/wp-content/uploads/2026/10/827613_1.jpg",
-      "categories": [
-        "other"
-      ],
-      "works": [
-        "rezero"
-      ],
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": false
-    },
-    {
       "id": "f5c251ed415f",
       "title": "アニメ『転生したら剣でしたII』第3話「アンデッドはガチガチでした」のあらすじ＆先行カット解禁",
       "url": "https://ln-news.com/articles/126997",
@@ -2940,48 +2806,6 @@
       ],
       "works": [
         "tenken"
-      ],
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": false
-    },
-    {
-      "id": "367e42c1343b",
-      "title": "【パズドラ】リゼロコラボの交換おすすめランキングと確保数",
-      "url": "https://xn--0ck4aw2h.gamewith.jp/article/show/541302",
-      "host": "xn--0ck4aw2h.gamewith.jp",
-      "source": "GameWith",
-      "summary": "",
-      "publishedAt": "2026-10-21T03:50:12.000Z",
-      "image": "https://img.gamewith.jp/article/thumbnail/rectangle/541302.png?date=1769084696",
-      "categories": [
-        "web",
-        "game"
-      ],
-      "works": [
-        "rezero"
-      ],
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": false
-    },
-    {
-      "id": "9d0c501237e4",
-      "title": "V、TVアニメ『Re:ゼロから始める異世界生活』コラボの公式3Dデジタルファッション制作に参画",
-      "url": "https://www.sankei.com/pressrelease/prtimes/XKH4R6XRSFL2DNHKKAO54S54VY/",
-      "host": "sankei.com",
-      "source": "産経ニュース",
-      "summary": "",
-      "publishedAt": "2026-10-21T03:00:00.000Z",
-      "image": "https://www.sankei.com/resizer/v2/https%3A%2F%2Fdpgdieoe6npux.cloudfront.net%2Fprtimes%2FZW5L2IWRGZJS7LEDOY7J6LIZJA?auth=6b434b31eef3d410e9453dc81aff29516a5946c5af252d999ec34e31b0a88ec5&quality=50&smart=true&width=1200&height=675",
-      "categories": [
-        "anime",
-        "goods"
-      ],
-      "works": [
-        "rezero"
       ],
       "isPR": false,
       "viaGoogle": false,
