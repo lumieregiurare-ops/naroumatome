@@ -1,18 +1,18 @@
 {
-  "updatedAt": "2026-10-24T21:00:19.197Z",
+  "updatedAt": "2026-10-24T21:30:16.986Z",
   "site": {
     "title": "なろう系まとめ",
     "tagline": "小説家になろう発の作品のアニメ化・コミカライズ・書籍化のニュースと、なろうのランキングをまとめています。",
     "url": "https://naroumatome.gamelab.website/",
     "contactUrl": "https://docs.google.com/forms/d/e/1FAIpQLSesWyhmZ6sRS_ve-c3X2KqF_wC5PK2TgwgQbTKmnQltSlg5Jw/viewform"
   },
-  "total": 91,
-  "todayCount": 0,
+  "total": 92,
+  "todayCount": 1,
   "categories": [
     {
       "id": "anime",
       "label": "アニメ",
-      "count": 52
+      "count": 53
     },
     {
       "id": "comic",
@@ -32,7 +32,7 @@
     {
       "id": "game",
       "label": "ゲーム",
-      "count": 6
+      "count": 5
     },
     {
       "id": "goods",
@@ -74,7 +74,7 @@
       "id": "kusuriya",
       "title": "薬屋のひとりごと",
       "short": "薬屋",
-      "count": 36
+      "count": 37
     },
     {
       "id": "kagejitsu",
@@ -296,15 +296,11 @@
   "sources": [
     {
       "name": "Yahoo!ニュース",
-      "count": 13
+      "count": 15
     },
     {
       "name": "ラノベニュースオンライン",
       "count": 9
-    },
-    {
-      "name": "WEBザテレビジョン",
-      "count": 6
     },
     {
       "name": "アニメ！アニメ！",
@@ -313,6 +309,10 @@
     {
       "name": "GameWith",
       "count": 6
+    },
+    {
+      "name": "WEBザテレビジョン",
+      "count": 5
     },
     {
       "name": "ナタリー",
@@ -369,6 +369,10 @@
     {
       "name": "パチンコ・パチスロ情報島＋",
       "count": 2
+    },
+    {
+      "name": "Unisba Media",
+      "count": 1
     },
     {
       "name": "TBSテレビ",
@@ -428,10 +432,6 @@
     },
     {
       "name": "Dellows News",
-      "count": 1
-    },
-    {
-      "name": "オタク総研",
       "count": 1
     }
   ],
@@ -566,14 +566,14 @@
       "leadSource": "WEBザテレビジョン",
       "publishedAt": "2026-10-24T14:21:29.000Z",
       "sourceCount": 3,
-      "articleCount": 3,
+      "articleCount": 5,
       "categories": [
         "anime"
       ],
       "keywords": [
         "薬屋",
-        "キービジュアル",
-        "劇場版"
+        "劇場版",
+        "ビジュ"
       ],
       "articles": [
         {
@@ -588,6 +588,20 @@
           "url": "https://news.yahoo.co.jp/articles/8f47414ae4359070bebb74efaad37698002287fb",
           "source": "Yahoo!ニュース",
           "publishedAt": "2026-10-23T11:27:16.000Z",
+          "isPR": false
+        },
+        {
+          "title": "劇場版 薬屋のひとりごと＞主題歌が米津玄師に決定 予告映像＆キービジュアルも一挙公開 (WEBザテレビジョン)",
+          "url": "https://news.yahoo.co.jp/articles/f3bdcb52a73ad85c5cdc1c4dee927ab222f120c1/images/000",
+          "source": "Yahoo!ニュース",
+          "publishedAt": "2026-10-23T05:56:48.000Z",
+          "isPR": false
+        },
+        {
+          "title": "『劇場版 薬屋のひとりごと』主題歌は米津玄師「春が灯り」 新予告＆新ビジュアルも（リアルサウンド）",
+          "url": "https://news.yahoo.co.jp/articles/dc553b09300938de184d10504367a699fc9380e9",
+          "source": "Yahoo!ニュース",
+          "publishedAt": "2026-10-23T02:51:44.000Z",
           "isPR": false
         }
       ]
@@ -813,13 +827,31 @@
     }
   ],
   "churn": {
-    "previousAt": "2026-10-24T20:30:18.277Z",
-    "previousCount": 92,
-    "newCount": 1
+    "previousAt": "2026-10-24T21:00:19.197Z",
+    "previousCount": 91,
+    "newCount": 3
   },
   "updateGapMin": 30,
-  "nextUpdateAt": "2026-10-24T21:30:19.197Z",
+  "nextUpdateAt": "2026-10-24T22:00:16.986Z",
   "items": [
+    {
+      "id": "e378b3e19e34",
+      "title": "昨日告白に成功したはずの貧乏な学園の女神が、なぜか上場企業の女性社長に！？おまけに娘までいる？！[異世界最新作]#海外アニメ #異世界アニメ#アニメフル全話 Ring (u5R5VN88Gx)",
+      "url": "https://media.unisba.ac.id/8f2ab88d/fd44a1b4QINm4CCcdYI",
+      "host": "media.unisba.ac.id",
+      "source": "Unisba Media",
+      "summary": "",
+      "publishedAt": "2026-10-24T15:45:07.000Z",
+      "image": "",
+      "categories": [
+        "anime"
+      ],
+      "works": [],
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": true
+    },
     {
       "id": "7e7cf7e456bc",
       "title": "＜劇場版 薬屋のひとりごと＞主題歌が米津玄師に決定 予告映像＆キービジュアルも一挙公開",
@@ -1511,25 +1543,6 @@
       "isNew": false
     },
     {
-      "id": "ed3ae087d840",
-      "title": "第18話 追放された転生重騎士はゲーム知識で無双する",
-      "url": "https://thetv.jp/program/0001075247/18/",
-      "host": "thetv.jp",
-      "source": "WEBザテレビジョン",
-      "summary": "",
-      "publishedAt": "2026-10-23T12:58:59.000Z",
-      "image": "",
-      "categories": [
-        "anime",
-        "game"
-      ],
-      "works": [],
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": false
-    },
-    {
       "id": "e7c34aa30263",
       "title": "「イナゴを食べさせられる壬氏さま必見」「イナゴあーんが楽しみすぎる」『薬屋のひとりごと』第52話予告、顔を歪める壬氏にファンニヤニヤ（ABEMA TIMES）",
       "url": "https://news.yahoo.co.jp/articles/4cf60359c71905f0efec9dc9ac68634672601fa6",
@@ -1880,14 +1893,14 @@
       "isNew": false
     },
     {
-      "id": "a32b9c6e92f0",
-      "title": "＜劇場版 薬屋のひとりごと＞見上愛、朝ドラヒロイン後初の作品出演が決定 沢城みゆきとともにキーパーソン役に",
-      "url": "https://news.yahoo.co.jp/articles/ba7029221db75712f91090da0dcf8a1d78f29703",
+      "id": "64ef0a33f5e9",
+      "title": "劇場版 薬屋のひとりごと＞主題歌が米津玄師に決定 予告映像＆キービジュアルも一挙公開 (WEBザテレビジョン)",
+      "url": "https://news.yahoo.co.jp/articles/f3bdcb52a73ad85c5cdc1c4dee927ab222f120c1/images/000",
       "host": "news.yahoo.co.jp",
       "source": "Yahoo!ニュース",
       "summary": "",
-      "publishedAt": "2026-10-23T07:03:19.000Z",
-      "image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20261023-01451177-the_tv-000-1-view.jpg?exp=10800",
+      "publishedAt": "2026-10-23T05:56:48.000Z",
+      "image": "https://news-pctr.c.yimg.jp/uUzvQ3lML_bkIqyakc1vFhNrRI0RUQxg5aFkrX0xDg1_T0wXrbEJjtNGtrf1o9y3xudcUclfbXjZqAvGT8NJnWbk4SWTkeUOIdDgpqKKa3gSq1YY2xbdKuPFA0Oza7OSjkVeb_jVUghh40cUIRybNPDvTRBfq9T8B42Z9VY618eLw78U925uKhy2SLhC1Ya5hwZc2nHtbPdHz3sZ3sMaNw==",
       "categories": [
         "anime"
       ],
@@ -1897,7 +1910,7 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": false
+      "isNew": true
     },
     {
       "id": "2cd31887d9bc",
@@ -1962,6 +1975,26 @@
       "isNew": false
     },
     {
+      "id": "2d03f9fe3645",
+      "title": "『劇場版 薬屋のひとりごと』主題歌は米津玄師「春が灯り」 新予告＆新ビジュアルも（リアルサウンド）",
+      "url": "https://news.yahoo.co.jp/articles/dc553b09300938de184d10504367a699fc9380e9",
+      "host": "news.yahoo.co.jp",
+      "source": "Yahoo!ニュース",
+      "summary": "",
+      "publishedAt": "2026-10-23T02:51:44.000Z",
+      "image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20261023-00010013-realsound-000-1-view.jpg?exp=10800",
+      "categories": [
+        "anime"
+      ],
+      "works": [
+        "kusuriya"
+      ],
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": true
+    },
+    {
       "id": "ec0ff3eb8c5a",
       "title": "『劇場版 薬屋のひとりごと』7つの新情報発表 『金曜ロードショー』で特別編集版の放送も",
       "url": "https://realsound.jp/movie/2026/10/post-2561982.html",
@@ -2000,7 +2033,7 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "0eb901f00bad",
@@ -2571,6 +2604,26 @@
       "isNew": false
     },
     {
+      "id": "daf9ae02a604",
+      "title": "無職転生、海外の人気が“トップティア”になっていた。『フリーレン』と僅差…海外アニメ配信サイトで40万クラブ入り（オタク総研）",
+      "url": "https://news.yahoo.co.jp/articles/85a3243172d1020875aad5ab8252bff9ced5c637",
+      "host": "news.yahoo.co.jp",
+      "source": "Yahoo!ニュース",
+      "summary": "",
+      "publishedAt": "2026-10-21T22:15:00.000Z",
+      "image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20261022-00071500-otakulab-000-1-view.jpg?exp=10800",
+      "categories": [
+        "anime"
+      ],
+      "works": [
+        "mushoku"
+      ],
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": false
+    },
+    {
       "id": "43b2f920f43d",
       "title": "薬屋のひとりごと：藤原夏海インタビュー 響迂から趙迂へ 第3期は明るく元気に “猫猫”悠木碧の愛",
       "url": "https://mantan-web.jp/article/20261020dog00m200091000a.html",
@@ -2584,26 +2637,6 @@
       ],
       "works": [
         "kusuriya"
-      ],
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": false
-    },
-    {
-      "id": "daf9ae02a604",
-      "title": "無職転生、海外の人気が“トップティア”になっていた。『フリーレン』と僅差…海外アニメ配信サイトで40万クラブ入り",
-      "url": "https://0115765.com/archives/209268",
-      "host": "0115765.com",
-      "source": "オタク総研",
-      "summary": "",
-      "publishedAt": "2026-10-21T21:13:43.000Z",
-      "image": "https://0115765.com/wp-content/uploads/2026/07/20260718-yasq5sm0.jpg",
-      "categories": [
-        "anime"
-      ],
-      "works": [
-        "mushoku"
       ],
       "isPR": false,
       "viaGoogle": false,
