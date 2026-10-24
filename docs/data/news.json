@@ -1,23 +1,23 @@
 {
-  "updatedAt": "2026-10-24T20:30:18.277Z",
+  "updatedAt": "2026-10-24T21:00:19.197Z",
   "site": {
     "title": "なろう系まとめ",
     "tagline": "小説家になろう発の作品のアニメ化・コミカライズ・書籍化のニュースと、なろうのランキングをまとめています。",
     "url": "https://naroumatome.gamelab.website/",
     "contactUrl": "https://docs.google.com/forms/d/e/1FAIpQLSesWyhmZ6sRS_ve-c3X2KqF_wC5PK2TgwgQbTKmnQltSlg5Jw/viewform"
   },
-  "total": 92,
+  "total": 91,
   "todayCount": 0,
   "categories": [
     {
       "id": "anime",
       "label": "アニメ",
-      "count": 53
+      "count": 52
     },
     {
       "id": "comic",
       "label": "コミカライズ",
-      "count": 9
+      "count": 8
     },
     {
       "id": "book",
@@ -32,7 +32,7 @@
     {
       "id": "game",
       "label": "ゲーム",
-      "count": 5
+      "count": 6
     },
     {
       "id": "goods",
@@ -50,7 +50,7 @@
       "id": "tensura",
       "title": "転生したらスライムだった件",
       "short": "転スラ",
-      "count": 3
+      "count": 4
     },
     {
       "id": "mushoku",
@@ -68,7 +68,7 @@
       "id": "honzuki",
       "title": "本好きの下剋上",
       "short": "本好き",
-      "count": 2
+      "count": 3
     },
     {
       "id": "kusuriya",
@@ -300,7 +300,7 @@
     },
     {
       "name": "ラノベニュースオンライン",
-      "count": 10
+      "count": 9
     },
     {
       "name": "WEBザテレビジョン",
@@ -355,7 +355,15 @@
       "count": 2
     },
     {
+      "name": "ファミ通",
+      "count": 2
+    },
+    {
       "name": "まんたんウェブ",
+      "count": 2
+    },
+    {
+      "name": "千葉テレビ放送株式会社",
       "count": 2
     },
     {
@@ -403,10 +411,6 @@
       "count": 1
     },
     {
-      "name": "ファミ通",
-      "count": 1
-    },
-    {
       "name": "Gamerch",
       "count": 1
     },
@@ -419,23 +423,11 @@
       "count": 1
     },
     {
-      "name": "千葉テレビ放送",
-      "count": 1
-    },
-    {
-      "name": "千葉テレビ放送株式会社",
-      "count": 1
-    },
-    {
       "name": "Mogura VR",
       "count": 1
     },
     {
       "name": "Dellows News",
-      "count": 1
-    },
-    {
-      "name": "Unisba Media",
       "count": 1
     },
     {
@@ -821,12 +813,12 @@
     }
   ],
   "churn": {
-    "previousAt": "2026-10-24T20:00:17.382Z",
-    "previousCount": 90,
-    "newCount": 3
+    "previousAt": "2026-10-24T20:30:18.277Z",
+    "previousCount": 92,
+    "newCount": 1
   },
   "updateGapMin": 30,
-  "nextUpdateAt": "2026-10-24T21:00:18.277Z",
+  "nextUpdateAt": "2026-10-24T21:30:19.197Z",
   "items": [
     {
       "id": "7e7cf7e456bc",
@@ -1765,7 +1757,7 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "a2e5f68ad8b4",
@@ -1990,6 +1982,27 @@
       "isNew": false
     },
     {
+      "id": "27d084a9c568",
+      "title": "画像ページ (6/10) Audibleがプライム会員なら4ヵ月間月額99円。『本好きの下剋上』『転スラ』『マケイン』『SAO』『イン・ザ・メガチャーチ』など数十万以上の作品が聴き放題に",
+      "url": "https://www.famitsu.com/article/images/202610/90766/899810",
+      "host": "famitsu.com",
+      "source": "ファミ通",
+      "summary": "",
+      "publishedAt": "2026-10-23T02:40:00.000Z",
+      "image": "https://cimg.kgl-systems.io/camion/files/famitsu/90766/a18e2999891374a475d0687ca9f989d83.jpg?x=1280",
+      "categories": [
+        "game"
+      ],
+      "works": [
+        "tensura",
+        "honzuki"
+      ],
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": true
+    },
+    {
       "id": "0eb901f00bad",
       "title": "画像ページ (7/7) 【Amazonプライム感謝祭】『陰の実力者になりたくて！』アルファが29％オフ！ 『にじさんじ』アンジュ・カトリーナ、『ホロライブ』ときのそらのねんどろいどもお買い得に",
       "url": "https://www.famitsu.com/article/images/202610/91274/904602",
@@ -2121,7 +2134,7 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "166af4676432",
@@ -2287,7 +2300,7 @@
       "title": "Lv2からチートだった元勇者候補のまったり異世界ライフ",
       "url": "https://www.chiba-tv.com/vod-db/lv2-cheat-anime/",
       "host": "chiba-tv.com",
-      "source": "千葉テレビ放送",
+      "source": "千葉テレビ放送株式会社",
       "summary": "",
       "publishedAt": "2026-10-22T06:18:47.000Z",
       "image": "https://www.chiba-tv.com/vod-db/wp-content/uploads/2026/10/eyecatch_lv2-cheat-anime.png",
@@ -2538,24 +2551,6 @@
       "isNew": false
     },
     {
-      "id": "d6726594db56",
-      "title": "【アニメ異世界】最強の魔獣と仲間になった俺、万能スキルで異世界をのんびり満喫します！【アニメ異世界】 Viareggio (lddK9mDR5x)",
-      "url": "https://media.unisba.ac.id/3ba26c45/ead67570CjceCgpnH1cwMhE",
-      "host": "media.unisba.ac.id",
-      "source": "Unisba Media",
-      "summary": "",
-      "publishedAt": "2026-10-21T23:12:34.000Z",
-      "image": "",
-      "categories": [
-        "anime"
-      ],
-      "works": [],
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": true
-    },
-    {
       "id": "69ecf7f07dd7",
       "title": "『Re：ゼロから始める異世界生活』優雅なドレス姿のエミリア1／7スケールフィギュアが2028年5月発売",
       "url": "https://ln-news.com/articles/126998",
@@ -2610,24 +2605,6 @@
       "works": [
         "mushoku"
       ],
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": false
-    },
-    {
-      "id": "cd3f374a2336",
-      "title": "『ヤンデレ至上主義の悪役令嬢はハッピーヤンデレカップルを慈しみたい！』のコミカライズ連載が開始",
-      "url": "https://ln-news.com/articles/126980",
-      "host": "ln-news.com",
-      "source": "ラノベニュースオンライン",
-      "summary": "",
-      "publishedAt": "2026-10-21T08:30:00.000Z",
-      "image": "https://assets.ln-news.com/images/medias/b2643efff6cf49f98acfc0f40b2b3637.jpg",
-      "categories": [
-        "comic"
-      ],
-      "works": [],
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
