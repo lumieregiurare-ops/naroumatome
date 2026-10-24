@@ -1,13 +1,13 @@
 {
-  "updatedAt": "2026-10-24T23:00:16.766Z",
+  "updatedAt": "2026-10-24T23:30:21.973Z",
   "site": {
     "title": "なろう系まとめ",
     "tagline": "小説家になろう発の作品のアニメ化・コミカライズ・書籍化のニュースと、なろうのランキングをまとめています。",
     "url": "https://naroumatome.gamelab.website/",
     "contactUrl": "https://docs.google.com/forms/d/e/1FAIpQLSesWyhmZ6sRS_ve-c3X2KqF_wC5PK2TgwgQbTKmnQltSlg5Jw/viewform"
   },
-  "total": 90,
-  "todayCount": 1,
+  "total": 91,
+  "todayCount": 2,
   "categories": [
     {
       "id": "anime",
@@ -32,12 +32,12 @@
     {
       "id": "game",
       "label": "ゲーム",
-      "count": 4
+      "count": 5
     },
     {
       "id": "goods",
       "label": "グッズ・イベント",
-      "count": 12
+      "count": 13
     },
     {
       "id": "other",
@@ -50,7 +50,7 @@
       "id": "tensura",
       "title": "転生したらスライムだった件",
       "short": "転スラ",
-      "count": 3
+      "count": 4
     },
     {
       "id": "mushoku",
@@ -68,13 +68,13 @@
       "id": "honzuki",
       "title": "本好きの下剋上",
       "short": "本好き",
-      "count": 2
+      "count": 3
     },
     {
       "id": "kusuriya",
       "title": "薬屋のひとりごと",
       "short": "薬屋",
-      "count": 35
+      "count": 37
     },
     {
       "id": "kagejitsu",
@@ -224,7 +224,7 @@
       "id": "tenken",
       "title": "転生したら剣でした",
       "short": "転剣",
-      "count": 1
+      "count": 0
     },
     {
       "id": "rupunana",
@@ -296,15 +296,11 @@
   "sources": [
     {
       "name": "Yahoo!ニュース",
-      "count": 13
+      "count": 14
     },
     {
       "name": "ラノベニュースオンライン",
       "count": 9
-    },
-    {
-      "name": "WEBザテレビジョン",
-      "count": 6
     },
     {
       "name": "アニメ！アニメ！",
@@ -315,6 +311,10 @@
       "count": 6
     },
     {
+      "name": "WEBザテレビジョン",
+      "count": 5
+    },
+    {
       "name": "ナタリー",
       "count": 5
     },
@@ -323,12 +323,16 @@
       "count": 4
     },
     {
+      "name": "インサイド",
+      "count": 3
+    },
+    {
       "name": "ABEMA TIMES",
       "count": 3
     },
     {
-      "name": "Unisba Media",
-      "count": 2
+      "name": "ファミ通",
+      "count": 3
     },
     {
       "name": "ABEMA",
@@ -347,19 +351,11 @@
       "count": 2
     },
     {
-      "name": "インサイド",
-      "count": 2
-    },
-    {
       "name": "ニコニコニュース",
       "count": 2
     },
     {
       "name": "eeo",
-      "count": 2
-    },
-    {
-      "name": "ファミ通",
       "count": 2
     },
     {
@@ -372,6 +368,10 @@
     },
     {
       "name": "TBSテレビ",
+      "count": 1
+    },
+    {
+      "name": "Unisba Media",
       "count": 1
     },
     {
@@ -521,7 +521,7 @@
       "url": "https://www.tbs.co.jp/tv/20261025_C27B.html",
       "image": "https://www.tbs.co.jp/ro/img/ogp.png",
       "leadSource": "TBSテレビ",
-      "publishedAt": "2026-10-24T11:52:55.000Z",
+      "publishedAt": "2026-10-24T19:45:31.000Z",
       "sourceCount": 4,
       "articleCount": 4,
       "categories": [
@@ -566,14 +566,14 @@
       "leadSource": "WEBザテレビジョン",
       "publishedAt": "2026-10-24T14:21:29.000Z",
       "sourceCount": 3,
-      "articleCount": 4,
+      "articleCount": 5,
       "categories": [
         "anime"
       ],
       "keywords": [
         "薬屋",
-        "キービジュアル",
-        "劇場版"
+        "劇場版",
+        "ビジュ"
       ],
       "articles": [
         {
@@ -595,6 +595,13 @@
           "url": "https://news.yahoo.co.jp/articles/f3bdcb52a73ad85c5cdc1c4dee927ab222f120c1/images/000",
           "source": "Yahoo!ニュース",
           "publishedAt": "2026-10-23T05:56:48.000Z",
+          "isPR": false
+        },
+        {
+          "title": "『劇場版 薬屋のひとりごと』主題歌は米津玄師「春が灯り」 新予告＆新ビジュアルも（リアルサウンド）",
+          "url": "https://news.yahoo.co.jp/articles/dc553b09300938de184d10504367a699fc9380e9",
+          "source": "Yahoo!ニュース",
+          "publishedAt": "2026-10-23T02:51:44.000Z",
           "isPR": false
         }
       ]
@@ -673,9 +680,9 @@
     },
     {
       "id": "6e357d616316",
-      "title": "多次元シンガー・310、TVアニメ『信者ゼロの女神サマと始める異世界攻略』OPテーマ「未来の足跡」12月2日CDリリース！アニメ描きおろしジャケット＆収録内容も公開！",
+      "title": "多次元シンガー・310、TVアニメ『信者ゼロの女神サマと始める異世界攻略』OPテーマ「未来の足跡」12月2日CDリリース！アニメ描きおろしジャケット＆収録内容も公開！ (2026年10月24日掲載)",
       "summary": "",
-      "url": "https://news.livedoor.com/article/detail/32648642/",
+      "url": "https://news.livedoor.com/topics/detail/32648642/",
       "image": "https://image.news.livedoor.com/newsimage/stf/f/8/f8ea9_1516_2da436b4_fc3832a4.jpg",
       "leadSource": "ライブドアニュース",
       "publishedAt": "2026-10-24T11:00:53.000Z",
@@ -839,13 +846,33 @@
     }
   ],
   "churn": {
-    "previousAt": "2026-10-24T22:30:16.868Z",
-    "previousCount": 93,
-    "newCount": 12
+    "previousAt": "2026-10-24T23:00:16.766Z",
+    "previousCount": 90,
+    "newCount": 3
   },
   "updateGapMin": 30,
-  "nextUpdateAt": "2026-10-24T23:30:16.766Z",
+  "nextUpdateAt": "2026-10-25T00:00:21.973Z",
   "items": [
+    {
+      "id": "01371568aec8",
+      "title": "転生貴族、鑑定スキルで成り上がる 第３期 [字] ＃２９「バサマークの最期」",
+      "url": "https://www.tbs.co.jp/tv/20261025_C27B.html",
+      "host": "tbs.co.jp",
+      "source": "TBSテレビ",
+      "summary": "",
+      "publishedAt": "2026-10-24T19:45:31.000Z",
+      "image": "https://www.tbs.co.jp/ro/img/ogp.png",
+      "categories": [
+        "other"
+      ],
+      "works": [
+        "tensei-kizoku"
+      ],
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": false
+    },
     {
       "id": "e378b3e19e34",
       "title": "昨日告白に成功したはずの貧乏な学園の女神が、なぜか上場企業の女性社長に！？おまけに娘までいる？！[異世界最新作]#海外アニメ #異世界アニメ#アニメフル全話 Ring (u5R5VN88Gx)",
@@ -882,32 +909,12 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": true
-    },
-    {
-      "id": "01371568aec8",
-      "title": "転生貴族、鑑定スキルで成り上がる 第３期 [字] ＃２９「バサマークの最期」",
-      "url": "https://www.tbs.co.jp/tv/20261025_C27B.html",
-      "host": "tbs.co.jp",
-      "source": "TBSテレビ",
-      "summary": "",
-      "publishedAt": "2026-10-24T11:52:55.000Z",
-      "image": "https://www.tbs.co.jp/ro/img/ogp.png",
-      "categories": [
-        "other"
-      ],
-      "works": [
-        "tensei-kizoku"
-      ],
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
       "isNew": false
     },
     {
       "id": "6e357d616316",
-      "title": "多次元シンガー・310、TVアニメ『信者ゼロの女神サマと始める異世界攻略』OPテーマ「未来の足跡」12月2日CDリリース！アニメ描きおろしジャケット＆収録内容も公開！",
-      "url": "https://news.livedoor.com/article/detail/32648642/",
+      "title": "多次元シンガー・310、TVアニメ『信者ゼロの女神サマと始める異世界攻略』OPテーマ「未来の足跡」12月2日CDリリース！アニメ描きおろしジャケット＆収録内容も公開！ (2026年10月24日掲載)",
+      "url": "https://news.livedoor.com/topics/detail/32648642/",
       "host": "news.livedoor.com",
       "source": "ライブドアニュース",
       "summary": "",
@@ -940,7 +947,7 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "501ea1770c42",
@@ -959,26 +966,6 @@
       "viaGoogle": false,
       "sourceKind": "news",
       "isNew": false
-    },
-    {
-      "id": "e877e7a3bcff",
-      "title": "転生したら剣でしたII＞攻撃が一切効かない死霊の王リッチに苦戦するフラン…第4話あらすじ＆先行カット公開(2/3)",
-      "url": "https://thetv.jp/news/detail/1451472/p2/",
-      "host": "thetv.jp",
-      "source": "WEBザテレビジョン",
-      "summary": "",
-      "publishedAt": "2026-10-24T09:00:17.000Z",
-      "image": "https://thetv.jp/i/nw/1451472/18922866.jpg?w=1284",
-      "categories": [
-        "anime"
-      ],
-      "works": [
-        "tenken"
-      ],
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": true
     },
     {
       "id": "5eca13fb43d1",
@@ -1054,7 +1041,7 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "be3dfe87fb47",
@@ -1114,7 +1101,7 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "2de64583c2ab",
@@ -1154,7 +1141,7 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "ee1712619dc6",
@@ -1512,7 +1499,7 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "f4dfb112a750",
@@ -1782,7 +1769,7 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "a2e5f68ad8b4",
@@ -1922,7 +1909,7 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "2cd31887d9bc",
@@ -1987,6 +1974,26 @@
       "isNew": false
     },
     {
+      "id": "2d03f9fe3645",
+      "title": "『劇場版 薬屋のひとりごと』主題歌は米津玄師「春が灯り」 新予告＆新ビジュアルも（リアルサウンド）",
+      "url": "https://news.yahoo.co.jp/articles/dc553b09300938de184d10504367a699fc9380e9",
+      "host": "news.yahoo.co.jp",
+      "source": "Yahoo!ニュース",
+      "summary": "",
+      "publishedAt": "2026-10-23T02:51:44.000Z",
+      "image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20261023-00010013-realsound-000-1-view.jpg?exp=10800",
+      "categories": [
+        "anime"
+      ],
+      "works": [
+        "kusuriya"
+      ],
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": true
+    },
+    {
       "id": "ec0ff3eb8c5a",
       "title": "『劇場版 薬屋のひとりごと』7つの新情報発表 『金曜ロードショー』で特別編集版の放送も",
       "url": "https://realsound.jp/movie/2026/10/post-2561982.html",
@@ -2005,6 +2012,27 @@
       "viaGoogle": false,
       "sourceKind": "news",
       "isNew": false
+    },
+    {
+      "id": "27d084a9c568",
+      "title": "画像ページ (6/10) Audibleがプライム会員なら4ヵ月間月額99円。『本好きの下剋上』『転スラ』『マケイン』『SAO』『イン・ザ・メガチャーチ』など数十万以上の作品が聴き放題に",
+      "url": "https://www.famitsu.com/article/images/202610/90766/899810",
+      "host": "famitsu.com",
+      "source": "ファミ通",
+      "summary": "",
+      "publishedAt": "2026-10-23T02:40:00.000Z",
+      "image": "https://cimg.kgl-systems.io/camion/files/famitsu/90766/a18e2999891374a475d0687ca9f989d83.jpg?x=1280",
+      "categories": [
+        "game"
+      ],
+      "works": [
+        "tensura",
+        "honzuki"
+      ],
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": true
     },
     {
       "id": "0eb901f00bad",
@@ -2044,6 +2072,27 @@
       "viaGoogle": false,
       "sourceKind": "news",
       "isNew": false
+    },
+    {
+      "id": "d5900627f687",
+      "title": "「薬屋のひとりごと」新作一番くじの全ラインナップ公開！劇場版衣装の「猫猫」「壬氏」が、世界観をプラスした“新ブランド”で立体化",
+      "url": "https://www.inside-games.jp/article/2026/10/23/189671.html",
+      "host": "inside-games.jp",
+      "source": "インサイド",
+      "summary": "",
+      "publishedAt": "2026-10-23T01:30:03.000Z",
+      "image": "https://www.inside-games.jp/imgs/ogp_f/1797436.jpg",
+      "categories": [
+        "anime",
+        "goods"
+      ],
+      "works": [
+        "kusuriya"
+      ],
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": true
     },
     {
       "id": "628ce4efd750",
@@ -2138,7 +2187,7 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "166af4676432",
@@ -2197,7 +2246,7 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "fee65f4158c7",
@@ -2573,24 +2622,6 @@
       "viaGoogle": false,
       "sourceKind": "news",
       "isNew": false
-    },
-    {
-      "id": "d6726594db56",
-      "title": "【アニメ異世界】最強の魔獣と仲間になった俺、万能スキルで異世界をのんびり満喫します！【アニメ異世界】 Viareggio (lddK9mDR5x)",
-      "url": "https://media.unisba.ac.id/3ba26c45/ead67570CjceCgpnH1cwMhE",
-      "host": "media.unisba.ac.id",
-      "source": "Unisba Media",
-      "summary": "",
-      "publishedAt": "2026-10-21T23:12:34.000Z",
-      "image": "",
-      "categories": [
-        "anime"
-      ],
-      "works": [],
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": true
     },
     {
       "id": "69ecf7f07dd7",
