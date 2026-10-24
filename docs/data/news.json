@@ -1,18 +1,18 @@
 {
-  "updatedAt": "2026-10-24T16:00:18.827Z",
+  "updatedAt": "2026-10-24T16:30:17.264Z",
   "site": {
     "title": "なろう系まとめ",
     "tagline": "小説家になろう発の作品のアニメ化・コミカライズ・書籍化のニュースと、なろうのランキングをまとめています。",
     "url": "https://naroumatome.gamelab.website/",
     "contactUrl": "https://docs.google.com/forms/d/e/1FAIpQLSesWyhmZ6sRS_ve-c3X2KqF_wC5PK2TgwgQbTKmnQltSlg5Jw/viewform"
   },
-  "total": 98,
+  "total": 99,
   "todayCount": 0,
   "categories": [
     {
       "id": "anime",
       "label": "アニメ",
-      "count": 56
+      "count": 57
     },
     {
       "id": "comic",
@@ -296,7 +296,7 @@
   "sources": [
     {
       "name": "Yahoo!ニュース",
-      "count": 15
+      "count": 14
     },
     {
       "name": "ラノベニュースオンライン",
@@ -316,7 +316,7 @@
     },
     {
       "name": "山陽新聞デジタル｜さんデジ",
-      "count": 5
+      "count": 6
     },
     {
       "name": "ナタリー",
@@ -333,10 +333,6 @@
     {
       "name": "ABEMA TIMES",
       "count": 3
-    },
-    {
-      "name": "ABEMA",
-      "count": 2
     },
     {
       "name": "アニメイトタイムズ",
@@ -376,6 +372,14 @@
     },
     {
       "name": "ライブドアニュース",
+      "count": 1
+    },
+    {
+      "name": "ABEMA",
+      "count": 1
+    },
+    {
+      "name": "QJWeb クイック・ジャパン ウェブ",
       "count": 1
     },
     {
@@ -432,6 +436,10 @@
     },
     {
       "name": "Mogura VR",
+      "count": 1
+    },
+    {
+      "name": "Unisba Media",
       "count": 1
     },
     {
@@ -872,12 +880,12 @@
     }
   ],
   "churn": {
-    "previousAt": "2026-10-24T15:30:16.799Z",
-    "previousCount": 96,
-    "newCount": 5
+    "previousAt": "2026-10-24T16:00:18.827Z",
+    "previousCount": 98,
+    "newCount": 2
   },
   "updateGapMin": 30,
-  "nextUpdateAt": "2026-10-24T16:30:18.827Z",
+  "nextUpdateAt": "2026-10-24T17:00:17.264Z",
   "items": [
     {
       "id": "7e7cf7e456bc",
@@ -894,24 +902,6 @@
       "works": [
         "kusuriya"
       ],
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": true
-    },
-    {
-      "id": "048856b88e3c",
-      "title": "異世界・ファンタジーアニメ4チャンネル | 無料で放送中の番組や配信中の話題作が見放題",
-      "url": "https://abema.tv/now-on-air/isekai-anime-4",
-      "host": "abema.tv",
-      "source": "ABEMA",
-      "summary": "",
-      "publishedAt": "2026-10-24T11:54:59.000Z",
-      "image": "",
-      "categories": [
-        "anime"
-      ],
-      "works": [],
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
@@ -977,13 +967,13 @@
     },
     {
       "id": "501ea1770c42",
-      "title": "QuizKnockが結成10年で築いた“信頼関係”「みんなの憧れ」「なろう系クイズ王」（QJWeb クイック・ジャパン ウェブ）",
-      "url": "https://news.yahoo.co.jp/articles/25e58a6f0d6969b7fad57b40919e36eb43a479ae?page",
-      "host": "news.yahoo.co.jp",
-      "source": "Yahoo!ニュース",
+      "title": "QuizKnockが結成10年で築いた“信頼関係”「みんなの憧れ」「なろう系クイズ王」",
+      "url": "https://qjweb.jp/feature/167123/",
+      "host": "qjweb.jp",
+      "source": "QJWeb クイック・ジャパン ウェブ",
       "summary": "",
-      "publishedAt": "2026-10-24T10:02:43.000Z",
-      "image": "",
+      "publishedAt": "2026-10-24T10:01:15.000Z",
+      "image": "https://qjweb.jp/wp-content/uploads/2026/10/qk_1.png",
       "categories": [
         "web"
       ],
@@ -1187,7 +1177,7 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "ee1712619dc6",
@@ -1370,6 +1360,24 @@
       "viaGoogle": false,
       "sourceKind": "news",
       "isNew": false
+    },
+    {
+      "id": "f9ca5a6c9075",
+      "title": "『世界最高の暗殺者、異世界貴族に転生する』第2期、来年1月放送 PV解禁で新キャラ役は上坂すみれ・外崎友亮",
+      "url": "https://www.sanyonews.jp/article/1983625",
+      "host": "sanyonews.jp",
+      "source": "山陽新聞デジタル｜さんデジ",
+      "summary": "",
+      "publishedAt": "2026-10-23T21:24:15.000Z",
+      "image": "https://static.sanyonews.jp/image/article/size1/9/6/d/7/96d7783e018c5b9195a0bb396345595f_1.jpg",
+      "categories": [
+        "anime"
+      ],
+      "works": [],
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": true
     },
     {
       "id": "6649e9a88077",
@@ -1747,7 +1755,7 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "69475b8ed36b",
@@ -2510,7 +2518,7 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "b879bb9d41e9",
@@ -2530,7 +2538,7 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "3931d93ff072",
@@ -2649,6 +2657,24 @@
       "viaGoogle": false,
       "sourceKind": "news",
       "isNew": false
+    },
+    {
+      "id": "d6726594db56",
+      "title": "【アニメ異世界】最強の魔獣と仲間になった俺、万能スキルで異世界をのんびり満喫します！【アニメ異世界】 Viareggio (lddK9mDR5x)",
+      "url": "https://media.unisba.ac.id/3ba26c45/ead67570CjceCgpnH1cwMhE",
+      "host": "media.unisba.ac.id",
+      "source": "Unisba Media",
+      "summary": "",
+      "publishedAt": "2026-10-21T23:12:34.000Z",
+      "image": "",
+      "categories": [
+        "anime"
+      ],
+      "works": [],
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": true
     },
     {
       "id": "69ecf7f07dd7",
