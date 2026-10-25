@@ -1,18 +1,18 @@
 {
-  "updatedAt": "2026-10-25T18:00:20.159Z",
+  "updatedAt": "2026-10-25T18:30:18.810Z",
   "site": {
     "title": "なろう系まとめ",
     "tagline": "小説家になろう発の作品のアニメ化・コミカライズ・書籍化のニュースと、なろうのランキングをまとめています。",
     "url": "https://naroumatome.gamelab.website/",
     "contactUrl": "https://docs.google.com/forms/d/e/1FAIpQLSesWyhmZ6sRS_ve-c3X2KqF_wC5PK2TgwgQbTKmnQltSlg5Jw/viewform"
   },
-  "total": 80,
+  "total": 81,
   "todayCount": 1,
   "categories": [
     {
       "id": "anime",
       "label": "アニメ",
-      "count": 50
+      "count": 52
     },
     {
       "id": "comic",
@@ -42,7 +42,7 @@
     {
       "id": "other",
       "label": "そのほか",
-      "count": 6
+      "count": 5
     }
   ],
   "works": [
@@ -224,7 +224,7 @@
       "id": "tenken",
       "title": "転生したら剣でした",
       "short": "転剣",
-      "count": 0
+      "count": 1
     },
     {
       "id": "rupunana",
@@ -296,14 +296,22 @@
   "sources": [
     {
       "name": "Yahoo!ニュース",
-      "count": 12
+      "count": 11
     },
     {
       "name": "ラノベニュースオンライン",
       "count": 7
     },
     {
+      "name": "山陽新聞",
+      "count": 5
+    },
+    {
       "name": "ナタリー",
+      "count": 5
+    },
+    {
+      "name": "ABEMA",
       "count": 5
     },
     {
@@ -311,15 +319,7 @@
       "count": 5
     },
     {
-      "name": "山陽新聞",
-      "count": 4
-    },
-    {
       "name": "Unisba Media",
-      "count": 4
-    },
-    {
-      "name": "ABEMA",
       "count": 4
     },
     {
@@ -329,6 +329,10 @@
     {
       "name": "ABEMA TIMES",
       "count": 3
+    },
+    {
+      "name": "Mantan Web",
+      "count": 2
     },
     {
       "name": "アニメイトタイムズ",
@@ -356,10 +360,6 @@
     },
     {
       "name": "TBSテレビ",
-      "count": 1
-    },
-    {
-      "name": "Mantan Web",
       "count": 1
     },
     {
@@ -431,10 +431,6 @@
       "count": 1
     },
     {
-      "name": "PR TIMES",
-      "count": 1
-    },
-    {
       "name": "キャラグー",
       "count": 1
     },
@@ -444,6 +440,49 @@
     }
   ],
   "topics": [
+    {
+      "id": "661f065e1b4a",
+      "title": "日向夏の完全新作、劇場版キービジュアルの幅広帯付き初版！イマジカインフォス『小説 薬屋のひとりごと 亡妃の秘宝』",
+      "summary": "",
+      "url": "https://dtimes.jp/post-1428195/",
+      "image": "https://dtimes.jp/wp-content/uploads/2026/10/dtimes-engine-8595d9f7537a4dacf7d4f69f3b9b5250-20261023-13c486.jpg",
+      "leadSource": "Dtimes",
+      "publishedAt": "2026-10-25T17:13:07.000Z",
+      "sourceCount": 4,
+      "articleCount": 4,
+      "categories": [
+        "anime",
+        "book"
+      ],
+      "keywords": [
+        "薬屋",
+        "劇場版",
+        "キービジュアル"
+      ],
+      "articles": [
+        {
+          "title": "『劇場版 薬屋のひとりごと 亡妃の秘宝』の一番くじ、全ラインアップ発表 描きおろし賞品登場（cinemacafe.net）",
+          "url": "https://news.yahoo.co.jp/articles/ad49d679bd312cbc4e8f6f7fa7ac486520e625e1",
+          "source": "Yahoo!ニュース",
+          "publishedAt": "2026-10-25T08:30:03.000Z",
+          "isPR": false
+        },
+        {
+          "title": "『薬屋のひとりごと』初の劇場版、最新映像＆キービジュアル＆相関図が公開 主題歌は米津玄師「春が灯り」",
+          "url": "https://www.sanyonews.jp/article/2009115?rct",
+          "source": "山陽新聞",
+          "publishedAt": "2026-10-25T01:17:17.000Z",
+          "isPR": false
+        },
+        {
+          "title": "薬屋のひとりごと 第3期 #53・見逃し放送",
+          "url": "https://abema.tv/channels/abema-anime/slots/CQ2AjDm7SFi6Dm",
+          "source": "ABEMA",
+          "publishedAt": "2026-10-24T10:31:16.000Z",
+          "isPR": false
+        }
+      ]
+    },
     {
       "id": "b18798688bb8",
       "title": "「イチャつきおって」「赤ちゃんプレイw」…「薬屋のひとりごと」猫猫の「あーん」でバッタ食べる壬氏に視聴者大爆笑!!【第52話ネタバレあり反応まとめ】",
@@ -525,42 +564,6 @@
           "url": "https://news.yahoo.co.jp/articles/5a6bd9cea22603cc331854d184c2dd5780787338/images/000",
           "source": "Yahoo!ニュース",
           "publishedAt": "2026-10-23T09:15:03.000Z",
-          "isPR": false
-        }
-      ]
-    },
-    {
-      "id": "661f065e1b4a",
-      "title": "日向夏の完全新作、劇場版キービジュアルの幅広帯付き初版！イマジカインフォス『小説 薬屋のひとりごと 亡妃の秘宝』",
-      "summary": "",
-      "url": "https://dtimes.jp/post-1428195/",
-      "image": "https://dtimes.jp/wp-content/uploads/2026/10/dtimes-engine-8595d9f7537a4dacf7d4f69f3b9b5250-20261023-13c486.jpg",
-      "leadSource": "Dtimes",
-      "publishedAt": "2026-10-25T17:13:07.000Z",
-      "sourceCount": 3,
-      "articleCount": 3,
-      "categories": [
-        "anime",
-        "book"
-      ],
-      "keywords": [
-        "薬屋",
-        "劇場版",
-        "亡妃"
-      ],
-      "articles": [
-        {
-          "title": "『劇場版 薬屋のひとりごと 亡妃の秘宝』の一番くじ、全ラインアップ発表 描きおろし賞品登場（cinemacafe.net）",
-          "url": "https://news.yahoo.co.jp/articles/ad49d679bd312cbc4e8f6f7fa7ac486520e625e1",
-          "source": "Yahoo!ニュース",
-          "publishedAt": "2026-10-25T08:30:03.000Z",
-          "isPR": false
-        },
-        {
-          "title": "薬屋のひとりごと 第3期 #53・見逃し放送",
-          "url": "https://abema.tv/channels/abema-anime/slots/CQ2AjDm7SFi6Dm",
-          "source": "ABEMA",
-          "publishedAt": "2026-10-24T10:31:16.000Z",
           "isPR": false
         }
       ]
@@ -859,12 +862,12 @@
     }
   ],
   "churn": {
-    "previousAt": "2026-10-25T17:30:17.179Z",
+    "previousAt": "2026-10-25T18:00:20.159Z",
     "previousCount": 80,
-    "newCount": 1
+    "newCount": 2
   },
   "updateGapMin": 30,
-  "nextUpdateAt": "2026-10-25T18:30:20.159Z",
+  "nextUpdateAt": "2026-10-25T19:00:18.810Z",
   "items": [
     {
       "id": "661f065e1b4a",
@@ -1124,6 +1127,26 @@
       "isNew": false
     },
     {
+      "id": "760071b97af5",
+      "title": "『薬屋のひとりごと』初の劇場版、最新映像＆キービジュアル＆相関図が公開 主題歌は米津玄師「春が灯り」",
+      "url": "https://www.sanyonews.jp/article/2009115?rct",
+      "host": "sanyonews.jp",
+      "source": "山陽新聞",
+      "summary": "",
+      "publishedAt": "2026-10-25T01:17:17.000Z",
+      "image": "https://static.sanyonews.jp/image/article/size1/3/7/2/b/372b847e7a2969e9061e2fb3aa820abd_1.jpg",
+      "categories": [
+        "anime"
+      ],
+      "works": [
+        "kusuriya"
+      ],
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": true
+    },
+    {
       "id": "f4a039f15994",
       "title": "＜本好きの下剋上＞フェルディナンド様の“頭ポン”にファン沸騰「ギャップが…！」「レアすぎ」“圧倒的”強さも話題",
       "url": "https://thetv.jp/news/detail/1406451/17617365/",
@@ -1276,26 +1299,6 @@
       "viaGoogle": false,
       "sourceKind": "news",
       "isNew": false
-    },
-    {
-      "id": "552346bb0f90",
-      "title": "悠木碧の圧倒的演技力を分析！ 『まどマギ』『逃げ若』から『薬屋のひとりごと』猫猫まで (リアルサウンド)",
-      "url": "https://news.yahoo.co.jp/articles/66c07c151e3639bae9cee74c9c2e69dcb36a469d/images/000",
-      "host": "news.yahoo.co.jp",
-      "source": "Yahoo!ニュース",
-      "summary": "",
-      "publishedAt": "2026-10-24T10:15:20.000Z",
-      "image": "https://news-pctr.c.yimg.jp/uUzvQ3lML_bkIqyakc1vFhNrRI0RUQxg5aFkrX0xDg1_T0wXrbEJjtNGtrf1o9y3xudcUclfbXjZqAvGT8NJnestJpeX_HXVi2_tESF2PGTyExuu_Z1f3rWw5lfjGueTrDiju7dnkR4Mv5Oix_7TjD7o9nizYtUfF-uu_4tTqVMTWLrD41VK-AlKBZJlQCKf",
-      "categories": [
-        "other"
-      ],
-      "works": [
-        "kusuriya"
-      ],
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": true
     },
     {
       "id": "501ea1770c42",
@@ -1787,6 +1790,26 @@
       "isNew": false
     },
     {
+      "id": "f8571f479108",
+      "title": "転生したら剣でしたII #5【地上波先行・独占配信】",
+      "url": "https://abema.tv/channels/abema-anime/slots/CQ2AmeFiD6Puvo",
+      "host": "abema.tv",
+      "source": "ABEMA",
+      "summary": "",
+      "publishedAt": "2026-10-23T12:28:40.000Z",
+      "image": "",
+      "categories": [
+        "anime"
+      ],
+      "works": [
+        "tenken"
+      ],
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": true
+    },
+    {
       "id": "b3f31d6d8f92",
       "title": "「異世界おじさん」「天国大魔境」「Dジェネシス」最新巻が人気「GAMBLE FISH」ほか1冊99円のセール本も！Amazon Kindle本マンガ「売れ筋ランキング」コミック単行本上位20！（2026年10月23日版）",
       "url": "https://hobby.dengeki.com/news/3206732/",
@@ -2117,6 +2140,25 @@
       "isNew": false
     },
     {
+      "id": "d36cfc9a71c6",
+      "title": "電子書店でも大人気! 異世界ファンタジーコミック大ヒットシリーズ続巻 他「グラストCOMICS」新刊4作品 購入特典付きで10月23日(金)発売！",
+      "url": "https://mantan-web.jp/prtimes/article/20261023prt00m200000152a.html",
+      "host": "mantan-web.jp",
+      "source": "Mantan Web",
+      "summary": "",
+      "publishedAt": "2026-10-23T07:00:00.000Z",
+      "image": "https://prtimes.jp/img/607/2290/resize/d607-2290-efdcac205d12d98a317f-0.jpg",
+      "categories": [
+        "comic",
+        "book"
+      ],
+      "works": [],
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": false
+    },
+    {
       "id": "df316c19bb47",
       "title": "アニメ『信者ゼロの女神サマと始める異世界攻略』はどこで見れる？サブスク・配信サービスを全調査 | VODB! by チバテレ",
       "url": "https://www.chiba-tv.com/vod-db/shinjazero-anime/",
@@ -2354,25 +2396,6 @@
         "kusuriya"
       ],
       "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": false
-    },
-    {
-      "id": "d36cfc9a71c6",
-      "title": "電子書店でも大人気! 異世界ファンタジーコミック大ヒットシリーズ続巻 他「グラストCOMICS」新刊4作品 購入特典付きで10月23日(金)発売！",
-      "url": "https://prtimes.jp/main/html/rd/p/000002290.000000607.html",
-      "host": "prtimes.jp",
-      "source": "PR TIMES",
-      "summary": "",
-      "publishedAt": "2026-10-23T01:00:02.000Z",
-      "image": "https://prcdn.freetls.fastly.net/release_image/607/2290/607-2290-9426aef9d71b08d7ad769ca9dfa18012-1339x1900.jpg?format=jpeg&auto=webp&fit=bounds&width=2400&height=1260",
-      "categories": [
-        "comic",
-        "book"
-      ],
-      "works": [],
-      "isPR": true,
       "viaGoogle": false,
       "sourceKind": "news",
       "isNew": false
