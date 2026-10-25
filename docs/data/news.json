@@ -1,12 +1,12 @@
 {
-  "updatedAt": "2026-10-24T23:30:21.973Z",
+  "updatedAt": "2026-10-25T00:00:19.747Z",
   "site": {
     "title": "なろう系まとめ",
     "tagline": "小説家になろう発の作品のアニメ化・コミカライズ・書籍化のニュースと、なろうのランキングをまとめています。",
     "url": "https://naroumatome.gamelab.website/",
     "contactUrl": "https://docs.google.com/forms/d/e/1FAIpQLSesWyhmZ6sRS_ve-c3X2KqF_wC5PK2TgwgQbTKmnQltSlg5Jw/viewform"
   },
-  "total": 91,
+  "total": 90,
   "todayCount": 2,
   "categories": [
     {
@@ -32,7 +32,7 @@
     {
       "id": "game",
       "label": "ゲーム",
-      "count": 5
+      "count": 4
     },
     {
       "id": "goods",
@@ -50,7 +50,7 @@
       "id": "tensura",
       "title": "転生したらスライムだった件",
       "short": "転スラ",
-      "count": 4
+      "count": 3
     },
     {
       "id": "mushoku",
@@ -68,13 +68,13 @@
       "id": "honzuki",
       "title": "本好きの下剋上",
       "short": "本好き",
-      "count": 3
+      "count": 2
     },
     {
       "id": "kusuriya",
       "title": "薬屋のひとりごと",
       "short": "薬屋",
-      "count": 37
+      "count": 36
     },
     {
       "id": "kagejitsu",
@@ -224,7 +224,7 @@
       "id": "tenken",
       "title": "転生したら剣でした",
       "short": "転剣",
-      "count": 0
+      "count": 1
     },
     {
       "id": "rupunana",
@@ -296,11 +296,15 @@
   "sources": [
     {
       "name": "Yahoo!ニュース",
-      "count": 14
+      "count": 13
     },
     {
       "name": "ラノベニュースオンライン",
       "count": 9
+    },
+    {
+      "name": "WEBザテレビジョン",
+      "count": 6
     },
     {
       "name": "アニメ！アニメ！",
@@ -309,10 +313,6 @@
     {
       "name": "GameWith",
       "count": 6
-    },
-    {
-      "name": "WEBザテレビジョン",
-      "count": 5
     },
     {
       "name": "ナタリー",
@@ -328,10 +328,6 @@
     },
     {
       "name": "ABEMA TIMES",
-      "count": 3
-    },
-    {
-      "name": "ファミ通",
       "count": 3
     },
     {
@@ -356,6 +352,10 @@
     },
     {
       "name": "eeo",
+      "count": 2
+    },
+    {
+      "name": "ファミ通",
       "count": 2
     },
     {
@@ -566,14 +566,14 @@
       "leadSource": "WEBザテレビジョン",
       "publishedAt": "2026-10-24T14:21:29.000Z",
       "sourceCount": 3,
-      "articleCount": 5,
+      "articleCount": 4,
       "categories": [
         "anime"
       ],
       "keywords": [
         "薬屋",
-        "劇場版",
-        "ビジュ"
+        "キービジュアル",
+        "劇場版"
       ],
       "articles": [
         {
@@ -595,13 +595,6 @@
           "url": "https://news.yahoo.co.jp/articles/f3bdcb52a73ad85c5cdc1c4dee927ab222f120c1/images/000",
           "source": "Yahoo!ニュース",
           "publishedAt": "2026-10-23T05:56:48.000Z",
-          "isPR": false
-        },
-        {
-          "title": "『劇場版 薬屋のひとりごと』主題歌は米津玄師「春が灯り」 新予告＆新ビジュアルも（リアルサウンド）",
-          "url": "https://news.yahoo.co.jp/articles/dc553b09300938de184d10504367a699fc9380e9",
-          "source": "Yahoo!ニュース",
-          "publishedAt": "2026-10-23T02:51:44.000Z",
           "isPR": false
         }
       ]
@@ -846,12 +839,12 @@
     }
   ],
   "churn": {
-    "previousAt": "2026-10-24T23:00:16.766Z",
-    "previousCount": 90,
-    "newCount": 3
+    "previousAt": "2026-10-24T23:30:21.973Z",
+    "previousCount": 91,
+    "newCount": 1
   },
   "updateGapMin": 30,
-  "nextUpdateAt": "2026-10-25T00:00:21.973Z",
+  "nextUpdateAt": "2026-10-25T00:30:19.747Z",
   "items": [
     {
       "id": "01371568aec8",
@@ -966,6 +959,26 @@
       "viaGoogle": false,
       "sourceKind": "news",
       "isNew": false
+    },
+    {
+      "id": "e877e7a3bcff",
+      "title": "転生したら剣でしたII＞攻撃が一切効かない死霊の王リッチに苦戦するフラン…第4話あらすじ＆先行カット公開(2/3)",
+      "url": "https://thetv.jp/news/detail/1451472/p2/",
+      "host": "thetv.jp",
+      "source": "WEBザテレビジョン",
+      "summary": "",
+      "publishedAt": "2026-10-24T09:00:17.000Z",
+      "image": "https://thetv.jp/i/nw/1451472/18922866.jpg?w=1284",
+      "categories": [
+        "anime"
+      ],
+      "works": [
+        "tenken"
+      ],
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": true
     },
     {
       "id": "5eca13fb43d1",
@@ -1974,26 +1987,6 @@
       "isNew": false
     },
     {
-      "id": "2d03f9fe3645",
-      "title": "『劇場版 薬屋のひとりごと』主題歌は米津玄師「春が灯り」 新予告＆新ビジュアルも（リアルサウンド）",
-      "url": "https://news.yahoo.co.jp/articles/dc553b09300938de184d10504367a699fc9380e9",
-      "host": "news.yahoo.co.jp",
-      "source": "Yahoo!ニュース",
-      "summary": "",
-      "publishedAt": "2026-10-23T02:51:44.000Z",
-      "image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20261023-00010013-realsound-000-1-view.jpg?exp=10800",
-      "categories": [
-        "anime"
-      ],
-      "works": [
-        "kusuriya"
-      ],
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": true
-    },
-    {
       "id": "ec0ff3eb8c5a",
       "title": "『劇場版 薬屋のひとりごと』7つの新情報発表 『金曜ロードショー』で特別編集版の放送も",
       "url": "https://realsound.jp/movie/2026/10/post-2561982.html",
@@ -2012,27 +2005,6 @@
       "viaGoogle": false,
       "sourceKind": "news",
       "isNew": false
-    },
-    {
-      "id": "27d084a9c568",
-      "title": "画像ページ (6/10) Audibleがプライム会員なら4ヵ月間月額99円。『本好きの下剋上』『転スラ』『マケイン』『SAO』『イン・ザ・メガチャーチ』など数十万以上の作品が聴き放題に",
-      "url": "https://www.famitsu.com/article/images/202610/90766/899810",
-      "host": "famitsu.com",
-      "source": "ファミ通",
-      "summary": "",
-      "publishedAt": "2026-10-23T02:40:00.000Z",
-      "image": "https://cimg.kgl-systems.io/camion/files/famitsu/90766/a18e2999891374a475d0687ca9f989d83.jpg?x=1280",
-      "categories": [
-        "game"
-      ],
-      "works": [
-        "tensura",
-        "honzuki"
-      ],
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": true
     },
     {
       "id": "0eb901f00bad",
@@ -2092,7 +2064,7 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "628ce4efd750",
