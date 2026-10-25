@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-25T17:30:17.179Z",
+  "updatedAt": "2026-10-25T18:00:20.159Z",
   "site": {
     "title": "なろう系まとめ",
     "tagline": "小説家になろう発の作品のアニメ化・コミカライズ・書籍化のニュースと、なろうのランキングをまとめています。",
@@ -12,7 +12,7 @@
     {
       "id": "anime",
       "label": "アニメ",
-      "count": 51
+      "count": 50
     },
     {
       "id": "comic",
@@ -42,7 +42,7 @@
     {
       "id": "other",
       "label": "そのほか",
-      "count": 5
+      "count": 6
     }
   ],
   "works": [
@@ -50,7 +50,7 @@
       "id": "tensura",
       "title": "転生したらスライムだった件",
       "short": "転スラ",
-      "count": 2
+      "count": 1
     },
     {
       "id": "mushoku",
@@ -74,7 +74,7 @@
       "id": "kusuriya",
       "title": "薬屋のひとりごと",
       "short": "薬屋",
-      "count": 33
+      "count": 34
     },
     {
       "id": "kagejitsu",
@@ -296,7 +296,7 @@
   "sources": [
     {
       "name": "Yahoo!ニュース",
-      "count": 11
+      "count": 12
     },
     {
       "name": "ラノベニュースオンライン",
@@ -331,10 +331,6 @@
       "count": 3
     },
     {
-      "name": "Mantan Web",
-      "count": 2
-    },
-    {
       "name": "アニメイトタイムズ",
       "count": 2
     },
@@ -344,10 +340,6 @@
     },
     {
       "name": "インサイド",
-      "count": 2
-    },
-    {
-      "name": "山陽新聞デジタル｜さんデジ",
       "count": 2
     },
     {
@@ -364,6 +356,10 @@
     },
     {
       "name": "TBSテレビ",
+      "count": 1
+    },
+    {
+      "name": "Mantan Web",
       "count": 1
     },
     {
@@ -388,6 +384,10 @@
     },
     {
       "name": "マグミクス",
+      "count": 1
+    },
+    {
+      "name": "山陽新聞デジタル｜さんデジ",
       "count": 1
     },
     {
@@ -428,6 +428,10 @@
     },
     {
       "name": "リアルサウンド",
+      "count": 1
+    },
+    {
+      "name": "PR TIMES",
       "count": 1
     },
     {
@@ -855,12 +859,12 @@
     }
   ],
   "churn": {
-    "previousAt": "2026-10-25T17:00:18.555Z",
-    "previousCount": 79,
-    "newCount": 4
+    "previousAt": "2026-10-25T17:30:17.179Z",
+    "previousCount": 80,
+    "newCount": 1
   },
   "updateGapMin": 30,
-  "nextUpdateAt": "2026-10-25T18:00:17.179Z",
+  "nextUpdateAt": "2026-10-25T18:30:20.159Z",
   "items": [
     {
       "id": "661f065e1b4a",
@@ -881,7 +885,7 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "01371568aec8",
@@ -902,26 +906,6 @@
       "viaGoogle": false,
       "sourceKind": "news",
       "isNew": false
-    },
-    {
-      "id": "36eed87c5eb2",
-      "title": "『転スラ』第4期の第3クールは来年7月放送 公式スピンオフ『クレイマンREVENGE』アニメ化で4月放送",
-      "url": "https://www.sanyonews.jp/photo/detail?article_id",
-      "host": "sanyonews.jp",
-      "source": "山陽新聞",
-      "summary": "",
-      "publishedAt": "2026-10-25T10:24:20.000Z",
-      "image": "",
-      "categories": [
-        "anime"
-      ],
-      "works": [
-        "tensura"
-      ],
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": true
     },
     {
       "id": "d82c3b338add",
@@ -1099,7 +1083,7 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "7e152371e1fe",
@@ -1292,6 +1276,26 @@
       "viaGoogle": false,
       "sourceKind": "news",
       "isNew": false
+    },
+    {
+      "id": "552346bb0f90",
+      "title": "悠木碧の圧倒的演技力を分析！ 『まどマギ』『逃げ若』から『薬屋のひとりごと』猫猫まで (リアルサウンド)",
+      "url": "https://news.yahoo.co.jp/articles/66c07c151e3639bae9cee74c9c2e69dcb36a469d/images/000",
+      "host": "news.yahoo.co.jp",
+      "source": "Yahoo!ニュース",
+      "summary": "",
+      "publishedAt": "2026-10-24T10:15:20.000Z",
+      "image": "https://news-pctr.c.yimg.jp/uUzvQ3lML_bkIqyakc1vFhNrRI0RUQxg5aFkrX0xDg1_T0wXrbEJjtNGtrf1o9y3xudcUclfbXjZqAvGT8NJnestJpeX_HXVi2_tESF2PGTyExuu_Z1f3rWw5lfjGueTrDiju7dnkR4Mv5Oix_7TjD7o9nizYtUfF-uu_4tTqVMTWLrD41VK-AlKBZJlQCKf",
+      "categories": [
+        "other"
+      ],
+      "works": [
+        "kusuriya"
+      ],
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": true
     },
     {
       "id": "501ea1770c42",
@@ -1552,7 +1556,7 @@
       "title": "『世界最高の暗殺者、異世界貴族に転生する』第2期、来年1月放送 PV解禁で新キャラ役は上坂すみれ・外崎友亮",
       "url": "https://www.sanyonews.jp/article/1983625",
       "host": "sanyonews.jp",
-      "source": "山陽新聞デジタル｜さんデジ",
+      "source": "山陽新聞",
       "summary": "",
       "publishedAt": "2026-10-23T21:24:15.000Z",
       "image": "https://static.sanyonews.jp/image/article/size1/9/6/d/7/96d7783e018c5b9195a0bb396345595f_1.jpg",
@@ -2113,25 +2117,6 @@
       "isNew": false
     },
     {
-      "id": "d36cfc9a71c6",
-      "title": "電子書店でも大人気! 異世界ファンタジーコミック大ヒットシリーズ続巻 他「グラストCOMICS」新刊4作品 購入特典付きで10月23日(金)発売！",
-      "url": "https://mantan-web.jp/prtimes/article/20261023prt00m200000152a.html",
-      "host": "mantan-web.jp",
-      "source": "Mantan Web",
-      "summary": "",
-      "publishedAt": "2026-10-23T07:00:00.000Z",
-      "image": "https://prtimes.jp/img/607/2290/resize/d607-2290-efdcac205d12d98a317f-0.jpg",
-      "categories": [
-        "comic",
-        "book"
-      ],
-      "works": [],
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": false
-    },
-    {
       "id": "df316c19bb47",
       "title": "アニメ『信者ゼロの女神サマと始める異世界攻略』はどこで見れる？サブスク・配信サービスを全調査 | VODB! by チバテレ",
       "url": "https://www.chiba-tv.com/vod-db/shinjazero-anime/",
@@ -2374,6 +2359,25 @@
       "isNew": false
     },
     {
+      "id": "d36cfc9a71c6",
+      "title": "電子書店でも大人気! 異世界ファンタジーコミック大ヒットシリーズ続巻 他「グラストCOMICS」新刊4作品 購入特典付きで10月23日(金)発売！",
+      "url": "https://prtimes.jp/main/html/rd/p/000002290.000000607.html",
+      "host": "prtimes.jp",
+      "source": "PR TIMES",
+      "summary": "",
+      "publishedAt": "2026-10-23T01:00:02.000Z",
+      "image": "https://prcdn.freetls.fastly.net/release_image/607/2290/607-2290-9426aef9d71b08d7ad769ca9dfa18012-1339x1900.jpg?format=jpeg&auto=webp&fit=bounds&width=2400&height=1260",
+      "categories": [
+        "comic",
+        "book"
+      ],
+      "works": [],
+      "isPR": true,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": false
+    },
+    {
       "id": "628ce4efd750",
       "title": "小説投稿サイト「小説家になろう」にて第15回ネット小説大賞の応募が受付中 協賛企業として20社が参加",
       "url": "https://ln-news.com/articles/126947",
@@ -2430,7 +2434,7 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": true
+      "isNew": false
     }
   ]
 }
