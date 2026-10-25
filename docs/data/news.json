@@ -1,28 +1,28 @@
 {
-  "updatedAt": "2026-10-25T00:00:19.747Z",
+  "updatedAt": "2026-10-25T00:30:18.230Z",
   "site": {
     "title": "なろう系まとめ",
     "tagline": "小説家になろう発の作品のアニメ化・コミカライズ・書籍化のニュースと、なろうのランキングをまとめています。",
     "url": "https://naroumatome.gamelab.website/",
     "contactUrl": "https://docs.google.com/forms/d/e/1FAIpQLSesWyhmZ6sRS_ve-c3X2KqF_wC5PK2TgwgQbTKmnQltSlg5Jw/viewform"
   },
-  "total": 90,
+  "total": 89,
   "todayCount": 2,
   "categories": [
     {
       "id": "anime",
       "label": "アニメ",
-      "count": 53
+      "count": 54
     },
     {
       "id": "comic",
       "label": "コミカライズ",
-      "count": 8
+      "count": 7
     },
     {
       "id": "book",
       "label": "書籍・ラノベ",
-      "count": 13
+      "count": 12
     },
     {
       "id": "web",
@@ -74,7 +74,7 @@
       "id": "kusuriya",
       "title": "薬屋のひとりごと",
       "short": "薬屋",
-      "count": 36
+      "count": 37
     },
     {
       "id": "kagejitsu",
@@ -296,15 +296,11 @@
   "sources": [
     {
       "name": "Yahoo!ニュース",
-      "count": 13
+      "count": 15
     },
     {
       "name": "ラノベニュースオンライン",
       "count": 9
-    },
-    {
-      "name": "WEBザテレビジョン",
-      "count": 6
     },
     {
       "name": "アニメ！アニメ！",
@@ -315,11 +311,15 @@
       "count": 6
     },
     {
-      "name": "ナタリー",
+      "name": "WEBザテレビジョン",
       "count": 5
     },
     {
       "name": "山陽新聞デジタル｜さんデジ",
+      "count": 4
+    },
+    {
+      "name": "ナタリー",
       "count": 4
     },
     {
@@ -379,15 +379,11 @@
       "count": 1
     },
     {
-      "name": "QJWeb クイック・ジャパン ウェブ",
+      "name": "山陽新聞",
       "count": 1
     },
     {
       "name": "マグミクス",
-      "count": 1
-    },
-    {
-      "name": "山陽新聞",
       "count": 1
     },
     {
@@ -566,14 +562,14 @@
       "leadSource": "WEBザテレビジョン",
       "publishedAt": "2026-10-24T14:21:29.000Z",
       "sourceCount": 3,
-      "articleCount": 4,
+      "articleCount": 5,
       "categories": [
         "anime"
       ],
       "keywords": [
         "薬屋",
-        "キービジュアル",
-        "劇場版"
+        "劇場版",
+        "ビジュ"
       ],
       "articles": [
         {
@@ -595,6 +591,13 @@
           "url": "https://news.yahoo.co.jp/articles/f3bdcb52a73ad85c5cdc1c4dee927ab222f120c1/images/000",
           "source": "Yahoo!ニュース",
           "publishedAt": "2026-10-23T05:56:48.000Z",
+          "isPR": false
+        },
+        {
+          "title": "『劇場版 薬屋のひとりごと』主題歌は米津玄師「春が灯り」 新予告＆新ビジュアルも（リアルサウンド）",
+          "url": "https://news.yahoo.co.jp/articles/dc553b09300938de184d10504367a699fc9380e9",
+          "source": "Yahoo!ニュース",
+          "publishedAt": "2026-10-23T02:51:44.000Z",
           "isPR": false
         }
       ]
@@ -839,12 +842,12 @@
     }
   ],
   "churn": {
-    "previousAt": "2026-10-24T23:30:21.973Z",
-    "previousCount": 91,
+    "previousAt": "2026-10-25T00:00:19.747Z",
+    "previousCount": 90,
     "newCount": 1
   },
   "updateGapMin": 30,
-  "nextUpdateAt": "2026-10-25T00:30:19.747Z",
+  "nextUpdateAt": "2026-10-25T01:00:18.230Z",
   "items": [
     {
       "id": "01371568aec8",
@@ -944,13 +947,13 @@
     },
     {
       "id": "501ea1770c42",
-      "title": "QuizKnockが結成10年で築いた“信頼関係”「みんなの憧れ」「なろう系クイズ王」",
-      "url": "https://qjweb.jp/feature/167123/",
-      "host": "qjweb.jp",
-      "source": "QJWeb クイック・ジャパン ウェブ",
+      "title": "QuizKnockが結成10年で築いた“信頼関係”「みんなの憧れ」「なろう系クイズ王」（QJWeb クイック・ジャパン ウェブ）",
+      "url": "https://news.yahoo.co.jp/articles/25e58a6f0d6969b7fad57b40919e36eb43a479ae?page",
+      "host": "news.yahoo.co.jp",
+      "source": "Yahoo!ニュース",
       "summary": "",
-      "publishedAt": "2026-10-24T10:01:15.000Z",
-      "image": "https://qjweb.jp/wp-content/uploads/2026/10/qk_1.png",
+      "publishedAt": "2026-10-24T10:02:43.000Z",
+      "image": "",
       "categories": [
         "web"
       ],
@@ -978,7 +981,7 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "5eca13fb43d1",
@@ -1045,26 +1048,6 @@
       "summary": "",
       "publishedAt": "2026-10-24T07:57:39.000Z",
       "image": "",
-      "categories": [
-        "anime"
-      ],
-      "works": [
-        "kusuriya"
-      ],
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": false
-    },
-    {
-      "id": "be3dfe87fb47",
-      "title": "放送前から“視聴決定”した2026秋アニメTOP3！ 3位『氷の城壁』2位『魔法騎士レイアース』、“倍の差”つけた1位は『薬屋のひとりごと』（2/2 ページ）",
-      "url": "https://magmix.jp/post/382199/2?utm_source",
-      "host": "magmix.jp",
-      "source": "マグミクス",
-      "summary": "",
-      "publishedAt": "2026-10-24T06:03:16.000Z",
-      "image": "https://magmix.jp/wp-content/uploads/2027/03/260328-re-00.jpg",
       "categories": [
         "anime"
       ],
@@ -1186,6 +1169,26 @@
       "summary": "",
       "publishedAt": "2026-10-24T02:53:37.000Z",
       "image": "https://realsound.jp/wp-content/uploads/2026/10/20261023-eve-99.jpeg",
+      "categories": [
+        "anime"
+      ],
+      "works": [
+        "kusuriya"
+      ],
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": false
+    },
+    {
+      "id": "be3dfe87fb47",
+      "title": "放送前から“視聴決定”した2026秋アニメTOP3！ 3位『氷の城壁』2位『魔法騎士レイアース』、“倍の差”つけた1位は『薬屋のひとりごと』（2/2 ページ）",
+      "url": "https://magmix.jp/post/382199/2",
+      "host": "magmix.jp",
+      "source": "マグミクス",
+      "summary": "",
+      "publishedAt": "2026-10-24T02:50:00.000Z",
+      "image": "https://magmix.jp/wp-content/uploads/2027/03/260328-re-00.jpg",
       "categories": [
         "anime"
       ],
@@ -1736,9 +1739,9 @@
       "url": "https://animeanime.jp/article/2026/10/23/104120.html",
       "host": "animeanime.jp",
       "source": "アニメ！アニメ！",
-      "summary": "アニメ『凶乱令嬢ニア・リストン 病弱令嬢に転生した神殺しの武人の華麗なる無双録』は、DMM TV・U-NEXT・Amazonプライムビデオなどで見放題配信されています。おすすめはDMM TVです。先行配信日やTVerの無料配信、あらすじ・声優も紹介します。",
+      "summary": "",
       "publishedAt": "2026-10-23T09:43:39.000Z",
-      "image": "https://animeanime.jp/imgs/rss/943683.jpg",
+      "image": "https://animeanime.jp/imgs/ogp_f/943683.jpg",
       "categories": [
         "anime"
       ],
@@ -1759,24 +1762,6 @@
       "image": "",
       "categories": [
         "other"
-      ],
-      "works": [],
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": false
-    },
-    {
-      "id": "700a19a4d5ca",
-      "title": "少女が友達を求めて不思議な世界を探索「異世界迷宮の迷子ちゃん」1巻",
-      "url": "https://natalie.mu/comic/news/694933",
-      "host": "natalie.mu",
-      "source": "ナタリー",
-      "summary": "",
-      "publishedAt": "2026-10-23T09:40:00.000Z",
-      "image": "",
-      "categories": [
-        "book"
       ],
       "works": [],
       "isPR": false,
@@ -1987,6 +1972,26 @@
       "isNew": false
     },
     {
+      "id": "2d03f9fe3645",
+      "title": "『劇場版 薬屋のひとりごと』主題歌は米津玄師「春が灯り」 新予告＆新ビジュアルも（リアルサウンド）",
+      "url": "https://news.yahoo.co.jp/articles/dc553b09300938de184d10504367a699fc9380e9",
+      "host": "news.yahoo.co.jp",
+      "source": "Yahoo!ニュース",
+      "summary": "",
+      "publishedAt": "2026-10-23T02:51:44.000Z",
+      "image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20261023-00010013-realsound-000-1-view.jpg?exp=10800",
+      "categories": [
+        "anime"
+      ],
+      "works": [
+        "kusuriya"
+      ],
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": true
+    },
+    {
       "id": "ec0ff3eb8c5a",
       "title": "『劇場版 薬屋のひとりごと』7つの新情報発表 『金曜ロードショー』で特別編集版の放送も",
       "url": "https://realsound.jp/movie/2026/10/post-2561982.html",
@@ -2136,24 +2141,6 @@
       "image": "https://static.sanyonews.jp/image/article/size1/e/9/9/2/e992570336baed62a74f09d602bed803_1.jpg",
       "categories": [
         "anime"
-      ],
-      "works": [],
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": false
-    },
-    {
-      "id": "22ffa863926e",
-      "title": "理不尽に職を失った“限界OL”が、悪役令嬢の従者に…異世界での再就職生活に「イキイキ働くのが最高」の声【漫画】",
-      "url": "https://thetv.jp/news/detail/1444102/landing/",
-      "host": "thetv.jp",
-      "source": "WEBザテレビジョン",
-      "summary": "",
-      "publishedAt": "2026-10-22T16:43:21.000Z",
-      "image": "",
-      "categories": [
-        "comic"
       ],
       "works": [],
       "isPR": false,
