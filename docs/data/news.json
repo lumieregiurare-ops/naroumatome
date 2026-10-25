@@ -1,13 +1,13 @@
 {
-  "updatedAt": "2026-10-25T19:00:19.244Z",
+  "updatedAt": "2026-10-25T19:30:16.847Z",
   "site": {
     "title": "なろう系まとめ",
     "tagline": "小説家になろう発の作品のアニメ化・コミカライズ・書籍化のニュースと、なろうのランキングをまとめています。",
     "url": "https://naroumatome.gamelab.website/",
     "contactUrl": "https://docs.google.com/forms/d/e/1FAIpQLSesWyhmZ6sRS_ve-c3X2KqF_wC5PK2TgwgQbTKmnQltSlg5Jw/viewform"
   },
-  "total": 80,
-  "todayCount": 2,
+  "total": 81,
+  "todayCount": 1,
   "categories": [
     {
       "id": "anime",
@@ -32,12 +32,12 @@
     {
       "id": "game",
       "label": "ゲーム",
-      "count": 7
+      "count": 8
     },
     {
       "id": "goods",
       "label": "グッズ・イベント",
-      "count": 11
+      "count": 12
     },
     {
       "id": "other",
@@ -62,7 +62,7 @@
       "id": "rezero",
       "title": "Re:ゼロから始める異世界生活",
       "short": "リゼロ",
-      "count": 1
+      "count": 2
     },
     {
       "id": "honzuki",
@@ -315,12 +315,12 @@
       "count": 5
     },
     {
-      "name": "ABEMA TIMES",
+      "name": "山陽新聞",
       "count": 4
     },
     {
-      "name": "山陽新聞",
-      "count": 3
+      "name": "ABEMA TIMES",
+      "count": 4
     },
     {
       "name": "WEBザテレビジョン",
@@ -343,6 +343,10 @@
       "count": 2
     },
     {
+      "name": "GameWith",
+      "count": 2
+    },
+    {
       "name": "インサイド",
       "count": 2
     },
@@ -357,10 +361,6 @@
     {
       "name": "ファミ通",
       "count": 2
-    },
-    {
-      "name": "山形新聞",
-      "count": 1
     },
     {
       "name": "Dtimes",
@@ -384,10 +384,6 @@
     },
     {
       "name": "QJWeb クイック・ジャパン ウェブ",
-      "count": 1
-    },
-    {
-      "name": "GameWith",
       "count": 1
     },
     {
@@ -441,13 +437,13 @@
   ],
   "topics": [
     {
-      "id": "760071b97af5",
-      "title": "『薬屋のひとりごと』初の劇場版、最新映像＆キービジュアル＆相関図が公開 主題歌は米津玄師「春が灯り」",
+      "id": "661f065e1b4a",
+      "title": "日向夏の完全新作、劇場版キービジュアルの幅広帯付き初版！イマジカインフォス『小説 薬屋のひとりごと 亡妃の秘宝』",
       "summary": "",
-      "url": "https://www.yamagata-np.jp/oricon/photo.php?id",
-      "image": "https://www.yamagata-np.jp/",
-      "leadSource": "山形新聞",
-      "publishedAt": "2026-10-25T17:50:53.000Z",
+      "url": "https://dtimes.jp/post-1428195/",
+      "image": "https://dtimes.jp/wp-content/uploads/2026/10/dtimes-engine-8595d9f7537a4dacf7d4f69f3b9b5250-20261023-13c486.jpg",
+      "leadSource": "Dtimes",
+      "publishedAt": "2026-10-25T17:13:07.000Z",
       "sourceCount": 4,
       "articleCount": 4,
       "categories": [
@@ -461,17 +457,17 @@
       ],
       "articles": [
         {
-          "title": "日向夏の完全新作、劇場版キービジュアルの幅広帯付き初版！イマジカインフォス『小説 薬屋のひとりごと 亡妃の秘宝』",
-          "url": "https://dtimes.jp/post-1428195/",
-          "source": "Dtimes",
-          "publishedAt": "2026-10-25T17:13:07.000Z",
-          "isPR": false
-        },
-        {
           "title": "『劇場版 薬屋のひとりごと 亡妃の秘宝』の一番くじ、全ラインアップ発表 描きおろし賞品登場（cinemacafe.net）",
           "url": "https://news.yahoo.co.jp/articles/ad49d679bd312cbc4e8f6f7fa7ac486520e625e1",
           "source": "Yahoo!ニュース",
           "publishedAt": "2026-10-25T08:30:03.000Z",
+          "isPR": false
+        },
+        {
+          "title": "『薬屋のひとりごと』初の劇場版、最新映像＆キービジュアル＆相関図が公開 主題歌は米津玄師「春が灯り」",
+          "url": "https://www.sanyonews.jp/article/2009115?rct",
+          "source": "山陽新聞",
+          "publishedAt": "2026-10-25T01:17:17.000Z",
           "isPR": false
         },
         {
@@ -848,33 +844,13 @@
     }
   ],
   "churn": {
-    "previousAt": "2026-10-25T18:30:18.810Z",
-    "previousCount": 81,
-    "newCount": 2
+    "previousAt": "2026-10-25T19:00:19.244Z",
+    "previousCount": 80,
+    "newCount": 1
   },
   "updateGapMin": 30,
-  "nextUpdateAt": "2026-10-25T19:30:19.244Z",
+  "nextUpdateAt": "2026-10-25T20:00:16.847Z",
   "items": [
-    {
-      "id": "760071b97af5",
-      "title": "『薬屋のひとりごと』初の劇場版、最新映像＆キービジュアル＆相関図が公開 主題歌は米津玄師「春が灯り」",
-      "url": "https://www.yamagata-np.jp/oricon/photo.php?id",
-      "host": "yamagata-np.jp",
-      "source": "山形新聞",
-      "summary": "",
-      "publishedAt": "2026-10-25T17:50:53.000Z",
-      "image": "https://www.yamagata-np.jp/",
-      "categories": [
-        "anime"
-      ],
-      "works": [
-        "kusuriya"
-      ],
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": false
-    },
     {
       "id": "661f065e1b4a",
       "title": "日向夏の完全新作、劇場版キービジュアルの幅広帯付き初版！イマジカインフォス『小説 薬屋のひとりごと 亡妃の秘宝』",
@@ -1107,6 +1083,26 @@
         "other"
       ],
       "works": [],
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": false
+    },
+    {
+      "id": "760071b97af5",
+      "title": "『薬屋のひとりごと』初の劇場版、最新映像＆キービジュアル＆相関図が公開 主題歌は米津玄師「春が灯り」",
+      "url": "https://www.sanyonews.jp/article/2009115?rct",
+      "host": "sanyonews.jp",
+      "source": "山陽新聞",
+      "summary": "",
+      "publishedAt": "2026-10-25T01:17:17.000Z",
+      "image": "https://static.sanyonews.jp/image/article/size1/3/7/2/b/372b847e7a2969e9061e2fb3aa820abd_1.jpg",
+      "categories": [
+        "anime"
+      ],
+      "works": [
+        "kusuriya"
+      ],
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
@@ -1755,7 +1751,7 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "92a35b697ee6",
@@ -1850,7 +1846,7 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "3098fea3d8bc",
@@ -2201,6 +2197,27 @@
       "isNew": false
     },
     {
+      "id": "8cf20f1e429a",
+      "title": "【パズドラ】リゼロコラボの当たりと評価・引くべき？",
+      "url": "https://xn--0ck4aw2h.gamewith.jp/article/show/541073",
+      "host": "xn--0ck4aw2h.gamewith.jp",
+      "source": "GameWith",
+      "summary": "",
+      "publishedAt": "2026-10-23T04:03:58.000Z",
+      "image": "https://img.gamewith.jp/article/thumbnail/rectangle/541073.png?date=1769084362",
+      "categories": [
+        "game",
+        "goods"
+      ],
+      "works": [
+        "rezero"
+      ],
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": true
+    },
+    {
       "id": "2cd31887d9bc",
       "title": "アニメ『陰の実力者になりたくて！』×ゲーム『マスターオブガーデン』4周年記念合同公開生放送のイベントビジュアルが解禁",
       "url": "https://ln-news.com/articles/127024",
@@ -2310,7 +2327,7 @@
       "source": "リアルサウンド",
       "summary": "",
       "publishedAt": "2026-10-23T02:40:45.000Z",
-      "image": "https://realsound.jp/wp-content/uploads/2026/10/20261023-kusuriya7-04.jpg",
+      "image": "",
       "categories": [
         "anime"
       ],
