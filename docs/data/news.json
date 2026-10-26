@@ -1,18 +1,18 @@
 {
-  "updatedAt": "2026-10-26T22:30:18.615Z",
+  "updatedAt": "2026-10-26T23:00:17.971Z",
   "site": {
     "title": "なろう系まとめ",
     "tagline": "小説家になろう発の作品のアニメ化・コミカライズ・書籍化のニュースと、なろうのランキングをまとめています。",
     "url": "https://naroumatome.gamelab.website/",
     "contactUrl": "https://docs.google.com/forms/d/e/1FAIpQLSesWyhmZ6sRS_ve-c3X2KqF_wC5PK2TgwgQbTKmnQltSlg5Jw/viewform"
   },
-  "total": 71,
-  "todayCount": 9,
+  "total": 73,
+  "todayCount": 10,
   "categories": [
     {
       "id": "anime",
       "label": "アニメ",
-      "count": 47
+      "count": 48
     },
     {
       "id": "comic",
@@ -42,7 +42,7 @@
     {
       "id": "other",
       "label": "そのほか",
-      "count": 7
+      "count": 8
     }
   ],
   "works": [
@@ -50,7 +50,7 @@
       "id": "tensura",
       "title": "転生したらスライムだった件",
       "short": "転スラ",
-      "count": 7
+      "count": 6
     },
     {
       "id": "mushoku",
@@ -74,7 +74,7 @@
       "id": "kusuriya",
       "title": "薬屋のひとりごと",
       "short": "薬屋",
-      "count": 31
+      "count": 32
     },
     {
       "id": "kagejitsu",
@@ -296,7 +296,7 @@
   "sources": [
     {
       "name": "山陽新聞",
-      "count": 9
+      "count": 10
     },
     {
       "name": "Unisba Media",
@@ -348,6 +348,10 @@
     },
     {
       "name": "Infoseek",
+      "count": 1
+    },
+    {
+      "name": "Dellows News",
       "count": 1
     },
     {
@@ -491,7 +495,7 @@
       "leadSource": "ムビコレ",
       "publishedAt": "2026-10-26T22:26:18.000Z",
       "sourceCount": 3,
-      "articleCount": 4,
+      "articleCount": 5,
       "categories": [
         "anime",
         "book"
@@ -502,6 +506,13 @@
         "米津玄師"
       ],
       "articles": [
+        {
+          "title": "米津玄師、劇場版『薬屋のひとりごと』主題歌を書き下ろし 「春が灯りという名前の曲です」【コメントあり】",
+          "url": "https://www.sanyonews.jp/article/2009114",
+          "source": "山陽新聞",
+          "publishedAt": "2026-10-26T21:47:44.000Z",
+          "isPR": false
+        },
         {
           "title": "『薬屋のひとりごと』初の劇場版、最新映像＆キービジュアル＆相関図が公開 主題歌は米津玄師「春が灯り」",
           "url": "https://www.sanyonews.jp/article/2009115",
@@ -784,12 +795,12 @@
     }
   ],
   "churn": {
-    "previousAt": "2026-10-26T22:00:19.208Z",
-    "previousCount": 70,
+    "previousAt": "2026-10-26T22:30:18.615Z",
+    "previousCount": 71,
     "newCount": 3
   },
   "updateGapMin": 30,
-  "nextUpdateAt": "2026-10-26T23:00:18.615Z",
+  "nextUpdateAt": "2026-10-26T23:30:17.971Z",
   "items": [
     {
       "id": "879d484c7e4f",
@@ -800,6 +811,26 @@
       "summary": "",
       "publishedAt": "2026-10-26T22:26:18.000Z",
       "image": "https://www.moviecollection.jp/wp/wp-content/uploads/2026/12/a4f11c5e1e0d4fb04071646e61183154-888x500.jpg",
+      "categories": [
+        "anime"
+      ],
+      "works": [
+        "kusuriya"
+      ],
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": false
+    },
+    {
+      "id": "fbb3783811c9",
+      "title": "米津玄師、劇場版『薬屋のひとりごと』主題歌を書き下ろし 「春が灯りという名前の曲です」【コメントあり】",
+      "url": "https://www.sanyonews.jp/article/2009114",
+      "host": "sanyonews.jp",
+      "source": "山陽新聞",
+      "summary": "",
+      "publishedAt": "2026-10-26T21:47:44.000Z",
+      "image": "https://static.sanyonews.jp/image/article/size1/4/a/9/d/4a9da74ad9ef3ed0e308e5c89cae08b7_1.jpg",
       "categories": [
         "anime"
       ],
@@ -829,7 +860,7 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "dfe65b2caad5",
@@ -1029,6 +1060,24 @@
       "viaGoogle": false,
       "sourceKind": "news",
       "isNew": false
+    },
+    {
+      "id": "d367c09f63ae",
+      "title": "完全新作〈完全版〉ＪＫハルは異世界で娼婦になった autumnが10月28日発売へ",
+      "url": "https://news.dellows.jp/833621/",
+      "host": "news.dellows.jp",
+      "source": "Dellows News",
+      "summary": "",
+      "publishedAt": "2026-10-26T11:52:34.000Z",
+      "image": "https://news.dellows.jp/wp-content/uploads/2026/10/833621_1.jpg",
+      "categories": [
+        "other"
+      ],
+      "works": [],
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": true
     },
     {
       "id": "abaeaeb84555",
@@ -1416,26 +1465,6 @@
       "isNew": false
     },
     {
-      "id": "46ca8bb793fa",
-      "title": "『転スラ』魔王レオン動く！グランベルの軍勢も攻め入る 第89話あらすじ＆場面カット解禁",
-      "url": "https://www.sanyonews.jp/article/1962182",
-      "host": "sanyonews.jp",
-      "source": "山陽新聞",
-      "summary": "",
-      "publishedAt": "2026-10-26T03:06:14.000Z",
-      "image": "https://static.sanyonews.jp/image/article/size1/2/2/b/9/22b9c923dbfb3d78eddefbc250b30004_1.jpg",
-      "categories": [
-        "anime"
-      ],
-      "works": [
-        "tensura"
-      ],
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": true
-    },
-    {
       "id": "523ba8013e78",
       "title": "『転スラ』リムル、ブチギレ顔のマリアベルと戦闘！ユウキも参戦 第82話あらすじ＆場面カット公開",
       "url": "https://www.sanyonews.jp/article/1934985?kw",
@@ -1454,6 +1483,24 @@
       "viaGoogle": false,
       "sourceKind": "news",
       "isNew": false
+    },
+    {
+      "id": "f9ca5a6c9075",
+      "title": "『世界最高の暗殺者、異世界貴族に転生する』第2期、来年1月放送 PV解禁で新キャラ役は上坂すみれ・外崎友亮",
+      "url": "https://www.sanyonews.jp/article/1983625",
+      "host": "sanyonews.jp",
+      "source": "山陽新聞",
+      "summary": "",
+      "publishedAt": "2026-10-26T03:00:40.000Z",
+      "image": "https://static.sanyonews.jp/image/article/size1/9/6/d/7/96d7783e018c5b9195a0bb396345595f_1.jpg",
+      "categories": [
+        "anime"
+      ],
+      "works": [],
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": true
     },
     {
       "id": "ac2698e9e97c",
