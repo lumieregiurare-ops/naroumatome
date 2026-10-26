@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-26T19:00:20.901Z",
+  "updatedAt": "2026-10-26T19:30:20.563Z",
   "site": {
     "title": "なろう系まとめ",
     "tagline": "小説家になろう発の作品のアニメ化・コミカライズ・書籍化のニュースと、なろうのランキングをまとめています。",
@@ -22,12 +22,12 @@
     {
       "id": "book",
       "label": "書籍・ラノベ",
-      "count": 10
+      "count": 9
     },
     {
       "id": "web",
       "label": "Web小説・賞",
-      "count": 3
+      "count": 2
     },
     {
       "id": "game",
@@ -42,7 +42,7 @@
     {
       "id": "other",
       "label": "そのほか",
-      "count": 8
+      "count": 9
     }
   ],
   "works": [
@@ -319,6 +319,10 @@
       "count": 3
     },
     {
+      "name": "Infoseek",
+      "count": 2
+    },
+    {
       "name": "ナタリー",
       "count": 2
     },
@@ -343,7 +347,7 @@
       "count": 2
     },
     {
-      "name": "Infoseek",
+      "name": "Dellows News",
       "count": 1
     },
     {
@@ -407,10 +411,6 @@
       "count": 1
     },
     {
-      "name": "オタク総研",
-      "count": 1
-    },
-    {
       "name": "TVer",
       "count": 1
     },
@@ -436,10 +436,6 @@
     },
     {
       "name": "インサイド",
-      "count": 1
-    },
-    {
-      "name": "スポニチ Sponichi Annex",
       "count": 1
     }
   ],
@@ -663,9 +659,9 @@
       "id": "b01105e7a7c9",
       "title": "アニメ第3期『転生貴族、鑑定スキルで成り上がる』第29話、クランとバサマークの戦いは最終局面に【先行カット】",
       "summary": "",
-      "url": "https://0115765.com/archives/211277",
-      "image": "https://0115765.com/wp-content/uploads/2026/10/20261024-1g0rk1og-1024x576.jpg",
-      "leadSource": "オタク総研",
+      "url": "https://news.infoseek.co.jp/amp/article/otakulab_211277/",
+      "image": "https://media.image.infoseek.co.jp/isnews/photos/otakulab/otakulab_211277_0-enlarge.jpg",
+      "leadSource": "Infoseek",
       "publishedAt": "2026-10-25T08:02:59.000Z",
       "sourceCount": 3,
       "articleCount": 3,
@@ -853,12 +849,12 @@
     }
   ],
   "churn": {
-    "previousAt": "2026-10-26T18:30:27.485Z",
-    "previousCount": 79,
-    "newCount": 5
+    "previousAt": "2026-10-26T19:00:20.901Z",
+    "previousCount": 74,
+    "newCount": 1
   },
   "updateGapMin": 30,
-  "nextUpdateAt": "2026-10-26T19:30:20.901Z",
+  "nextUpdateAt": "2026-10-26T20:00:20.563Z",
   "items": [
     {
       "id": "341349d01900",
@@ -878,7 +874,7 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "28ac0511725d",
@@ -936,7 +932,7 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "e94ff247d2af",
@@ -997,6 +993,24 @@
       "viaGoogle": false,
       "sourceKind": "news",
       "isNew": false
+    },
+    {
+      "id": "d367c09f63ae",
+      "title": "完全新作〈完全版〉ＪＫハルは異世界で娼婦になった autumnが10月28日発売へ",
+      "url": "https://news.dellows.jp/833621/",
+      "host": "news.dellows.jp",
+      "source": "Dellows News",
+      "summary": "",
+      "publishedAt": "2026-10-26T11:52:34.000Z",
+      "image": "https://news.dellows.jp/wp-content/uploads/2026/10/833621_1.jpg",
+      "categories": [
+        "other"
+      ],
+      "works": [],
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": true
     },
     {
       "id": "abaeaeb84555",
@@ -1077,7 +1091,7 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "43d93e5871bc",
@@ -1097,7 +1111,7 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "0a405e31ece6",
@@ -1684,7 +1698,7 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "3f43792e6612",
@@ -1827,12 +1841,12 @@
     {
       "id": "b01105e7a7c9",
       "title": "アニメ第3期『転生貴族、鑑定スキルで成り上がる』第29話、クランとバサマークの戦いは最終局面に【先行カット】",
-      "url": "https://0115765.com/archives/211277",
-      "host": "0115765.com",
-      "source": "オタク総研",
+      "url": "https://news.infoseek.co.jp/amp/article/otakulab_211277/",
+      "host": "news.infoseek.co.jp",
+      "source": "Infoseek",
       "summary": "",
       "publishedAt": "2026-10-25T08:02:59.000Z",
-      "image": "https://0115765.com/wp-content/uploads/2026/10/20261024-1g0rk1og-1024x576.jpg",
+      "image": "https://media.image.infoseek.co.jp/isnews/photos/otakulab/otakulab_211277_0-enlarge.jpg",
       "categories": [
         "anime"
       ],
@@ -2287,25 +2301,6 @@
       "works": [
         "honzuki"
       ],
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": false
-    },
-    {
-      "id": "e56d4cd36666",
-      "title": "小説家になろう公式X（@syosetu）から",
-      "url": "https://www.sponichi.co.jp/entertainment/news/2026/10/23/gazo/20261023s10041000337000p.html",
-      "host": "sponichi.co.jp",
-      "source": "スポニチ Sponichi Annex",
-      "summary": "",
-      "publishedAt": "2026-10-23T19:26:50.000Z",
-      "image": "https://www.sponichi.co.jp/entertainment/news/2026/10/23/jpeg/20261023s10041000337000p_view.webp",
-      "categories": [
-        "book",
-        "web"
-      ],
-      "works": [],
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
