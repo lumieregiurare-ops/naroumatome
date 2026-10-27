@@ -1,23 +1,23 @@
 {
-  "updatedAt": "2026-10-27T10:00:25.863Z",
+  "updatedAt": "2026-10-27T10:30:18.180Z",
   "site": {
     "title": "なろう系まとめ",
     "tagline": "小説家になろう発の作品のアニメ化・コミカライズ・書籍化のニュースと、なろうのランキングをまとめています。",
     "url": "https://naroumatome.gamelab.website/",
     "contactUrl": "https://docs.google.com/forms/d/e/1FAIpQLSesWyhmZ6sRS_ve-c3X2KqF_wC5PK2TgwgQbTKmnQltSlg5Jw/viewform"
   },
-  "total": 78,
-  "todayCount": 26,
+  "total": 77,
+  "todayCount": 31,
   "categories": [
     {
       "id": "anime",
       "label": "アニメ",
-      "count": 49
+      "count": 51
     },
     {
       "id": "comic",
       "label": "コミカライズ",
-      "count": 5
+      "count": 4
     },
     {
       "id": "book",
@@ -42,7 +42,7 @@
     {
       "id": "other",
       "label": "そのほか",
-      "count": 9
+      "count": 7
     }
   ],
   "works": [
@@ -50,13 +50,13 @@
       "id": "tensura",
       "title": "転生したらスライムだった件",
       "short": "転スラ",
-      "count": 7
+      "count": 6
     },
     {
       "id": "mushoku",
       "title": "無職転生 ～異世界行ったら本気だす～",
       "short": "無職転生",
-      "count": 6
+      "count": 8
     },
     {
       "id": "rezero",
@@ -68,7 +68,7 @@
       "id": "honzuki",
       "title": "本好きの下剋上",
       "short": "本好き",
-      "count": 3
+      "count": 2
     },
     {
       "id": "kusuriya",
@@ -80,7 +80,7 @@
       "id": "kagejitsu",
       "title": "陰の実力者になりたくて！",
       "short": "陰の実力者",
-      "count": 1
+      "count": 2
     },
     {
       "id": "tate",
@@ -224,7 +224,7 @@
       "id": "tenken",
       "title": "転生したら剣でした",
       "short": "転剣",
-      "count": 0
+      "count": 2
     },
     {
       "id": "rupunana",
@@ -295,20 +295,16 @@
   ],
   "sources": [
     {
-      "name": "山陽新聞",
-      "count": 11
+      "name": "Yahoo!ニュース",
+      "count": 9
     },
     {
-      "name": "Yahoo!ニュース",
-      "count": 10
+      "name": "山陽新聞",
+      "count": 9
     },
     {
       "name": "Unisba Media",
-      "count": 7
-    },
-    {
-      "name": "ナタリー",
-      "count": 4
+      "count": 8
     },
     {
       "name": "gamebiz【ゲームビズ】",
@@ -319,12 +315,32 @@
       "count": 4
     },
     {
+      "name": "ニコニコニュース",
+      "count": 3
+    },
+    {
+      "name": "Infoseek",
+      "count": 3
+    },
+    {
       "name": "アニメ！アニメ！",
+      "count": 3
+    },
+    {
+      "name": "ナタリー",
       "count": 3
     },
     {
       "name": "ラノベニュースオンライン",
       "count": 3
+    },
+    {
+      "name": "PR TIMES",
+      "count": 2
+    },
+    {
+      "name": "WEBザテレビジョン",
+      "count": 2
     },
     {
       "name": "コラボカフェ",
@@ -339,16 +355,8 @@
       "count": 2
     },
     {
-      "name": "ニコニコニュース",
-      "count": 2
-    },
-    {
-      "name": "Mantan Web",
-      "count": 2
-    },
-    {
-      "name": "ABEMA",
-      "count": 2
+      "name": "ciiblog.in",
+      "count": 1
     },
     {
       "name": "rockinon.com",
@@ -375,19 +383,15 @@
       "count": 1
     },
     {
+      "name": "クランクイン！",
+      "count": 1
+    },
+    {
       "name": "USENの音楽情報サイト",
       "count": 1
     },
     {
-      "name": "Infoseek",
-      "count": 1
-    },
-    {
       "name": "V-storage",
-      "count": 1
-    },
-    {
-      "name": "ツーリズムメディアサービス",
       "count": 1
     },
     {
@@ -399,7 +403,7 @@
       "count": 1
     },
     {
-      "name": "PR TIMES",
+      "name": "Mantan Web",
       "count": 1
     },
     {
@@ -407,15 +411,11 @@
       "count": 1
     },
     {
-      "name": "オタク総研",
+      "name": "ABEMA",
       "count": 1
     },
     {
       "name": "TVer",
-      "count": 1
-    },
-    {
-      "name": "WEBザテレビジョン",
       "count": 1
     },
     {
@@ -424,10 +424,6 @@
     },
     {
       "name": "Gamerch",
-      "count": 1
-    },
-    {
-      "name": "ライブドアニュース",
       "count": 1
     }
   ],
@@ -538,17 +534,17 @@
           "isPR": false
         },
         {
-          "title": "劇場版『薬屋のひとりごと』新PV解禁 沢城みゆき＆見上愛が物語の鍵を握るキャラクター演じる",
-          "url": "https://www.sanyonews.jp/article/2004239?kw",
-          "source": "山陽新聞",
-          "publishedAt": "2026-10-26T23:20:24.000Z",
-          "isPR": false
-        },
-        {
           "title": "『薬屋のひとりごと』初の劇場版、最新映像＆キービジュアル＆相関図が公開 主題歌は米津玄師「春が灯り」",
           "url": "https://www.sanyonews.jp/article/2009115",
           "source": "山陽新聞",
           "publishedAt": "2026-10-26T23:04:39.000Z",
+          "isPR": false
+        },
+        {
+          "title": "『薬屋のひとりごと』初の劇場版、12・11公開 「亡妃の秘宝」新予告映像解禁で新キャストに伊瀬茉莉也",
+          "url": "https://www.sanyonews.jp/article/1948702?kw",
+          "source": "山陽新聞",
+          "publishedAt": "2026-10-26T15:14:20.000Z",
           "isPR": false
         },
         {
@@ -568,8 +564,8 @@
       "image": "https://i3.gamebiz.jp/media/8936c453-d613-49af-9370-5ef97f4c3509.jpg",
       "leadSource": "gamebiz【ゲームビズ】",
       "publishedAt": "2026-10-27T08:45:00.000Z",
-      "sourceCount": 3,
-      "articleCount": 3,
+      "sourceCount": 4,
+      "articleCount": 4,
       "categories": [
         "anime",
         "web"
@@ -588,6 +584,13 @@
           "isPR": false
         },
         {
+          "title": "2026年、新作夏アニメのABEMA最終ランキングを発表！『無職転生Ⅲ』が再生数・コメント数の両部門で堂々1位を獲得！『Re:ゼロから始める異世界生活』4th seasonも両部門で2位にランクイン",
+          "url": "https://prtimes.jp/main/html/rd/p/000004165.000064643.html",
+          "source": "PR TIMES",
+          "publishedAt": "2026-10-27T08:01:11.000Z",
+          "isPR": true
+        },
+        {
           "title": "ABEMAの2026年夏アニメ最終ランキング、無職転生Ⅲが再生数とコメント数で2冠",
           "url": "https://news.dellows.jp/911616/?from",
           "source": "Dellows News",
@@ -597,72 +600,36 @@
       ]
     },
     {
-      "id": "e5657a2e2e26",
-      "title": "「小さなコックさんの異世界レシピ」料理魔法に目覚めた少女の逃亡から始まる物語（試し読みあり）",
+      "id": "f5daf0f72698",
+      "title": "白鈴に迫られる馬閃が1位！アニメ『薬屋のひとりごと』第51話コメント最多シーンTOP3",
       "summary": "",
-      "url": "https://natalie.mu/comic/news/695297",
-      "image": "https://prtimes.jp/img/174060/225/resize/d174060-225-7209549007d9e75393fc-11.jpg",
-      "leadSource": "ナタリー",
-      "publishedAt": "2026-10-26T08:10:00.000Z",
+      "url": "https://news.nicovideo.jp/watch/nw19924371?news_ref",
+      "image": "https://media.image.infoseek.co.jp/isnews/photos/abematimes/abematimes_10284345_0-enlarge.jpg",
+      "leadSource": "ニコニコニュース",
+      "publishedAt": "2026-10-27T10:15:18.000Z",
       "sourceCount": 3,
       "articleCount": 3,
       "categories": [
-        "other",
-        "comic"
+        "anime"
       ],
       "keywords": [
-        "コック",
-        "レシピ",
-        "料理魔法"
+        "top3",
+        "コメント",
+        "シーン"
       ],
       "articles": [
         {
-          "title": "■『小さなコックさんの異世界レシピ～料理魔法なんてあったんだぁ、と思ったら万能スキルでした～@COMIC』",
-          "url": "https://mantan-web.jp/prtimes/article/20261026prt00m200000270a.html",
-          "source": "Mantan Web",
-          "publishedAt": "2026-10-26T03:03:56.000Z",
+          "title": "ダンジョンマスターの登場が1位！アニメ『転生したら剣でしたII』第3話コメント最多シーンTOP3",
+          "url": "https://news.infoseek.co.jp/article/abematimes_10284345/",
+          "source": "Infoseek",
+          "publishedAt": "2026-10-27T10:00:00.000Z",
           "isPR": false
         },
         {
-          "title": "【新連載】『小さなコックさんの異世界レシピ～料理魔法なんてあったんだぁ、と思ったら万能スキルでした～@COMIC』漫画配信サイト「コロナEX」にて10/26(月)より連載スタート！ | 株式会社ＴＯブックスのプレスリリース",
-          "url": "https://prtimes.jp/main/html/rd/p/000000225.000174060.html",
-          "source": "PR TIMES",
-          "publishedAt": "2026-10-26T02:00:02.000Z",
-          "isPR": true
-        }
-      ]
-    },
-    {
-      "id": "51d35cbb309d",
-      "title": "本好きの下剋上 #25〜36【無料ビデオ1週間】",
-      "summary": "",
-      "url": "https://abema.tv/channels/isekai-anime-3/slots/9CHRuc2d2uPG1M",
-      "image": "https://thetv.jp/i/nw/1406451/17617365.jpg?w=1284",
-      "leadSource": "ABEMA",
-      "publishedAt": "2026-10-25T07:00:00.000Z",
-      "sourceCount": 2,
-      "articleCount": 3,
-      "categories": [
-        "other"
-      ],
-      "keywords": [
-        "本好き",
-        "本好",
-        "下剋上"
-      ],
-      "articles": [
-        {
-          "title": "＜本好きの下剋上＞フェルディナンド様の“頭ポン”にファン沸騰「ギャップが…！」「レアすぎ」“圧倒的”強さも話題",
-          "url": "https://thetv.jp/news/detail/1406451/17617365/",
-          "source": "WEBザテレビジョン",
-          "publishedAt": "2026-10-25T01:10:50.000Z",
-          "isPR": false
-        },
-        {
-          "title": "異世界でもふもふなでなでするためにがんばってます。 #1〜12【無料1週間】",
-          "url": "https://abema.tv/channels/isekai-anime-3/slots/AQzVENJF1omkAj",
-          "source": "ABEMA",
-          "publishedAt": "2026-10-24T16:11:23.000Z",
+          "title": "アニメ『薬屋のひとりごと』51話“麺麭がなければ”コメント最多シーンTOP3が発表。第1位は馬閃がタジタジになっていたあのシーン",
+          "url": "https://dengekionline.com/article/202610/92154",
+          "source": "電撃オンライン",
+          "publishedAt": "2026-10-27T01:20:00.000Z",
           "isPR": false
         }
       ]
@@ -696,12 +663,12 @@
       ]
     },
     {
-      "id": "53a5cd4cf69e",
-      "title": "最後まで「完走した」2026夏アニメランキング発表！ 4位『無職転生』3位『ジャードゥーガル』1位と2位は“驚きの共通点”も",
+      "id": "815bf15f6ea4",
+      "title": "2026夏アニメ←「完走した」“覇権”といえば？ 4位『無職転生』3位『ジャードゥーガル』2位、1位はまさかの「共通点」が！",
       "summary": "",
-      "url": "https://magmix.jp/post/382512",
-      "image": "https://magmix.jp/wp-content/uploads/2027/10/261008-isekainatu-00.jpg",
-      "leadSource": "マグミクス",
+      "url": "https://news.yahoo.co.jp/articles/925db28c02e83046a58f3fb73a9e34fc23308148/images/000",
+      "image": "https://news-pctr.c.yimg.jp/uUzvQ3lML_bkIqyakc1vFhNrRI0RUQxg5aFkrX0xDg1_T0wXrbEJjtNGtrf1o9y3xudcUclfbXjZqAvGT8NJnTB2-m6dy5uYggV0H0VbY-yZmIFZksUuLp5aA6r0OxX7JmtCKnpWaoZzEXKYQfHdcrKOFNCMTEWxwQYTPahhCiq9L3ZqqQpV9kgghtkk1GlO2pMLAQLrKigFeKDSuAfxIQ==",
+      "leadSource": "Yahoo!ニュース",
       "publishedAt": "2026-10-27T03:10:00.000Z",
       "sourceCount": 2,
       "articleCount": 2,
@@ -716,9 +683,9 @@
       ],
       "articles": [
         {
-          "title": "2026夏アニメ←「完走した」“覇権”といえば？ 4位『無職転生』3位『ジャードゥーガル』2位、1位はまさかの「共通点」が！",
-          "url": "https://news.yahoo.co.jp/articles/925db28c02e83046a58f3fb73a9e34fc23308148",
-          "source": "Yahoo!ニュース",
+          "title": "最後まで「完走した」2026夏アニメランキング発表！ 4位『無職転生』3位『ジャードゥーガル』1位と2位は“驚きの共通点”も",
+          "url": "https://magmix.jp/post/382512/2",
+          "source": "マグミクス",
           "publishedAt": "2026-10-27T03:10:00.000Z",
           "isPR": false
         }
@@ -781,6 +748,35 @@
       ]
     },
     {
+      "id": "e5657a2e2e26",
+      "title": "「小さなコックさんの異世界レシピ」料理魔法に目覚めた少女の逃亡から始まる物語（試し読みあり）",
+      "summary": "",
+      "url": "https://natalie.mu/comic/news/695297",
+      "image": "https://prcdn.freetls.fastly.net/release_image/174060/225/174060-225-f00eeabb2ee422ebae50fa917bcd6701-1400x900.jpg?format=jpeg&auto=webp&fit=bounds&width=2400&height=1260",
+      "leadSource": "ナタリー",
+      "publishedAt": "2026-10-26T08:10:00.000Z",
+      "sourceCount": 2,
+      "articleCount": 2,
+      "categories": [
+        "other",
+        "comic"
+      ],
+      "keywords": [
+        "コック",
+        "レシピ",
+        "料理魔法"
+      ],
+      "articles": [
+        {
+          "title": "【新連載】『小さなコックさんの異世界レシピ～料理魔法なんてあったんだぁ、と思ったら万能スキルでした～@COMIC』漫画配信サイト「コロナEX」にて10/26(月)より連載スタート！ | 株式会社ＴＯブックスのプレスリリース",
+          "url": "https://prtimes.jp/main/html/rd/p/000000225.000174060.html",
+          "source": "PR TIMES",
+          "publishedAt": "2026-10-26T02:00:02.000Z",
+          "isPR": true
+        }
+      ]
+    },
+    {
       "id": "d82c3b338add",
       "title": "＜アニメ1週間＞「薬屋のひとりごと」金ローでスペシャルエディション放送 「青春ブタ野郎」シリーズ歴代1位の好発進",
       "summary": "",
@@ -812,9 +808,9 @@
       "id": "b01105e7a7c9",
       "title": "アニメ第3期『転生貴族、鑑定スキルで成り上がる』第29話、クランとバサマークの戦いは最終局面に【先行カット】",
       "summary": "",
-      "url": "https://0115765.com/archives/211277",
-      "image": "https://0115765.com/wp-content/uploads/2026/10/20261024-1g0rk1og-1024x576.jpg",
-      "leadSource": "オタク総研",
+      "url": "https://news.infoseek.co.jp/amp/article/otakulab_211277/",
+      "image": "https://media.image.infoseek.co.jp/isnews/photos/otakulab/otakulab_211277_0-enlarge.jpg",
+      "leadSource": "Infoseek",
       "publishedAt": "2026-10-25T08:02:59.000Z",
       "sourceCount": 2,
       "articleCount": 2,
@@ -867,26 +863,68 @@
     }
   ],
   "churn": {
-    "previousAt": "2026-10-27T09:30:18.666Z",
-    "previousCount": 79,
-    "newCount": 5
+    "previousAt": "2026-10-27T10:00:25.863Z",
+    "previousCount": 78,
+    "newCount": 9
   },
   "updateGapMin": 30,
-  "nextUpdateAt": "2026-10-27T10:30:25.863Z",
+  "nextUpdateAt": "2026-10-27T11:00:18.180Z",
   "items": [
     {
-      "id": "88bfc9692c98",
-      "title": "“異能殺し”の青年を描く「異世界傭兵シバの英雄譚」アライブ新連載",
-      "url": "https://natalie.mu/comic/news/695275",
-      "host": "natalie.mu",
-      "source": "ナタリー",
+      "id": "f5daf0f72698",
+      "title": "白鈴に迫られる馬閃が1位！アニメ『薬屋のひとりごと』第51話コメント最多シーンTOP3",
+      "url": "https://news.nicovideo.jp/watch/nw19924371?news_ref",
+      "host": "news.nicovideo.jp",
+      "source": "ニコニコニュース",
       "summary": "",
-      "publishedAt": "2026-10-27T09:18:00.000Z",
+      "publishedAt": "2026-10-27T10:15:18.000Z",
       "image": "",
       "categories": [
-        "comic"
+        "anime"
       ],
-      "works": [],
+      "works": [
+        "kusuriya"
+      ],
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": true
+    },
+    {
+      "id": "b4e9edee1cff",
+      "title": "ダンジョンマスターの登場が1位！アニメ『転生したら剣でしたII』第3話コメント最多シーンTOP3",
+      "url": "https://news.infoseek.co.jp/article/abematimes_10284345/",
+      "host": "news.infoseek.co.jp",
+      "source": "Infoseek",
+      "summary": "",
+      "publishedAt": "2026-10-27T10:00:00.000Z",
+      "image": "https://media.image.infoseek.co.jp/isnews/photos/abematimes/abematimes_10284345_0-enlarge.jpg",
+      "categories": [
+        "anime"
+      ],
+      "works": [
+        "tenken"
+      ],
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": true
+    },
+    {
+      "id": "3075be4ace5c",
+      "title": "キャラクターグッズ 陰の実力者になりたくて！ 七影 アクリルブロック スタンド",
+      "url": "https://www.ciiblog.in/detail/63951155924",
+      "host": "ciiblog.in",
+      "source": "ciiblog.in",
+      "summary": "",
+      "publishedAt": "2026-10-27T09:59:19.000Z",
+      "image": "",
+      "categories": [
+        "goods"
+      ],
+      "works": [
+        "kagejitsu"
+      ],
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
@@ -977,6 +1015,28 @@
       "isNew": false
     },
     {
+      "id": "d99d204ee3cd",
+      "title": "2026年、新作夏アニメのABEMA最終ランキングを発表！『無職転生Ⅲ』が再生数・コメント数の両部門で堂々1位を獲得！『Re:ゼロから始める異世界生活』4th seasonも両部門で2位にランクイン",
+      "url": "https://prtimes.jp/main/html/rd/p/000004165.000064643.html",
+      "host": "prtimes.jp",
+      "source": "PR TIMES",
+      "summary": "",
+      "publishedAt": "2026-10-27T08:01:11.000Z",
+      "image": "https://prcdn.freetls.fastly.net/release_image/64643/4165/64643-4165-c93055b7d074c11b0a7a9172d0725a64-2400x1254.jpg?format=jpeg&auto=webp&fit=bounds&width=2400&height=1260",
+      "categories": [
+        "anime",
+        "web"
+      ],
+      "works": [
+        "mushoku",
+        "rezero"
+      ],
+      "isPR": true,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": true
+    },
+    {
       "id": "d10f5e53e7ff",
       "title": "ABEMAの2026年夏アニメ最終ランキング、無職転生Ⅲが再生数とコメント数で2冠",
       "url": "https://news.dellows.jp/911616/?from",
@@ -998,6 +1058,24 @@
       "isNew": false
     },
     {
+      "id": "28ac0511725d",
+      "title": "第5話 転生ゴブリンだけど質問ある？",
+      "url": "https://thetv.jp/program/0001077857/5/",
+      "host": "thetv.jp",
+      "source": "WEBザテレビジョン",
+      "summary": "",
+      "publishedAt": "2026-10-27T08:00:26.000Z",
+      "image": "",
+      "categories": [
+        "anime"
+      ],
+      "works": [],
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": true
+    },
+    {
       "id": "4b66510b520f",
       "title": "「処刑された悪役令嬢は、時を遡り復讐する。」1巻 [画像ギャラリー 1/1]",
       "url": "https://natalie.mu/comic/gallery/news/695439/3001666",
@@ -1013,7 +1091,7 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "478fe670446c",
@@ -1135,17 +1213,16 @@
       "isNew": false
     },
     {
-      "id": "53a5cd4cf69e",
-      "title": "最後まで「完走した」2026夏アニメランキング発表！ 4位『無職転生』3位『ジャードゥーガル』1位と2位は“驚きの共通点”も",
-      "url": "https://magmix.jp/post/382512",
-      "host": "magmix.jp",
-      "source": "マグミクス",
+      "id": "815bf15f6ea4",
+      "title": "2026夏アニメ←「完走した」“覇権”といえば？ 4位『無職転生』3位『ジャードゥーガル』2位、1位はまさかの「共通点」が！",
+      "url": "https://news.yahoo.co.jp/articles/925db28c02e83046a58f3fb73a9e34fc23308148/images/000",
+      "host": "news.yahoo.co.jp",
+      "source": "Yahoo!ニュース",
       "summary": "",
       "publishedAt": "2026-10-27T03:10:00.000Z",
-      "image": "https://magmix.jp/wp-content/uploads/2027/10/261008-isekainatu-00.jpg",
+      "image": "https://news-pctr.c.yimg.jp/uUzvQ3lML_bkIqyakc1vFhNrRI0RUQxg5aFkrX0xDg1_T0wXrbEJjtNGtrf1o9y3xudcUclfbXjZqAvGT8NJnTB2-m6dy5uYggV0H0VbY-yZmIFZksUuLp5aA6r0OxX7JmtCKnpWaoZzEXKYQfHdcrKOFNCMTEWxwQYTPahhCiq9L3ZqqQpV9kgghtkk1GlO2pMLAQLrKigFeKDSuAfxIQ==",
       "categories": [
-        "anime",
-        "web"
+        "anime"
       ],
       "works": [
         "mushoku"
@@ -1156,16 +1233,17 @@
       "isNew": false
     },
     {
-      "id": "815bf15f6ea4",
-      "title": "2026夏アニメ←「完走した」“覇権”といえば？ 4位『無職転生』3位『ジャードゥーガル』2位、1位はまさかの「共通点」が！",
-      "url": "https://news.yahoo.co.jp/articles/925db28c02e83046a58f3fb73a9e34fc23308148",
-      "host": "news.yahoo.co.jp",
-      "source": "Yahoo!ニュース",
+      "id": "53a5cd4cf69e",
+      "title": "最後まで「完走した」2026夏アニメランキング発表！ 4位『無職転生』3位『ジャードゥーガル』1位と2位は“驚きの共通点”も",
+      "url": "https://magmix.jp/post/382512/2",
+      "host": "magmix.jp",
+      "source": "マグミクス",
       "summary": "",
       "publishedAt": "2026-10-27T03:10:00.000Z",
-      "image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20261027-00382512-magmix-000-3-view.jpg?exp=10800",
+      "image": "https://magmix.jp/wp-content/uploads/2027/10/261008-isekainatu-00.jpg",
       "categories": [
-        "anime"
+        "anime",
+        "web"
       ],
       "works": [
         "mushoku"
@@ -1275,19 +1353,19 @@
       "isNew": false
     },
     {
-      "id": "61711d5b55d2",
-      "title": "劇場版『薬屋のひとりごと』新PV解禁 沢城みゆき＆見上愛が物語の鍵を握るキャラクター演じる",
-      "url": "https://www.sanyonews.jp/article/2004239?kw",
-      "host": "sanyonews.jp",
-      "source": "山陽新聞",
+      "id": "933867dc1934",
+      "title": "『無職転生III』加隈亜衣が見つめたエリスの不器用な成長 ルーデウスへの思いは「恋愛感情だけでは足りない」",
+      "url": "https://www.crank-in.net/gallery/interview/187296/12",
+      "host": "crank-in.net",
+      "source": "クランクイン！",
       "summary": "",
-      "publishedAt": "2026-10-26T23:20:24.000Z",
-      "image": "https://static.sanyonews.jp/image/article/size1/4/b/7/a/4b7a7de2f55238bced2fc953a7bd9269_1.jpg",
+      "publishedAt": "2026-10-26T23:15:00.000Z",
+      "image": "https://www.crank-in.net/img/db/265064291147379_1200.jpg",
       "categories": [
-        "anime"
+        "other"
       ],
       "works": [
-        "kusuriya"
+        "mushoku"
       ],
       "isPR": false,
       "viaGoogle": false,
@@ -1376,6 +1454,26 @@
       "isNew": false
     },
     {
+      "id": "59297b5b2213",
+      "title": "『薬屋のひとりごと』初の劇場版、12・11公開 「亡妃の秘宝」新予告映像解禁で新キャストに伊瀬茉莉也",
+      "url": "https://www.sanyonews.jp/article/1948702?kw",
+      "host": "sanyonews.jp",
+      "source": "山陽新聞",
+      "summary": "",
+      "publishedAt": "2026-10-26T15:14:20.000Z",
+      "image": "https://static.sanyonews.jp/image/article/size1/c/e/2/7/ce279f4c372828b2a814d8dee05e1664_1.jpg",
+      "categories": [
+        "anime"
+      ],
+      "works": [
+        "kusuriya"
+      ],
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": true
+    },
+    {
       "id": "213664ed15bb",
       "title": "Eve、TVアニメ『薬屋のひとりごと』第3期 第1クール エンディングテーマ「AIYOU」を表題曲としたEPを11月25日(水)に発売決定！",
       "url": "https://e.usen.com/news/news-release/evetv3-1-aiyouep1125.html",
@@ -1409,6 +1507,26 @@
       ],
       "works": [
         "kusuriya"
+      ],
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": false
+    },
+    {
+      "id": "a5683b03867c",
+      "title": "第5話 転生したら剣でしたII",
+      "url": "https://thetv.jp/program/0001064066/5/",
+      "host": "thetv.jp",
+      "source": "WEBザテレビジョン",
+      "summary": "",
+      "publishedAt": "2026-10-26T12:52:02.000Z",
+      "image": "",
+      "categories": [
+        "anime"
+      ],
+      "works": [
+        "tenken"
       ],
       "isPR": false,
       "viaGoogle": false,
@@ -1531,27 +1649,6 @@
       ],
       "works": [
         "tensura"
-      ],
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": false
-    },
-    {
-      "id": "5ebab808ef1b",
-      "title": "ラグーナテンボス、アニメ「Re:ゼロから始める異世界生活」とコラボ 周遊ラリーや限定グッズ、声優トークショーなど",
-      "url": "https://tms-media.jp/posts/99054/",
-      "host": "tms-media.jp",
-      "source": "ツーリズムメディアサービス",
-      "summary": "",
-      "publishedAt": "2026-10-26T09:08:06.000Z",
-      "image": "https://tms-media.jp/wp-content/uploads/2026/10/2026-10-26-134613-1.png",
-      "categories": [
-        "anime",
-        "goods"
-      ],
-      "works": [
-        "rezero"
       ],
       "isPR": false,
       "viaGoogle": false,
@@ -1741,26 +1838,6 @@
       "isNew": false
     },
     {
-      "id": "46ca8bb793fa",
-      "title": "『転スラ』魔王レオン動く！グランベルの軍勢も攻め入る 第89話あらすじ＆場面カット解禁",
-      "url": "https://www.sanyonews.jp/article/1962182",
-      "host": "sanyonews.jp",
-      "source": "山陽新聞",
-      "summary": "",
-      "publishedAt": "2026-10-26T03:06:14.000Z",
-      "image": "https://static.sanyonews.jp/image/article/size1/2/2/b/9/22b9c923dbfb3d78eddefbc250b30004_1.jpg",
-      "categories": [
-        "anime"
-      ],
-      "works": [
-        "tensura"
-      ],
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": false
-    },
-    {
       "id": "523ba8013e78",
       "title": "『転スラ』リムル、ブチギレ顔のマリアベルと戦闘！ユウキも参戦 第82話あらすじ＆場面カット公開",
       "url": "https://www.sanyonews.jp/article/1934985?kw",
@@ -1779,24 +1856,6 @@
       "viaGoogle": false,
       "sourceKind": "news",
       "isNew": false
-    },
-    {
-      "id": "bf140c80874e",
-      "title": "■『小さなコックさんの異世界レシピ～料理魔法なんてあったんだぁ、と思ったら万能スキルでした～@COMIC』",
-      "url": "https://mantan-web.jp/prtimes/article/20261026prt00m200000270a.html",
-      "host": "mantan-web.jp",
-      "source": "Mantan Web",
-      "summary": "",
-      "publishedAt": "2026-10-26T03:03:56.000Z",
-      "image": "https://prtimes.jp/img/174060/225/resize/d174060-225-7209549007d9e75393fc-11.jpg",
-      "categories": [
-        "other"
-      ],
-      "works": [],
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": true
     },
     {
       "id": "f9ca5a6c9075",
@@ -2102,12 +2161,12 @@
     {
       "id": "b01105e7a7c9",
       "title": "アニメ第3期『転生貴族、鑑定スキルで成り上がる』第29話、クランとバサマークの戦いは最終局面に【先行カット】",
-      "url": "https://0115765.com/archives/211277",
-      "host": "0115765.com",
-      "source": "オタク総研",
+      "url": "https://news.infoseek.co.jp/amp/article/otakulab_211277/",
+      "host": "news.infoseek.co.jp",
+      "source": "Infoseek",
       "summary": "",
       "publishedAt": "2026-10-25T08:02:59.000Z",
-      "image": "https://0115765.com/wp-content/uploads/2026/10/20261024-1g0rk1og-1024x576.jpg",
+      "image": "https://media.image.infoseek.co.jp/isnews/photos/otakulab/otakulab_211277_0-enlarge.jpg",
       "categories": [
         "anime"
       ],
@@ -2148,32 +2207,12 @@
       "source": "ABEMA",
       "summary": "",
       "publishedAt": "2026-10-25T07:00:00.000Z",
-      "image": "",
+      "image": "https://image.p-c2-x.abema-tv.com/image/programs/413-2_s1_p25/thumb001.png?height=720&quality=75&version=1683864311&width=1280",
       "categories": [
         "other"
       ],
       "works": [
         "honzuki"
-      ],
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": false
-    },
-    {
-      "id": "46c454fd4b32",
-      "title": "『薬屋のひとりごと』猫猫、物乞いへの“贅沢すぎる施し”に違和感 第51話あらすじ＆場面カット公開",
-      "url": "https://www.sanyonews.jp/article/2005343?rct",
-      "host": "sanyonews.jp",
-      "source": "山陽新聞",
-      "summary": "",
-      "publishedAt": "2026-10-25T03:29:28.000Z",
-      "image": "https://static.sanyonews.jp/image/article/size1/0/2/b/2/02b26e8d4ce18b9a11a95164fff3f2c2_1.jpg",
-      "categories": [
-        "anime"
-      ],
-      "works": [
-        "kusuriya"
       ],
       "isPR": false,
       "viaGoogle": false,
@@ -2275,26 +2314,6 @@
       "isNew": false
     },
     {
-      "id": "f4a039f15994",
-      "title": "＜本好きの下剋上＞フェルディナンド様の“頭ポン”にファン沸騰「ギャップが…！」「レアすぎ」“圧倒的”強さも話題",
-      "url": "https://thetv.jp/news/detail/1406451/17617365/",
-      "host": "thetv.jp",
-      "source": "WEBザテレビジョン",
-      "summary": "",
-      "publishedAt": "2026-10-25T01:10:50.000Z",
-      "image": "https://thetv.jp/i/nw/1406451/17617365.jpg?w=1284",
-      "categories": [
-        "other"
-      ],
-      "works": [
-        "honzuki"
-      ],
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": false
-    },
-    {
       "id": "01371568aec8",
       "title": "転生貴族、鑑定スキルで成り上がる 第３期 [字] ＃３０【アガルアニメ】",
       "url": "https://www.tbs.co.jp/tv/20261101_C36D.html",
@@ -2355,32 +2374,14 @@
       "isNew": false
     },
     {
-      "id": "95b982f9f146",
-      "title": "異世界でもふもふなでなでするためにがんばってます。 #1〜12【無料1週間】",
-      "url": "https://abema.tv/channels/isekai-anime-3/slots/AQzVENJF1omkAj",
-      "host": "abema.tv",
-      "source": "ABEMA",
+      "id": "e378b3e19e34",
+      "title": "昨日告白に成功したはずの貧乏な学園の女神が、なぜか上場企業の女性社長に！？おまけに娘までいる？！[異世界最新作]#海外アニメ #異世界アニメ#アニメフル全話 Ring (u5R5VN88Gx)",
+      "url": "https://media.unisba.ac.id/8f2ab88d/fd44a1b4QINm4CCcdYI",
+      "host": "media.unisba.ac.id",
+      "source": "Unisba Media",
       "summary": "",
-      "publishedAt": "2026-10-24T16:11:23.000Z",
+      "publishedAt": "2026-10-24T15:45:07.000Z",
       "image": "",
-      "categories": [
-        "other"
-      ],
-      "works": [],
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": false
-    },
-    {
-      "id": "6e357d616316",
-      "title": "多次元シンガー・310、TVアニメ『信者ゼロの女神サマと始める異世界攻略』OPテーマ「未来の足跡」12月2日CDリリース！アニメ描きおろしジャケット＆収録内容も公開！ (2026年10月24日掲載)",
-      "url": "https://news.livedoor.com/topics/detail/32648642/",
-      "host": "news.livedoor.com",
-      "source": "ライブドアニュース",
-      "summary": "",
-      "publishedAt": "2026-10-24T11:00:53.000Z",
-      "image": "https://image.news.livedoor.com/newsimage/stf/f/8/f8ea9_1516_2da436b4_fc3832a4.jpg",
       "categories": [
         "anime"
       ],
@@ -2388,25 +2389,7 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": false
-    },
-    {
-      "id": "501ea1770c42",
-      "title": "QuizKnockが結成10年で築いた“信頼関係”「みんなの憧れ」「なろう系クイズ王」（QJWeb クイック・ジャパン ウェブ）",
-      "url": "https://news.yahoo.co.jp/articles/25e58a6f0d6969b7fad57b40919e36eb43a479ae?page",
-      "host": "news.yahoo.co.jp",
-      "source": "Yahoo!ニュース",
-      "summary": "",
-      "publishedAt": "2026-10-24T10:02:43.000Z",
-      "image": "",
-      "categories": [
-        "web"
-      ],
-      "works": [],
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": false
+      "isNew": true
     },
     {
       "id": "1b907d8b8b05",
