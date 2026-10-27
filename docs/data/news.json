@@ -1,12 +1,12 @@
 {
-  "updatedAt": "2026-10-27T16:00:20.379Z",
+  "updatedAt": "2026-10-27T16:30:22.071Z",
   "site": {
     "title": "なろう系まとめ",
     "tagline": "小説家になろう発の作品のアニメ化・コミカライズ・書籍化のニュースと、なろうのランキングをまとめています。",
     "url": "https://naroumatome.gamelab.website/",
     "contactUrl": "https://docs.google.com/forms/d/e/1FAIpQLSesWyhmZ6sRS_ve-c3X2KqF_wC5PK2TgwgQbTKmnQltSlg5Jw/viewform"
   },
-  "total": 74,
+  "total": 76,
   "todayCount": 0,
   "categories": [
     {
@@ -17,12 +17,12 @@
     {
       "id": "comic",
       "label": "コミカライズ",
-      "count": 4
+      "count": 6
     },
     {
       "id": "book",
       "label": "書籍・ラノベ",
-      "count": 8
+      "count": 7
     },
     {
       "id": "web",
@@ -37,7 +37,7 @@
     {
       "id": "goods",
       "label": "グッズ・イベント",
-      "count": 10
+      "count": 12
     },
     {
       "id": "other",
@@ -56,13 +56,13 @@
       "id": "mushoku",
       "title": "無職転生 ～異世界行ったら本気だす～",
       "short": "無職転生",
-      "count": 8
+      "count": 9
     },
     {
       "id": "rezero",
       "title": "Re:ゼロから始める異世界生活",
       "short": "リゼロ",
-      "count": 8
+      "count": 6
     },
     {
       "id": "honzuki",
@@ -74,7 +74,7 @@
       "id": "kusuriya",
       "title": "薬屋のひとりごと",
       "short": "薬屋",
-      "count": 30
+      "count": 31
     },
     {
       "id": "kagejitsu",
@@ -254,7 +254,7 @@
       "id": "tensei-kizoku",
       "title": "転生貴族、鑑定スキルで成り上がる",
       "short": "転生貴族",
-      "count": 2
+      "count": 3
     },
     {
       "id": "kuro-no-shokanshi",
@@ -295,35 +295,31 @@
   ],
   "sources": [
     {
-      "name": "山陽新聞",
-      "count": 11
+      "name": "Yahoo!ニュース",
+      "count": 10
     },
     {
-      "name": "Yahoo!ニュース",
-      "count": 7
+      "name": "山陽新聞",
+      "count": 10
     },
     {
       "name": "Unisba Media",
       "count": 7
     },
     {
-      "name": "ABEMA TIMES",
+      "name": "Infoseek",
       "count": 4
     },
     {
-      "name": "Infoseek",
+      "name": "ナタリー",
+      "count": 4
+    },
+    {
+      "name": "ABEMA TIMES",
       "count": 3
     },
     {
       "name": "アニメ！アニメ！",
-      "count": 3
-    },
-    {
-      "name": "WEBザテレビジョン",
-      "count": 3
-    },
-    {
-      "name": "ナタリー",
       "count": 3
     },
     {
@@ -339,11 +335,11 @@
       "count": 2
     },
     {
-      "name": "Dellows News",
+      "name": "gamebiz【ゲームビズ】",
       "count": 2
     },
     {
-      "name": "gamebiz【ゲームビズ】",
+      "name": "マイナビニュース",
       "count": 2
     },
     {
@@ -363,7 +359,11 @@
       "count": 1
     },
     {
-      "name": "マイナビニュース",
+      "name": "Dellows News",
+      "count": 1
+    },
+    {
+      "name": "WEBザテレビジョン",
       "count": 1
     },
     {
@@ -379,7 +379,7 @@
       "count": 1
     },
     {
-      "name": "山形新聞",
+      "name": "USENの音楽情報サイト",
       "count": 1
     },
     {
@@ -387,15 +387,11 @@
       "count": 1
     },
     {
-      "name": "ツーリズムメディアサービス",
-      "count": 1
-    },
-    {
       "name": "KADOKAWAオフィシャルサイト",
       "count": 1
     },
     {
-      "name": "映画.com",
+      "name": "Gamer",
       "count": 1
     },
     {
@@ -419,6 +415,14 @@
       "count": 1
     },
     {
+      "name": "TBSテレビ",
+      "count": 1
+    },
+    {
+      "name": "キャラグー",
+      "count": 1
+    },
+    {
       "name": "Gamerch",
       "count": 1
     }
@@ -432,8 +436,8 @@
       "image": "https://animeanime.jp/imgs/rss/947805.jpg",
       "leadSource": "アニメ！アニメ！",
       "publishedAt": "2026-10-27T08:40:00.000Z",
-      "sourceCount": 6,
-      "articleCount": 6,
+      "sourceCount": 7,
+      "articleCount": 7,
       "categories": [
         "game",
         "anime"
@@ -446,16 +450,9 @@
       "articles": [
         {
           "title": "『パズドラ』×アニメ『薬屋のひとりごと』初コラボが10月26日より開催！猫猫や壬氏がガチャに登場",
-          "url": "https://times.abema.tv/articles/-/10284328?page",
-          "source": "ABEMA TIMES",
+          "url": "https://news.infoseek.co.jp/article/abematimes_10284328/",
+          "source": "Infoseek",
           "publishedAt": "2026-10-27T08:40:00.000Z",
-          "isPR": false
-        },
-        {
-          "title": "劇場版『薬屋のひとりごと』入場者特典は原作者書き下ろし小説 猫猫＆壬氏の“その後”描く",
-          "url": "https://www.yamagata-np.jp/oricon/photo.php?id",
-          "source": "山形新聞",
-          "publishedAt": "2026-10-27T02:16:59.000Z",
           "isPR": false
         },
         {
@@ -463,6 +460,13 @@
           "url": "https://dengekionline.com/article/202610/92077",
           "source": "電撃オンライン",
           "publishedAt": "2026-10-26T04:31:00.000Z",
+          "isPR": false
+        },
+        {
+          "title": "「パズドラ」とアニメ「薬屋のひとりごと」のコラボイベントが開催！猫猫や壬氏などがスーパーゴッドフェスに登場",
+          "url": "https://www.gamer.ne.jp/news/202610260004/",
+          "source": "Gamer",
+          "publishedAt": "2026-10-26T03:15:00.000Z",
           "isPR": false
         },
         {
@@ -477,6 +481,13 @@
           "url": "https://news.yahoo.co.jp/articles/d098ffd167ce80d6eb7d059f5e63c75fa07c55ca",
           "source": "Yahoo!ニュース",
           "publishedAt": "2026-10-26T01:33:00.000Z",
+          "isPR": false
+        },
+        {
+          "title": "『薬屋のひとりごと』猫猫と壬氏が映画館で並んで鑑賞!? ちょこんと座るフィギュアが登場",
+          "url": "https://news.mynavi.jp/article/20261026-5181932/",
+          "source": "マイナビニュース",
+          "publishedAt": "2026-10-25T23:06:19.000Z",
           "isPR": false
         }
       ]
@@ -532,14 +543,14 @@
       ]
     },
     {
-      "id": "d9931edfee03",
-      "title": "劇場版 薬屋のひとりごと 亡妃の秘宝＞第3弾PV公開＆壬氏一行を狙う水賊・化蛇団メンバーに小野賢章ら決定",
+      "id": "879d484c7e4f",
+      "title": "米津玄師が『劇場版 薬屋のひとりごと』主題歌を担当！ 新曲「春が灯り」が響く最新予告＆メインビジュアル解禁",
       "summary": "",
-      "url": "https://thetv.jp/news/detail/1448116/landing/?utm_source",
-      "image": "https://static.sanyonews.jp/image/article/size1/c/e/2/7/ce279f4c372828b2a814d8dee05e1664_1.jpg",
-      "leadSource": "WEBザテレビジョン",
-      "publishedAt": "2026-10-27T06:51:54.000Z",
-      "sourceCount": 4,
+      "url": "https://www.moviecollection.jp/news/310911/",
+      "image": "https://www.moviecollection.jp/wp/wp-content/uploads/2026/12/a4f11c5e1e0d4fb04071646e61183154-888x500.jpg",
+      "leadSource": "ムビコレ",
+      "publishedAt": "2026-10-27T04:12:48.000Z",
+      "sourceCount": 3,
       "articleCount": 4,
       "categories": [
         "anime",
@@ -548,20 +559,20 @@
       "keywords": [
         "薬屋",
         "劇場版",
-        "亡妃"
+        "米津玄師"
       ],
       "articles": [
         {
-          "title": "『薬屋のひとりごと』初の劇場版、12・11公開 「亡妃の秘宝」新予告映像解禁で新キャストに伊瀬茉莉也",
-          "url": "https://www.sanyonews.jp/article/1948702?kw",
+          "title": "劇場版『薬屋のひとりごと』新PV解禁 沢城みゆき＆見上愛が物語の鍵を握るキャラクター演じる",
+          "url": "https://www.sanyonews.jp/article/2004239?kw",
           "source": "山陽新聞",
-          "publishedAt": "2026-10-26T15:14:20.000Z",
+          "publishedAt": "2026-10-26T23:20:24.000Z",
           "isPR": false
         },
         {
           "title": "「劇場版 薬屋のひとりごと 亡妃の秘宝」主題歌は米津玄師 第1弾入場特典は原作者書き下ろし小説など掲載の小冊子",
-          "url": "https://eiga.com/news/20261026/1/",
-          "source": "映画.com",
+          "url": "https://news.yahoo.co.jp/articles/b55a4bcf270de1a70c6468a092ad74b9905710a8",
+          "source": "Yahoo!ニュース",
           "publishedAt": "2026-10-25T21:00:00.000Z",
           "isPR": false
         },
@@ -610,41 +621,6 @@
       ]
     },
     {
-      "id": "879d484c7e4f",
-      "title": "米津玄師が『劇場版 薬屋のひとりごと』主題歌を担当！ 新曲「春が灯り」が響く最新予告＆メインビジュアル解禁",
-      "summary": "",
-      "url": "https://www.moviecollection.jp/news/310911/",
-      "image": "https://www.moviecollection.jp/wp/wp-content/uploads/2026/12/a4f11c5e1e0d4fb04071646e61183154-888x500.jpg",
-      "leadSource": "ムビコレ",
-      "publishedAt": "2026-10-27T04:12:48.000Z",
-      "sourceCount": 2,
-      "articleCount": 3,
-      "categories": [
-        "anime"
-      ],
-      "keywords": [
-        "薬屋",
-        "劇場版",
-        "米津玄師"
-      ],
-      "articles": [
-        {
-          "title": "『薬屋のひとりごと』初の劇場版、最新映像＆キービジュアル＆相関図が公開 主題歌は米津玄師「春が灯り」",
-          "url": "https://www.sanyonews.jp/photo/detail?article_id",
-          "source": "山陽新聞",
-          "publishedAt": "2026-10-27T04:01:16.000Z",
-          "isPR": false
-        },
-        {
-          "title": "劇場版『薬屋のひとりごと』新PV解禁 沢城みゆき＆見上愛が物語の鍵を握るキャラクター演じる",
-          "url": "https://www.sanyonews.jp/article/2004239?kw",
-          "source": "山陽新聞",
-          "publishedAt": "2026-10-26T23:20:24.000Z",
-          "isPR": false
-        }
-      ]
-    },
-    {
       "id": "d420963b8073",
       "title": "『薬屋のひとりごと』第52話SNSの反応 - 子翠の置き土産に気付いた猫猫の笑顔にファン悶絶! 子翠の不在を惜しむ声も",
       "summary": "",
@@ -676,8 +652,8 @@
       "id": "815bf15f6ea4",
       "title": "2026夏アニメ←「完走した」“覇権”といえば？ 4位『無職転生』3位『ジャードゥーガル』2位、1位はまさかの「共通点」が！",
       "summary": "",
-      "url": "https://news.yahoo.co.jp/articles/925db28c02e83046a58f3fb73a9e34fc23308148",
-      "image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20261027-00382512-magmix-000-3-view.jpg?exp=10800",
+      "url": "https://news.yahoo.co.jp/articles/925db28c02e83046a58f3fb73a9e34fc23308148/images/000",
+      "image": "https://news-pctr.c.yimg.jp/uUzvQ3lML_bkIqyakc1vFhNrRI0RUQxg5aFkrX0xDg1_T0wXrbEJjtNGtrf1o9y3xudcUclfbXjZqAvGT8NJnTB2-m6dy5uYggV0H0VbY-yZmIFZksUuLp5aA6r0OxX7JmtCKnpWaoZzEXKYQfHdcrKOFNCMTEWxwQYTPahhCiq9L3ZqqQpV9kgghtkk1GlO2pMLAQLrKigFeKDSuAfxIQ==",
       "leadSource": "Yahoo!ニュース",
       "publishedAt": "2026-10-27T03:10:00.000Z",
       "sourceCount": 2,
@@ -697,6 +673,33 @@
           "url": "https://magmix.jp/post/382512/2",
           "source": "マグミクス",
           "publishedAt": "2026-10-27T03:10:00.000Z",
+          "isPR": false
+        }
+      ]
+    },
+    {
+      "id": "0a405e31ece6",
+      "title": "「薬屋のひとりごと」×「ツムラ和漢のど飴シリーズ」コラボ！ オリジナルグッズが抽選で当たる",
+      "summary": "『劇場版 薬屋のひとりごと 亡妃の秘宝』と「ツムラ和漢のど飴シリーズ」のタイアップ企画が、2026年11月2日より開始。対象商品を購入して応募すると、オリジナルのアクリルスタンドやQUOカード、クリアファイルなどが抽選で1,500名に当たる。",
+      "url": "https://animeanime.jp/article/2026/10/26/104226.html",
+      "image": "https://animeanime.jp/imgs/rss/947981.jpg",
+      "leadSource": "アニメ！アニメ！",
+      "publishedAt": "2026-10-26T15:14:20.000Z",
+      "sourceCount": 2,
+      "articleCount": 2,
+      "categories": [
+        "anime",
+        "goods"
+      ],
+      "keywords": [
+        "薬屋"
+      ],
+      "articles": [
+        {
+          "title": "『薬屋のひとりごと』初の劇場版、12・11公開 「亡妃の秘宝」新予告映像解禁で新キャストに伊瀬茉莉也",
+          "url": "https://www.sanyonews.jp/article/1948702?kw",
+          "source": "山陽新聞",
+          "publishedAt": "2026-10-26T15:14:20.000Z",
           "isPR": false
         }
       ]
@@ -731,6 +734,91 @@
       ]
     },
     {
+      "id": "d82c3b338add",
+      "title": "＜アニメ1週間＞「薬屋のひとりごと」金ローでスペシャルエディション放送 「青春ブタ野郎」シリーズ歴代1位の好発進",
+      "summary": "",
+      "url": "https://news.yahoo.co.jp/articles/393ddfa40aa088e6060629516386132ce19ba962/images/000",
+      "image": "https://news-pctr.c.yimg.jp/uUzvQ3lML_bkIqyakc1vFhNrRI0RUQxg5aFkrX0xDg1_T0wXrbEJjtNGtrf1o9y3xudcUclfbXjZqAvGT8NJnblfNWcbtrOXzBDhXcfGPTNhOQc6aeaylbAKpfCTOO_aWtGiUCLg5nX-QGOgVHiSogtaxK65ZAtccD6dvBOyoFe57IFUxUWhALPHqUgBwPPOXlpA0BTtrGY1kEKY7Ksn1A==",
+      "leadSource": "Yahoo!ニュース",
+      "publishedAt": "2026-10-25T10:05:00.000Z",
+      "sourceCount": 2,
+      "articleCount": 2,
+      "categories": [
+        "anime"
+      ],
+      "keywords": [
+        "薬屋",
+        "スペシャルエディション",
+        "シリーズ"
+      ],
+      "articles": [
+        {
+          "title": "アニメ1週間：「薬屋のひとりごと」金ローでスペシャルエディション放送 「青春ブタ野郎」シリーズ歴代1位の好発進",
+          "url": "https://mantan-web.jp/article/20261024dog00m200018000a.html",
+          "source": "Mantan Web",
+          "publishedAt": "2026-10-25T10:02:21.000Z",
+          "isPR": false
+        }
+      ]
+    },
+    {
+      "id": "b01105e7a7c9",
+      "title": "アニメ第3期『転生貴族、鑑定スキルで成り上がる』第29話、クランとバサマークの戦いは最終局面に【先行カット】",
+      "summary": "",
+      "url": "https://news.infoseek.co.jp/amp/article/otakulab_211277/",
+      "image": "https://media.image.infoseek.co.jp/isnews/photos/otakulab/otakulab_211277_0-enlarge.jpg",
+      "leadSource": "Infoseek",
+      "publishedAt": "2026-10-25T08:02:59.000Z",
+      "sourceCount": 2,
+      "articleCount": 2,
+      "categories": [
+        "anime"
+      ],
+      "keywords": [
+        "転生貴族",
+        "スキル",
+        "鑑定"
+      ],
+      "articles": [
+        {
+          "title": "転生貴族、鑑定スキルで成り上がる 第３期 [字] ＃３０【アガルアニメ】",
+          "url": "https://www.tbs.co.jp/tv/20261101_C36D.html",
+          "source": "TBSテレビ",
+          "publishedAt": "2026-10-25T00:54:13.000Z",
+          "isPR": false
+        }
+      ]
+    },
+    {
+      "id": "b0c3b886e4f3",
+      "title": "「薬屋のひとりごと」劇場版衣装の猫猫や壬氏のフィギュアが当たる一番くじ、12月発売 (コミックナタリー)",
+      "summary": "",
+      "url": "https://news.yahoo.co.jp/articles/155eba8a8524fade8a556bfed6fd55ff0099753f/images/000",
+      "image": "https://news-pctr.c.yimg.jp/uUzvQ3lML_bkIqyakc1vFhNrRI0RUQxg5aFkrX0xDg1_T0wXrbEJjtNGtrf1o9y3xudcUclfbXjZqAvGT8NJnYULX39e9CnSnoM_onsBnao4MOC4AtKAZbY0-GKLNHRjBlID-PhnO599w7e-rRbq0DByzC_D3lGQutMIHkpqBTxDq9e3xecEa9HGB6ngXbL6",
+      "leadSource": "Yahoo!ニュース",
+      "publishedAt": "2026-10-25T07:20:10.000Z",
+      "sourceCount": 2,
+      "articleCount": 2,
+      "categories": [
+        "goods",
+        "anime"
+      ],
+      "keywords": [
+        "薬屋",
+        "猫猫",
+        "壬氏"
+      ],
+      "articles": [
+        {
+          "title": "『薬屋のひとりごと』最新話に反響 猫猫と壬氏の距離に変化？白鈴の核心つく一言に「それがまたいい」",
+          "url": "https://www.sanyonews.jp/article/2004625",
+          "source": "山陽新聞",
+          "publishedAt": "2026-10-25T03:23:38.000Z",
+          "isPR": false
+        }
+      ]
+    },
+    {
       "id": "51d35cbb309d",
       "title": "本好きの下剋上 #25〜36【無料ビデオ1週間】",
       "summary": "",
@@ -761,12 +849,12 @@
     }
   ],
   "churn": {
-    "previousAt": "2026-10-27T15:30:19.405Z",
-    "previousCount": 80,
-    "newCount": 7
+    "previousAt": "2026-10-27T16:00:20.379Z",
+    "previousCount": 74,
+    "newCount": 9
   },
   "updateGapMin": 30,
-  "nextUpdateAt": "2026-10-27T16:30:20.379Z",
+  "nextUpdateAt": "2026-10-27T17:00:22.071Z",
   "items": [
     {
       "id": "7f6b6abb7808",
@@ -932,6 +1020,24 @@
       "isNew": false
     },
     {
+      "id": "88bfc9692c98",
+      "title": "“異能殺し”の青年を描く「異世界傭兵シバの英雄譚」アライブ新連載",
+      "url": "https://natalie.mu/comic/news/695275",
+      "host": "natalie.mu",
+      "source": "ナタリー",
+      "summary": "",
+      "publishedAt": "2026-10-27T09:18:00.000Z",
+      "image": "",
+      "categories": [
+        "comic"
+      ],
+      "works": [],
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": true
+    },
+    {
       "id": "d42e8f6bb5fc",
       "title": "【アニメ異世界】ある少年が「チート」スキルを駆使して最強のスライム軍団を作り上げ、1億ものMPを蓄えて王国を征服する。【アニメ異世界】 Elche Vs Alavés (kby3SNyPcT)",
       "url": "https://media.unisba.ac.id/18f1fa93/f7a19ceeCdcVdMfJN-w",
@@ -952,12 +1058,12 @@
     {
       "id": "33bc3667bb05",
       "title": "『パズドラ』×アニメ『薬屋のひとりごと』初コラボが10月26日より開催！猫猫や壬氏がガチャに登場",
-      "url": "https://times.abema.tv/articles/-/10284328?page",
-      "host": "times.abema.tv",
-      "source": "ABEMA TIMES",
+      "url": "https://news.infoseek.co.jp/article/abematimes_10284328/",
+      "host": "news.infoseek.co.jp",
+      "source": "Infoseek",
       "summary": "",
       "publishedAt": "2026-10-27T08:40:00.000Z",
-      "image": "https://times-abema.ismcdn.jp/mwimgs/f/3/1200w/img_f3a335b69c232ab48bfc6bb331bd024f397495.jpg",
+      "image": "https://media.image.infoseek.co.jp/isnews/photos/abematimes/abematimes_10284328_0-enlarge.jpg",
       "categories": [
         "game",
         "anime"
@@ -1012,7 +1118,7 @@
       "isPR": true,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "d10f5e53e7ff",
@@ -1092,26 +1198,6 @@
       "isNew": false
     },
     {
-      "id": "d9931edfee03",
-      "title": "劇場版 薬屋のひとりごと 亡妃の秘宝＞第3弾PV公開＆壬氏一行を狙う水賊・化蛇団メンバーに小野賢章ら決定",
-      "url": "https://thetv.jp/news/detail/1448116/landing/?utm_source",
-      "host": "thetv.jp",
-      "source": "WEBザテレビジョン",
-      "summary": "",
-      "publishedAt": "2026-10-27T06:51:54.000Z",
-      "image": "",
-      "categories": [
-        "anime"
-      ],
-      "works": [
-        "kusuriya"
-      ],
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": true
-    },
-    {
       "id": "d420963b8073",
       "title": "『薬屋のひとりごと』第52話SNSの反応 - 子翠の置き土産に気付いた猫猫の笑顔にファン悶絶! 子翠の不在を惜しむ声も",
       "url": "https://news.mynavi.jp/article/20261027-5203878/",
@@ -1170,34 +1256,14 @@
       "isNew": false
     },
     {
-      "id": "760071b97af5",
-      "title": "『薬屋のひとりごと』初の劇場版、最新映像＆キービジュアル＆相関図が公開 主題歌は米津玄師「春が灯り」",
-      "url": "https://www.sanyonews.jp/photo/detail?article_id",
-      "host": "sanyonews.jp",
-      "source": "山陽新聞",
-      "summary": "",
-      "publishedAt": "2026-10-27T04:01:16.000Z",
-      "image": "",
-      "categories": [
-        "anime"
-      ],
-      "works": [
-        "kusuriya"
-      ],
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": true
-    },
-    {
       "id": "815bf15f6ea4",
       "title": "2026夏アニメ←「完走した」“覇権”といえば？ 4位『無職転生』3位『ジャードゥーガル』2位、1位はまさかの「共通点」が！",
-      "url": "https://news.yahoo.co.jp/articles/925db28c02e83046a58f3fb73a9e34fc23308148",
+      "url": "https://news.yahoo.co.jp/articles/925db28c02e83046a58f3fb73a9e34fc23308148/images/000",
       "host": "news.yahoo.co.jp",
       "source": "Yahoo!ニュース",
       "summary": "",
       "publishedAt": "2026-10-27T03:10:00.000Z",
-      "image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20261027-00382512-magmix-000-3-view.jpg?exp=10800",
+      "image": "https://news-pctr.c.yimg.jp/uUzvQ3lML_bkIqyakc1vFhNrRI0RUQxg5aFkrX0xDg1_T0wXrbEJjtNGtrf1o9y3xudcUclfbXjZqAvGT8NJnTB2-m6dy5uYggV0H0VbY-yZmIFZksUuLp5aA6r0OxX7JmtCKnpWaoZzEXKYQfHdcrKOFNCMTEWxwQYTPahhCiq9L3ZqqQpV9kgghtkk1GlO2pMLAQLrKigFeKDSuAfxIQ==",
       "categories": [
         "anime"
       ],
@@ -1251,27 +1317,6 @@
       "isNew": false
     },
     {
-      "id": "07522b67bff2",
-      "title": "劇場版『薬屋のひとりごと』入場者特典は原作者書き下ろし小説 猫猫＆壬氏の“その後”描く",
-      "url": "https://www.yamagata-np.jp/oricon/photo.php?id",
-      "host": "yamagata-np.jp",
-      "source": "山形新聞",
-      "summary": "",
-      "publishedAt": "2026-10-27T02:16:59.000Z",
-      "image": "https://www.yamagata-np.jp/",
-      "categories": [
-        "anime",
-        "book"
-      ],
-      "works": [
-        "kusuriya"
-      ],
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": true
-    },
-    {
       "id": "d815633c1f5a",
       "title": "アニメ『薬屋のひとりごと』51話“麺麭がなければ”コメント最多シーンTOP3が発表。第1位は馬閃がタジタジになっていたあのシーン",
       "url": "https://dengekionline.com/article/202610/92154",
@@ -1312,26 +1357,6 @@
       "isNew": false
     },
     {
-      "id": "fcaee2850312",
-      "title": "ARROVA、Re:ゼロから始める異世界生活のVRChat向け衣装を10月発売へ",
-      "url": "https://news.dellows.jp/827583/?from",
-      "host": "news.dellows.jp",
-      "source": "Dellows News",
-      "summary": "",
-      "publishedAt": "2026-10-26T23:49:16.000Z",
-      "image": "https://news.dellows.jp/wp-content/uploads/2026/10/827583_1.jpg",
-      "categories": [
-        "other"
-      ],
-      "works": [
-        "rezero"
-      ],
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": true
-    },
-    {
       "id": "61711d5b55d2",
       "title": "劇場版『薬屋のひとりごと』新PV解禁 沢城みゆき＆見上愛が物語の鍵を握るキャラクター演じる",
       "url": "https://www.sanyonews.jp/article/2004239?kw",
@@ -1350,26 +1375,6 @@
       "viaGoogle": false,
       "sourceKind": "news",
       "isNew": false
-    },
-    {
-      "id": "fed6a38212c2",
-      "title": "『薬屋のひとりごと』金ローで特別編集版放送決定 第2期ラストシーンにつながる約4分の新規映像が追加",
-      "url": "https://www.sanyonews.jp/article/2009126?rct",
-      "host": "sanyonews.jp",
-      "source": "山陽新聞",
-      "summary": "",
-      "publishedAt": "2026-10-26T21:11:13.000Z",
-      "image": "https://static.sanyonews.jp/image/article/size1/f/7/1/d/f71dee3ccd661920ea7bafdeac4e8b6b_1.jpg",
-      "categories": [
-        "anime"
-      ],
-      "works": [
-        "kusuriya"
-      ],
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": true
     },
     {
       "id": "dfe65b2caad5",
@@ -1391,26 +1396,6 @@
       "viaGoogle": false,
       "sourceKind": "news",
       "isNew": false
-    },
-    {
-      "id": "0d33e7392550",
-      "title": "劇場版 薬屋のひとりごと＞猫猫が旅先で出会う「未の一族」キャラクターPV・キャスト公開 沐清役・伊瀬茉莉也のコメントも",
-      "url": "https://thetv.jp/news/detail/1448097/landing/?utm_source",
-      "host": "thetv.jp",
-      "source": "WEBザテレビジョン",
-      "summary": "",
-      "publishedAt": "2026-10-26T20:23:38.000Z",
-      "image": "",
-      "categories": [
-        "anime"
-      ],
-      "works": [
-        "kusuriya"
-      ],
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": true
     },
     {
       "id": "35875576b22a",
@@ -1471,6 +1456,26 @@
       "viaGoogle": false,
       "sourceKind": "news",
       "isNew": false
+    },
+    {
+      "id": "213664ed15bb",
+      "title": "Eve、TVアニメ『薬屋のひとりごと』第3期 第1クール エンディングテーマ「AIYOU」を表題曲としたEPを11月25日(水)に発売決定！",
+      "url": "https://e.usen.com/news/news-release/evetv3-1-aiyouep1125.html",
+      "host": "e.usen.com",
+      "source": "USENの音楽情報サイト",
+      "summary": "",
+      "publishedAt": "2026-10-26T15:03:24.000Z",
+      "image": "https://e.usen.com/image/b0f5d3c16a033859852235121309a7b13be4908c.jpg",
+      "categories": [
+        "anime"
+      ],
+      "works": [
+        "kusuriya"
+      ],
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": true
     },
     {
       "id": "db0031f0eb13",
@@ -1595,27 +1600,6 @@
       "isNew": false
     },
     {
-      "id": "5ebab808ef1b",
-      "title": "ラグーナテンボス、アニメ「Re:ゼロから始める異世界生活」とコラボ 周遊ラリーや限定グッズ、声優トークショーなど",
-      "url": "https://tms-media.jp/posts/99054/",
-      "host": "tms-media.jp",
-      "source": "ツーリズムメディアサービス",
-      "summary": "",
-      "publishedAt": "2026-10-26T09:08:06.000Z",
-      "image": "https://tms-media.jp/wp-content/uploads/2026/10/2026-10-26-134613-1.png",
-      "categories": [
-        "anime",
-        "goods"
-      ],
-      "works": [
-        "rezero"
-      ],
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": false
-    },
-    {
       "id": "6eaa310e169d",
       "title": "『魔王のあとつぎ』のコミカライズ連載が開始 『賢者の孫』の正統続編となる学園バトルファンタジー",
       "url": "https://ln-news.com/articles/127015",
@@ -1697,7 +1681,7 @@
     {
       "id": "ce4beb40fddc",
       "title": "関連書籍シリーズ累計6,200万部＆アニメ累計視聴数30億回突破の超人気転生エンターテインメント『転生したらスライムだ",
-      "url": "https://news.nicovideo.jp/watch/nw19918951",
+      "url": "https://news.nicovideo.jp/watch/nw19918951?news_ref",
       "host": "news.nicovideo.jp",
       "source": "ニコニコニュース",
       "summary": "",
@@ -1775,6 +1759,27 @@
       "viaGoogle": false,
       "sourceKind": "news",
       "isNew": false
+    },
+    {
+      "id": "fb8032bb428b",
+      "title": "「パズドラ」とアニメ「薬屋のひとりごと」のコラボイベントが開催！猫猫や壬氏などがスーパーゴッドフェスに登場",
+      "url": "https://www.gamer.ne.jp/news/202610260004/",
+      "host": "gamer.ne.jp",
+      "source": "Gamer",
+      "summary": "",
+      "publishedAt": "2026-10-26T03:15:00.000Z",
+      "image": "",
+      "categories": [
+        "goods",
+        "anime"
+      ],
+      "works": [
+        "kusuriya"
+      ],
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": true
     },
     {
       "id": "46ca8bb793fa",
@@ -1896,6 +1901,27 @@
       "isNew": false
     },
     {
+      "id": "43289a652a19",
+      "title": "『薬屋のひとりごと』猫猫と壬氏が映画館で並んで鑑賞!? ちょこんと座るフィギュアが登場",
+      "url": "https://news.mynavi.jp/article/20261026-5181932/",
+      "host": "news.mynavi.jp",
+      "source": "マイナビニュース",
+      "summary": "",
+      "publishedAt": "2026-10-25T23:06:19.000Z",
+      "image": "https://news.mynavi.jp/article/20261026-5181932/ogp_images/ogp.jpg",
+      "categories": [
+        "anime",
+        "goods"
+      ],
+      "works": [
+        "kusuriya"
+      ],
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": true
+    },
+    {
       "id": "fa0e04e66591",
       "title": "【異世界アニメ】原始時代に転生した俺、最強の部族を率いて文明を築く SS1 Ring (WLbYnz3VF5)",
       "url": "https://media.unisba.ac.id/42761418/3797fca2bTpapn1aLPw/?share",
@@ -1956,12 +1982,12 @@
     {
       "id": "4d38c806e1af",
       "title": "「劇場版 薬屋のひとりごと 亡妃の秘宝」主題歌は米津玄師 第1弾入場特典は原作者書き下ろし小説など掲載の小冊子",
-      "url": "https://eiga.com/news/20261026/1/",
-      "host": "eiga.com",
-      "source": "映画.com",
+      "url": "https://news.yahoo.co.jp/articles/b55a4bcf270de1a70c6468a092ad74b9905710a8",
+      "host": "news.yahoo.co.jp",
+      "source": "Yahoo!ニュース",
       "summary": "",
       "publishedAt": "2026-10-25T21:00:00.000Z",
-      "image": "https://media.eiga.com/images/buzz/130064/66b44aaa837f1f84.jpg",
+      "image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20261026-00000001-eiga-000-1-view.jpg?exp=10800",
       "categories": [
         "anime",
         "book"
@@ -2013,6 +2039,26 @@
       "viaGoogle": false,
       "sourceKind": "news",
       "isNew": false
+    },
+    {
+      "id": "d82c3b338add",
+      "title": "＜アニメ1週間＞「薬屋のひとりごと」金ローでスペシャルエディション放送 「青春ブタ野郎」シリーズ歴代1位の好発進",
+      "url": "https://news.yahoo.co.jp/articles/393ddfa40aa088e6060629516386132ce19ba962/images/000",
+      "host": "news.yahoo.co.jp",
+      "source": "Yahoo!ニュース",
+      "summary": "",
+      "publishedAt": "2026-10-25T10:05:00.000Z",
+      "image": "https://news-pctr.c.yimg.jp/uUzvQ3lML_bkIqyakc1vFhNrRI0RUQxg5aFkrX0xDg1_T0wXrbEJjtNGtrf1o9y3xudcUclfbXjZqAvGT8NJnblfNWcbtrOXzBDhXcfGPTNhOQc6aeaylbAKpfCTOO_aWtGiUCLg5nX-QGOgVHiSogtaxK65ZAtccD6dvBOyoFe57IFUxUWhALPHqUgBwPPOXlpA0BTtrGY1kEKY7Ksn1A==",
+      "categories": [
+        "anime"
+      ],
+      "works": [
+        "kusuriya"
+      ],
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": true
     },
     {
       "id": "00292e63113b",
@@ -2097,6 +2143,27 @@
       "isNew": false
     },
     {
+      "id": "b0c3b886e4f3",
+      "title": "「薬屋のひとりごと」劇場版衣装の猫猫や壬氏のフィギュアが当たる一番くじ、12月発売 (コミックナタリー)",
+      "url": "https://news.yahoo.co.jp/articles/155eba8a8524fade8a556bfed6fd55ff0099753f/images/000",
+      "host": "news.yahoo.co.jp",
+      "source": "Yahoo!ニュース",
+      "summary": "",
+      "publishedAt": "2026-10-25T07:20:10.000Z",
+      "image": "https://news-pctr.c.yimg.jp/uUzvQ3lML_bkIqyakc1vFhNrRI0RUQxg5aFkrX0xDg1_T0wXrbEJjtNGtrf1o9y3xudcUclfbXjZqAvGT8NJnYULX39e9CnSnoM_onsBnao4MOC4AtKAZbY0-GKLNHRjBlID-PhnO599w7e-rRbq0DByzC_D3lGQutMIHkpqBTxDq9e3xecEa9HGB6ngXbL6",
+      "categories": [
+        "goods",
+        "anime"
+      ],
+      "works": [
+        "kusuriya"
+      ],
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": true
+    },
+    {
       "id": "65af31b75047",
       "title": "信者ゼロの女神サマと始める異世界攻略",
       "url": "https://www.bs-asahi.co.jp/zero-believers-anime/",
@@ -2153,6 +2220,26 @@
       "isNew": false
     },
     {
+      "id": "528ab15ffd00",
+      "title": "『薬屋のひとりごと』最新話に反響 猫猫と壬氏の距離に変化？白鈴の核心つく一言に「それがまたいい」",
+      "url": "https://www.sanyonews.jp/article/2004625",
+      "host": "sanyonews.jp",
+      "source": "山陽新聞",
+      "summary": "",
+      "publishedAt": "2026-10-25T03:23:38.000Z",
+      "image": "https://static.sanyonews.jp/image/article/size1/8/f/f/3/8ff3f8278baeab94cb0b68f151c14023_1.jpg",
+      "categories": [
+        "other"
+      ],
+      "works": [
+        "kusuriya"
+      ],
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": true
+    },
+    {
       "id": "7e152371e1fe",
       "title": "第４章 自称悪役令嬢と恋のキューピッドの観察記録。",
       "url": "https://tver.jp/episodes/epdnq18vsy",
@@ -2189,6 +2276,46 @@
       "viaGoogle": false,
       "sourceKind": "news",
       "isNew": false
+    },
+    {
+      "id": "01371568aec8",
+      "title": "転生貴族、鑑定スキルで成り上がる 第３期 [字] ＃３０【アガルアニメ】",
+      "url": "https://www.tbs.co.jp/tv/20261101_C36D.html",
+      "host": "tbs.co.jp",
+      "source": "TBSテレビ",
+      "summary": "",
+      "publishedAt": "2026-10-25T00:54:13.000Z",
+      "image": "https://www.tbs.co.jp/ro/img/ogp.png",
+      "categories": [
+        "anime"
+      ],
+      "works": [
+        "tensei-kizoku"
+      ],
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": true
+    },
+    {
+      "id": "57178e388fb2",
+      "title": "無職転生の漫画を無料で読む方法【2026年10月】全巻無料・読み放題を比較",
+      "url": "https://charagoo.jp/mushokutensei-comic-free/",
+      "host": "charagoo.jp",
+      "source": "キャラグー",
+      "summary": "",
+      "publishedAt": "2026-10-24T22:10:13.000Z",
+      "image": "",
+      "categories": [
+        "comic"
+      ],
+      "works": [
+        "mushoku"
+      ],
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": true
     },
     {
       "id": "39bf293e490e",
