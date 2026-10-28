@@ -1,12 +1,12 @@
 {
-  "updatedAt": "2026-10-28T18:30:23.812Z",
+  "updatedAt": "2026-10-28T19:00:19.769Z",
   "site": {
     "title": "なろう系まとめ",
     "tagline": "小説家になろう発の作品のアニメ化・コミカライズ・書籍化のニュースと、なろうのランキングをまとめています。",
     "url": "https://naroumatome.gamelab.website/",
     "contactUrl": "https://docs.google.com/forms/d/e/1FAIpQLSesWyhmZ6sRS_ve-c3X2KqF_wC5PK2TgwgQbTKmnQltSlg5Jw/viewform"
   },
-  "total": 88,
+  "total": 86,
   "todayCount": 3,
   "categories": [
     {
@@ -17,7 +17,7 @@
     {
       "id": "comic",
       "label": "コミカライズ",
-      "count": 12
+      "count": 11
     },
     {
       "id": "book",
@@ -32,12 +32,12 @@
     {
       "id": "game",
       "label": "ゲーム",
-      "count": 10
+      "count": 9
     },
     {
       "id": "goods",
       "label": "グッズ・イベント",
-      "count": 13
+      "count": 12
     },
     {
       "id": "other",
@@ -62,7 +62,7 @@
       "id": "rezero",
       "title": "Re:ゼロから始める異世界生活",
       "short": "リゼロ",
-      "count": 9
+      "count": 8
     },
     {
       "id": "honzuki",
@@ -74,7 +74,7 @@
       "id": "kusuriya",
       "title": "薬屋のひとりごと",
       "short": "薬屋",
-      "count": 27
+      "count": 26
     },
     {
       "id": "kagejitsu",
@@ -323,10 +323,6 @@
       "count": 4
     },
     {
-      "name": "ニコニコニュース",
-      "count": 4
-    },
-    {
       "name": "ナタリー",
       "count": 4
     },
@@ -335,19 +331,19 @@
       "count": 3
     },
     {
-      "name": "キャラグー",
+      "name": "PR TIMES",
       "count": 3
     },
     {
-      "name": "PR TIMES",
-      "count": 2
+      "name": "ニコニコニュース",
+      "count": 3
     },
     {
       "name": "マイナビニュース",
       "count": 2
     },
     {
-      "name": "WEBザテレビジョン",
+      "name": "キャラグー",
       "count": 2
     },
     {
@@ -380,6 +376,10 @@
     },
     {
       "name": "AppMedia",
+      "count": 1
+    },
+    {
+      "name": "WEBザテレビジョン",
       "count": 1
     },
     {
@@ -770,8 +770,8 @@
       ],
       "articles": [
         {
-          "title": "過酷な世界でぬくぬく快適生活…累計170万部突破『異世界クラフトぐらし～自由気ままな生産職のほのぼのスローライフ～』がLINEマンガ＆ebookjapanにて無料公開",
-          "url": "https://futaman.futabanet.jp/articles/-/132642?page",
+          "title": "過酷な世界でぬくぬく快適生活…累計170万部突破『異世界クラフトぐらし～自由気ままな生産職のほのぼのスローライフ～』がLINEマンガ＆ebookjapanにて無料公開 | 概要 | 漫画 | 最新ニュース",
+          "url": "https://futaman.futabanet.jp/articles/-/132642",
           "source": "ふねぽ",
           "publishedAt": "2026-10-27T21:00:00.000Z",
           "isPR": false
@@ -895,12 +895,12 @@
     }
   ],
   "churn": {
-    "previousAt": "2026-10-28T18:00:26.728Z",
-    "previousCount": 90,
-    "newCount": 4
+    "previousAt": "2026-10-28T18:30:23.812Z",
+    "previousCount": 88,
+    "newCount": 1
   },
   "updateGapMin": 30,
-  "nextUpdateAt": "2026-10-28T19:00:23.812Z",
+  "nextUpdateAt": "2026-10-28T19:30:19.769Z",
   "items": [
     {
       "id": "95b982f9f146",
@@ -1358,6 +1358,26 @@
       "isNew": false
     },
     {
+      "id": "7f6b6abb7808",
+      "title": "『薬屋のひとりごと』第3期はどこで見れる？配信サービス（サブスク）の情報や無料で視聴できる方法を解説【2026年最新】",
+      "url": "https://times.abema.tv/articles/-/10284472",
+      "host": "times.abema.tv",
+      "source": "ABEMA TIMES",
+      "summary": "",
+      "publishedAt": "2026-10-28T03:11:00.000Z",
+      "image": "https://times-abema.ismcdn.jp/mwimgs/b/a/1200w/img_ba39a3b81f2e34e9a3a960e5b6b69a92266833.jpg",
+      "categories": [
+        "anime"
+      ],
+      "works": [
+        "kusuriya"
+      ],
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": false
+    },
+    {
       "id": "e7a9feba5ca9",
       "title": "『薬屋のひとりごと』本格謎解き企画が始動 人気クリエイターが謎を作成",
       "url": "https://www.sanyonews.jp/article/1997336?rct",
@@ -1375,7 +1395,7 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "b0b17db9a156",
@@ -1436,27 +1456,6 @@
       "viaGoogle": false,
       "sourceKind": "news",
       "isNew": false
-    },
-    {
-      "id": "ec7e7190d7c3",
-      "title": "Re:ゼロのグッズ一覧【2026年10月】｜ガチャガチャ・プライズ・キャラクターくじ・コラボ・イベント 全193件",
-      "url": "https://charagoo.jp/ip/rezero/",
-      "host": "charagoo.jp",
-      "source": "キャラグー",
-      "summary": "",
-      "publishedAt": "2026-10-28T01:18:50.000Z",
-      "image": "",
-      "categories": [
-        "goods",
-        "game"
-      ],
-      "works": [
-        "rezero"
-      ],
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": true
     },
     {
       "id": "61711d5b55d2",
@@ -1637,8 +1636,8 @@
     },
     {
       "id": "f60d9a504f4f",
-      "title": "過酷な世界でぬくぬく快適生活…累計170万部突破『異世界クラフトぐらし～自由気ままな生産職のほのぼのスローライフ～』がLINEマンガ＆ebookjapanにて無料公開",
-      "url": "https://futaman.futabanet.jp/articles/-/132642?page",
+      "title": "過酷な世界でぬくぬく快適生活…累計170万部突破『異世界クラフトぐらし～自由気ままな生産職のほのぼのスローライフ～』がLINEマンガ＆ebookjapanにて無料公開 | 概要 | 漫画 | 最新ニュース",
+      "url": "https://futaman.futabanet.jp/articles/-/132642",
       "host": "futaman.futabanet.jp",
       "source": "ふねぽ",
       "summary": "",
@@ -1686,26 +1685,6 @@
         "anime"
       ],
       "works": [],
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": false
-    },
-    {
-      "id": "7f6b6abb7808",
-      "title": "『薬屋のひとりごと』第3期はどこで見れる？配信サービス（サブスク）の情報や無料で視聴できる方法を解説【2026年最新】",
-      "url": "https://times.abema.tv/articles/-/10284472",
-      "host": "times.abema.tv",
-      "source": "ABEMA TIMES",
-      "summary": "",
-      "publishedAt": "2026-10-27T14:17:00.000Z",
-      "image": "https://times-abema.ismcdn.jp/mwimgs/b/a/1200w/img_ba39a3b81f2e34e9a3a960e5b6b69a92266833.jpg",
-      "categories": [
-        "anime"
-      ],
-      "works": [
-        "kusuriya"
-      ],
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
@@ -1770,7 +1749,7 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "662351b5063d",
@@ -2152,24 +2131,6 @@
       "isNew": false
     },
     {
-      "id": "22ffa863926e",
-      "title": "理不尽に職を失った“限界OL”が、悪役令嬢の従者に…異世界での再就職生活に「イキイキ働くのが最高」の声【漫画】",
-      "url": "https://thetv.jp/news/detail/1444102/landing/",
-      "host": "thetv.jp",
-      "source": "WEBザテレビジョン",
-      "summary": "",
-      "publishedAt": "2026-10-27T00:23:47.000Z",
-      "image": "",
-      "categories": [
-        "comic"
-      ],
-      "works": [],
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": false
-    },
-    {
       "id": "933867dc1934",
       "title": "『無職転生III』加隈亜衣が見つめたエリスの不器用な成長 ルーデウスへの思いは「恋愛感情だけでは足りない」",
       "url": "https://www.crank-in.net/gallery/interview/187296/12",
@@ -2183,26 +2144,6 @@
       ],
       "works": [
         "mushoku"
-      ],
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": false
-    },
-    {
-      "id": "fed6a38212c2",
-      "title": "『薬屋のひとりごと』金ローで特別編集版放送決定 第2期ラストシーンにつながる約4分の新規映像が追加",
-      "url": "https://www.sanyonews.jp/article/2009126?rct",
-      "host": "sanyonews.jp",
-      "source": "山陽新聞",
-      "summary": "",
-      "publishedAt": "2026-10-26T21:11:13.000Z",
-      "image": "https://static.sanyonews.jp/image/article/size1/f/7/1/d/f71dee3ccd661920ea7bafdeac4e8b6b_1.jpg",
-      "categories": [
-        "anime"
-      ],
-      "works": [
-        "kusuriya"
       ],
       "isPR": false,
       "viaGoogle": false,
@@ -2410,27 +2351,6 @@
       "isNew": false
     },
     {
-      "id": "b61f42e41884",
-      "title": "TVアニメ『転生したらスライムだった件』グッズ発売開始！",
-      "url": "https://news.nicovideo.jp/watch/nw19919327?news_ref",
-      "host": "news.nicovideo.jp",
-      "source": "ニコニコニュース",
-      "summary": "",
-      "publishedAt": "2026-10-26T08:00:26.000Z",
-      "image": "",
-      "categories": [
-        "anime",
-        "goods"
-      ],
-      "works": [
-        "tensura"
-      ],
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": false
-    },
-    {
       "id": "94e196c9020a",
       "title": "【新連載】『小さなコックさんの異世界レシピ～料理魔法なんてあったんだぁ、と思ったら万能スキルでした～@COMIC』漫画",
       "url": "https://news.nicovideo.jp/watch/nw19918815",
@@ -2488,6 +2408,45 @@
       "viaGoogle": false,
       "sourceKind": "news",
       "isNew": false
+    },
+    {
+      "id": "b61f42e41884",
+      "title": "TVアニメ『転生したらスライムだった件』グッズ発売開始！",
+      "url": "https://prtimes.jp/main/html/rd/p/000000082.000180393.html",
+      "host": "prtimes.jp",
+      "source": "PR TIMES",
+      "summary": "",
+      "publishedAt": "2026-10-26T03:02:24.000Z",
+      "image": "https://prcdn.freetls.fastly.net/release_image/180393/82/180393-82-093a3ff3cdde8dd66f0e334d2edc5d7c-3900x2217.jpg?format=jpeg&auto=webp&fit=bounds&width=2400&height=1260",
+      "categories": [
+        "anime",
+        "goods"
+      ],
+      "works": [
+        "tensura"
+      ],
+      "isPR": true,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": false
+    },
+    {
+      "id": "f9ca5a6c9075",
+      "title": "『世界最高の暗殺者、異世界貴族に転生する』第2期、来年1月放送 PV解禁で新キャラ役は上坂すみれ・外崎友亮",
+      "url": "https://www.sanyonews.jp/article/1983625",
+      "host": "sanyonews.jp",
+      "source": "山陽新聞",
+      "summary": "",
+      "publishedAt": "2026-10-26T03:00:40.000Z",
+      "image": "https://static.sanyonews.jp/image/article/size1/9/6/d/7/96d7783e018c5b9195a0bb396345595f_1.jpg",
+      "categories": [
+        "anime"
+      ],
+      "works": [],
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": true
     },
     {
       "id": "8c6128c2aa7b",
@@ -2611,7 +2570,7 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "fa0e04e66591",
