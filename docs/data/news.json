@@ -1,23 +1,23 @@
 {
-  "updatedAt": "2026-10-28T22:30:24.099Z",
+  "updatedAt": "2026-10-28T23:00:19.164Z",
   "site": {
     "title": "なろう系まとめ",
     "tagline": "小説家になろう発の作品のアニメ化・コミカライズ・書籍化のニュースと、なろうのランキングをまとめています。",
     "url": "https://naroumatome.gamelab.website/",
     "contactUrl": "https://docs.google.com/forms/d/e/1FAIpQLSesWyhmZ6sRS_ve-c3X2KqF_wC5PK2TgwgQbTKmnQltSlg5Jw/viewform"
   },
-  "total": 86,
-  "todayCount": 4,
+  "total": 85,
+  "todayCount": 5,
   "categories": [
     {
       "id": "anime",
       "label": "アニメ",
-      "count": 50
+      "count": 49
     },
     {
       "id": "comic",
       "label": "コミカライズ",
-      "count": 11
+      "count": 12
     },
     {
       "id": "book",
@@ -32,7 +32,7 @@
     {
       "id": "game",
       "label": "ゲーム",
-      "count": 10
+      "count": 9
     },
     {
       "id": "goods",
@@ -50,13 +50,13 @@
       "id": "tensura",
       "title": "転生したらスライムだった件",
       "short": "転スラ",
-      "count": 8
+      "count": 9
     },
     {
       "id": "mushoku",
       "title": "無職転生 ～異世界行ったら本気だす～",
       "short": "無職転生",
-      "count": 14
+      "count": 13
     },
     {
       "id": "rezero",
@@ -74,7 +74,7 @@
       "id": "kusuriya",
       "title": "薬屋のひとりごと",
       "short": "薬屋",
-      "count": 26
+      "count": 24
     },
     {
       "id": "kagejitsu",
@@ -315,7 +315,7 @@
       "count": 5
     },
     {
-      "name": "ニコニコニュース",
+      "name": "Infoseek",
       "count": 4
     },
     {
@@ -323,7 +323,7 @@
       "count": 4
     },
     {
-      "name": "Infoseek",
+      "name": "ニコニコニュース",
       "count": 3
     },
     {
@@ -335,7 +335,15 @@
       "count": 2
     },
     {
+      "name": "PR TIMES",
+      "count": 2
+    },
+    {
       "name": "マイナビニュース",
+      "count": 2
+    },
+    {
+      "name": "WEBザテレビジョン",
       "count": 2
     },
     {
@@ -355,15 +363,7 @@
       "count": 2
     },
     {
-      "name": "電撃オンライン",
-      "count": 2
-    },
-    {
       "name": "SNKRDUNK",
-      "count": 1
-    },
-    {
-      "name": "PR TIMES",
       "count": 1
     },
     {
@@ -380,10 +380,6 @@
     },
     {
       "name": "AppMedia",
-      "count": 1
-    },
-    {
-      "name": "WEBザテレビジョン",
       "count": 1
     },
     {
@@ -431,10 +427,6 @@
       "count": 1
     },
     {
-      "name": "Gamerch",
-      "count": 1
-    },
-    {
       "name": "V-storage",
       "count": 1
     },
@@ -451,7 +443,7 @@
       "count": 1
     },
     {
-      "name": "イザ！",
+      "name": "電撃オンライン",
       "count": 1
     }
   ],
@@ -664,6 +656,42 @@
       ]
     },
     {
+      "id": "8c6128c2aa7b",
+      "title": "TVアニメ『転生したらスライムだった件』グッズ発売開始！｜Infoseekニュース",
+      "summary": "",
+      "url": "https://news.infoseek.co.jp/article/prtimes_000000082_000180393/",
+      "image": "https://media.image.infoseek.co.jp/isnews/pc/img/noimage_203x120_busi-econ-1.0.png",
+      "leadSource": "Infoseek",
+      "publishedAt": "2026-10-26T03:02:24.000Z",
+      "sourceCount": 2,
+      "articleCount": 3,
+      "categories": [
+        "anime",
+        "goods"
+      ],
+      "keywords": [
+        "スライム",
+        "グッズ",
+        "発売開始"
+      ],
+      "articles": [
+        {
+          "title": "TVアニメ『転生したらスライムだった件』グッズ発売開始！",
+          "url": "https://prtimes.jp/main/html/rd/p/000000082.000180393.html",
+          "source": "PR TIMES",
+          "publishedAt": "2026-10-26T03:02:24.000Z",
+          "isPR": true
+        },
+        {
+          "title": "関連書籍シリーズ累計6,200万部＆アニメ累計視聴数30億回突破の超人気転生エンターテインメント『転生したらスライムだった件 第4期』Blu-ray＆DVD 第1巻 10月28日発売｜Infoseekニュース",
+          "url": "https://news.infoseek.co.jp/article/prtimes_000000717_000029654/",
+          "source": "Infoseek",
+          "publishedAt": "2026-10-26T02:00:00.000Z",
+          "isPR": false
+        }
+      ]
+    },
+    {
       "id": "760071b97af5",
       "title": "『薬屋のひとりごと』初の劇場版、最新映像＆キービジュアル＆相関図が公開 主題歌は米津玄師「春が灯り」",
       "summary": "",
@@ -713,35 +741,6 @@
           "source": "ABEMA TIMES",
           "publishedAt": "2026-10-28T03:11:00.000Z",
           "isPR": false
-        }
-      ]
-    },
-    {
-      "id": "e2983d083993",
-      "title": "「無職転生〜異世界行ったら本気だす〜クロニクル・オブ・エコーズ」のアプリ紹介とポイ活・攻略Wikiの情報（iOS/Android）",
-      "summary": "",
-      "url": "https://gamerch.com/app_detail/10863",
-      "image": "https://cdn.gamerch.com/contents/game-db/10863/icon.png?1793050334",
-      "leadSource": "Gamerch",
-      "publishedAt": "2026-10-28T12:30:02.000Z",
-      "sourceCount": 2,
-      "articleCount": 2,
-      "categories": [
-        "goods",
-        "game"
-      ],
-      "keywords": [
-        "無職転生",
-        "クロニクル",
-        "エコーズ"
-      ],
-      "articles": [
-        {
-          "title": "『無職転生 〜異世界行ったら本気だす〜 クロニクル・オブ・エコーズ』、[守護術師] フィッツが期間限定で登場＆シナリオイベント「自由恋愛は罪となるのか」開催！",
-          "url": "https://prtimes.jp/main/html/rd/p/000000202.000090815.html",
-          "source": "PR TIMES",
-          "publishedAt": "2026-10-28T12:30:02.000Z",
-          "isPR": true
         }
       ]
     },
@@ -822,38 +821,10 @@
       ],
       "articles": [
         {
-          "title": "過酷な世界でぬくぬく快適生活…累計170万部突破『異世界クラフトぐらし～自由気ままな生産職のほのぼのスローライフ～』がLINEマンガ＆ebookjapanにて無料公開 | 概要 | 漫画 | 最新ニュース",
-          "url": "https://futaman.futabanet.jp/articles/-/132642",
+          "title": "過酷な世界でぬくぬく快適生活…累計170万部突破『異世界クラフトぐらし～自由気ままな生産職のほのぼのスローライフ～』がLINEマンガ＆ebookjapanにて無料公開",
+          "url": "https://futaman.futabanet.jp/articles/-/132642?page",
           "source": "ふねぽ",
           "publishedAt": "2026-10-27T21:00:00.000Z",
-          "isPR": false
-        }
-      ]
-    },
-    {
-      "id": "b4e9edee1cff",
-      "title": "ダンジョンマスターの登場が1位！アニメ『転生したら剣でしたII』第3話コメント最多シーンTOP3",
-      "summary": "",
-      "url": "https://news.infoseek.co.jp/amp/article/abematimes_10284345/",
-      "image": "https://media.image.infoseek.co.jp/isnews/photos/abematimes/abematimes_10284345_0-enlarge.jpg",
-      "leadSource": "Infoseek",
-      "publishedAt": "2026-10-27T10:00:00.000Z",
-      "sourceCount": 2,
-      "articleCount": 2,
-      "categories": [
-        "anime"
-      ],
-      "keywords": [
-        "top3",
-        "コメント",
-        "シーン"
-      ],
-      "articles": [
-        {
-          "title": "アニメ『薬屋のひとりごと』51話“麺麭がなければ”コメント最多シーンTOP3が発表。第1位は馬閃がタジタジになっていたあのシーン",
-          "url": "https://dengekionline.com/article/202610/92154",
-          "source": "電撃オンライン",
-          "publishedAt": "2026-10-27T01:20:00.000Z",
           "isPR": false
         }
       ]
@@ -886,15 +857,43 @@
           "isPR": false
         }
       ]
+    },
+    {
+      "id": "45a75c3e3c24",
+      "title": "馬車を射抜くクロスボウ！「片田舎のおっさん、剣聖になる」第43話3が無料公開",
+      "summary": "",
+      "url": "https://www.chiba-tv.com/plus/detail/2026102163067",
+      "image": "https://img.jp.ekkowassets.com/c_limit,w_360,f_auto,q_auto:eco/ch/images/1487646563617948735/origin_1.jpg",
+      "leadSource": "千葉テレビ放送株式会社",
+      "publishedAt": "2026-10-27T02:56:23.000Z",
+      "sourceCount": 2,
+      "articleCount": 2,
+      "categories": [
+        "anime"
+      ],
+      "keywords": [
+        "片田舎のおっさん",
+        "クロスボウ",
+        "馬車"
+      ],
+      "articles": [
+        {
+          "title": "【画像】馬車を射抜くクロスボウ！「片田舎のおっさん、剣聖になる」第43話3が無料公開 2/2",
+          "url": "https://news.livedoor.com/article/image_detail/32666420/?img_id",
+          "source": "ライブドアニュース",
+          "publishedAt": "2026-10-27T02:32:22.000Z",
+          "isPR": false
+        }
+      ]
     }
   ],
   "churn": {
-    "previousAt": "2026-10-28T22:00:19.666Z",
-    "previousCount": 92,
-    "newCount": 5
+    "previousAt": "2026-10-28T22:30:24.099Z",
+    "previousCount": 86,
+    "newCount": 2
   },
   "updateGapMin": 30,
-  "nextUpdateAt": "2026-10-28T23:00:24.099Z",
+  "nextUpdateAt": "2026-10-28T23:30:19.164Z",
   "items": [
     {
       "id": "760071b97af5",
@@ -905,6 +904,26 @@
       "summary": "",
       "publishedAt": "2026-10-28T18:01:55.000Z",
       "image": "https://static.sanyonews.jp/image/article/size1/3/7/2/b/372b847e7a2969e9061e2fb3aa820abd_1.jpg",
+      "categories": [
+        "anime"
+      ],
+      "works": [
+        "kusuriya"
+      ],
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": false
+    },
+    {
+      "id": "4767e9d90138",
+      "title": "『薬屋のひとりごと』阿多を訪ねた猫猫、手掛かりに気づく 第52話あらすじ＆場面カット公開",
+      "url": "https://www.sanyonews.jp/article/2009036?rct",
+      "host": "sanyonews.jp",
+      "source": "山陽新聞",
+      "summary": "",
+      "publishedAt": "2026-10-28T17:07:54.000Z",
+      "image": "https://static.sanyonews.jp/image/article/size1/8/b/3/d/8b3d5406dc5695c39a1607f0ee0ef946_1.jpg",
       "categories": [
         "anime"
       ],
@@ -935,24 +954,24 @@
       "isNew": false
     },
     {
-      "id": "4767e9d90138",
-      "title": "『薬屋のひとりごと』阿多を訪ねた猫猫、手掛かりに気づく 第52話あらすじ＆場面カット公開",
-      "url": "https://www.sanyonews.jp/article/2009036?rct",
+      "id": "18c442dd9a7f",
+      "title": "『転スラ』そのキャラ出るの！第4期の第2クールPV解禁 OPはDaoko、EDは田所あずさ",
+      "url": "https://www.sanyonews.jp/article/1940746?rct",
       "host": "sanyonews.jp",
       "source": "山陽新聞",
       "summary": "",
-      "publishedAt": "2026-10-28T15:41:02.000Z",
-      "image": "https://static.sanyonews.jp/image/article/size1/8/b/3/d/8b3d5406dc5695c39a1607f0ee0ef946_1.jpg",
+      "publishedAt": "2026-10-28T15:11:39.000Z",
+      "image": "https://static.sanyonews.jp/image/article/size1/2/b/6/7/2b67db9eed80b704cb517b99fda49c2c_1.jpg",
       "categories": [
         "anime"
       ],
       "works": [
-        "kusuriya"
+        "tensura"
       ],
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": false
+      "isNew": true
     },
     {
       "id": "7443b974b6b7",
@@ -1152,7 +1171,7 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "4509e6421730",
@@ -1332,26 +1351,6 @@
       "isNew": false
     },
     {
-      "id": "584c7d54d889",
-      "title": "『薬屋のひとりごと』第3期スタート！最新話に反響 消えた“友”を回想する猫猫に「泣ける」「胸がキュッとする」",
-      "url": "https://www.sanyonews.jp/article/1998830?rct",
-      "host": "sanyonews.jp",
-      "source": "山陽新聞",
-      "summary": "",
-      "publishedAt": "2026-10-28T03:23:31.000Z",
-      "image": "https://static.sanyonews.jp/image/article/size1/c/f/b/2/cfb271cb62c557124183ba34301ee1a3_1.jpg",
-      "categories": [
-        "anime"
-      ],
-      "works": [
-        "kusuriya"
-      ],
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": true
-    },
-    {
       "id": "7f6b6abb7808",
       "title": "『薬屋のひとりごと』第3期はどこで見れる？配信サービス（サブスク）の情報や無料で視聴できる方法を解説【2026年最新】",
       "url": "https://times.abema.tv/articles/-/10284472",
@@ -1389,7 +1388,7 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "b0b17db9a156",
@@ -1452,6 +1451,26 @@
       "isNew": false
     },
     {
+      "id": "61711d5b55d2",
+      "title": "劇場版『薬屋のひとりごと』新PV解禁 沢城みゆき＆見上愛が物語の鍵を握るキャラクター演じる",
+      "url": "https://www.sanyonews.jp/article/2004239",
+      "host": "sanyonews.jp",
+      "source": "山陽新聞",
+      "summary": "",
+      "publishedAt": "2026-10-28T00:48:34.000Z",
+      "image": "https://static.sanyonews.jp/image/article/size1/4/b/7/a/4b7a7de2f55238bced2fc953a7bd9269_1.jpg",
+      "categories": [
+        "anime"
+      ],
+      "works": [
+        "kusuriya"
+      ],
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": false
+    },
+    {
       "id": "0de9d62d7712",
       "title": "『無職転生』第3期、第1話＆第2話あらすじ＆場面カット公開 “第1期以来の登場”エリスが剣の聖地へ",
       "url": "https://www.sanyonews.jp/article/1947902?kw",
@@ -1489,7 +1508,7 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "56a7d19971f3",
@@ -1570,8 +1589,8 @@
     },
     {
       "id": "f60d9a504f4f",
-      "title": "過酷な世界でぬくぬく快適生活…累計170万部突破『異世界クラフトぐらし～自由気ままな生産職のほのぼのスローライフ～』がLINEマンガ＆ebookjapanにて無料公開 | 概要 | 漫画 | 最新ニュース",
-      "url": "https://futaman.futabanet.jp/articles/-/132642",
+      "title": "過酷な世界でぬくぬく快適生活…累計170万部突破『異世界クラフトぐらし～自由気ままな生産職のほのぼのスローライフ～』がLINEマンガ＆ebookjapanにて無料公開",
+      "url": "https://futaman.futabanet.jp/articles/-/132642?page",
       "host": "futaman.futabanet.jp",
       "source": "ふねぽ",
       "summary": "",
@@ -2084,44 +2103,22 @@
       "isNew": false
     },
     {
-      "id": "d815633c1f5a",
-      "title": "アニメ『薬屋のひとりごと』51話“麺麭がなければ”コメント最多シーンTOP3が発表。第1位は馬閃がタジタジになっていたあのシーン",
-      "url": "https://dengekionline.com/article/202610/92154",
-      "host": "dengekionline.com",
-      "source": "電撃オンライン",
+      "id": "22ffa863926e",
+      "title": "理不尽に職を失った“限界OL”が、悪役令嬢の従者に…異世界での再就職生活に「イキイキ働くのが最高」の声【漫画】",
+      "url": "https://thetv.jp/news/detail/1444102/landing/",
+      "host": "thetv.jp",
+      "source": "WEBザテレビジョン",
       "summary": "",
-      "publishedAt": "2026-10-27T01:20:00.000Z",
-      "image": "https://cimg.kgl-systems.io/camion/files/92154/ogp_XRbt.jpg?x=1280",
+      "publishedAt": "2026-10-27T00:23:47.000Z",
+      "image": "",
       "categories": [
-        "anime"
+        "comic"
       ],
-      "works": [
-        "kusuriya"
-      ],
+      "works": [],
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": false
-    },
-    {
-      "id": "61711d5b55d2",
-      "title": "劇場版『薬屋のひとりごと』新PV解禁 沢城みゆき＆見上愛が物語の鍵を握るキャラクター演じる",
-      "url": "https://www.sanyonews.jp/article/2004239?kw",
-      "host": "sanyonews.jp",
-      "source": "山陽新聞",
-      "summary": "",
-      "publishedAt": "2026-10-26T23:20:24.000Z",
-      "image": "https://static.sanyonews.jp/image/article/size1/4/b/7/a/4b7a7de2f55238bced2fc953a7bd9269_1.jpg",
-      "categories": [
-        "anime"
-      ],
-      "works": [
-        "kusuriya"
-      ],
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": false
+      "isNew": true
     },
     {
       "id": "933867dc1934",
@@ -2142,26 +2139,6 @@
       "viaGoogle": false,
       "sourceKind": "news",
       "isNew": false
-    },
-    {
-      "id": "e2983d083993",
-      "title": "「無職転生〜異世界行ったら本気だす〜クロニクル・オブ・エコーズ」のアプリ紹介とポイ活・攻略Wikiの情報（iOS/Android）",
-      "url": "https://gamerch.com/app_detail/10863",
-      "host": "gamerch.com",
-      "source": "Gamerch",
-      "summary": "",
-      "publishedAt": "2026-10-26T21:32:15.000Z",
-      "image": "https://cdn.gamerch.com/contents/game-db/10863/icon.png?1793050334",
-      "categories": [
-        "game"
-      ],
-      "works": [
-        "mushoku"
-      ],
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": true
     },
     {
       "id": "dfe65b2caad5",
@@ -2403,27 +2380,6 @@
       "isNew": false
     },
     {
-      "id": "b61f42e41884",
-      "title": "TVアニメ『転生したらスライムだった件』グッズ発売開始！",
-      "url": "https://news.nicovideo.jp/watch/nw19919327?news_ref",
-      "host": "news.nicovideo.jp",
-      "source": "ニコニコニュース",
-      "summary": "",
-      "publishedAt": "2026-10-26T08:00:26.000Z",
-      "image": "",
-      "categories": [
-        "anime",
-        "goods"
-      ],
-      "works": [
-        "tensura"
-      ],
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": false
-    },
-    {
       "id": "96fad3256530",
       "title": "『リゼロ4期』レイド・アストレアとは？なぜロイの体に？初代剣聖の強さ・正体を解説【4期奪還編まで・原作ネタバレなし】",
       "url": "https://aniradarjp.com/rezero-reid-astrea-strength/",
@@ -2503,6 +2459,27 @@
       "isNew": false
     },
     {
+      "id": "b61f42e41884",
+      "title": "TVアニメ『転生したらスライムだった件』グッズ発売開始！",
+      "url": "https://prtimes.jp/main/html/rd/p/000000082.000180393.html",
+      "host": "prtimes.jp",
+      "source": "PR TIMES",
+      "summary": "",
+      "publishedAt": "2026-10-26T03:02:24.000Z",
+      "image": "https://prcdn.freetls.fastly.net/release_image/180393/82/180393-82-093a3ff3cdde8dd66f0e334d2edc5d7c-3900x2217.jpg?format=jpeg&auto=webp&fit=bounds&width=2400&height=1260",
+      "categories": [
+        "anime",
+        "goods"
+      ],
+      "works": [
+        "tensura"
+      ],
+      "isPR": true,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": false
+    },
+    {
       "id": "f9ca5a6c9075",
       "title": "『世界最高の暗殺者、異世界貴族に転生する』第2期、来年1月放送 PV解禁で新キャラ役は上坂すみれ・外崎友亮",
       "url": "https://www.sanyonews.jp/article/1983625",
@@ -2564,13 +2541,13 @@
     },
     {
       "id": "ce4beb40fddc",
-      "title": "関連書籍シリーズ累計6,200万部＆アニメ累計視聴数30億回突破の超人気転生エンターテインメント『転生したらスライムだった件 第4期』Blu-ray＆DVD 第1巻 10月28日発売",
-      "url": "https://www.iza.ne.jp/pressrelease/prtimes/TACX6WOGMVMZ5JTMCYQMU26JWA/",
-      "host": "iza.ne.jp",
-      "source": "イザ！",
+      "title": "関連書籍シリーズ累計6,200万部＆アニメ累計視聴数30億回突破の超人気転生エンターテインメント『転生したらスライムだった件 第4期』Blu-ray＆DVD 第1巻 10月28日発売｜Infoseekニュース",
+      "url": "https://news.infoseek.co.jp/article/prtimes_000000717_000029654/",
+      "host": "news.infoseek.co.jp",
+      "source": "Infoseek",
       "summary": "",
       "publishedAt": "2026-10-26T02:00:00.000Z",
-      "image": "https://www.iza.ne.jp/common/images/ogp_default_iza.png",
+      "image": "https://media.image.infoseek.co.jp/isnews/pc/img/noimage_203x120_busi-econ-1.0.png",
       "categories": [
         "anime",
         "book"
