@@ -1,33 +1,33 @@
 {
-  "updatedAt": "2026-10-29T12:30:20.220Z",
+  "updatedAt": "2026-10-29T13:00:26.082Z",
   "site": {
     "title": "なろう系まとめ",
     "tagline": "小説家になろう発の作品のアニメ化・コミカライズ・書籍化のニュースと、なろうのランキングをまとめています。",
     "url": "https://naroumatome.gamelab.website/",
     "contactUrl": "https://docs.google.com/forms/d/e/1FAIpQLSesWyhmZ6sRS_ve-c3X2KqF_wC5PK2TgwgQbTKmnQltSlg5Jw/viewform"
   },
-  "total": 88,
-  "todayCount": 36,
+  "total": 92,
+  "todayCount": 38,
   "categories": [
     {
       "id": "anime",
       "label": "アニメ",
-      "count": 47
+      "count": 48
     },
     {
       "id": "comic",
       "label": "コミカライズ",
-      "count": 13
+      "count": 12
     },
     {
       "id": "book",
       "label": "書籍・ラノベ",
-      "count": 7
+      "count": 8
     },
     {
       "id": "web",
       "label": "Web小説・賞",
-      "count": 13
+      "count": 12
     },
     {
       "id": "game",
@@ -37,12 +37,12 @@
     {
       "id": "goods",
       "label": "グッズ・イベント",
-      "count": 5
+      "count": 6
     },
     {
       "id": "other",
       "label": "そのほか",
-      "count": 16
+      "count": 19
     }
   ],
   "works": [
@@ -50,19 +50,19 @@
       "id": "tensura",
       "title": "転生したらスライムだった件",
       "short": "転スラ",
-      "count": 6
+      "count": 7
     },
     {
       "id": "mushoku",
       "title": "無職転生 ～異世界行ったら本気だす～",
       "short": "無職転生",
-      "count": 16
+      "count": 17
     },
     {
       "id": "rezero",
       "title": "Re:ゼロから始める異世界生活",
       "short": "リゼロ",
-      "count": 4
+      "count": 5
     },
     {
       "id": "honzuki",
@@ -74,13 +74,13 @@
       "id": "kusuriya",
       "title": "薬屋のひとりごと",
       "short": "薬屋",
-      "count": 25
+      "count": 26
     },
     {
       "id": "kagejitsu",
       "title": "陰の実力者になりたくて！",
       "short": "陰の実力者",
-      "count": 3
+      "count": 4
     },
     {
       "id": "tate",
@@ -300,7 +300,7 @@
     },
     {
       "name": "山陽新聞",
-      "count": 6
+      "count": 8
     },
     {
       "name": "ラノベニュースオンライン",
@@ -308,26 +308,14 @@
     },
     {
       "name": "ナタリー",
-      "count": 4
+      "count": 5
     },
     {
       "name": "千葉テレビ放送株式会社",
       "count": 4
     },
     {
-      "name": "WEBザテレビジョン",
-      "count": 3
-    },
-    {
       "name": "アニメ！アニメ！",
-      "count": 3
-    },
-    {
-      "name": "ABEMA",
-      "count": 3
-    },
-    {
-      "name": "Infoseek",
       "count": 3
     },
     {
@@ -339,11 +327,19 @@
       "count": 3
     },
     {
+      "name": "Infoseek",
+      "count": 3
+    },
+    {
       "name": "AppMedia",
       "count": 2
     },
     {
       "name": "ｄメニューニュース",
+      "count": 2
+    },
+    {
+      "name": "WEBザテレビジョン",
       "count": 2
     },
     {
@@ -363,11 +359,15 @@
       "count": 2
     },
     {
-      "name": "ニコニコニュース",
+      "name": "ABEMA",
       "count": 2
     },
     {
-      "name": "アニメハック",
+      "name": "オタク総研",
+      "count": 2
+    },
+    {
+      "name": "ニコニコニュース",
       "count": 2
     },
     {
@@ -383,7 +383,7 @@
       "count": 2
     },
     {
-      "name": "ABEMA TIMES",
+      "name": "Gamer",
       "count": 1
     },
     {
@@ -411,6 +411,10 @@
       "count": 1
     },
     {
+      "name": "4Gamer.net",
+      "count": 1
+    },
+    {
       "name": "TVer",
       "count": 1
     },
@@ -427,15 +431,19 @@
       "count": 1
     },
     {
-      "name": "オタク総研",
-      "count": 1
-    },
-    {
       "name": "ふねぽ",
       "count": 1
     },
     {
       "name": "Appliv Games",
+      "count": 1
+    },
+    {
+      "name": "アニメハック",
+      "count": 1
+    },
+    {
+      "name": "Foro3D",
       "count": 1
     },
     {
@@ -453,6 +461,10 @@
     {
       "name": "Gamerch",
       "count": 1
+    },
+    {
+      "name": "Mantan Web",
+      "count": 1
     }
   ],
   "topics": [
@@ -464,15 +476,15 @@
       "image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20261029-00000058-mantan-000-1-view.jpg?exp=10800",
       "leadSource": "Yahoo!ニュース",
       "publishedAt": "2026-10-29T10:22:00.000Z",
-      "sourceCount": 9,
-      "articleCount": 14,
+      "sourceCount": 10,
+      "articleCount": 17,
       "categories": [
         "anime"
       ],
       "keywords": [
         "カット",
         "薬屋",
-        "先行"
+        "猫猫"
       ],
       "articles": [
         {
@@ -540,7 +552,7 @@
       "url": "https://animeanime.jp/article/2026/10/29/104314.html",
       "image": "https://animeanime.jp/imgs/rss/949191.jpg",
       "leadSource": "アニメ！アニメ！",
-      "publishedAt": "2026-10-29T11:45:00.000Z",
+      "publishedAt": "2026-10-29T11:45:32.000Z",
       "sourceCount": 7,
       "articleCount": 8,
       "categories": [
@@ -554,10 +566,10 @@
       ],
       "articles": [
         {
-          "title": "「可愛いの集合体すぎる」恒例の『薬屋のひとりごと』ハロウィン企画、“魔法使い”になった猫猫＆趙迂から開幕",
-          "url": "https://times.abema.tv/articles/-/10285014",
-          "source": "ABEMA TIMES",
-          "publishedAt": "2026-10-29T11:45:00.000Z",
+          "title": "「可愛いの集合体すぎる」恒例の『薬屋のひとりごと』ハロウィン企画、“魔法使い”になった猫猫＆趙迂から開幕（ABEMA TIMES）",
+          "url": "https://news.yahoo.co.jp/articles/217eb47f32cd45fa62f0b47e6174221588736a50",
+          "source": "Yahoo!ニュース",
+          "publishedAt": "2026-10-29T11:45:32.000Z",
           "isPR": false
         },
         {
@@ -589,10 +601,10 @@
           "isPR": false
         },
         {
-          "title": "「薬屋のひとりごと」ハロウィンビジュアル公開、猫猫と趙迂が魔法使い姿に（コミックナタリー）",
-          "url": "https://news.yahoo.co.jp/articles/f3dff74d8cd472e32e597a570aae8d3a0f57fb52",
-          "source": "Yahoo!ニュース",
-          "publishedAt": "2026-10-29T09:00:48.000Z",
+          "title": "「薬屋のひとりごと」ハロウィンビジュアル公開、猫猫と趙迂が魔法使い姿に（動画あり）",
+          "url": "https://natalie.mu/comic/news/695838",
+          "source": "ナタリー",
+          "publishedAt": "2026-10-29T09:00:00.000Z",
           "isPR": false
         },
         {
@@ -719,6 +731,34 @@
       ]
     },
     {
+      "id": "c5e2010cdeb3",
+      "title": "「陰の実力者になりたくて！マスターオブガーデン」外典「散りゆく陰への鎮魂歌」の最終章が開幕！",
+      "summary": "",
+      "url": "https://www.gamer.ne.jp/news/202610290051/",
+      "image": "https://img.gamewith.jp/article/thumbnail/gamearticle/8388/rectangle/65082.png?t=1793262249",
+      "leadSource": "Gamer",
+      "publishedAt": "2026-10-29T11:28:00.000Z",
+      "sourceCount": 2,
+      "articleCount": 2,
+      "categories": [
+        "other"
+      ],
+      "keywords": [
+        "陰の実力者",
+        "マスターオブガーデン",
+        "実力者"
+      ],
+      "articles": [
+        {
+          "title": "『陰の実力者になりたくて！マスターオブガーデン』最終章「散りゆく陰への鎮魂歌Ⅷ」開幕！",
+          "url": "https://gamewith.jp/gamedb/8388/articles/65082",
+          "source": "GameWith",
+          "publishedAt": "2026-10-29T08:24:02.000Z",
+          "isPR": false
+        }
+      ]
+    },
+    {
       "id": "dfff277eb8d5",
       "title": "『無職転生 〜異世界行ったら本気だす〜 クロニクル・オブ・エコーズ』シナリオイベント「自由恋愛は罪となるのか」開催！",
       "summary": "",
@@ -836,7 +876,7 @@
       "id": "fb1a69ab0dd3",
       "title": "【SNSで話題沸騰】コミカライズ160万部突破の超人気シリーズに急展開！ 『〈完全版〉ＪＫハルは異世界で娼婦になった",
       "summary": "",
-      "url": "https://news.nicovideo.jp/watch/nw19928904?from",
+      "url": "https://news.nicovideo.jp/watch/nw19928904?news_ref",
       "image": "https://news.dellows.jp/wp-content/uploads/2026/10/922021_1.jpg",
       "leadSource": "ニコニコニュース",
       "publishedAt": "2026-10-28T08:51:18.000Z",
@@ -889,80 +929,52 @@
       ]
     },
     {
-      "id": "815bf15f6ea4",
-      "title": "2026夏アニメ←「完走した」“覇権”といえば？ 4位『無職転生』3位『ジャードゥーガル』2位、1位はまさかの「共通点」が！",
+      "id": "95e48e0d8847",
+      "title": "TOブックスの本好きの下剋上シリーズ、累計1500万部を突破",
       "summary": "",
-      "url": "https://news.yahoo.co.jp/articles/925db28c02e83046a58f3fb73a9e34fc23308148/images/000",
-      "image": "https://news-pctr.c.yimg.jp/uUzvQ3lML_bkIqyakc1vFhNrRI0RUQxg5aFkrX0xDg1_T0wXrbEJjtNGtrf1o9y3xudcUclfbXjZqAvGT8NJnTB2-m6dy5uYggV0H0VbY-yZmIFZksUuLp5aA6r0OxX7JmtCKnpWaoZzEXKYQfHdcrKOFNCMTEWxwQYTPahhCiq9L3ZqqQpV9kgghtkk1GlO2pMLAQLrKigFeKDSuAfxIQ==",
-      "leadSource": "Yahoo!ニュース",
-      "publishedAt": "2026-10-27T03:10:00.000Z",
+      "url": "https://news.dellows.jp/811161/?from",
+      "image": "https://news.dellows.jp/wp-content/uploads/2026/10/811161_1.jpg",
+      "leadSource": "Dellows News",
+      "publishedAt": "2026-10-27T13:48:32.000Z",
       "sourceCount": 2,
       "articleCount": 2,
       "categories": [
-        "anime",
-        "web"
-      ],
-      "keywords": [
-        "無職転生",
-        "ジャードゥーガル",
-        "完走"
-      ],
-      "articles": [
-        {
-          "title": "最後まで「完走した」2026夏アニメランキング発表！ 4位『無職転生』3位『ジャードゥーガル』1位と2位は“驚きの共通点”も",
-          "url": "https://magmix.jp/post/382512/2",
-          "source": "マグミクス",
-          "publishedAt": "2026-10-27T03:10:00.000Z",
-          "isPR": false
-        }
-      ]
-    },
-    {
-      "id": "45a75c3e3c24",
-      "title": "馬車を射抜くクロスボウ！「片田舎のおっさん、剣聖になる」第43話3が無料公開",
-      "summary": "",
-      "url": "https://www.chiba-tv.com/plus/detail/2026102163067",
-      "image": "https://img.jp.ekkowassets.com/c_limit,w_360,f_auto,q_auto:eco/ch/images/1487646563617948735/origin_1.jpg",
-      "leadSource": "千葉テレビ放送株式会社",
-      "publishedAt": "2026-10-27T02:56:23.000Z",
-      "sourceCount": 2,
-      "articleCount": 2,
-      "categories": [
+        "book",
         "anime"
       ],
       "keywords": [
-        "片田舎のおっさん",
-        "クロスボウ",
-        "馬車"
+        "シリーズ",
+        "累計",
+        "万部"
       ],
       "articles": [
         {
-          "title": "【画像】馬車を射抜くクロスボウ！「片田舎のおっさん、剣聖になる」第43話3が無料公開 2/2",
-          "url": "https://news.livedoor.com/article/image_detail/32666420/?img_id",
-          "source": "ライブドアニュース",
-          "publishedAt": "2026-10-27T02:32:22.000Z",
+          "title": "関連書籍シリーズ累計6,200万部＆アニメ累計視聴数30億回突破の超人気転生エンターテインメント『転生したらスライムだった件 第4期』Blu-ray＆DVD 第1巻 10月28日発売",
+          "url": "https://mantan-web.jp/prtimes/article/20261026prt00m200000418a.html",
+          "source": "Mantan Web",
+          "publishedAt": "2026-10-26T15:17:38.000Z",
           "isPR": false
         }
       ]
     }
   ],
   "churn": {
-    "previousAt": "2026-10-29T12:00:22.976Z",
-    "previousCount": 96,
-    "newCount": 4
+    "previousAt": "2026-10-29T12:30:20.220Z",
+    "previousCount": 88,
+    "newCount": 7
   },
   "updateGapMin": 30,
-  "nextUpdateAt": "2026-10-29T13:00:20.220Z",
+  "nextUpdateAt": "2026-10-29T13:30:26.082Z",
   "items": [
     {
       "id": "4cd49e6fff5e",
-      "title": "「可愛いの集合体すぎる」恒例の『薬屋のひとりごと』ハロウィン企画、“魔法使い”になった猫猫＆趙迂から開幕",
-      "url": "https://times.abema.tv/articles/-/10285014",
-      "host": "times.abema.tv",
-      "source": "ABEMA TIMES",
+      "title": "「可愛いの集合体すぎる」恒例の『薬屋のひとりごと』ハロウィン企画、“魔法使い”になった猫猫＆趙迂から開幕（ABEMA TIMES）",
+      "url": "https://news.yahoo.co.jp/articles/217eb47f32cd45fa62f0b47e6174221588736a50",
+      "host": "news.yahoo.co.jp",
+      "source": "Yahoo!ニュース",
       "summary": "",
-      "publishedAt": "2026-10-29T11:45:00.000Z",
-      "image": "https://times-abema.ismcdn.jp/mwimgs/9/2/1200w/img_929a44df643446c792c546d5ec1332a34020308.jpg",
+      "publishedAt": "2026-10-29T11:45:32.000Z",
+      "image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20261029-10285014-abemad-000-1-view.jpg?exp=10800",
       "categories": [
         "other"
       ],
@@ -973,6 +985,26 @@
       "viaGoogle": false,
       "sourceKind": "news",
       "isNew": false
+    },
+    {
+      "id": "c5e2010cdeb3",
+      "title": "「陰の実力者になりたくて！マスターオブガーデン」外典「散りゆく陰への鎮魂歌」の最終章が開幕！",
+      "url": "https://www.gamer.ne.jp/news/202610290051/",
+      "host": "gamer.ne.jp",
+      "source": "Gamer",
+      "summary": "",
+      "publishedAt": "2026-10-29T11:28:00.000Z",
+      "image": "",
+      "categories": [
+        "other"
+      ],
+      "works": [
+        "kagejitsu"
+      ],
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": true
     },
     {
       "id": "0f37b66f127f",
@@ -1276,26 +1308,6 @@
       "isNew": false
     },
     {
-      "id": "606f4a15ffea",
-      "title": "「薬屋のひとりごと」ハロウィンビジュアル公開、猫猫と趙迂が魔法使い姿に（コミックナタリー）",
-      "url": "https://news.yahoo.co.jp/articles/f3dff74d8cd472e32e597a570aae8d3a0f57fb52",
-      "host": "news.yahoo.co.jp",
-      "source": "Yahoo!ニュース",
-      "summary": "",
-      "publishedAt": "2026-10-29T09:00:48.000Z",
-      "image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20261029-00000105-nataliec-000-1-view.jpg?exp=10800",
-      "categories": [
-        "comic"
-      ],
-      "works": [
-        "kusuriya"
-      ],
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": false
-    },
-    {
       "id": "24df11ca85cc",
       "title": "猫猫は仙術を⽬の当たりにする…アニメ『薬屋のひとりごと』第53話あらすじ・先行カット公開（ABEMA TIMES）",
       "url": "https://news.yahoo.co.jp/articles/4aa8de5b818a6510d8212d2e9417108d284d8bad",
@@ -1366,6 +1378,26 @@
       "image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20261029-00068105-animage-000-2-view.jpg?exp=10800",
       "categories": [
         "anime"
+      ],
+      "works": [
+        "kusuriya"
+      ],
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": false
+    },
+    {
+      "id": "606f4a15ffea",
+      "title": "「薬屋のひとりごと」ハロウィンビジュアル公開、猫猫と趙迂が魔法使い姿に（動画あり）",
+      "url": "https://natalie.mu/comic/news/695838",
+      "host": "natalie.mu",
+      "source": "ナタリー",
+      "summary": "",
+      "publishedAt": "2026-10-29T09:00:00.000Z",
+      "image": "",
+      "categories": [
+        "other"
       ],
       "works": [
         "kusuriya"
@@ -1456,44 +1488,6 @@
       "isNew": false
     },
     {
-      "id": "048856b88e3c",
-      "title": "異世界・ファンタジーアニメ4チャンネル | 無料で放送中の番組や配信中の話題作が見放題",
-      "url": "https://abema.tv/now-on-air/isekai-anime-4",
-      "host": "abema.tv",
-      "source": "ABEMA",
-      "summary": "",
-      "publishedAt": "2026-10-29T04:32:43.000Z",
-      "image": "",
-      "categories": [
-        "anime"
-      ],
-      "works": [],
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": false
-    },
-    {
-      "id": "d9931edfee03",
-      "title": "劇場版 薬屋のひとりごと 亡妃の秘宝＞第3弾PV公開＆壬氏一行を狙う水賊・化蛇団メンバーに小野賢章ら決定",
-      "url": "https://thetv.jp/news/detail/1448116/landing/?utm_source",
-      "host": "thetv.jp",
-      "source": "WEBザテレビジョン",
-      "summary": "",
-      "publishedAt": "2026-10-29T04:14:39.000Z",
-      "image": "",
-      "categories": [
-        "anime"
-      ],
-      "works": [
-        "kusuriya"
-      ],
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": true
-    },
-    {
       "id": "dfff277eb8d5",
       "title": "『無職転生 〜異世界行ったら本気だす〜 クロニクル・オブ・エコーズ』シナリオイベント「自由恋愛は罪となるのか」開催！",
       "url": "https://gamewith.jp/gamedb/15536/articles/65063",
@@ -1570,6 +1564,26 @@
       "isNew": false
     },
     {
+      "id": "4767e9d90138",
+      "title": "『薬屋のひとりごと』阿多を訪ねた猫猫、手掛かりに気づく 第52話あらすじ＆場面カット公開",
+      "url": "https://www.sanyonews.jp/article/2009036?kw",
+      "host": "sanyonews.jp",
+      "source": "山陽新聞",
+      "summary": "",
+      "publishedAt": "2026-10-29T01:47:48.000Z",
+      "image": "https://static.sanyonews.jp/image/article/size1/8/b/3/d/8b3d5406dc5695c39a1607f0ee0ef946_1.jpg",
+      "categories": [
+        "anime"
+      ],
+      "works": [
+        "kusuriya"
+      ],
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": true
+    },
+    {
       "id": "b3e02c952275",
       "title": "極悪非道と恐れられる令嬢が断罪エンドを回避すべく奮闘する「闇の悪役令嬢は愛されすぎる」",
       "url": "https://natalie.mu/comic/news/695678",
@@ -1626,6 +1640,46 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
+      "isNew": false
+    },
+    {
+      "id": "4358c0f4e542",
+      "title": "そうだ アニメ，見よう：第271回は待望のTVアニメ第3期「薬屋のひとりごと」。蝗害と白娘々，数々の新たな難題が猫猫の前に立ちふさがる",
+      "url": "https://www.4gamer.net/games/338/G033856/20261027035/",
+      "host": "4gamer.net",
+      "source": "4Gamer.net",
+      "summary": "",
+      "publishedAt": "2026-10-28T23:00:00.000Z",
+      "image": "https://www.4gamer.net/games/338/G033856/20261027035/SS/006.jpg",
+      "categories": [
+        "anime"
+      ],
+      "works": [
+        "kusuriya"
+      ],
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": true
+    },
+    {
+      "id": "46c454fd4b32",
+      "title": "『薬屋のひとりごと』猫猫、物乞いへの“贅沢すぎる施し”に違和感 第51話あらすじ＆場面カット公開",
+      "url": "https://www.sanyonews.jp/article/2005343",
+      "host": "sanyonews.jp",
+      "source": "山陽新聞",
+      "summary": "",
+      "publishedAt": "2026-10-28T22:13:05.000Z",
+      "image": "https://static.sanyonews.jp/image/article/size1/0/2/b/2/02b26e8d4ce18b9a11a95164fff3f2c2_1.jpg",
+      "categories": [
+        "anime"
+      ],
+      "works": [
+        "kusuriya"
+      ],
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
       "isNew": true
     },
     {
@@ -1644,7 +1698,7 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "18c442dd9a7f",
@@ -1664,7 +1718,7 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "58a272a9d430",
@@ -1689,12 +1743,12 @@
     {
       "id": "28ccb202d820",
       "title": "秋アニメは『薬屋』が4週連続トップも…順位を上げた“令嬢・転生モノ”の注目作とは【ABEMA週間ランキング】",
-      "url": "https://news.infoseek.co.jp/article/otakulab_211815/",
-      "host": "news.infoseek.co.jp",
-      "source": "Infoseek",
+      "url": "https://0115765.com/archives/211815",
+      "host": "0115765.com",
+      "source": "オタク総研",
       "summary": "",
       "publishedAt": "2026-10-28T11:47:02.000Z",
-      "image": "https://media.image.infoseek.co.jp/isnews/photos/otakulab/otakulab_211815_0-enlarge.jpg",
+      "image": "https://0115765.com/wp-content/uploads/2026/10/20261028-ckm5wgjx-1024x576.jpg",
       "categories": [
         "anime",
         "web"
@@ -1762,27 +1816,6 @@
       "isNew": false
     },
     {
-      "id": "d3f2bac2cb5e",
-      "title": "【今期TVアニメランキング】「薬屋のひとりごと」首位独走 「魔法騎士レイアース」が5位に急浮上 : ニュース",
-      "url": "https://anime.eiga.com/news/column/konki_ranking/127741/",
-      "host": "anime.eiga.com",
-      "source": "アニメハック",
-      "summary": "",
-      "publishedAt": "2026-10-28T10:00:00.000Z",
-      "image": "https://media.eiga.com/images/anime/news/127741/photo/7b2b2e58fff57805/640.jpg",
-      "categories": [
-        "anime",
-        "web"
-      ],
-      "works": [
-        "kusuriya"
-      ],
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": false
-    },
-    {
       "id": "4509e6421730",
       "title": "転スラ つながリングチャーム リムルさまいっぱい 2027年3月発売!",
       "url": "https://collabo-cafe.com/events/collabo/tensura-capsule-toy-takaratomy-arts-tsunagaring-charm-2027/",
@@ -1805,7 +1838,7 @@
     {
       "id": "fb1a69ab0dd3",
       "title": "【SNSで話題沸騰】コミカライズ160万部突破の超人気シリーズに急展開！ 『〈完全版〉ＪＫハルは異世界で娼婦になった",
-      "url": "https://news.nicovideo.jp/watch/nw19928904?from",
+      "url": "https://news.nicovideo.jp/watch/nw19928904?news_ref",
       "host": "news.nicovideo.jp",
       "source": "ニコニコニュース",
       "summary": "",
@@ -2016,6 +2049,26 @@
       "viaGoogle": false,
       "sourceKind": "news",
       "isNew": false
+    },
+    {
+      "id": "56a7d19971f3",
+      "title": "「水門都市プリステラ」で遊べちゃう？ 『Re:ゼロから始める異世界生活』×ラグナシアコラボイベント【11／7～1／11】",
+      "url": "https://news.infoseek.co.jp/article/jtownnet_367390/",
+      "host": "news.infoseek.co.jp",
+      "source": "Infoseek",
+      "summary": "",
+      "publishedAt": "2026-10-27T23:00:00.000Z",
+      "image": "https://media.image.infoseek.co.jp/isnews/photos/jtownnet/jtownnet_367390_0-enlarge.jpg",
+      "categories": [
+        "goods"
+      ],
+      "works": [
+        "rezero"
+      ],
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": true
     },
     {
       "id": "7caa985f1af2",
@@ -2373,6 +2426,26 @@
       "isNew": false
     },
     {
+      "id": "581e1987726f",
+      "title": "COSPA、エリス・ロキシー・シルフィエットの無職転生Tシャツを発売",
+      "url": "https://foro3d.com/ja/2026/octubre/cospa-lanza-camisetas-de-mushoku-tensei-con-eris-roxy-y-sylphiette.html",
+      "host": "foro3d.com",
+      "source": "Foro3D",
+      "summary": "",
+      "publishedAt": "2026-10-27T07:00:00.000Z",
+      "image": "https://foro3d.com/2026/octubre/imagenes/cospa-lanza-camisetas-de-mushoku-tensei-con-eris-roxy-y-sylphiette.webp",
+      "categories": [
+        "other"
+      ],
+      "works": [
+        "mushoku"
+      ],
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": true
+    },
+    {
       "id": "dc039f1ecc0f",
       "title": "【アニメ異世界】自家製ポーションで巨大な黒オオカミを救った――この出会いが私の冒険全体を変えることになるとは、その時は知る由もなかった！【マンガ動画】 Toronto (NDlG1OSghz)",
       "url": "https://media.unisba.ac.id/31d355f6/d1f68923XJOKHGfuGgE",
@@ -2644,6 +2717,27 @@
       "viaGoogle": false,
       "sourceKind": "news",
       "isNew": false
+    },
+    {
+      "id": "ce4beb40fddc",
+      "title": "関連書籍シリーズ累計6,200万部＆アニメ累計視聴数30億回突破の超人気転生エンターテインメント『転生したらスライムだった件 第4期』Blu-ray＆DVD 第1巻 10月28日発売",
+      "url": "https://mantan-web.jp/prtimes/article/20261026prt00m200000418a.html",
+      "host": "mantan-web.jp",
+      "source": "Mantan Web",
+      "summary": "",
+      "publishedAt": "2026-10-26T15:17:38.000Z",
+      "image": "https://prtimes.jp/img/29654/717/resize/d29654-717-33cc0f94f849201de870-0.jpg",
+      "categories": [
+        "anime",
+        "book"
+      ],
+      "works": [
+        "tensura"
+      ],
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": true
     },
     {
       "id": "daea2b931feb",
