@@ -1,18 +1,18 @@
 {
-  "updatedAt": "2026-10-29T20:30:20.514Z",
+  "updatedAt": "2026-10-29T21:00:18.948Z",
   "site": {
     "title": "なろう系まとめ",
     "tagline": "小説家になろう発の作品のアニメ化・コミカライズ・書籍化のニュースと、なろうのランキングをまとめています。",
     "url": "https://naroumatome.gamelab.website/",
     "contactUrl": "https://docs.google.com/forms/d/e/1FAIpQLSesWyhmZ6sRS_ve-c3X2KqF_wC5PK2TgwgQbTKmnQltSlg5Jw/viewform"
   },
-  "total": 88,
+  "total": 90,
   "todayCount": 5,
   "categories": [
     {
       "id": "anime",
       "label": "アニメ",
-      "count": 47
+      "count": 48
     },
     {
       "id": "comic",
@@ -22,12 +22,12 @@
     {
       "id": "book",
       "label": "書籍・ラノベ",
-      "count": 8
+      "count": 7
     },
     {
       "id": "web",
       "label": "Web小説・賞",
-      "count": 13
+      "count": 14
     },
     {
       "id": "game",
@@ -42,7 +42,7 @@
     {
       "id": "other",
       "label": "そのほか",
-      "count": 17
+      "count": 18
     }
   ],
   "works": [
@@ -74,7 +74,7 @@
       "id": "kusuriya",
       "title": "薬屋のひとりごと",
       "short": "薬屋",
-      "count": 30
+      "count": 31
     },
     {
       "id": "kagejitsu",
@@ -303,20 +303,16 @@
       "count": 6
     },
     {
+      "name": "ナタリー",
+      "count": 6
+    },
+    {
       "name": "ラノベニュースオンライン",
       "count": 6
     },
     {
-      "name": "ナタリー",
-      "count": 5
-    },
-    {
-      "name": "アニメ！アニメ！",
-      "count": 5
-    },
-    {
       "name": "Infoseek",
-      "count": 4
+      "count": 5
     },
     {
       "name": "Unisba Media",
@@ -328,6 +324,10 @@
     },
     {
       "name": "ｄメニューニュース",
+      "count": 3
+    },
+    {
+      "name": "アニメ！アニメ！",
       "count": 3
     },
     {
@@ -347,11 +347,19 @@
       "count": 2
     },
     {
+      "name": "アニメハック",
+      "count": 2
+    },
+    {
       "name": "WEBザテレビジョン",
       "count": 2
     },
     {
       "name": "マイナビニュース",
+      "count": 2
+    },
+    {
+      "name": "ABEMA",
       "count": 2
     },
     {
@@ -368,10 +376,6 @@
     },
     {
       "name": "Gamer",
-      "count": 1
-    },
-    {
-      "name": "アニメハック",
       "count": 1
     },
     {
@@ -400,10 +404,6 @@
     },
     {
       "name": "音楽業界総合情報サイト",
-      "count": 1
-    },
-    {
-      "name": "ABEMA",
       "count": 1
     },
     {
@@ -585,8 +585,8 @@
         },
         {
           "title": "2026年、新作夏アニメのABEMA最終ランキングを発表！『無職転生III』が再生数・コメント数の両部門で堂々1位を獲得！『Re:ゼロから始める異世界生活』4th seasonも両部門で2位にランクイン",
-          "url": "https://animeanime.jp/release/prtimes/20261027/322681.html",
-          "source": "アニメ！アニメ！",
+          "url": "https://news.infoseek.co.jp/article/prtimes_000004165_000064643/",
+          "source": "Infoseek",
           "publishedAt": "2026-10-27T08:01:11.000Z",
           "isPR": false
         },
@@ -900,12 +900,12 @@
     }
   ],
   "churn": {
-    "previousAt": "2026-10-29T20:00:20.893Z",
-    "previousCount": 89,
-    "newCount": 4
+    "previousAt": "2026-10-29T20:30:20.514Z",
+    "previousCount": 88,
+    "newCount": 3
   },
   "updateGapMin": 30,
-  "nextUpdateAt": "2026-10-29T21:00:20.514Z",
+  "nextUpdateAt": "2026-10-29T21:30:18.948Z",
   "items": [
     {
       "id": "0f37b66f127f",
@@ -1657,7 +1657,7 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "5e6dcbcb91f4",
@@ -1678,6 +1678,24 @@
       "viaGoogle": false,
       "sourceKind": "news",
       "isNew": false
+    },
+    {
+      "id": "95b982f9f146",
+      "title": "異世界でもふもふなでなでするためにがんばってます。 #1〜12【無料1週間】",
+      "url": "https://abema.tv/channels/isekai-anime-3/slots/AQzVuAzJF5kBEo",
+      "host": "abema.tv",
+      "source": "ABEMA",
+      "summary": "",
+      "publishedAt": "2026-10-28T16:11:19.000Z",
+      "image": "",
+      "categories": [
+        "other"
+      ],
+      "works": [],
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": true
     },
     {
       "id": "18c442dd9a7f",
@@ -1795,6 +1813,27 @@
       "viaGoogle": false,
       "sourceKind": "news",
       "isNew": false
+    },
+    {
+      "id": "d3f2bac2cb5e",
+      "title": "【今期TVアニメランキング】「薬屋のひとりごと」首位独走 「魔法騎士レイアース」が5位に急浮上 : ニュース",
+      "url": "https://anime.eiga.com/news/column/konki_ranking/127741/",
+      "host": "anime.eiga.com",
+      "source": "アニメハック",
+      "summary": "",
+      "publishedAt": "2026-10-28T10:00:00.000Z",
+      "image": "https://media.eiga.com/images/anime/news/127741/photo/7b2b2e58fff57805/640.jpg",
+      "categories": [
+        "anime",
+        "web"
+      ],
+      "works": [
+        "kusuriya"
+      ],
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": true
     },
     {
       "id": "9605c1ffd649",
@@ -1972,25 +2011,6 @@
       "viaGoogle": false,
       "sourceKind": "news",
       "isNew": false
-    },
-    {
-      "id": "8b27da9daab0",
-      "title": "元社畜による異世界ゆるふわファンタジー『異世界で 上前はねて 生きていく～再生魔法使いのゆるふわ人材派遣生活～』堂々完結！ コミックス5巻分を一挙無料公開！",
-      "url": "https://animeanime.jp/release/prtimes/20261028/322878.html",
-      "host": "animeanime.jp",
-      "source": "アニメ！アニメ！",
-      "summary": "",
-      "publishedAt": "2026-10-28T02:00:31.000Z",
-      "image": "https://animeanime.jp/release/imgs/list/567684.jpg",
-      "categories": [
-        "comic",
-        "book"
-      ],
-      "works": [],
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": true
     },
     {
       "id": "fb1a69ab0dd3",
@@ -2249,6 +2269,24 @@
       "isNew": false
     },
     {
+      "id": "88bfc9692c98",
+      "title": "“異能殺し”の青年を描く「異世界傭兵シバの英雄譚」アライブ新連載",
+      "url": "https://natalie.mu/comic/news/695275",
+      "host": "natalie.mu",
+      "source": "ナタリー",
+      "summary": "",
+      "publishedAt": "2026-10-27T09:18:00.000Z",
+      "image": "",
+      "categories": [
+        "comic"
+      ],
+      "works": [],
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": true
+    },
+    {
       "id": "d42e8f6bb5fc",
       "title": "【アニメ異世界】ある少年が「チート」スキルを駆使して最強のスライム軍団を作り上げ、1億ものMPを蓄えて王国を征服する。【アニメ異世界】 Elche Vs Alavés (kby3SNyPcT)",
       "url": "https://media.unisba.ac.id/18f1fa93/f7a19ceeCdcVdMfJN-w",
@@ -2290,12 +2328,12 @@
     {
       "id": "d5ff571cacf3",
       "title": "2026年、新作夏アニメのABEMA最終ランキングを発表！『無職転生III』が再生数・コメント数の両部門で堂々1位を獲得！『Re:ゼロから始める異世界生活』4th seasonも両部門で2位にランクイン",
-      "url": "https://animeanime.jp/release/prtimes/20261027/322681.html",
-      "host": "animeanime.jp",
-      "source": "アニメ！アニメ！",
+      "url": "https://news.infoseek.co.jp/article/prtimes_000004165_000064643/",
+      "host": "news.infoseek.co.jp",
+      "source": "Infoseek",
       "summary": "",
       "publishedAt": "2026-10-27T08:01:11.000Z",
-      "image": "https://animeanime.jp/release/imgs/list/567404.jpg",
+      "image": "https://media.image.infoseek.co.jp/isnews/pc/img/noimage_203x120_busi-econ-1.0.png",
       "categories": [
         "anime",
         "web"
@@ -2329,7 +2367,7 @@
       "isPR": true,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "d10f5e53e7ff",
@@ -2504,7 +2542,7 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "45a75c3e3c24",
