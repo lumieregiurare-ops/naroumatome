@@ -1,18 +1,18 @@
 {
-  "updatedAt": "2026-10-31T17:00:19.641Z",
+  "updatedAt": "2026-10-31T17:30:19.553Z",
   "site": {
     "title": "なろう系まとめ",
     "tagline": "小説家になろう発の作品のアニメ化・コミカライズ・書籍化のニュースと、なろうのランキングをまとめています。",
     "url": "https://naroumatome.gamelab.website/",
     "contactUrl": "https://docs.google.com/forms/d/e/1FAIpQLSesWyhmZ6sRS_ve-c3X2KqF_wC5PK2TgwgQbTKmnQltSlg5Jw/viewform"
   },
-  "total": 85,
+  "total": 86,
   "todayCount": 0,
   "categories": [
     {
       "id": "anime",
       "label": "アニメ",
-      "count": 46
+      "count": 47
     },
     {
       "id": "comic",
@@ -62,7 +62,7 @@
       "id": "rezero",
       "title": "Re:ゼロから始める異世界生活",
       "short": "リゼロ",
-      "count": 9
+      "count": 8
     },
     {
       "id": "honzuki",
@@ -295,19 +295,15 @@
   ],
   "sources": [
     {
-      "name": "アニメ！アニメ！",
-      "count": 9
-    },
-    {
       "name": "ラノベニュースオンライン",
       "count": 8
     },
     {
-      "name": "Yahoo!ニュース",
-      "count": 5
+      "name": "アニメ！アニメ！",
+      "count": 8
     },
     {
-      "name": "ニコニコニュース",
+      "name": "Yahoo!ニュース",
       "count": 5
     },
     {
@@ -320,6 +316,10 @@
     },
     {
       "name": "AppMedia",
+      "count": 4
+    },
+    {
+      "name": "ニコニコニュース",
       "count": 4
     },
     {
@@ -348,6 +348,10 @@
     },
     {
       "name": "PR TIMES",
+      "count": 2
+    },
+    {
+      "name": "J:magazine!",
       "count": 2
     },
     {
@@ -395,15 +399,19 @@
       "count": 1
     },
     {
-      "name": "J:magazine!",
-      "count": 1
-    },
-    {
       "name": "ABEMA TIMES",
       "count": 1
     },
     {
       "name": "Appliv Games",
+      "count": 1
+    },
+    {
+      "name": "Infoseek",
+      "count": 1
+    },
+    {
+      "name": "イザ！",
       "count": 1
     },
     {
@@ -705,8 +713,8 @@
       "articles": [
         {
           "title": "『無職転生 ～異世界に行ったら本気だす～』シリーズ最終巻『蛇足編』の完結を記念して、アニメイト池袋本店にてオンリーショップ開催決定！！また、表紙や口絵イラストを使用した新商品を販売！",
-          "url": "https://animeanime.jp/release/prtimes/20261030/323876.html",
-          "source": "アニメ！アニメ！",
+          "url": "https://news.infoseek.co.jp/article/prtimes_000009165_000016756/",
+          "source": "Infoseek",
           "publishedAt": "2026-10-30T09:00:00.000Z",
           "isPR": false
         }
@@ -853,42 +861,41 @@
       ]
     },
     {
-      "id": "82000f9b3b3a",
-      "title": "『転生貴族、鑑定スキルで成り上がる 第3期』Blu-rayBOX 店舗別購入特典紹介 ＜対象店舗限定＞ - V-storage",
+      "id": "0d25e81fcad5",
+      "title": "TVアニメ「おデブ悪女に転生したら、なぜかラスボス王子様に執着されています」 第1弾PV公開中！",
       "summary": "",
-      "url": "https://v-storage.jp/anime/288923/",
-      "image": "https://v-storage.jp/wp-content/uploads/2024/09/kanteiskil2_A4_POP_FB.jpg",
-      "leadSource": "V-storage",
-      "publishedAt": "2026-10-30T08:03:45.000Z",
+      "url": "https://mantan-web.jp/prtimes/article/20261030prt00m200001467a.html",
+      "image": "https://prtimes.jp/img/86721/177/resize/d86721-177-08c6db06049010305948-19.png",
+      "leadSource": "Mantan Web",
+      "publishedAt": "2026-10-30T09:00:00.000Z",
       "sourceCount": 2,
       "articleCount": 2,
       "categories": [
-        "anime",
-        "goods"
+        "anime"
       ],
       "keywords": [
-        "転生貴族",
-        "スキル",
-        "鑑定"
+        "ラスボス",
+        "悪女",
+        "王子様"
       ],
       "articles": [
         {
-          "title": "アニメ『転生貴族、鑑定スキルで成り上がる 第3期』はどこで見れる？サブスク・配信サービスを全調査 | VODB! by チバテレ",
-          "url": "https://www.chiba-tv.com/vod-db/tensei-kizoku-s3-anime/",
-          "source": "千葉テレビ放送株式会社",
-          "publishedAt": "2026-10-30T05:59:12.000Z",
+          "title": "2027年1月より、放送開始！TVアニメ「おデブ悪女に転生したら、なぜかラスボス王子様に執着されています」 特別ビジュアルを解禁！",
+          "url": "https://www.iza.ne.jp/pressrelease/prtimes/NRCHMC3L7FM43LOGYDTP75ZLTM/",
+          "source": "イザ！",
+          "publishedAt": "2026-10-30T09:00:00.000Z",
           "isPR": false
         }
       ]
     }
   ],
   "churn": {
-    "previousAt": "2026-10-31T16:30:19.403Z",
-    "previousCount": 90,
-    "newCount": 7
+    "previousAt": "2026-10-31T17:00:19.641Z",
+    "previousCount": 85,
+    "newCount": 2
   },
   "updateGapMin": 30,
-  "nextUpdateAt": "2026-10-31T17:30:19.641Z",
+  "nextUpdateAt": "2026-10-31T18:00:19.553Z",
   "items": [
     {
       "id": "b477eeed0978",
@@ -946,7 +953,7 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "ec7570b64f7a",
@@ -1022,7 +1029,7 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "2a7010934071",
@@ -1201,7 +1208,7 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "09881625e529",
@@ -1344,7 +1351,7 @@
     {
       "id": "3a46c80964f4",
       "title": "Re:ゼロから始める異世界生活 × ラグーナテンボス 〜ようこそ、光きらめく水門都市へ。〜",
-      "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPQzN4RWRodjlnMU1DOFI0ZzNKLVB3NVZXd1pEM0FrcWM3STZBN0VDck5HRXVWc1lZbXNqYllXNzhDNjZkOEhTTTFFVnFMQnpDWlVWRnVOakdiSjN1OFNvbnFaMWRRNFprbW14QXNuSnFuaWpwNjBULXJOZERWS3BTQVkyWWxuQkxIak4yWmtGLS00Q19uZ3BFbTY4dGtHUldkSGQtaEk2V2lreWxOakI0NFlJYWQyWmFRMjVYOXBWampDWVBNSm1MTUNyb3FDQ1NzWXBSTEVoUdIBhgFBVV95cUxQQllVQ3oxOVVhbmxWeGtLZUNFTzV3Q25uSldiS3JsaTVVWUMyN1BzQmVjQmlVaU1kMThTUXVmdmgtWEdqbDlCTlhwMHVibTZLRUh2VGxyX0I5QklLWkNKdjJFTzgtNEV5T0dBdzZFUHpDRTRlSWM1Mm5Uc0pZM1JTN1ZnNEpUZw?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQQllVQ3oxOVVhbmxWeGtLZUNFTzV3Q25uSldiS3JsaTVVWUMyN1BzQmVjQmlVaU1kMThTUXVmdmgtWEdqbDlCTlhwMHVibTZLRUh2VGxyX0I5QklLWkNKdjJFTzgtNEV5T0dBdzZFUHpDRTRlSWM1Mm5Uc0pZM1JTN1ZnNEpUZ9IBhgFBVV95cUxQQllVQ3oxOVVhbmxWeGtLZUNFTzV3Q25uSldiS3JsaTVVWUMyN1BzQmVjQmlVaU1kMThTUXVmdmgtWEdqbDlCTlhwMHVibTZLRUh2VGxyX0I5QklLWkNKdjJFTzgtNEV5T0dBdzZFUHpDRTRlSWM1Mm5Uc0pZM1JTN1ZnNEpUZw?oc=5",
       "host": "topics.smt.docomo.ne.jp",
       "source": "ｄメニューニュース",
       "summary": "",
@@ -1398,7 +1405,7 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "980f1504bc3a",
@@ -1418,7 +1425,7 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "6b663d231714",
@@ -1615,7 +1622,7 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "73116df60c1e",
@@ -1762,12 +1769,12 @@
     {
       "id": "576497addf53",
       "title": "『無職転生 ～異世界に行ったら本気だす～』シリーズ最終巻『蛇足編』の完結を記念して、アニメイト池袋本店にてオンリーショップ開催決定！！また、表紙や口絵イラストを使用した新商品を販売！",
-      "url": "https://animeanime.jp/release/prtimes/20261030/323876.html",
-      "host": "animeanime.jp",
-      "source": "アニメ！アニメ！",
+      "url": "https://news.infoseek.co.jp/article/prtimes_000009165_000016756/",
+      "host": "news.infoseek.co.jp",
+      "source": "Infoseek",
       "summary": "",
       "publishedAt": "2026-10-30T09:00:00.000Z",
-      "image": "https://animeanime.jp/release/imgs/list/569304.jpg",
+      "image": "https://media.image.infoseek.co.jp/isnews/pc/img/noimage_203x120_busi-econ-1.0.png",
       "categories": [
         "anime"
       ],
@@ -1796,6 +1803,24 @@
       "viaGoogle": false,
       "sourceKind": "news",
       "isNew": false
+    },
+    {
+      "id": "40af348df4e5",
+      "title": "2027年1月より、放送開始！TVアニメ「おデブ悪女に転生したら、なぜかラスボス王子様に執着されています」 特別ビジュアルを解禁！",
+      "url": "https://www.iza.ne.jp/pressrelease/prtimes/NRCHMC3L7FM43LOGYDTP75ZLTM/",
+      "host": "iza.ne.jp",
+      "source": "イザ！",
+      "summary": "",
+      "publishedAt": "2026-10-30T09:00:00.000Z",
+      "image": "https://www.iza.ne.jp/common/images/ogp_default_iza.png",
+      "categories": [
+        "anime"
+      ],
+      "works": [],
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": true
     },
     {
       "id": "8ddfc8aa43d9",
@@ -2313,6 +2338,24 @@
       "isNew": false
     },
     {
+      "id": "0ac5fbb56a02",
+      "title": "圧倒的な能力でスカッと爽快！主人公が最強の異世界アニメおすすめ5選「ヘルモード」ほか（画像 1 11",
+      "url": "https://jmagazine.myjcom.jp/category/anime/post001381/gallery/",
+      "host": "jmagazine.myjcom.jp",
+      "source": "J:magazine!",
+      "summary": "",
+      "publishedAt": "2026-10-29T07:00:00.000Z",
+      "image": "https://jmagazine.myjcom.jp/uploads/260502_saikyo_01.jpg",
+      "categories": [
+        "anime"
+      ],
+      "works": [],
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": true
+    },
+    {
       "id": "7e151f3a2eca",
       "title": "【まおりゅう】紅覇ギィ[紅覇ノ魔王]の評価とスキル【転スラ】",
       "url": "https://appmedia.jp/ten-sura-m/80521657",
@@ -2448,7 +2491,7 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "58a272a9d430",
@@ -2501,26 +2544,6 @@
       "image": "https://news.dellows.jp/wp-content/uploads/2026/10/827583_1.jpg",
       "categories": [
         "other"
-      ],
-      "works": [
-        "rezero"
-      ],
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": false
-    },
-    {
-      "id": "8bdd91036e43",
-      "title": "『Re:ゼロから始める異世界生活』『【推しの子】』声優陣が「Anime X Game Festival",
-      "url": "https://news.nicovideo.jp/watch/nw19930612",
-      "host": "news.nicovideo.jp",
-      "source": "ニコニコニュース",
-      "summary": "",
-      "publishedAt": "2026-10-28T17:21:17.000Z",
-      "image": "",
-      "categories": [
-        "anime"
       ],
       "works": [
         "rezero"
