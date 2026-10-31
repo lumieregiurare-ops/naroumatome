@@ -1,23 +1,23 @@
 {
-  "updatedAt": "2026-10-31T06:56:33.233Z",
+  "updatedAt": "2026-10-31T07:30:17.710Z",
   "site": {
     "title": "なろう系まとめ",
     "tagline": "小説家になろう発の作品のアニメ化・コミカライズ・書籍化のニュースと、なろうのランキングをまとめています。",
     "url": "https://naroumatome.gamelab.website/",
     "contactUrl": "https://docs.google.com/forms/d/e/1FAIpQLSesWyhmZ6sRS_ve-c3X2KqF_wC5PK2TgwgQbTKmnQltSlg5Jw/viewform"
   },
-  "total": 89,
-  "todayCount": 27,
+  "total": 92,
+  "todayCount": 28,
   "categories": [
     {
       "id": "anime",
       "label": "アニメ",
-      "count": 52
+      "count": 53
     },
     {
       "id": "comic",
       "label": "コミカライズ",
-      "count": 9
+      "count": 8
     },
     {
       "id": "book",
@@ -37,12 +37,12 @@
     {
       "id": "goods",
       "label": "グッズ・イベント",
-      "count": 13
+      "count": 14
     },
     {
       "id": "other",
       "label": "そのほか",
-      "count": 19
+      "count": 22
     }
   ],
   "works": [
@@ -50,7 +50,7 @@
       "id": "tensura",
       "title": "転生したらスライムだった件",
       "short": "転スラ",
-      "count": 7
+      "count": 6
     },
     {
       "id": "mushoku",
@@ -74,7 +74,7 @@
       "id": "kusuriya",
       "title": "薬屋のひとりごと",
       "short": "薬屋",
-      "count": 35
+      "count": 40
     },
     {
       "id": "kagejitsu",
@@ -164,7 +164,7 @@
       "id": "katainaka",
       "title": "片田舎のおっさん、剣聖になる",
       "short": "片田舎のおっさん",
-      "count": 3
+      "count": 1
     },
     {
       "id": "nozomanu",
@@ -296,30 +296,30 @@
   "sources": [
     {
       "name": "アニメ！アニメ！",
-      "count": 11
+      "count": 10
+    },
+    {
+      "name": "Yahoo!ニュース",
+      "count": 10
     },
     {
       "name": "ラノベニュースオンライン",
       "count": 8
     },
     {
-      "name": "Yahoo!ニュース",
-      "count": 8
-    },
-    {
-      "name": "AppMedia",
-      "count": 4
-    },
-    {
       "name": "ニコニコニュース",
-      "count": 4
+      "count": 5
     },
     {
       "name": "ABEMA",
-      "count": 4
+      "count": 5
     },
     {
-      "name": "PR TIMES",
+      "name": "Mantan Web",
+      "count": 5
+    },
+    {
+      "name": "AppMedia",
       "count": 3
     },
     {
@@ -339,7 +339,19 @@
       "count": 2
     },
     {
+      "name": "PR TIMES",
+      "count": 2
+    },
+    {
       "name": "WEBザテレビジョン",
+      "count": 2
+    },
+    {
+      "name": "Howl.Link",
+      "count": 2
+    },
+    {
+      "name": "TVer",
       "count": 2
     },
     {
@@ -351,15 +363,7 @@
       "count": 2
     },
     {
-      "name": "電撃オンライン",
-      "count": 2
-    },
-    {
       "name": "Dellows News",
-      "count": 2
-    },
-    {
-      "name": "aniradarjp.com",
       "count": 2
     },
     {
@@ -379,7 +383,7 @@
       "count": 1
     },
     {
-      "name": "アニメイトタイムズ",
+      "name": "電撃オンライン",
       "count": 1
     },
     {
@@ -392,10 +396,6 @@
     },
     {
       "name": "Skream!",
-      "count": 1
-    },
-    {
-      "name": "Mantan Web",
       "count": 1
     },
     {
@@ -443,14 +443,6 @@
       "count": 1
     },
     {
-      "name": "Howl.Link",
-      "count": 1
-    },
-    {
-      "name": "TVer",
-      "count": 1
-    },
-    {
       "name": "アニメハック",
       "count": 1
     },
@@ -468,16 +460,16 @@
       "image": "https://animeanime.jp/imgs/rss/949853.jpg",
       "leadSource": "アニメ！アニメ！",
       "publishedAt": "2026-10-30T17:45:00.000Z",
-      "sourceCount": 7,
-      "articleCount": 10,
+      "sourceCount": 8,
+      "articleCount": 15,
       "categories": [
         "anime",
         "other"
       ],
       "keywords": [
         "薬屋",
-        "陸孫",
-        "羅半"
+        "ハロウィン",
+        "陸孫"
       ],
       "articles": [
         {
@@ -554,8 +546,8 @@
       ],
       "keywords": [
         "薬屋",
-        "劇場版",
-        "猫猫"
+        "猫猫",
+        "劇場版"
       ],
       "articles": [
         {
@@ -563,13 +555,6 @@
           "url": "https://nijimen.kusuguru.co.jp/topics/646882",
           "source": "にじめん",
           "publishedAt": "2026-10-30T23:07:00.000Z",
-          "isPR": false
-        },
-        {
-          "title": "『劇場版 薬屋のひとりごと 亡妃の秘宝』公開記念TVアニメ「薬屋のひとりごと」第1期＆第2期・全48話をアニマックスで一挙放送！",
-          "url": "https://news.infoseek.co.jp/article/prtimes_000000599_000003633/",
-          "source": "Infoseek",
-          "publishedAt": "2026-10-30T15:15:31.000Z",
           "isPR": false
         },
         {
@@ -591,6 +576,13 @@
           "url": "https://www.welcome.city.yokohama.jp/hottopics/kusuriyanohitorigoto/movie/",
           "source": "横浜市",
           "publishedAt": "2026-10-30T03:10:45.000Z",
+          "isPR": false
+        },
+        {
+          "title": "劇場版 薬屋のひとりごと 亡妃の秘宝：横浜市コラボ “猫猫花火”打ち上げ デジタルスタンプラリー 中華街にポップアップショップ",
+          "url": "https://mantan-web.jp/article/20261030dog00m200010000a.html",
+          "source": "Mantan Web",
+          "publishedAt": "2026-10-30T03:00:00.000Z",
           "isPR": false
         },
         {
@@ -644,17 +636,17 @@
           "isPR": false
         },
         {
-          "title": "壬氏のシーンが追加！白娘々との対面回に「壬氏様もいる!?」「アニオリだあああ」アニメ『薬屋のひとりごと』53話",
-          "url": "https://news.yahoo.co.jp/articles/23b0053bc343c42bbcdc104308a7d20d818031d2/images/000",
-          "source": "Yahoo!ニュース",
-          "publishedAt": "2026-10-30T16:51:53.000Z",
-          "isPR": false
-        },
-        {
           "title": "TVアニメ『薬屋のひとりごと』3期5話のあらすじ公開！ 猫猫は⽩娘々に壇上へと招かれ…",
           "url": "https://eeo.today/media/2026/10/29/407974/",
           "source": "eeo",
           "publishedAt": "2026-10-30T16:13:36.000Z",
+          "isPR": false
+        },
+        {
+          "title": "壬氏のシーンが追加！白娘々との対面回に「壬氏様もいる!?」「アニオリだあああ」アニメ『薬屋のひとりごと』53話",
+          "url": "https://news.nicovideo.jp/watch/nw19940895",
+          "source": "ニコニコニュース",
+          "publishedAt": "2026-10-30T15:54:18.000Z",
           "isPR": false
         }
       ]
@@ -663,11 +655,11 @@
       "id": "576497addf53",
       "title": "『無職転生 ～異世界に行ったら本気だす～』シリーズ最終巻『蛇足編』の完結を記念して、アニメイト池袋本店にてオンリーショップ開催決定！！また、表紙や口絵イラストを使用した新商品を販売！",
       "summary": "",
-      "url": "https://animeanime.jp/release/prtimes/20261030/323876.html",
-      "image": "https://animeanime.jp/release/imgs/list/569304.jpg",
-      "leadSource": "アニメ！アニメ！",
-      "publishedAt": "2026-10-30T09:15:18.000Z",
-      "sourceCount": 4,
+      "url": "https://news.infoseek.co.jp/article/prtimes_000009165_000016756/",
+      "image": "https://media.image.infoseek.co.jp/isnews/pc/img/noimage_203x120_busi-econ-1.0.png",
+      "leadSource": "Infoseek",
+      "publishedAt": "2026-10-30T09:00:02.000Z",
+      "sourceCount": 5,
       "articleCount": 5,
       "categories": [
         "anime",
@@ -683,7 +675,7 @@
           "title": "『無職転生 ～異世界行ったら本気だす～』シリーズ最終巻『蛇足編』の完結を記念して、アニメイト池袋本店にてオンリーショップ開催決定！！また、表紙や口絵イラストを使用した新商品を販売！",
           "url": "https://prtimes.jp/main/html/rd/p/000009165.000016756.html",
           "source": "PR TIMES",
-          "publishedAt": "2026-10-30T09:15:18.000Z",
+          "publishedAt": "2026-10-30T09:00:02.000Z",
           "isPR": true
         },
         {
@@ -695,9 +687,9 @@
         },
         {
           "title": "『無職転生 ～異世界行ったら本気だす～ クロニクル・オブ・エコーズ』、[守護術師] フィッツが期間限定で登場＆シナリオイベント「自由恋愛は罪となるのか」開催！",
-          "url": "https://animeanime.jp/release/prtimes/20261028/323112.html",
-          "source": "アニメ！アニメ！",
-          "publishedAt": "2026-10-28T12:30:00.000Z",
+          "url": "https://mantan-web.jp/prtimes/article/20261029prt00m200000007a/photopage/001.html",
+          "source": "Mantan Web",
+          "publishedAt": "2026-10-29T01:21:59.000Z",
           "isPR": false
         },
         {
@@ -717,15 +709,15 @@
       "image": "https://animeanime.jp/imgs/rss/950206.jpg",
       "leadSource": "アニメ！アニメ！",
       "publishedAt": "2026-10-31T01:45:05.000Z",
-      "sourceCount": 3,
-      "articleCount": 4,
+      "sourceCount": 4,
+      "articleCount": 5,
       "categories": [
         "anime"
       ],
       "keywords": [
         "薬屋",
         "猫猫",
-        "上田麗奈"
+        "白娘"
       ],
       "articles": [
         {
@@ -748,69 +740,40 @@
           "source": "Yahoo!ニュース",
           "publishedAt": "2026-10-29T09:47:15.000Z",
           "isPR": false
-        }
-      ]
-    },
-    {
-      "id": "d6736f8e94bf",
-      "title": "薬屋のひとりごと＞悠木碧“猫猫”と大塚剛央“壬氏”がヨルシカの新曲を語る 特別CMが3週連続オンエア (WEBザテレビジョン)",
-      "summary": "",
-      "url": "https://news.yahoo.co.jp/articles/8cec4087d533679783b2da67703958ad89b19405/images/000",
-      "image": "https://news-pctr.c.yimg.jp/uUzvQ3lML_bkIqyakc1vFhNrRI0RUQxg5aFkrX0xDg1_T0wXrbEJjtNGtrf1o9y3xudcUclfbXjZqAvGT8NJneY9atVbJLGySW7o3E113RBVkNeVaD9SaUzJlX8_bUNg3CKa6_Ei2H3IjmBRUnSCl-AV8JUPsU1shOqN_HlS0W1Qi3uRgCEe4Pb__AmNimtvKYeDDK6rS4jB80hHg1wZNw==",
-      "leadSource": "Yahoo!ニュース",
-      "publishedAt": "2026-10-30T08:04:17.000Z",
-      "sourceCount": 3,
-      "articleCount": 3,
-      "categories": [
-        "other",
-        "anime"
-      ],
-      "keywords": [
-        "薬屋",
-        "ヨルシカ",
-        "猫猫"
-      ],
-      "articles": [
-        {
-          "title": "ヨルシカ、新曲「雲を抜け風下へ私だけ」について猫猫と壬氏が会話するTVアニメ\"薬屋のひとりごと\"エクスクルーシヴCM本日10/30より3週連続OA",
-          "url": "https://skream.jp/news/2026/10/yorushika_kumowonuke_cm.php",
-          "source": "Skream!",
-          "publishedAt": "2026-10-30T08:00:00.000Z",
-          "isPR": false
         },
         {
-          "title": "薬屋のひとりごと：猫猫と壬氏がヨルシカのOP語る “エクスクルーシブ”CMが3週連続放送",
-          "url": "https://mantan-web.jp/article/20261030dog00m200060000a.html",
+          "title": "薬屋のひとりごと：白蛇のごとき白い髪と赤い目 “謎の仙女”白娘々登場 第53話「白蛇仙女」カット公開",
+          "url": "https://mantan-web.jp/article/20261029dog00m200047000a.html",
           "source": "Mantan Web",
-          "publishedAt": "2026-10-30T08:00:00.000Z",
+          "publishedAt": "2026-10-29T09:00:00.000Z",
           "isPR": false
         }
       ]
     },
     {
-      "id": "8e365b942022",
-      "title": "『薬屋のひとりごと』キャラの魅力を語るアンケート投票受付中！",
+      "id": "bec6012c73ac",
+      "title": "薬屋のひとりごと 10月30日(金)放送分 第53話 白蛇仙女｜アニメ／ヒーロー｜見逃し無料配信はTVer！人気の動画見放題",
       "summary": "",
-      "url": "https://www.animatetimes.com/news/details.php?id",
-      "image": "https://www.animatetimes.com/img/ogimage.png",
-      "leadSource": "アニメイトタイムズ",
-      "publishedAt": "2026-10-30T12:00:00.000Z",
+      "url": "https://tver.jp/episodes/epnk3dhat8",
+      "image": "https://news.fod.fujitv.co.jp/wp-content/uploads/2025/09/610-768x432.jpeg",
+      "leadSource": "TVer",
+      "publishedAt": "2026-10-30T16:17:34.000Z",
       "sourceCount": 2,
       "articleCount": 2,
       "categories": [
-        "other",
-        "anime"
+        "anime",
+        "web"
       ],
       "keywords": [
         "薬屋",
-        "キャラ"
+        "人気"
       ],
       "articles": [
         {
-          "title": "「ついに白娘々がっ」「イメージしてた白娘娘より可愛い顔」アニメ『薬屋のひとりごと』第53話予告に新キャラ・白娘々が本格登場",
-          "url": "https://news.yahoo.co.jp/articles/9161299a96c485fa02ed69935f22a64aefbb13e3",
-          "source": "Yahoo!ニュース",
-          "publishedAt": "2026-10-30T09:09:15.000Z",
+          "title": "アニメ人気ランキング｜『薬屋のひとりごと』『ちいかわ』がトップ2に！",
+          "url": "https://news.fod.fujitv.co.jp/article/15107",
+          "source": "FOD INFO",
+          "publishedAt": "2026-10-30T03:00:40.000Z",
           "isPR": false
         }
       ]
@@ -845,6 +808,34 @@
       ]
     },
     {
+      "id": "70ebc46bf56b",
+      "title": "ヨルシカ、新曲「雲を抜け風下へ私だけ」について猫猫と壬氏が会話するTVアニメ\"薬屋のひとりごと\"エクスクルーシヴCM本日10/30より3週連続OA",
+      "summary": "",
+      "url": "https://skream.jp/news/2026/10/yorushika_kumowonuke_cm.php",
+      "image": "https://skream.jp/news/2026/10/30/images/%E3%83%A8%E3%83%AB%E3%82%B7%E3%82%AB%E3%83%AD%E3%82%B4.jpg",
+      "leadSource": "Skream!",
+      "publishedAt": "2026-10-30T08:00:00.000Z",
+      "sourceCount": 2,
+      "articleCount": 2,
+      "categories": [
+        "anime"
+      ],
+      "keywords": [
+        "薬屋",
+        "ヨルシカ",
+        "猫猫"
+      ],
+      "articles": [
+        {
+          "title": "薬屋のひとりごと：猫猫と壬氏がヨルシカのOP語る “エクスクルーシブ”CMが3週連続放送",
+          "url": "https://mantan-web.jp/article/20261030dog00m200060000a.html",
+          "source": "Mantan Web",
+          "publishedAt": "2026-10-30T08:00:00.000Z",
+          "isPR": false
+        }
+      ]
+    },
+    {
       "id": "1624ecc8dbea",
       "title": "「追放された転生重騎士はゲーム知識で無双する」の配信はどこで見れる？1話を無料で見る方法も",
       "summary": "アニメ『追放された転生重騎士はゲーム知識で無双する』は、DMM TVやU-NEXTなどで見放題配信されています。主要な動画配信サービスの配信状況を調査し、TVerで第1話を無料で見る方法、配信日、あらすじ・見どころ、声優キャストもまとめました。",
@@ -872,44 +863,15 @@
           "isPR": false
         }
       ]
-    },
-    {
-      "id": "dafc3df064f6",
-      "title": "アニメ人気ランキング｜『薬屋のひとりごと』『ちいかわ』がトップ2に！",
-      "summary": "",
-      "url": "https://news.fod.fujitv.co.jp/article/15107",
-      "image": "https://news.fod.fujitv.co.jp/wp-content/uploads/2025/09/610-768x432.jpeg",
-      "leadSource": "FOD INFO",
-      "publishedAt": "2026-10-30T03:00:40.000Z",
-      "sourceCount": 2,
-      "articleCount": 2,
-      "categories": [
-        "anime",
-        "web"
-      ],
-      "keywords": [
-        "薬屋",
-        "ランキング",
-        "トップ"
-      ],
-      "articles": [
-        {
-          "title": "秋アニメは『薬屋』が4週連続トップも…順位を上げた“令嬢・転生モノ”の注目作とは【ABEMA週間ランキング】",
-          "url": "https://news.infoseek.co.jp/article/otakulab_211815/",
-          "source": "Infoseek",
-          "publishedAt": "2026-10-28T11:47:02.000Z",
-          "isPR": false
-        }
-      ]
     }
   ],
   "churn": {
-    "previousAt": "2026-10-31T06:30:18.899Z",
-    "previousCount": 94,
-    "newCount": 3
+    "previousAt": "2026-10-31T06:56:33.233Z",
+    "previousCount": 89,
+    "newCount": 10
   },
   "updateGapMin": 30,
-  "nextUpdateAt": "2026-10-31T07:26:33.233Z",
+  "nextUpdateAt": "2026-10-31T08:00:17.710Z",
   "items": [
     {
       "id": "a7d9624edb89",
@@ -1228,6 +1190,24 @@
       "isNew": false
     },
     {
+      "id": "35ce6e86c81d",
+      "title": "魔道具エンジニアによる異世界革命〜魔改造済みにつき魔王はご主人様に逆らえません〜 - 婚約破棄された魔導士は死を操る4",
+      "url": "https://t.co/x65sJVt054",
+      "host": "t.co",
+      "source": "Howl.Link",
+      "summary": "",
+      "publishedAt": "2026-10-30T21:58:29.000Z",
+      "image": "",
+      "categories": [
+        "other"
+      ],
+      "works": [],
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": true
+    },
+    {
       "id": "b0349487c01c",
       "title": "『小さなコックさんの異世界レシピ ～料理魔法なんてあったんだぁ、と思ったら万能スキルでした～』のコミカライズ連載が開始",
       "url": "https://ln-news.com/articles/127058",
@@ -1323,7 +1303,7 @@
       "isPR": false,
       "viaGoogle": true,
       "sourceKind": "news",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "63e009f83d63",
@@ -1346,14 +1326,14 @@
       "isNew": false
     },
     {
-      "id": "07791c3c6c54",
-      "title": "壬氏のシーンが追加！白娘々との対面回に「壬氏様もいる!?」「アニオリだあああ」アニメ『薬屋のひとりごと』53話",
-      "url": "https://news.yahoo.co.jp/articles/23b0053bc343c42bbcdc104308a7d20d818031d2/images/000",
-      "host": "news.yahoo.co.jp",
-      "source": "Yahoo!ニュース",
+      "id": "bec6012c73ac",
+      "title": "薬屋のひとりごと 10月30日(金)放送分 第53話 白蛇仙女｜アニメ／ヒーロー｜見逃し無料配信はTVer！人気の動画見放題",
+      "url": "https://tver.jp/episodes/epnk3dhat8",
+      "host": "tver.jp",
+      "source": "TVer",
       "summary": "",
-      "publishedAt": "2026-10-30T16:51:53.000Z",
-      "image": "https://news-pctr.c.yimg.jp/uUzvQ3lML_bkIqyakc1vFhNrRI0RUQxg5aFkrX0xDg1_T0wXrbEJjtNGtrf1o9y3xudcUclfbXjZqAvGT8NJnV0z_Glilhr1m08wIPutaU0vrnNM9Np6iOk08SwNpXb0iexTSx09mMLwUqx6MgGN5WYRSSptBZCYbrRerDUvYymb__jRffbNHzr24XevTrLAHu1DEAifFIAr8vuGrdH4PQ==",
+      "publishedAt": "2026-10-30T16:17:34.000Z",
+      "image": "",
       "categories": [
         "anime"
       ],
@@ -1363,7 +1343,7 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": false
+      "isNew": true
     },
     {
       "id": "abccbadb677e",
@@ -1386,14 +1366,14 @@
       "isNew": false
     },
     {
-      "id": "4f6e7500a17d",
-      "title": "アニメ『薬屋のひとりごと』羅半＆陸孫がハロウィン前夜をミステリアスに彩る！ 「薬屋ハロウィン」第2弾ビジュアル＆ミニボイスドラマ公開",
-      "url": "https://www.pashplus.jp/anime/501006/",
-      "host": "pashplus.jp",
-      "source": "PASH! PLUS",
+      "id": "07791c3c6c54",
+      "title": "壬氏のシーンが追加！白娘々との対面回に「壬氏様もいる!?」「アニオリだあああ」アニメ『薬屋のひとりごと』53話",
+      "url": "https://news.nicovideo.jp/watch/nw19940895",
+      "host": "news.nicovideo.jp",
+      "source": "ニコニコニュース",
       "summary": "",
-      "publishedAt": "2026-10-30T15:52:54.000Z",
-      "image": "https://www.pashplus.jp/wp-content/uploads/02d7ec5841db11a99b640e95c5e0b15a.jpg",
+      "publishedAt": "2026-10-30T15:54:18.000Z",
+      "image": "",
       "categories": [
         "anime"
       ],
@@ -1406,14 +1386,14 @@
       "isNew": false
     },
     {
-      "id": "d6c6de10bf63",
-      "title": "『劇場版 薬屋のひとりごと 亡妃の秘宝』公開記念TVアニメ「薬屋のひとりごと」第1期＆第2期・全48話をアニマックスで一挙放送！",
-      "url": "https://news.infoseek.co.jp/article/prtimes_000000599_000003633/",
-      "host": "news.infoseek.co.jp",
-      "source": "Infoseek",
+      "id": "4f6e7500a17d",
+      "title": "アニメ『薬屋のひとりごと』羅半＆陸孫がハロウィン前夜をミステリアスに彩る！ 「薬屋ハロウィン」第2弾ビジュアル＆ミニボイスドラマ公開",
+      "url": "https://www.pashplus.jp/anime/501006/",
+      "host": "pashplus.jp",
+      "source": "PASH! PLUS",
       "summary": "",
-      "publishedAt": "2026-10-30T15:15:31.000Z",
-      "image": "https://media.image.infoseek.co.jp/isnews/pc/img/noimage_203x120_busi-econ-1.0.png",
+      "publishedAt": "2026-10-30T15:52:54.000Z",
+      "image": "https://www.pashplus.jp/wp-content/uploads/02d7ec5841db11a99b640e95c5e0b15a.jpg",
       "categories": [
         "anime"
       ],
@@ -1454,26 +1434,6 @@
       "image": "https://cimg.kgl-systems.io/camion/files/92671/ogp_GkxP.jpg?x=1280",
       "categories": [
         "anime"
-      ],
-      "works": [
-        "kusuriya"
-      ],
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": false
-    },
-    {
-      "id": "8e365b942022",
-      "title": "『薬屋のひとりごと』キャラの魅力を語るアンケート投票受付中！",
-      "url": "https://www.animatetimes.com/news/details.php?id",
-      "host": "animatetimes.com",
-      "source": "アニメイトタイムズ",
-      "summary": "",
-      "publishedAt": "2026-10-30T12:00:00.000Z",
-      "image": "https://www.animatetimes.com/img/ogimage.png",
-      "categories": [
-        "other"
       ],
       "works": [
         "kusuriya"
@@ -1566,26 +1526,6 @@
       "isNew": false
     },
     {
-      "id": "83dd65be6a0c",
-      "title": "『無職転生 ～異世界行ったら本気だす～』シリーズ最終巻『蛇足編』の完結を記念して、アニメイト池袋本店にてオンリーショップ開催決定！！また、表紙や口絵イラストを使用した新商品を販売！",
-      "url": "https://prtimes.jp/main/html/rd/p/000009165.000016756.html",
-      "host": "prtimes.jp",
-      "source": "PR TIMES",
-      "summary": "[株式会社アニメイトホールディングス] 株式会社フロンティアワークス(アニメイトグループ)より新情報をお届けいたします！ [画像1: https://prcdn.freetls.fastly.net/release_image/16756/9165/16756-9165-366fb2de95b8a351331cada…",
-      "publishedAt": "2026-10-30T09:15:18.000Z",
-      "image": "https://prcdn.freetls.fastly.net/release_image/16756/9165/16756-9165-366fb2de95b8a351331cada149d27653-1200x846.jpg?format=jpeg&auto=webp&fit=bounds&width=2400&height=1260",
-      "categories": [
-        "anime"
-      ],
-      "works": [
-        "mushoku"
-      ],
-      "isPR": true,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": false
-    },
-    {
       "id": "d2d1510cb3d2",
       "title": "「ついに白娘々がっ」「イメージしてた白娘娘より可愛い顔」アニメ『薬屋のひとりごと』第53話予告に新キャラ・白娘々が本格登場",
       "url": "https://news.yahoo.co.jp/articles/9161299a96c485fa02ed69935f22a64aefbb13e3",
@@ -1666,19 +1606,39 @@
       "isNew": false
     },
     {
-      "id": "40af348df4e5",
-      "title": "2027年1月より、放送開始！TVアニメ「おデブ悪女に転生したら、なぜかラスボス王子様に執着されています」 特別ビジュアルを解禁！",
-      "url": "https://prtimes.jp/main/html/rd/p/000000177.000086721.html",
+      "id": "83dd65be6a0c",
+      "title": "『無職転生 ～異世界行ったら本気だす～』シリーズ最終巻『蛇足編』の完結を記念して、アニメイト池袋本店にてオンリーショップ開催決定！！また、表紙や口絵イラストを使用した新商品を販売！",
+      "url": "https://prtimes.jp/main/html/rd/p/000009165.000016756.html",
       "host": "prtimes.jp",
       "source": "PR TIMES",
       "summary": "",
       "publishedAt": "2026-10-30T09:00:02.000Z",
-      "image": "https://prcdn.freetls.fastly.net/release_image/86721/177/86721-177-4493037a02d825956b289cc8daa28dc1-1909x2700.png?format=jpeg&auto=webp&fit=bounds&width=2400&height=1260",
+      "image": "https://prcdn.freetls.fastly.net/release_image/16756/9165/16756-9165-366fb2de95b8a351331cada149d27653-1200x846.jpg?format=jpeg&auto=webp&fit=bounds&width=2400&height=1260",
+      "categories": [
+        "anime"
+      ],
+      "works": [
+        "mushoku"
+      ],
+      "isPR": true,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": false
+    },
+    {
+      "id": "40af348df4e5",
+      "title": "2027年1月より、放送開始！TVアニメ「おデブ悪女に転生したら、なぜかラスボス王子様に執着されています」 特別ビジュアルを解禁！ - PR TIMES",
+      "url": "https://animeanime.jp/release/prtimes/20261030/323874.html",
+      "host": "animeanime.jp",
+      "source": "アニメ！アニメ！",
+      "summary": "",
+      "publishedAt": "2026-10-30T09:00:00.000Z",
+      "image": "https://animeanime.jp/release/imgs/list/569182.png",
       "categories": [
         "anime"
       ],
       "works": [],
-      "isPR": true,
+      "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
       "isNew": false
@@ -1686,12 +1646,12 @@
     {
       "id": "576497addf53",
       "title": "『無職転生 ～異世界に行ったら本気だす～』シリーズ最終巻『蛇足編』の完結を記念して、アニメイト池袋本店にてオンリーショップ開催決定！！また、表紙や口絵イラストを使用した新商品を販売！",
-      "url": "https://animeanime.jp/release/prtimes/20261030/323876.html",
-      "host": "animeanime.jp",
-      "source": "アニメ！アニメ！",
+      "url": "https://news.infoseek.co.jp/article/prtimes_000009165_000016756/",
+      "host": "news.infoseek.co.jp",
+      "source": "Infoseek",
       "summary": "",
       "publishedAt": "2026-10-30T09:00:00.000Z",
-      "image": "https://animeanime.jp/release/imgs/list/569304.jpg",
+      "image": "https://media.image.infoseek.co.jp/isnews/pc/img/noimage_203x120_busi-econ-1.0.png",
       "categories": [
         "anime"
       ],
@@ -1724,6 +1684,26 @@
       "isNew": false
     },
     {
+      "id": "246879a66757",
+      "title": "薬屋のひとりごと：魔法使いたちのハロウィーンナイト 第2弾は羅半と陸孫 スタイリッシュに",
+      "url": "https://mantan-web.jp/article/20261030dog00m200080000a.html",
+      "host": "mantan-web.jp",
+      "source": "Mantan Web",
+      "summary": "",
+      "publishedAt": "2026-10-30T09:00:00.000Z",
+      "image": "https://storage.mantan-web.jp/w=1280,h=720,icr=0:0.1:1:1,a=2,g=2,f=webp:auto/images/2026/10/30/20261030dog00m200080000a/001.jpg",
+      "categories": [
+        "other"
+      ],
+      "works": [
+        "kusuriya"
+      ],
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": true
+    },
+    {
       "id": "8ddfc8aa43d9",
       "title": "「薬屋のひとりごと」猫猫＆壬氏、見上げる先には…♪劇場版の衣装が巾着に!? アクスタや色紙も！ 新グッズ登場＆アニメイトフェア開催",
       "url": "https://animeanime.jp/article/2026/10/30/104344.html",
@@ -1735,26 +1715,6 @@
       "categories": [
         "anime",
         "goods"
-      ],
-      "works": [
-        "kusuriya"
-      ],
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": false
-    },
-    {
-      "id": "d6736f8e94bf",
-      "title": "薬屋のひとりごと＞悠木碧“猫猫”と大塚剛央“壬氏”がヨルシカの新曲を語る 特別CMが3週連続オンエア (WEBザテレビジョン)",
-      "url": "https://news.yahoo.co.jp/articles/8cec4087d533679783b2da67703958ad89b19405/images/000",
-      "host": "news.yahoo.co.jp",
-      "source": "Yahoo!ニュース",
-      "summary": "",
-      "publishedAt": "2026-10-30T08:04:17.000Z",
-      "image": "https://news-pctr.c.yimg.jp/uUzvQ3lML_bkIqyakc1vFhNrRI0RUQxg5aFkrX0xDg1_T0wXrbEJjtNGtrf1o9y3xudcUclfbXjZqAvGT8NJneY9atVbJLGySW7o3E113RBVkNeVaD9SaUzJlX8_bUNg3CKa6_Ei2H3IjmBRUnSCl-AV8JUPsU1shOqN_HlS0W1Qi3uRgCEe4Pb__AmNimtvKYeDDK6rS4jB80hHg1wZNw==",
-      "categories": [
-        "other"
       ],
       "works": [
         "kusuriya"
@@ -1945,6 +1905,27 @@
       "isNew": false
     },
     {
+      "id": "4f9486586c1d",
+      "title": "劇場版 薬屋のひとりごと 亡妃の秘宝：横浜市コラボ “猫猫花火”打ち上げ デジタルスタンプラリー 中華街にポップアップショップ",
+      "url": "https://mantan-web.jp/article/20261030dog00m200010000a.html",
+      "host": "mantan-web.jp",
+      "source": "Mantan Web",
+      "summary": "",
+      "publishedAt": "2026-10-30T03:00:00.000Z",
+      "image": "https://storage.mantan-web.jp/w=1280,h=720,icr=0:0.1:1:1,a=2,g=2,f=webp:auto/images/2026/10/30/20261030dog00m200010000a/001.jpg",
+      "categories": [
+        "goods",
+        "anime"
+      ],
+      "works": [
+        "kusuriya"
+      ],
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": true
+    },
+    {
       "id": "78d9b4951016",
       "title": "劇場版『薬屋のひとりごと』、横浜市&アニメイトとコラボ決定 横浜イメージ「猫猫&壬氏」コラボ新ビジュアル解禁",
       "url": "https://www.oricon.co.jp/news/2489817/",
@@ -2102,6 +2083,26 @@
       "isNew": false
     },
     {
+      "id": "4cd49e6fff5e",
+      "title": "「可愛いの集合体すぎる」恒例の『薬屋のひとりごと』ハロウィン企画、“魔法使い”になった猫猫＆趙迂から開幕（ABEMA TIMES）",
+      "url": "https://news.yahoo.co.jp/articles/217eb47f32cd45fa62f0b47e6174221588736a50",
+      "host": "news.yahoo.co.jp",
+      "source": "Yahoo!ニュース",
+      "summary": "",
+      "publishedAt": "2026-10-29T11:45:32.000Z",
+      "image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20261029-10285014-abemad-000-1-view.jpg?exp=10800",
+      "categories": [
+        "other"
+      ],
+      "works": [
+        "kusuriya"
+      ],
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": true
+    },
+    {
       "id": "c5e2010cdeb3",
       "title": "「陰の実力者になりたくて！マスターオブガーデン」外典「散りゆく陰への鎮魂歌」の最終章が開幕！",
       "url": "https://www.gamer.ne.jp/news/202610290051/",
@@ -2140,6 +2141,86 @@
       "viaGoogle": false,
       "sourceKind": "news",
       "isNew": false
+    },
+    {
+      "id": "a80a01e3fbc5",
+      "title": "「薬屋のひとりごと」猫猫と趙迂、大鍋で怪しげな薬を…!? “魔法使いたちが集うハロウィンナイト”テーマの第1弾ビジュアル＆ミニボイスドラマ公開 (アニメ！アニメ！)",
+      "url": "https://news.yahoo.co.jp/articles/d6ac9d4b41e4002796387cf048991e3ae3c3d516/images/000",
+      "host": "news.yahoo.co.jp",
+      "source": "Yahoo!ニュース",
+      "summary": "",
+      "publishedAt": "2026-10-29T09:34:12.000Z",
+      "image": "https://news-pctr.c.yimg.jp/uUzvQ3lML_bkIqyakc1vFhNrRI0RUQxg5aFkrX0xDg1_T0wXrbEJjtNGtrf1o9y3xudcUclfbXjZqAvGT8NJnXMyco8lgMpqushqKMJQmqV5a_K8Iq4i6RKZQEIgqrgPfo-6vo1SgT4awuxGt0xxA2r0Ka3O3sOktgOGnX8M2FBgpN_o7LNHnF7qz1-DCkiY",
+      "categories": [
+        "anime"
+      ],
+      "works": [
+        "kusuriya"
+      ],
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": true
+    },
+    {
+      "id": "ea28247935ab",
+      "title": "薬屋のひとりごと＞魔法使いたちのハロウィーンナイト 第1弾は猫猫と趙迂 大鍋で薬を作る猫猫（MANTANWEB）",
+      "url": "https://news.yahoo.co.jp/articles/5783132726cc9081c421f56078b4a7b5326056bc",
+      "host": "news.yahoo.co.jp",
+      "source": "Yahoo!ニュース",
+      "summary": "",
+      "publishedAt": "2026-10-29T09:16:00.000Z",
+      "image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20261029-00000055-mantan-000-1-view.jpg?exp=10800",
+      "categories": [
+        "other"
+      ],
+      "works": [
+        "kusuriya"
+      ],
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": true
+    },
+    {
+      "id": "22a11631be3a",
+      "title": "TVアニメ『薬屋のひとりごと』第53話先行カット 猫猫＆趙迂のハロウィンビジュアルも（リアルサウンド）",
+      "url": "https://news.yahoo.co.jp/articles/b30ece8e9816a57b941383f0231ea089af3071f3",
+      "host": "news.yahoo.co.jp",
+      "source": "Yahoo!ニュース",
+      "summary": "",
+      "publishedAt": "2026-10-29T09:02:12.000Z",
+      "image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20261029-00010032-realsound-000-1-view.jpg?exp=10800",
+      "categories": [
+        "anime"
+      ],
+      "works": [
+        "kusuriya"
+      ],
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": true
+    },
+    {
+      "id": "76936f3669f2",
+      "title": "薬屋のひとりごと：白蛇のごとき白い髪と赤い目 “謎の仙女”白娘々登場 第53話「白蛇仙女」カット公開",
+      "url": "https://mantan-web.jp/article/20261029dog00m200047000a.html",
+      "host": "mantan-web.jp",
+      "source": "Mantan Web",
+      "summary": "",
+      "publishedAt": "2026-10-29T09:00:00.000Z",
+      "image": "https://storage.mantan-web.jp/w=1280,h=720,icr=0:0.1:1:1,a=2,g=2,f=webp:auto/images/2026/10/29/20261029dog00m200047000a/001.jpg",
+      "categories": [
+        "anime"
+      ],
+      "works": [
+        "kusuriya"
+      ],
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": true
     },
     {
       "id": "606f4a15ffea",
@@ -2262,24 +2343,6 @@
       "isNew": false
     },
     {
-      "id": "b4ed011c92d7",
-      "title": "Kindleで『異世界小林幸子』が全巻各99円セール。小林幸子が本物のラスボスになるファンタジー漫画",
-      "url": "https://dengekionline.com/article/202610/92419",
-      "host": "dengekionline.com",
-      "source": "電撃オンライン",
-      "summary": "",
-      "publishedAt": "2026-10-29T03:05:00.000Z",
-      "image": "https://cimg.kgl-systems.io/camion/files/92419/ogp_vHSh.jpg?x=1280",
-      "categories": [
-        "comic"
-      ],
-      "works": [],
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": true
-    },
-    {
       "id": "a134bd57f780",
       "title": "未来の黒幕系悪役令嬢モリアーティーの異世界完全犯罪白書 #1〜6【無料1週間】",
       "url": "https://abema.tv/channels/isekai-anime-2/slots/BzEMSawgpYbyHZ",
@@ -2311,6 +2374,26 @@
       ],
       "works": [
         "kusuriya"
+      ],
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": false
+    },
+    {
+      "id": "58a272a9d430",
+      "title": "『無職転生 ～異世界行ったら本気だす～ クロニクル・オブ・エコーズ』、[守護術師] フィッツが期間限定で登場＆シナリオイベント「自由恋愛は罪となるのか」開催！",
+      "url": "https://mantan-web.jp/prtimes/article/20261029prt00m200000007a/photopage/001.html",
+      "host": "mantan-web.jp",
+      "source": "Mantan Web",
+      "summary": "",
+      "publishedAt": "2026-10-29T01:21:59.000Z",
+      "image": "https://prtimes.jp/img/90815/202/resize/d90815-202-ed1c9fb61b32dff2aa8b-0.jpg",
+      "categories": [
+        "goods"
+      ],
+      "works": [
+        "mushoku"
       ],
       "isPR": false,
       "viaGoogle": false,
@@ -2358,6 +2441,24 @@
       "isNew": false
     },
     {
+      "id": "95b982f9f146",
+      "title": "異世界でもふもふなでなでするためにがんばってます。 #1〜12【無料1週間】",
+      "url": "https://abema.tv/channels/isekai-anime-3/slots/AQzVuAzJF5kBEo",
+      "host": "abema.tv",
+      "source": "ABEMA",
+      "summary": "",
+      "publishedAt": "2026-10-28T16:11:19.000Z",
+      "image": "",
+      "categories": [
+        "other"
+      ],
+      "works": [],
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": true
+    },
+    {
       "id": "18c442dd9a7f",
       "title": "『転スラ』そのキャラ出るの！第4期の第2クールPV解禁 OPはDaoko、EDは田所あずさ",
       "url": "https://www.sanyonews.jp/article/1940746?rct",
@@ -2398,26 +2499,6 @@
       "isNew": false
     },
     {
-      "id": "58a272a9d430",
-      "title": "『無職転生 ～異世界行ったら本気だす～ クロニクル・オブ・エコーズ』、[守護術師] フィッツが期間限定で登場＆シナリオイベント「自由恋愛は罪となるのか」開催！",
-      "url": "https://animeanime.jp/release/prtimes/20261028/323112.html",
-      "host": "animeanime.jp",
-      "source": "アニメ！アニメ！",
-      "summary": "",
-      "publishedAt": "2026-10-28T12:30:00.000Z",
-      "image": "https://animeanime.jp/release/imgs/list/568055.jpg",
-      "categories": [
-        "goods"
-      ],
-      "works": [
-        "mushoku"
-      ],
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": false
-    },
-    {
       "id": "28ccb202d820",
       "title": "秋アニメは『薬屋』が4週連続トップも…順位を上げた“令嬢・転生モノ”の注目作とは【ABEMA週間ランキング】",
       "url": "https://news.infoseek.co.jp/article/otakulab_211815/",
@@ -2434,7 +2515,7 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "463480ddd2b8",
@@ -2538,7 +2619,7 @@
     {
       "id": "fb1a69ab0dd3",
       "title": "【SNSで話題沸騰】コミカライズ160万部突破の超人気シリーズに急展開！ 『〈完全版〉ＪＫハルは異世界で娼婦になった",
-      "url": "https://news.nicovideo.jp/watch/nw19928904",
+      "url": "https://news.nicovideo.jp/watch/nw19928904?news_ref",
       "host": "news.nicovideo.jp",
       "source": "ニコニコニュース",
       "summary": "",
@@ -2586,66 +2667,6 @@
       ],
       "works": [
         "rezero"
-      ],
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": false
-    },
-    {
-      "id": "c4bb06ead9b6",
-      "title": "公式生放送の最新情報まとめ｜まおりゅう開発観察日記【転スラ】",
-      "url": "https://appmedia.jp/ten-sura-m/27198793",
-      "host": "appmedia.jp",
-      "source": "AppMedia",
-      "summary": "",
-      "publishedAt": "2026-10-28T07:00:00.000Z",
-      "image": "https://appmedia.jp/wp-content/uploads/2023/02/173613_kzsxc.webp",
-      "categories": [
-        "anime"
-      ],
-      "works": [
-        "tensura"
-      ],
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": false
-    },
-    {
-      "id": "f581bbe44814",
-      "title": "『片田舎のおっさん、剣聖になるII』はどこで見られる？全12話の配信・3期制作決定を解説",
-      "url": "https://aniradarjp.com/ossan-kensei-season2-guide/",
-      "host": "aniradarjp.com",
-      "source": "aniradarjp.com",
-      "summary": "",
-      "publishedAt": "2026-10-28T07:00:00.000Z",
-      "image": "https://aniradarjp.com/wp-content/uploads/2026/07/ossan-kensei-season2-guide-eyecatch.png",
-      "categories": [
-        "anime"
-      ],
-      "works": [
-        "katainaka"
-      ],
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": false
-    },
-    {
-      "id": "fc5fa35efc91",
-      "title": "『片田舎のおっさん、剣聖になるII』シュステはベリルが好き？求婚の返事・アリューシアとの関係【アニメ2期全話ネタバレあり・原作ネタバレなし】",
-      "url": "https://aniradarjp.com/ossan-kensei-shueste-beryl-relationship/",
-      "host": "aniradarjp.com",
-      "source": "aniradarjp.com",
-      "summary": "",
-      "publishedAt": "2026-10-28T07:00:00.000Z",
-      "image": "https://aniradarjp.com/wp-content/uploads/2026/08/aniradar-ossan-kensei-season2-shueste-beryl-relationship-eyecatch.webp",
-      "categories": [
-        "anime"
-      ],
-      "works": [
-        "katainaka"
       ],
       "isPR": false,
       "viaGoogle": false,
