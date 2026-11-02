@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-02T19:30:20.032Z",
+  "updatedAt": "2026-11-02T20:00:22.505Z",
   "site": {
     "title": "なろう系まとめ",
     "tagline": "小説家になろう発の作品のアニメ化・コミカライズ・書籍化のニュースと、なろうのランキングをまとめています。",
@@ -74,7 +74,7 @@
       "id": "kusuriya",
       "title": "薬屋のひとりごと",
       "short": "薬屋",
-      "count": 31
+      "count": 30
     },
     {
       "id": "kagejitsu",
@@ -315,10 +315,6 @@
       "count": 5
     },
     {
-      "name": "千葉テレビ放送株式会社",
-      "count": 3
-    },
-    {
       "name": "アニメイトタイムズ",
       "count": 3
     },
@@ -339,11 +335,19 @@
       "count": 2
     },
     {
+      "name": "千葉テレビ放送株式会社",
+      "count": 2
+    },
+    {
       "name": "ABEMA",
       "count": 2
     },
     {
       "name": "PR TIMES",
+      "count": 2
+    },
+    {
+      "name": "ニコニコニュース",
       "count": 2
     },
     {
@@ -412,10 +416,6 @@
     },
     {
       "name": "ぴあエンタメ情報",
-      "count": 1
-    },
-    {
-      "name": "ニコニコニュース",
       "count": 1
     },
     {
@@ -748,12 +748,12 @@
     }
   ],
   "churn": {
-    "previousAt": "2026-11-02T19:00:20.217Z",
-    "previousCount": 65,
-    "newCount": 11
+    "previousAt": "2026-11-02T19:30:20.032Z",
+    "previousCount": 73,
+    "newCount": 2
   },
   "updateGapMin": 30,
-  "nextUpdateAt": "2026-11-02T20:00:20.032Z",
+  "nextUpdateAt": "2026-11-02T20:30:22.505Z",
   "items": [
     {
       "id": "ca58279a372c",
@@ -772,7 +772,7 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "b477eeed0978",
@@ -853,7 +853,7 @@
     {
       "id": "ea030ce50718",
       "title": "TVアニメ『冰剣の魔術師が世界を統べるⅡ』原作・御子柴奈々先生と編集担当・庄司智さんの異世界ファンタジー作り（アトロクアニメエクストリームジョブ第29回完全版）",
-      "url": "https://www.tbsradio.jp/articles/113675/",
+      "url": "https://www.tbsradio.jp/articles/113675",
       "host": "tbsradio.jp",
       "source": "TBSラジオ",
       "summary": "",
@@ -982,7 +982,7 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "7f1023219a28",
@@ -1100,7 +1100,7 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "851deec231e8",
@@ -1198,7 +1198,7 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "23aa6eb6b4ae",
@@ -1218,7 +1218,7 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "6ab86f7addcf",
@@ -1238,7 +1238,7 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "167700802f64",
@@ -1401,26 +1401,6 @@
       "viaGoogle": false,
       "sourceKind": "news",
       "isNew": false
-    },
-    {
-      "id": "36d7fc3d4913",
-      "title": "アニメ『薬屋のひとりごと 第3期』はどこで見れる？サブスク・配信サービスを全調査 | VODB! by チバテレ",
-      "url": "https://www.chiba-tv.com/vod-db/kusuriya-s3-anime/",
-      "host": "chiba-tv.com",
-      "source": "千葉テレビ放送株式会社",
-      "summary": "",
-      "publishedAt": "2026-11-02T00:20:02.000Z",
-      "image": "https://www.chiba-tv.com/vod-db/wp-content/uploads/2026/09/eyecatch_kusuriya-s3-anime.png",
-      "categories": [
-        "anime"
-      ],
-      "works": [
-        "kusuriya"
-      ],
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": true
     },
     {
       "id": "d457f4bbd960",
@@ -1716,7 +1696,7 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "5894ad13c146",
@@ -1811,7 +1791,7 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "2a7010934071",
@@ -1988,7 +1968,7 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "8203a21446f3",
@@ -2029,6 +2009,24 @@
       "viaGoogle": false,
       "sourceKind": "news",
       "isNew": false
+    },
+    {
+      "id": "40af348df4e5",
+      "title": "2027年1月より、放送開始！TVアニメ「おデブ悪女に転生したら、なぜかラスボス王子様に執着されています」",
+      "url": "https://news.nicovideo.jp/watch/nw19942066",
+      "host": "news.nicovideo.jp",
+      "source": "ニコニコニュース",
+      "summary": "",
+      "publishedAt": "2026-10-30T23:30:23.000Z",
+      "image": "",
+      "categories": [
+        "anime"
+      ],
+      "works": [],
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": true
     },
     {
       "id": "87abb7da127e",
@@ -2090,9 +2088,9 @@
       "isNew": false
     },
     {
-      "id": "566bdce551f7",
-      "title": "TVアニメ「追放された転生重騎士はゲーム知識で無双する」描き下ろしハロウィンビジュアル [画像・動画ギャラリー 1/3]",
-      "url": "https://natalie.mu/comic/gallery/news/695950/3004829",
+      "id": "6b663d231714",
+      "title": "TVアニメ「追放された転生重騎士はゲーム知識で無双する」キービジュアル [画像・動画ギャラリー 2/3]",
+      "url": "https://natalie.mu/comic/gallery/news/695950/2975006",
       "host": "natalie.mu",
       "source": "ナタリー",
       "summary": "",
@@ -2106,7 +2104,7 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": false
+      "isNew": true
     },
     {
       "id": "3b528ee64d80",
@@ -2145,7 +2143,7 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "b0349487c01c",
