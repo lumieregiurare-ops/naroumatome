@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-02T20:00:22.505Z",
+  "updatedAt": "2026-11-02T20:30:21.309Z",
   "site": {
     "title": "なろう系まとめ",
     "tagline": "小説家になろう発の作品のアニメ化・コミカライズ・書籍化のニュースと、なろうのランキングをまとめています。",
@@ -32,7 +32,7 @@
     {
       "id": "game",
       "label": "ゲーム",
-      "count": 4
+      "count": 5
     },
     {
       "id": "goods",
@@ -50,7 +50,7 @@
       "id": "tensura",
       "title": "転生したらスライムだった件",
       "short": "転スラ",
-      "count": 4
+      "count": 3
     },
     {
       "id": "mushoku",
@@ -62,7 +62,7 @@
       "id": "rezero",
       "title": "Re:ゼロから始める異世界生活",
       "short": "リゼロ",
-      "count": 0
+      "count": 1
     },
     {
       "id": "honzuki",
@@ -308,7 +308,7 @@
     },
     {
       "name": "ナタリー",
-      "count": 5
+      "count": 6
     },
     {
       "name": "アニメ！アニメ！",
@@ -371,14 +371,6 @@
       "count": 1
     },
     {
-      "name": "Infoseek",
-      "count": 1
-    },
-    {
-      "name": "Unisba Media",
-      "count": 1
-    },
-    {
       "name": "にじめん",
       "count": 1
     },
@@ -416,6 +408,10 @@
     },
     {
       "name": "ぴあエンタメ情報",
+      "count": 1
+    },
+    {
+      "name": "ｄメニューニュース",
       "count": 1
     },
     {
@@ -748,12 +744,12 @@
     }
   ],
   "churn": {
-    "previousAt": "2026-11-02T19:30:20.032Z",
+    "previousAt": "2026-11-02T20:00:22.505Z",
     "previousCount": 73,
     "newCount": 2
   },
   "updateGapMin": 30,
-  "nextUpdateAt": "2026-11-02T20:30:22.505Z",
+  "nextUpdateAt": "2026-11-02T21:00:21.309Z",
   "items": [
     {
       "id": "ca58279a372c",
@@ -1085,24 +1081,6 @@
       "isNew": false
     },
     {
-      "id": "ef8ab01dbbf4",
-      "title": "【無料】もし流行作『80億分の1』で死んだあとに異世界転生できたら？非公式ファン作品『80億分の、2回目』公開中―古竜や看板猫、剣の刺さった岩にも転生",
-      "url": "https://news.infoseek.co.jp/article/gamespark_174381/",
-      "host": "news.infoseek.co.jp",
-      "source": "Infoseek",
-      "summary": "",
-      "publishedAt": "2026-11-02T03:45:03.000Z",
-      "image": "https://media.image.infoseek.co.jp/isnews/photos/gamespark/gamespark_174381_0-enlarge.jpg",
-      "categories": [
-        "other"
-      ],
-      "works": [],
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": false
-    },
-    {
       "id": "851deec231e8",
       "title": "＜薬屋のひとりごと＞ハロウィン2026新規ビジュアルが公開…第3弾は壬氏＆馬閃 ミニボイスドラマや集合ビジュアルも解禁",
       "url": "https://news.yahoo.co.jp/articles/fd77a800b20e285b6a686b43b2c6dfbe4d3701e4/images/000",
@@ -1194,26 +1172,6 @@
       ],
       "works": [
         "kusuriya"
-      ],
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": false
-    },
-    {
-      "id": "23aa6eb6b4ae",
-      "title": "藍井エイル「絵空事」Lyric Video（TVアニメ『転生したらスライムだった件 第4期』オープニング主題歌） Seven Movie (yCNFzTLyMI)",
-      "url": "https://media.unisba.ac.id/9b48b873/b499bccdahL61xAPQQ",
-      "host": "media.unisba.ac.id",
-      "source": "Unisba Media",
-      "summary": "",
-      "publishedAt": "2026-11-02T02:49:57.000Z",
-      "image": "",
-      "categories": [
-        "anime"
-      ],
-      "works": [
-        "tensura"
       ],
       "isPR": false,
       "viaGoogle": false,
@@ -1737,24 +1695,6 @@
       "isNew": false
     },
     {
-      "id": "d34e834ab75f",
-      "title": "「異世界帰りのみやびさん」カラーイラスト [画像ギャラリー 1/9]",
-      "url": "https://natalie.mu/comic/gallery/news/696139/3005889",
-      "host": "natalie.mu",
-      "source": "ナタリー",
-      "summary": "",
-      "publishedAt": "2026-10-31T10:18:27.000Z",
-      "image": "",
-      "categories": [
-        "other"
-      ],
-      "works": [],
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": false
-    },
-    {
       "id": "1dc6e3b619e2",
       "title": "「異世界帰りのみやびさん」第1話より [画像ギャラリー 2/9]",
       "url": "https://natalie.mu/comic/gallery/news/696139/3005890",
@@ -1765,6 +1705,24 @@
       "image": "",
       "categories": [
         "anime"
+      ],
+      "works": [],
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": false
+    },
+    {
+      "id": "d34e834ab75f",
+      "title": "「異世界帰りのみやびさん」カラーイラスト [画像ギャラリー 1/9]",
+      "url": "https://natalie.mu/comic/gallery/news/696139/3005889",
+      "host": "natalie.mu",
+      "source": "ナタリー",
+      "summary": "",
+      "publishedAt": "2026-10-31T10:18:27.000Z",
+      "image": "",
+      "categories": [
+        "other"
       ],
       "works": [],
       "isPR": false,
@@ -2011,6 +1969,26 @@
       "isNew": false
     },
     {
+      "id": "3a46c80964f4",
+      "title": "Re:ゼロから始める異世界生活 × ラグーナテンボス 〜ようこそ、光きらめく水門都市へ。〜",
+      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQQllVQ3oxOVVhbmxWeGtLZUNFTzV3Q25uSldiS3JsaTVVWUMyN1BzQmVjQmlVaU1kMThTUXVmdmgtWEdqbDlCTlhwMHVibTZLRUh2VGxyX0I5QklLWkNKdjJFTzgtNEV5T0dBdzZFUHpDRTRlSWM1Mm5Uc0pZM1JTN1ZnNEpUZ9IBhgFBVV95cUxQQllVQ3oxOVVhbmxWeGtLZUNFTzV3Q25uSldiS3JsaTVVWUMyN1BzQmVjQmlVaU1kMThTUXVmdmgtWEdqbDlCTlhwMHVibTZLRUh2VGxyX0I5QklLWkNKdjJFTzgtNEV5T0dBdzZFUHpDRTRlSWM1Mm5Uc0pZM1JTN1ZnNEpUZw?oc=5",
+      "host": "topics.smt.docomo.ne.jp",
+      "source": "ｄメニューニュース",
+      "summary": "",
+      "publishedAt": "2026-10-31T01:00:00.000Z",
+      "image": "",
+      "categories": [
+        "other"
+      ],
+      "works": [
+        "rezero"
+      ],
+      "isPR": false,
+      "viaGoogle": true,
+      "sourceKind": "news",
+      "isNew": true
+    },
+    {
       "id": "40af348df4e5",
       "title": "2027年1月より、放送開始！TVアニメ「おデブ悪女に転生したら、なぜかラスボス王子様に執着されています」",
       "url": "https://news.nicovideo.jp/watch/nw19942066",
@@ -2026,7 +2004,7 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "87abb7da127e",
@@ -2088,6 +2066,25 @@
       "isNew": false
     },
     {
+      "id": "566bdce551f7",
+      "title": "TVアニメ「追放された転生重騎士はゲーム知識で無双する」描き下ろしハロウィンビジュアル [画像・動画ギャラリー 1/3]",
+      "url": "https://natalie.mu/comic/gallery/news/695950/3004829",
+      "host": "natalie.mu",
+      "source": "ナタリー",
+      "summary": "",
+      "publishedAt": "2026-10-30T23:03:00.000Z",
+      "image": "",
+      "categories": [
+        "anime",
+        "game"
+      ],
+      "works": [],
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": true
+    },
+    {
       "id": "6b663d231714",
       "title": "TVアニメ「追放された転生重騎士はゲーム知識で無双する」キービジュアル [画像・動画ギャラリー 2/3]",
       "url": "https://natalie.mu/comic/gallery/news/695950/2975006",
@@ -2104,7 +2101,7 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "3b528ee64d80",
