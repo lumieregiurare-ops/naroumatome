@@ -1,13 +1,13 @@
 {
-  "updatedAt": "2026-11-03T04:30:19.179Z",
+  "updatedAt": "2026-11-03T05:00:21.760Z",
   "site": {
     "title": "なろう系まとめ",
     "tagline": "小説家になろう発の作品のアニメ化・コミカライズ・書籍化のニュースと、なろうのランキングをまとめています。",
     "url": "https://naroumatome.gamelab.website/",
     "contactUrl": "https://docs.google.com/forms/d/e/1FAIpQLSesWyhmZ6sRS_ve-c3X2KqF_wC5PK2TgwgQbTKmnQltSlg5Jw/viewform"
   },
-  "total": 69,
-  "todayCount": 15,
+  "total": 67,
+  "todayCount": 16,
   "categories": [
     {
       "id": "anime",
@@ -17,7 +17,7 @@
     {
       "id": "comic",
       "label": "コミカライズ",
-      "count": 10
+      "count": 9
     },
     {
       "id": "book",
@@ -27,7 +27,7 @@
     {
       "id": "web",
       "label": "Web小説・賞",
-      "count": 2
+      "count": 1
     },
     {
       "id": "game",
@@ -37,12 +37,12 @@
     {
       "id": "goods",
       "label": "グッズ・イベント",
-      "count": 5
+      "count": 6
     },
     {
       "id": "other",
       "label": "そのほか",
-      "count": 19
+      "count": 18
     }
   ],
   "works": [
@@ -74,7 +74,7 @@
       "id": "kusuriya",
       "title": "薬屋のひとりごと",
       "short": "薬屋",
-      "count": 25
+      "count": 27
     },
     {
       "id": "kagejitsu",
@@ -296,31 +296,39 @@
   "sources": [
     {
       "name": "山陽新聞",
-      "count": 10
-    },
-    {
-      "name": "Yahoo!ニュース",
-      "count": 9
+      "count": 11
     },
     {
       "name": "ラノベニュースオンライン",
       "count": 8
     },
     {
+      "name": "Yahoo!ニュース",
+      "count": 8
+    },
+    {
       "name": "ナタリー",
-      "count": 6
-    },
-    {
-      "name": "WEBザテレビジョン",
-      "count": 4
-    },
-    {
-      "name": "アニメイトタイムズ",
       "count": 4
     },
     {
       "name": "アニメ！アニメ！",
+      "count": 4
+    },
+    {
+      "name": "WEBザテレビジョン",
       "count": 3
+    },
+    {
+      "name": "アニメイトタイムズ",
+      "count": 3
+    },
+    {
+      "name": "リアルサウンド",
+      "count": 2
+    },
+    {
+      "name": "ABEMA",
+      "count": 2
     },
     {
       "name": "Infoseek",
@@ -332,6 +340,10 @@
     },
     {
       "name": "AppMedia",
+      "count": 1
+    },
+    {
+      "name": "ライブドアニュース",
       "count": 1
     },
     {
@@ -347,19 +359,11 @@
       "count": 1
     },
     {
-      "name": "リアルサウンド",
-      "count": 1
-    },
-    {
       "name": "Howl.Link",
       "count": 1
     },
     {
       "name": "TBSラジオ",
-      "count": 1
-    },
-    {
-      "name": "ABEMA",
       "count": 1
     },
     {
@@ -372,10 +376,6 @@
     },
     {
       "name": "https://mediadogs.jp/",
-      "count": 1
-    },
-    {
-      "name": "PR TIMES",
       "count": 1
     },
     {
@@ -409,30 +409,27 @@
     {
       "name": "Ameba News [アメーバニュース]",
       "count": 1
-    },
-    {
-      "name": "毎日新聞",
-      "count": 1
     }
   ],
   "topics": [
     {
-      "id": "4ddb3595d662",
-      "title": "「薬屋のひとりごと」限定アイテムが、ワークマンから11月上旬発売！薬手帳ケース、Tシャツなど実用性バッチリな全18種",
+      "id": "5d874de9b79b",
+      "title": "猫猫と壬氏の描きおろしグッズが当たる！ツムラ和漢のど飴シリーズ『劇場版 薬屋のひとりごと 亡妃の秘宝』タイアップキャンペーン",
       "summary": "",
-      "url": "https://s.inside-games.jp/article/2026/11/03/190291.html",
-      "image": "https://www.inside-games.jp/imgs/ogp_f/1774870.jpg",
-      "leadSource": "インサイド",
-      "publishedAt": "2026-11-02T22:20:03.000Z",
+      "url": "https://news.livedoor.com/article/detail/32720312/",
+      "image": "https://image.news.livedoor.com/newsimage/stf/1/e/1ee9d_1604_329d1ef8_a623334b.jpg",
+      "leadSource": "ライブドアニュース",
+      "publishedAt": "2026-11-03T02:20:44.000Z",
       "sourceCount": 3,
       "articleCount": 3,
       "categories": [
-        "other"
+        "anime",
+        "goods"
       ],
       "keywords": [
         "薬屋",
-        "アイテム",
-        "ワークマン"
+        "劇場版",
+        "亡妃"
       ],
       "articles": [
         {
@@ -443,10 +440,46 @@
           "isPR": false
         },
         {
-          "title": "「全部欲しい…」ワークマンの11/6発売『薬屋のひとりごと』アイテムが話題。お薬手帳ケースに注目",
-          "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPT0lrUHBMbFJLVENHQ1BWcVR2QWVndUxrUlpaN1VRWEZadFdCVF9USjVHWHNjdWJob3dWRV9PTG5qc2x2c3FTcXhmelBBYnBPU3FOMlBLMWdOQVF6MHg4VXdEanRtWFI0OFhlTWdHSC1abDdfT3FEVFFhUzQzOUJlUzJsMNIBiAFBVV95cUxQbVFBZFNpUm1LbkZlUWZYQjg1bGM3R1otVmt0bWZBckk4MmRYX29MMEdYTVE1SG9JcndKeThiWWRZUHQ3ekxZdEdFUDFQTVBkYy1pTDdMLUJFeDVGTVdIZ3N0cjhCZGIzM1RjVE1meUVid1p3dFJTR3J5RWQxNlR3d2hnT3NIa0ZC?oc=5",
-          "source": "ｄメニューニュース",
-          "publishedAt": "2026-11-02T12:10:00.000Z",
+          "title": "『劇場版 薬屋のひとりごと 亡妃の秘宝』の予告編で流れる曲は？（CDJournal）",
+          "url": "https://news.yahoo.co.jp/articles/650836597914fe073567ca787fa0c584a2fe812f",
+          "source": "Yahoo!ニュース",
+          "publishedAt": "2026-11-02T04:13:05.000Z",
+          "isPR": false
+        }
+      ]
+    },
+    {
+      "id": "82ec1c346797",
+      "title": "「薬屋のひとりごと」猫猫、壬氏、陸孫の魔法使いビジュがグッズに！アニメイトではビジュアルカードがもらえるフェアも",
+      "summary": "アニメ『薬屋のひとりごと』より、ハロウィンテーマの猫猫や壬氏をデザインした新商品が登場。2026年11月14日（土）より販売されるほか、同日から「アニメ『薬屋のひとりごと』ハロウィンフェア 2026 魔法使いたちのハロウィンナイト ㏌ アニメイト」も開催される。",
+      "url": "https://animeanime.jp/article/2026/11/02/104428.html",
+      "image": "https://animeanime.jp/imgs/rss/950730.jpg",
+      "leadSource": "アニメ！アニメ！",
+      "publishedAt": "2026-11-02T09:54:16.000Z",
+      "sourceCount": 3,
+      "articleCount": 3,
+      "categories": [
+        "other",
+        "anime"
+      ],
+      "keywords": [
+        "薬屋",
+        "ビジュ",
+        "壬氏"
+      ],
+      "articles": [
+        {
+          "title": "「ビジュだけで優勝してる」ハロウィンに乗り気な壬氏さま＆慣れてない馬閃!?『薬屋のひとりごと』ボイスドラマ3弾に反響",
+          "url": "https://news.yahoo.co.jp/articles/46e605553325d05712c34f08ffee8f592419839d",
+          "source": "Yahoo!ニュース",
+          "publishedAt": "2026-11-02T09:54:16.000Z",
+          "isPR": false
+        },
+        {
+          "title": "『薬屋のひとりごと』第3期スタート！最新話に反響 消えた“友”を回想する猫猫に「泣ける」「胸がキュッとする」",
+          "url": "https://www.sanyonews.jp/article/1998830?kw",
+          "source": "山陽新聞",
+          "publishedAt": "2026-10-31T22:25:20.000Z",
           "isPR": false
         }
       ]
@@ -494,6 +527,42 @@
       ]
     },
     {
+      "id": "eecf71fa228d",
+      "title": "【まおりゅう】ガチャはどれを引くべき？【転スラ】",
+      "summary": "",
+      "url": "https://appmedia.jp/ten-sura-m/27053896",
+      "image": "https://appmedia.jp/wp-content/uploads/2023/03/145410_zm20o.webp",
+      "leadSource": "AppMedia",
+      "publishedAt": "2026-11-03T04:37:19.000Z",
+      "sourceCount": 2,
+      "articleCount": 3,
+      "categories": [
+        "game",
+        "anime"
+      ],
+      "keywords": [
+        "転スラ",
+        "カット",
+        "場面"
+      ],
+      "articles": [
+        {
+          "title": "『転スラ』剣を交えるリムルとレオン！ルミナスも動く 第91話あらすじ＆場面カット解禁",
+          "url": "https://www.sanyonews.jp/article/1973862?kw",
+          "source": "山陽新聞",
+          "publishedAt": "2026-11-02T17:35:58.000Z",
+          "isPR": false
+        },
+        {
+          "title": "『無職転生』“不死魔王”アトーフェラトーフェが立ちふさがる 第3期の第10話あらすじ＆場面カット公開",
+          "url": "https://www.sanyonews.jp/article/1978431?rct",
+          "source": "山陽新聞",
+          "publishedAt": "2026-11-01T22:58:01.000Z",
+          "isPR": false
+        }
+      ]
+    },
+    {
       "id": "616e4171c3f6",
       "title": "『薬屋のひとりごと』ハロウィン企画ビジュアル＆ミニボイスドラマ公開 3日連続解禁で第1弾は猫猫＆趙迂",
       "summary": "",
@@ -530,83 +599,29 @@
       ]
     },
     {
-      "id": "9cb02155fa93",
-      "title": "転生重騎士＞束の間の休息を取るエルマとルーチェはラーナ地底湖へ釣りに出掛ける…第19話あらすじ＆場面カット公開",
+      "id": "4ddb3595d662",
+      "title": "「薬屋のひとりごと」限定アイテムが、ワークマンから11月上旬発売！薬手帳ケース、Tシャツなど実用性バッチリな全18種",
       "summary": "",
-      "url": "https://thetv.jp/news/detail/1453913/",
-      "image": "https://thetv.jp/i/nw/1453913/19037192.jpg?w=1284",
-      "leadSource": "WEBザテレビジョン",
-      "publishedAt": "2026-11-03T03:00:00.000Z",
+      "url": "https://s.inside-games.jp/article/2026/11/03/190291.html",
+      "image": "https://www.inside-games.jp/imgs/ogp_f/1774870.jpg",
+      "leadSource": "インサイド",
+      "publishedAt": "2026-11-02T22:20:03.000Z",
       "sourceCount": 2,
       "articleCount": 2,
       "categories": [
-        "anime"
-      ],
-      "keywords": [
-        "カット",
-        "場面"
-      ],
-      "articles": [
-        {
-          "title": "『無職転生』“不死魔王”アトーフェラトーフェが立ちふさがる 第3期の第10話あらすじ＆場面カット公開",
-          "url": "https://www.sanyonews.jp/article/1978431?rct",
-          "source": "山陽新聞",
-          "publishedAt": "2026-11-01T22:58:01.000Z",
-          "isPR": false
-        }
-      ]
-    },
-    {
-      "id": "eecf71fa228d",
-      "title": "【まおりゅう】ガチャはどれを引くべき？【転スラ】",
-      "summary": "",
-      "url": "https://appmedia.jp/ten-sura-m/27053896",
-      "image": "https://appmedia.jp/wp-content/uploads/2023/03/145410_zm20o.webp",
-      "leadSource": "AppMedia",
-      "publishedAt": "2026-11-03T01:34:18.000Z",
-      "sourceCount": 2,
-      "articleCount": 2,
-      "categories": [
-        "game"
-      ],
-      "keywords": [
-        "ガチャ"
-      ],
-      "articles": [
-        {
-          "title": "信じていた仲間達にダンジョン奥地で殺されかけたがギフト『無限ガチャ』でレベル9999の仲間達を手に入れて元パーティーメンバーと世界に復讐＆『ざまぁ！』します！",
-          "url": "https://pocket.shonenmagazine.com/title/01379/episode/445774",
-          "source": "マガポケ",
-          "publishedAt": "2026-11-02T18:13:43.000Z",
-          "isPR": false
-        }
-      ]
-    },
-    {
-      "id": "b0a2d69b45a3",
-      "title": "TVアニメ「アラフォー賢者の異世界生活日記」ティザーPV [画像・動画ギャラリー 4/4]",
-      "summary": "",
-      "url": "https://natalie.mu/comic/gallery/news/696392/media/142122",
-      "image": "https://www.animatetimes.com/img/ogimage.png",
-      "leadSource": "ナタリー",
-      "publishedAt": "2026-11-03T01:03:47.000Z",
-      "sourceCount": 2,
-      "articleCount": 2,
-      "categories": [
-        "anime",
         "other"
       ],
       "keywords": [
-        "アラフォー",
-        "賢者",
-        "異世界生活日記"
+        "薬屋",
+        "アイテム",
+        "ワークマン"
       ],
       "articles": [
         {
-          "title": "『アラフォー賢者の異世界生活日記』いいおっさんの日（11/3）記念、描きおろしビジュアル＆「アラフォーあるあるボイス」公開！",
-          "url": "https://www.animatetimes.com/news/details.php?id",
-          "source": "アニメイトタイムズ",
-          "publishedAt": "2026-11-03T01:00:00.000Z",
+          "title": "「全部欲しい…」ワークマンの11/6発売『薬屋のひとりごと』アイテムが話題。お薬手帳ケースに注目",
+          "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPT0lrUHBMbFJLVENHQ1BWcVR2QWVndUxrUlpaN1VRWEZadFdCVF9USjVHWHNjdWJob3dWRV9PTG5qc2x2c3FTcXhmelBBYnBPU3FOMlBLMWdOQVF6MHg4VXdEanRtWFI0OFhlTWdHSC1abDdfT3FEVFFhUzQzOUJlUzJsMNIBiAFBVV95cUxQbVFBZFNpUm1LbkZlUWZYQjg1bGM3R1otVmt0bWZBckk4MmRYX29MMEdYTVE1SG9JcndKeThiWWRZUHQ3ekxZdEdFUDFQTVBkYy1pTDdMLUJFeDVGTVdIZ3N0cjhCZGIzM1RjVE1meUVid1p3dFJTR3J5RWQxNlR3d2hnT3NIa0ZC?oc=5",
+          "source": "ｄメニューニュース",
+          "publishedAt": "2026-11-02T12:10:00.000Z",
           "isPR": false
         }
       ]
@@ -641,6 +656,34 @@
       ]
     },
     {
+      "id": "b477eeed0978",
+      "title": "第6話 転生ゴブリンだけど質問ある？",
+      "summary": "",
+      "url": "https://thetv.jp/program/0001077857/6/",
+      "image": "",
+      "leadSource": "WEBザテレビジョン",
+      "publishedAt": "2026-11-02T16:42:59.000Z",
+      "sourceCount": 2,
+      "articleCount": 2,
+      "categories": [
+        "anime",
+        "other"
+      ],
+      "keywords": [
+        "ゴブリン",
+        "質問"
+      ],
+      "articles": [
+        {
+          "title": "転生ゴブリンだけど質問ある？ #1〜5",
+          "url": "https://abema.tv/channels/abema-anime-3/slots/BzEMStBCoHyeCF",
+          "source": "ABEMA",
+          "publishedAt": "2026-11-02T01:42:55.000Z",
+          "isPR": false
+        }
+      ]
+    },
+    {
       "id": "51415933a12b",
       "title": "BookLive「COMICエトワール」5周年記念の漫画賞開催 異世界・現代の2部門で金賞10万円",
       "summary": "",
@@ -661,10 +704,10 @@
       "articles": [
         {
           "title": "BookLiveオリジナルコミックス・COMICエトワール5周年記念！「COMICエトワール異世界＆現代キュンッと漫画賞」初開催",
-          "url": "https://prtimes.jp/main/html/rd/p/000000678.000022823.html",
-          "source": "PR TIMES",
-          "publishedAt": "2026-11-02T03:00:02.000Z",
-          "isPR": true
+          "url": "https://animeanime.jp/release/prtimes/20261102/324158.html",
+          "source": "アニメ！アニメ！",
+          "publishedAt": "2026-11-02T03:00:00.000Z",
+          "isPR": false
         }
       ]
     },
@@ -692,35 +735,6 @@
           "url": "https://dot.asahi.com/articles/photo/296585",
           "source": "AERA DIGITAL",
           "publishedAt": "2026-10-31T12:53:01.000Z",
-          "isPR": false
-        }
-      ]
-    },
-    {
-      "id": "82ec1c346797",
-      "title": "「薬屋のひとりごと」猫猫、壬氏、陸孫の魔法使いビジュがグッズに！アニメイトではビジュアルカードがもらえるフェアも",
-      "summary": "アニメ『薬屋のひとりごと』より、ハロウィンテーマの猫猫や壬氏をデザインした新商品が登場。2026年11月14日（土）より販売されるほか、同日から「アニメ『薬屋のひとりごと』ハロウィンフェア 2026 魔法使いたちのハロウィンナイト ㏌ アニメイト」も開催される。",
-      "url": "https://animeanime.jp/article/2026/11/02/104428.html",
-      "image": "https://animeanime.jp/imgs/rss/950730.jpg",
-      "leadSource": "アニメ！アニメ！",
-      "publishedAt": "2026-11-02T09:54:16.000Z",
-      "sourceCount": 2,
-      "articleCount": 2,
-      "categories": [
-        "other",
-        "anime"
-      ],
-      "keywords": [
-        "薬屋",
-        "ビジュ",
-        "壬氏"
-      ],
-      "articles": [
-        {
-          "title": "「ビジュだけで優勝してる」ハロウィンに乗り気な壬氏さま＆慣れてない馬閃!?『薬屋のひとりごと』ボイスドラマ3弾に反響",
-          "url": "https://news.yahoo.co.jp/articles/46e605553325d05712c34f08ffee8f592419839d",
-          "source": "Yahoo!ニュース",
-          "publishedAt": "2026-11-02T09:54:16.000Z",
           "isPR": false
         }
       ]
@@ -784,31 +798,13 @@
     }
   ],
   "churn": {
-    "previousAt": "2026-11-03T04:00:18.046Z",
-    "previousCount": 71,
-    "newCount": 10
+    "previousAt": "2026-11-03T04:30:19.179Z",
+    "previousCount": 69,
+    "newCount": 4
   },
   "updateGapMin": 30,
-  "nextUpdateAt": "2026-11-03T05:00:19.179Z",
+  "nextUpdateAt": "2026-11-03T05:30:21.760Z",
   "items": [
-    {
-      "id": "9cb02155fa93",
-      "title": "転生重騎士＞束の間の休息を取るエルマとルーチェはラーナ地底湖へ釣りに出掛ける…第19話あらすじ＆場面カット公開",
-      "url": "https://thetv.jp/news/detail/1453913/",
-      "host": "thetv.jp",
-      "source": "WEBザテレビジョン",
-      "summary": "",
-      "publishedAt": "2026-11-03T03:00:00.000Z",
-      "image": "https://thetv.jp/i/nw/1453913/19037192.jpg?w=1284",
-      "categories": [
-        "anime"
-      ],
-      "works": [],
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": false
-    },
     {
       "id": "eecf71fa228d",
       "title": "【まおりゅう】ガチャはどれを引くべき？【転スラ】",
@@ -816,7 +812,7 @@
       "host": "appmedia.jp",
       "source": "AppMedia",
       "summary": "",
-      "publishedAt": "2026-11-03T01:34:18.000Z",
+      "publishedAt": "2026-11-03T04:37:19.000Z",
       "image": "https://appmedia.jp/wp-content/uploads/2023/03/145410_zm20o.webp",
       "categories": [
         "game"
@@ -828,6 +824,27 @@
       "viaGoogle": false,
       "sourceKind": "news",
       "isNew": false
+    },
+    {
+      "id": "5d874de9b79b",
+      "title": "猫猫と壬氏の描きおろしグッズが当たる！ツムラ和漢のど飴シリーズ『劇場版 薬屋のひとりごと 亡妃の秘宝』タイアップキャンペーン",
+      "url": "https://news.livedoor.com/article/detail/32720312/",
+      "host": "news.livedoor.com",
+      "source": "ライブドアニュース",
+      "summary": "",
+      "publishedAt": "2026-11-03T02:20:44.000Z",
+      "image": "https://image.news.livedoor.com/newsimage/stf/1/e/1ee9d_1604_329d1ef8_a623334b.jpg",
+      "categories": [
+        "anime",
+        "goods"
+      ],
+      "works": [
+        "kusuriya"
+      ],
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": true
     },
     {
       "id": "b0a2d69b45a3",
@@ -846,24 +863,6 @@
       "viaGoogle": false,
       "sourceKind": "news",
       "isNew": false
-    },
-    {
-      "id": "678e324f7bc7",
-      "title": "『アラフォー賢者の異世界生活日記』いいおっさんの日（11/3）記念、描きおろしビジュアル＆「アラフォーあるあるボイス」公開！",
-      "url": "https://www.animatetimes.com/news/details.php?id",
-      "host": "animatetimes.com",
-      "source": "アニメイトタイムズ",
-      "summary": "",
-      "publishedAt": "2026-11-03T01:00:00.000Z",
-      "image": "https://www.animatetimes.com/img/ogimage.png",
-      "categories": [
-        "other"
-      ],
-      "works": [],
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": true
     },
     {
       "id": "caaff9a54b68",
@@ -941,7 +940,7 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "341349d01900",
@@ -961,7 +960,7 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "e9d674b7ca2e",
@@ -984,12 +983,12 @@
     {
       "id": "e8273a932b5d",
       "title": "米津玄師、Mrs. GREEN APPLE、ヨルシカ、幾田りら……『薬屋のひとりごと』主題歌は何を描いた？ 独自の視点で紡ぐ音楽",
-      "url": "https://news.yahoo.co.jp/articles/26d47776ef9edc2bef74abaf71e1909803dc656a",
-      "host": "news.yahoo.co.jp",
-      "source": "Yahoo!ニュース",
+      "url": "https://realsound.jp/2026/11/post-2572423.html",
+      "host": "realsound.jp",
+      "source": "リアルサウンド",
       "summary": "",
-      "publishedAt": "2026-11-02T20:50:13.000Z",
-      "image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20261103-00010006-realsound-000-1-view.jpg?exp=10800",
+      "publishedAt": "2026-11-02T20:50:29.000Z",
+      "image": "https://realsound.jp/wp-content/uploads/2026/11/20261102-yonedu-999.jpeg",
       "categories": [
         "anime"
       ],
@@ -1041,14 +1040,52 @@
       "isNew": false
     },
     {
+      "id": "1d034ea68c7b",
+      "title": "『転スラ』剣を交えるリムルとレオン！ルミナスも動く 第91話あらすじ＆場面カット解禁",
+      "url": "https://www.sanyonews.jp/article/1973862?kw",
+      "host": "sanyonews.jp",
+      "source": "山陽新聞",
+      "summary": "",
+      "publishedAt": "2026-11-02T17:35:58.000Z",
+      "image": "https://static.sanyonews.jp/image/article/size1/c/5/6/4/c564fde6e19fffbb9ffc1ef2aae7229b_1.jpg",
+      "categories": [
+        "anime"
+      ],
+      "works": [
+        "tensura"
+      ],
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": false
+    },
+    {
+      "id": "b477eeed0978",
+      "title": "第6話 転生ゴブリンだけど質問ある？",
+      "url": "https://thetv.jp/program/0001077857/6/",
+      "host": "thetv.jp",
+      "source": "WEBザテレビジョン",
+      "summary": "",
+      "publishedAt": "2026-11-02T16:42:59.000Z",
+      "image": "",
+      "categories": [
+        "anime"
+      ],
+      "works": [],
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": true
+    },
+    {
       "id": "48117da4aa3a",
       "title": "信じていた仲間達にダンジョン奥地で殺されかけたがギフト『無限ガチャ』でレベル9999の仲間達を手に入れて元パーティーメンバーと世界に復讐＆『ざまぁ！』します！",
-      "url": "https://pocket.shonenmagazine.com/title/01379/episode/445774",
+      "url": "https://pocket.shonenmagazine.com/title/01379/episode/445773",
       "host": "pocket.shonenmagazine.com",
       "source": "マガポケ",
       "summary": "",
-      "publishedAt": "2026-11-02T18:13:43.000Z",
-      "image": "https://mgpk-cdn.magazinepocket.com/static/titles/1379/episodes/445774/thumbnail_20261019154900042460d4c0c4c5c8839ff258f9153d3a.png",
+      "publishedAt": "2026-11-02T15:15:03.000Z",
+      "image": "https://mgpk-cdn.magazinepocket.com/static/titles/1379/episodes/445773/thumbnail_20261019154900b4637e909448a415935ce1c002933cdd.png",
       "categories": [
         "game"
       ],
@@ -1152,7 +1189,7 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "51dab2978055",
@@ -1278,7 +1315,7 @@
       "source": "https://mediadogs.jp/",
       "summary": "",
       "publishedAt": "2026-11-02T09:11:27.000Z",
-      "image": "https://mediadogs.jp/wp-content/uploads/2026/11/eyecatch-54.webp",
+      "image": "",
       "categories": [
         "other"
       ],
@@ -1349,7 +1386,7 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "5d9cd10e4b1f",
@@ -1427,7 +1464,7 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "851deec231e8",
@@ -1450,39 +1487,19 @@
       "isNew": false
     },
     {
-      "id": "1d034ea68c7b",
-      "title": "『転スラ』剣を交えるリムルとレオン！ルミナスも動く 第91話あらすじ＆場面カット解禁",
-      "url": "https://www.sanyonews.jp/photo/detail?article_id",
-      "host": "sanyonews.jp",
-      "source": "山陽新聞",
-      "summary": "",
-      "publishedAt": "2026-11-02T03:22:30.000Z",
-      "image": "",
-      "categories": [
-        "anime"
-      ],
-      "works": [
-        "tensura"
-      ],
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": false
-    },
-    {
       "id": "79b1621c8b30",
       "title": "BookLiveオリジナルコミックス・COMICエトワール5周年記念！「COMICエトワール異世界＆現代キュンッと漫画賞」初開催",
-      "url": "https://prtimes.jp/main/html/rd/p/000000678.000022823.html",
-      "host": "prtimes.jp",
-      "source": "PR TIMES",
+      "url": "https://animeanime.jp/release/prtimes/20261102/324158.html",
+      "host": "animeanime.jp",
+      "source": "アニメ！アニメ！",
       "summary": "",
-      "publishedAt": "2026-11-02T03:00:02.000Z",
-      "image": "https://prcdn.freetls.fastly.net/release_image/22823/678/22823-678-2b6e1b917b8354d3a365d97550d63251-1200x600.jpg?format=jpeg&auto=webp&fit=bounds&width=2400&height=1260",
+      "publishedAt": "2026-11-02T03:00:00.000Z",
+      "image": "https://animeanime.jp/release/imgs/list/569540.jpg",
       "categories": [
         "comic"
       ],
       "works": [],
-      "isPR": true,
+      "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
       "isNew": false
@@ -1546,6 +1563,24 @@
       "viaGoogle": false,
       "sourceKind": "news",
       "isNew": false
+    },
+    {
+      "id": "93041da54e2d",
+      "title": "転生ゴブリンだけど質問ある？ #1〜5",
+      "url": "https://abema.tv/channels/abema-anime-3/slots/BzEMStBCoHyeCF",
+      "host": "abema.tv",
+      "source": "ABEMA",
+      "summary": "",
+      "publishedAt": "2026-11-02T01:42:55.000Z",
+      "image": "",
+      "categories": [
+        "other"
+      ],
+      "works": [],
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": true
     },
     {
       "id": "6bcfa3801fe2",
@@ -1647,7 +1682,7 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "39bf293e490e",
@@ -1668,24 +1703,6 @@
       "viaGoogle": false,
       "sourceKind": "news",
       "isNew": false
-    },
-    {
-      "id": "a931929df23f",
-      "title": "転生重騎士＞ルーチェのかわいらしさが際立つモンスターの仮装…描き下ろしハロウィンビジュアル公開 (関連動画)",
-      "url": "https://thetv.jp/news/detail/1453232/embed/video/",
-      "host": "thetv.jp",
-      "source": "WEBザテレビジョン",
-      "summary": "",
-      "publishedAt": "2026-11-01T12:29:53.000Z",
-      "image": "https://thetv.jp/i/nw/1453232/ogp_TWQzSbuC.jpg?w=1284",
-      "categories": [
-        "other"
-      ],
-      "works": [],
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": true
     },
     {
       "id": "6d792ad8bfac",
@@ -1805,6 +1822,26 @@
       "isNew": false
     },
     {
+      "id": "1956c71b05fe",
+      "title": "転生したら剣でしたII＞リッチの怨念に追い詰められたフラン…能力解放で異変が起こる 第5話あらすじ＆先行カット公開(2/3)",
+      "url": "https://thetv.jp/news/detail/1453503/p2/",
+      "host": "thetv.jp",
+      "source": "WEBザテレビジョン",
+      "summary": "",
+      "publishedAt": "2026-10-31T23:44:49.000Z",
+      "image": "https://thetv.jp/i/nw/1453503/19014501.jpg?w=1284",
+      "categories": [
+        "anime"
+      ],
+      "works": [
+        "tenken"
+      ],
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": false
+    },
+    {
       "id": "dc0af6e99f3e",
       "title": "アニメ第3期『転生貴族、鑑定スキルで成り上がる』第30話「フジミヤ」クメール河で戦いを経たアルスたち【先行カット】",
       "url": "https://news.infoseek.co.jp/amp/article/otakulab_212273/",
@@ -1823,6 +1860,26 @@
       "viaGoogle": false,
       "sourceKind": "news",
       "isNew": false
+    },
+    {
+      "id": "584c7d54d889",
+      "title": "『薬屋のひとりごと』第3期スタート！最新話に反響 消えた“友”を回想する猫猫に「泣ける」「胸がキュッとする」",
+      "url": "https://www.sanyonews.jp/article/1998830?kw",
+      "host": "sanyonews.jp",
+      "source": "山陽新聞",
+      "summary": "",
+      "publishedAt": "2026-10-31T22:25:20.000Z",
+      "image": "https://static.sanyonews.jp/image/article/size1/c/f/b/2/cfb271cb62c557124183ba34301ee1a3_1.jpg",
+      "categories": [
+        "anime"
+      ],
+      "works": [
+        "kusuriya"
+      ],
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": true
     },
     {
       "id": "35523dc4cfd8",
@@ -1923,24 +1980,6 @@
       "isNew": false
     },
     {
-      "id": "6085081a647c",
-      "title": "「異世界帰りのみやびさん」第1話より [画像ギャラリー 4/9]",
-      "url": "https://natalie.mu/comic/gallery/news/696139/3005892",
-      "host": "natalie.mu",
-      "source": "ナタリー",
-      "summary": "",
-      "publishedAt": "2026-10-31T10:18:28.000Z",
-      "image": "",
-      "categories": [
-        "anime"
-      ],
-      "works": [],
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": false
-    },
-    {
       "id": "d34e834ab75f",
       "title": "「異世界帰りのみやびさん」カラーイラスト [画像ギャラリー 1/9]",
       "url": "https://natalie.mu/comic/gallery/news/696139/3005889",
@@ -1951,24 +1990,6 @@
       "image": "",
       "categories": [
         "other"
-      ],
-      "works": [],
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": false
-    },
-    {
-      "id": "5328967c373c",
-      "title": "不死身の妹と魔剣の姉、異世界帰りの2人が地元で平和を謳歌する新連載",
-      "url": "https://natalie.mu/comic/news/696139",
-      "host": "natalie.mu",
-      "source": "ナタリー",
-      "summary": "",
-      "publishedAt": "2026-10-31T10:15:00.000Z",
-      "image": "",
-      "categories": [
-        "comic"
       ],
       "works": [],
       "isPR": false,
@@ -2055,26 +2076,6 @@
       "isNew": false
     },
     {
-      "id": "1956c71b05fe",
-      "title": "転生したら剣でしたII＞リッチの怨念に追い詰められたフラン…能力解放で異変が起こる 第5話あらすじ＆先行カット公開",
-      "url": "https://thetv.jp/news/detail/1453503/",
-      "host": "thetv.jp",
-      "source": "WEBザテレビジョン",
-      "summary": "",
-      "publishedAt": "2026-10-31T08:00:00.000Z",
-      "image": "https://thetv.jp/i/nw/1453503/19014501.jpg?w=1284",
-      "categories": [
-        "anime"
-      ],
-      "works": [
-        "tenken"
-      ],
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": true
-    },
-    {
       "id": "af7c881d3c65",
       "title": "2026年、新作夏アニメのABEMA最終ランキングを発表「無職転生3」が再生数・コメント数の両部門で1位を獲得",
       "url": "https://news.ameba.jp/entry/20261031-12103259/",
@@ -2094,25 +2095,6 @@
       "viaGoogle": false,
       "sourceKind": "news",
       "isNew": false
-    },
-    {
-      "id": "8e30a6bd103e",
-      "title": "プレスリリース：WEB小説『ディスポーザブル・キャスト -夢を見せる宝石少年-』が舞台へと世界を拡大！Hisshigumi Projectのオリジナル作品、朗読劇メインビジュアル解禁（PR TIMES）",
-      "url": "https://mainichi.jp/articles/20261031/pr2/00m/020/177000c",
-      "host": "mainichi.jp",
-      "source": "毎日新聞",
-      "summary": "",
-      "publishedAt": "2026-10-31T03:52:44.000Z",
-      "image": "",
-      "categories": [
-        "web",
-        "anime"
-      ],
-      "works": [],
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": true
     },
     {
       "id": "5cf1ab1ba7e6",
