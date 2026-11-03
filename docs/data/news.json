@@ -1,13 +1,13 @@
 {
-  "updatedAt": "2026-11-03T19:30:37.858Z",
+  "updatedAt": "2026-11-03T20:00:23.961Z",
   "site": {
     "title": "なろう系まとめ",
     "tagline": "小説家になろう発の作品のアニメ化・コミカライズ・書籍化のニュースと、なろうのランキングをまとめています。",
     "url": "https://naroumatome.gamelab.website/",
     "contactUrl": "https://docs.google.com/forms/d/e/1FAIpQLSesWyhmZ6sRS_ve-c3X2KqF_wC5PK2TgwgQbTKmnQltSlg5Jw/viewform"
   },
-  "total": 75,
-  "todayCount": 6,
+  "total": 74,
+  "todayCount": 7,
   "categories": [
     {
       "id": "anime",
@@ -17,7 +17,7 @@
     {
       "id": "comic",
       "label": "コミカライズ",
-      "count": 9
+      "count": 10
     },
     {
       "id": "book",
@@ -27,17 +27,17 @@
     {
       "id": "web",
       "label": "Web小説・賞",
-      "count": 2
+      "count": 1
     },
     {
       "id": "game",
       "label": "ゲーム",
-      "count": 6
+      "count": 5
     },
     {
       "id": "goods",
       "label": "グッズ・イベント",
-      "count": 10
+      "count": 9
     },
     {
       "id": "other",
@@ -50,7 +50,7 @@
       "id": "tensura",
       "title": "転生したらスライムだった件",
       "short": "転スラ",
-      "count": 10
+      "count": 9
     },
     {
       "id": "mushoku",
@@ -74,7 +74,7 @@
       "id": "kusuriya",
       "title": "薬屋のひとりごと",
       "short": "薬屋",
-      "count": 31
+      "count": 32
     },
     {
       "id": "kagejitsu",
@@ -308,7 +308,11 @@
     },
     {
       "name": "WEBザテレビジョン",
-      "count": 7
+      "count": 6
+    },
+    {
+      "name": "ABEMA",
+      "count": 3
     },
     {
       "name": "ナタリー",
@@ -317,14 +321,6 @@
     {
       "name": "アニメ！アニメ！",
       "count": 3
-    },
-    {
-      "name": "キャラグー",
-      "count": 3
-    },
-    {
-      "name": "ABEMA",
-      "count": 2
     },
     {
       "name": "電撃オンライン",
@@ -340,6 +336,10 @@
     },
     {
       "name": "リアルサウンド",
+      "count": 2
+    },
+    {
+      "name": "キャラグー",
       "count": 2
     },
     {
@@ -399,11 +399,11 @@
       "count": 1
     },
     {
-      "name": "千葉テレビ放送株式会社",
+      "name": "にじめん",
       "count": 1
     },
     {
-      "name": "anemo（アネモ）",
+      "name": "千葉テレビ放送株式会社",
       "count": 1
     },
     {
@@ -494,6 +494,34 @@
           "url": "https://thetv.jp/news/detail/1448116/landing/?utm_source",
           "source": "WEBザテレビジョン",
           "publishedAt": "2026-11-03T05:30:01.000Z",
+          "isPR": false
+        }
+      ]
+    },
+    {
+      "id": "b477eeed0978",
+      "title": "第6話 転生ゴブリンだけど質問ある？",
+      "summary": "",
+      "url": "https://thetv.jp/program/0001077857/6/",
+      "image": "",
+      "leadSource": "WEBザテレビジョン",
+      "publishedAt": "2026-11-03T16:27:45.000Z",
+      "sourceCount": 2,
+      "articleCount": 2,
+      "categories": [
+        "anime",
+        "other"
+      ],
+      "keywords": [
+        "ゴブリン",
+        "質問"
+      ],
+      "articles": [
+        {
+          "title": "転生ゴブリンだけど質問ある？ #1〜5",
+          "url": "https://abema.tv/channels/abema-anime-3/slots/BzEMStBCoHyeCF",
+          "source": "ABEMA",
+          "publishedAt": "2026-11-02T01:42:55.000Z",
           "isPR": false
         }
       ]
@@ -723,12 +751,12 @@
     }
   ],
   "churn": {
-    "previousAt": "2026-11-03T19:00:22.194Z",
-    "previousCount": 71,
-    "newCount": 9
+    "previousAt": "2026-11-03T19:30:37.858Z",
+    "previousCount": 75,
+    "newCount": 3
   },
   "updateGapMin": 30,
-  "nextUpdateAt": "2026-11-03T20:00:37.858Z",
+  "nextUpdateAt": "2026-11-03T20:30:23.961Z",
   "items": [
     {
       "id": "735afb1d2667",
@@ -745,6 +773,24 @@
       "works": [
         "tate"
       ],
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": false
+    },
+    {
+      "id": "b477eeed0978",
+      "title": "第6話 転生ゴブリンだけど質問ある？",
+      "url": "https://thetv.jp/program/0001077857/6/",
+      "host": "thetv.jp",
+      "source": "WEBザテレビジョン",
+      "summary": "",
+      "publishedAt": "2026-11-03T16:27:45.000Z",
+      "image": "",
+      "categories": [
+        "anime"
+      ],
+      "works": [],
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
@@ -768,7 +814,7 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "af7c881d3c65",
@@ -1090,7 +1136,7 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "69d022805ca7",
@@ -1128,7 +1174,7 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "d831a8e37c8f",
@@ -1168,7 +1214,7 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "760071b97af5",
@@ -1185,24 +1231,6 @@
       "works": [
         "kusuriya"
       ],
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": true
-    },
-    {
-      "id": "9cb02155fa93",
-      "title": "転生重騎士＞束の間の休息を取るエルマとルーチェはラーナ地底湖へ釣りに出掛ける…第19話あらすじ＆場面カット公開",
-      "url": "https://thetv.jp/news/detail/1453913/",
-      "host": "thetv.jp",
-      "source": "WEBザテレビジョン",
-      "summary": "",
-      "publishedAt": "2026-11-03T03:00:00.000Z",
-      "image": "https://thetv.jp/i/nw/1453913/19037192.jpg?w=1284",
-      "categories": [
-        "anime"
-      ],
-      "works": [],
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
@@ -1227,7 +1255,7 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "b0a2d69b45a3",
@@ -1283,7 +1311,7 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "18c442dd9a7f",
@@ -1421,7 +1449,7 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "ca58279a372c",
@@ -1521,7 +1549,7 @@
     {
       "id": "ea030ce50718",
       "title": "TVアニメ『冰剣の魔術師が世界を統べるⅡ』原作・御子柴奈々先生と編集担当・庄司智さんの異世界ファンタジー作り（アトロクアニメエクストリームジョブ第29回完全版）",
-      "url": "https://www.tbsradio.jp/articles/113675/",
+      "url": "https://www.tbsradio.jp/articles/113675",
       "host": "tbsradio.jp",
       "source": "TBSラジオ",
       "summary": "",
@@ -1849,6 +1877,45 @@
       "isNew": false
     },
     {
+      "id": "93041da54e2d",
+      "title": "転生ゴブリンだけど質問ある？ #1〜5",
+      "url": "https://abema.tv/channels/abema-anime-3/slots/BzEMStBCoHyeCF",
+      "host": "abema.tv",
+      "source": "ABEMA",
+      "summary": "",
+      "publishedAt": "2026-11-02T01:42:55.000Z",
+      "image": "",
+      "categories": [
+        "other"
+      ],
+      "works": [],
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": true
+    },
+    {
+      "id": "6bcfa3801fe2",
+      "title": "dアニメストアでコミック・ノベルのセットが50％OFF！『アオのハコ』『薬屋のひとりごと』など11月14日まで",
+      "url": "https://nijimen.kusuguru.co.jp/topics/647888",
+      "host": "nijimen.kusuguru.co.jp",
+      "source": "にじめん",
+      "summary": "",
+      "publishedAt": "2026-11-02T01:01:00.000Z",
+      "image": "https://nijimen.kusuguru.co.jp/wp-content/uploads/2026/11/daa15ac1bb924c7099738ab8d183712a.jpg",
+      "categories": [
+        "anime",
+        "comic"
+      ],
+      "works": [
+        "kusuriya"
+      ],
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": true
+    },
+    {
       "id": "31a6316691b7",
       "title": "『薬屋のひとりごと』猫猫と壬氏がスクラッチに！ オリジナルグッズが当たるキャンペーンも開催中！",
       "url": "https://animeanime.jp/article/2026/11/02/104403.html",
@@ -1889,25 +1956,6 @@
       "isNew": false
     },
     {
-      "id": "09881625e529",
-      "title": "WEB小説『ディスポーザブル・キャスト -夢を見せる宝石少年-』が舞台へと世界を拡大！Hisshigumi Projectのオリジナル作品、朗読劇メインビジュアル解禁",
-      "url": "https://www.anemo.co.jp/topics/lifestyle/stage-lifestyle/442173-20261102/",
-      "host": "anemo.co.jp",
-      "source": "anemo（アネモ）",
-      "summary": "",
-      "publishedAt": "2026-11-01T23:06:26.000Z",
-      "image": "https://newscast.jp/attachments/qcPlfAuY14FPPJCW33WG.jpg?w=700&h=500&q=100",
-      "categories": [
-        "web",
-        "anime"
-      ],
-      "works": [],
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": false
-    },
-    {
       "id": "d457f4bbd960",
       "title": "『無職転生』“不死魔王”アトーフェラトーフェが立ちふさがる 第3期の第10話あらすじ＆場面カット公開",
       "url": "https://www.sanyonews.jp/article/1978431?rct",
@@ -1942,24 +1990,6 @@
       "works": [
         "honzuki"
       ],
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": false
-    },
-    {
-      "id": "a931929df23f",
-      "title": "転生重騎士＞ルーチェのかわいらしさが際立つモンスターの仮装…描き下ろしハロウィンビジュアル公開 (関連動画)",
-      "url": "https://thetv.jp/news/detail/1453232/embed/video/",
-      "host": "thetv.jp",
-      "source": "WEBザテレビジョン",
-      "summary": "",
-      "publishedAt": "2026-11-01T12:29:53.000Z",
-      "image": "https://thetv.jp/i/nw/1453232/ogp_TWQzSbuC.jpg?w=1284",
-      "categories": [
-        "other"
-      ],
-      "works": [],
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
@@ -2153,27 +2183,6 @@
       "image": "",
       "categories": [
         "game"
-      ],
-      "works": [
-        "tensura"
-      ],
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": false
-    },
-    {
-      "id": "4a2ad20bd316",
-      "title": "転生したらスライムだった件 ひょこっこコレクションフィギュアの設置場所・発売日・ラインナップ｜ガチャガチャ",
-      "url": "https://charagoo.jp/gacha/item/f74329dff9cf/",
-      "host": "charagoo.jp",
-      "source": "キャラグー",
-      "summary": "",
-      "publishedAt": "2026-10-31T19:31:22.000Z",
-      "image": "",
-      "categories": [
-        "game",
-        "goods"
       ],
       "works": [
         "tensura"
