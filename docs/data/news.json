@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-03T12:00:22.309Z",
+  "updatedAt": "2026-11-03T12:30:18.231Z",
   "site": {
     "title": "なろう系まとめ",
     "tagline": "小説家になろう発の作品のアニメ化・コミカライズ・書籍化のニュースと、なろうのランキングをまとめています。",
@@ -7,12 +7,12 @@
     "contactUrl": "https://docs.google.com/forms/d/e/1FAIpQLSesWyhmZ6sRS_ve-c3X2KqF_wC5PK2TgwgQbTKmnQltSlg5Jw/viewform"
   },
   "total": 70,
-  "todayCount": 26,
+  "todayCount": 25,
   "categories": [
     {
       "id": "anime",
       "label": "アニメ",
-      "count": 35
+      "count": 34
     },
     {
       "id": "comic",
@@ -27,12 +27,12 @@
     {
       "id": "web",
       "label": "Web小説・賞",
-      "count": 0
+      "count": 1
     },
     {
       "id": "game",
       "label": "ゲーム",
-      "count": 3
+      "count": 4
     },
     {
       "id": "goods",
@@ -50,13 +50,13 @@
       "id": "tensura",
       "title": "転生したらスライムだった件",
       "short": "転スラ",
-      "count": 8
+      "count": 7
     },
     {
       "id": "mushoku",
       "title": "無職転生 ～異世界行ったら本気だす～",
       "short": "無職転生",
-      "count": 7
+      "count": 8
     },
     {
       "id": "rezero",
@@ -74,7 +74,7 @@
       "id": "kusuriya",
       "title": "薬屋のひとりごと",
       "short": "薬屋",
-      "count": 31
+      "count": 29
     },
     {
       "id": "kagejitsu",
@@ -299,12 +299,12 @@
       "count": 12
     },
     {
-      "name": "山陽新聞",
-      "count": 10
-    },
-    {
       "name": "ラノベニュースオンライン",
       "count": 9
+    },
+    {
+      "name": "山陽新聞",
+      "count": 7
     },
     {
       "name": "Dtimes",
@@ -312,6 +312,10 @@
     },
     {
       "name": "WEBザテレビジョン",
+      "count": 3
+    },
+    {
+      "name": "ナタリー",
       "count": 3
     },
     {
@@ -323,11 +327,11 @@
       "count": 2
     },
     {
-      "name": "ナタリー",
+      "name": "リアルサウンド",
       "count": 2
     },
     {
-      "name": "リアルサウンド",
+      "name": "ABEMA",
       "count": 2
     },
     {
@@ -347,7 +351,15 @@
       "count": 1
     },
     {
+      "name": "uzurea.net",
+      "count": 1
+    },
+    {
       "name": "v-storage.jp",
+      "count": 1
+    },
+    {
+      "name": "マガポケ",
       "count": 1
     },
     {
@@ -359,19 +371,11 @@
       "count": 1
     },
     {
-      "name": "ABEMA",
-      "count": 1
-    },
-    {
       "name": "https://mediadogs.jp/",
       "count": 1
     },
     {
-      "name": "Infoseek",
-      "count": 1
-    },
-    {
-      "name": "Mantan Web",
+      "name": "PR TIMES",
       "count": 1
     },
     {
@@ -649,6 +653,34 @@
       ]
     },
     {
+      "id": "b477eeed0978",
+      "title": "第6話 転生ゴブリンだけど質問ある？",
+      "summary": "",
+      "url": "https://thetv.jp/program/0001077857/6/",
+      "image": "",
+      "leadSource": "WEBザテレビジョン",
+      "publishedAt": "2026-11-02T16:42:59.000Z",
+      "sourceCount": 2,
+      "articleCount": 2,
+      "categories": [
+        "anime",
+        "other"
+      ],
+      "keywords": [
+        "ゴブリン",
+        "質問"
+      ],
+      "articles": [
+        {
+          "title": "転生ゴブリンだけど質問ある？ #1〜5",
+          "url": "https://abema.tv/channels/abema-anime-3/slots/BzEMStBCoHyeCF",
+          "source": "ABEMA",
+          "publishedAt": "2026-11-02T01:42:55.000Z",
+          "isPR": false
+        }
+      ]
+    },
+    {
       "id": "51415933a12b",
       "title": "BookLive「COMICエトワール」5周年記念の漫画賞開催 異世界・現代の2部門で金賞10万円",
       "summary": "",
@@ -669,10 +701,10 @@
       "articles": [
         {
           "title": "BookLiveオリジナルコミックス・COMICエトワール5周年記念！「COMICエトワール異世界＆現代キュンッと漫画賞」初開催",
-          "url": "https://mantan-web.jp/prtimes/article/20261102prt00m200000731a.html",
-          "source": "Mantan Web",
-          "publishedAt": "2026-11-02T03:00:00.000Z",
-          "isPR": false
+          "url": "https://prtimes.jp/main/html/rd/p/000000678.000022823.html",
+          "source": "PR TIMES",
+          "publishedAt": "2026-11-02T03:00:02.000Z",
+          "isPR": true
         }
       ]
     },
@@ -763,12 +795,12 @@
     }
   ],
   "churn": {
-    "previousAt": "2026-11-03T11:30:23.239Z",
+    "previousAt": "2026-11-03T12:00:22.309Z",
     "previousCount": 70,
-    "newCount": 7
+    "newCount": 5
   },
   "updateGapMin": 30,
-  "nextUpdateAt": "2026-11-03T12:30:22.309Z",
+  "nextUpdateAt": "2026-11-03T13:00:18.231Z",
   "items": [
     {
       "id": "42d222cd0c36",
@@ -951,6 +983,45 @@
       "isNew": false
     },
     {
+      "id": "af7c881d3c65",
+      "title": "2026年、新作夏アニメのABEMA最終ランキングを発表「無職転生3」が再生数・コメント数の両部門で1位を獲得",
+      "url": "https://thetv.jp/news/detail/1453469/19013241/",
+      "host": "thetv.jp",
+      "source": "WEBザテレビジョン",
+      "summary": "",
+      "publishedAt": "2026-11-03T07:09:03.000Z",
+      "image": "https://thetv.jp/i/nw/1453469/19013241.jpg?w=1284",
+      "categories": [
+        "anime",
+        "web"
+      ],
+      "works": [
+        "mushoku"
+      ],
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": true
+    },
+    {
+      "id": "d968d193f579",
+      "title": "異世界魔王と召喚少女の奴隷魔術ULTの放送日・公開日はいつ？公式サイト・SNS・キャスト・スタッフ",
+      "url": "https://uzurea.net/vc/306523/",
+      "host": "uzurea.net",
+      "source": "uzurea.net",
+      "summary": "",
+      "publishedAt": "2026-11-03T06:26:08.000Z",
+      "image": "",
+      "categories": [
+        "anime"
+      ],
+      "works": [],
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": true
+    },
+    {
       "id": "80dae3b81de8",
       "title": "『転スラ』リムル戦闘！ディアブロ含めキャラ大集結 第90話あらすじ＆場面カット解禁",
       "url": "https://www.sanyonews.jp/article/1970647?kw",
@@ -1009,44 +1080,6 @@
       "isNew": false
     },
     {
-      "id": "9cb02155fa93",
-      "title": "転生重騎士＞束の間の休息を取るエルマとルーチェはラーナ地底湖へ釣りに出掛ける…第19話あらすじ＆場面カット公開",
-      "url": "https://thetv.jp/news/detail/1453913/",
-      "host": "thetv.jp",
-      "source": "WEBザテレビジョン",
-      "summary": "",
-      "publishedAt": "2026-11-03T03:00:00.000Z",
-      "image": "https://thetv.jp/i/nw/1453913/19037192.jpg?w=1284",
-      "categories": [
-        "anime"
-      ],
-      "works": [],
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": false
-    },
-    {
-      "id": "4767e9d90138",
-      "title": "『薬屋のひとりごと』阿多を訪ねた猫猫、手掛かりに気づく 第52話あらすじ＆場面カット公開",
-      "url": "https://www.sanyonews.jp/article/2009036",
-      "host": "sanyonews.jp",
-      "source": "山陽新聞",
-      "summary": "",
-      "publishedAt": "2026-11-03T01:59:44.000Z",
-      "image": "https://static.sanyonews.jp/image/article/size1/8/b/3/d/8b3d5406dc5695c39a1607f0ee0ef946_1.jpg",
-      "categories": [
-        "anime"
-      ],
-      "works": [
-        "kusuriya"
-      ],
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": false
-    },
-    {
       "id": "b0a2d69b45a3",
       "title": "TVアニメ「アラフォー賢者の異世界生活日記」ティザーPV [画像・動画ギャラリー 4/4]",
       "url": "https://natalie.mu/comic/gallery/news/696392/media/142122",
@@ -1083,26 +1116,6 @@
       "isNew": false
     },
     {
-      "id": "18c442dd9a7f",
-      "title": "『転スラ』そのキャラ出るの！第4期の第2クールPV解禁 OPはDaoko、EDは田所あずさ",
-      "url": "https://www.sanyonews.jp/article/1940746?kw",
-      "host": "sanyonews.jp",
-      "source": "山陽新聞",
-      "summary": "",
-      "publishedAt": "2026-11-02T23:46:48.000Z",
-      "image": "https://static.sanyonews.jp/image/article/size1/2/b/6/7/2b67db9eed80b704cb517b99fda49c2c_1.jpg",
-      "categories": [
-        "anime"
-      ],
-      "works": [
-        "tensura"
-      ],
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": false
-    },
-    {
       "id": "bcd9d44279be",
       "title": "『無職転生～異世界行ったら本気だす～』着替え中のエリス・ボレアス・グレイラット1／7スケールフィギュアが2027年1月に再販売決定",
       "url": "https://ln-news.com/articles/127027",
@@ -1116,46 +1129,6 @@
       ],
       "works": [
         "mushoku"
-      ],
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": false
-    },
-    {
-      "id": "7564efbaceb1",
-      "title": "『薬屋のひとりごと』ノンクレジットED映像公開 Eve「AIYOU」にのせ猫猫の記憶を辿る",
-      "url": "https://www.sanyonews.jp/article/1998838?rct",
-      "host": "sanyonews.jp",
-      "source": "山陽新聞",
-      "summary": "",
-      "publishedAt": "2026-11-02T22:57:47.000Z",
-      "image": "https://static.sanyonews.jp/image/article/size1/7/9/3/4/7934f2055233f31b4542d7db00029f6b_1.jpg",
-      "categories": [
-        "anime"
-      ],
-      "works": [
-        "kusuriya"
-      ],
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": false
-    },
-    {
-      "id": "46c454fd4b32",
-      "title": "『薬屋のひとりごと』猫猫、物乞いへの“贅沢すぎる施し”に違和感 第51話あらすじ＆場面カット公開",
-      "url": "https://www.sanyonews.jp/article/2005343",
-      "host": "sanyonews.jp",
-      "source": "山陽新聞",
-      "summary": "",
-      "publishedAt": "2026-11-02T22:50:25.000Z",
-      "image": "https://static.sanyonews.jp/image/article/size1/0/2/b/2/02b26e8d4ce18b9a11a95164fff3f2c2_1.jpg",
-      "categories": [
-        "anime"
-      ],
-      "works": [
-        "kusuriya"
       ],
       "isPR": false,
       "viaGoogle": false,
@@ -1240,6 +1213,26 @@
       "isNew": false
     },
     {
+      "id": "4767e9d90138",
+      "title": "『薬屋のひとりごと』阿多を訪ねた猫猫、手掛かりに気づく 第52話あらすじ＆場面カット公開",
+      "url": "https://www.sanyonews.jp/article/2009036?kw",
+      "host": "sanyonews.jp",
+      "source": "山陽新聞",
+      "summary": "",
+      "publishedAt": "2026-11-02T19:30:24.000Z",
+      "image": "https://static.sanyonews.jp/image/article/size1/8/b/3/d/8b3d5406dc5695c39a1607f0ee0ef946_1.jpg",
+      "categories": [
+        "anime"
+      ],
+      "works": [
+        "kusuriya"
+      ],
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": false
+    },
+    {
       "id": "b477eeed0978",
       "title": "第6話 転生ゴブリンだけど質問ある？",
       "url": "https://thetv.jp/program/0001077857/6/",
@@ -1256,6 +1249,24 @@
       "viaGoogle": false,
       "sourceKind": "news",
       "isNew": false
+    },
+    {
+      "id": "48117da4aa3a",
+      "title": "信じていた仲間達にダンジョン奥地で殺されかけたがギフト『無限ガチャ』でレベル9999の仲間達を手に入れて元パーティーメンバーと世界に復讐＆『ざまぁ！』します！",
+      "url": "https://pocket.shonenmagazine.com/title/01379/episode/445773",
+      "host": "pocket.shonenmagazine.com",
+      "source": "マガポケ",
+      "summary": "",
+      "publishedAt": "2026-11-02T15:15:03.000Z",
+      "image": "https://mgpk-cdn.magazinepocket.com/static/titles/1379/episodes/445773/thumbnail_20261019154900b4637e909448a415935ce1c002933cdd.png",
+      "categories": [
+        "game"
+      ],
+      "works": [],
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": true
     },
     {
       "id": "616e4171c3f6",
@@ -1530,24 +1541,6 @@
       "isNew": false
     },
     {
-      "id": "ef8ab01dbbf4",
-      "title": "【無料】もし流行作『80億分の1』で死んだあとに異世界転生できたら？非公式ファン作品『80億分の、2回目』公開中―古竜や看板猫、剣の刺さった岩にも転生",
-      "url": "https://news.infoseek.co.jp/article/gamespark_174381/",
-      "host": "news.infoseek.co.jp",
-      "source": "Infoseek",
-      "summary": "",
-      "publishedAt": "2026-11-02T03:45:03.000Z",
-      "image": "https://media.image.infoseek.co.jp/isnews/photos/gamespark/gamespark_174381_0-enlarge.jpg",
-      "categories": [
-        "other"
-      ],
-      "works": [],
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": false
-    },
-    {
       "id": "851deec231e8",
       "title": "＜薬屋のひとりごと＞ハロウィン2026新規ビジュアルが公開…第3弾は壬氏＆馬閃 ミニボイスドラマや集合ビジュアルも解禁",
       "url": "https://news.yahoo.co.jp/articles/fd77a800b20e285b6a686b43b2c6dfbe4d3701e4/images/000",
@@ -1585,22 +1578,22 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "79b1621c8b30",
       "title": "BookLiveオリジナルコミックス・COMICエトワール5周年記念！「COMICエトワール異世界＆現代キュンッと漫画賞」初開催",
-      "url": "https://mantan-web.jp/prtimes/article/20261102prt00m200000731a.html",
-      "host": "mantan-web.jp",
-      "source": "Mantan Web",
+      "url": "https://prtimes.jp/main/html/rd/p/000000678.000022823.html",
+      "host": "prtimes.jp",
+      "source": "PR TIMES",
       "summary": "",
-      "publishedAt": "2026-11-02T03:00:00.000Z",
-      "image": "https://prtimes.jp/img/22823/678/resize/d22823-678-06bf794ad6244cb1dc74-0.jpg",
+      "publishedAt": "2026-11-02T03:00:02.000Z",
+      "image": "https://prcdn.freetls.fastly.net/release_image/22823/678/22823-678-2b6e1b917b8354d3a365d97550d63251-1200x600.jpg?format=jpeg&auto=webp&fit=bounds&width=2400&height=1260",
       "categories": [
         "comic"
       ],
       "works": [],
-      "isPR": false,
+      "isPR": true,
       "viaGoogle": false,
       "sourceKind": "news",
       "isNew": false
@@ -1643,7 +1636,7 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "9f7e87710ee9",
@@ -1664,6 +1657,24 @@
       "viaGoogle": false,
       "sourceKind": "news",
       "isNew": false
+    },
+    {
+      "id": "93041da54e2d",
+      "title": "転生ゴブリンだけど質問ある？ #1〜5",
+      "url": "https://abema.tv/channels/abema-anime-3/slots/BzEMStBCoHyeCF",
+      "host": "abema.tv",
+      "source": "ABEMA",
+      "summary": "",
+      "publishedAt": "2026-11-02T01:42:55.000Z",
+      "image": "",
+      "categories": [
+        "other"
+      ],
+      "works": [],
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": true
     },
     {
       "id": "6bcfa3801fe2",
@@ -1724,7 +1735,7 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "880a2f935aa0",
@@ -1744,7 +1755,7 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "667ac4447f48",
@@ -1764,7 +1775,7 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "36d7fc3d4913",
@@ -1982,7 +1993,7 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "dc0af6e99f3e",
@@ -2102,7 +2113,7 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "2a7010934071",
@@ -2124,6 +2135,24 @@
       "viaGoogle": false,
       "sourceKind": "news",
       "isNew": false
+    },
+    {
+      "id": "5894ad13c146",
+      "title": "「異世界帰りのみやびさん」第1話より [画像ギャラリー 9/9]",
+      "url": "https://natalie.mu/comic/gallery/news/696139/3005897",
+      "host": "natalie.mu",
+      "source": "ナタリー",
+      "summary": "",
+      "publishedAt": "2026-10-31T12:04:56.000Z",
+      "image": "",
+      "categories": [
+        "anime"
+      ],
+      "works": [],
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": true
     },
     {
       "id": "a2a0dc43d189",
