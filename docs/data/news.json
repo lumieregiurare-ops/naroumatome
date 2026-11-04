@@ -1,18 +1,18 @@
 {
-  "updatedAt": "2026-11-04T17:00:19.133Z",
+  "updatedAt": "2026-11-04T17:30:23.469Z",
   "site": {
     "title": "なろう系まとめ",
     "tagline": "小説家になろう発の作品のアニメ化・コミカライズ・書籍化のニュースと、なろうのランキングをまとめています。",
     "url": "https://naroumatome.gamelab.website/",
     "contactUrl": "https://docs.google.com/forms/d/e/1FAIpQLSesWyhmZ6sRS_ve-c3X2KqF_wC5PK2TgwgQbTKmnQltSlg5Jw/viewform"
   },
-  "total": 85,
+  "total": 87,
   "todayCount": 4,
   "categories": [
     {
       "id": "anime",
       "label": "アニメ",
-      "count": 47
+      "count": 48
     },
     {
       "id": "comic",
@@ -32,12 +32,12 @@
     {
       "id": "game",
       "label": "ゲーム",
-      "count": 5
+      "count": 6
     },
     {
       "id": "goods",
       "label": "グッズ・イベント",
-      "count": 12
+      "count": 11
     },
     {
       "id": "other",
@@ -56,7 +56,7 @@
       "id": "mushoku",
       "title": "無職転生 ～異世界行ったら本気だす～",
       "short": "無職転生",
-      "count": 8
+      "count": 9
     },
     {
       "id": "rezero",
@@ -74,7 +74,7 @@
       "id": "kusuriya",
       "title": "薬屋のひとりごと",
       "short": "薬屋",
-      "count": 27
+      "count": 28
     },
     {
       "id": "kagejitsu",
@@ -300,14 +300,10 @@
     },
     {
       "name": "Yahoo!ニュース",
-      "count": 7
+      "count": 8
     },
     {
       "name": "ナタリー",
-      "count": 6
-    },
-    {
-      "name": "アニメ！アニメ！",
       "count": 6
     },
     {
@@ -320,6 +316,10 @@
     },
     {
       "name": "ABEMA TIMES",
+      "count": 5
+    },
+    {
+      "name": "アニメ！アニメ！",
       "count": 5
     },
     {
@@ -336,6 +336,10 @@
     },
     {
       "name": "WEBザテレビジョン",
+      "count": 2
+    },
+    {
+      "name": "リアルサウンド",
       "count": 2
     },
     {
@@ -407,11 +411,11 @@
       "count": 1
     },
     {
-      "name": "Dtimes",
+      "name": "Gamerch",
       "count": 1
     },
     {
-      "name": "リアルサウンド",
+      "name": "Dtimes",
       "count": 1
     },
     {
@@ -858,12 +862,12 @@
     }
   ],
   "churn": {
-    "previousAt": "2026-11-04T16:30:20.933Z",
-    "previousCount": 84,
-    "newCount": 1
+    "previousAt": "2026-11-04T17:00:19.133Z",
+    "previousCount": 85,
+    "newCount": 3
   },
   "updateGapMin": 30,
-  "nextUpdateAt": "2026-11-04T17:30:19.133Z",
+  "nextUpdateAt": "2026-11-04T18:00:23.469Z",
   "items": [
     {
       "id": "5904f3af9231",
@@ -1518,7 +1522,7 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "f613b268598b",
@@ -2009,6 +2013,26 @@
       "isNew": false
     },
     {
+      "id": "e2983d083993",
+      "title": "「無職転生〜異世界行ったら本気だす〜クロニクル・オブ・エコーズ」のアプリ紹介とポイ活・攻略Wikiの情報（iOS/Android）",
+      "url": "https://gamerch.com/app_detail/10863",
+      "host": "gamerch.com",
+      "source": "Gamerch",
+      "summary": "",
+      "publishedAt": "2026-11-02T21:29:42.000Z",
+      "image": "https://cdn.gamerch.com/contents/game-db/10863/icon.png?1793654981",
+      "categories": [
+        "game"
+      ],
+      "works": [
+        "mushoku"
+      ],
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": true
+    },
+    {
       "id": "e9d674b7ca2e",
       "title": "『悪役転生して世界を救った後に裏切られて追放された俺、なぜかかつての仲間が病んだ目をして追いかけてきちゃった……』のコミカライズ連載が開始",
       "url": "https://ln-news.com/articles/127072",
@@ -2025,6 +2049,26 @@
       "viaGoogle": false,
       "sourceKind": "news",
       "isNew": false
+    },
+    {
+      "id": "e8273a932b5d",
+      "title": "米津玄師、Mrs. GREEN APPLE、ヨルシカ、幾田りら……『薬屋のひとりごと』主題歌は何を描いた？ 独自の視点で紡ぐ音楽",
+      "url": "https://realsound.jp/2026/11/post-2572423.html",
+      "host": "realsound.jp",
+      "source": "リアルサウンド",
+      "summary": "",
+      "publishedAt": "2026-11-02T20:50:29.000Z",
+      "image": "https://realsound.jp/wp-content/uploads/2026/11/20261102-yonedu-999.jpeg",
+      "categories": [
+        "anime"
+      ],
+      "works": [
+        "kusuriya"
+      ],
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": true
     },
     {
       "id": "ca58279a372c",
@@ -2218,27 +2262,6 @@
       "isNew": false
     },
     {
-      "id": "82ec1c346797",
-      "title": "「薬屋のひとりごと」猫猫、壬氏、陸孫の魔法使いビジュがグッズに！アニメイトではビジュアルカードがもらえるフェアも",
-      "url": "https://animeanime.jp/article/2026/11/02/104428.html",
-      "host": "animeanime.jp",
-      "source": "アニメ！アニメ！",
-      "summary": "",
-      "publishedAt": "2026-11-02T09:00:03.000Z",
-      "image": "https://animeanime.jp/imgs/ogp_f/950730.jpg",
-      "categories": [
-        "anime",
-        "goods"
-      ],
-      "works": [
-        "kusuriya"
-      ],
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": false
-    },
-    {
       "id": "cc69c222de77",
       "title": "逆異世界転生エージェント エーコさん #1〜12【無料ビデオ1週間】",
       "url": "https://abema.tv/channels/anime-live2/slots/BzEMU6erw2gSNK",
@@ -2334,6 +2357,26 @@
       "viaGoogle": false,
       "sourceKind": "news",
       "isNew": false
+    },
+    {
+      "id": "29a99c91cb55",
+      "title": "『劇場版 薬屋のひとりごと 亡妃の秘宝』の予告編で流れる曲は？（CDJournal）",
+      "url": "https://news.yahoo.co.jp/articles/650836597914fe073567ca787fa0c584a2fe812f",
+      "host": "news.yahoo.co.jp",
+      "source": "Yahoo!ニュース",
+      "summary": "",
+      "publishedAt": "2026-11-02T04:13:05.000Z",
+      "image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20261102-00000030-cdj-000-1-view.jpg?exp=10800",
+      "categories": [
+        "anime"
+      ],
+      "works": [
+        "kusuriya"
+      ],
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": true
     },
     {
       "id": "49b4e0faaf71",
