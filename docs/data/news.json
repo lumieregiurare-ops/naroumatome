@@ -1,18 +1,18 @@
 {
-  "updatedAt": "2026-11-04T15:00:24.917Z",
+  "updatedAt": "2026-11-04T15:30:21.234Z",
   "site": {
     "title": "なろう系まとめ",
     "tagline": "小説家になろう発の作品のアニメ化・コミカライズ・書籍化のニュースと、なろうのランキングをまとめています。",
     "url": "https://naroumatome.gamelab.website/",
     "contactUrl": "https://docs.google.com/forms/d/e/1FAIpQLSesWyhmZ6sRS_ve-c3X2KqF_wC5PK2TgwgQbTKmnQltSlg5Jw/viewform"
   },
-  "total": 87,
-  "todayCount": 0,
+  "total": 86,
+  "todayCount": 2,
   "categories": [
     {
       "id": "anime",
       "label": "アニメ",
-      "count": 49
+      "count": 47
     },
     {
       "id": "comic",
@@ -32,7 +32,7 @@
     {
       "id": "game",
       "label": "ゲーム",
-      "count": 5
+      "count": 6
     },
     {
       "id": "goods",
@@ -56,7 +56,7 @@
       "id": "mushoku",
       "title": "無職転生 ～異世界行ったら本気だす～",
       "short": "無職転生",
-      "count": 9
+      "count": 10
     },
     {
       "id": "rezero",
@@ -68,13 +68,13 @@
       "id": "honzuki",
       "title": "本好きの下剋上",
       "short": "本好き",
-      "count": 2
+      "count": 1
     },
     {
       "id": "kusuriya",
       "title": "薬屋のひとりごと",
       "short": "薬屋",
-      "count": 29
+      "count": 28
     },
     {
       "id": "kagejitsu",
@@ -299,10 +299,6 @@
       "count": 11
     },
     {
-      "name": "山陽新聞",
-      "count": 8
-    },
-    {
       "name": "Yahoo!ニュース",
       "count": 6
     },
@@ -315,8 +311,12 @@
       "count": 6
     },
     {
-      "name": "PR TIMES",
+      "name": "山陽新聞",
       "count": 6
+    },
+    {
+      "name": "PR TIMES",
+      "count": 5
     },
     {
       "name": "ABEMA TIMES",
@@ -335,6 +335,10 @@
       "count": 3
     },
     {
+      "name": "ニコニコニュース",
+      "count": 2
+    },
+    {
       "name": "WEBザテレビジョン",
       "count": 2
     },
@@ -347,15 +351,7 @@
       "count": 2
     },
     {
-      "name": "ニコニコニュース",
-      "count": 1
-    },
-    {
       "name": "映画.com",
-      "count": 1
-    },
-    {
-      "name": "マガポケ",
       "count": 1
     },
     {
@@ -391,6 +387,10 @@
       "count": 1
     },
     {
+      "name": "マガポケ",
+      "count": 1
+    },
+    {
       "name": "電撃ホビーウェブ",
       "count": 1
     },
@@ -408,6 +408,10 @@
     },
     {
       "name": "インサイド",
+      "count": 1
+    },
+    {
+      "name": "Gamerch",
       "count": 1
     },
     {
@@ -720,21 +724,20 @@
       ]
     },
     {
-      "id": "36eed87c5eb2",
-      "title": "『転スラ』第4期の第3クールは来年7月放送 公式スピンオフ『クレイマンREVENGE』アニメ化で4月放送",
+      "id": "48117da4aa3a",
+      "title": "信じていた仲間達にダンジョン奥地で殺されかけたがギフト『無限ガチャ』でレベル9999の仲間達を手に入れて元パーティーメンバーと世界に復讐＆『ざまぁ！』します！",
       "summary": "",
-      "url": "https://www.sanyonews.jp/article/1994683?kw",
-      "image": "https://static.sanyonews.jp/image/article/size1/2/9/3/8/29382e58a97023a094d0382d327d534a_1.jpg",
-      "leadSource": "山陽新聞",
-      "publishedAt": "2026-11-03T17:13:37.000Z",
+      "url": "https://pocket.shonenmagazine.com/title/01379/episode/445773",
+      "image": "https://mgpk-cdn.magazinepocket.com/static/titles/1379/episodes/445773/thumbnail_20261019154900b4637e909448a415935ce1c002933cdd.png",
+      "leadSource": "マガポケ",
+      "publishedAt": "2026-11-04T03:23:17.000Z",
       "sourceCount": 2,
       "articleCount": 2,
       "categories": [
-        "anime",
         "game"
       ],
       "keywords": [
-        "転スラ"
+        "ガチャ"
       ],
       "articles": [
         {
@@ -833,13 +836,49 @@
     }
   ],
   "churn": {
-    "previousAt": "2026-11-04T14:30:19.129Z",
+    "previousAt": "2026-11-04T15:00:24.917Z",
     "previousCount": 87,
-    "newCount": 5
+    "newCount": 2
   },
   "updateGapMin": 30,
-  "nextUpdateAt": "2026-11-04T15:30:24.917Z",
+  "nextUpdateAt": "2026-11-04T16:00:21.234Z",
   "items": [
+    {
+      "id": "4c9e81b55d1c",
+      "title": "異世界ハーレムファンタジー、堂々終幕『ニートだけどハロワにいったら異世界につれてかれた』第16巻発売！みんなと一緒に",
+      "url": "https://news.nicovideo.jp/watch/nw19956177?news_ref",
+      "host": "news.nicovideo.jp",
+      "source": "ニコニコニュース",
+      "summary": "",
+      "publishedAt": "2026-11-04T15:21:39.000Z",
+      "image": "",
+      "categories": [
+        "book"
+      ],
+      "works": [],
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": false
+    },
+    {
+      "id": "8f39ae3fa8ab",
+      "title": "なんと早くも5刷重版出来！『ATMおじさん 異世界でモテ期が止まらない！1』モテ期も重版も止まらない！『ドローイング』原作者の林達永が贈る、異世界お色気＆バトルファンタジー",
+      "url": "https://prtimes.jp/main/html/rd/p/000001048.000049835.html",
+      "host": "prtimes.jp",
+      "source": "PR TIMES",
+      "summary": "",
+      "publishedAt": "2026-11-04T15:10:01.000Z",
+      "image": "https://prcdn.freetls.fastly.net/release_image/49835/1048/49835-1048-5849e2979d609f3c83958bbaf42978f8-3033x1920.jpg?format=jpeg&auto=webp&fit=bounds&width=2400&height=1260",
+      "categories": [
+        "book"
+      ],
+      "works": [],
+      "isPR": true,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": true
+    },
     {
       "id": "b4b5c2920f8c",
       "title": "『転生したら剣でした』続編、強敵・リッチに一矢報いる瞬間に視聴者興奮！第4話最多コメントランキング",
@@ -859,7 +898,7 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "5904f3af9231",
@@ -937,24 +976,6 @@
       "works": [
         "kusuriya"
       ],
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": false
-    },
-    {
-      "id": "48117da4aa3a",
-      "title": "信じていた仲間達にダンジョン奥地で殺されかけたがギフト『無限ガチャ』でレベル9999の仲間達を手に入れて元パーティーメンバーと世界に復讐＆『ざまぁ！』します！",
-      "url": "https://pocket.shonenmagazine.com/title/01379/episode/445773",
-      "host": "pocket.shonenmagazine.com",
-      "source": "マガポケ",
-      "summary": "",
-      "publishedAt": "2026-11-04T12:23:17.000Z",
-      "image": "https://mgpk-cdn.magazinepocket.com/static/titles/1379/episodes/445773/thumbnail_20261019154900b4637e909448a415935ce1c002933cdd.png",
-      "categories": [
-        "game"
-      ],
-      "works": [],
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
@@ -1160,7 +1181,7 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "4ca182897e94",
@@ -1459,6 +1480,24 @@
       "isNew": false
     },
     {
+      "id": "48117da4aa3a",
+      "title": "信じていた仲間達にダンジョン奥地で殺されかけたがギフト『無限ガチャ』でレベル9999の仲間達を手に入れて元パーティーメンバーと世界に復讐＆『ざまぁ！』します！",
+      "url": "https://pocket.shonenmagazine.com/title/01379/episode/445773",
+      "host": "pocket.shonenmagazine.com",
+      "source": "マガポケ",
+      "summary": "",
+      "publishedAt": "2026-11-04T03:23:17.000Z",
+      "image": "https://mgpk-cdn.magazinepocket.com/static/titles/1379/episodes/445773/thumbnail_20261019154900b4637e909448a415935ce1c002933cdd.png",
+      "categories": [
+        "game"
+      ],
+      "works": [],
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": false
+    },
+    {
       "id": "f613b268598b",
       "title": "「薬屋のひとりごと」秋らしい衣装の猫猫&壬氏グッズも♪「スイパラ」コラボカフェ第3弾が開催中",
       "url": "https://animeanime.jp/article/2026/11/04/104466.html",
@@ -1480,24 +1519,6 @@
       "isNew": false
     },
     {
-      "id": "4c9e81b55d1c",
-      "title": "異世界ハーレムファンタジー、堂々終幕『ニートだけどハロワにいったら異世界につれてかれた』第16巻発売！みんなと一緒に、これからも――勇者マサルの物語、大団円！",
-      "url": "https://prtimes.jp/main/html/rd/p/000001046.000049835.html",
-      "host": "prtimes.jp",
-      "source": "PR TIMES",
-      "summary": "",
-      "publishedAt": "2026-11-04T03:10:01.000Z",
-      "image": "https://prcdn.freetls.fastly.net/release_image/49835/1046/49835-1046-8d2bcf7292abc396ca1863eacfb93621-976x495.jpg?format=jpeg&auto=webp&fit=bounds&width=2400&height=1260",
-      "categories": [
-        "book"
-      ],
-      "works": [],
-      "isPR": true,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": false
-    },
-    {
       "id": "5750c410c6f5",
       "title": "英雄ヤードと結婚したヤル気マンマンな3人の妻たちと愛欲三昧！！！『異世界魔術師は魔法を唱えない THE COMIC』待望の最新第8巻発売！外道で非道なヤードによる“蹂躙”異世界ファンタジー第八幕！！",
       "url": "https://prtimes.jp/main/html/rd/p/000001043.000049835.html",
@@ -1506,24 +1527,6 @@
       "summary": "",
       "publishedAt": "2026-11-04T03:10:01.000Z",
       "image": "https://prcdn.freetls.fastly.net/release_image/49835/1043/49835-1043-5898a86975d5d71be3ec0ddb83defee1-3528x2508.jpg?format=jpeg&auto=webp&fit=bounds&width=2400&height=1260",
-      "categories": [
-        "book"
-      ],
-      "works": [],
-      "isPR": true,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": false
-    },
-    {
-      "id": "c21f71a45946",
-      "title": "妻候補増加！お色気度も～っと増加!?『ドローイング』原作者の林達永が贈る、異世界お色気＆バトルファンタジー『ATMおじさん 異世界でモテ期が止まらない！』待望の第3巻発売！",
-      "url": "https://prtimes.jp/main/html/rd/p/000001047.000049835.html",
-      "host": "prtimes.jp",
-      "source": "PR TIMES",
-      "summary": "",
-      "publishedAt": "2026-11-04T03:10:01.000Z",
-      "image": "https://prcdn.freetls.fastly.net/release_image/49835/1047/49835-1047-526b36d5a7b0175fc37b318bc54feb22-976x495.jpg?format=jpeg&auto=webp&fit=bounds&width=2400&height=1260",
       "categories": [
         "book"
       ],
@@ -1601,7 +1604,7 @@
       "source": "ABEMA",
       "summary": "",
       "publishedAt": "2026-11-03T17:35:23.000Z",
-      "image": "",
+      "image": "https://image.p-c2-x.abema-tv.com/image/programs/25-200_s2_p1/thumb001.png?height=720&quality=75&version=1759140818&width=1280",
       "categories": [
         "other"
       ],
@@ -1830,26 +1833,6 @@
       "isNew": false
     },
     {
-      "id": "4767e9d90138",
-      "title": "『薬屋のひとりごと』阿多を訪ねた猫猫、手掛かりに気づく 第52話あらすじ＆場面カット公開",
-      "url": "https://www.sanyonews.jp/article/2009036",
-      "host": "sanyonews.jp",
-      "source": "山陽新聞",
-      "summary": "",
-      "publishedAt": "2026-11-03T01:59:44.000Z",
-      "image": "https://static.sanyonews.jp/image/article/size1/8/b/3/d/8b3d5406dc5695c39a1607f0ee0ef946_1.jpg",
-      "categories": [
-        "anime"
-      ],
-      "works": [
-        "kusuriya"
-      ],
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": true
-    },
-    {
       "id": "b0a2d69b45a3",
       "title": "TVアニメ「アラフォー賢者の異世界生活日記」ティザーPV [画像・動画ギャラリー 4/4]",
       "url": "https://natalie.mu/comic/gallery/news/696392/media/142122?ref",
@@ -2003,6 +1986,26 @@
       "isNew": false
     },
     {
+      "id": "e2983d083993",
+      "title": "「無職転生〜異世界行ったら本気だす〜クロニクル・オブ・エコーズ」のアプリ紹介とポイ活・攻略Wikiの情報（iOS/Android）",
+      "url": "https://gamerch.com/app_detail/10863",
+      "host": "gamerch.com",
+      "source": "Gamerch",
+      "summary": "",
+      "publishedAt": "2026-11-02T21:29:42.000Z",
+      "image": "https://cdn.gamerch.com/contents/game-db/10863/icon.png?1793654981",
+      "categories": [
+        "game"
+      ],
+      "works": [
+        "mushoku"
+      ],
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": true
+    },
+    {
       "id": "e9d674b7ca2e",
       "title": "『悪役転生して世界を救った後に裏切られて追放された俺、なぜかかつての仲間が病んだ目をして追いかけてきちゃった……』のコミカライズ連載が開始",
       "url": "https://ln-news.com/articles/127072",
@@ -2095,7 +2098,7 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "ea030ce50718",
@@ -2123,7 +2126,7 @@
       "source": "ABEMA",
       "summary": "",
       "publishedAt": "2026-11-02T12:23:43.000Z",
-      "image": "",
+      "image": "https://image.p-c2-x.abema-tv.com/image/programs/19-174_s1_p1/thumb001.png?height=720&quality=75&version=1793333709&width=1280",
       "categories": [
         "other"
       ],
@@ -2260,7 +2263,7 @@
       "source": "ABEMA",
       "summary": "",
       "publishedAt": "2026-11-02T08:00:00.000Z",
-      "image": "",
+      "image": "https://image.p-c2-x.abema-tv.com/image/programs/622-2_s1_p1/thumb001.png?height=720&quality=75&version=1696234120&width=1280",
       "categories": [
         "other"
       ],
@@ -2366,7 +2369,7 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "79b1621c8b30",
@@ -2499,26 +2502,6 @@
         "anime"
       ],
       "works": [],
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": false
-    },
-    {
-      "id": "39bf293e490e",
-      "title": "『本好きの下剋上』続編「貴族院の自称図書委員」編アニメ化決定 制作はWIT STUDIO",
-      "url": "https://www.sanyonews.jp/article/1999132?rct",
-      "host": "sanyonews.jp",
-      "source": "山陽新聞",
-      "summary": "",
-      "publishedAt": "2026-11-01T15:20:53.000Z",
-      "image": "https://static.sanyonews.jp/image/article/size1/e/6/b/3/e6b3aa2868f5d7e89848e029284bc7ef_1.jpg",
-      "categories": [
-        "anime"
-      ],
-      "works": [
-        "honzuki"
-      ],
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
