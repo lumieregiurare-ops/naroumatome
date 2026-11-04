@@ -1,18 +1,18 @@
 {
-  "updatedAt": "2026-11-04T17:30:23.469Z",
+  "updatedAt": "2026-11-04T18:01:55.231Z",
   "site": {
     "title": "なろう系まとめ",
     "tagline": "小説家になろう発の作品のアニメ化・コミカライズ・書籍化のニュースと、なろうのランキングをまとめています。",
     "url": "https://naroumatome.gamelab.website/",
     "contactUrl": "https://docs.google.com/forms/d/e/1FAIpQLSesWyhmZ6sRS_ve-c3X2KqF_wC5PK2TgwgQbTKmnQltSlg5Jw/viewform"
   },
-  "total": 87,
+  "total": 86,
   "todayCount": 4,
   "categories": [
     {
       "id": "anime",
       "label": "アニメ",
-      "count": 48
+      "count": 46
     },
     {
       "id": "comic",
@@ -37,12 +37,12 @@
     {
       "id": "goods",
       "label": "グッズ・イベント",
-      "count": 11
+      "count": 12
     },
     {
       "id": "other",
       "label": "そのほか",
-      "count": 17
+      "count": 18
     }
   ],
   "works": [
@@ -74,7 +74,7 @@
       "id": "kusuriya",
       "title": "薬屋のひとりごと",
       "short": "薬屋",
-      "count": 28
+      "count": 27
     },
     {
       "id": "kagejitsu",
@@ -300,10 +300,14 @@
     },
     {
       "name": "Yahoo!ニュース",
-      "count": 8
+      "count": 7
     },
     {
       "name": "ナタリー",
+      "count": 6
+    },
+    {
+      "name": "アニメ！アニメ！",
       "count": 6
     },
     {
@@ -316,10 +320,6 @@
     },
     {
       "name": "ABEMA TIMES",
-      "count": 5
-    },
-    {
-      "name": "アニメ！アニメ！",
       "count": 5
     },
     {
@@ -336,10 +336,6 @@
     },
     {
       "name": "WEBザテレビジョン",
-      "count": 2
-    },
-    {
-      "name": "リアルサウンド",
       "count": 2
     },
     {
@@ -387,15 +383,7 @@
       "count": 1
     },
     {
-      "name": "マガポケ",
-      "count": 1
-    },
-    {
       "name": "電撃ホビーウェブ",
-      "count": 1
-    },
-    {
-      "name": "電撃オンライン",
       "count": 1
     },
     {
@@ -419,6 +407,14 @@
       "count": 1
     },
     {
+      "name": "マガポケ",
+      "count": 1
+    },
+    {
+      "name": "リアルサウンド",
+      "count": 1
+    },
+    {
       "name": "Howl.Link",
       "count": 1
     },
@@ -432,6 +428,10 @@
     },
     {
       "name": "AppMedia",
+      "count": 1
+    },
+    {
+      "name": "J:magazine!",
       "count": 1
     },
     {
@@ -509,42 +509,6 @@
           "url": "https://futaman.futabanet.jp/articles/-/132689",
           "source": "ふねぽ",
           "publishedAt": "2026-11-03T08:00:00.000Z",
-          "isPR": false
-        }
-      ]
-    },
-    {
-      "id": "9f5675c0b361",
-      "title": "「劇場版 薬屋のひとりごと 亡妃の秘宝」横浜市、全国アニメイトとコラボ 横浜をイメージしたビジュアル披露",
-      "summary": "",
-      "url": "https://eiga.com/l/9zlKq",
-      "image": "https://media.eiga.com/images/buzz/130322/9ca19b57c7c30e46.jpg",
-      "leadSource": "映画.com",
-      "publishedAt": "2026-11-04T12:30:00.000Z",
-      "sourceCount": 3,
-      "articleCount": 3,
-      "categories": [
-        "anime",
-        "goods"
-      ],
-      "keywords": [
-        "薬屋",
-        "劇場版",
-        "コラボ"
-      ],
-      "articles": [
-        {
-          "title": "『劇場版 薬屋のひとりごと 亡妃の秘宝』×横浜市コラボキャンペーンを実施します！～猫猫・壬氏たちと横浜を巡ろう！～",
-          "url": "https://prtimes.jp/main/html/rd/p/000002042.000013670.html",
-          "source": "PR TIMES",
-          "publishedAt": "2026-11-04T05:14:22.000Z",
-          "isPR": true
-        },
-        {
-          "title": "『劇場版 薬屋のひとりごと』×ツムラ漢方がタイアップ！ 猫猫と学べる限定本やアクスタが当たるキャンペーン実施",
-          "url": "https://dengekionline.com/article/202611/92936",
-          "source": "電撃オンライン",
-          "publishedAt": "2026-11-03T09:30:00.000Z",
           "isPR": false
         }
       ]
@@ -693,6 +657,35 @@
       ]
     },
     {
+      "id": "9f5675c0b361",
+      "title": "「劇場版 薬屋のひとりごと 亡妃の秘宝」横浜市、全国アニメイトとコラボ 横浜をイメージしたビジュアル披露",
+      "summary": "",
+      "url": "https://eiga.com/l/9zlKq",
+      "image": "https://media.eiga.com/images/buzz/130322/9ca19b57c7c30e46.jpg",
+      "leadSource": "映画.com",
+      "publishedAt": "2026-11-04T12:30:00.000Z",
+      "sourceCount": 2,
+      "articleCount": 2,
+      "categories": [
+        "anime",
+        "goods"
+      ],
+      "keywords": [
+        "薬屋",
+        "コラボ",
+        "劇場版"
+      ],
+      "articles": [
+        {
+          "title": "『劇場版 薬屋のひとりごと 亡妃の秘宝』×横浜市コラボキャンペーンを実施します！～猫猫・壬氏たちと横浜を巡ろう！～",
+          "url": "https://prtimes.jp/main/html/rd/p/000002042.000013670.html",
+          "source": "PR TIMES",
+          "publishedAt": "2026-11-04T05:14:22.000Z",
+          "isPR": true
+        }
+      ]
+    },
+    {
       "id": "93dff57a01a1",
       "title": "ワークマン「薬屋のひとりごと」限定アイテム11月6日発売。おくすり手帳/大容量ショルダーバッグほか",
       "summary": "",
@@ -750,20 +743,21 @@
       ]
     },
     {
-      "id": "48117da4aa3a",
-      "title": "信じていた仲間達にダンジョン奥地で殺されかけたがギフト『無限ガチャ』でレベル9999の仲間達を手に入れて元パーティーメンバーと世界に復讐＆『ざまぁ！』します！",
+      "id": "36eed87c5eb2",
+      "title": "『転スラ』第4期の第3クールは来年7月放送 公式スピンオフ『クレイマンREVENGE』アニメ化で4月放送",
       "summary": "",
-      "url": "https://pocket.shonenmagazine.com/title/01379/episode/445773",
-      "image": "https://mgpk-cdn.magazinepocket.com/static/titles/1379/episodes/445773/thumbnail_20261019154900b4637e909448a415935ce1c002933cdd.png",
-      "leadSource": "マガポケ",
-      "publishedAt": "2026-11-04T03:23:17.000Z",
+      "url": "https://www.sanyonews.jp/article/1994683?kw",
+      "image": "https://static.sanyonews.jp/image/article/size1/2/9/3/8/29382e58a97023a094d0382d327d534a_1.jpg",
+      "leadSource": "山陽新聞",
+      "publishedAt": "2026-11-03T17:13:37.000Z",
       "sourceCount": 2,
       "articleCount": 2,
       "categories": [
+        "anime",
         "game"
       ],
       "keywords": [
-        "ガチャ"
+        "転スラ"
       ],
       "articles": [
         {
@@ -862,12 +856,12 @@
     }
   ],
   "churn": {
-    "previousAt": "2026-11-04T17:00:19.133Z",
-    "previousCount": 85,
-    "newCount": 3
+    "previousAt": "2026-11-04T17:30:23.469Z",
+    "previousCount": 87,
+    "newCount": 2
   },
   "updateGapMin": 30,
-  "nextUpdateAt": "2026-11-04T18:00:23.469Z",
+  "nextUpdateAt": "2026-11-04T18:31:55.231Z",
   "items": [
     {
       "id": "5904f3af9231",
@@ -1507,24 +1501,6 @@
       "isNew": false
     },
     {
-      "id": "48117da4aa3a",
-      "title": "信じていた仲間達にダンジョン奥地で殺されかけたがギフト『無限ガチャ』でレベル9999の仲間達を手に入れて元パーティーメンバーと世界に復讐＆『ざまぁ！』します！",
-      "url": "https://pocket.shonenmagazine.com/title/01379/episode/445773",
-      "host": "pocket.shonenmagazine.com",
-      "source": "マガポケ",
-      "summary": "",
-      "publishedAt": "2026-11-04T03:23:17.000Z",
-      "image": "https://mgpk-cdn.magazinepocket.com/static/titles/1379/episodes/445773/thumbnail_20261019154900b4637e909448a415935ce1c002933cdd.png",
-      "categories": [
-        "game"
-      ],
-      "works": [],
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": false
-    },
-    {
       "id": "f613b268598b",
       "title": "「薬屋のひとりごと」秋らしい衣装の猫猫&壬氏グッズも♪「スイパラ」コラボカフェ第3弾が開催中",
       "url": "https://animeanime.jp/article/2026/11/04/104466.html",
@@ -1714,26 +1690,6 @@
       "image": "https://img-mdpr.freetls.fastly.net/article/Pbpp/nm/Pbppp6L38GWqADFoLcKMFSr0ofEQiN-Yeeb9Kdf-giY.jpg?width=700&disable=upscale&auto=webp&quality=80",
       "categories": [
         "other"
-      ],
-      "works": [
-        "kusuriya"
-      ],
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": false
-    },
-    {
-      "id": "65fc9c5f3b5c",
-      "title": "『劇場版 薬屋のひとりごと』×ツムラ漢方がタイアップ！ 猫猫と学べる限定本やアクスタが当たるキャンペーン実施",
-      "url": "https://dengekionline.com/article/202611/92936",
-      "host": "dengekionline.com",
-      "source": "電撃オンライン",
-      "summary": "",
-      "publishedAt": "2026-11-03T09:30:00.000Z",
-      "image": "https://cimg.kgl-systems.io/camion/files/92936/ogp_EIgV.jpg?x=1280",
-      "categories": [
-        "anime"
       ],
       "works": [
         "kusuriya"
@@ -2030,7 +1986,7 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "e9d674b7ca2e",
@@ -2051,26 +2007,6 @@
       "isNew": false
     },
     {
-      "id": "e8273a932b5d",
-      "title": "米津玄師、Mrs. GREEN APPLE、ヨルシカ、幾田りら……『薬屋のひとりごと』主題歌は何を描いた？ 独自の視点で紡ぐ音楽",
-      "url": "https://realsound.jp/2026/11/post-2572423.html",
-      "host": "realsound.jp",
-      "source": "リアルサウンド",
-      "summary": "",
-      "publishedAt": "2026-11-02T20:50:29.000Z",
-      "image": "https://realsound.jp/wp-content/uploads/2026/11/20261102-yonedu-999.jpeg",
-      "categories": [
-        "anime"
-      ],
-      "works": [
-        "kusuriya"
-      ],
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": true
-    },
-    {
       "id": "ca58279a372c",
       "title": "復讐、デスゲーム、異世界転生、下剋上の4作品が連載開始！マンガBANGコミックス 2026年10月連載開始の新連載4作品",
       "url": "https://dtimes.jp/post-1448536/",
@@ -2081,6 +2017,24 @@
       "image": "https://dtimes.jp/wp-content/uploads/2026/11/dtimes-engine-bcd7355794efb990ce8a1ae3caf9eae1-20261102-7119d2.jpg",
       "categories": [
         "comic",
+        "game"
+      ],
+      "works": [],
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": false
+    },
+    {
+      "id": "48117da4aa3a",
+      "title": "信じていた仲間達にダンジョン奥地で殺されかけたがギフト『無限ガチャ』でレベル9999の仲間達を手に入れて元パーティーメンバーと世界に復讐＆『ざまぁ！』します！",
+      "url": "https://pocket.shonenmagazine.com/title/01379/episode/445773",
+      "host": "pocket.shonenmagazine.com",
+      "source": "マガポケ",
+      "summary": "",
+      "publishedAt": "2026-11-02T15:15:03.000Z",
+      "image": "https://mgpk-cdn.magazinepocket.com/static/titles/1379/episodes/445773/thumbnail_20261019154900b4637e909448a415935ce1c002933cdd.png",
+      "categories": [
         "game"
       ],
       "works": [],
@@ -2262,6 +2216,27 @@
       "isNew": false
     },
     {
+      "id": "82ec1c346797",
+      "title": "「薬屋のひとりごと」猫猫、壬氏、陸孫の魔法使いビジュがグッズに！アニメイトではビジュアルカードがもらえるフェアも",
+      "url": "https://animeanime.jp/article/2026/11/02/104428.html",
+      "host": "animeanime.jp",
+      "source": "アニメ！アニメ！",
+      "summary": "",
+      "publishedAt": "2026-11-02T09:00:03.000Z",
+      "image": "https://animeanime.jp/imgs/ogp_f/950730.jpg",
+      "categories": [
+        "anime",
+        "goods"
+      ],
+      "works": [
+        "kusuriya"
+      ],
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": true
+    },
+    {
       "id": "cc69c222de77",
       "title": "逆異世界転生エージェント エーコさん #1〜12【無料ビデオ1週間】",
       "url": "https://abema.tv/channels/anime-live2/slots/BzEMU6erw2gSNK",
@@ -2340,6 +2315,26 @@
       "isNew": false
     },
     {
+      "id": "f4769f77a3c3",
+      "title": "「薬屋のひとりごと」壬氏役・大塚剛央が語る作品への思い「終わってしまったら抜け殻になりそう(笑)」（画像 1 5",
+      "url": "https://jmagazine.myjcom.jp/category/anime/post001759/gallery/",
+      "host": "jmagazine.myjcom.jp",
+      "source": "J:magazine!",
+      "summary": "",
+      "publishedAt": "2026-11-02T08:00:00.000Z",
+      "image": "https://jmagazine.myjcom.jp/uploads/261020_ootsuka_01.jpg",
+      "categories": [
+        "other"
+      ],
+      "works": [
+        "kusuriya"
+      ],
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": true
+    },
+    {
       "id": "5d9cd10e4b1f",
       "title": "【新連載】極限LOVEデスゲーム、異世界転生×下剋上ファンタジー、お尻系異世界ファンタジー、など一挙４作品が10月から順次「マンガBANG」にて配信開始！",
       "url": "https://prtimes.jp/main/html/rd/p/000000054.000009539.html",
@@ -2357,26 +2352,6 @@
       "viaGoogle": false,
       "sourceKind": "news",
       "isNew": false
-    },
-    {
-      "id": "29a99c91cb55",
-      "title": "『劇場版 薬屋のひとりごと 亡妃の秘宝』の予告編で流れる曲は？（CDJournal）",
-      "url": "https://news.yahoo.co.jp/articles/650836597914fe073567ca787fa0c584a2fe812f",
-      "host": "news.yahoo.co.jp",
-      "source": "Yahoo!ニュース",
-      "summary": "",
-      "publishedAt": "2026-11-02T04:13:05.000Z",
-      "image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20261102-00000030-cdj-000-1-view.jpg?exp=10800",
-      "categories": [
-        "anime"
-      ],
-      "works": [
-        "kusuriya"
-      ],
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": true
     },
     {
       "id": "49b4e0faaf71",
