@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-04T21:30:19.187Z",
+  "updatedAt": "2026-11-04T22:00:18.557Z",
   "site": {
     "title": "なろう系まとめ",
     "tagline": "小説家になろう発の作品のアニメ化・コミカライズ・書籍化のニュースと、なろうのランキングをまとめています。",
@@ -32,7 +32,7 @@
     {
       "id": "game",
       "label": "ゲーム",
-      "count": 6
+      "count": 5
     },
     {
       "id": "goods",
@@ -42,7 +42,7 @@
     {
       "id": "other",
       "label": "そのほか",
-      "count": 19
+      "count": 20
     }
   ],
   "works": [
@@ -164,7 +164,7 @@
       "id": "katainaka",
       "title": "片田舎のおっさん、剣聖になる",
       "short": "片田舎のおっさん",
-      "count": 1
+      "count": 2
     },
     {
       "id": "nozomanu",
@@ -335,6 +335,10 @@
       "count": 2
     },
     {
+      "name": "Unisba Media",
+      "count": 2
+    },
+    {
       "name": "WEBザテレビジョン",
       "count": 2
     },
@@ -411,10 +415,6 @@
       "count": 1
     },
     {
-      "name": "マガポケ",
-      "count": 1
-    },
-    {
       "name": "リアルサウンド",
       "count": 1
     },
@@ -436,10 +436,6 @@
     },
     {
       "name": "J:magazine!",
-      "count": 1
-    },
-    {
-      "name": "Unisba Media",
       "count": 1
     },
     {
@@ -539,7 +535,7 @@
       "articles": [
         {
           "title": "「ビジュが本当に好みど真ん中」「眼鏡似合うな～」アニメ『薬屋のひとりごと』“横浜コラボ”決定＆豪華イラストに反響続々",
-          "url": "https://times.abema.tv/articles/-/10285457?utm_campaign",
+          "url": "https://times.abema.tv/articles/-/10285457",
           "source": "ABEMA TIMES",
           "publishedAt": "2026-11-04T11:36:00.000Z",
           "isPR": false
@@ -867,12 +863,12 @@
     }
   ],
   "churn": {
-    "previousAt": "2026-11-04T21:00:19.524Z",
+    "previousAt": "2026-11-04T21:30:19.187Z",
     "previousCount": 87,
     "newCount": 1
   },
   "updateGapMin": 30,
-  "nextUpdateAt": "2026-11-04T22:00:19.187Z",
+  "nextUpdateAt": "2026-11-04T22:30:18.557Z",
   "items": [
     {
       "id": "5904f3af9231",
@@ -949,6 +945,26 @@
       "viaGoogle": false,
       "sourceKind": "news",
       "isNew": false
+    },
+    {
+      "id": "b43695072908",
+      "title": "WEBラジオ「片田舎のおっさん、またまた進行役(パーソナリティ)になる」第3回 | ゲスト：広瀬ゆうき Urc (ZcJoLKIYyL)",
+      "url": "https://media.unisba.ac.id/65b42476/7ef87644SXEoVVim4WI",
+      "host": "media.unisba.ac.id",
+      "source": "Unisba Media",
+      "summary": "",
+      "publishedAt": "2026-11-04T14:18:50.000Z",
+      "image": "",
+      "categories": [
+        "other"
+      ],
+      "works": [
+        "katainaka"
+      ],
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": true
     },
     {
       "id": "b4b5c2920f8c",
@@ -1056,7 +1072,7 @@
     {
       "id": "3ff64a934a64",
       "title": "「ビジュが本当に好みど真ん中」「眼鏡似合うな～」アニメ『薬屋のひとりごと』“横浜コラボ”決定＆豪華イラストに反響続々",
-      "url": "https://times.abema.tv/articles/-/10285457?utm_campaign",
+      "url": "https://times.abema.tv/articles/-/10285457",
       "host": "times.abema.tv",
       "source": "ABEMA TIMES",
       "summary": "",
@@ -1697,7 +1713,7 @@
       "source": "モデルプレス",
       "summary": "",
       "publishedAt": "2026-11-03T10:30:00.000Z",
-      "image": "https://img-mdpr.freetls.fastly.net/article/Pbpp/nm/Pbppp6L38GWqADFoLcKMFSr0ofEQiN-Yeeb9Kdf-giY.jpg?width=700&disable=upscale&auto=webp&quality=80",
+      "image": "",
       "categories": [
         "other"
       ],
@@ -1956,7 +1972,7 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "4ddb3595d662",
@@ -1986,7 +2002,7 @@
       "source": "Gamerch",
       "summary": "",
       "publishedAt": "2026-11-02T21:29:42.000Z",
-      "image": "https://cdn.gamerch.com/contents/game-db/10863/icon.png?1793654981",
+      "image": "https://cdn.gamerch.com/contents/game-db/10863/icon.png?1793828114",
       "categories": [
         "game"
       ],
@@ -2046,24 +2062,6 @@
       "image": "",
       "categories": [
         "other"
-      ],
-      "works": [],
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": false
-    },
-    {
-      "id": "48117da4aa3a",
-      "title": "信じていた仲間達にダンジョン奥地で殺されかけたがギフト『無限ガチャ』でレベル9999の仲間達を手に入れて元パーティーメンバーと世界に復讐＆『ざまぁ！』します！",
-      "url": "https://pocket.shonenmagazine.com/title/01379/episode/445774",
-      "host": "pocket.shonenmagazine.com",
-      "source": "マガポケ",
-      "summary": "",
-      "publishedAt": "2026-11-02T15:02:59.000Z",
-      "image": "https://mgpk-cdn.magazinepocket.com/static/titles/1379/episodes/445774/thumbnail_20261019154900042460d4c0c4c5c8839ff258f9153d3a.png",
-      "categories": [
-        "game"
       ],
       "works": [],
       "isPR": false,
