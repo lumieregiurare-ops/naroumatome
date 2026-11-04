@@ -1,12 +1,12 @@
 {
-  "updatedAt": "2026-11-04T18:01:55.231Z",
+  "updatedAt": "2026-11-04T18:30:19.397Z",
   "site": {
     "title": "なろう系まとめ",
     "tagline": "小説家になろう発の作品のアニメ化・コミカライズ・書籍化のニュースと、なろうのランキングをまとめています。",
     "url": "https://naroumatome.gamelab.website/",
     "contactUrl": "https://docs.google.com/forms/d/e/1FAIpQLSesWyhmZ6sRS_ve-c3X2KqF_wC5PK2TgwgQbTKmnQltSlg5Jw/viewform"
   },
-  "total": 86,
+  "total": 84,
   "todayCount": 4,
   "categories": [
     {
@@ -32,7 +32,7 @@
     {
       "id": "game",
       "label": "ゲーム",
-      "count": 6
+      "count": 4
     },
     {
       "id": "goods",
@@ -56,7 +56,7 @@
       "id": "mushoku",
       "title": "無職転生 ～異世界行ったら本気だす～",
       "short": "無職転生",
-      "count": 9
+      "count": 8
     },
     {
       "id": "rezero",
@@ -300,7 +300,7 @@
     },
     {
       "name": "Yahoo!ニュース",
-      "count": 7
+      "count": 8
     },
     {
       "name": "ナタリー",
@@ -320,7 +320,7 @@
     },
     {
       "name": "ABEMA TIMES",
-      "count": 5
+      "count": 4
     },
     {
       "name": "モデルプレス",
@@ -399,15 +399,7 @@
       "count": 1
     },
     {
-      "name": "Gamerch",
-      "count": 1
-    },
-    {
       "name": "Dtimes",
-      "count": 1
-    },
-    {
-      "name": "マガポケ",
       "count": 1
     },
     {
@@ -856,12 +848,12 @@
     }
   ],
   "churn": {
-    "previousAt": "2026-11-04T17:30:23.469Z",
-    "previousCount": 87,
-    "newCount": 2
+    "previousAt": "2026-11-04T18:01:55.231Z",
+    "previousCount": 86,
+    "newCount": 0
   },
   "updateGapMin": 30,
-  "nextUpdateAt": "2026-11-04T18:31:55.231Z",
+  "nextUpdateAt": "2026-11-04T19:00:19.397Z",
   "items": [
     {
       "id": "5904f3af9231",
@@ -1167,12 +1159,12 @@
     {
       "id": "484ff796bcad",
       "title": "「当たり」声優・上田麗奈の“魔性の白娘々ボイス”に「めっちゃ鳥肌」「妖しさ素晴らしい」アニメ『薬屋のひとりごと』53話",
-      "url": "https://times.abema.tv/articles/-/10285882",
-      "host": "times.abema.tv",
-      "source": "ABEMA TIMES",
+      "url": "https://news.yahoo.co.jp/articles/218b2fb8de443fb7b474cdce93287f534396fef7",
+      "host": "news.yahoo.co.jp",
+      "source": "Yahoo!ニュース",
       "summary": "",
-      "publishedAt": "2026-11-04T09:40:00.000Z",
-      "image": "https://times-abema.ismcdn.jp/mwimgs/0/1/1200w/img_01b865a6ef2b0678e81c07b5ce2df282142733.jpg",
+      "publishedAt": "2026-11-04T09:42:17.000Z",
+      "image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20261104-10285882-abemad-000-1-view.jpg?exp=10800",
       "categories": [
         "anime"
       ],
@@ -1969,26 +1961,6 @@
       "isNew": false
     },
     {
-      "id": "e2983d083993",
-      "title": "「無職転生〜異世界行ったら本気だす〜クロニクル・オブ・エコーズ」のアプリ紹介とポイ活・攻略Wikiの情報（iOS/Android）",
-      "url": "https://gamerch.com/app_detail/10863",
-      "host": "gamerch.com",
-      "source": "Gamerch",
-      "summary": "",
-      "publishedAt": "2026-11-02T21:29:42.000Z",
-      "image": "https://cdn.gamerch.com/contents/game-db/10863/icon.png?1793654981",
-      "categories": [
-        "game"
-      ],
-      "works": [
-        "mushoku"
-      ],
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": false
-    },
-    {
       "id": "e9d674b7ca2e",
       "title": "『悪役転生して世界を救った後に裏切られて追放された俺、なぜかかつての仲間が病んだ目をして追いかけてきちゃった……』のコミカライズ連載が開始",
       "url": "https://ln-news.com/articles/127072",
@@ -2017,24 +1989,6 @@
       "image": "https://dtimes.jp/wp-content/uploads/2026/11/dtimes-engine-bcd7355794efb990ce8a1ae3caf9eae1-20261102-7119d2.jpg",
       "categories": [
         "comic",
-        "game"
-      ],
-      "works": [],
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": false
-    },
-    {
-      "id": "48117da4aa3a",
-      "title": "信じていた仲間達にダンジョン奥地で殺されかけたがギフト『無限ガチャ』でレベル9999の仲間達を手に入れて元パーティーメンバーと世界に復讐＆『ざまぁ！』します！",
-      "url": "https://pocket.shonenmagazine.com/title/01379/episode/445773",
-      "host": "pocket.shonenmagazine.com",
-      "source": "マガポケ",
-      "summary": "",
-      "publishedAt": "2026-11-02T15:15:03.000Z",
-      "image": "https://mgpk-cdn.magazinepocket.com/static/titles/1379/episodes/445773/thumbnail_20261019154900b4637e909448a415935ce1c002933cdd.png",
-      "categories": [
         "game"
       ],
       "works": [],
@@ -2234,7 +2188,7 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "cc69c222de77",
@@ -2332,7 +2286,7 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "5d9cd10e4b1f",
