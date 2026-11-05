@@ -1,23 +1,23 @@
 {
-  "updatedAt": "2026-11-05T03:30:21.315Z",
+  "updatedAt": "2026-11-05T04:00:16.392Z",
   "site": {
     "title": "なろう系まとめ",
     "tagline": "小説家になろう発の作品のアニメ化・コミカライズ・書籍化のニュースと、なろうのランキングをまとめています。",
     "url": "https://naroumatome.gamelab.website/",
     "contactUrl": "https://docs.google.com/forms/d/e/1FAIpQLSesWyhmZ6sRS_ve-c3X2KqF_wC5PK2TgwgQbTKmnQltSlg5Jw/viewform"
   },
-  "total": 86,
-  "todayCount": 7,
+  "total": 87,
+  "todayCount": 8,
   "categories": [
     {
       "id": "anime",
       "label": "アニメ",
-      "count": 47
+      "count": 49
     },
     {
       "id": "comic",
       "label": "コミカライズ",
-      "count": 7
+      "count": 8
     },
     {
       "id": "book",
@@ -42,7 +42,7 @@
     {
       "id": "other",
       "label": "そのほか",
-      "count": 21
+      "count": 20
     }
   ],
   "works": [
@@ -224,7 +224,7 @@
       "id": "tenken",
       "title": "転生したら剣でした",
       "short": "転剣",
-      "count": 5
+      "count": 6
     },
     {
       "id": "rupunana",
@@ -303,23 +303,23 @@
       "count": 8
     },
     {
-      "name": "山陽新聞",
-      "count": 8
+      "name": "アニメ！アニメ！",
+      "count": 7
     },
     {
       "name": "ナタリー",
       "count": 7
     },
     {
-      "name": "アニメ！アニメ！",
-      "count": 6
-    },
-    {
-      "name": "PR TIMES",
-      "count": 5
+      "name": "山陽新聞",
+      "count": 7
     },
     {
       "name": "ABEMA TIMES",
+      "count": 5
+    },
+    {
+      "name": "PR TIMES",
       "count": 4
     },
     {
@@ -327,11 +327,11 @@
       "count": 4
     },
     {
-      "name": "ニコニコニュース",
+      "name": "WEBザテレビジョン",
       "count": 3
     },
     {
-      "name": "Infoseek",
+      "name": "ニコニコニュース",
       "count": 3
     },
     {
@@ -339,11 +339,19 @@
       "count": 2
     },
     {
-      "name": "WEBザテレビジョン",
+      "name": "ciatr[シアター]",
+      "count": 2
+    },
+    {
+      "name": "リアルサウンド",
       "count": 2
     },
     {
       "name": "Unisba Media",
+      "count": 1
+    },
+    {
+      "name": "Infoseek",
       "count": 1
     },
     {
@@ -372,10 +380,6 @@
     },
     {
       "name": "DMMぱちタウン",
-      "count": 1
-    },
-    {
-      "name": "ciatr[シアター]",
       "count": 1
     },
     {
@@ -408,10 +412,6 @@
     },
     {
       "name": "マガポケ",
-      "count": 1
-    },
-    {
-      "name": "リアルサウンド",
       "count": 1
     },
     {
@@ -863,13 +863,33 @@
     }
   ],
   "churn": {
-    "previousAt": "2026-11-05T03:00:17.606Z",
-    "previousCount": 84,
+    "previousAt": "2026-11-05T03:30:21.315Z",
+    "previousCount": 86,
     "newCount": 3
   },
   "updateGapMin": 30,
-  "nextUpdateAt": "2026-11-05T04:00:21.315Z",
+  "nextUpdateAt": "2026-11-05T04:30:16.392Z",
   "items": [
+    {
+      "id": "d68b4da6f197",
+      "title": "転生したら剣でしたII＞港町ダーズに到着したフランと師匠…新章「シードラン編」へ 第6話あらすじ＆新キービジュアル公開",
+      "url": "https://thetv.jp/news/detail/1454528/",
+      "host": "thetv.jp",
+      "source": "WEBザテレビジョン",
+      "summary": "",
+      "publishedAt": "2026-11-05T03:17:04.000Z",
+      "image": "https://thetv.jp/i/nw/1454528/19059175.jpg?w=1284",
+      "categories": [
+        "anime"
+      ],
+      "works": [
+        "tenken"
+      ],
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": true
+    },
     {
       "id": "aa3eeb5cfc51",
       "title": "【本日予約開始】2027年1月TVアニメ放送『欠けた月のメルセデス』『ゲーム世界転生〈ダン活〉』注目の2作品の新刊が1/15刊発売決定！そのほか新レーベル「LEVIN」の最新巻が続々登場！",
@@ -887,7 +907,7 @@
       "isPR": true,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "5904f3af9231",
@@ -912,19 +932,19 @@
     {
       "id": "51dce15bd0a4",
       "title": "新作秋アニメ『転生したら剣でしたII』新章突入記念！三木眞一郎＆加隈亜衣が出演する特別番組を11月8日（日）夜7時30分よりABEMAで独占無料放送決定！",
-      "url": "https://prtimes.jp/main/html/rd/p/000004201.000064643.html",
-      "host": "prtimes.jp",
-      "source": "PR TIMES",
-      "summary": "[ABEMA] [画像1: https://prcdn.freetls.fastly.net/release_image/64643/4201/64643-4201-d88c445495c38c265c8a53c26d6487de-1920x1080.jpg?width=536&quality=85%2C75&for…",
+      "url": "https://animeanime.jp/release/prtimes/20261105/324781.html",
+      "host": "animeanime.jp",
+      "source": "アニメ！アニメ！",
+      "summary": "",
       "publishedAt": "2026-11-05T01:01:14.000Z",
-      "image": "https://prcdn.freetls.fastly.net/release_image/64643/4201/64643-4201-d88c445495c38c265c8a53c26d6487de-1920x1080.jpg?format=jpeg&auto=webp&fit=bounds&width=2400&height=1260",
+      "image": "https://animeanime.jp/release/imgs/list/570448.jpg",
       "categories": [
         "anime"
       ],
       "works": [
         "tenken"
       ],
-      "isPR": true,
+      "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
       "isNew": false
@@ -1250,12 +1270,12 @@
     {
       "id": "6615870364cf",
       "title": "『薬屋のひとりごと』が5週連続1位、『リボ払い』が2位にランクアップ！10月26日週アニメ週間ランキング発表",
-      "url": "https://news.infoseek.co.jp/article/abematimes_10286101/",
-      "host": "news.infoseek.co.jp",
-      "source": "Infoseek",
+      "url": "https://times.abema.tv/articles/-/10286101",
+      "host": "times.abema.tv",
+      "source": "ABEMA TIMES",
       "summary": "",
       "publishedAt": "2026-11-04T09:45:00.000Z",
-      "image": "https://media.image.infoseek.co.jp/isnews/photos/abematimes/abematimes_10286101_0-enlarge.jpg",
+      "image": "https://times-abema.ismcdn.jp/mwimgs/1/d/1200w/img_1d3a752d8bdabe56ca5d07dafe6686fd584473.jpg",
       "categories": [
         "anime",
         "web"
@@ -1658,7 +1678,7 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "99e7c60b1763",
@@ -1779,26 +1799,6 @@
       "viaGoogle": false,
       "sourceKind": "news",
       "isNew": false
-    },
-    {
-      "id": "4767e9d90138",
-      "title": "『薬屋のひとりごと』阿多を訪ねた猫猫、手掛かりに気づく 第52話あらすじ＆場面カット公開",
-      "url": "https://www.sanyonews.jp/article/2009036?kw",
-      "host": "sanyonews.jp",
-      "source": "山陽新聞",
-      "summary": "",
-      "publishedAt": "2026-11-03T15:08:14.000Z",
-      "image": "https://static.sanyonews.jp/image/article/size1/8/b/3/d/8b3d5406dc5695c39a1607f0ee0ef946_1.jpg",
-      "categories": [
-        "anime"
-      ],
-      "works": [
-        "kusuriya"
-      ],
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": true
     },
     {
       "id": "0235518669f3",
@@ -2130,6 +2130,26 @@
       "isNew": false
     },
     {
+      "id": "e8273a932b5d",
+      "title": "米津玄師、Mrs. GREEN APPLE、ヨルシカ、幾田りら……『薬屋のひとりごと』主題歌は何を描いた？ 独自の視点で紡ぐ音楽",
+      "url": "https://realsound.jp/2026/11/post-2572423.html",
+      "host": "realsound.jp",
+      "source": "リアルサウンド",
+      "summary": "",
+      "publishedAt": "2026-11-02T20:50:29.000Z",
+      "image": "https://realsound.jp/wp-content/uploads/2026/11/20261102-yonedu-999.jpeg",
+      "categories": [
+        "anime"
+      ],
+      "works": [
+        "kusuriya"
+      ],
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": true
+    },
+    {
       "id": "ca58279a372c",
       "title": "復讐、デスゲーム、異世界転生、下剋上の4作品が連載開始！マンガBANGコミックス 2026年10月連載開始の新連載4作品",
       "url": "https://dtimes.jp/post-1448536/",
@@ -2396,6 +2416,25 @@
       "isNew": false
     },
     {
+      "id": "ccd1cfec439f",
+      "title": "漫画『結界師の一輪華』最新話までネタバレあらすじ解説＆小説の続きも！アニメ化の原作はなろう？",
+      "url": "https://ciatr.jp/topics/321843",
+      "host": "ciatr.jp",
+      "source": "ciatr[シアター]",
+      "summary": "",
+      "publishedAt": "2026-11-02T08:00:00.000Z",
+      "image": "https://images.ciatr.jp/2023/06/w_828/1dp20GZotKQSosM7wak7XVc0knRT9TFJBQ6ue1dT.jpg",
+      "categories": [
+        "anime",
+        "comic"
+      ],
+      "works": [],
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": true
+    },
+    {
       "id": "cc69c222de77",
       "title": "逆異世界転生エージェント エーコさん #1〜12【無料ビデオ1週間】",
       "url": "https://abema.tv/channels/anime-live2/slots/BzEMU6erw2gSNK",
@@ -2528,24 +2567,6 @@
       ],
       "works": [],
       "isPR": true,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": false
-    },
-    {
-      "id": "ef8ab01dbbf4",
-      "title": "【無料】もし流行作『80億分の1』で死んだあとに異世界転生できたら？非公式ファン作品『80億分の、2回目』公開中―古竜や看板猫、剣の刺さった岩にも転生",
-      "url": "https://news.infoseek.co.jp/article/gamespark_174381/",
-      "host": "news.infoseek.co.jp",
-      "source": "Infoseek",
-      "summary": "",
-      "publishedAt": "2026-11-02T03:45:03.000Z",
-      "image": "https://media.image.infoseek.co.jp/isnews/photos/gamespark/gamespark_174381_0-enlarge.jpg",
-      "categories": [
-        "other"
-      ],
-      "works": [],
-      "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
       "isNew": false
