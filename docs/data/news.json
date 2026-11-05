@@ -1,18 +1,18 @@
 {
-  "updatedAt": "2026-11-05T02:30:20.617Z",
+  "updatedAt": "2026-11-05T03:00:17.606Z",
   "site": {
     "title": "なろう系まとめ",
     "tagline": "小説家になろう発の作品のアニメ化・コミカライズ・書籍化のニュースと、なろうのランキングをまとめています。",
     "url": "https://naroumatome.gamelab.website/",
     "contactUrl": "https://docs.google.com/forms/d/e/1FAIpQLSesWyhmZ6sRS_ve-c3X2KqF_wC5PK2TgwgQbTKmnQltSlg5Jw/viewform"
   },
-  "total": 85,
-  "todayCount": 7,
+  "total": 84,
+  "todayCount": 6,
   "categories": [
     {
       "id": "anime",
       "label": "アニメ",
-      "count": 47
+      "count": 45
     },
     {
       "id": "comic",
@@ -42,7 +42,7 @@
     {
       "id": "other",
       "label": "そのほか",
-      "count": 20
+      "count": 21
     }
   ],
   "works": [
@@ -50,7 +50,7 @@
       "id": "tensura",
       "title": "転生したらスライムだった件",
       "short": "転スラ",
-      "count": 9
+      "count": 8
     },
     {
       "id": "mushoku",
@@ -164,7 +164,7 @@
       "id": "katainaka",
       "title": "片田舎のおっさん、剣聖になる",
       "short": "片田舎のおっさん",
-      "count": 3
+      "count": 2
     },
     {
       "id": "nozomanu",
@@ -323,7 +323,11 @@
       "count": 4
     },
     {
-      "name": "Unisba Media",
+      "name": "ABEMA",
+      "count": 4
+    },
+    {
+      "name": "ニコニコニュース",
       "count": 3
     },
     {
@@ -331,15 +335,7 @@
       "count": 3
     },
     {
-      "name": "ABEMA",
-      "count": 3
-    },
-    {
       "name": "モデルプレス",
-      "count": 2
-    },
-    {
-      "name": "ニコニコニュース",
       "count": 2
     },
     {
@@ -349,6 +345,10 @@
     {
       "name": "リアルサウンド",
       "count": 2
+    },
+    {
+      "name": "Unisba Media",
+      "count": 1
     },
     {
       "name": "映画.com",
@@ -436,10 +436,6 @@
     },
     {
       "name": "eeo",
-      "count": 1
-    },
-    {
-      "name": "Mantan Web",
       "count": 1
     }
   ],
@@ -866,12 +862,12 @@
     }
   ],
   "churn": {
-    "previousAt": "2026-11-05T02:00:18.488Z",
-    "previousCount": 86,
+    "previousAt": "2026-11-05T02:30:20.617Z",
+    "previousCount": 85,
     "newCount": 1
   },
   "updateGapMin": 30,
-  "nextUpdateAt": "2026-11-05T03:00:20.617Z",
+  "nextUpdateAt": "2026-11-05T03:30:17.606Z",
   "items": [
     {
       "id": "5904f3af9231",
@@ -930,26 +926,6 @@
       "viaGoogle": false,
       "sourceKind": "news",
       "isNew": false
-    },
-    {
-      "id": "623488b56120",
-      "title": "TVアニメ「片田舎のおっさん、剣聖になる」3Dアニメーション制作インタビュー第1回 Pwhl Scores (qzGV3Y0XsZ)",
-      "url": "https://media.unisba.ac.id/2cd6dada/3c12344bxMwermCmVps",
-      "host": "media.unisba.ac.id",
-      "source": "Unisba Media",
-      "summary": "",
-      "publishedAt": "2026-11-04T20:58:11.000Z",
-      "image": "",
-      "categories": [
-        "anime"
-      ],
-      "works": [
-        "katainaka"
-      ],
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": true
     },
     {
       "id": "a0dc96f9267a",
@@ -2245,6 +2221,24 @@
       "isNew": false
     },
     {
+      "id": "79b1621c8b30",
+      "title": "BookLiveオリジナルコミックス・COMICエトワール5周年記念！「COMICエトワール異世界＆現代キュンッと漫画賞」初開催",
+      "url": "https://news.nicovideo.jp/watch/nw19949091",
+      "host": "news.nicovideo.jp",
+      "source": "ニコニコニュース",
+      "summary": "",
+      "publishedAt": "2026-11-02T12:00:32.000Z",
+      "image": "",
+      "categories": [
+        "comic"
+      ],
+      "works": [],
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": false
+    },
+    {
       "id": "2228bdcfb969",
       "title": "猫猫＆羅半、“義兄妹らしい雑対応”に「甘えてるよな」「やりとり面白可愛い」アニメ『薬屋のひとりごと』53話（ABEMA TIMES）",
       "url": "https://news.yahoo.co.jp/articles/bd5252c8403ce3311c91d98f430708659ace33aa",
@@ -2360,6 +2354,24 @@
       "viaGoogle": false,
       "sourceKind": "news",
       "isNew": false
+    },
+    {
+      "id": "cc69c222de77",
+      "title": "逆異世界転生エージェント エーコさん #1〜12【無料ビデオ1週間】",
+      "url": "https://abema.tv/channels/anime-live2/slots/BzEMU6erw2gSNK",
+      "host": "abema.tv",
+      "source": "ABEMA",
+      "summary": "",
+      "publishedAt": "2026-11-02T08:00:00.000Z",
+      "image": "",
+      "categories": [
+        "other"
+      ],
+      "works": [],
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": true
     },
     {
       "id": "e5b35d545fcb",
@@ -2493,44 +2505,6 @@
         "other"
       ],
       "works": [],
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": false
-    },
-    {
-      "id": "79b1621c8b30",
-      "title": "BookLiveオリジナルコミックス・COMICエトワール5周年記念！「COMICエトワール異世界＆現代キュンッと漫画賞」初開催",
-      "url": "https://mantan-web.jp/prtimes/article/20261102prt00m200000731a.html",
-      "host": "mantan-web.jp",
-      "source": "Mantan Web",
-      "summary": "",
-      "publishedAt": "2026-11-02T03:00:00.000Z",
-      "image": "https://prtimes.jp/img/22823/678/resize/d22823-678-06bf794ad6244cb1dc74-0.jpg",
-      "categories": [
-        "comic"
-      ],
-      "works": [],
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": false
-    },
-    {
-      "id": "23aa6eb6b4ae",
-      "title": "藍井エイル「絵空事」Lyric Video（TVアニメ『転生したらスライムだった件 第4期』オープニング主題歌） Seven Movie (yCNFzTLyMI)",
-      "url": "https://media.unisba.ac.id/9b48b873/b499bccdahL61xAPQQ",
-      "host": "media.unisba.ac.id",
-      "source": "Unisba Media",
-      "summary": "",
-      "publishedAt": "2026-11-02T02:49:57.000Z",
-      "image": "",
-      "categories": [
-        "anime"
-      ],
-      "works": [
-        "tensura"
-      ],
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
