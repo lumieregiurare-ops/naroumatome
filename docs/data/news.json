@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-05T00:00:17.431Z",
+  "updatedAt": "2026-11-05T00:30:21.003Z",
   "site": {
     "title": "なろう系まとめ",
     "tagline": "小説家になろう発の作品のアニメ化・コミカライズ・書籍化のニュースと、なろうのランキングをまとめています。",
@@ -7,12 +7,12 @@
     "contactUrl": "https://docs.google.com/forms/d/e/1FAIpQLSesWyhmZ6sRS_ve-c3X2KqF_wC5PK2TgwgQbTKmnQltSlg5Jw/viewform"
   },
   "total": 84,
-  "todayCount": 4,
+  "todayCount": 5,
   "categories": [
     {
       "id": "anime",
       "label": "アニメ",
-      "count": 46
+      "count": 44
     },
     {
       "id": "comic",
@@ -32,7 +32,7 @@
     {
       "id": "game",
       "label": "ゲーム",
-      "count": 4
+      "count": 5
     },
     {
       "id": "goods",
@@ -42,7 +42,7 @@
     {
       "id": "other",
       "label": "そのほか",
-      "count": 19
+      "count": 20
     }
   ],
   "works": [
@@ -50,13 +50,13 @@
       "id": "tensura",
       "title": "転生したらスライムだった件",
       "short": "転スラ",
-      "count": 10
+      "count": 9
     },
     {
       "id": "mushoku",
       "title": "無職転生 ～異世界行ったら本気だす～",
       "short": "無職転生",
-      "count": 9
+      "count": 10
     },
     {
       "id": "rezero",
@@ -164,7 +164,7 @@
       "id": "katainaka",
       "title": "片田舎のおっさん、剣聖になる",
       "short": "片田舎のおっさん",
-      "count": 2
+      "count": 3
     },
     {
       "id": "nozomanu",
@@ -316,14 +316,22 @@
     },
     {
       "name": "ABEMA TIMES",
-      "count": 5
-    },
-    {
-      "name": "ABEMA",
       "count": 4
     },
     {
+      "name": "Unisba Media",
+      "count": 3
+    },
+    {
       "name": "PR TIMES",
+      "count": 3
+    },
+    {
+      "name": "Infoseek",
+      "count": 3
+    },
+    {
+      "name": "ABEMA",
       "count": 3
     },
     {
@@ -335,20 +343,8 @@
       "count": 2
     },
     {
-      "name": "Unisba Media",
-      "count": 2
-    },
-    {
       "name": "WEBザテレビジョン",
       "count": 2
-    },
-    {
-      "name": "千葉テレビ放送株式会社",
-      "count": 2
-    },
-    {
-      "name": "Infoseek",
-      "count": 1
     },
     {
       "name": "映画.com",
@@ -395,7 +391,7 @@
       "count": 1
     },
     {
-      "name": "v-storage.jp",
+      "name": "インサイド",
       "count": 1
     },
     {
@@ -404,6 +400,10 @@
     },
     {
       "name": "Dtimes",
+      "count": 1
+    },
+    {
+      "name": "マガポケ",
       "count": 1
     },
     {
@@ -506,6 +506,49 @@
       ]
     },
     {
+      "id": "e345e39d9a35",
+      "title": "「ありがとう、無職転生」「永遠に続いて欲しい」『無職転生 〜蛇足編〜』シリーズ完結と原作イラストに反響続々（ABEMA TIMES）",
+      "summary": "",
+      "url": "https://news.yahoo.co.jp/articles/3c1d1468e4f61fefdd746a498818fb5cb9a572e3",
+      "image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20261104-10285859-abemad-000-1-view.jpg?exp=10800",
+      "leadSource": "Yahoo!ニュース",
+      "publishedAt": "2026-11-04T09:06:16.000Z",
+      "sourceCount": 4,
+      "articleCount": 4,
+      "categories": [
+        "other",
+        "anime"
+      ],
+      "keywords": [
+        "無職転生",
+        "イラスト",
+        "蛇足編"
+      ],
+      "articles": [
+        {
+          "title": "「ありがとう、無職転生」「永遠に続いて欲しい」『無職転生 ～蛇足編～』シリーズ完結と原作イラストに反響続々",
+          "url": "https://news.infoseek.co.jp/article/abematimes_10285859/",
+          "source": "Infoseek",
+          "publishedAt": "2026-11-04T09:05:00.000Z",
+          "isPR": false
+        },
+        {
+          "title": "『無職転生 ～蛇足編～』完結を記念したオンリーショップがアニメイトにて開催決定",
+          "url": "https://ln-news.com/articles/127116",
+          "source": "ラノベニュースオンライン",
+          "publishedAt": "2026-11-04T04:00:00.000Z",
+          "isPR": false
+        },
+        {
+          "title": "「......ち、小さくありません......」 #イラスト #無職転生 #ロキシー",
+          "url": "https://t.co/duletdLsjs",
+          "source": "Howl.Link",
+          "publishedAt": "2026-11-02T12:40:59.000Z",
+          "isPR": false
+        }
+      ]
+    },
+    {
       "id": "5904f3af9231",
       "title": "(画像3/9) 日テレ河出奈都美アナ「薬屋のひとりごと」主人公・猫猫（マオマオ）コスプレに反響「めちゃくちゃ似合ってる」「物語から飛び出してきたみたい」",
       "summary": "",
@@ -573,42 +616,6 @@
           "url": "https://abema.tv/channels/abema-anime-2/slots/BDbG5Zaa11wUJj",
           "source": "ABEMA",
           "publishedAt": "2026-11-02T12:23:43.000Z",
-          "isPR": false
-        }
-      ]
-    },
-    {
-      "id": "e345e39d9a35",
-      "title": "「ありがとう、無職転生」「永遠に続いて欲しい」『無職転生 〜蛇足編〜』シリーズ完結と原作イラストに反響続々（ABEMA TIMES）",
-      "summary": "",
-      "url": "https://news.yahoo.co.jp/articles/3c1d1468e4f61fefdd746a498818fb5cb9a572e3",
-      "image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20261104-10285859-abemad-000-1-view.jpg?exp=10800",
-      "leadSource": "Yahoo!ニュース",
-      "publishedAt": "2026-11-04T09:06:16.000Z",
-      "sourceCount": 3,
-      "articleCount": 3,
-      "categories": [
-        "other",
-        "anime"
-      ],
-      "keywords": [
-        "無職転生",
-        "イラスト",
-        "蛇足編"
-      ],
-      "articles": [
-        {
-          "title": "『無職転生 ～蛇足編～』完結を記念したオンリーショップがアニメイトにて開催決定",
-          "url": "https://ln-news.com/articles/127116",
-          "source": "ラノベニュースオンライン",
-          "publishedAt": "2026-11-04T04:00:00.000Z",
-          "isPR": false
-        },
-        {
-          "title": "「......ち、小さくありません......」 #イラスト #無職転生 #ロキシー",
-          "url": "https://t.co/duletdLsjs",
-          "source": "Howl.Link",
-          "publishedAt": "2026-11-02T12:40:59.000Z",
           "isPR": false
         }
       ]
@@ -820,12 +827,12 @@
     }
   ],
   "churn": {
-    "previousAt": "2026-11-04T23:30:18.362Z",
-    "previousCount": 85,
-    "newCount": 0
+    "previousAt": "2026-11-05T00:00:17.431Z",
+    "previousCount": 84,
+    "newCount": 4
   },
   "updateGapMin": 30,
-  "nextUpdateAt": "2026-11-05T00:30:17.431Z",
+  "nextUpdateAt": "2026-11-05T01:00:21.003Z",
   "items": [
     {
       "id": "5904f3af9231",
@@ -846,6 +853,26 @@
       "viaGoogle": false,
       "sourceKind": "news",
       "isNew": false
+    },
+    {
+      "id": "623488b56120",
+      "title": "TVアニメ「片田舎のおっさん、剣聖になる」3Dアニメーション制作インタビュー第1回 Pwhl Scores (qzGV3Y0XsZ)",
+      "url": "https://media.unisba.ac.id/2cd6dada/3c12344bxMwermCmVps",
+      "host": "media.unisba.ac.id",
+      "source": "Unisba Media",
+      "summary": "",
+      "publishedAt": "2026-11-04T20:58:11.000Z",
+      "image": "",
+      "categories": [
+        "anime"
+      ],
+      "works": [
+        "katainaka"
+      ],
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": true
     },
     {
       "id": "a0dc96f9267a",
@@ -1150,12 +1177,12 @@
     {
       "id": "6615870364cf",
       "title": "『薬屋のひとりごと』が5週連続1位、『リボ払い』が2位にランクアップ！10月26日週アニメ週間ランキング発表",
-      "url": "https://times.abema.tv/articles/-/10286101",
-      "host": "times.abema.tv",
-      "source": "ABEMA TIMES",
+      "url": "https://news.infoseek.co.jp/article/abematimes_10286101/",
+      "host": "news.infoseek.co.jp",
+      "source": "Infoseek",
       "summary": "",
       "publishedAt": "2026-11-04T09:45:00.000Z",
-      "image": "https://times-abema.ismcdn.jp/mwimgs/1/d/1200w/img_1d3a752d8bdabe56ca5d07dafe6686fd584473.jpg",
+      "image": "https://media.image.infoseek.co.jp/isnews/photos/abematimes/abematimes_10286101_0-enlarge.jpg",
       "categories": [
         "anime",
         "web"
@@ -1207,6 +1234,26 @@
       "viaGoogle": false,
       "sourceKind": "news",
       "isNew": false
+    },
+    {
+      "id": "39f8dafd5e9e",
+      "title": "「ありがとう、無職転生」「永遠に続いて欲しい」『無職転生 ～蛇足編～』シリーズ完結と原作イラストに反響続々",
+      "url": "https://news.infoseek.co.jp/article/abematimes_10285859/",
+      "host": "news.infoseek.co.jp",
+      "source": "Infoseek",
+      "summary": "",
+      "publishedAt": "2026-11-04T09:05:00.000Z",
+      "image": "https://media.image.infoseek.co.jp/isnews/photos/abematimes/abematimes_10285859_0-enlarge.jpg",
+      "categories": [
+        "other"
+      ],
+      "works": [
+        "mushoku"
+      ],
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": true
     },
     {
       "id": "4ca182897e94",
@@ -1779,26 +1826,6 @@
       "isNew": false
     },
     {
-      "id": "d831a8e37c8f",
-      "title": "アニメ『転生したらスライムだった件』設定資料集vol.2＆vol.3 キャラクターデザイン・江畑諒真描き下ろし表紙イラスト解禁！ - v-storage.jp",
-      "url": "https://v-storage.jp/anime/etc-anime/289795/",
-      "host": "v-storage.jp",
-      "source": "v-storage.jp",
-      "summary": "",
-      "publishedAt": "2026-11-03T04:51:48.000Z",
-      "image": "https://v-storage.jp/wp-content/uploads/2026/11/989ec7f66dc6373d16759802670e3895.jpg",
-      "categories": [
-        "anime"
-      ],
-      "works": [
-        "tensura"
-      ],
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": false
-    },
-    {
       "id": "b0a2d69b45a3",
       "title": "TVアニメ「アラフォー賢者の異世界生活日記」ティザーPV [画像・動画ギャラリー 4/4]",
       "url": "https://natalie.mu/comic/gallery/news/696392/media/142122?ref",
@@ -1932,6 +1959,26 @@
       "isNew": false
     },
     {
+      "id": "4ddb3595d662",
+      "title": "「薬屋のひとりごと」限定アイテムが、ワークマンから11月上旬発売！薬手帳ケース、Tシャツなど実用性バッチリな全18種",
+      "url": "https://www.inside-games.jp/article/2026/11/03/190291.html",
+      "host": "inside-games.jp",
+      "source": "インサイド",
+      "summary": "",
+      "publishedAt": "2026-11-02T22:20:03.000Z",
+      "image": "https://www.inside-games.jp/imgs/ogp_f/1774870.jpg",
+      "categories": [
+        "other"
+      ],
+      "works": [
+        "kusuriya"
+      ],
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": true
+    },
+    {
       "id": "e2983d083993",
       "title": "「無職転生〜異世界行ったら本気だす〜クロニクル・オブ・エコーズ」のアプリ紹介とポイ活・攻略Wikiの情報（iOS/Android）",
       "url": "https://gamerch.com/app_detail/10863",
@@ -2005,6 +2052,24 @@
       "viaGoogle": false,
       "sourceKind": "news",
       "isNew": false
+    },
+    {
+      "id": "48117da4aa3a",
+      "title": "信じていた仲間達にダンジョン奥地で殺されかけたがギフト『無限ガチャ』でレベル9999の仲間達を手に入れて元パーティーメンバーと世界に復讐＆『ざまぁ！』します！",
+      "url": "https://pocket.shonenmagazine.com/title/01379/episode/445773",
+      "host": "pocket.shonenmagazine.com",
+      "source": "マガポケ",
+      "summary": "",
+      "publishedAt": "2026-11-02T15:15:03.000Z",
+      "image": "https://mgpk-cdn.magazinepocket.com/static/titles/1379/episodes/445773/thumbnail_20261019154900b4637e909448a415935ce1c002933cdd.png",
+      "categories": [
+        "game"
+      ],
+      "works": [],
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": true
     },
     {
       "id": "51415933a12b",
@@ -2146,7 +2211,7 @@
       "source": "https://mediadogs.jp/",
       "summary": "",
       "publishedAt": "2026-11-02T09:11:27.000Z",
-      "image": "",
+      "image": "https://mediadogs.jp/wp-content/uploads/2026/11/eyecatch-54.webp",
       "categories": [
         "other"
       ],
@@ -2194,24 +2259,6 @@
       "works": [
         "kusuriya"
       ],
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": false
-    },
-    {
-      "id": "cc69c222de77",
-      "title": "逆異世界転生エージェント エーコさん #1〜12【無料ビデオ1週間】",
-      "url": "https://abema.tv/channels/anime-live2/slots/BzEMU6erw2gSNK",
-      "host": "abema.tv",
-      "source": "ABEMA",
-      "summary": "",
-      "publishedAt": "2026-11-02T08:00:00.000Z",
-      "image": "",
-      "categories": [
-        "other"
-      ],
-      "works": [],
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
@@ -2429,44 +2476,6 @@
       "works": [
         "kusuriya"
       ],
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": false
-    },
-    {
-      "id": "36d7fc3d4913",
-      "title": "アニメ『薬屋のひとりごと 第3期』はどこで見れる？サブスク・配信サービスを全調査 | VODB! by チバテレ",
-      "url": "https://www.chiba-tv.com/vod-db/kusuriya-s3-anime/",
-      "host": "chiba-tv.com",
-      "source": "千葉テレビ放送株式会社",
-      "summary": "",
-      "publishedAt": "2026-11-02T00:20:02.000Z",
-      "image": "https://www.chiba-tv.com/vod-db/wp-content/uploads/2026/09/eyecatch_kusuriya-s3-anime.png",
-      "categories": [
-        "anime"
-      ],
-      "works": [
-        "kusuriya"
-      ],
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": false
-    },
-    {
-      "id": "df316c19bb47",
-      "title": "アニメ『信者ゼロの女神サマと始める異世界攻略』はどこで見れる？サブスク・配信サービスを全調査 | VODB! by チバテレ",
-      "url": "https://www.chiba-tv.com/vod-db/shinjazero-anime/",
-      "host": "chiba-tv.com",
-      "source": "千葉テレビ放送株式会社",
-      "summary": "",
-      "publishedAt": "2026-11-02T00:19:45.000Z",
-      "image": "https://www.chiba-tv.com/vod-db/wp-content/uploads/2026/09/eyecatch_shinjazero-anime.png",
-      "categories": [
-        "anime"
-      ],
-      "works": [],
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
