@@ -1,18 +1,18 @@
 {
-  "updatedAt": "2026-11-05T03:00:17.606Z",
+  "updatedAt": "2026-11-05T03:30:21.315Z",
   "site": {
     "title": "なろう系まとめ",
     "tagline": "小説家になろう発の作品のアニメ化・コミカライズ・書籍化のニュースと、なろうのランキングをまとめています。",
     "url": "https://naroumatome.gamelab.website/",
     "contactUrl": "https://docs.google.com/forms/d/e/1FAIpQLSesWyhmZ6sRS_ve-c3X2KqF_wC5PK2TgwgQbTKmnQltSlg5Jw/viewform"
   },
-  "total": 84,
-  "todayCount": 6,
+  "total": 86,
+  "todayCount": 7,
   "categories": [
     {
       "id": "anime",
       "label": "アニメ",
-      "count": 45
+      "count": 47
     },
     {
       "id": "comic",
@@ -22,7 +22,7 @@
     {
       "id": "book",
       "label": "書籍・ラノベ",
-      "count": 7
+      "count": 8
     },
     {
       "id": "web",
@@ -74,7 +74,7 @@
       "id": "kusuriya",
       "title": "薬屋のひとりごと",
       "short": "薬屋",
-      "count": 27
+      "count": 28
     },
     {
       "id": "kagejitsu",
@@ -299,15 +299,15 @@
       "count": 10
     },
     {
-      "name": "ナタリー",
-      "count": 7
-    },
-    {
       "name": "Yahoo!ニュース",
-      "count": 7
+      "count": 8
     },
     {
       "name": "山陽新聞",
+      "count": 8
+    },
+    {
+      "name": "ナタリー",
       "count": 7
     },
     {
@@ -316,7 +316,7 @@
     },
     {
       "name": "PR TIMES",
-      "count": 4
+      "count": 5
     },
     {
       "name": "ABEMA TIMES",
@@ -340,10 +340,6 @@
     },
     {
       "name": "WEBザテレビジョン",
-      "count": 2
-    },
-    {
-      "name": "リアルサウンド",
       "count": 2
     },
     {
@@ -412,6 +408,10 @@
     },
     {
       "name": "マガポケ",
+      "count": 1
+    },
+    {
+      "name": "リアルサウンド",
       "count": 1
     },
     {
@@ -758,7 +758,8 @@
       "sourceCount": 2,
       "articleCount": 2,
       "categories": [
-        "other"
+        "other",
+        "anime"
       ],
       "keywords": [
         "薬屋",
@@ -767,10 +768,10 @@
       ],
       "articles": [
         {
-          "title": "「薬屋のひとりごと」限定アイテムが、ワークマンから11月上旬発売！薬手帳ケース、Tシャツなど実用性バッチリな全18種",
-          "url": "https://www.inside-games.jp/article/2026/11/03/190291.html",
-          "source": "インサイド",
-          "publishedAt": "2026-11-02T22:20:03.000Z",
+          "title": "ワークマンから人気アニメデザインのアイテム登場！『薬屋のひとりごと』『呪術廻戦』など必見アイテムをチェック（ぴあ）",
+          "url": "https://news.yahoo.co.jp/articles/84176702f410212f29f39c26cd58493e609fd27a",
+          "source": "Yahoo!ニュース",
+          "publishedAt": "2026-11-04T02:34:00.000Z",
           "isPR": false
         }
       ]
@@ -862,13 +863,32 @@
     }
   ],
   "churn": {
-    "previousAt": "2026-11-05T02:30:20.617Z",
-    "previousCount": 85,
-    "newCount": 1
+    "previousAt": "2026-11-05T03:00:17.606Z",
+    "previousCount": 84,
+    "newCount": 3
   },
   "updateGapMin": 30,
-  "nextUpdateAt": "2026-11-05T03:30:17.606Z",
+  "nextUpdateAt": "2026-11-05T04:00:21.315Z",
   "items": [
+    {
+      "id": "aa3eeb5cfc51",
+      "title": "【本日予約開始】2027年1月TVアニメ放送『欠けた月のメルセデス』『ゲーム世界転生〈ダン活〉』注目の2作品の新刊が1/15刊発売決定！そのほか新レーベル「LEVIN」の最新巻が続々登場！",
+      "url": "https://prtimes.jp/main/html/rd/p/000000231.000174060.html",
+      "host": "prtimes.jp",
+      "source": "PR TIMES",
+      "summary": "",
+      "publishedAt": "2026-11-05T03:00:02.000Z",
+      "image": "https://prcdn.freetls.fastly.net/release_image/174060/231/174060-231-6b0f0fd1e7d662dbbaf17e23c7f98177-1400x900.jpg?format=jpeg&auto=webp&fit=bounds&width=2400&height=1260",
+      "categories": [
+        "anime",
+        "book"
+      ],
+      "works": [],
+      "isPR": true,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": true
+    },
     {
       "id": "5904f3af9231",
       "title": "(画像3/9) 日テレ河出奈都美アナ「薬屋のひとりごと」主人公・猫猫（マオマオ）コスプレに反響「めちゃくちゃ似合ってる」「物語から飛び出してきたみたい」",
@@ -895,7 +915,7 @@
       "url": "https://prtimes.jp/main/html/rd/p/000004201.000064643.html",
       "host": "prtimes.jp",
       "source": "PR TIMES",
-      "summary": "",
+      "summary": "[ABEMA] [画像1: https://prcdn.freetls.fastly.net/release_image/64643/4201/64643-4201-d88c445495c38c265c8a53c26d6487de-1920x1080.jpg?width=536&quality=85%2C75&for…",
       "publishedAt": "2026-11-05T01:01:14.000Z",
       "image": "https://prcdn.freetls.fastly.net/release_image/64643/4201/64643-4201-d88c445495c38c265c8a53c26d6487de-1920x1080.jpg?format=jpeg&auto=webp&fit=bounds&width=2400&height=1260",
       "categories": [
@@ -1621,6 +1641,26 @@
       "isNew": false
     },
     {
+      "id": "44a82dd56626",
+      "title": "ワークマンから人気アニメデザインのアイテム登場！『薬屋のひとりごと』『呪術廻戦』など必見アイテムをチェック（ぴあ）",
+      "url": "https://news.yahoo.co.jp/articles/84176702f410212f29f39c26cd58493e609fd27a",
+      "host": "news.yahoo.co.jp",
+      "source": "Yahoo!ニュース",
+      "summary": "",
+      "publishedAt": "2026-11-04T02:34:00.000Z",
+      "image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20261031-00010010-piaeigat-000-2-view.jpg?exp=10800",
+      "categories": [
+        "anime"
+      ],
+      "works": [
+        "kusuriya"
+      ],
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": true
+    },
+    {
       "id": "99e7c60b1763",
       "title": "大人気「MEGA CAT PROJECT」新アイテム！『薬屋のひとりごと』より、猫猫と壬氏がトロリと小瓶の中でトロけた姿でフィギュア化！",
       "url": "https://hobby.dengeki.com/news/3213657/",
@@ -1739,6 +1779,26 @@
       "viaGoogle": false,
       "sourceKind": "news",
       "isNew": false
+    },
+    {
+      "id": "4767e9d90138",
+      "title": "『薬屋のひとりごと』阿多を訪ねた猫猫、手掛かりに気づく 第52話あらすじ＆場面カット公開",
+      "url": "https://www.sanyonews.jp/article/2009036?kw",
+      "host": "sanyonews.jp",
+      "source": "山陽新聞",
+      "summary": "",
+      "publishedAt": "2026-11-03T15:08:14.000Z",
+      "image": "https://static.sanyonews.jp/image/article/size1/8/b/3/d/8b3d5406dc5695c39a1607f0ee0ef946_1.jpg",
+      "categories": [
+        "anime"
+      ],
+      "works": [
+        "kusuriya"
+      ],
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": true
     },
     {
       "id": "0235518669f3",
@@ -2070,26 +2130,6 @@
       "isNew": false
     },
     {
-      "id": "e8273a932b5d",
-      "title": "米津玄師、Mrs. GREEN APPLE、ヨルシカ、幾田りら……『薬屋のひとりごと』主題歌は何を描いた？ 独自の視点で紡ぐ音楽",
-      "url": "https://realsound.jp/2026/11/post-2572423.html",
-      "host": "realsound.jp",
-      "source": "リアルサウンド",
-      "summary": "",
-      "publishedAt": "2026-11-02T20:50:29.000Z",
-      "image": "https://realsound.jp/wp-content/uploads/2026/11/20261102-yonedu-999.jpeg",
-      "categories": [
-        "anime"
-      ],
-      "works": [
-        "kusuriya"
-      ],
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": false
-    },
-    {
       "id": "ca58279a372c",
       "title": "復讐、デスゲーム、異世界転生、下剋上の4作品が連載開始！マンガBANGコミックス 2026年10月連載開始の新連載4作品",
       "url": "https://dtimes.jp/post-1448536/",
@@ -2371,7 +2411,7 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "e5b35d545fcb",
