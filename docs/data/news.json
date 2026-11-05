@@ -1,18 +1,18 @@
 {
-  "updatedAt": "2026-11-05T14:30:59.894Z",
+  "updatedAt": "2026-11-05T15:00:20.677Z",
   "site": {
     "title": "なろう系まとめ",
     "tagline": "小説家になろう発の作品のアニメ化・コミカライズ・書籍化のニュースと、なろうのランキングをまとめています。",
     "url": "https://naroumatome.gamelab.website/",
     "contactUrl": "https://docs.google.com/forms/d/e/1FAIpQLSesWyhmZ6sRS_ve-c3X2KqF_wC5PK2TgwgQbTKmnQltSlg5Jw/viewform"
   },
-  "total": 85,
-  "todayCount": 39,
+  "total": 88,
+  "todayCount": 0,
   "categories": [
     {
       "id": "anime",
       "label": "アニメ",
-      "count": 49
+      "count": 51
     },
     {
       "id": "comic",
@@ -32,12 +32,12 @@
     {
       "id": "game",
       "label": "ゲーム",
-      "count": 7
+      "count": 8
     },
     {
       "id": "goods",
       "label": "グッズ・イベント",
-      "count": 10
+      "count": 11
     },
     {
       "id": "other",
@@ -74,7 +74,7 @@
       "id": "kusuriya",
       "title": "薬屋のひとりごと",
       "short": "薬屋",
-      "count": 30
+      "count": 32
     },
     {
       "id": "kagejitsu",
@@ -164,7 +164,7 @@
       "id": "katainaka",
       "title": "片田舎のおっさん、剣聖になる",
       "short": "片田舎のおっさん",
-      "count": 3
+      "count": 2
     },
     {
       "id": "nozomanu",
@@ -296,7 +296,7 @@
   "sources": [
     {
       "name": "Yahoo!ニュース",
-      "count": 11
+      "count": 12
     },
     {
       "name": "ラノベニュースオンライン",
@@ -327,6 +327,10 @@
       "count": 3
     },
     {
+      "name": "ABEMA",
+      "count": 3
+    },
+    {
       "name": "電撃オンライン",
       "count": 2
     },
@@ -347,19 +351,11 @@
       "count": 2
     },
     {
-      "name": "Unisba Media",
-      "count": 2
-    },
-    {
       "name": "Infoseek",
       "count": 2
     },
     {
       "name": "PR TIMES",
-      "count": 2
-    },
-    {
-      "name": "ABEMA",
       "count": 2
     },
     {
@@ -411,7 +407,15 @@
       "count": 1
     },
     {
+      "name": "Unisba Media",
+      "count": 1
+    },
+    {
       "name": "オタク総研",
+      "count": 1
+    },
+    {
+      "name": "映画.com",
       "count": 1
     },
     {
@@ -441,6 +445,10 @@
     {
       "name": "Gamerch",
       "count": 1
+    },
+    {
+      "name": "マガポケ",
+      "count": 1
     }
   ],
   "topics": [
@@ -453,7 +461,7 @@
       "leadSource": "Yahoo!ニュース",
       "publishedAt": "2026-11-05T10:02:28.000Z",
       "sourceCount": 8,
-      "articleCount": 12,
+      "articleCount": 13,
       "categories": [
         "anime",
         "goods"
@@ -645,6 +653,42 @@
       ]
     },
     {
+      "id": "8cde94de7299",
+      "title": "ネオンステッカーと猫猫グリーンの花火！横浜市『劇場版 薬屋のひとりごと 亡妃の秘宝』×横浜市コラボキャンペーン",
+      "summary": "",
+      "url": "https://dtimes.jp/post-1452047/",
+      "image": "https://dtimes.jp/wp-content/uploads/2026/11/dtimes-engine-6cec55605cd735611292aa4ff56d1d95-20261105-48ad13.jpg",
+      "leadSource": "Dtimes",
+      "publishedAt": "2026-11-05T07:46:38.000Z",
+      "sourceCount": 3,
+      "articleCount": 3,
+      "categories": [
+        "anime",
+        "goods"
+      ],
+      "keywords": [
+        "薬屋",
+        "劇場版",
+        "亡妃"
+      ],
+      "articles": [
+        {
+          "title": "「『赤いきつね・緑のたぬき』 × 『劇場版 薬屋のひとりごと 亡妃の秘宝』 コラボキャンペーン」のご案内",
+          "url": "https://www.maruchan.co.jp/news_topics/entry/2026/11/post_20211205.html",
+          "source": "東洋水産",
+          "publishedAt": "2026-11-05T05:00:00.000Z",
+          "isPR": false
+        },
+        {
+          "title": "「劇場版 薬屋のひとりごと 亡妃の秘宝」横浜市、全国アニメイトとコラボ 横浜をイメージしたビジュアル披露",
+          "url": "https://eiga.com/l/9zlKq",
+          "source": "映画.com",
+          "publishedAt": "2026-11-04T12:30:00.000Z",
+          "isPR": false
+        }
+      ]
+    },
+    {
       "id": "1e92bf793904",
       "title": "TVアニメ「アラフォー賢者の異世界生活日記」“いいおっさんの日”を記念した描き下ろしビジュアル [画像・動画ギャラリー 1/4]",
       "summary": "",
@@ -738,35 +782,6 @@
           "url": "https://news.yahoo.co.jp/articles/84176702f410212f29f39c26cd58493e609fd27a",
           "source": "Yahoo!ニュース",
           "publishedAt": "2026-11-04T02:34:00.000Z",
-          "isPR": false
-        }
-      ]
-    },
-    {
-      "id": "8cde94de7299",
-      "title": "ネオンステッカーと猫猫グリーンの花火！横浜市『劇場版 薬屋のひとりごと 亡妃の秘宝』×横浜市コラボキャンペーン",
-      "summary": "",
-      "url": "https://dtimes.jp/post-1452047/",
-      "image": "https://dtimes.jp/wp-content/uploads/2026/11/dtimes-engine-6cec55605cd735611292aa4ff56d1d95-20261105-48ad13.jpg",
-      "leadSource": "Dtimes",
-      "publishedAt": "2026-11-05T07:46:38.000Z",
-      "sourceCount": 2,
-      "articleCount": 2,
-      "categories": [
-        "anime",
-        "goods"
-      ],
-      "keywords": [
-        "薬屋",
-        "コラボキャンペーン",
-        "劇場版"
-      ],
-      "articles": [
-        {
-          "title": "「『赤いきつね・緑のたぬき』 × 『劇場版 薬屋のひとりごと 亡妃の秘宝』 コラボキャンペーン」のご案内",
-          "url": "https://www.maruchan.co.jp/news_topics/entry/2026/11/post_20211205.html",
-          "source": "東洋水産",
-          "publishedAt": "2026-11-05T05:00:00.000Z",
           "isPR": false
         }
       ]
@@ -887,12 +902,12 @@
     }
   ],
   "churn": {
-    "previousAt": "2026-11-05T14:00:24.059Z",
-    "previousCount": 87,
-    "newCount": 2
+    "previousAt": "2026-11-05T14:30:59.894Z",
+    "previousCount": 85,
+    "newCount": 5
   },
   "updateGapMin": 30,
-  "nextUpdateAt": "2026-11-05T15:00:59.894Z",
+  "nextUpdateAt": "2026-11-05T15:30:20.677Z",
   "items": [
     {
       "id": "5904f3af9231",
@@ -1553,6 +1568,26 @@
       "isNew": false
     },
     {
+      "id": "1d034ea68c7b",
+      "title": "『転スラ』剣を交えるリムルとレオン！ルミナスも動く 第91話あらすじ＆場面カット解禁",
+      "url": "https://www.sanyonews.jp/photo/detail?article_id",
+      "host": "sanyonews.jp",
+      "source": "山陽新聞",
+      "summary": "",
+      "publishedAt": "2026-11-05T01:43:48.000Z",
+      "image": "",
+      "categories": [
+        "anime"
+      ],
+      "works": [
+        "tensura"
+      ],
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": true
+    },
+    {
       "id": "51dce15bd0a4",
       "title": "新作秋アニメ『転生したら剣でしたII』新章突入記念！三木眞一郎＆加隈亜衣が出演する特別番組を11月8日（日）夜7時30分よりABEMAで独占無料放送決定！",
       "url": "https://animeanime.jp/release/prtimes/20261105/324781.html",
@@ -1589,26 +1624,6 @@
       "viaGoogle": false,
       "sourceKind": "news",
       "isNew": false
-    },
-    {
-      "id": "623488b56120",
-      "title": "TVアニメ「片田舎のおっさん、剣聖になる」3Dアニメーション制作インタビュー第1回 Pwhl Scores (qzGV3Y0XsZ)",
-      "url": "https://media.unisba.ac.id/2cd6dada/3c12344bxMwermCmVps",
-      "host": "media.unisba.ac.id",
-      "source": "Unisba Media",
-      "summary": "",
-      "publishedAt": "2026-11-04T20:58:11.000Z",
-      "image": "",
-      "categories": [
-        "anime"
-      ],
-      "works": [
-        "katainaka"
-      ],
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": true
     },
     {
       "id": "a0dc96f9267a",
@@ -1665,6 +1680,24 @@
       "viaGoogle": false,
       "sourceKind": "news",
       "isNew": false
+    },
+    {
+      "id": "86c279374abe",
+      "title": "異世界・ファンタジーアニメ5チャンネル | 無料で放送中の番組や配信中の話題作が見放題",
+      "url": "https://abema.tv/now-on-air/isekai-anime-5",
+      "host": "abema.tv",
+      "source": "ABEMA",
+      "summary": "",
+      "publishedAt": "2026-11-04T15:00:00.000Z",
+      "image": "",
+      "categories": [
+        "anime"
+      ],
+      "works": [],
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": true
     },
     {
       "id": "b43695072908",
@@ -1746,6 +1779,27 @@
       "viaGoogle": false,
       "sourceKind": "news",
       "isNew": false
+    },
+    {
+      "id": "9f5675c0b361",
+      "title": "「劇場版 薬屋のひとりごと 亡妃の秘宝」横浜市、全国アニメイトとコラボ 横浜をイメージしたビジュアル披露",
+      "url": "https://eiga.com/l/9zlKq",
+      "host": "eiga.com",
+      "source": "映画.com",
+      "summary": "",
+      "publishedAt": "2026-11-04T12:30:00.000Z",
+      "image": "https://media.eiga.com/images/buzz/130322/9ca19b57c7c30e46.jpg",
+      "categories": [
+        "anime",
+        "goods"
+      ],
+      "works": [
+        "kusuriya"
+      ],
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": true
     },
     {
       "id": "85a673dc41f0",
@@ -1846,6 +1900,26 @@
       "viaGoogle": false,
       "sourceKind": "news",
       "isNew": false
+    },
+    {
+      "id": "484ff796bcad",
+      "title": "「当たり」声優・上田麗奈の“魔性の白娘々ボイス”に「めっちゃ鳥肌」「妖しさ素晴らしい」アニメ『薬屋のひとりごと』53話",
+      "url": "https://news.yahoo.co.jp/articles/218b2fb8de443fb7b474cdce93287f534396fef7",
+      "host": "news.yahoo.co.jp",
+      "source": "Yahoo!ニュース",
+      "summary": "",
+      "publishedAt": "2026-11-04T09:42:17.000Z",
+      "image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20261104-10285882-abemad-000-1-view.jpg?exp=10800",
+      "categories": [
+        "anime"
+      ],
+      "works": [
+        "kusuriya"
+      ],
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": true
     },
     {
       "id": "e345e39d9a35",
@@ -2316,26 +2390,6 @@
       "isNew": false
     },
     {
-      "id": "80dae3b81de8",
-      "title": "『転スラ』リムル戦闘！ディアブロ含めキャラ大集結 第90話あらすじ＆場面カット解禁",
-      "url": "https://www.sanyonews.jp/article/1970647?kw",
-      "host": "sanyonews.jp",
-      "source": "山陽新聞",
-      "summary": "",
-      "publishedAt": "2026-11-03T06:06:56.000Z",
-      "image": "https://static.sanyonews.jp/image/article/size1/e/1/6/0/e1606d7d1670af7487b22801b4147609_1.jpg",
-      "categories": [
-        "anime"
-      ],
-      "works": [
-        "tensura"
-      ],
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": true
-    },
-    {
       "id": "69d022805ca7",
       "title": "アニメ『アラフォー賢者の異世界生活日記』“いいおっさんの日”を記念した描き下ろしビジュアル＆「アラフォーあるあるボイス」が公開",
       "url": "https://ln-news.com/articles/127122",
@@ -2540,6 +2594,24 @@
       "viaGoogle": false,
       "sourceKind": "news",
       "isNew": false
+    },
+    {
+      "id": "48117da4aa3a",
+      "title": "信じていた仲間達にダンジョン奥地で殺されかけたがギフト『無限ガチャ』でレベル9999の仲間達を手に入れて元パーティーメンバーと世界に復讐＆『ざまぁ！』します！",
+      "url": "https://pocket.shonenmagazine.com/title/01379/episode/445773",
+      "host": "pocket.shonenmagazine.com",
+      "source": "マガポケ",
+      "summary": "",
+      "publishedAt": "2026-11-02T15:15:03.000Z",
+      "image": "https://mgpk-cdn.magazinepocket.com/static/titles/1379/episodes/445773/thumbnail_20261019154900b4637e909448a415935ce1c002933cdd.png",
+      "categories": [
+        "game"
+      ],
+      "works": [],
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": true
     },
     {
       "id": "daea2b931feb",
