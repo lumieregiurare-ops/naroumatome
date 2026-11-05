@@ -1,12 +1,12 @@
 {
-  "updatedAt": "2026-11-05T15:00:20.677Z",
+  "updatedAt": "2026-11-05T15:30:22.442Z",
   "site": {
     "title": "なろう系まとめ",
     "tagline": "小説家になろう発の作品のアニメ化・コミカライズ・書籍化のニュースと、なろうのランキングをまとめています。",
     "url": "https://naroumatome.gamelab.website/",
     "contactUrl": "https://docs.google.com/forms/d/e/1FAIpQLSesWyhmZ6sRS_ve-c3X2KqF_wC5PK2TgwgQbTKmnQltSlg5Jw/viewform"
   },
-  "total": 88,
+  "total": 87,
   "todayCount": 0,
   "categories": [
     {
@@ -32,7 +32,7 @@
     {
       "id": "game",
       "label": "ゲーム",
-      "count": 8
+      "count": 7
     },
     {
       "id": "goods",
@@ -296,7 +296,7 @@
   "sources": [
     {
       "name": "Yahoo!ニュース",
-      "count": 12
+      "count": 11
     },
     {
       "name": "ラノベニュースオンライン",
@@ -331,11 +331,11 @@
       "count": 3
     },
     {
-      "name": "電撃オンライン",
+      "name": "eeo",
       "count": 2
     },
     {
-      "name": "eeo",
+      "name": "電撃オンライン",
       "count": 2
     },
     {
@@ -372,6 +372,10 @@
     },
     {
       "name": "ダ・ヴィンチWeb",
+      "count": 1
+    },
+    {
+      "name": "アニメージュプラス",
       "count": 1
     },
     {
@@ -445,10 +449,6 @@
     {
       "name": "Gamerch",
       "count": 1
-    },
-    {
-      "name": "マガポケ",
-      "count": 1
     }
   ],
   "topics": [
@@ -460,8 +460,8 @@
       "image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20261105-01454769-the_tv-000-1-view.jpg?exp=10800",
       "leadSource": "Yahoo!ニュース",
       "publishedAt": "2026-11-05T10:02:28.000Z",
-      "sourceCount": 8,
-      "articleCount": 13,
+      "sourceCount": 9,
+      "articleCount": 12,
       "categories": [
         "anime",
         "goods"
@@ -484,6 +484,13 @@
           "url": "https://www.pashplus.jp/anime/501719/",
           "source": "PASH! PLUS",
           "publishedAt": "2026-11-05T09:42:48.000Z",
+          "isPR": false
+        },
+        {
+          "title": "『薬屋のひとりごと』第54話 あらすじ＆先行カット公開！",
+          "url": "https://animageplus.jp/articles/detail/68163",
+          "source": "アニメージュプラス",
+          "publishedAt": "2026-11-05T09:01:39.000Z",
           "isPR": false
         },
         {
@@ -518,13 +525,6 @@
           "title": "アニメ『薬屋のひとりごと』3期6話“紙の村（前編）”。壬氏から持ち込まれた“⾯倒事”に頭を抱える猫猫。そんな中、やぶ医者・虞淵と馬閃、そして変装した壬氏が花街に現れる",
           "url": "https://dengekionline.com/article/202611/93182",
           "source": "電撃オンライン",
-          "publishedAt": "2026-11-05T09:00:00.000Z",
-          "isPR": false
-        },
-        {
-          "title": "『薬屋のひとりごと』第54話 あらすじ＆先行カット公開！（アニメージュプラス）",
-          "url": "https://news.yahoo.co.jp/articles/470e48940e4962b4bfd8bf517cc9cadf041cc984",
-          "source": "Yahoo!ニュース",
           "publishedAt": "2026-11-05T09:00:00.000Z",
           "isPR": false
         }
@@ -640,7 +640,7 @@
           "title": "TVアニメ『薬屋のひとりごと』3期6話のあらすじ公開！ 猫猫は、虞淵（やぶ医者）の⾥帰りに同⾏するようで…",
           "url": "https://eeo.today/media/2026/11/05/409795/",
           "source": "eeo",
-          "publishedAt": "2026-11-05T09:10:53.000Z",
+          "publishedAt": "2026-11-05T12:03:07.000Z",
           "isPR": false
         },
         {
@@ -819,7 +819,7 @@
       "id": "64e911a8a18a",
       "title": "「伝説の悪役令嬢らしいので本編には出ないことにしました 執着も溺愛も婚約破棄も全部お断りします！」の試し読み",
       "summary": "",
-      "url": "https://natalie.mu/comic/gallery/news/696638/3008733",
+      "url": "https://natalie.mu/comic/gallery/news/696638/3008732",
       "image": "https://assets.ln-news.com/images/medias/3d7c8a9594ca41718f6a943f6f89fe34.jpg",
       "leadSource": "ナタリー",
       "publishedAt": "2026-11-05T04:47:23.000Z",
@@ -902,12 +902,12 @@
     }
   ],
   "churn": {
-    "previousAt": "2026-11-05T14:30:59.894Z",
-    "previousCount": 85,
-    "newCount": 5
+    "previousAt": "2026-11-05T15:00:20.677Z",
+    "previousCount": 88,
+    "newCount": 1
   },
   "updateGapMin": 30,
-  "nextUpdateAt": "2026-11-05T15:30:20.677Z",
+  "nextUpdateAt": "2026-11-05T16:00:22.442Z",
   "items": [
     {
       "id": "5904f3af9231",
@@ -943,6 +943,26 @@
       ],
       "works": [
         "tenken"
+      ],
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": false
+    },
+    {
+      "id": "3eecae0d78b4",
+      "title": "TVアニメ『薬屋のひとりごと』3期6話のあらすじ公開！ 猫猫は、虞淵（やぶ医者）の⾥帰りに同⾏するようで…",
+      "url": "https://eeo.today/media/2026/11/05/409795/",
+      "host": "eeo.today",
+      "source": "eeo",
+      "summary": "",
+      "publishedAt": "2026-11-05T12:03:07.000Z",
+      "image": "https://eeo.today/media/wp-content/uploads/2026/11/EP54①（©）.jpg",
+      "categories": [
+        "anime"
+      ],
+      "works": [
+        "kusuriya"
       ],
       "isPR": false,
       "viaGoogle": false,
@@ -1131,26 +1151,6 @@
       "isNew": false
     },
     {
-      "id": "3eecae0d78b4",
-      "title": "TVアニメ『薬屋のひとりごと』3期6話のあらすじ公開！ 猫猫は、虞淵（やぶ医者）の⾥帰りに同⾏するようで…",
-      "url": "https://eeo.today/media/2026/11/05/409795/",
-      "host": "eeo.today",
-      "source": "eeo",
-      "summary": "",
-      "publishedAt": "2026-11-05T09:10:53.000Z",
-      "image": "https://eeo.today/media/wp-content/uploads/2026/11/EP54①（©）.jpg",
-      "categories": [
-        "anime"
-      ],
-      "works": [
-        "kusuriya"
-      ],
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": false
-    },
-    {
       "id": "459bb69c8e8e",
       "title": "TVアニメ『転生したら剣でした』2期6話のあらすじ公開！ 師匠とフランは、釣りに、グルメにと、海を満喫するが…",
       "url": "https://eeo.today/media/2026/11/05/409804/",
@@ -1164,6 +1164,26 @@
       ],
       "works": [
         "tenken"
+      ],
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": false
+    },
+    {
+      "id": "ae12b40bbbf0",
+      "title": "『薬屋のひとりごと』第54話 あらすじ＆先行カット公開！",
+      "url": "https://animageplus.jp/articles/detail/68163",
+      "host": "animageplus.jp",
+      "source": "アニメージュプラス",
+      "summary": "",
+      "publishedAt": "2026-11-05T09:01:39.000Z",
+      "image": "",
+      "categories": [
+        "anime"
+      ],
+      "works": [
+        "kusuriya"
       ],
       "isPR": false,
       "viaGoogle": false,
@@ -1279,26 +1299,6 @@
       "summary": "",
       "publishedAt": "2026-11-05T09:00:00.000Z",
       "image": "https://cimg.kgl-systems.io/camion/files/93182/ogp_KXAy.jpg?x=1280",
-      "categories": [
-        "anime"
-      ],
-      "works": [
-        "kusuriya"
-      ],
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": false
-    },
-    {
-      "id": "ae12b40bbbf0",
-      "title": "『薬屋のひとりごと』第54話 あらすじ＆先行カット公開！（アニメージュプラス）",
-      "url": "https://news.yahoo.co.jp/articles/470e48940e4962b4bfd8bf517cc9cadf041cc984",
-      "host": "news.yahoo.co.jp",
-      "source": "Yahoo!ニュース",
-      "summary": "",
-      "publishedAt": "2026-11-05T09:00:00.000Z",
-      "image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20261105-00068163-animage-000-1-view.jpg?exp=10800",
       "categories": [
         "anime"
       ],
@@ -1532,7 +1532,7 @@
     {
       "id": "64e911a8a18a",
       "title": "「伝説の悪役令嬢らしいので本編には出ないことにしました 執着も溺愛も婚約破棄も全部お断りします！」の試し読み",
-      "url": "https://natalie.mu/comic/gallery/news/696638/3008733",
+      "url": "https://natalie.mu/comic/gallery/news/696638/3008732",
       "host": "natalie.mu",
       "source": "ナタリー",
       "summary": "",
@@ -1566,26 +1566,6 @@
       "viaGoogle": false,
       "sourceKind": "news",
       "isNew": false
-    },
-    {
-      "id": "1d034ea68c7b",
-      "title": "『転スラ』剣を交えるリムルとレオン！ルミナスも動く 第91話あらすじ＆場面カット解禁",
-      "url": "https://www.sanyonews.jp/photo/detail?article_id",
-      "host": "sanyonews.jp",
-      "source": "山陽新聞",
-      "summary": "",
-      "publishedAt": "2026-11-05T01:43:48.000Z",
-      "image": "",
-      "categories": [
-        "anime"
-      ],
-      "works": [
-        "tensura"
-      ],
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": true
     },
     {
       "id": "51dce15bd0a4",
@@ -1697,7 +1677,7 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "b43695072908",
@@ -1799,7 +1779,7 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "85a673dc41f0",
@@ -1919,7 +1899,7 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "e345e39d9a35",
@@ -2390,6 +2370,26 @@
       "isNew": false
     },
     {
+      "id": "80dae3b81de8",
+      "title": "『転スラ』リムル戦闘！ディアブロ含めキャラ大集結 第90話あらすじ＆場面カット解禁",
+      "url": "https://www.sanyonews.jp/article/1970647?kw",
+      "host": "sanyonews.jp",
+      "source": "山陽新聞",
+      "summary": "",
+      "publishedAt": "2026-11-03T06:06:56.000Z",
+      "image": "https://static.sanyonews.jp/image/article/size1/e/1/6/0/e1606d7d1670af7487b22801b4147609_1.jpg",
+      "categories": [
+        "anime"
+      ],
+      "works": [
+        "tensura"
+      ],
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": true
+    },
+    {
       "id": "69d022805ca7",
       "title": "アニメ『アラフォー賢者の異世界生活日記』“いいおっさんの日”を記念した描き下ろしビジュアル＆「アラフォーあるあるボイス」が公開",
       "url": "https://ln-news.com/articles/127122",
@@ -2594,24 +2594,6 @@
       "viaGoogle": false,
       "sourceKind": "news",
       "isNew": false
-    },
-    {
-      "id": "48117da4aa3a",
-      "title": "信じていた仲間達にダンジョン奥地で殺されかけたがギフト『無限ガチャ』でレベル9999の仲間達を手に入れて元パーティーメンバーと世界に復讐＆『ざまぁ！』します！",
-      "url": "https://pocket.shonenmagazine.com/title/01379/episode/445773",
-      "host": "pocket.shonenmagazine.com",
-      "source": "マガポケ",
-      "summary": "",
-      "publishedAt": "2026-11-02T15:15:03.000Z",
-      "image": "https://mgpk-cdn.magazinepocket.com/static/titles/1379/episodes/445773/thumbnail_20261019154900b4637e909448a415935ce1c002933cdd.png",
-      "categories": [
-        "game"
-      ],
-      "works": [],
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": true
     },
     {
       "id": "daea2b931feb",
