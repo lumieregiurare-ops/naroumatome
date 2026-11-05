@@ -1,12 +1,12 @@
 {
-  "updatedAt": "2026-11-05T18:30:20.101Z",
+  "updatedAt": "2026-11-05T19:00:21.027Z",
   "site": {
     "title": "なろう系まとめ",
     "tagline": "小説家になろう発の作品のアニメ化・コミカライズ・書籍化のニュースと、なろうのランキングをまとめています。",
     "url": "https://naroumatome.gamelab.website/",
     "contactUrl": "https://docs.google.com/forms/d/e/1FAIpQLSesWyhmZ6sRS_ve-c3X2KqF_wC5PK2TgwgQbTKmnQltSlg5Jw/viewform"
   },
-  "total": 89,
+  "total": 88,
   "todayCount": 0,
   "categories": [
     {
@@ -17,7 +17,7 @@
     {
       "id": "comic",
       "label": "コミカライズ",
-      "count": 8
+      "count": 7
     },
     {
       "id": "book",
@@ -32,7 +32,7 @@
     {
       "id": "game",
       "label": "ゲーム",
-      "count": 7
+      "count": 6
     },
     {
       "id": "goods",
@@ -315,16 +315,16 @@
       "count": 5
     },
     {
-      "name": "ニコニコニュース",
-      "count": 3
-    },
-    {
       "name": "ABEMA TIMES",
       "count": 3
     },
     {
       "name": "Dtimes",
       "count": 3
+    },
+    {
+      "name": "ニコニコニュース",
+      "count": 2
     },
     {
       "name": "eeo",
@@ -887,12 +887,12 @@
     }
   ],
   "churn": {
-    "previousAt": "2026-11-05T18:00:20.262Z",
-    "previousCount": 87,
-    "newCount": 2
+    "previousAt": "2026-11-05T18:30:20.101Z",
+    "previousCount": 89,
+    "newCount": 0
   },
   "updateGapMin": 30,
-  "nextUpdateAt": "2026-11-05T19:00:20.101Z",
+  "nextUpdateAt": "2026-11-05T19:30:21.027Z",
   "items": [
     {
       "id": "5904f3af9231",
@@ -1590,7 +1590,7 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "51dce15bd0a4",
@@ -1648,7 +1648,7 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "a0dc96f9267a",
@@ -2593,25 +2593,6 @@
       "summary": "",
       "publishedAt": "2026-11-02T19:35:08.000Z",
       "image": "https://dtimes.jp/wp-content/uploads/2026/11/dtimes-engine-bcd7355794efb990ce8a1ae3caf9eae1-20261102-7119d2.jpg",
-      "categories": [
-        "comic",
-        "game"
-      ],
-      "works": [],
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": false
-    },
-    {
-      "id": "5d9cd10e4b1f",
-      "title": "【新連載】極限LOVEデスゲーム、異世界転生×下剋上ファンタジー、お尻系異世界ファンタジー、など一挙４作品が10月から",
-      "url": "https://news.nicovideo.jp/watch/nw19950037?news_ref",
-      "host": "news.nicovideo.jp",
-      "source": "ニコニコニュース",
-      "summary": "",
-      "publishedAt": "2026-11-02T18:30:25.000Z",
-      "image": "",
       "categories": [
         "comic",
         "game"
