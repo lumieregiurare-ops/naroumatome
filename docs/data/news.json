@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-06T01:30:17.634Z",
+  "updatedAt": "2026-11-06T02:00:18.866Z",
   "site": {
     "title": "なろう系まとめ",
     "tagline": "小説家になろう発の作品のアニメ化・コミカライズ・書籍化のニュースと、なろうのランキングをまとめています。",
@@ -7,7 +7,7 @@
     "contactUrl": "https://docs.google.com/forms/d/e/1FAIpQLSesWyhmZ6sRS_ve-c3X2KqF_wC5PK2TgwgQbTKmnQltSlg5Jw/viewform"
   },
   "total": 86,
-  "todayCount": 6,
+  "todayCount": 7,
   "categories": [
     {
       "id": "anime",
@@ -224,7 +224,7 @@
       "id": "tenken",
       "title": "転生したら剣でした",
       "short": "転剣",
-      "count": 7
+      "count": 8
     },
     {
       "id": "rupunana",
@@ -312,14 +312,18 @@
     },
     {
       "name": "ナタリー",
-      "count": 6
+      "count": 5
     },
     {
-      "name": "Mantan Web",
-      "count": 2
+      "name": "ABEMA TIMES",
+      "count": 3
     },
     {
       "name": "ニコニコニュース",
+      "count": 2
+    },
+    {
+      "name": "Mantan Web",
       "count": 2
     },
     {
@@ -348,10 +352,6 @@
     },
     {
       "name": "ABEMA",
-      "count": 2
-    },
-    {
-      "name": "ABEMA TIMES",
       "count": 2
     },
     {
@@ -728,13 +728,13 @@
       "leadSource": "ナタリー",
       "publishedAt": "2026-11-04T23:22:49.000Z",
       "sourceCount": 2,
-      "articleCount": 4,
+      "articleCount": 3,
       "categories": [
         "anime"
       ],
       "keywords": [
-        "アラフォー",
         "ビジュアル",
+        "アラフォー",
         "賢者"
       ],
       "articles": [
@@ -750,13 +750,6 @@
           "url": "https://ln-news.com/articles/127122",
           "source": "ラノベニュースオンライン",
           "publishedAt": "2026-11-03T05:30:00.000Z",
-          "isPR": false
-        },
-        {
-          "title": "TVアニメ「アラフォー賢者の異世界生活日記」ティザーPV [画像・動画ギャラリー 4/4]",
-          "url": "https://natalie.mu/comic/gallery/news/696392/media/142122?ref",
-          "source": "ナタリー",
-          "publishedAt": "2026-11-03T01:42:42.000Z",
           "isPR": false
         }
       ]
@@ -906,13 +899,33 @@
     }
   ],
   "churn": {
-    "previousAt": "2026-11-06T01:00:26.077Z",
-    "previousCount": 85,
+    "previousAt": "2026-11-06T01:30:17.634Z",
+    "previousCount": 86,
     "newCount": 1
   },
   "updateGapMin": 30,
-  "nextUpdateAt": "2026-11-06T02:00:17.634Z",
+  "nextUpdateAt": "2026-11-06T02:30:18.866Z",
   "items": [
+    {
+      "id": "8f64b0133934",
+      "title": "『転生したら剣でしたII』新章突入記念！キャスト出演特番放送",
+      "url": "https://news.nicovideo.jp/watch/nw19962282?news_ref",
+      "host": "news.nicovideo.jp",
+      "source": "ニコニコニュース",
+      "summary": "",
+      "publishedAt": "2026-11-06T01:30:17.000Z",
+      "image": "",
+      "categories": [
+        "anime"
+      ],
+      "works": [
+        "tenken"
+      ],
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": true
+    },
     {
       "id": "8471e40ec314",
       "title": "「薬屋のひとりごと」×ワークマン本日11月6日発売！ Tシャツだけじゃない、おくすり手帳ケースもラインナップ♪",
@@ -1057,12 +1070,12 @@
     {
       "id": "d32d963e3a26",
       "title": "『転生したら剣でしたII』シードラン編突入記念特番が11月8日にABEMAで決定！1〜5話一挙放送も",
-      "url": "https://news.nicovideo.jp/watch/nw19960364?news_ref",
-      "host": "news.nicovideo.jp",
-      "source": "ニコニコニュース",
+      "url": "https://times.abema.tv/articles/-/10286699",
+      "host": "times.abema.tv",
+      "source": "ABEMA TIMES",
       "summary": "",
-      "publishedAt": "2026-11-05T12:42:30.000Z",
-      "image": "",
+      "publishedAt": "2026-11-05T12:30:00.000Z",
+      "image": "https://times-abema.ismcdn.jp/mwimgs/5/d/1200w/img_5de1aa83a59b92cc3773f0a0d189f6691311649.jpg",
       "categories": [
         "anime"
       ],
@@ -2232,7 +2245,7 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "80195fa16d8e",
@@ -2521,24 +2534,6 @@
       "summary": "",
       "publishedAt": "2026-11-03T05:30:00.000Z",
       "image": "https://assets.ln-news.com/images/medias/94855331588a4f7eb4dadc8b1bebdf14.jpg",
-      "categories": [
-        "anime"
-      ],
-      "works": [],
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": false
-    },
-    {
-      "id": "b0a2d69b45a3",
-      "title": "TVアニメ「アラフォー賢者の異世界生活日記」ティザーPV [画像・動画ギャラリー 4/4]",
-      "url": "https://natalie.mu/comic/gallery/news/696392/media/142122?ref",
-      "host": "natalie.mu",
-      "source": "ナタリー",
-      "summary": "",
-      "publishedAt": "2026-11-03T01:42:42.000Z",
-      "image": "",
       "categories": [
         "anime"
       ],
