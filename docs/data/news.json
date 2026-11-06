@@ -1,18 +1,18 @@
 {
-  "updatedAt": "2026-11-06T00:30:23.057Z",
+  "updatedAt": "2026-11-06T01:00:26.077Z",
   "site": {
     "title": "なろう系まとめ",
     "tagline": "小説家になろう発の作品のアニメ化・コミカライズ・書籍化のニュースと、なろうのランキングをまとめています。",
     "url": "https://naroumatome.gamelab.website/",
     "contactUrl": "https://docs.google.com/forms/d/e/1FAIpQLSesWyhmZ6sRS_ve-c3X2KqF_wC5PK2TgwgQbTKmnQltSlg5Jw/viewform"
   },
-  "total": 86,
+  "total": 85,
   "todayCount": 6,
   "categories": [
     {
       "id": "anime",
       "label": "アニメ",
-      "count": 52
+      "count": 51
     },
     {
       "id": "comic",
@@ -22,7 +22,7 @@
     {
       "id": "book",
       "label": "書籍・ラノベ",
-      "count": 8
+      "count": 7
     },
     {
       "id": "web",
@@ -32,7 +32,7 @@
     {
       "id": "game",
       "label": "ゲーム",
-      "count": 5
+      "count": 6
     },
     {
       "id": "goods",
@@ -56,7 +56,7 @@
       "id": "mushoku",
       "title": "無職転生 ～異世界行ったら本気だす～",
       "short": "無職転生",
-      "count": 6
+      "count": 7
     },
     {
       "id": "rezero",
@@ -296,7 +296,7 @@
   "sources": [
     {
       "name": "ラノベニュースオンライン",
-      "count": 12
+      "count": 11
     },
     {
       "name": "Yahoo!ニュース",
@@ -355,10 +355,6 @@
       "count": 2
     },
     {
-      "name": "PR TIMES",
-      "count": 2
-    },
-    {
       "name": "PASH! PLUS",
       "count": 1
     },
@@ -407,6 +403,10 @@
       "count": 1
     },
     {
+      "name": "Gamerch",
+      "count": 1
+    },
+    {
       "name": "オタク総研",
       "count": 1
     },
@@ -424,6 +424,10 @@
     },
     {
       "name": "Excite エキサイト",
+      "count": 1
+    },
+    {
+      "name": "PR TIMES",
       "count": 1
     },
     {
@@ -831,34 +835,6 @@
       ]
     },
     {
-      "id": "8f39ae3fa8ab",
-      "title": "なんと早くも5刷重版出来！『ATMおじさん 異世界でモテ期が止まらない！1』モテ期も重版も止まらない！『ドローイング』原作者の林達永が贈る、異世界お色気＆バトルファンタジー",
-      "summary": "",
-      "url": "https://animeanime.jp/release/prtimes/20261105/324712.html",
-      "image": "https://animeanime.jp/release/imgs/list/570371.jpg",
-      "leadSource": "アニメ！アニメ！",
-      "publishedAt": "2026-11-04T15:10:00.000Z",
-      "sourceCount": 2,
-      "articleCount": 2,
-      "categories": [
-        "book"
-      ],
-      "keywords": [
-        "atm",
-        "ドローイング",
-        "バトルファンタジー"
-      ],
-      "articles": [
-        {
-          "title": "妻候補増加！お色気度も～っと増加!?『ドローイング』原作者の林達永が贈る、異世界お色気＆バトルファンタジー『ATMおじさん 異世界でモテ期が止まらない！』待望の第3巻発売！",
-          "url": "https://prtimes.jp/main/html/rd/p/000001047.000049835.html",
-          "source": "PR TIMES",
-          "publishedAt": "2026-11-04T03:10:01.000Z",
-          "isPR": true
-        }
-      ]
-    },
-    {
       "id": "b4b5c2920f8c",
       "title": "『転生したら剣でした』続編、強敵・リッチに一矢報いる瞬間に視聴者興奮！第4話最多コメントランキング",
       "summary": "",
@@ -886,15 +862,44 @@
           "isPR": false
         }
       ]
+    },
+    {
+      "id": "e345e39d9a35",
+      "title": "「ありがとう、無職転生」「永遠に続いて欲しい」『無職転生 〜蛇足編〜』シリーズ完結と原作イラストに反響続々（ABEMA TIMES）",
+      "summary": "",
+      "url": "https://news.yahoo.co.jp/articles/3c1d1468e4f61fefdd746a498818fb5cb9a572e3",
+      "image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20261104-10285859-abemad-000-1-view.jpg?exp=10800",
+      "leadSource": "Yahoo!ニュース",
+      "publishedAt": "2026-11-04T09:06:16.000Z",
+      "sourceCount": 2,
+      "articleCount": 2,
+      "categories": [
+        "other",
+        "anime"
+      ],
+      "keywords": [
+        "無職転生",
+        "蛇足編",
+        "完結"
+      ],
+      "articles": [
+        {
+          "title": "『無職転生 ～蛇足編～』完結を記念したオンリーショップがアニメイトにて開催決定",
+          "url": "https://ln-news.com/articles/127116",
+          "source": "ラノベニュースオンライン",
+          "publishedAt": "2026-11-04T04:00:00.000Z",
+          "isPR": false
+        }
+      ]
     }
   ],
   "churn": {
-    "previousAt": "2026-11-06T00:00:20.507Z",
+    "previousAt": "2026-11-06T00:30:23.057Z",
     "previousCount": 86,
     "newCount": 1
   },
   "updateGapMin": 30,
-  "nextUpdateAt": "2026-11-06T01:00:23.057Z",
+  "nextUpdateAt": "2026-11-06T01:30:26.077Z",
   "items": [
     {
       "id": "8471e40ec314",
@@ -935,7 +940,7 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "fe6bfdadb6ba",
@@ -1691,6 +1696,26 @@
       "isNew": false
     },
     {
+      "id": "e2983d083993",
+      "title": "「無職転生〜異世界行ったら本気だす〜クロニクル・オブ・エコーズ」のアプリ紹介とポイ活・攻略Wikiの情報（iOS/Android）",
+      "url": "https://gamerch.com/app_detail/10863",
+      "host": "gamerch.com",
+      "source": "Gamerch",
+      "summary": "",
+      "publishedAt": "2026-11-04T21:35:14.000Z",
+      "image": "https://cdn.gamerch.com/contents/game-db/10863/icon.png?1793828114",
+      "categories": [
+        "game"
+      ],
+      "works": [
+        "mushoku"
+      ],
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": true
+    },
+    {
       "id": "623488b56120",
       "title": "TVアニメ「片田舎のおっさん、剣聖になる」3Dアニメーション制作インタビュー第1回 Pwhl Scores (qzGV3Y0XsZ)",
       "url": "https://media.unisba.ac.id/2cd6dada/3c12344bxMwermCmVps",
@@ -2219,24 +2244,6 @@
       "isNew": false
     },
     {
-      "id": "c21f71a45946",
-      "title": "妻候補増加！お色気度も～っと増加!?『ドローイング』原作者の林達永が贈る、異世界お色気＆バトルファンタジー『ATMおじさん 異世界でモテ期が止まらない！』待望の第3巻発売！",
-      "url": "https://prtimes.jp/main/html/rd/p/000001047.000049835.html",
-      "host": "prtimes.jp",
-      "source": "PR TIMES",
-      "summary": "",
-      "publishedAt": "2026-11-04T03:10:01.000Z",
-      "image": "https://prcdn.freetls.fastly.net/release_image/49835/1047/49835-1047-526b36d5a7b0175fc37b318bc54feb22-976x495.jpg?format=jpeg&auto=webp&fit=bounds&width=2400&height=1260",
-      "categories": [
-        "book"
-      ],
-      "works": [],
-      "isPR": true,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": false
-    },
-    {
       "id": "44a82dd56626",
       "title": "ワークマンから人気アニメデザインのアイテム登場！『薬屋のひとりごと』『呪術廻戦』など必見アイテムをチェック（ぴあ）",
       "url": "https://news.yahoo.co.jp/articles/84176702f410212f29f39c26cd58493e609fd27a",
@@ -2557,24 +2564,6 @@
       "image": "https://assets.ln-news.com/images/medias/17e64e5112c443b1893af153a191d19e.jpg",
       "categories": [
         "comic"
-      ],
-      "works": [],
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": false
-    },
-    {
-      "id": "daea2b931feb",
-      "title": "アニメ『凶乱令嬢ニア・リストン 病弱令嬢に転生した神殺しの武人の華麗なる無双録』第5話「魔法映像普及活動会議」のあらすじ＆先行カット解禁",
-      "url": "https://ln-news.com/articles/127105",
-      "host": "ln-news.com",
-      "source": "ラノベニュースオンライン",
-      "summary": "",
-      "publishedAt": "2026-11-02T10:00:00.000Z",
-      "image": "https://assets.ln-news.com/images/medias/f610c32a76df4f6d8f44843903704fdb.jpg",
-      "categories": [
-        "anime"
       ],
       "works": [],
       "isPR": false,
