@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-06T11:30:18.314Z",
+  "updatedAt": "2026-11-06T12:00:19.697Z",
   "site": {
     "title": "なろう系まとめ",
     "tagline": "小説家になろう発の作品のアニメ化・コミカライズ・書籍化のニュースと、なろうのランキングをまとめています。",
@@ -27,7 +27,7 @@
     {
       "id": "web",
       "label": "Web小説・賞",
-      "count": 6
+      "count": 7
     },
     {
       "id": "game",
@@ -56,7 +56,7 @@
       "id": "mushoku",
       "title": "無職転生 ～異世界行ったら本気だす～",
       "short": "無職転生",
-      "count": 9
+      "count": 10
     },
     {
       "id": "rezero",
@@ -74,7 +74,7 @@
       "id": "kusuriya",
       "title": "薬屋のひとりごと",
       "short": "薬屋",
-      "count": 32
+      "count": 31
     },
     {
       "id": "kagejitsu",
@@ -327,7 +327,7 @@
       "count": 3
     },
     {
-      "name": "ABEMA TIMES",
+      "name": "ニコニコニュース",
       "count": 3
     },
     {
@@ -339,7 +339,7 @@
       "count": 2
     },
     {
-      "name": "ニコニコニュース",
+      "name": "ABEMA TIMES",
       "count": 2
     },
     {
@@ -347,11 +347,15 @@
       "count": 2
     },
     {
-      "name": "Billboard JAPAN",
+      "name": "コラボカフェ",
       "count": 2
     },
     {
-      "name": "コラボカフェ",
+      "name": "WEBザテレビジョン",
+      "count": 2
+    },
+    {
+      "name": "Infoseek",
       "count": 2
     },
     {
@@ -375,11 +379,11 @@
       "count": 1
     },
     {
-      "name": "電撃オンライン",
+      "name": "Billboard JAPAN",
       "count": 1
     },
     {
-      "name": "WEBザテレビジョン",
+      "name": "電撃オンライン",
       "count": 1
     },
     {
@@ -407,10 +411,6 @@
       "count": 1
     },
     {
-      "name": "オリコンニュース",
-      "count": 1
-    },
-    {
       "name": "Newscast.jp",
       "count": 1
     },
@@ -428,10 +428,6 @@
     },
     {
       "name": "オタク総研",
-      "count": 1
-    },
-    {
-      "name": "Infoseek",
       "count": 1
     },
     {
@@ -460,8 +456,8 @@
       "image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20261106-01455207-the_tv-000-1-view.jpg?exp=10800",
       "leadSource": "Yahoo!ニュース",
       "publishedAt": "2026-11-06T10:55:48.000Z",
-      "sourceCount": 7,
-      "articleCount": 10,
+      "sourceCount": 6,
+      "articleCount": 9,
       "categories": [
         "anime",
         "other"
@@ -619,6 +615,42 @@
           "url": "https://newscast.jp/news/2160170",
           "source": "Newscast.jp",
           "publishedAt": "2026-11-05T07:00:00.000Z",
+          "isPR": false
+        }
+      ]
+    },
+    {
+      "id": "6615870364cf",
+      "title": "『薬屋のひとりごと』が5週連続1位、『リボ払い』が2位にランクアップ！10月26日週アニメ週間ランキング発表",
+      "summary": "ABEMAにて、10月26日週に視聴されたアニメの週間ランキングが発表された。 10月26日週のランキングでは、TVアニメ第3期が放送中の『薬屋のひとりごと』が、初週から5週連続で1位を獲得。また、前週3位だった『貸…",
+      "url": "https://animeanime.jp/article/2026/11/05/104508.html",
+      "image": "https://animeanime.jp/imgs/rss/951761.jpg",
+      "leadSource": "アニメ！アニメ！",
+      "publishedAt": "2026-11-05T10:15:03.000Z",
+      "sourceCount": 3,
+      "articleCount": 3,
+      "categories": [
+        "anime",
+        "web"
+      ],
+      "keywords": [
+        "ランキング",
+        "発表",
+        "無職転生"
+      ],
+      "articles": [
+        {
+          "title": "2026年、新作夏アニメのABEMA最終ランキングを発表「無職転生3」が再生数・コメント数の両部門で1位を獲得",
+          "url": "https://thetv.jp/news/detail/1453469/landing/",
+          "source": "WEBザテレビジョン",
+          "publishedAt": "2026-11-04T03:54:42.000Z",
+          "isPR": false
+        },
+        {
+          "title": "【ABEMA】2026年新作夏アニメの“最終ランキング”を発表…『無職転生』、『ヤニねこ』、『リゼロ』などランクイン",
+          "url": "https://times.abema.tv/visions/articles/-/10285283",
+          "source": "ABEMA TIMES",
+          "publishedAt": "2026-11-04T03:30:00.000Z",
           "isPR": false
         }
       ]
@@ -838,34 +870,6 @@
       ]
     },
     {
-      "id": "6615870364cf",
-      "title": "『薬屋のひとりごと』が5週連続1位、『リボ払い』が2位にランクアップ！10月26日週アニメ週間ランキング発表",
-      "summary": "ABEMAにて、10月26日週に視聴されたアニメの週間ランキングが発表された。 10月26日週のランキングでは、TVアニメ第3期が放送中の『薬屋のひとりごと』が、初週から5週連続で1位を獲得。また、前週3位だった『貸…",
-      "url": "https://animeanime.jp/article/2026/11/05/104508.html",
-      "image": "https://animeanime.jp/imgs/rss/951761.jpg",
-      "leadSource": "アニメ！アニメ！",
-      "publishedAt": "2026-11-05T10:15:03.000Z",
-      "sourceCount": 2,
-      "articleCount": 2,
-      "categories": [
-        "anime",
-        "web"
-      ],
-      "keywords": [
-        "ランキング",
-        "発表"
-      ],
-      "articles": [
-        {
-          "title": "【ABEMA】2026年新作夏アニメの“最終ランキング”を発表…『無職転生』、『ヤニねこ』、『リゼロ』などランクイン",
-          "url": "https://times.abema.tv/visions/articles/-/10285283",
-          "source": "ABEMA TIMES",
-          "publishedAt": "2026-11-04T03:30:00.000Z",
-          "isPR": false
-        }
-      ]
-    },
-    {
       "id": "64e911a8a18a",
       "title": "「伝説の悪役令嬢らしいので本編には出ないことにしました 執着も溺愛も婚約破棄も全部お断りします！」の試し読み",
       "summary": "",
@@ -895,12 +899,12 @@
     }
   ],
   "churn": {
-    "previousAt": "2026-11-06T11:00:17.700Z",
-    "previousCount": 91,
-    "newCount": 4
+    "previousAt": "2026-11-06T11:30:18.314Z",
+    "previousCount": 92,
+    "newCount": 1
   },
   "updateGapMin": 30,
-  "nextUpdateAt": "2026-11-06T12:00:18.314Z",
+  "nextUpdateAt": "2026-11-06T12:30:19.697Z",
   "items": [
     {
       "id": "0c19c619b9c6",
@@ -920,7 +924,7 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "048856b88e3c",
@@ -938,7 +942,7 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "e468e29e3267",
@@ -1096,7 +1100,7 @@
       "isPR": true,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "2ffe224f5b3b",
@@ -1354,6 +1358,25 @@
       "isNew": false
     },
     {
+      "id": "fca1ab33c4e7",
+      "title": "【ビルボード】采和輝／八月八／大橋キッカ『異世界の沙汰は社畜次第 8巻 (コミック版)』が“Hot Manga”1位を獲得",
+      "url": "https://news.nicovideo.jp/watch/nw19963222?news_ref",
+      "host": "news.nicovideo.jp",
+      "source": "ニコニコニュース",
+      "summary": "",
+      "publishedAt": "2026-11-06T04:24:18.000Z",
+      "image": "",
+      "categories": [
+        "comic",
+        "book"
+      ],
+      "works": [],
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": false
+    },
+    {
       "id": "d783a8d375c6",
       "title": "「劇場版 薬屋のひとりごと」猫猫＆壬氏がTOHO-ONEに興味津々なコラボ動画（動画あり）",
       "url": "https://natalie.mu/comic/news/696866",
@@ -1580,26 +1603,6 @@
       "isNew": false
     },
     {
-      "id": "1d034ea68c7b",
-      "title": "『転スラ』剣を交えるリムルとレオン！ルミナスも動く 第91話あらすじ＆場面カット解禁",
-      "url": "https://www.sanyonews.jp/article/1973862?kw",
-      "host": "sanyonews.jp",
-      "source": "山陽新聞",
-      "summary": "",
-      "publishedAt": "2026-11-05T21:01:16.000Z",
-      "image": "https://static.sanyonews.jp/image/article/size1/c/5/6/4/c564fde6e19fffbb9ffc1ef2aae7229b_1.jpg",
-      "categories": [
-        "anime"
-      ],
-      "works": [
-        "tensura"
-      ],
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": false
-    },
-    {
       "id": "86c279374abe",
       "title": "異世界・ファンタジーアニメ5チャンネル | 無料で放送中の番組や配信中の話題作が見放題",
       "url": "https://abema.tv/now-on-air/isekai-anime-5",
@@ -1620,12 +1623,12 @@
     {
       "id": "d32d963e3a26",
       "title": "『転生したら剣でしたII』シードラン編突入記念特番が11月8日にABEMAで決定！1〜5話一挙放送も",
-      "url": "https://times.abema.tv/articles/-/10286699",
-      "host": "times.abema.tv",
-      "source": "ABEMA TIMES",
+      "url": "https://news.infoseek.co.jp/article/abematimes_10286699/",
+      "host": "news.infoseek.co.jp",
+      "source": "Infoseek",
       "summary": "",
       "publishedAt": "2026-11-05T12:30:00.000Z",
-      "image": "https://times-abema.ismcdn.jp/mwimgs/5/d/1200w/img_5de1aa83a59b92cc3773f0a0d189f6691311649.jpg",
+      "image": "https://media.image.infoseek.co.jp/isnews/photos/abematimes/abematimes_10286699_0-enlarge.jpg",
       "categories": [
         "anime"
       ],
@@ -1693,25 +1696,6 @@
       "works": [
         "kusuriya"
       ],
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": false
-    },
-    {
-      "id": "fca1ab33c4e7",
-      "title": "【ビルボード】采和輝／八月八／大橋キッカ『異世界の沙汰は社畜次第 8巻 (コミック版)』が“Hot Manga”1位を獲得",
-      "url": "https://www.billboard-japan.com/d_news/detail/167178",
-      "host": "billboard-japan.com",
-      "source": "Billboard JAPAN",
-      "summary": "",
-      "publishedAt": "2026-11-05T10:10:00.000Z",
-      "image": "https://www.billboard-japan.com/scale/news/00000167/167178/200x_image.jpg",
-      "categories": [
-        "comic",
-        "book"
-      ],
-      "works": [],
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
@@ -1918,26 +1902,6 @@
       "isNew": false
     },
     {
-      "id": "8459bee04904",
-      "title": "『薬屋のひとりごと』変装した壬氏登場…第54話あらすじ&場面カット公開 旅路設定画も解禁",
-      "url": "https://www.oricon.co.jp/news/2490932/photo/7/?anc",
-      "host": "oricon.co.jp",
-      "source": "オリコンニュース",
-      "summary": "",
-      "publishedAt": "2026-11-05T09:00:00.000Z",
-      "image": "https://contents.oricon.co.jp/upimg/news/2491000/2490932/20261105_150413_p_o_71588138.jpg",
-      "categories": [
-        "anime"
-      ],
-      "works": [
-        "kusuriya"
-      ],
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": false
-    },
-    {
       "id": "2fd2be19daa6",
       "title": "アニメ『異世界でチート能力を手にした俺は、現実世界をも無双する 2nd Season』先行上映会が12月25日（金）開催決定",
       "url": "https://ln-news.com/articles/127131",
@@ -2091,6 +2055,26 @@
       "isNew": false
     },
     {
+      "id": "1d034ea68c7b",
+      "title": "『転スラ』剣を交えるリムルとレオン！ルミナスも動く 第91話あらすじ＆場面カット解禁",
+      "url": "https://www.sanyonews.jp/photo/detail?article_id",
+      "host": "sanyonews.jp",
+      "source": "山陽新聞",
+      "summary": "",
+      "publishedAt": "2026-11-05T01:43:48.000Z",
+      "image": "",
+      "categories": [
+        "anime"
+      ],
+      "works": [
+        "tensura"
+      ],
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": false
+    },
+    {
       "id": "51dce15bd0a4",
       "title": "新作秋アニメ『転生したら剣でしたII』新章突入記念！三木眞一郎＆加隈亜衣が出演する特別番組を11月8日（日）夜7時30分よりABEMAで独占無料放送決定！",
       "url": "https://prtimes.jp/main/html/rd/p/000004201.000064643.html",
@@ -2204,7 +2188,7 @@
       "isPR": true,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "b43695072908",
@@ -2500,6 +2484,27 @@
       "viaGoogle": false,
       "sourceKind": "news",
       "isNew": false
+    },
+    {
+      "id": "af7c881d3c65",
+      "title": "2026年、新作夏アニメのABEMA最終ランキングを発表「無職転生3」が再生数・コメント数の両部門で1位を獲得",
+      "url": "https://thetv.jp/news/detail/1453469/landing/",
+      "host": "thetv.jp",
+      "source": "WEBザテレビジョン",
+      "summary": "",
+      "publishedAt": "2026-11-04T03:54:42.000Z",
+      "image": "",
+      "categories": [
+        "anime",
+        "web"
+      ],
+      "works": [
+        "mushoku"
+      ],
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": true
     },
     {
       "id": "80195fa16d8e",
