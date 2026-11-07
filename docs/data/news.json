@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-07T05:00:15.589Z",
+  "updatedAt": "2026-11-07T05:30:18.532Z",
   "site": {
     "title": "なろう系まとめ",
     "tagline": "小説家になろう発の作品のアニメ化・コミカライズ・書籍化のニュースと、なろうのランキングをまとめています。",
@@ -7,7 +7,7 @@
     "contactUrl": "https://docs.google.com/forms/d/e/1FAIpQLSesWyhmZ6sRS_ve-c3X2KqF_wC5PK2TgwgQbTKmnQltSlg5Jw/viewform"
   },
   "total": 85,
-  "todayCount": 8,
+  "todayCount": 7,
   "categories": [
     {
       "id": "anime",
@@ -27,7 +27,7 @@
     {
       "id": "web",
       "label": "Web小説・賞",
-      "count": 3
+      "count": 4
     },
     {
       "id": "game",
@@ -74,7 +74,7 @@
       "id": "kusuriya",
       "title": "薬屋のひとりごと",
       "short": "薬屋",
-      "count": 31
+      "count": 30
     },
     {
       "id": "kagejitsu",
@@ -224,7 +224,7 @@
       "id": "tenken",
       "title": "転生したら剣でした",
       "short": "転剣",
-      "count": 7
+      "count": 8
     },
     {
       "id": "rupunana",
@@ -323,10 +323,6 @@
       "count": 3
     },
     {
-      "name": "ABEMA TIMES",
-      "count": 3
-    },
-    {
       "name": "アニメイトタイムズ",
       "count": 3
     },
@@ -337,6 +333,10 @@
     {
       "name": "PR TIMES",
       "count": 3
+    },
+    {
+      "name": "ABEMA TIMES",
+      "count": 2
     },
     {
       "name": "KADOKAWAオフィシャルサイト",
@@ -391,10 +391,6 @@
       "count": 1
     },
     {
-      "name": "山陽新聞",
-      "count": 1
-    },
-    {
       "name": "Mantan Web",
       "count": 1
     },
@@ -415,7 +411,15 @@
       "count": 1
     },
     {
+      "name": "山陽新聞",
+      "count": 1
+    },
+    {
       "name": "Gamerch",
+      "count": 1
+    },
+    {
+      "name": "オタク総研",
       "count": 1
     },
     {
@@ -436,8 +440,8 @@
       "image": "https://news-pctr.c.yimg.jp/uUzvQ3lML_bkIqyakc1vFhNrRI0RUQxg5aFkrX0xDg1_T0wXrbEJjtNGtrf1o9y32aKHaE9S6KKOAHNM7AL26kJFtLH53rQFC57-ep-tb6ftDAvoHCuKJ3fo-Zy7cjjqNVxR711cR7R-4ExMbJQ1GZzl7SDnv17qKMshJ7tuXqpj5eYdhVgQ-v9m8t0MFNjnUsKa-YYVdRuZVt7HqVoAYg==",
       "leadSource": "Yahoo!ニュース",
       "publishedAt": "2026-11-06T10:55:48.000Z",
-      "sourceCount": 7,
-      "articleCount": 10,
+      "sourceCount": 6,
+      "articleCount": 9,
       "categories": [
         "anime",
         "other"
@@ -856,12 +860,12 @@
     }
   ],
   "churn": {
-    "previousAt": "2026-11-07T04:30:18.173Z",
-    "previousCount": 86,
+    "previousAt": "2026-11-07T05:00:15.589Z",
+    "previousCount": 85,
     "newCount": 1
   },
   "updateGapMin": 30,
-  "nextUpdateAt": "2026-11-07T05:30:15.589Z",
+  "nextUpdateAt": "2026-11-07T06:00:18.532Z",
   "items": [
     {
       "id": "0f37b66f127f",
@@ -960,26 +964,6 @@
       "viaGoogle": false,
       "sourceKind": "news",
       "isNew": false
-    },
-    {
-      "id": "cab577727d39",
-      "title": "アニメ「薬屋のひとりごと」壬氏の正体や母親の謎、年齢・性別・声優を解説 | アニメニュース | アニメフリークス",
-      "url": "https://times.abema.tv/articles/-/10094886",
-      "host": "times.abema.tv",
-      "source": "ABEMA TIMES",
-      "summary": "",
-      "publishedAt": "2026-11-06T18:20:00.000Z",
-      "image": "https://times-abema.ismcdn.jp/mwimgs/7/8/1200w/img_7889ac137e45ab007d9abec6fa3633e368286.jpg",
-      "categories": [
-        "anime"
-      ],
-      "works": [
-        "kusuriya"
-      ],
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": true
     },
     {
       "id": "7431af147a97",
@@ -1770,26 +1754,6 @@
       "isNew": false
     },
     {
-      "id": "1d034ea68c7b",
-      "title": "『転スラ』剣を交えるリムルとレオン！ルミナスも動く 第91話あらすじ＆場面カット解禁",
-      "url": "https://www.sanyonews.jp/article/1973862?kw",
-      "host": "sanyonews.jp",
-      "source": "山陽新聞",
-      "summary": "",
-      "publishedAt": "2026-11-05T21:01:16.000Z",
-      "image": "https://static.sanyonews.jp/image/article/size1/c/5/6/4/c564fde6e19fffbb9ffc1ef2aae7229b_1.jpg",
-      "categories": [
-        "anime"
-      ],
-      "works": [
-        "tensura"
-      ],
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": false
-    },
-    {
       "id": "d32d963e3a26",
       "title": "『転生したら剣でしたII』シードラン編突入記念特番が11月8日にABEMAで決定！1〜5話一挙放送も",
       "url": "https://times.abema.tv/articles/-/10286699",
@@ -2202,6 +2166,26 @@
       "isNew": false
     },
     {
+      "id": "1d034ea68c7b",
+      "title": "『転スラ』剣を交えるリムルとレオン！ルミナスも動く 第91話あらすじ＆場面カット解禁",
+      "url": "https://www.sanyonews.jp/photo/detail?article_id",
+      "host": "sanyonews.jp",
+      "source": "山陽新聞",
+      "summary": "",
+      "publishedAt": "2026-11-05T01:43:48.000Z",
+      "image": "",
+      "categories": [
+        "anime"
+      ],
+      "works": [
+        "tensura"
+      ],
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": false
+    },
+    {
       "id": "51dce15bd0a4",
       "title": "新作秋アニメ『転生したら剣でしたII』新章突入記念！三木眞一郎＆加隈亜衣が出演する特別番組を11月8日（日）夜7時30分よりABEMAで独占無料放送決定！",
       "url": "https://prtimes.jp/main/html/rd/p/000004201.000064643.html",
@@ -2354,6 +2338,27 @@
       "viaGoogle": false,
       "sourceKind": "news",
       "isNew": false
+    },
+    {
+      "id": "b4b5c2920f8c",
+      "title": "『転生したら剣でした』続編、強敵・リッチに一矢報いる瞬間に視聴者興奮！第4話最多コメントランキング",
+      "url": "https://0115765.com/archives/210722",
+      "host": "0115765.com",
+      "source": "オタク総研",
+      "summary": "",
+      "publishedAt": "2026-11-04T13:40:08.000Z",
+      "image": "https://0115765.com/wp-content/uploads/2026/11/20261104-6uj8qr1h-1024x576.jpg",
+      "categories": [
+        "anime",
+        "web"
+      ],
+      "works": [
+        "tenken"
+      ],
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": true
     },
     {
       "id": "058537156f7e",
