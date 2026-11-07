@@ -1,18 +1,18 @@
 {
-  "updatedAt": "2026-11-07T20:29:53.549Z",
+  "updatedAt": "2026-11-07T21:00:17.101Z",
   "site": {
     "title": "なろう系まとめ",
     "tagline": "小説家になろう発の作品のアニメ化・コミカライズ・書籍化のニュースと、なろうのランキングをまとめています。",
     "url": "https://naroumatome.gamelab.website/",
     "contactUrl": "https://docs.google.com/forms/d/e/1FAIpQLSesWyhmZ6sRS_ve-c3X2KqF_wC5PK2TgwgQbTKmnQltSlg5Jw/viewform"
   },
-  "total": 81,
-  "todayCount": 5,
+  "total": 79,
+  "todayCount": 4,
   "categories": [
     {
       "id": "anime",
       "label": "アニメ",
-      "count": 45
+      "count": 43
     },
     {
       "id": "comic",
@@ -56,7 +56,7 @@
       "id": "mushoku",
       "title": "無職転生 ～異世界行ったら本気だす～",
       "short": "無職転生",
-      "count": 10
+      "count": 8
     },
     {
       "id": "rezero",
@@ -164,7 +164,7 @@
       "id": "katainaka",
       "title": "片田舎のおっさん、剣聖になる",
       "short": "片田舎のおっさん",
-      "count": 1
+      "count": 0
     },
     {
       "id": "nozomanu",
@@ -296,11 +296,11 @@
   "sources": [
     {
       "name": "Yahoo!ニュース",
-      "count": 12
+      "count": 11
     },
     {
       "name": "ラノベニュースオンライン",
-      "count": 8
+      "count": 7
     },
     {
       "name": "アニメ！アニメ！",
@@ -323,6 +323,10 @@
       "count": 3
     },
     {
+      "name": "オリコンニュース",
+      "count": 3
+    },
+    {
       "name": "アニメイトタイムズ",
       "count": 3
     },
@@ -340,10 +344,6 @@
     },
     {
       "name": "WEBザテレビジョン",
-      "count": 2
-    },
-    {
-      "name": "オリコンニュース",
       "count": 2
     },
     {
@@ -428,10 +428,6 @@
     },
     {
       "name": "Gamerch",
-      "count": 1
-    },
-    {
-      "name": "Unisba Media",
       "count": 1
     }
   ],
@@ -872,12 +868,12 @@
     }
   ],
   "churn": {
-    "previousAt": "2026-11-07T20:00:18.014Z",
+    "previousAt": "2026-11-07T20:29:53.549Z",
     "previousCount": 81,
     "newCount": 1
   },
   "updateGapMin": 30,
-  "nextUpdateAt": "2026-11-07T20:59:53.549Z",
+  "nextUpdateAt": "2026-11-07T21:30:17.101Z",
   "items": [
     {
       "id": "01371568aec8",
@@ -893,26 +889,6 @@
       ],
       "works": [
         "tensei-kizoku"
-      ],
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": true
-    },
-    {
-      "id": "c3d601fdf31f",
-      "title": "中島美嘉、アニメ『無職転生III』EDテーマ「祈り、終われば」のMV公開！作詞作曲を手掛けたシノダ（ヒトリエ）が恋人役として登場",
-      "url": "https://news.yahoo.co.jp/articles/9271cfd32bf41372617826aee3b6e33eb6172d5e/images/000",
-      "host": "news.yahoo.co.jp",
-      "source": "Yahoo!ニュース",
-      "summary": "",
-      "publishedAt": "2026-11-07T18:05:13.000Z",
-      "image": "https://news-pctr.c.yimg.jp/uUzvQ3lML_bkIqyakc1vFhNrRI0RUQxg5aFkrX0xDg1_T0wXrbEJjtNGtrf1o9y3j2Xc-_ypRo_MbDt6ekL9RKY6Xqu8hzaschAZo_ehBLQ412tlNuw1H5uyyhRKFc_oZs3vHGX7pDHMQDR6HpbMHhhJPufo6qNwWOkpa9TcRSUjGeM3eFogW3T8B1B9xUZU",
-      "categories": [
-        "anime"
-      ],
-      "works": [
-        "mushoku"
       ],
       "isPR": false,
       "viaGoogle": false,
@@ -1376,7 +1352,7 @@
       "source": "eeo",
       "summary": "",
       "publishedAt": "2026-11-06T09:53:09.000Z",
-      "image": "https://eeo.today/media/wp-content/uploads/2026/11/sub2-4.jpg",
+      "image": "",
       "categories": [
         "anime"
       ],
@@ -1582,6 +1558,24 @@
       "viaGoogle": false,
       "sourceKind": "news",
       "isNew": false
+    },
+    {
+      "id": "1ba4cae32ad6",
+      "title": "アニメ『信者ゼロの女神サマと始める異世界攻略』声優・キャスト一覧｜キャラクター・登場人物【2026年秋アニメ】",
+      "url": "https://www.oricon.co.jp/anime/1216/cast/",
+      "host": "oricon.co.jp",
+      "source": "オリコンニュース",
+      "summary": "",
+      "publishedAt": "2026-11-06T07:26:05.000Z",
+      "image": "https://contents.oricon.co.jp/anime/img/1000/1216/base/img1200/tv-program-image-f5105eea201e9449bbe7b6510a88b4d60ff90f007d4ace31c5008fdfb8ca8715.jpg",
+      "categories": [
+        "anime"
+      ],
+      "works": [],
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": true
     },
     {
       "id": "fd44944a1807",
@@ -2374,26 +2368,6 @@
       "isNew": false
     },
     {
-      "id": "623488b56120",
-      "title": "TVアニメ「片田舎のおっさん、剣聖になる」3Dアニメーション制作インタビュー第1回 Pwhl Scores (1qzGV3Y0Xs)",
-      "url": "https://media.unisba.ac.id/2cd6dada/3c12344bxMwermCmVps",
-      "host": "media.unisba.ac.id",
-      "source": "Unisba Media",
-      "summary": "",
-      "publishedAt": "2026-11-04T20:58:12.000Z",
-      "image": "",
-      "categories": [
-        "anime"
-      ],
-      "works": [
-        "katainaka"
-      ],
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": false
-    },
-    {
       "id": "127ce20875ad",
       "title": "アニメ『転生したら剣でしたII』第5話「別れの時は笑顔でした」のあらすじ＆先行カット解禁",
       "url": "https://ln-news.com/articles/127115",
@@ -2446,26 +2420,6 @@
         "anime"
       ],
       "works": [],
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": false
-    },
-    {
-      "id": "e97861af34d9",
-      "title": "『無職転生 ～蛇足編～』完結を記念したオンリーショップがアニメイトにて開催決定",
-      "url": "https://ln-news.com/articles/127116",
-      "host": "ln-news.com",
-      "source": "ラノベニュースオンライン",
-      "summary": "",
-      "publishedAt": "2026-11-04T04:00:00.000Z",
-      "image": "https://assets.ln-news.com/images/medias/3ac511b2f71e449e9f319b467920c8e5.jpg",
-      "categories": [
-        "anime"
-      ],
-      "works": [
-        "mushoku"
-      ],
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
