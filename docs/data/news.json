@@ -1,18 +1,18 @@
 {
-  "updatedAt": "2026-11-07T01:30:16.356Z",
+  "updatedAt": "2026-11-07T02:00:17.815Z",
   "site": {
     "title": "なろう系まとめ",
     "tagline": "小説家になろう発の作品のアニメ化・コミカライズ・書籍化のニュースと、なろうのランキングをまとめています。",
     "url": "https://naroumatome.gamelab.website/",
     "contactUrl": "https://docs.google.com/forms/d/e/1FAIpQLSesWyhmZ6sRS_ve-c3X2KqF_wC5PK2TgwgQbTKmnQltSlg5Jw/viewform"
   },
-  "total": 87,
+  "total": 85,
   "todayCount": 8,
   "categories": [
     {
       "id": "anime",
       "label": "アニメ",
-      "count": 52
+      "count": 51
     },
     {
       "id": "comic",
@@ -42,7 +42,7 @@
     {
       "id": "other",
       "label": "そのほか",
-      "count": 17
+      "count": 16
     }
   ],
   "works": [
@@ -74,7 +74,7 @@
       "id": "kusuriya",
       "title": "薬屋のひとりごと",
       "short": "薬屋",
-      "count": 33
+      "count": 32
     },
     {
       "id": "kagejitsu",
@@ -224,7 +224,7 @@
       "id": "tenken",
       "title": "転生したら剣でした",
       "short": "転剣",
-      "count": 7
+      "count": 6
     },
     {
       "id": "rupunana",
@@ -304,14 +304,18 @@
     },
     {
       "name": "ナタリー",
-      "count": 7
-    },
-    {
-      "name": "アニメ！アニメ！",
       "count": 6
     },
     {
       "name": "PR TIMES",
+      "count": 5
+    },
+    {
+      "name": "アニメ！アニメ！",
+      "count": 5
+    },
+    {
+      "name": "ニコニコニュース",
       "count": 4
     },
     {
@@ -323,14 +327,6 @@
       "count": 3
     },
     {
-      "name": "ニコニコニュース",
-      "count": 3
-    },
-    {
-      "name": "ABEMA TIMES",
-      "count": 3
-    },
-    {
       "name": "アニメイトタイムズ",
       "count": 3
     },
@@ -339,7 +335,7 @@
       "count": 3
     },
     {
-      "name": "ABEMA",
+      "name": "ABEMA TIMES",
       "count": 2
     },
     {
@@ -379,6 +375,10 @@
       "count": 1
     },
     {
+      "name": "ABEMA",
+      "count": 1
+    },
+    {
       "name": "にじめん",
       "count": 1
     },
@@ -399,6 +399,10 @@
       "count": 1
     },
     {
+      "name": "山陽新聞",
+      "count": 1
+    },
+    {
       "name": "Mantan Web",
       "count": 1
     },
@@ -412,10 +416,6 @@
     },
     {
       "name": "ライブドアニュース",
-      "count": 1
-    },
-    {
-      "name": "山陽新聞",
       "count": 1
     },
     {
@@ -595,14 +595,14 @@
       "leadSource": "WEBザテレビジョン",
       "publishedAt": "2026-11-06T14:09:06.000Z",
       "sourceCount": 2,
-      "articleCount": 4,
+      "articleCount": 3,
       "categories": [
         "anime"
       ],
       "keywords": [
-        "ビジュアル",
-        "動画",
-        "アラフォー"
+        "アラフォー",
+        "賢者",
+        "異世界生活日記"
       ],
       "articles": [
         {
@@ -610,13 +610,6 @@
           "url": "https://natalie.mu/comic/gallery/news/696392/3007304",
           "source": "ナタリー",
           "publishedAt": "2026-11-06T12:34:21.000Z",
-          "isPR": false
-        },
-        {
-          "title": "「劇場版 薬屋のひとりごと 亡妃の秘宝」ビジュアル [画像・動画ギャラリー 2/3]",
-          "url": "https://natalie.mu/comic/gallery/news/696866/3009969",
-          "source": "ナタリー",
-          "publishedAt": "2026-11-06T12:24:33.000Z",
           "isPR": false
         },
         {
@@ -865,12 +858,12 @@
     }
   ],
   "churn": {
-    "previousAt": "2026-11-07T01:00:18.183Z",
-    "previousCount": 92,
-    "newCount": 0
+    "previousAt": "2026-11-07T01:30:16.356Z",
+    "previousCount": 87,
+    "newCount": 2
   },
   "updateGapMin": 30,
-  "nextUpdateAt": "2026-11-07T02:00:16.356Z",
+  "nextUpdateAt": "2026-11-07T02:30:17.815Z",
   "items": [
     {
       "id": "db2859ad6e6d",
@@ -1080,26 +1073,6 @@
         "anime"
       ],
       "works": [],
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": false
-    },
-    {
-      "id": "cd6e60563c05",
-      "title": "「劇場版 薬屋のひとりごと 亡妃の秘宝」ビジュアル [画像・動画ギャラリー 2/3]",
-      "url": "https://natalie.mu/comic/gallery/news/696866/3009969",
-      "host": "natalie.mu",
-      "source": "ナタリー",
-      "summary": "",
-      "publishedAt": "2026-11-06T12:24:33.000Z",
-      "image": "",
-      "categories": [
-        "anime"
-      ],
-      "works": [
-        "kusuriya"
-      ],
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
@@ -1325,7 +1298,7 @@
     {
       "id": "2ffe224f5b3b",
       "title": "【異世界コミック読み放題】Kindle+で『無敵商人の異世界成り上がり物語』など話題作を満喫しよう",
-      "url": "https://news.nicovideo.jp/watch/nw19964286",
+      "url": "https://news.nicovideo.jp/watch/nw19964286?news_ref",
       "host": "news.nicovideo.jp",
       "source": "ニコニコニュース",
       "summary": "",
@@ -1765,19 +1738,19 @@
       "isNew": false
     },
     {
-      "id": "d32d963e3a26",
-      "title": "『転生したら剣でしたII』シードラン編突入記念特番が11月8日にABEMAで決定！1〜5話一挙放送も",
-      "url": "https://times.abema.tv/articles/-/10286699",
-      "host": "times.abema.tv",
-      "source": "ABEMA TIMES",
+      "id": "1d034ea68c7b",
+      "title": "『転スラ』剣を交えるリムルとレオン！ルミナスも動く 第91話あらすじ＆場面カット解禁",
+      "url": "https://www.sanyonews.jp/article/1973862?kw",
+      "host": "sanyonews.jp",
+      "source": "山陽新聞",
       "summary": "",
-      "publishedAt": "2026-11-05T12:30:00.000Z",
-      "image": "https://times-abema.ismcdn.jp/mwimgs/5/d/1200w/img_5de1aa83a59b92cc3773f0a0d189f6691311649.jpg",
+      "publishedAt": "2026-11-05T21:01:16.000Z",
+      "image": "https://static.sanyonews.jp/image/article/size1/c/5/6/4/c564fde6e19fffbb9ffc1ef2aae7229b_1.jpg",
       "categories": [
         "anime"
       ],
       "works": [
-        "tenken"
+        "tensura"
       ],
       "isPR": false,
       "viaGoogle": false,
@@ -1799,24 +1772,6 @@
       "works": [
         "kusuriya"
       ],
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": false
-    },
-    {
-      "id": "cc69c222de77",
-      "title": "逆異世界転生エージェント エーコさん #1〜12【無料ビデオ1週間】",
-      "url": "https://abema.tv/channels/anime-live2/slots/8nQS7n4QZ5eMyy",
-      "host": "abema.tv",
-      "source": "ABEMA",
-      "summary": "",
-      "publishedAt": "2026-11-05T11:43:05.000Z",
-      "image": "",
-      "categories": [
-        "other"
-      ],
-      "works": [],
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
@@ -2195,26 +2150,6 @@
       "isNew": false
     },
     {
-      "id": "1d034ea68c7b",
-      "title": "『転スラ』剣を交えるリムルとレオン！ルミナスも動く 第91話あらすじ＆場面カット解禁",
-      "url": "https://www.sanyonews.jp/photo/detail?article_id",
-      "host": "sanyonews.jp",
-      "source": "山陽新聞",
-      "summary": "",
-      "publishedAt": "2026-11-05T01:43:48.000Z",
-      "image": "",
-      "categories": [
-        "anime"
-      ],
-      "works": [
-        "tensura"
-      ],
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": false
-    },
-    {
       "id": "51dce15bd0a4",
       "title": "新作秋アニメ『転生したら剣でしたII』新章突入記念！三木眞一郎＆加隈亜衣が出演する特別番組を11月8日（日）夜7時30分よりABEMAで独占無料放送決定！",
       "url": "https://prtimes.jp/main/html/rd/p/000004201.000064643.html",
@@ -2233,6 +2168,24 @@
       "viaGoogle": false,
       "sourceKind": "news",
       "isNew": false
+    },
+    {
+      "id": "bb8260dbb2cc",
+      "title": "柴田理恵、話題の秋アニメ『チー付与』出演の裏側を告白「チートって何だか分からなくて…」異世界ファンタジーの世界観に大困",
+      "url": "https://news.nicovideo.jp/watch/nw19957009?news_ref",
+      "host": "news.nicovideo.jp",
+      "source": "ニコニコニュース",
+      "summary": "",
+      "publishedAt": "2026-11-04T21:48:19.000Z",
+      "image": "",
+      "categories": [
+        "anime"
+      ],
+      "works": [],
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": true
     },
     {
       "id": "e2983d083993",
@@ -2289,24 +2242,6 @@
       "works": [
         "tenken"
       ],
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": false
-    },
-    {
-      "id": "8f39ae3fa8ab",
-      "title": "なんと早くも5刷重版出来！『ATMおじさん 異世界でモテ期が止まらない！1』モテ期も重版も止まらない！『ドローイング』原作者の林達永が贈る、異世界お色気＆バトルファンタジー",
-      "url": "https://animeanime.jp/release/prtimes/20261105/324712.html",
-      "host": "animeanime.jp",
-      "source": "アニメ！アニメ！",
-      "summary": "",
-      "publishedAt": "2026-11-04T15:10:00.000Z",
-      "image": "https://animeanime.jp/release/imgs/list/570371.jpg",
-      "categories": [
-        "book"
-      ],
-      "works": [],
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
@@ -2588,6 +2523,24 @@
       "viaGoogle": false,
       "sourceKind": "news",
       "isNew": false
+    },
+    {
+      "id": "c21f71a45946",
+      "title": "妻候補増加！お色気度も～っと増加!?『ドローイング』原作者の林達永が贈る、異世界お色気＆バトルファンタジー『ATMおじさん 異世界でモテ期が止まらない！』待望の第3巻発売！",
+      "url": "https://prtimes.jp/main/html/rd/p/000001047.000049835.html",
+      "host": "prtimes.jp",
+      "source": "PR TIMES",
+      "summary": "",
+      "publishedAt": "2026-11-04T03:10:01.000Z",
+      "image": "https://prcdn.freetls.fastly.net/release_image/49835/1047/49835-1047-526b36d5a7b0175fc37b318bc54feb22-976x495.jpg?format=jpeg&auto=webp&fit=bounds&width=2400&height=1260",
+      "categories": [
+        "book"
+      ],
+      "works": [],
+      "isPR": true,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": true
     }
   ]
 }
