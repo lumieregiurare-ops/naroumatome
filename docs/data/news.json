@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-07T16:00:18.742Z",
+  "updatedAt": "2026-11-07T16:30:18.204Z",
   "site": {
     "title": "なろう系まとめ",
     "tagline": "小説家になろう発の作品のアニメ化・コミカライズ・書籍化のニュースと、なろうのランキングをまとめています。",
@@ -37,7 +37,7 @@
     {
       "id": "goods",
       "label": "グッズ・イベント",
-      "count": 9
+      "count": 10
     },
     {
       "id": "other",
@@ -307,12 +307,12 @@
       "count": 6
     },
     {
-      "name": "WEBザテレビジョン",
+      "name": "アニメ！アニメ！",
       "count": 5
     },
     {
-      "name": "アニメ！アニメ！",
-      "count": 5
+      "name": "WEBザテレビジョン",
+      "count": 4
     },
     {
       "name": "PR TIMES",
@@ -383,6 +383,10 @@
       "count": 1
     },
     {
+      "name": "にじめん",
+      "count": 1
+    },
+    {
       "name": "Infoseek",
       "count": 1
     },
@@ -437,7 +441,7 @@
       "leadSource": "WEBザテレビジョン",
       "publishedAt": "2026-11-07T15:17:55.000Z",
       "sourceCount": 6,
-      "articleCount": 9,
+      "articleCount": 8,
       "categories": [
         "anime",
         "goods"
@@ -453,13 +457,6 @@
           "url": "https://thetv.jp/program/0001067396/7/",
           "source": "WEBザテレビジョン",
           "publishedAt": "2026-11-06T21:50:11.000Z",
-          "isPR": false
-        },
-        {
-          "title": "＜薬屋のひとりごと＞悠木碧“猫猫”と大塚剛央“壬氏”の特別CM第2弾が11月6日に放送 第1弾には「ヨルシカの正しい発音…」と反響",
-          "url": "https://thetv.jp/news/detail/1455207/p2/",
-          "source": "WEBザテレビジョン",
-          "publishedAt": "2026-11-06T18:57:18.000Z",
           "isPR": false
         },
         {
@@ -862,12 +859,12 @@
     }
   ],
   "churn": {
-    "previousAt": "2026-11-07T15:30:16.651Z",
+    "previousAt": "2026-11-07T16:00:18.742Z",
     "previousCount": 78,
-    "newCount": 0
+    "newCount": 1
   },
   "updateGapMin": 30,
-  "nextUpdateAt": "2026-11-07T16:30:18.742Z",
+  "nextUpdateAt": "2026-11-07T17:00:18.204Z",
   "items": [
     {
       "id": "d5c915118f76",
@@ -1124,26 +1121,6 @@
       "isNew": false
     },
     {
-      "id": "244dc8721032",
-      "title": "＜薬屋のひとりごと＞悠木碧“猫猫”と大塚剛央“壬氏”の特別CM第2弾が11月6日に放送 第1弾には「ヨルシカの正しい発音…」と反響",
-      "url": "https://thetv.jp/news/detail/1455207/p2/",
-      "host": "thetv.jp",
-      "source": "WEBザテレビジョン",
-      "summary": "",
-      "publishedAt": "2026-11-06T18:57:18.000Z",
-      "image": "https://thetv.jp/i/nw/1455207/19085546.jpg?w=1284",
-      "categories": [
-        "anime"
-      ],
-      "works": [
-        "kusuriya"
-      ],
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": false
-    },
-    {
       "id": "cf3901814ed4",
       "title": "アニメ「薬屋のひとりごと」左膳の声優は？初登場や裏話を描く「左膳の秘密」を紹介 | アニメニュース | アニメフリークス",
       "url": "https://times.abema.tv/articles/-/10279350",
@@ -1335,6 +1312,27 @@
       "viaGoogle": false,
       "sourceKind": "news",
       "isNew": false
+    },
+    {
+      "id": "e468e29e3267",
+      "title": "『薬屋のひとりごと』POP UP SHOPグッズが2027年1月に一般発売！シャボン玉を楽しむ猫猫・壬氏のオーロラアクスタなど全11アイテム",
+      "url": "https://nijimen.kusuguru.co.jp/topics/650393",
+      "host": "nijimen.kusuguru.co.jp",
+      "source": "にじめん",
+      "summary": "",
+      "publishedAt": "2026-11-06T09:52:00.000Z",
+      "image": "https://nijimen.kusuguru.co.jp/wp-content/uploads/2026/11/50bbd5e375d24cc898456ebf8c4ee744.jpg",
+      "categories": [
+        "anime",
+        "goods"
+      ],
+      "works": [
+        "kusuriya"
+      ],
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": true
     },
     {
       "id": "5a97acf345e4",
