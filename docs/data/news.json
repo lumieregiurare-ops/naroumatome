@@ -1,13 +1,13 @@
 {
-  "updatedAt": "2026-11-07T23:00:17.946Z",
+  "updatedAt": "2026-11-07T23:30:18.890Z",
   "site": {
     "title": "なろう系まとめ",
     "tagline": "小説家になろう発の作品のアニメ化・コミカライズ・書籍化のニュースと、なろうのランキングをまとめています。",
     "url": "https://naroumatome.gamelab.website/",
     "contactUrl": "https://docs.google.com/forms/d/e/1FAIpQLSesWyhmZ6sRS_ve-c3X2KqF_wC5PK2TgwgQbTKmnQltSlg5Jw/viewform"
   },
-  "total": 77,
-  "todayCount": 4,
+  "total": 78,
+  "todayCount": 5,
   "categories": [
     {
       "id": "anime",
@@ -22,7 +22,7 @@
     {
       "id": "book",
       "label": "書籍・ラノベ",
-      "count": 5
+      "count": 6
     },
     {
       "id": "web",
@@ -164,7 +164,7 @@
       "id": "katainaka",
       "title": "片田舎のおっさん、剣聖になる",
       "short": "片田舎のおっさん",
-      "count": 0
+      "count": 1
     },
     {
       "id": "nozomanu",
@@ -296,7 +296,7 @@
   "sources": [
     {
       "name": "Yahoo!ニュース",
-      "count": 11
+      "count": 12
     },
     {
       "name": "ラノベニュースオンライン",
@@ -327,6 +327,10 @@
       "count": 3
     },
     {
+      "name": "ニコニコニュース",
+      "count": 3
+    },
+    {
       "name": "アニメイトタイムズ",
       "count": 3
     },
@@ -348,10 +352,6 @@
     },
     {
       "name": "KADOKAWAオフィシャルサイト",
-      "count": 2
-    },
-    {
-      "name": "ニコニコニュース",
       "count": 2
     },
     {
@@ -388,10 +388,6 @@
     },
     {
       "name": "にじめん",
-      "count": 1
-    },
-    {
-      "name": "Infoseek",
       "count": 1
     },
     {
@@ -873,13 +869,33 @@
     }
   ],
   "churn": {
-    "previousAt": "2026-11-07T22:30:19.618Z",
-    "previousCount": 80,
+    "previousAt": "2026-11-07T23:00:17.946Z",
+    "previousCount": 77,
     "newCount": 1
   },
   "updateGapMin": 30,
-  "nextUpdateAt": "2026-11-07T23:30:17.946Z",
+  "nextUpdateAt": "2026-11-08T00:00:18.890Z",
   "items": [
+    {
+      "id": "4dc9b4cbbbc7",
+      "title": "TVアニメ「片田舎のおっさん、剣聖になる II」、7月8日より放送開始決定！ (GAME Watch)",
+      "url": "https://news.yahoo.co.jp/articles/c662f333a323d3055ec16ff30343f838168097c8/images/000",
+      "host": "news.yahoo.co.jp",
+      "source": "Yahoo!ニュース",
+      "summary": "",
+      "publishedAt": "2026-11-07T23:16:23.000Z",
+      "image": "https://news-pctr.c.yimg.jp/uUzvQ3lML_bkIqyakc1vFhNrRI0RUQxg5aFkrX0xDg1_T0wXrbEJjtNGtrf1o9y3MqkJ5UaD7WaLMXgqHAO4-3lwcPFbyKFOIrqbL8UQBofMUa0HP8eqqg2-NBIipVvHKWjROqFTM78GSqSY_IgLBfrf1mYZI24VVrytRaAFgNkCnlKX3UL9ucJhntyY5aCD",
+      "categories": [
+        "anime"
+      ],
+      "works": [
+        "katainaka"
+      ],
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": true
+    },
     {
       "id": "01e4edf73b90",
       "title": "アニメ『信者ゼロの女神サマと始める異世界攻略』の視聴方法！動画配信サービス、あらすじを解説",
@@ -896,7 +912,7 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "180739db449d",
@@ -1129,6 +1145,25 @@
       "works": [
         "tenken"
       ],
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": false
+    },
+    {
+      "id": "5207f94c2ed3",
+      "title": "人間と魔物の共生を目指す異世界お仕事ファンタジー！WEBマンガ『魔物学者ニニアの日誌』単行本第1巻が本日「ピッコマ」に",
+      "url": "https://news.nicovideo.jp/watch/nw19966377",
+      "host": "news.nicovideo.jp",
+      "source": "ニコニコニュース",
+      "summary": "",
+      "publishedAt": "2026-11-06T20:30:26.000Z",
+      "image": "",
+      "categories": [
+        "comic",
+        "book"
+      ],
+      "works": [],
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
@@ -1385,25 +1420,6 @@
       "works": [
         "mushoku"
       ],
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": false
-    },
-    {
-      "id": "5207f94c2ed3",
-      "title": "人間と魔物の共生を目指す異世界お仕事ファンタジー！WEBマンガ『魔物学者ニニアの日誌』単行本第1巻が本日「ピッコマ」にて配信開始。単行本版限定描き下ろしも必見！",
-      "url": "https://news.infoseek.co.jp/article/prtimes_000000837_000051825/",
-      "host": "news.infoseek.co.jp",
-      "source": "Infoseek",
-      "summary": "",
-      "publishedAt": "2026-11-06T09:00:00.000Z",
-      "image": "https://media.image.infoseek.co.jp/isnews/pc/img/noimage_203x120_busi-econ-1.0.png",
-      "categories": [
-        "anime",
-        "comic"
-      ],
-      "works": [],
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
