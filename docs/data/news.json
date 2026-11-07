@@ -1,18 +1,18 @@
 {
-  "updatedAt": "2026-11-07T05:30:18.532Z",
+  "updatedAt": "2026-11-07T06:00:18.554Z",
   "site": {
     "title": "なろう系まとめ",
     "tagline": "小説家になろう発の作品のアニメ化・コミカライズ・書籍化のニュースと、なろうのランキングをまとめています。",
     "url": "https://naroumatome.gamelab.website/",
     "contactUrl": "https://docs.google.com/forms/d/e/1FAIpQLSesWyhmZ6sRS_ve-c3X2KqF_wC5PK2TgwgQbTKmnQltSlg5Jw/viewform"
   },
-  "total": 85,
+  "total": 84,
   "todayCount": 7,
   "categories": [
     {
       "id": "anime",
       "label": "アニメ",
-      "count": 51
+      "count": 50
     },
     {
       "id": "comic",
@@ -74,7 +74,7 @@
       "id": "kusuriya",
       "title": "薬屋のひとりごと",
       "short": "薬屋",
-      "count": 30
+      "count": 31
     },
     {
       "id": "kagejitsu",
@@ -312,7 +312,7 @@
     },
     {
       "name": "ニコニコニュース",
-      "count": 5
+      "count": 4
     },
     {
       "name": "AppMedia",
@@ -320,6 +320,10 @@
     },
     {
       "name": "WEBザテレビジョン",
+      "count": 3
+    },
+    {
+      "name": "ABEMA TIMES",
       "count": 3
     },
     {
@@ -333,10 +337,6 @@
     {
       "name": "PR TIMES",
       "count": 3
-    },
-    {
-      "name": "ABEMA TIMES",
-      "count": 2
     },
     {
       "name": "KADOKAWAオフィシャルサイト",
@@ -360,10 +360,6 @@
     },
     {
       "name": "読売新聞",
-      "count": 1
-    },
-    {
-      "name": "ABEMA",
       "count": 1
     },
     {
@@ -860,12 +856,12 @@
     }
   ],
   "churn": {
-    "previousAt": "2026-11-07T05:00:15.589Z",
+    "previousAt": "2026-11-07T05:30:18.532Z",
     "previousCount": 85,
     "newCount": 1
   },
   "updateGapMin": 30,
-  "nextUpdateAt": "2026-11-07T06:00:18.532Z",
+  "nextUpdateAt": "2026-11-07T06:30:18.554Z",
   "items": [
     {
       "id": "0f37b66f127f",
@@ -966,6 +962,26 @@
       "isNew": false
     },
     {
+      "id": "cab577727d39",
+      "title": "アニメ「薬屋のひとりごと」壬氏の正体や母親の謎、年齢・性別・声優を解説 | アニメニュース | アニメフリークス",
+      "url": "https://times.abema.tv/articles/-/10094886",
+      "host": "times.abema.tv",
+      "source": "ABEMA TIMES",
+      "summary": "",
+      "publishedAt": "2026-11-06T18:20:00.000Z",
+      "image": "https://times-abema.ismcdn.jp/mwimgs/7/8/1200w/img_7889ac137e45ab007d9abec6fa3633e368286.jpg",
+      "categories": [
+        "anime"
+      ],
+      "works": [
+        "kusuriya"
+      ],
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": true
+    },
+    {
       "id": "7431af147a97",
       "title": "【新作発売記念】平鳥コウ『〈完全版〉ＪＫハルは異世界で娼婦になった autumn』（新潮文庫nex）購入者特典配布中！",
       "url": "https://news.nicovideo.jp/watch/nw19966069?news_ref",
@@ -976,24 +992,6 @@
       "image": "",
       "categories": [
         "book"
-      ],
-      "works": [],
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": false
-    },
-    {
-      "id": "86c279374abe",
-      "title": "異世界・ファンタジーアニメ5チャンネル | 無料で放送中の番組や配信中の話題作が見放題",
-      "url": "https://abema.tv/now-on-air/isekai-anime-5",
-      "host": "abema.tv",
-      "source": "ABEMA",
-      "summary": "",
-      "publishedAt": "2026-11-06T15:00:00.000Z",
-      "image": "",
-      "categories": [
-        "anime"
       ],
       "works": [],
       "isPR": false,
@@ -2206,24 +2204,6 @@
       "isNew": false
     },
     {
-      "id": "bb8260dbb2cc",
-      "title": "柴田理恵、話題の秋アニメ『チー付与』出演の裏側を告白「チートって何だか分からなくて…」異世界ファンタジーの世界観に大困",
-      "url": "https://news.nicovideo.jp/watch/nw19957009?news_ref",
-      "host": "news.nicovideo.jp",
-      "source": "ニコニコニュース",
-      "summary": "",
-      "publishedAt": "2026-11-04T21:48:19.000Z",
-      "image": "",
-      "categories": [
-        "anime"
-      ],
-      "works": [],
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": false
-    },
-    {
       "id": "e2983d083993",
       "title": "「無職転生〜異世界行ったら本気だす〜クロニクル・オブ・エコーズ」のアプリ紹介とポイ活・攻略Wikiの情報（iOS/Android）",
       "url": "https://gamerch.com/app_detail/10863",
@@ -2358,7 +2338,7 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "058537156f7e",
