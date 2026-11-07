@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-07T15:30:16.651Z",
+  "updatedAt": "2026-11-07T16:00:18.742Z",
   "site": {
     "title": "なろう系まとめ",
     "tagline": "小説家になろう発の作品のアニメ化・コミカライズ・書籍化のニュースと、なろうのランキングをまとめています。",
@@ -327,10 +327,6 @@
       "count": 3
     },
     {
-      "name": "AppMedia",
-      "count": 2
-    },
-    {
       "name": "ABEMA",
       "count": 2
     },
@@ -348,6 +344,10 @@
     },
     {
       "name": "ニコニコニュース",
+      "count": 2
+    },
+    {
+      "name": "AppMedia",
       "count": 2
     },
     {
@@ -862,12 +862,12 @@
     }
   ],
   "churn": {
-    "previousAt": "2026-11-07T15:00:17.640Z",
-    "previousCount": 82,
-    "newCount": 1
+    "previousAt": "2026-11-07T15:30:16.651Z",
+    "previousCount": 78,
+    "newCount": 0
   },
   "updateGapMin": 30,
-  "nextUpdateAt": "2026-11-07T16:00:16.651Z",
+  "nextUpdateAt": "2026-11-07T16:30:18.742Z",
   "items": [
     {
       "id": "d5c915118f76",
@@ -884,26 +884,6 @@
       ],
       "works": [
         "kusuriya"
-      ],
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": false
-    },
-    {
-      "id": "0f37b66f127f",
-      "title": "【まおりゅう】最強戦闘キャラランキング｜最新Tier表【転スラ】",
-      "url": "https://appmedia.jp/ten-sura-m/27054868",
-      "host": "appmedia.jp",
-      "source": "AppMedia",
-      "summary": "",
-      "publishedAt": "2026-11-07T09:38:15.000Z",
-      "image": "https://appmedia.jp/wp-content/uploads/2023/03/125202_3l6dn.webp",
-      "categories": [
-        "web"
-      ],
-      "works": [
-        "tensura"
       ],
       "isPR": false,
       "viaGoogle": false,
@@ -1534,6 +1514,26 @@
       "isNew": false
     },
     {
+      "id": "0f37b66f127f",
+      "title": "【まおりゅう】最強戦闘キャラランキング｜最新Tier表【転スラ】",
+      "url": "https://appmedia.jp/ten-sura-m/27054868",
+      "host": "appmedia.jp",
+      "source": "AppMedia",
+      "summary": "",
+      "publishedAt": "2026-11-06T08:00:00.000Z",
+      "image": "https://appmedia.jp/wp-content/uploads/2023/03/125202_3l6dn.webp",
+      "categories": [
+        "web"
+      ],
+      "works": [
+        "tensura"
+      ],
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": false
+    },
+    {
       "id": "fd44944a1807",
       "title": "天原原作の異世界ファンタジーコメディ『33歳独身女騎士隊長。』連載10周年を記念してアニメ化決定。記念MV、キャラデザ、天原先生からのコメントを公開",
       "url": "https://dengekionline.com/article/202611/93268",
@@ -1628,7 +1628,7 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "d783a8d375c6",
