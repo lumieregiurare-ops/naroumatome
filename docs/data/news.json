@@ -1,23 +1,23 @@
 {
-  "updatedAt": "2026-11-07T22:00:18.015Z",
+  "updatedAt": "2026-11-07T22:30:19.618Z",
   "site": {
     "title": "なろう系まとめ",
     "tagline": "小説家になろう発の作品のアニメ化・コミカライズ・書籍化のニュースと、なろうのランキングをまとめています。",
     "url": "https://naroumatome.gamelab.website/",
     "contactUrl": "https://docs.google.com/forms/d/e/1FAIpQLSesWyhmZ6sRS_ve-c3X2KqF_wC5PK2TgwgQbTKmnQltSlg5Jw/viewform"
   },
-  "total": 79,
+  "total": 80,
   "todayCount": 4,
   "categories": [
     {
       "id": "anime",
       "label": "アニメ",
-      "count": 44
+      "count": 45
     },
     {
       "id": "comic",
       "label": "コミカライズ",
-      "count": 8
+      "count": 9
     },
     {
       "id": "book",
@@ -311,11 +311,11 @@
       "count": 5
     },
     {
-      "name": "ABEMA",
-      "count": 4
+      "name": "PR TIMES",
+      "count": 5
     },
     {
-      "name": "PR TIMES",
+      "name": "ABEMA",
       "count": 4
     },
     {
@@ -391,7 +391,7 @@
       "count": 1
     },
     {
-      "name": "Infoseek",
+      "name": "毎日新聞",
       "count": 1
     },
     {
@@ -844,43 +844,63 @@
       ]
     },
     {
-      "id": "3b5b687e7667",
-      "title": "『無職転生 ～蛇足編～』完結記念オンリーショップ11/28〜開催",
+      "id": "c6eb292a7a1b",
+      "title": "プレスリリース：人間と魔物の共生を目指す異世界お仕事ファンタジー！WEBマンガ『魔物学者ニニアの日誌』単行本第1巻が本日「ピッコマ」にて配信開始。単行本版限定描き下ろしも必見！（PR TIMES）",
       "summary": "",
-      "url": "https://www.animatetimes.com/news/details.php?id",
-      "image": "https://www.animatetimes.com/img/ogimage.png",
-      "leadSource": "アニメイトタイムズ",
-      "publishedAt": "2026-11-06T09:00:00.000Z",
+      "url": "https://mainichi.jp/articles/20261106/pr2/00m/020/975000c",
+      "image": "https://prcdn.freetls.fastly.net/release_image/51825/837/51825-837-ac11ca8e49b1808f83cb6a0cdaceed64-1920x1080.jpg?format=jpeg&auto=webp&fit=bounds&width=2400&height=1260",
+      "leadSource": "毎日新聞",
+      "publishedAt": "2026-11-06T09:23:04.000Z",
       "sourceCount": 2,
       "articleCount": 2,
       "categories": [
-        "other",
-        "anime"
+        "anime",
+        "comic"
       ],
       "keywords": [
-        "無職転生",
-        "オンリーショップ",
-        "蛇足編"
+        "web",
+        "ファンタジー",
+        "マンガ"
       ],
       "articles": [
         {
-          "title": "歴代の表紙・口絵イラストがグッズに！アニメイト池袋本店『無職転生 ～蛇足編～』完結記念オンリーショップ",
-          "url": "https://dtimes.jp/post-1443220/",
-          "source": "Dtimes",
-          "publishedAt": "2026-11-06T02:37:57.000Z",
-          "isPR": false
+          "title": "人間と魔物の共生を目指す異世界お仕事ファンタジー！WEBマンガ『魔物学者ニニアの日誌』単行本第1巻が本日「ピッコマ」にて配信開始。単行本版限定描き下ろしも必見！",
+          "url": "https://prtimes.jp/main/html/rd/p/000000837.000051825.html",
+          "source": "PR TIMES",
+          "publishedAt": "2026-11-06T09:00:02.000Z",
+          "isPR": true
         }
       ]
     }
   ],
   "churn": {
-    "previousAt": "2026-11-07T21:30:16.792Z",
-    "previousCount": 78,
-    "newCount": 3
+    "previousAt": "2026-11-07T22:00:18.015Z",
+    "previousCount": 79,
+    "newCount": 1
   },
   "updateGapMin": 30,
-  "nextUpdateAt": "2026-11-07T22:30:18.015Z",
+  "nextUpdateAt": "2026-11-07T23:00:19.618Z",
   "items": [
+    {
+      "id": "180739db449d",
+      "title": "【まおりゅう】神智リムル[神智ノ魔王]の評価とスキル【転スラ】",
+      "url": "https://appmedia.jp/ten-sura-m/80544403",
+      "host": "appmedia.jp",
+      "source": "AppMedia",
+      "summary": "",
+      "publishedAt": "2026-11-07T22:00:07.000Z",
+      "image": "https://appmedia.jp/wp-content/uploads/2026/11/152117_efbtx.webp",
+      "categories": [
+        "other"
+      ],
+      "works": [
+        "tensura"
+      ],
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": false
+    },
     {
       "id": "01371568aec8",
       "title": "転生貴族、鑑定スキルで成り上がる 第３期 [字] ＃３２【アガルアニメ】",
@@ -899,7 +919,7 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "048856b88e3c",
@@ -914,26 +934,6 @@
         "anime"
       ],
       "works": [],
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": false
-    },
-    {
-      "id": "180739db449d",
-      "title": "【まおりゅう】神智リムル[神智ノ魔王]の評価とスキル【転スラ】",
-      "url": "https://appmedia.jp/ten-sura-m/80544403",
-      "host": "appmedia.jp",
-      "source": "AppMedia",
-      "summary": "",
-      "publishedAt": "2026-11-07T16:45:15.000Z",
-      "image": "https://appmedia.jp/wp-content/uploads/2026/11/152117_efbtx.webp",
-      "categories": [
-        "other"
-      ],
-      "works": [
-        "tensura"
-      ],
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
@@ -1369,6 +1369,25 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
+      "isNew": false
+    },
+    {
+      "id": "c6eb292a7a1b",
+      "title": "プレスリリース：人間と魔物の共生を目指す異世界お仕事ファンタジー！WEBマンガ『魔物学者ニニアの日誌』単行本第1巻が本日「ピッコマ」にて配信開始。単行本版限定描き下ろしも必見！（PR TIMES）",
+      "url": "https://mainichi.jp/articles/20261106/pr2/00m/020/975000c",
+      "host": "mainichi.jp",
+      "source": "毎日新聞",
+      "summary": "",
+      "publishedAt": "2026-11-06T09:23:04.000Z",
+      "image": "",
+      "categories": [
+        "anime",
+        "comic"
+      ],
+      "works": [],
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
       "isNew": true
     },
     {
@@ -1414,18 +1433,18 @@
     {
       "id": "5207f94c2ed3",
       "title": "人間と魔物の共生を目指す異世界お仕事ファンタジー！WEBマンガ『魔物学者ニニアの日誌』単行本第1巻が本日「ピッコマ」にて配信開始。単行本版限定描き下ろしも必見！",
-      "url": "https://news.infoseek.co.jp/article/prtimes_000000837_000051825/",
-      "host": "news.infoseek.co.jp",
-      "source": "Infoseek",
+      "url": "https://prtimes.jp/main/html/rd/p/000000837.000051825.html",
+      "host": "prtimes.jp",
+      "source": "PR TIMES",
       "summary": "",
-      "publishedAt": "2026-11-06T09:00:00.000Z",
-      "image": "https://media.image.infoseek.co.jp/isnews/pc/img/noimage_203x120_busi-econ-1.0.png",
+      "publishedAt": "2026-11-06T09:00:02.000Z",
+      "image": "https://prcdn.freetls.fastly.net/release_image/51825/837/51825-837-ac11ca8e49b1808f83cb6a0cdaceed64-1920x1080.jpg?format=jpeg&auto=webp&fit=bounds&width=2400&height=1260",
       "categories": [
         "anime",
         "comic"
       ],
       "works": [],
-      "isPR": false,
+      "isPR": true,
       "viaGoogle": false,
       "sourceKind": "news",
       "isNew": false
@@ -1980,7 +1999,7 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "3eecae0d78b4",
@@ -1990,7 +2009,7 @@
       "source": "eeo",
       "summary": "",
       "publishedAt": "2026-11-05T12:03:07.000Z",
-      "image": "",
+      "image": "https://eeo.today/media/wp-content/uploads/2026/11/EP54①（©）.jpg",
       "categories": [
         "anime"
       ],
