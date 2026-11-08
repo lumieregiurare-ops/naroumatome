@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-08T17:30:17.202Z",
+  "updatedAt": "2026-11-08T18:00:17.963Z",
   "site": {
     "title": "なろう系まとめ",
     "tagline": "小説家になろう発の作品のアニメ化・コミカライズ・書籍化のニュースと、なろうのランキングをまとめています。",
@@ -37,7 +37,7 @@
     {
       "id": "goods",
       "label": "グッズ・イベント",
-      "count": 11
+      "count": 10
     },
     {
       "id": "other",
@@ -296,7 +296,7 @@
   "sources": [
     {
       "name": "Yahoo!ニュース",
-      "count": 9
+      "count": 10
     },
     {
       "name": "ラノベニュースオンライン",
@@ -347,10 +347,6 @@
       "count": 2
     },
     {
-      "name": "PASH! PLUS",
-      "count": 2
-    },
-    {
       "name": "アニメイトタイムズ",
       "count": 2
     },
@@ -392,6 +388,10 @@
     },
     {
       "name": "Howl.Link",
+      "count": 1
+    },
+    {
+      "name": "PASH! PLUS",
       "count": 1
     },
     {
@@ -827,12 +827,12 @@
     }
   ],
   "churn": {
-    "previousAt": "2026-11-08T17:00:17.240Z",
+    "previousAt": "2026-11-08T17:30:17.202Z",
     "previousCount": 77,
     "newCount": 1
   },
   "updateGapMin": 30,
-  "nextUpdateAt": "2026-11-08T18:00:17.202Z",
+  "nextUpdateAt": "2026-11-08T18:30:17.963Z",
   "items": [
     {
       "id": "180739db449d",
@@ -1883,6 +1883,26 @@
       "isNew": false
     },
     {
+      "id": "d9be21ec09a1",
+      "title": "本日放送の『薬屋のひとりごと』放送時間変更へ 壬氏の“頬の傷”激変のワケも判明か？ (マグミクス)",
+      "url": "https://news.yahoo.co.jp/articles/372c728ae727f94579a6bdf2bfc98ad8ad896ea4/images/000",
+      "host": "news.yahoo.co.jp",
+      "source": "Yahoo!ニュース",
+      "summary": "",
+      "publishedAt": "2026-11-06T06:20:00.000Z",
+      "image": "https://news-pctr.c.yimg.jp/uUzvQ3lML_bkIqyakc1vFhNrRI0RUQxg5aFkrX0xDg1_T0wXrbEJjtNGtrf1o9y32aKHaE9S6KKOAHNM7AL26ip9VW71FNXpKHiLnUKwHa36JEG_kjOUFaYim7O8AFi-SlalEiP3s05jxDE9jfdvn1yTk__CPrPXLAS995P0q4rkSm_J4_6momHcUBr-IALx8ol_fKfHIMzsz2caFAjJnQ==",
+      "categories": [
+        "anime"
+      ],
+      "works": [
+        "kusuriya"
+      ],
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": true
+    },
+    {
       "id": "531abdcc2b23",
       "title": "無職転生 魔界大帝ボンテージ ストア in 秋葉原 11月21日より開催!",
       "url": "https://collabo-cafe.com/events/collabo/mushokutensei-makai-taitei-bondage-popup-gamers-akihabara-2026/",
@@ -1942,27 +1962,6 @@
       "viaGoogle": false,
       "sourceKind": "news",
       "isNew": false
-    },
-    {
-      "id": "257240facd2e",
-      "title": "アニメ『薬屋のひとりごと』舞台はついに西の地へ――。第54話「紙の村(前編)」あらすじ＆先行カット到着。旅路設定画も初公開！",
-      "url": "https://www.pashplus.jp/anime/501719/",
-      "host": "pashplus.jp",
-      "source": "PASH! PLUS",
-      "summary": "",
-      "publishedAt": "2026-11-06T04:48:55.000Z",
-      "image": "https://www.pashplus.jp/wp-content/uploads/40cb1d6ced3d490b2183cc1e188f5c4d.jpg",
-      "categories": [
-        "anime",
-        "goods"
-      ],
-      "works": [
-        "kusuriya"
-      ],
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": true
     },
     {
       "id": "e04383540144",
