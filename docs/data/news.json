@@ -1,18 +1,18 @@
 {
-  "updatedAt": "2026-11-08T22:00:18.124Z",
+  "updatedAt": "2026-11-08T22:30:17.834Z",
   "site": {
     "title": "なろう系まとめ",
     "tagline": "小説家になろう発の作品のアニメ化・コミカライズ・書籍化のニュースと、なろうのランキングをまとめています。",
     "url": "https://naroumatome.gamelab.website/",
     "contactUrl": "https://docs.google.com/forms/d/e/1FAIpQLSesWyhmZ6sRS_ve-c3X2KqF_wC5PK2TgwgQbTKmnQltSlg5Jw/viewform"
   },
-  "total": 77,
-  "todayCount": 5,
+  "total": 79,
+  "todayCount": 6,
   "categories": [
     {
       "id": "anime",
       "label": "アニメ",
-      "count": 45
+      "count": 46
     },
     {
       "id": "comic",
@@ -37,12 +37,12 @@
     {
       "id": "goods",
       "label": "グッズ・イベント",
-      "count": 11
+      "count": 13
     },
     {
       "id": "other",
       "label": "そのほか",
-      "count": 19
+      "count": 20
     }
   ],
   "works": [
@@ -62,7 +62,7 @@
       "id": "rezero",
       "title": "Re:ゼロから始める異世界生活",
       "short": "リゼロ",
-      "count": 7
+      "count": 8
     },
     {
       "id": "honzuki",
@@ -74,7 +74,7 @@
       "id": "kusuriya",
       "title": "薬屋のひとりごと",
       "short": "薬屋",
-      "count": 27
+      "count": 28
     },
     {
       "id": "kagejitsu",
@@ -296,7 +296,7 @@
   "sources": [
     {
       "name": "Yahoo!ニュース",
-      "count": 9
+      "count": 8
     },
     {
       "name": "ラノベニュースオンライン",
@@ -304,7 +304,7 @@
     },
     {
       "name": "ナタリー",
-      "count": 5
+      "count": 6
     },
     {
       "name": "WEBザテレビジョン",
@@ -347,6 +347,10 @@
       "count": 2
     },
     {
+      "name": "PASH! PLUS",
+      "count": 2
+    },
+    {
       "name": "アニメイトタイムズ",
       "count": 2
     },
@@ -361,6 +365,10 @@
     {
       "name": "コラボカフェ",
       "count": 2
+    },
+    {
+      "name": "au Webポータル",
+      "count": 1
     },
     {
       "name": "日本テレビ",
@@ -399,10 +407,6 @@
       "count": 1
     },
     {
-      "name": "PASH! PLUS",
-      "count": 1
-    },
-    {
       "name": "eeo",
       "count": 1
     },
@@ -411,7 +415,7 @@
       "count": 1
     },
     {
-      "name": "ダ・ヴィンチWeb",
+      "name": "ニコニコニュース",
       "count": 1
     },
     {
@@ -809,13 +813,33 @@
     }
   ],
   "churn": {
-    "previousAt": "2026-11-08T21:30:17.938Z",
+    "previousAt": "2026-11-08T22:00:18.124Z",
     "previousCount": 77,
-    "newCount": 1
+    "newCount": 3
   },
   "updateGapMin": 30,
-  "nextUpdateAt": "2026-11-08T22:30:18.124Z",
+  "nextUpdateAt": "2026-11-08T23:00:17.834Z",
   "items": [
+    {
+      "id": "4494aacda085",
+      "title": "【コスプレ】艶めく紫のピッチリボディスーツで美脚×ヒップラインが際立つ！雨の中で魅せる「リゼロ」エミリアの可憐な立ち姿【写真10枚】",
+      "url": "https://article.auone.jp/6b6beb26-41fe-4111-9b25-b086f06c65ba",
+      "host": "article.auone.jp",
+      "source": "au Webポータル",
+      "summary": "",
+      "publishedAt": "2026-11-08T22:11:28.000Z",
+      "image": "https://portal.auone.jp/media/thumbnails/2026/11/08/https___news_jp_i_1492285922458354453_w640.webp",
+      "categories": [
+        "other"
+      ],
+      "works": [
+        "rezero"
+      ],
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": true
+    },
     {
       "id": "458d52c91f72",
       "title": "アニメ「薬屋のひとりごと」グッズや番組特製QUOカードなどが当たる！データ放送 [d]ボタンからプレゼントに応募しよう【11/9～11/15の実施企画一覧】",
@@ -911,7 +935,7 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "8a5338780bdc",
@@ -941,7 +965,7 @@
       "source": "WEBザテレビジョン",
       "summary": "",
       "publishedAt": "2026-11-08T09:49:52.000Z",
-      "image": "",
+      "image": "https://thetv.jp/i/nw/1455243/19085873.jpg?w=1284",
       "categories": [
         "game"
       ],
@@ -1637,6 +1661,24 @@
       "isNew": false
     },
     {
+      "id": "2ffe224f5b3b",
+      "title": "【異世界コミック読み放題】Kindle+で『無敵商人の異世界成り上がり物語』など話題作を満喫しよう",
+      "url": "https://news.nicovideo.jp/watch/nw19964286",
+      "host": "news.nicovideo.jp",
+      "source": "ニコニコニュース",
+      "summary": "",
+      "publishedAt": "2026-11-06T08:36:07.000Z",
+      "image": "",
+      "categories": [
+        "comic"
+      ],
+      "works": [],
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": false
+    },
+    {
       "id": "38bee673e629",
       "title": "ワークマン×『薬屋のひとりごと』コラボグッズが猫猫並に有能だった…! 11月6日発売の全4アイテムを詳しくレビュー",
       "url": "https://news.yahoo.co.jp/articles/dc21c08672386d735dcffce713ad6d4f0bbc864b",
@@ -1712,24 +1754,6 @@
         "tensei-kizoku"
       ],
       "isPR": true,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": false
-    },
-    {
-      "id": "2ffe224f5b3b",
-      "title": "【異世界コミック読み放題】Kindle+で『無敵商人の異世界成り上がり物語』など話題作を満喫しよう",
-      "url": "https://ddnavi.com/article/1455181/a/",
-      "host": "ddnavi.com",
-      "source": "ダ・ヴィンチWeb",
-      "summary": "",
-      "publishedAt": "2026-11-06T08:00:00.000Z",
-      "image": "",
-      "categories": [
-        "comic"
-      ],
-      "works": [],
-      "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
       "isNew": false
@@ -1967,6 +1991,27 @@
       "isNew": false
     },
     {
+      "id": "257240facd2e",
+      "title": "アニメ『薬屋のひとりごと』舞台はついに西の地へ――。第54話「紙の村(前編)」あらすじ＆先行カット到着。旅路設定画も初公開！",
+      "url": "https://www.pashplus.jp/anime/501719/",
+      "host": "pashplus.jp",
+      "source": "PASH! PLUS",
+      "summary": "",
+      "publishedAt": "2026-11-06T04:48:55.000Z",
+      "image": "https://www.pashplus.jp/wp-content/uploads/40cb1d6ced3d490b2183cc1e188f5c4d.jpg",
+      "categories": [
+        "anime",
+        "goods"
+      ],
+      "works": [
+        "kusuriya"
+      ],
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": true
+    },
+    {
       "id": "e04383540144",
       "title": "「薬屋のひとりごと」ひらめきで挑む謎解き×調合体験！完全オリジナルストーリーのリアル脱出ゲーム開催 (アニメ！アニメ！)",
       "url": "https://news.yahoo.co.jp/articles/cb6de44681aa6d8117de984763a994a535930992/images/000",
@@ -2086,6 +2131,27 @@
       "viaGoogle": false,
       "sourceKind": "news",
       "isNew": false
+    },
+    {
+      "id": "4110ec625c52",
+      "title": "「劇場版 薬屋のひとりごと 亡妃の秘宝」とTOHO-ONEのコラボ動画のサムネイル [画像・動画ギャラリー 1/3]",
+      "url": "https://natalie.mu/comic/gallery/news/696866/3009968",
+      "host": "natalie.mu",
+      "source": "ナタリー",
+      "summary": "",
+      "publishedAt": "2026-11-06T04:07:53.000Z",
+      "image": "",
+      "categories": [
+        "anime",
+        "goods"
+      ],
+      "works": [
+        "kusuriya"
+      ],
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": true
     },
     {
       "id": "d783a8d375c6",
@@ -2282,26 +2348,6 @@
         "game"
       ],
       "works": [],
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": false
-    },
-    {
-      "id": "01e71b0a2d5d",
-      "title": "『薬屋のひとりごと』第3期、テレビ放送は30分遅れ。第54話、またも壬氏からの厄介事が届き【先行カット】 (オタク総研)",
-      "url": "https://news.yahoo.co.jp/articles/8015b869da8831ea215e3e7deea559e71bf87ff8/images/000",
-      "host": "news.yahoo.co.jp",
-      "source": "Yahoo!ニュース",
-      "summary": "",
-      "publishedAt": "2026-11-05T22:08:00.000Z",
-      "image": "https://news-pctr.c.yimg.jp/uUzvQ3lML_bkIqyakc1vFhNrRI0RUQxg5aFkrX0xDg1_T0wXrbEJjtNGtrf1o9y32aKHaE9S6KKOAHNM7AL26secMTWHaQfq7ET0A2IG5ojmclRwHAg1qJyPLokIQzvkD7lq7_jeCJHxnI2UNcAwlO5HuB91Ba098pdcL--R1cNNaILh_qU-5r9eMTO_nw1_htIfCaFGqZJoyeEnv6aG4g==",
-      "categories": [
-        "anime"
-      ],
-      "works": [
-        "kusuriya"
-      ],
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
