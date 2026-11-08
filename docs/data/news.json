@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-08T16:30:16.422Z",
+  "updatedAt": "2026-11-08T17:00:17.240Z",
   "site": {
     "title": "なろう系まとめ",
     "tagline": "小説家になろう発の作品のアニメ化・コミカライズ・書籍化のニュースと、なろうのランキングをまとめています。",
@@ -62,7 +62,7 @@
       "id": "rezero",
       "title": "Re:ゼロから始める異世界生活",
       "short": "リゼロ",
-      "count": 5
+      "count": 6
     },
     {
       "id": "honzuki",
@@ -307,10 +307,6 @@
       "count": 5
     },
     {
-      "name": "ナタリー",
-      "count": 5
-    },
-    {
       "name": "ABEMA",
       "count": 4
     },
@@ -327,11 +323,19 @@
       "count": 4
     },
     {
+      "name": "ナタリー",
+      "count": 4
+    },
+    {
       "name": "AppMedia",
       "count": 3
     },
     {
       "name": "PR TIMES",
+      "count": 3
+    },
+    {
+      "name": "GameWith",
       "count": 3
     },
     {
@@ -356,10 +360,6 @@
     },
     {
       "name": "コラボカフェ",
-      "count": 2
-    },
-    {
-      "name": "GameWith",
       "count": 2
     },
     {
@@ -827,12 +827,12 @@
     }
   ],
   "churn": {
-    "previousAt": "2026-11-08T16:00:17.137Z",
+    "previousAt": "2026-11-08T16:30:16.422Z",
     "previousCount": 77,
     "newCount": 1
   },
   "updateGapMin": 30,
-  "nextUpdateAt": "2026-11-08T17:00:16.422Z",
+  "nextUpdateAt": "2026-11-08T17:30:17.240Z",
   "items": [
     {
       "id": "180739db449d",
@@ -1397,24 +1397,6 @@
       "isNew": false
     },
     {
-      "id": "fbc146f9d1af",
-      "title": "「聞き間違いから始まる異世界開拓」の試し読み [画像ギャラリー 5/10]",
-      "url": "https://natalie.mu/comic/gallery/news/696953/3010546",
-      "host": "natalie.mu",
-      "source": "ナタリー",
-      "summary": "",
-      "publishedAt": "2026-11-06T11:46:09.000Z",
-      "image": "",
-      "categories": [
-        "other"
-      ],
-      "works": [],
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": false
-    },
-    {
       "id": "449017a0eaef",
       "title": "“チート能力”じゃなく“地位と能力”を与えられた、聞き間違いから始まる転生譚1巻（試し読みあり）",
       "url": "https://natalie.mu/comic/news/696953",
@@ -1689,7 +1671,7 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "bcc186656209",
@@ -2001,6 +1983,26 @@
       "viaGoogle": false,
       "sourceKind": "news",
       "isNew": false
+    },
+    {
+      "id": "f884c35babcf",
+      "title": "【グラクロ】強欲の魔女エキドナ(リゼロ)の評価とおすすめ装備【七つの大罪】",
+      "url": "https://gamewith.jp/7taizai/article/show/361466",
+      "host": "gamewith.jp",
+      "source": "GameWith",
+      "summary": "",
+      "publishedAt": "2026-11-06T04:18:18.000Z",
+      "image": "https://img.gamewith.jp/article/thumbnail/rectangle/361466.png?date=1662538783",
+      "categories": [
+        "other"
+      ],
+      "works": [
+        "rezero"
+      ],
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": true
     },
     {
       "id": "355f0c9f591d",
