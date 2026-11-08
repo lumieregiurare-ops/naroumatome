@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-08T15:00:17.399Z",
+  "updatedAt": "2026-11-08T15:30:18.566Z",
   "site": {
     "title": "なろう系まとめ",
     "tagline": "小説家になろう発の作品のアニメ化・コミカライズ・書籍化のニュースと、なろうのランキングをまとめています。",
@@ -7,12 +7,12 @@
     "contactUrl": "https://docs.google.com/forms/d/e/1FAIpQLSesWyhmZ6sRS_ve-c3X2KqF_wC5PK2TgwgQbTKmnQltSlg5Jw/viewform"
   },
   "total": 76,
-  "todayCount": 0,
+  "todayCount": 1,
   "categories": [
     {
       "id": "anime",
       "label": "アニメ",
-      "count": 45
+      "count": 46
     },
     {
       "id": "comic",
@@ -42,7 +42,7 @@
     {
       "id": "other",
       "label": "そのほか",
-      "count": 18
+      "count": 17
     }
   ],
   "works": [
@@ -74,7 +74,7 @@
       "id": "kusuriya",
       "title": "薬屋のひとりごと",
       "short": "薬屋",
-      "count": 28
+      "count": 27
     },
     {
       "id": "kagejitsu",
@@ -315,11 +315,15 @@
       "count": 4
     },
     {
-      "name": "オリコンニュース",
-      "count": 4
+      "name": "ABEMA",
+      "count": 3
     },
     {
       "name": "AppMedia",
+      "count": 3
+    },
+    {
+      "name": "オリコンニュース",
       "count": 3
     },
     {
@@ -329,10 +333,6 @@
     {
       "name": "PR TIMES",
       "count": 3
-    },
-    {
-      "name": "ABEMA",
-      "count": 2
     },
     {
       "name": "オタク総研",
@@ -823,13 +823,51 @@
     }
   ],
   "churn": {
-    "previousAt": "2026-11-08T14:30:23.518Z",
-    "previousCount": 75,
+    "previousAt": "2026-11-08T15:00:17.399Z",
+    "previousCount": 76,
     "newCount": 1
   },
   "updateGapMin": 30,
-  "nextUpdateAt": "2026-11-08T15:30:17.399Z",
+  "nextUpdateAt": "2026-11-08T16:00:18.566Z",
   "items": [
+    {
+      "id": "7cced13db001",
+      "title": "TVアニメ「転生したら剣でしたⅡ」シードラン編突入記念特番",
+      "url": "https://abema.tv/channels/abema-anime/slots/BDbG6nGuy8wUyd",
+      "host": "abema.tv",
+      "source": "ABEMA",
+      "summary": "",
+      "publishedAt": "2026-11-08T15:10:14.000Z",
+      "image": "",
+      "categories": [
+        "anime"
+      ],
+      "works": [
+        "tenken"
+      ],
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": false
+    },
+    {
+      "id": "86c279374abe",
+      "title": "異世界・ファンタジーアニメ5チャンネル | 無料で放送中の番組や配信中の話題作が見放題",
+      "url": "https://abema.tv/now-on-air/isekai-anime-5",
+      "host": "abema.tv",
+      "source": "ABEMA",
+      "summary": "",
+      "publishedAt": "2026-11-08T13:20:48.000Z",
+      "image": "",
+      "categories": [
+        "anime"
+      ],
+      "works": [],
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": true
+    },
     {
       "id": "180739db449d",
       "title": "【まおりゅう】神智リムル[神智ノ魔王]の評価とスキル【転スラ】",
@@ -844,26 +882,6 @@
       ],
       "works": [
         "tensura"
-      ],
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": false
-    },
-    {
-      "id": "7cced13db001",
-      "title": "TVアニメ「転生したら剣でしたⅡ」シードラン編突入記念特番",
-      "url": "https://abema.tv/channels/abema-anime/slots/BDbG6nGuy8wUyd",
-      "host": "abema.tv",
-      "source": "ABEMA",
-      "summary": "",
-      "publishedAt": "2026-11-08T12:06:06.000Z",
-      "image": "",
-      "categories": [
-        "anime"
-      ],
-      "works": [
-        "tenken"
       ],
       "isPR": false,
       "viaGoogle": false,
@@ -1179,26 +1197,6 @@
       "viaGoogle": false,
       "sourceKind": "news",
       "isNew": false
-    },
-    {
-      "id": "22f5c16093c6",
-      "title": "日テレの河出奈都美アナ、最新コスプレにネット衝撃 『薬屋のひとりごと』猫猫姿で「アクセサリーは自作」",
-      "url": "https://www.oricon.co.jp/news/2491431/full/",
-      "host": "oricon.co.jp",
-      "source": "オリコンニュース",
-      "summary": "",
-      "publishedAt": "2026-11-07T06:42:00.000Z",
-      "image": "https://contents.oricon.co.jp/upimg/news/2492000/2491431/20210727_095150_p_o_6731.jpg",
-      "categories": [
-        "other"
-      ],
-      "works": [
-        "kusuriya"
-      ],
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": true
     },
     {
       "id": "6b63d0117802",
