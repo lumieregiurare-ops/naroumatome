@@ -1,12 +1,12 @@
 {
-  "updatedAt": "2026-11-08T14:00:18.328Z",
+  "updatedAt": "2026-11-08T14:30:23.518Z",
   "site": {
     "title": "なろう系まとめ",
     "tagline": "小説家になろう発の作品のアニメ化・コミカライズ・書籍化のニュースと、なろうのランキングをまとめています。",
     "url": "https://naroumatome.gamelab.website/",
     "contactUrl": "https://docs.google.com/forms/d/e/1FAIpQLSesWyhmZ6sRS_ve-c3X2KqF_wC5PK2TgwgQbTKmnQltSlg5Jw/viewform"
   },
-  "total": 76,
+  "total": 75,
   "todayCount": 15,
   "categories": [
     {
@@ -22,7 +22,7 @@
     {
       "id": "book",
       "label": "書籍・ラノベ",
-      "count": 4
+      "count": 3
     },
     {
       "id": "web",
@@ -42,7 +42,7 @@
     {
       "id": "other",
       "label": "そのほか",
-      "count": 18
+      "count": 17
     }
   ],
   "works": [
@@ -296,7 +296,7 @@
   "sources": [
     {
       "name": "Yahoo!ニュース",
-      "count": 10
+      "count": 11
     },
     {
       "name": "ラノベニュースオンライン",
@@ -315,11 +315,11 @@
       "count": 4
     },
     {
-      "name": "オリコンニュース",
-      "count": 4
+      "name": "AppMedia",
+      "count": 3
     },
     {
-      "name": "AppMedia",
+      "name": "オリコンニュース",
       "count": 3
     },
     {
@@ -348,10 +348,6 @@
     },
     {
       "name": "KADOKAWAオフィシャルサイト",
-      "count": 2
-    },
-    {
-      "name": "ニコニコニュース",
       "count": 2
     },
     {
@@ -408,6 +404,10 @@
     },
     {
       "name": "Koubo",
+      "count": 1
+    },
+    {
+      "name": "ニコニコニュース",
       "count": 1
     },
     {
@@ -823,12 +823,12 @@
     }
   ],
   "churn": {
-    "previousAt": "2026-11-08T13:30:17.243Z",
+    "previousAt": "2026-11-08T14:00:18.328Z",
     "previousCount": 76,
     "newCount": 1
   },
   "updateGapMin": 30,
-  "nextUpdateAt": "2026-11-08T14:30:18.328Z",
+  "nextUpdateAt": "2026-11-08T15:00:23.518Z",
   "items": [
     {
       "id": "180739db449d",
@@ -1179,26 +1179,6 @@
       "viaGoogle": false,
       "sourceKind": "news",
       "isNew": false
-    },
-    {
-      "id": "22f5c16093c6",
-      "title": "日テレの河出奈都美アナ、最新コスプレにネット衝撃 『薬屋のひとりごと』猫猫姿で「アクセサリーは自作」",
-      "url": "https://www.oricon.co.jp/news/2491431/full/",
-      "host": "oricon.co.jp",
-      "source": "オリコンニュース",
-      "summary": "",
-      "publishedAt": "2026-11-07T06:42:00.000Z",
-      "image": "https://contents.oricon.co.jp/upimg/news/2492000/2491431/20210727_095150_p_o_6731.jpg",
-      "categories": [
-        "other"
-      ],
-      "works": [
-        "kusuriya"
-      ],
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": true
     },
     {
       "id": "6b63d0117802",
@@ -1899,6 +1879,26 @@
       "isNew": false
     },
     {
+      "id": "d9be21ec09a1",
+      "title": "本日放送の『薬屋のひとりごと』放送時間変更へ 壬氏の“頬の傷”激変のワケも判明か？ (マグミクス)",
+      "url": "https://news.yahoo.co.jp/articles/372c728ae727f94579a6bdf2bfc98ad8ad896ea4/images/000",
+      "host": "news.yahoo.co.jp",
+      "source": "Yahoo!ニュース",
+      "summary": "",
+      "publishedAt": "2026-11-06T06:20:00.000Z",
+      "image": "https://news-pctr.c.yimg.jp/uUzvQ3lML_bkIqyakc1vFhNrRI0RUQxg5aFkrX0xDg1_T0wXrbEJjtNGtrf1o9y32aKHaE9S6KKOAHNM7AL26ip9VW71FNXpKHiLnUKwHa36JEG_kjOUFaYim7O8AFi-SlalEiP3s05jxDE9jfdvn1yTk__CPrPXLAS995P0q4rkSm_J4_6momHcUBr-IALx8ol_fKfHIMzsz2caFAjJnQ==",
+      "categories": [
+        "anime"
+      ],
+      "works": [
+        "kusuriya"
+      ],
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": true
+    },
+    {
       "id": "531abdcc2b23",
       "title": "無職転生 魔界大帝ボンテージ ストア in 秋葉原 11月21日より開催!",
       "url": "https://collabo-cafe.com/events/collabo/mushokutensei-makai-taitei-bondage-popup-gamers-akihabara-2026/",
@@ -2275,25 +2275,6 @@
       "works": [
         "kusuriya"
       ],
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": false
-    },
-    {
-      "id": "aa3eeb5cfc51",
-      "title": "【本日予約開始】2027年1月TVアニメ放送『欠けた月のメルセデス』『ゲーム世界転生〈ダン活〉』注目の2作品の新刊が1",
-      "url": "https://news.nicovideo.jp/watch/nw19960575",
-      "host": "news.nicovideo.jp",
-      "source": "ニコニコニュース",
-      "summary": "",
-      "publishedAt": "2026-11-05T14:00:32.000Z",
-      "image": "",
-      "categories": [
-        "anime",
-        "book"
-      ],
-      "works": [],
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
