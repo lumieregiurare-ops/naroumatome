@@ -1,13 +1,13 @@
 {
-  "updatedAt": "2026-11-08T14:30:23.518Z",
+  "updatedAt": "2026-11-08T15:00:17.399Z",
   "site": {
     "title": "なろう系まとめ",
     "tagline": "小説家になろう発の作品のアニメ化・コミカライズ・書籍化のニュースと、なろうのランキングをまとめています。",
     "url": "https://naroumatome.gamelab.website/",
     "contactUrl": "https://docs.google.com/forms/d/e/1FAIpQLSesWyhmZ6sRS_ve-c3X2KqF_wC5PK2TgwgQbTKmnQltSlg5Jw/viewform"
   },
-  "total": 75,
-  "todayCount": 15,
+  "total": 76,
+  "todayCount": 0,
   "categories": [
     {
       "id": "anime",
@@ -42,7 +42,7 @@
     {
       "id": "other",
       "label": "そのほか",
-      "count": 17
+      "count": 18
     }
   ],
   "works": [
@@ -74,7 +74,7 @@
       "id": "kusuriya",
       "title": "薬屋のひとりごと",
       "short": "薬屋",
-      "count": 27
+      "count": 28
     },
     {
       "id": "kagejitsu",
@@ -315,11 +315,11 @@
       "count": 4
     },
     {
-      "name": "AppMedia",
-      "count": 3
+      "name": "オリコンニュース",
+      "count": 4
     },
     {
-      "name": "オリコンニュース",
+      "name": "AppMedia",
       "count": 3
     },
     {
@@ -823,12 +823,12 @@
     }
   ],
   "churn": {
-    "previousAt": "2026-11-08T14:00:18.328Z",
-    "previousCount": 76,
+    "previousAt": "2026-11-08T14:30:23.518Z",
+    "previousCount": 75,
     "newCount": 1
   },
   "updateGapMin": 30,
-  "nextUpdateAt": "2026-11-08T15:00:23.518Z",
+  "nextUpdateAt": "2026-11-08T15:30:17.399Z",
   "items": [
     {
       "id": "180739db449d",
@@ -1179,6 +1179,26 @@
       "viaGoogle": false,
       "sourceKind": "news",
       "isNew": false
+    },
+    {
+      "id": "22f5c16093c6",
+      "title": "日テレの河出奈都美アナ、最新コスプレにネット衝撃 『薬屋のひとりごと』猫猫姿で「アクセサリーは自作」",
+      "url": "https://www.oricon.co.jp/news/2491431/full/",
+      "host": "oricon.co.jp",
+      "source": "オリコンニュース",
+      "summary": "",
+      "publishedAt": "2026-11-07T06:42:00.000Z",
+      "image": "https://contents.oricon.co.jp/upimg/news/2492000/2491431/20210727_095150_p_o_6731.jpg",
+      "categories": [
+        "other"
+      ],
+      "works": [
+        "kusuriya"
+      ],
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": true
     },
     {
       "id": "6b63d0117802",
@@ -1896,7 +1916,7 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "531abdcc2b23",
