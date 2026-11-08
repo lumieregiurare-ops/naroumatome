@@ -1,18 +1,18 @@
 {
-  "updatedAt": "2026-11-08T21:00:17.351Z",
+  "updatedAt": "2026-11-08T21:30:17.938Z",
   "site": {
     "title": "なろう系まとめ",
     "tagline": "小説家になろう発の作品のアニメ化・コミカライズ・書籍化のニュースと、なろうのランキングをまとめています。",
     "url": "https://naroumatome.gamelab.website/",
     "contactUrl": "https://docs.google.com/forms/d/e/1FAIpQLSesWyhmZ6sRS_ve-c3X2KqF_wC5PK2TgwgQbTKmnQltSlg5Jw/viewform"
   },
-  "total": 78,
-  "todayCount": 4,
+  "total": 77,
+  "todayCount": 5,
   "categories": [
     {
       "id": "anime",
       "label": "アニメ",
-      "count": 46
+      "count": 45
     },
     {
       "id": "comic",
@@ -56,7 +56,7 @@
       "id": "mushoku",
       "title": "無職転生 ～異世界行ったら本気だす～",
       "short": "無職転生",
-      "count": 6
+      "count": 7
     },
     {
       "id": "rezero",
@@ -74,7 +74,7 @@
       "id": "kusuriya",
       "title": "薬屋のひとりごと",
       "short": "薬屋",
-      "count": 28
+      "count": 27
     },
     {
       "id": "kagejitsu",
@@ -304,7 +304,7 @@
     },
     {
       "name": "ナタリー",
-      "count": 6
+      "count": 5
     },
     {
       "name": "WEBザテレビジョン",
@@ -327,10 +327,6 @@
       "count": 3
     },
     {
-      "name": "ABEMA",
-      "count": 3
-    },
-    {
       "name": "オリコンニュース",
       "count": 3
     },
@@ -339,15 +335,19 @@
       "count": 3
     },
     {
+      "name": "山陽新聞",
+      "count": 2
+    },
+    {
+      "name": "ABEMA",
+      "count": 2
+    },
+    {
       "name": "オタク総研",
       "count": 2
     },
     {
       "name": "TVer",
-      "count": 2
-    },
-    {
-      "name": "PASH! PLUS",
       "count": 2
     },
     {
@@ -367,6 +367,10 @@
       "count": 2
     },
     {
+      "name": "日本テレビ",
+      "count": 1
+    },
+    {
       "name": "Dellows News",
       "count": 1
     },
@@ -383,10 +387,6 @@
       "count": 1
     },
     {
-      "name": "山陽新聞",
-      "count": 1
-    },
-    {
       "name": "こまめブログ",
       "count": 1
     },
@@ -396,6 +396,10 @@
     },
     {
       "name": "Howl.Link",
+      "count": 1
+    },
+    {
+      "name": "PASH! PLUS",
       "count": 1
     },
     {
@@ -805,13 +809,34 @@
     }
   ],
   "churn": {
-    "previousAt": "2026-11-08T20:30:19.792Z",
-    "previousCount": 77,
+    "previousAt": "2026-11-08T21:00:17.351Z",
+    "previousCount": 78,
     "newCount": 2
   },
   "updateGapMin": 30,
-  "nextUpdateAt": "2026-11-08T21:30:17.351Z",
+  "nextUpdateAt": "2026-11-08T22:00:17.938Z",
   "items": [
+    {
+      "id": "458d52c91f72",
+      "title": "アニメ「薬屋のひとりごと」グッズや番組特製QUOカードなどが当たる！データ放送 [d]ボタンからプレゼントに応募しよう【11/9～11/15の実施企画一覧】",
+      "url": "https://www.ntv.co.jp/topics/articles/19ubrel1o7hm1571ps.html",
+      "host": "ntv.co.jp",
+      "source": "日本テレビ",
+      "summary": "",
+      "publishedAt": "2026-11-08T21:15:52.000Z",
+      "image": "https://www.ntv.co.jp/topics/articles/images/611gv8tdlhplune42j30otz0l8lcsn.png",
+      "categories": [
+        "anime",
+        "goods"
+      ],
+      "works": [
+        "kusuriya"
+      ],
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": true
+    },
     {
       "id": "b62b674e429f",
       "title": "チー付与＞山下大輝×Lynn×柴田理恵スペシャル鼎談「なんでキングギドラと戦ってるの!?」柴田が驚愕したカオスな異世界とキャラクターの濃すぎる魅力",
@@ -851,6 +876,27 @@
       "isNew": false
     },
     {
+      "id": "8c6879a78202",
+      "title": "中島美嘉×ヒトリエのコラボ曲がTVアニメ『無職転生III』EDテーマに決定「新しい性格の曲をいただけた」",
+      "url": "https://www.sanyonews.jp/article/1932697",
+      "host": "sanyonews.jp",
+      "source": "山陽新聞",
+      "summary": "",
+      "publishedAt": "2026-11-08T15:14:43.000Z",
+      "image": "https://static.sanyonews.jp/image/article/size1/c/5/d/9/c5d93e04c1f598b8b620326155fe4832_1.jpg",
+      "categories": [
+        "anime",
+        "goods"
+      ],
+      "works": [
+        "mushoku"
+      ],
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": true
+    },
+    {
       "id": "7cced13db001",
       "title": "TVアニメ「転生したら剣でしたⅡ」シードラン編突入記念特番",
       "url": "https://abema.tv/channels/abema-anime/slots/BDbG6nGuy8wUyd",
@@ -865,24 +911,6 @@
       "works": [
         "tenken"
       ],
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": false
-    },
-    {
-      "id": "86c279374abe",
-      "title": "異世界・ファンタジーアニメ5チャンネル | 無料で放送中の番組や配信中の話題作が見放題",
-      "url": "https://abema.tv/now-on-air/isekai-anime-5",
-      "host": "abema.tv",
-      "source": "ABEMA",
-      "summary": "",
-      "publishedAt": "2026-11-08T15:00:00.000Z",
-      "image": "",
-      "categories": [
-        "anime"
-      ],
-      "works": [],
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
@@ -1372,7 +1400,7 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "449017a0eaef",
@@ -1942,27 +1970,6 @@
       "isNew": false
     },
     {
-      "id": "257240facd2e",
-      "title": "アニメ『薬屋のひとりごと』舞台はついに西の地へ――。第54話「紙の村(前編)」あらすじ＆先行カット到着。旅路設定画も初公開！",
-      "url": "https://www.pashplus.jp/anime/501719/",
-      "host": "pashplus.jp",
-      "source": "PASH! PLUS",
-      "summary": "",
-      "publishedAt": "2026-11-06T04:48:55.000Z",
-      "image": "https://www.pashplus.jp/wp-content/uploads/40cb1d6ced3d490b2183cc1e188f5c4d.jpg",
-      "categories": [
-        "anime",
-        "goods"
-      ],
-      "works": [
-        "kusuriya"
-      ],
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": false
-    },
-    {
       "id": "e04383540144",
       "title": "「薬屋のひとりごと」ひらめきで挑む謎解き×調合体験！完全オリジナルストーリーのリアル脱出ゲーム開催 (アニメ！アニメ！)",
       "url": "https://news.yahoo.co.jp/articles/cb6de44681aa6d8117de984763a994a535930992/images/000",
@@ -2082,27 +2089,6 @@
       "viaGoogle": false,
       "sourceKind": "news",
       "isNew": false
-    },
-    {
-      "id": "4110ec625c52",
-      "title": "「劇場版 薬屋のひとりごと 亡妃の秘宝」とTOHO-ONEのコラボ動画のサムネイル [画像・動画ギャラリー 1/3]",
-      "url": "https://natalie.mu/comic/gallery/news/696866/3009968",
-      "host": "natalie.mu",
-      "source": "ナタリー",
-      "summary": "",
-      "publishedAt": "2026-11-06T04:07:53.000Z",
-      "image": "",
-      "categories": [
-        "anime",
-        "goods"
-      ],
-      "works": [
-        "kusuriya"
-      ],
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": true
     },
     {
       "id": "d783a8d375c6",
