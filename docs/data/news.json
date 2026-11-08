@@ -1,18 +1,18 @@
 {
-  "updatedAt": "2026-11-08T05:00:16.177Z",
+  "updatedAt": "2026-11-08T05:30:17.636Z",
   "site": {
     "title": "なろう系まとめ",
     "tagline": "小説家になろう発の作品のアニメ化・コミカライズ・書籍化のニュースと、なろうのランキングをまとめています。",
     "url": "https://naroumatome.gamelab.website/",
     "contactUrl": "https://docs.google.com/forms/d/e/1FAIpQLSesWyhmZ6sRS_ve-c3X2KqF_wC5PK2TgwgQbTKmnQltSlg5Jw/viewform"
   },
-  "total": 81,
+  "total": 79,
   "todayCount": 10,
   "categories": [
     {
       "id": "anime",
       "label": "アニメ",
-      "count": 48
+      "count": 47
     },
     {
       "id": "comic",
@@ -27,12 +27,12 @@
     {
       "id": "web",
       "label": "Web小説・賞",
-      "count": 5
+      "count": 4
     },
     {
       "id": "game",
       "label": "ゲーム",
-      "count": 4
+      "count": 5
     },
     {
       "id": "goods",
@@ -62,7 +62,7 @@
       "id": "rezero",
       "title": "Re:ゼロから始める異世界生活",
       "short": "リゼロ",
-      "count": 5
+      "count": 4
     },
     {
       "id": "honzuki",
@@ -224,7 +224,7 @@
       "id": "tenken",
       "title": "転生したら剣でした",
       "short": "転剣",
-      "count": 7
+      "count": 6
     },
     {
       "id": "rupunana",
@@ -343,10 +343,6 @@
       "count": 2
     },
     {
-      "name": "はてなブログ",
-      "count": 2
-    },
-    {
       "name": "オリコンニュース",
       "count": 2
     },
@@ -443,7 +439,7 @@
       "count": 1
     },
     {
-      "name": "ライブドアニュース",
+      "name": "はてなブログ",
       "count": 1
     }
   ],
@@ -867,13 +863,32 @@
     }
   ],
   "churn": {
-    "previousAt": "2026-11-08T04:30:17.897Z",
-    "previousCount": 80,
+    "previousAt": "2026-11-08T05:00:16.177Z",
+    "previousCount": 81,
     "newCount": 1
   },
   "updateGapMin": 30,
-  "nextUpdateAt": "2026-11-08T05:30:16.177Z",
+  "nextUpdateAt": "2026-11-08T06:00:17.636Z",
   "items": [
+    {
+      "id": "b76a22c628f3",
+      "title": "アニメ『ゲーム世界転生〈ダン活〉～ゲーマーは【ダンジョン就活のススメ】を〈はじめから〉プレイする～』OPテーマの音源や追加キャストも解禁されたティザーPVが公開",
+      "url": "https://ln-news.com/articles/127135",
+      "host": "ln-news.com",
+      "source": "ラノベニュースオンライン",
+      "summary": "",
+      "publishedAt": "2026-11-08T05:30:00.000Z",
+      "image": "https://assets.ln-news.com/images/medias/c5248932badb4ca39965229e4bae4c80.jpg",
+      "categories": [
+        "anime",
+        "game"
+      ],
+      "works": [],
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": true
+    },
     {
       "id": "180739db449d",
       "title": "【まおりゅう】神智リムル[神智ノ魔王]の評価とスキル【転スラ】",
@@ -1007,26 +1022,6 @@
       "viaGoogle": false,
       "sourceKind": "news",
       "isNew": false
-    },
-    {
-      "id": "00c005cb4b52",
-      "title": "リゼロ5期はいつ？4期奪還編の最新状況と放送時期・原作範囲を予想",
-      "url": "https://anisaki.hatenadiary.com/entry/rezero-season5",
-      "host": "anisaki.hatenadiary.com",
-      "source": "はてなブログ",
-      "summary": "",
-      "publishedAt": "2026-11-08T02:07:00.000Z",
-      "image": "https://cdn.image.st-hatena.com/image/scale/fabefec8e25241eb9adb82efdc4916a4380d1cee/backend=imagemagick;version=1;width=1300/https%3A%2F%2Fcdn-ak.f.st-hatena.com%2Fimages%2Ffotolife%2Fs%2Fshikisoku%2F20260521%2F20260521023711.png",
-      "categories": [
-        "anime"
-      ],
-      "works": [
-        "rezero"
-      ],
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": true
     },
     {
       "id": "01e4edf73b90",
@@ -1555,12 +1550,12 @@
     {
       "id": "38bee673e629",
       "title": "ワークマン×『薬屋のひとりごと』コラボグッズが猫猫並に有能だった…! 11月6日発売の全4アイテムを詳しくレビュー",
-      "url": "https://news.yahoo.co.jp/articles/dc21c08672386d735dcffce713ad6d4f0bbc864b/images/000",
+      "url": "https://news.yahoo.co.jp/articles/dc21c08672386d735dcffce713ad6d4f0bbc864b",
       "host": "news.yahoo.co.jp",
       "source": "Yahoo!ニュース",
       "summary": "",
       "publishedAt": "2026-11-06T08:31:00.000Z",
-      "image": "https://news-pctr.c.yimg.jp/uUzvQ3lML_bkIqyakc1vFhNrRI0RUQxg5aFkrX0xDg1_T0wXrbEJjtNGtrf1o9y32aKHaE9S6KKOAHNM7AL26k1qlcVX2jleqnYiQgbh97uHQW2xJwis8_AU5jkqVMOuWtREhLeInv9ZlFKqdD2Qx3AWQGJRK8mpE33iUbl-mtWo49cH2glLNo9b6eLIKf_Hm7hNk-12E5VjSnQ-RxizAw==",
+      "image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20261106-00000004-mynavin-000-1-view.jpg?exp=10800",
       "categories": [
         "goods"
       ],
@@ -2418,44 +2413,6 @@
         "other"
       ],
       "works": [],
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": false
-    },
-    {
-      "id": "0fa91380cbe9",
-      "title": "「愛され妻になろう」は単なる手段！不倫解決カウンセラーが警鐘を鳴らすSNSノウハウの罠",
-      "url": "https://news.livedoor.com/topics/detail/32737839/",
-      "host": "news.livedoor.com",
-      "source": "ライブドアニュース",
-      "summary": "",
-      "publishedAt": "2026-11-05T05:05:00.000Z",
-      "image": "https://image.news.livedoor.com/newsimage/stf/9/2/92f7b_1845_a14ec905_144f8bba.jpg",
-      "categories": [
-        "web"
-      ],
-      "works": [],
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": false
-    },
-    {
-      "id": "127ce20875ad",
-      "title": "アニメ『転生したら剣でしたII』第5話「別れの時は笑顔でした」のあらすじ＆先行カット解禁",
-      "url": "https://ln-news.com/articles/127115",
-      "host": "ln-news.com",
-      "source": "ラノベニュースオンライン",
-      "summary": "",
-      "publishedAt": "2026-11-04T10:00:00.000Z",
-      "image": "https://assets.ln-news.com/images/medias/fec73fdbe54c49e09c6d4e4af2775fa2.jpg",
-      "categories": [
-        "anime"
-      ],
-      "works": [
-        "tenken"
-      ],
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
