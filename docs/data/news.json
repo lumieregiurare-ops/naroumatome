@@ -1,18 +1,18 @@
 {
-  "updatedAt": "2026-11-08T20:00:17.322Z",
+  "updatedAt": "2026-11-08T20:30:19.792Z",
   "site": {
     "title": "なろう系まとめ",
     "tagline": "小説家になろう発の作品のアニメ化・コミカライズ・書籍化のニュースと、なろうのランキングをまとめています。",
     "url": "https://naroumatome.gamelab.website/",
     "contactUrl": "https://docs.google.com/forms/d/e/1FAIpQLSesWyhmZ6sRS_ve-c3X2KqF_wC5PK2TgwgQbTKmnQltSlg5Jw/viewform"
   },
-  "total": 78,
+  "total": 77,
   "todayCount": 4,
   "categories": [
     {
       "id": "anime",
       "label": "アニメ",
-      "count": 47
+      "count": 46
     },
     {
       "id": "comic",
@@ -307,10 +307,6 @@
       "count": 4
     },
     {
-      "name": "ABEMA",
-      "count": 4
-    },
-    {
       "name": "アニメ！アニメ！",
       "count": 4
     },
@@ -328,6 +324,10 @@
     },
     {
       "name": "AppMedia",
+      "count": 3
+    },
+    {
+      "name": "ABEMA",
       "count": 3
     },
     {
@@ -820,12 +820,12 @@
     }
   ],
   "churn": {
-    "previousAt": "2026-11-08T19:30:15.970Z",
+    "previousAt": "2026-11-08T20:00:17.322Z",
     "previousCount": 78,
-    "newCount": 1
+    "newCount": 0
   },
   "updateGapMin": 30,
-  "nextUpdateAt": "2026-11-08T20:30:17.322Z",
+  "nextUpdateAt": "2026-11-08T21:00:19.792Z",
   "items": [
     {
       "id": "b62b674e429f",
@@ -893,24 +893,6 @@
       "source": "ABEMA",
       "summary": "",
       "publishedAt": "2026-11-08T15:00:00.000Z",
-      "image": "",
-      "categories": [
-        "anime"
-      ],
-      "works": [],
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": false
-    },
-    {
-      "id": "048856b88e3c",
-      "title": "異世界・ファンタジーアニメ4チャンネル | 無料で放送中の番組や配信中の話題作が見放題",
-      "url": "https://abema.tv/now-on-air/isekai-anime-4",
-      "host": "abema.tv",
-      "source": "ABEMA",
-      "summary": "",
-      "publishedAt": "2026-11-08T14:54:51.000Z",
       "image": "",
       "categories": [
         "anime"
@@ -1975,7 +1957,7 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "e04383540144",
