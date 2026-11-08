@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-08T19:00:19.218Z",
+  "updatedAt": "2026-11-08T19:30:15.970Z",
   "site": {
     "title": "なろう系まとめ",
     "tagline": "小説家になろう発の作品のアニメ化・コミカライズ・書籍化のニュースと、なろうのランキングをまとめています。",
@@ -7,7 +7,7 @@
     "contactUrl": "https://docs.google.com/forms/d/e/1FAIpQLSesWyhmZ6sRS_ve-c3X2KqF_wC5PK2TgwgQbTKmnQltSlg5Jw/viewform"
   },
   "total": 78,
-  "todayCount": 3,
+  "todayCount": 4,
   "categories": [
     {
       "id": "anime",
@@ -307,11 +307,11 @@
       "count": 5
     },
     {
-      "name": "ABEMA",
+      "name": "WEBザテレビジョン",
       "count": 4
     },
     {
-      "name": "WEBザテレビジョン",
+      "name": "ABEMA",
       "count": 4
     },
     {
@@ -403,7 +403,7 @@
       "count": 1
     },
     {
-      "name": "ニコニコニュース",
+      "name": "ダ・ヴィンチWeb",
       "count": 1
     },
     {
@@ -827,13 +827,31 @@
     }
   ],
   "churn": {
-    "previousAt": "2026-11-08T18:30:19.169Z",
-    "previousCount": 77,
-    "newCount": 1
+    "previousAt": "2026-11-08T19:00:19.218Z",
+    "previousCount": 78,
+    "newCount": 0
   },
   "updateGapMin": 30,
-  "nextUpdateAt": "2026-11-08T19:30:19.218Z",
+  "nextUpdateAt": "2026-11-08T20:00:15.970Z",
   "items": [
+    {
+      "id": "b62b674e429f",
+      "title": "チー付与＞山下大輝×Lynn×柴田理恵スペシャル鼎談「なんでキングギドラと戦ってるの!?」柴田が驚愕したカオスな異世界とキャラクターの濃すぎる魅力",
+      "url": "https://thetv.jp/news/detail/1454273/",
+      "host": "thetv.jp",
+      "source": "WEBザテレビジョン",
+      "summary": "",
+      "publishedAt": "2026-11-08T19:24:01.000Z",
+      "image": "https://thetv.jp/i/nw/1454273/19050800.jpg?w=1284",
+      "categories": [
+        "other"
+      ],
+      "works": [],
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": false
+    },
     {
       "id": "86c279374abe",
       "title": "異世界・ファンタジーアニメ5チャンネル | 無料で放送中の番組や配信中の話題作が見放題",
@@ -850,7 +868,7 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "180739db449d",
@@ -1241,24 +1259,6 @@
       "isNew": false
     },
     {
-      "id": "b62b674e429f",
-      "title": "チー付与＞山下大輝×Lynn×柴田理恵スペシャル鼎談「なんでキングギドラと戦ってるの!?」柴田が驚愕したカオスな異世界とキャラクターの濃すぎる魅力",
-      "url": "https://thetv.jp/news/detail/1454273/",
-      "host": "thetv.jp",
-      "source": "WEBザテレビジョン",
-      "summary": "",
-      "publishedAt": "2026-11-07T03:00:05.000Z",
-      "image": "https://thetv.jp/i/nw/1454273/19050800.jpg?w=1284",
-      "categories": [
-        "other"
-      ],
-      "works": [],
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": false
-    },
-    {
       "id": "748ff4b20495",
       "title": "アニメ『転生したら剣でしたII』新章突入キービジュアル第2弾＆PV第3弾が公開",
       "url": "https://ln-news.com/articles/127153",
@@ -1614,18 +1614,20 @@
       "isNew": false
     },
     {
-      "id": "2ffe224f5b3b",
-      "title": "【異世界コミック読み放題】Kindle+で『無敵商人の異世界成り上がり物語』など話題作を満喫しよう",
-      "url": "https://news.nicovideo.jp/watch/nw19964286",
-      "host": "news.nicovideo.jp",
-      "source": "ニコニコニュース",
+      "id": "7d3f679c40bb",
+      "title": "アニメ「薬屋のひとりごと」毛毛とは何者？読み方や正体、猫猫・壬氏との関係は？ | アニメニュース | アニメフリークス",
+      "url": "https://times.abema.tv/articles/-/10159771",
+      "host": "times.abema.tv",
+      "source": "ABEMA TIMES",
       "summary": "",
-      "publishedAt": "2026-11-06T08:36:07.000Z",
-      "image": "",
+      "publishedAt": "2026-11-06T08:31:00.000Z",
+      "image": "https://times-abema.ismcdn.jp/mwimgs/5/4/1200w/img_54acf90cdfe1552c0ca4ac91ec6edcaa120869.jpg",
       "categories": [
-        "comic"
+        "anime"
       ],
-      "works": [],
+      "works": [
+        "kusuriya"
+      ],
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
@@ -1642,26 +1644,6 @@
       "image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20261106-00000004-mynavin-000-1-view.jpg?exp=10800",
       "categories": [
         "goods"
-      ],
-      "works": [
-        "kusuriya"
-      ],
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": false
-    },
-    {
-      "id": "7d3f679c40bb",
-      "title": "アニメ「薬屋のひとりごと」毛毛とは何者？読み方や正体、猫猫・壬氏との関係は？ | アニメニュース | アニメフリークス",
-      "url": "https://times.abema.tv/articles/-/10159771",
-      "host": "times.abema.tv",
-      "source": "ABEMA TIMES",
-      "summary": "",
-      "publishedAt": "2026-11-06T08:31:00.000Z",
-      "image": "https://times-abema.ismcdn.jp/mwimgs/5/4/1200w/img_54acf90cdfe1552c0ca4ac91ec6edcaa120869.jpg",
-      "categories": [
-        "anime"
       ],
       "works": [
         "kusuriya"
@@ -1707,6 +1689,24 @@
         "tensei-kizoku"
       ],
       "isPR": true,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": false
+    },
+    {
+      "id": "2ffe224f5b3b",
+      "title": "【異世界コミック読み放題】Kindle+で『無敵商人の異世界成り上がり物語』など話題作を満喫しよう",
+      "url": "https://ddnavi.com/article/1455181/a/",
+      "host": "ddnavi.com",
+      "source": "ダ・ヴィンチWeb",
+      "summary": "",
+      "publishedAt": "2026-11-06T08:00:00.000Z",
+      "image": "",
+      "categories": [
+        "comic"
+      ],
+      "works": [],
+      "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
       "isNew": false
