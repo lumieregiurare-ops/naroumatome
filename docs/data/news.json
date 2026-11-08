@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-08T17:00:17.240Z",
+  "updatedAt": "2026-11-08T17:30:17.202Z",
   "site": {
     "title": "なろう系まとめ",
     "tagline": "小説家になろう発の作品のアニメ化・コミカライズ・書籍化のニュースと、なろうのランキングをまとめています。",
@@ -12,7 +12,7 @@
     {
       "id": "anime",
       "label": "アニメ",
-      "count": 46
+      "count": 47
     },
     {
       "id": "comic",
@@ -37,12 +37,12 @@
     {
       "id": "goods",
       "label": "グッズ・イベント",
-      "count": 10
+      "count": 11
     },
     {
       "id": "other",
       "label": "そのほか",
-      "count": 18
+      "count": 17
     }
   ],
   "works": [
@@ -315,10 +315,6 @@
       "count": 4
     },
     {
-      "name": "オリコンニュース",
-      "count": 4
-    },
-    {
       "name": "ABEMA TIMES",
       "count": 4
     },
@@ -328,6 +324,10 @@
     },
     {
       "name": "AppMedia",
+      "count": 3
+    },
+    {
+      "name": "オリコンニュース",
       "count": 3
     },
     {
@@ -344,6 +344,10 @@
     },
     {
       "name": "TVer",
+      "count": 2
+    },
+    {
+      "name": "PASH! PLUS",
       "count": 2
     },
     {
@@ -388,10 +392,6 @@
     },
     {
       "name": "Howl.Link",
-      "count": 1
-    },
-    {
-      "name": "PASH! PLUS",
       "count": 1
     },
     {
@@ -827,12 +827,12 @@
     }
   ],
   "churn": {
-    "previousAt": "2026-11-08T16:30:16.422Z",
+    "previousAt": "2026-11-08T17:00:17.240Z",
     "previousCount": 77,
     "newCount": 1
   },
   "updateGapMin": 30,
-  "nextUpdateAt": "2026-11-08T17:30:17.240Z",
+  "nextUpdateAt": "2026-11-08T18:00:17.202Z",
   "items": [
     {
       "id": "180739db449d",
@@ -1184,26 +1184,6 @@
       "id": "408a10b32b3b",
       "title": "関連写真 | 日テレの河出奈都美アナ、最新コスプレにネット衝撃 『薬屋のひとりごと』猫猫姿で「アクセサリーは自作」",
       "url": "https://www.oricon.co.jp/news/2491431/embed/photo/?anc",
-      "host": "oricon.co.jp",
-      "source": "オリコンニュース",
-      "summary": "",
-      "publishedAt": "2026-11-07T06:42:00.000Z",
-      "image": "https://contents.oricon.co.jp/upimg/news/2492000/2491431/20210727_095150_p_o_6731.jpg",
-      "categories": [
-        "other"
-      ],
-      "works": [
-        "kusuriya"
-      ],
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": false
-    },
-    {
-      "id": "22f5c16093c6",
-      "title": "日テレの河出奈都美アナ、最新コスプレにネット衝撃 『薬屋のひとりごと』猫猫姿で「アクセサリーは自作」",
-      "url": "https://www.oricon.co.jp/news/2491431/full/",
       "host": "oricon.co.jp",
       "source": "オリコンニュース",
       "summary": "",
@@ -1964,6 +1944,27 @@
       "isNew": false
     },
     {
+      "id": "257240facd2e",
+      "title": "アニメ『薬屋のひとりごと』舞台はついに西の地へ――。第54話「紙の村(前編)」あらすじ＆先行カット到着。旅路設定画も初公開！",
+      "url": "https://www.pashplus.jp/anime/501719/",
+      "host": "pashplus.jp",
+      "source": "PASH! PLUS",
+      "summary": "",
+      "publishedAt": "2026-11-06T04:48:55.000Z",
+      "image": "https://www.pashplus.jp/wp-content/uploads/40cb1d6ced3d490b2183cc1e188f5c4d.jpg",
+      "categories": [
+        "anime",
+        "goods"
+      ],
+      "works": [
+        "kusuriya"
+      ],
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": true
+    },
+    {
       "id": "e04383540144",
       "title": "「薬屋のひとりごと」ひらめきで挑む謎解き×調合体験！完全オリジナルストーリーのリアル脱出ゲーム開催 (アニメ！アニメ！)",
       "url": "https://news.yahoo.co.jp/articles/cb6de44681aa6d8117de984763a994a535930992/images/000",
@@ -2002,7 +2003,7 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "355f0c9f591d",
