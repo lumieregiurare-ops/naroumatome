@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-08T21:30:17.938Z",
+  "updatedAt": "2026-11-08T22:00:18.124Z",
   "site": {
     "title": "なろう系まとめ",
     "tagline": "小説家になろう発の作品のアニメ化・コミカライズ・書籍化のニュースと、なろうのランキングをまとめています。",
@@ -37,7 +37,7 @@
     {
       "id": "goods",
       "label": "グッズ・イベント",
-      "count": 12
+      "count": 11
     },
     {
       "id": "other",
@@ -56,7 +56,7 @@
       "id": "mushoku",
       "title": "無職転生 ～異世界行ったら本気だす～",
       "short": "無職転生",
-      "count": 7
+      "count": 6
     },
     {
       "id": "rezero",
@@ -327,20 +327,16 @@
       "count": 3
     },
     {
+      "name": "ABEMA",
+      "count": 3
+    },
+    {
       "name": "オリコンニュース",
       "count": 3
     },
     {
       "name": "PR TIMES",
       "count": 3
-    },
-    {
-      "name": "山陽新聞",
-      "count": 2
-    },
-    {
-      "name": "ABEMA",
-      "count": 2
     },
     {
       "name": "オタク総研",
@@ -384,6 +380,10 @@
     },
     {
       "name": "TBSテレビ",
+      "count": 1
+    },
+    {
+      "name": "山陽新聞",
       "count": 1
     },
     {
@@ -809,12 +809,12 @@
     }
   ],
   "churn": {
-    "previousAt": "2026-11-08T21:00:17.351Z",
-    "previousCount": 78,
-    "newCount": 2
+    "previousAt": "2026-11-08T21:30:17.938Z",
+    "previousCount": 77,
+    "newCount": 1
   },
   "updateGapMin": 30,
-  "nextUpdateAt": "2026-11-08T22:00:17.938Z",
+  "nextUpdateAt": "2026-11-08T22:30:18.124Z",
   "items": [
     {
       "id": "458d52c91f72",
@@ -835,7 +835,7 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "b62b674e429f",
@@ -876,27 +876,6 @@
       "isNew": false
     },
     {
-      "id": "8c6879a78202",
-      "title": "中島美嘉×ヒトリエのコラボ曲がTVアニメ『無職転生III』EDテーマに決定「新しい性格の曲をいただけた」",
-      "url": "https://www.sanyonews.jp/article/1932697",
-      "host": "sanyonews.jp",
-      "source": "山陽新聞",
-      "summary": "",
-      "publishedAt": "2026-11-08T15:14:43.000Z",
-      "image": "https://static.sanyonews.jp/image/article/size1/c/5/d/9/c5d93e04c1f598b8b620326155fe4832_1.jpg",
-      "categories": [
-        "anime",
-        "goods"
-      ],
-      "works": [
-        "mushoku"
-      ],
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": true
-    },
-    {
       "id": "7cced13db001",
       "title": "TVアニメ「転生したら剣でしたⅡ」シードラン編突入記念特番",
       "url": "https://abema.tv/channels/abema-anime/slots/BDbG6nGuy8wUyd",
@@ -915,6 +894,24 @@
       "viaGoogle": false,
       "sourceKind": "news",
       "isNew": false
+    },
+    {
+      "id": "86c279374abe",
+      "title": "異世界・ファンタジーアニメ5チャンネル | 無料で放送中の番組や配信中の話題作が見放題",
+      "url": "https://abema.tv/now-on-air/isekai-anime-5",
+      "host": "abema.tv",
+      "source": "ABEMA",
+      "summary": "",
+      "publishedAt": "2026-11-08T15:00:00.000Z",
+      "image": "",
+      "categories": [
+        "anime"
+      ],
+      "works": [],
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": true
     },
     {
       "id": "8a5338780bdc",
@@ -944,7 +941,7 @@
       "source": "WEBザテレビジョン",
       "summary": "",
       "publishedAt": "2026-11-08T09:49:52.000Z",
-      "image": "https://thetv.jp/i/nw/1455243/19085873.jpg?w=1284",
+      "image": "",
       "categories": [
         "game"
       ],
