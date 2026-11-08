@@ -1,18 +1,18 @@
 {
-  "updatedAt": "2026-11-08T00:30:16.210Z",
+  "updatedAt": "2026-11-08T01:00:17.605Z",
   "site": {
     "title": "なろう系まとめ",
     "tagline": "小説家になろう発の作品のアニメ化・コミカライズ・書籍化のニュースと、なろうのランキングをまとめています。",
     "url": "https://naroumatome.gamelab.website/",
     "contactUrl": "https://docs.google.com/forms/d/e/1FAIpQLSesWyhmZ6sRS_ve-c3X2KqF_wC5PK2TgwgQbTKmnQltSlg5Jw/viewform"
   },
-  "total": 78,
+  "total": 77,
   "todayCount": 5,
   "categories": [
     {
       "id": "anime",
       "label": "アニメ",
-      "count": 43
+      "count": 42
     },
     {
       "id": "comic",
@@ -62,7 +62,7 @@
       "id": "rezero",
       "title": "Re:ゼロから始める異世界生活",
       "short": "リゼロ",
-      "count": 5
+      "count": 4
     },
     {
       "id": "honzuki",
@@ -300,7 +300,7 @@
     },
     {
       "name": "ラノベニュースオンライン",
-      "count": 6
+      "count": 5
     },
     {
       "name": "ナタリー",
@@ -869,12 +869,12 @@
     }
   ],
   "churn": {
-    "previousAt": "2026-11-07T23:56:18.387Z",
+    "previousAt": "2026-11-08T00:30:16.210Z",
     "previousCount": 78,
-    "newCount": 1
+    "newCount": 0
   },
   "updateGapMin": 30,
-  "nextUpdateAt": "2026-11-08T01:00:16.210Z",
+  "nextUpdateAt": "2026-11-08T01:30:17.605Z",
   "items": [
     {
       "id": "01e4edf73b90",
@@ -1973,7 +1973,7 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "3eecae0d78b4",
@@ -2383,26 +2383,6 @@
       ],
       "works": [
         "tenken"
-      ],
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": false
-    },
-    {
-      "id": "5b2695ed0e76",
-      "title": "アニメ『Re：ゼロから始める異世界生活』VRChat向けデジタルファッションが登場",
-      "url": "https://ln-news.com/articles/127099",
-      "host": "ln-news.com",
-      "source": "ラノベニュースオンライン",
-      "summary": "",
-      "publishedAt": "2026-11-04T07:00:00.000Z",
-      "image": "https://assets.ln-news.com/images/medias/81cfd661fd614bfda72250dd986f2fb2.jpg",
-      "categories": [
-        "anime"
-      ],
-      "works": [
-        "rezero"
       ],
       "isPR": false,
       "viaGoogle": false,
