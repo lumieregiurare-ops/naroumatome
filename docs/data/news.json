@@ -1,12 +1,12 @@
 {
-  "updatedAt": "2026-11-08T23:00:21.447Z",
+  "updatedAt": "2026-11-08T23:30:16.593Z",
   "site": {
     "title": "なろう系まとめ",
     "tagline": "小説家になろう発の作品のアニメ化・コミカライズ・書籍化のニュースと、なろうのランキングをまとめています。",
     "url": "https://naroumatome.gamelab.website/",
     "contactUrl": "https://docs.google.com/forms/d/e/1FAIpQLSesWyhmZ6sRS_ve-c3X2KqF_wC5PK2TgwgQbTKmnQltSlg5Jw/viewform"
   },
-  "total": 77,
+  "total": 76,
   "todayCount": 6,
   "categories": [
     {
@@ -37,12 +37,12 @@
     {
       "id": "goods",
       "label": "グッズ・イベント",
-      "count": 11
+      "count": 12
     },
     {
       "id": "other",
       "label": "そのほか",
-      "count": 20
+      "count": 19
     }
   ],
   "works": [
@@ -303,19 +303,19 @@
       "count": 6
     },
     {
-      "name": "ABEMA TIMES",
-      "count": 5
-    },
-    {
-      "name": "ナタリー",
-      "count": 5
-    },
-    {
       "name": "WEBザテレビジョン",
       "count": 4
     },
     {
       "name": "アニメ！アニメ！",
+      "count": 4
+    },
+    {
+      "name": "ABEMA TIMES",
+      "count": 4
+    },
+    {
+      "name": "ナタリー",
       "count": 4
     },
     {
@@ -344,6 +344,10 @@
     },
     {
       "name": "TVer",
+      "count": 2
+    },
+    {
+      "name": "PASH! PLUS",
       "count": 2
     },
     {
@@ -400,10 +404,6 @@
     },
     {
       "name": "Howl.Link",
-      "count": 1
-    },
-    {
-      "name": "PASH! PLUS",
       "count": 1
     },
     {
@@ -781,12 +781,12 @@
     }
   ],
   "churn": {
-    "previousAt": "2026-11-08T22:30:17.834Z",
-    "previousCount": 79,
+    "previousAt": "2026-11-08T23:00:21.447Z",
+    "previousCount": 77,
     "newCount": 1
   },
   "updateGapMin": 30,
-  "nextUpdateAt": "2026-11-08T23:30:21.447Z",
+  "nextUpdateAt": "2026-11-09T00:00:16.593Z",
   "items": [
     {
       "id": "4494aacda085",
@@ -1336,26 +1336,6 @@
       "isNew": false
     },
     {
-      "id": "b0e508c77413",
-      "title": "アニメ「薬屋のひとりごと」猫猫（まおまお）の声優・年齢は？壬氏との関係、父親と母親、小指の理由まで解説",
-      "url": "https://times.abema.tv/articles/-/10093734",
-      "host": "times.abema.tv",
-      "source": "ABEMA TIMES",
-      "summary": "",
-      "publishedAt": "2026-11-06T14:41:00.000Z",
-      "image": "https://times-abema.ismcdn.jp/mwimgs/e/a/1200w/img_eacc8726428673014d463c6fc8a53efa208165.jpg",
-      "categories": [
-        "anime"
-      ],
-      "works": [
-        "kusuriya"
-      ],
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": true
-    },
-    {
       "id": "ee237dc8ed84",
       "title": "アニメ『薬屋のひとりごと』3期はいつから？2026年10月2日から分割2クールで放送！原作のどこからどこまで？",
       "url": "https://times.abema.tv/articles/-/10078716",
@@ -1386,24 +1366,6 @@
       "image": "",
       "categories": [
         "anime"
-      ],
-      "works": [],
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": false
-    },
-    {
-      "id": "fbc146f9d1af",
-      "title": "「聞き間違いから始まる異世界開拓」の試し読み [画像ギャラリー 5/10]",
-      "url": "https://natalie.mu/comic/gallery/news/696953/3010546",
-      "host": "natalie.mu",
-      "source": "ナタリー",
-      "summary": "",
-      "publishedAt": "2026-11-06T11:46:09.000Z",
-      "image": "",
-      "categories": [
-        "other"
       ],
       "works": [],
       "isPR": false,
@@ -1977,6 +1939,27 @@
       "viaGoogle": false,
       "sourceKind": "news",
       "isNew": false
+    },
+    {
+      "id": "257240facd2e",
+      "title": "アニメ『薬屋のひとりごと』舞台はついに西の地へ――。第54話「紙の村(前編)」あらすじ＆先行カット到着。旅路設定画も初公開！",
+      "url": "https://www.pashplus.jp/anime/501719/",
+      "host": "pashplus.jp",
+      "source": "PASH! PLUS",
+      "summary": "",
+      "publishedAt": "2026-11-06T04:48:55.000Z",
+      "image": "https://www.pashplus.jp/wp-content/uploads/40cb1d6ced3d490b2183cc1e188f5c4d.jpg",
+      "categories": [
+        "anime",
+        "goods"
+      ],
+      "works": [
+        "kusuriya"
+      ],
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": true
     },
     {
       "id": "e04383540144",
