@@ -1,18 +1,18 @@
 {
-  "updatedAt": "2026-11-09T14:30:20.734Z",
+  "updatedAt": "2026-11-09T15:00:20.159Z",
   "site": {
     "title": "なろう系まとめ",
     "tagline": "小説家になろう発の作品のアニメ化・コミカライズ・書籍化のニュースと、なろうのランキングをまとめています。",
     "url": "https://naroumatome.gamelab.website/",
     "contactUrl": "https://docs.google.com/forms/d/e/1FAIpQLSesWyhmZ6sRS_ve-c3X2KqF_wC5PK2TgwgQbTKmnQltSlg5Jw/viewform"
   },
-  "total": 74,
-  "todayCount": 43,
+  "total": 75,
+  "todayCount": 0,
   "categories": [
     {
       "id": "anime",
       "label": "アニメ",
-      "count": 46
+      "count": 48
     },
     {
       "id": "comic",
@@ -22,7 +22,7 @@
     {
       "id": "book",
       "label": "書籍・ラノベ",
-      "count": 6
+      "count": 7
     },
     {
       "id": "web",
@@ -37,12 +37,12 @@
     {
       "id": "goods",
       "label": "グッズ・イベント",
-      "count": 11
+      "count": 13
     },
     {
       "id": "other",
       "label": "そのほか",
-      "count": 16
+      "count": 14
     }
   ],
   "works": [
@@ -56,7 +56,7 @@
       "id": "mushoku",
       "title": "無職転生 ～異世界行ったら本気だす～",
       "short": "無職転生",
-      "count": 2
+      "count": 4
     },
     {
       "id": "rezero",
@@ -74,7 +74,7 @@
       "id": "kusuriya",
       "title": "薬屋のひとりごと",
       "short": "薬屋",
-      "count": 33
+      "count": 32
     },
     {
       "id": "kagejitsu",
@@ -296,15 +296,11 @@
   "sources": [
     {
       "name": "山陽新聞",
-      "count": 7
+      "count": 9
     },
     {
       "name": "Yahoo!ニュース",
       "count": 6
-    },
-    {
-      "name": "ABEMA TIMES",
-      "count": 5
     },
     {
       "name": "ラノベニュースオンライン",
@@ -315,11 +311,11 @@
       "count": 5
     },
     {
-      "name": "PR TIMES",
-      "count": 3
+      "name": "ABEMA TIMES",
+      "count": 4
     },
     {
-      "name": "WEBザテレビジョン",
+      "name": "PR TIMES",
       "count": 3
     },
     {
@@ -327,7 +323,15 @@
       "count": 2
     },
     {
+      "name": "WEBザテレビジョン",
+      "count": 2
+    },
+    {
       "name": "ナタリー",
+      "count": 2
+    },
+    {
+      "name": "ライブドアニュース",
       "count": 2
     },
     {
@@ -336,10 +340,6 @@
     },
     {
       "name": "マイナビニュース",
-      "count": 2
-    },
-    {
-      "name": "オリコンニュース",
       "count": 2
     },
     {
@@ -371,10 +371,6 @@
       "count": 1
     },
     {
-      "name": "ライブドアニュース",
-      "count": 1
-    },
-    {
       "name": "smart-flash.jp",
       "count": 1
     },
@@ -400,6 +396,10 @@
     },
     {
       "name": "https://www.ten-sura.com/",
+      "count": 1
+    },
+    {
+      "name": "tenki.jp",
       "count": 1
     },
     {
@@ -436,6 +436,10 @@
     },
     {
       "name": "USENの音楽情報サイト",
+      "count": 1
+    },
+    {
+      "name": "オリコンニュース",
       "count": 1
     },
     {
@@ -685,44 +689,15 @@
           "isPR": false
         }
       ]
-    },
-    {
-      "id": "9fe251274de8",
-      "title": "『信者ゼロの女神サマと始める異世界攻略』",
-      "summary": "",
-      "url": "https://www.oricon.co.jp/anime/1216/",
-      "image": "https://contents.oricon.co.jp/anime/img/1000/1216/base/img1200/tv-program-image-f5105eea201e9449bbe7b6510a88b4d60ff90f007d4ace31c5008fdfb8ca8715.jpg",
-      "leadSource": "オリコンニュース",
-      "publishedAt": "2026-11-09T02:54:00.000Z",
-      "sourceCount": 2,
-      "articleCount": 2,
-      "categories": [
-        "other",
-        "anime"
-      ],
-      "keywords": [
-        "信者",
-        "女神",
-        "異世界攻略"
-      ],
-      "articles": [
-        {
-          "title": "アニメ『信者ゼロの女神サマと始める異世界攻略』の視聴方法！動画配信サービス、あらすじを解説",
-          "url": "https://spocale.com/blog/shinja-zero-anime-streaming/",
-          "source": "スポカレ",
-          "publishedAt": "2026-11-07T22:10:50.000Z",
-          "isPR": false
-        }
-      ]
     }
   ],
   "churn": {
-    "previousAt": "2026-11-09T14:00:18.509Z",
-    "previousCount": 75,
-    "newCount": 3
+    "previousAt": "2026-11-09T14:30:20.734Z",
+    "previousCount": 74,
+    "newCount": 4
   },
   "updateGapMin": 30,
-  "nextUpdateAt": "2026-11-09T15:00:20.734Z",
+  "nextUpdateAt": "2026-11-09T15:30:20.159Z",
   "items": [
     {
       "id": "5f5f981dfa87",
@@ -741,7 +716,7 @@
       "isPR": true,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "86c279374abe",
@@ -957,6 +932,24 @@
       "isNew": false
     },
     {
+      "id": "563b45ebe137",
+      "title": "【画像】鈴木このみ、ついに“悪役令嬢もの”の主題歌を歌う！TVアニメ『弱気MAX令嬢』OPテーマ「強気MAX宣言」に込めた“かましたれ”精神と30代の新しい挑戦に迫る！ - ライブドアニュース",
+      "url": "https://news.livedoor.com/article/image_detail/32771949/?img_id",
+      "host": "news.livedoor.com",
+      "source": "ライブドアニュース",
+      "summary": "",
+      "publishedAt": "2026-11-09T09:13:24.000Z",
+      "image": "https://image.news.livedoor.com/newsimage/stf/1/0/10381_1516_28cdf2fd_70dd4fca.jpg",
+      "categories": [
+        "anime"
+      ],
+      "works": [],
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": true
+    },
+    {
       "id": "3fcaafa94fd6",
       "title": "【薬屋のひとりごと】猫猫＆壬氏の《きゅるみー》が再登場！ 上目遣いが可愛いミニフィギュア全2種",
       "url": "https://dengekionline.com/article/202611/93505",
@@ -1046,26 +1039,6 @@
       ],
       "works": [
         "tensura"
-      ],
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": false
-    },
-    {
-      "id": "fec5585115be",
-      "title": "「激変しすぎ」薬屋のひとりごと・壬氏の傷が巨大化!? ”異変のワケ”判明し「美しさ隠せてない」「破壊力すごい」（マグミクス）",
-      "url": "https://news.yahoo.co.jp/articles/842a0611eb38d306807effc712015c05fc8b3fb8",
-      "host": "news.yahoo.co.jp",
-      "source": "Yahoo!ニュース",
-      "summary": "",
-      "publishedAt": "2026-11-09T08:20:00.000Z",
-      "image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20261109-00384626-magmix-000-4-view.jpg?exp=10800",
-      "categories": [
-        "other"
-      ],
-      "works": [
-        "kusuriya"
       ],
       "isPR": false,
       "viaGoogle": false,
@@ -1389,24 +1362,6 @@
       "isNew": false
     },
     {
-      "id": "9fe251274de8",
-      "title": "『信者ゼロの女神サマと始める異世界攻略』",
-      "url": "https://www.oricon.co.jp/anime/1216/",
-      "host": "oricon.co.jp",
-      "source": "オリコンニュース",
-      "summary": "",
-      "publishedAt": "2026-11-09T02:54:00.000Z",
-      "image": "https://contents.oricon.co.jp/anime/img/1000/1216/base/img1200/tv-program-image-f5105eea201e9449bbe7b6510a88b4d60ff90f007d4ace31c5008fdfb8ca8715.jpg",
-      "categories": [
-        "other"
-      ],
-      "works": [],
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": true
-    },
-    {
       "id": "8459bee04904",
       "title": "『薬屋のひとりごと』変装した壬氏登場…第54話あらすじ＆場面カット公開 旅路設定画も解禁（オリコン）",
       "url": "https://news.yahoo.co.jp/articles/de7e28a5d3bef4f510c5b176af563071f0af0606",
@@ -1417,6 +1372,46 @@
       "image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20261105-00000456-oric-000-2-view.jpg?exp=10800",
       "categories": [
         "anime"
+      ],
+      "works": [
+        "kusuriya"
+      ],
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": false
+    },
+    {
+      "id": "0de9d62d7712",
+      "title": "『無職転生』第3期、第1話＆第2話あらすじ＆場面カット公開 “第1期以来の登場”エリスが剣の聖地へ",
+      "url": "https://www.sanyonews.jp/article/1947902?kw",
+      "host": "sanyonews.jp",
+      "source": "山陽新聞",
+      "summary": "",
+      "publishedAt": "2026-11-09T02:33:57.000Z",
+      "image": "https://static.sanyonews.jp/image/article/size1/3/a/0/d/3a0dc05a8e2327e75794b644c6b57b15_1.jpg",
+      "categories": [
+        "anime"
+      ],
+      "works": [
+        "mushoku"
+      ],
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": true
+    },
+    {
+      "id": "616e4171c3f6",
+      "title": "『薬屋のひとりごと』ハロウィン企画ビジュアル＆ミニボイスドラマ公開 3日連続解禁で第1弾は猫猫＆趙迂",
+      "url": "https://www.sanyonews.jp/article/2012864?kw",
+      "host": "sanyonews.jp",
+      "source": "山陽新聞",
+      "summary": "",
+      "publishedAt": "2026-11-09T02:33:54.000Z",
+      "image": "https://static.sanyonews.jp/image/article/size1/2/2/6/9/22691045f5f76de9d50170d05e001015_1.jpg",
+      "categories": [
+        "other"
       ],
       "works": [
         "kusuriya"
@@ -1448,16 +1443,17 @@
       "isNew": false
     },
     {
-      "id": "616e4171c3f6",
-      "title": "『薬屋のひとりごと』ハロウィン企画ビジュアル＆ミニボイスドラマ公開 3日連続解禁で第1弾は猫猫＆趙迂",
-      "url": "https://www.sanyonews.jp/article/2012864?kw",
-      "host": "sanyonews.jp",
-      "source": "山陽新聞",
+      "id": "3b6d7b2bc3d7",
+      "title": "【期間限定】『薬屋のひとりごと』原作小説カフェ @TOKYOの今日・明日の天気 週末の天気・紫外線情報【お出かけスポット天気】",
+      "url": "https://tenki.jp/leisure/3/16/93/187094/",
+      "host": "tenki.jp",
+      "source": "tenki.jp",
       "summary": "",
-      "publishedAt": "2026-11-09T00:18:32.000Z",
-      "image": "https://static.sanyonews.jp/image/article/size1/2/2/6/9/22691045f5f76de9d50170d05e001015_1.jpg",
+      "publishedAt": "2026-11-09T00:47:39.000Z",
+      "image": "https://d2goguvysdoarq.cloudfront.net/system/facility_photos/photos/307024/normal.jpg?1777519463&w=640&h=640&t=r",
       "categories": [
-        "other"
+        "book",
+        "goods"
       ],
       "works": [
         "kusuriya"
@@ -1465,7 +1461,7 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": false
+      "isNew": true
     },
     {
       "id": "458d52c91f72",
@@ -1483,24 +1479,6 @@
       "works": [
         "kusuriya"
       ],
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": false
-    },
-    {
-      "id": "b62b674e429f",
-      "title": "チー付与＞山下大輝×Lynn×柴田理恵スペシャル鼎談「なんでキングギドラと戦ってるの!?」柴田が驚愕したカオスな異世界とキャラクターの濃すぎる魅力",
-      "url": "https://thetv.jp/news/detail/1454273/",
-      "host": "thetv.jp",
-      "source": "WEBザテレビジョン",
-      "summary": "",
-      "publishedAt": "2026-11-08T19:24:01.000Z",
-      "image": "https://thetv.jp/i/nw/1454273/19050800.jpg?w=1284",
-      "categories": [
-        "other"
-      ],
-      "works": [],
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
@@ -1545,6 +1523,27 @@
       "viaGoogle": false,
       "sourceKind": "news",
       "isNew": false
+    },
+    {
+      "id": "8c6879a78202",
+      "title": "中島美嘉×ヒトリエのコラボ曲がTVアニメ『無職転生III』EDテーマに決定「新しい性格の曲をいただけた」",
+      "url": "https://www.sanyonews.jp/article/1932697",
+      "host": "sanyonews.jp",
+      "source": "山陽新聞",
+      "summary": "",
+      "publishedAt": "2026-11-08T15:14:43.000Z",
+      "image": "https://static.sanyonews.jp/image/article/size1/c/5/d/9/c5d93e04c1f598b8b620326155fe4832_1.jpg",
+      "categories": [
+        "anime",
+        "goods"
+      ],
+      "works": [
+        "mushoku"
+      ],
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": true
     },
     {
       "id": "7cced13db001",
@@ -1874,7 +1873,7 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "22f5c16093c6",
@@ -1951,6 +1950,24 @@
       "works": [
         "mushoku"
       ],
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": false
+    },
+    {
+      "id": "b62b674e429f",
+      "title": "チー付与＞山下大輝×Lynn×柴田理恵スペシャル鼎談「なんでキングギドラと戦ってるの!?」柴田が驚愕したカオスな異世界とキャラクターの濃すぎる魅力（WEBザテレビジョン）",
+      "url": "https://news.yahoo.co.jp/articles/c3d5e408f6d2ec4d4d0126622af80fd06f1222b2",
+      "host": "news.yahoo.co.jp",
+      "source": "Yahoo!ニュース",
+      "summary": "",
+      "publishedAt": "2026-11-07T03:00:04.000Z",
+      "image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20261107-01454273-the_tv-000-1-view.jpg?exp=10800",
+      "categories": [
+        "other"
+      ],
+      "works": [],
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
@@ -2122,26 +2139,6 @@
       "summary": "",
       "publishedAt": "2026-11-06T15:19:59.000Z",
       "image": "",
-      "categories": [
-        "anime"
-      ],
-      "works": [
-        "kusuriya"
-      ],
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": false
-    },
-    {
-      "id": "b0e508c77413",
-      "title": "アニメ「薬屋のひとりごと」猫猫（まおまお）の声優・年齢は？壬氏との関係、父親と母親、小指の理由まで解説",
-      "url": "https://times.abema.tv/articles/-/10093734",
-      "host": "times.abema.tv",
-      "source": "ABEMA TIMES",
-      "summary": "",
-      "publishedAt": "2026-11-06T14:41:00.000Z",
-      "image": "https://times-abema.ismcdn.jp/mwimgs/e/a/1200w/img_eacc8726428673014d463c6fc8a53efa208165.jpg",
       "categories": [
         "anime"
       ],
