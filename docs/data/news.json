@@ -1,18 +1,18 @@
 {
-  "updatedAt": "2026-11-09T01:00:17.867Z",
+  "updatedAt": "2026-11-09T01:30:17.506Z",
   "site": {
     "title": "なろう系まとめ",
     "tagline": "小説家になろう発の作品のアニメ化・コミカライズ・書籍化のニュースと、なろうのランキングをまとめています。",
     "url": "https://naroumatome.gamelab.website/",
     "contactUrl": "https://docs.google.com/forms/d/e/1FAIpQLSesWyhmZ6sRS_ve-c3X2KqF_wC5PK2TgwgQbTKmnQltSlg5Jw/viewform"
   },
-  "total": 81,
-  "todayCount": 6,
+  "total": 80,
+  "todayCount": 7,
   "categories": [
     {
       "id": "anime",
       "label": "アニメ",
-      "count": 47
+      "count": 46
     },
     {
       "id": "comic",
@@ -37,7 +37,7 @@
     {
       "id": "goods",
       "label": "グッズ・イベント",
-      "count": 11
+      "count": 12
     },
     {
       "id": "other",
@@ -224,7 +224,7 @@
       "id": "tenken",
       "title": "転生したら剣でした",
       "short": "転剣",
-      "count": 3
+      "count": 2
     },
     {
       "id": "rupunana",
@@ -307,16 +307,20 @@
       "count": 6
     },
     {
-      "name": "ナタリー",
-      "count": 5
+      "name": "WEBザテレビジョン",
+      "count": 4
     },
     {
-      "name": "WEBザテレビジョン",
+      "name": "ナタリー",
       "count": 4
     },
     {
       "name": "GameWith",
       "count": 4
+    },
+    {
+      "name": "PR TIMES",
+      "count": 3
     },
     {
       "name": "AppMedia",
@@ -351,15 +355,7 @@
       "count": 2
     },
     {
-      "name": "PR TIMES",
-      "count": 2
-    },
-    {
       "name": "KADOKAWAオフィシャルサイト",
-      "count": 2
-    },
-    {
-      "name": "Infoseek",
       "count": 2
     },
     {
@@ -423,6 +419,10 @@
       "count": 1
     },
     {
+      "name": "Infoseek",
+      "count": 1
+    },
+    {
       "name": "ダ・ヴィンチWeb",
       "count": 1
     },
@@ -449,7 +449,7 @@
       "leadSource": "福井新聞社",
       "publishedAt": "2026-11-08T01:59:05.000Z",
       "sourceCount": 4,
-      "articleCount": 7,
+      "articleCount": 6,
       "categories": [
         "other",
         "anime"
@@ -479,13 +479,6 @@
           "url": "https://news.yahoo.co.jp/articles/00062eeab783ff8c660d65b483e1228b796a474a",
           "source": "Yahoo!ニュース",
           "publishedAt": "2026-11-06T05:07:15.000Z",
-          "isPR": false
-        },
-        {
-          "title": "「劇場版 薬屋のひとりごと 亡妃の秘宝」ビジュアル [画像・動画ギャラリー 2/3]",
-          "url": "https://natalie.mu/comic/gallery/news/696866/3009969",
-          "source": "ナタリー",
-          "publishedAt": "2026-11-06T04:07:53.000Z",
           "isPR": false
         },
         {
@@ -851,13 +844,34 @@
     }
   ],
   "churn": {
-    "previousAt": "2026-11-09T00:30:19.426Z",
-    "previousCount": 80,
-    "newCount": 5
+    "previousAt": "2026-11-09T01:00:17.867Z",
+    "previousCount": 81,
+    "newCount": 1
   },
   "updateGapMin": 30,
-  "nextUpdateAt": "2026-11-09T01:30:17.867Z",
+  "nextUpdateAt": "2026-11-09T02:00:17.506Z",
   "items": [
+    {
+      "id": "483a7fb4c41e",
+      "title": "『劇場版 薬屋のひとりごと 亡妃の秘宝』×「ばかうけ」が初コラボ！猫猫（マオマオ）たちが「ばかうけ」に登場 ～オリジナルデザインの限定パッケージで11月23日（月・祝）より発売～",
+      "url": "https://prtimes.jp/main/html/rd/p/000000164.000063435.html",
+      "host": "prtimes.jp",
+      "source": "PR TIMES",
+      "summary": "",
+      "publishedAt": "2026-11-09T01:00:02.000Z",
+      "image": "https://prcdn.freetls.fastly.net/release_image/63435/164/63435-164-6303883014272fdb5bd8ba2468588224-418x295.jpg?format=jpeg&auto=webp&fit=bounds&width=2400&height=1260",
+      "categories": [
+        "anime",
+        "goods"
+      ],
+      "works": [
+        "kusuriya"
+      ],
+      "isPR": true,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": true
+    },
     {
       "id": "4494aacda085",
       "title": "【コスプレ】艶めく紫のピッチリボディスーツで美脚×ヒップラインが際立つ！雨の中で魅せる「リゼロ」エミリアの可憐な立ち姿【写真10枚】",
@@ -1033,7 +1047,7 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "11ff5432d9b8",
@@ -1187,7 +1201,7 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "01e4edf73b90",
@@ -1246,7 +1260,7 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "01371568aec8",
@@ -1481,7 +1495,7 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "282dbf30641d",
@@ -2085,7 +2099,7 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "531abdcc2b23",
@@ -2250,26 +2264,6 @@
       "isNew": false
     },
     {
-      "id": "cd6e60563c05",
-      "title": "「劇場版 薬屋のひとりごと 亡妃の秘宝」ビジュアル [画像・動画ギャラリー 2/3]",
-      "url": "https://natalie.mu/comic/gallery/news/696866/3009969",
-      "host": "natalie.mu",
-      "source": "ナタリー",
-      "summary": "",
-      "publishedAt": "2026-11-06T04:07:53.000Z",
-      "image": "",
-      "categories": [
-        "anime"
-      ],
-      "works": [
-        "kusuriya"
-      ],
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": false
-    },
-    {
       "id": "d783a8d375c6",
       "title": "「劇場版 薬屋のひとりごと」猫猫＆壬氏がTOHO-ONEに興味津々なコラボ動画（動画あり）",
       "url": "https://natalie.mu/comic/news/696866",
@@ -2384,26 +2378,6 @@
       ],
       "works": [
         "mushoku"
-      ],
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": false
-    },
-    {
-      "id": "8f64b0133934",
-      "title": "『転生したら剣でしたII』新章突入記念！キャスト出演特番放送",
-      "url": "https://news.infoseek.co.jp/article/entameplex_23569/",
-      "host": "news.infoseek.co.jp",
-      "source": "Infoseek",
-      "summary": "",
-      "publishedAt": "2026-11-06T01:30:00.000Z",
-      "image": "https://media.image.infoseek.co.jp/isnews/photos/entameplex/entameplex_23569_0.jpg",
-      "categories": [
-        "anime"
-      ],
-      "works": [
-        "tenken"
       ],
       "isPR": false,
       "viaGoogle": false,
