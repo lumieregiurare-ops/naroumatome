@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-09T22:00:19.136Z",
+  "updatedAt": "2026-11-09T22:30:20.509Z",
   "site": {
     "title": "なろう系まとめ",
     "tagline": "小説家になろう発の作品のアニメ化・コミカライズ・書籍化のニュースと、なろうのランキングをまとめています。",
@@ -300,7 +300,7 @@
     },
     {
       "name": "Yahoo!ニュース",
-      "count": 6
+      "count": 7
     },
     {
       "name": "ラノベニュースオンライン",
@@ -319,16 +319,16 @@
       "count": 4
     },
     {
-      "name": "ABEMA",
+      "name": "電撃オンライン",
       "count": 3
+    },
+    {
+      "name": "ABEMA",
+      "count": 2
     },
     {
       "name": "WEBザテレビジョン",
-      "count": 3
-    },
-    {
-      "name": "電撃オンライン",
-      "count": 3
+      "count": 2
     },
     {
       "name": "ライブドアニュース",
@@ -440,6 +440,10 @@
     },
     {
       "name": "SHIBUYA TSUTAYA",
+      "count": 1
+    },
+    {
+      "name": "USENの音楽情報サイト",
       "count": 1
     },
     {
@@ -795,42 +799,15 @@
           "isPR": false
         }
       ]
-    },
-    {
-      "id": "458d52c91f72",
-      "title": "アニメ「薬屋のひとりごと」グッズや番組特製QUOカードなどが当たる！データ放送 [d]ボタンからプレゼントに応募しよう【11/9～11/15の実施企画一覧】",
-      "summary": "",
-      "url": "https://www.ntv.co.jp/topics/articles/19ubrel1o7hm1571ps.html",
-      "image": "https://www.ntv.co.jp/topics/articles/images/611gv8tdlhplune42j30otz0l8lcsn.png",
-      "leadSource": "日本テレビ",
-      "publishedAt": "2026-11-08T21:15:52.000Z",
-      "sourceCount": 2,
-      "articleCount": 2,
-      "categories": [
-        "anime",
-        "goods"
-      ],
-      "keywords": [
-        "薬屋"
-      ],
-      "articles": [
-        {
-          "title": "薬屋のひとりごと 第3期 #55・見逃し放送",
-          "url": "https://abema.tv/channels/abema-anime/slots/FC7DzjwBuvgNRu",
-          "source": "ABEMA",
-          "publishedAt": "2026-11-06T22:28:22.000Z",
-          "isPR": false
-        }
-      ]
     }
   ],
   "churn": {
-    "previousAt": "2026-11-09T21:30:21.891Z",
-    "previousCount": 79,
-    "newCount": 2
+    "previousAt": "2026-11-09T22:00:19.136Z",
+    "previousCount": 78,
+    "newCount": 1
   },
   "updateGapMin": 30,
-  "nextUpdateAt": "2026-11-09T22:30:19.136Z",
+  "nextUpdateAt": "2026-11-09T23:00:20.509Z",
   "items": [
     {
       "id": "e7d92728590e",
@@ -850,7 +827,7 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "d037145a529d",
@@ -1752,24 +1729,6 @@
       "isNew": false
     },
     {
-      "id": "b62b674e429f",
-      "title": "チー付与＞山下大輝×Lynn×柴田理恵スペシャル鼎談「なんでキングギドラと戦ってるの!?」柴田が驚愕したカオスな異世界とキャラクターの濃すぎる魅力",
-      "url": "https://thetv.jp/news/detail/1454273/",
-      "host": "thetv.jp",
-      "source": "WEBザテレビジョン",
-      "summary": "",
-      "publishedAt": "2026-11-08T19:24:01.000Z",
-      "image": "https://thetv.jp/i/nw/1454273/19050800.jpg?w=1284",
-      "categories": [
-        "other"
-      ],
-      "works": [],
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": false
-    },
-    {
       "id": "35523dc4cfd8",
       "title": "『片田舎のおっさん、剣聖になる』サーベルボア討伐 第2期の第5話あらすじ＆場面カット解禁",
       "url": "https://www.sanyonews.jp/article/1966527?rct",
@@ -1807,7 +1766,7 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "8c6879a78202",
@@ -2201,6 +2160,26 @@
       "isNew": false
     },
     {
+      "id": "1828e4c743eb",
+      "title": "第１弾CMが大反響！猫猫と壬氏がヨルシカ新曲について会話するTV アニメ『薬屋のひとりごと』エクスクルーシブCM第２弾が地上波放送内オンエア。",
+      "url": "https://e.usen.com/news/news-release/cmtv-cm.html",
+      "host": "e.usen.com",
+      "source": "USENの音楽情報サイト",
+      "summary": "",
+      "publishedAt": "2026-11-07T07:02:46.000Z",
+      "image": "https://e.usen.com/image/a9b5fd65f77b13e50596f7bdb1dddb8f7e6b9542.jpg",
+      "categories": [
+        "anime"
+      ],
+      "works": [
+        "kusuriya"
+      ],
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": true
+    },
+    {
       "id": "22f5c16093c6",
       "title": "日テレの河出奈都美アナ、最新コスプレにネット衝撃 『薬屋のひとりごと』猫猫姿で「アクセサリーは自作」",
       "url": "https://www.oricon.co.jp/news/2491431/full/",
@@ -2281,6 +2260,24 @@
       "isNew": false
     },
     {
+      "id": "b62b674e429f",
+      "title": "チー付与＞山下大輝×Lynn×柴田理恵スペシャル鼎談「なんでキングギドラと戦ってるの!?」柴田が驚愕したカオスな異世界とキャラクターの濃すぎる魅力（WEBザテレビジョン）",
+      "url": "https://news.yahoo.co.jp/articles/c3d5e408f6d2ec4d4d0126622af80fd06f1222b2",
+      "host": "news.yahoo.co.jp",
+      "source": "Yahoo!ニュース",
+      "summary": "",
+      "publishedAt": "2026-11-07T03:00:04.000Z",
+      "image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20261107-01454273-the_tv-000-1-view.jpg?exp=10800",
+      "categories": [
+        "other"
+      ],
+      "works": [],
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": false
+    },
+    {
       "id": "db2859ad6e6d",
       "title": "ロリータ＆ゴシックテーマ衣装の描き下ろしイラストに胸キュン！TVアニメ「無職転生III",
       "url": "https://news.nicovideo.jp/watch/nw19966779",
@@ -2314,26 +2311,6 @@
       ],
       "works": [
         "tenken"
-      ],
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": false
-    },
-    {
-      "id": "1615e9d935d0",
-      "title": "薬屋のひとりごと 第3期 #55・見逃し放送",
-      "url": "https://abema.tv/channels/abema-anime/slots/FC7DzjwBuvgNRu",
-      "host": "abema.tv",
-      "source": "ABEMA",
-      "summary": "",
-      "publishedAt": "2026-11-06T22:28:22.000Z",
-      "image": "",
-      "categories": [
-        "anime"
-      ],
-      "works": [
-        "kusuriya"
       ],
       "isPR": false,
       "viaGoogle": false,
