@@ -1,18 +1,18 @@
 {
-  "updatedAt": "2026-11-09T06:01:22.921Z",
+  "updatedAt": "2026-11-09T06:30:20.639Z",
   "site": {
     "title": "なろう系まとめ",
     "tagline": "小説家になろう発の作品のアニメ化・コミカライズ・書籍化のニュースと、なろうのランキングをまとめています。",
     "url": "https://naroumatome.gamelab.website/",
     "contactUrl": "https://docs.google.com/forms/d/e/1FAIpQLSesWyhmZ6sRS_ve-c3X2KqF_wC5PK2TgwgQbTKmnQltSlg5Jw/viewform"
   },
-  "total": 81,
+  "total": 82,
   "todayCount": 20,
   "categories": [
     {
       "id": "anime",
       "label": "アニメ",
-      "count": 49
+      "count": 50
     },
     {
       "id": "comic",
@@ -27,7 +27,7 @@
     {
       "id": "web",
       "label": "Web小説・賞",
-      "count": 4
+      "count": 5
     },
     {
       "id": "game",
@@ -74,7 +74,7 @@
       "id": "kusuriya",
       "title": "薬屋のひとりごと",
       "short": "薬屋",
-      "count": 35
+      "count": 36
     },
     {
       "id": "kagejitsu",
@@ -295,12 +295,12 @@
   ],
   "sources": [
     {
-      "name": "山陽新聞",
-      "count": 7
+      "name": "Yahoo!ニュース",
+      "count": 8
     },
     {
-      "name": "Yahoo!ニュース",
-      "count": 7
+      "name": "山陽新聞",
+      "count": 6
     },
     {
       "name": "ABEMA TIMES",
@@ -315,15 +315,19 @@
       "count": 5
     },
     {
-      "name": "ABEMA",
-      "count": 4
-    },
-    {
       "name": "オリコンニュース",
       "count": 4
     },
     {
       "name": "AppMedia",
+      "count": 3
+    },
+    {
+      "name": "ABEMA",
+      "count": 3
+    },
+    {
+      "name": "WEBザテレビジョン",
       "count": 3
     },
     {
@@ -335,11 +339,11 @@
       "count": 2
     },
     {
-      "name": "福井新聞社",
+      "name": "eeo",
       "count": 2
     },
     {
-      "name": "WEBザテレビジョン",
+      "name": "福井新聞社",
       "count": 2
     },
     {
@@ -423,15 +427,7 @@
       "count": 1
     },
     {
-      "name": "時事ドットコム",
-      "count": 1
-    },
-    {
       "name": "PASH! PLUS",
-      "count": 1
-    },
-    {
-      "name": "eeo",
       "count": 1
     },
     {
@@ -445,6 +441,10 @@
     {
       "name": "ぴあエンタメ情報",
       "count": 1
+    },
+    {
+      "name": "Koubo",
+      "count": 1
     }
   ],
   "topics": [
@@ -456,8 +456,8 @@
       "image": "https://www.niikei.jp/wp-content/uploads/2026/11/7129bcb382bd6a2b3cbd9be9df4daec2-e1794199225384.jpg",
       "leadSource": "にいがた経済新聞",
       "publishedAt": "2026-11-09T05:08:21.000Z",
-      "sourceCount": 5,
-      "articleCount": 7,
+      "sourceCount": 6,
+      "articleCount": 8,
       "categories": [
         "goods",
         "anime"
@@ -473,6 +473,13 @@
           "url": "https://www.niigata-nippo.co.jp/articles/-/939253",
           "source": "新潟日報",
           "publishedAt": "2026-11-09T04:19:21.000Z",
+          "isPR": false
+        },
+        {
+          "title": "TVアニメ『薬屋のひとりごと』3期6話のあらすじ公開！ 猫猫は、虞淵（やぶ医者）の⾥帰りに同⾏するようで…",
+          "url": "https://eeo.today/media/2026/11/05/409795/",
+          "source": "eeo",
+          "publishedAt": "2026-11-09T03:53:27.000Z",
           "isPR": false
         },
         {
@@ -640,33 +647,6 @@
       ]
     },
     {
-      "id": "458d52c91f72",
-      "title": "アニメ「薬屋のひとりごと」グッズや番組特製QUOカードなどが当たる！データ放送 [d]ボタンからプレゼントに応募しよう【11/9～11/15の実施企画一覧】",
-      "summary": "",
-      "url": "https://www.ntv.co.jp/topics/articles/19ubrel1o7hm1571ps.html",
-      "image": "https://www.ntv.co.jp/topics/articles/images/611gv8tdlhplune42j30otz0l8lcsn.png",
-      "leadSource": "日本テレビ",
-      "publishedAt": "2026-11-08T21:15:52.000Z",
-      "sourceCount": 2,
-      "articleCount": 2,
-      "categories": [
-        "anime",
-        "goods"
-      ],
-      "keywords": [
-        "薬屋"
-      ],
-      "articles": [
-        {
-          "title": "薬屋のひとりごと 第3期 #54・見逃し放送",
-          "url": "https://abema.tv/channels/abema-anime/slots/8tqzjfe4jLSTpT",
-          "source": "ABEMA",
-          "publishedAt": "2026-11-07T01:25:11.000Z",
-          "isPR": false
-        }
-      ]
-    },
-    {
       "id": "cdf84b7c8b47",
       "title": "薬屋のひとりごと＞リアル脱出ゲーム オリジナル録り下ろしボイスの謎解き×調合体験「殺意潜む祝宴からの脱出」全国で開催",
       "summary": "",
@@ -698,10 +678,10 @@
       "id": "528ab15ffd00",
       "title": "『薬屋のひとりごと』最新話に反響 猫猫と壬氏の距離に変化？白鈴の核心つく一言に「それがまたいい」",
       "summary": "",
-      "url": "https://www.fukuishimbun.co.jp/articles/gallery/2721986",
+      "url": "https://www.fukuishimbun.co.jp/articles/gallery/2721986?ph",
       "image": "https://fki.ismcdn.jp/mwimgs/7/e/-/img_7e3179615b6c91a08d79bf3b90f64d7975123.jpg",
       "leadSource": "福井新聞社",
-      "publishedAt": "2026-11-08T04:46:54.000Z",
+      "publishedAt": "2026-11-08T01:59:05.000Z",
       "sourceCount": 2,
       "articleCount": 2,
       "categories": [
@@ -864,15 +844,44 @@
           "isPR": true
         }
       ]
+    },
+    {
+      "id": "c6eb292a7a1b",
+      "title": "プレスリリース：人間と魔物の共生を目指す異世界お仕事ファンタジー！WEBマンガ『魔物学者ニニアの日誌』単行本第1巻が本日「ピッコマ」にて配信開始。単行本版限定描き下ろしも必見！（PR TIMES）",
+      "summary": "",
+      "url": "https://mainichi.jp/articles/20261106/pr2/00m/020/975000c",
+      "image": "https://prcdn.freetls.fastly.net/release_image/51825/837/51825-837-ac11ca8e49b1808f83cb6a0cdaceed64-1920x1080.jpg?format=jpeg&auto=webp&fit=bounds&width=2400&height=1260",
+      "leadSource": "毎日新聞",
+      "publishedAt": "2026-11-06T09:23:04.000Z",
+      "sourceCount": 2,
+      "articleCount": 2,
+      "categories": [
+        "anime",
+        "comic"
+      ],
+      "keywords": [
+        "web",
+        "ファンタジー",
+        "マンガ"
+      ],
+      "articles": [
+        {
+          "title": "人間と魔物の共生を目指す異世界お仕事ファンタジー！WEBマンガ『魔物学者ニニアの日誌』単行本第1巻が本日「ピッコマ」にて配信開始。単行本版限定描き下ろしも必見！",
+          "url": "https://prtimes.jp/main/html/rd/p/000000837.000051825.html",
+          "source": "PR TIMES",
+          "publishedAt": "2026-11-06T09:00:02.000Z",
+          "isPR": true
+        }
+      ]
     }
   ],
   "churn": {
-    "previousAt": "2026-11-09T05:30:27.613Z",
-    "previousCount": 78,
-    "newCount": 8
+    "previousAt": "2026-11-09T06:01:22.921Z",
+    "previousCount": 81,
+    "newCount": 3
   },
   "updateGapMin": 30,
-  "nextUpdateAt": "2026-11-09T06:31:22.921Z",
+  "nextUpdateAt": "2026-11-09T07:00:20.639Z",
   "items": [
     {
       "id": "19a4ca74b764",
@@ -932,7 +941,7 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "483a7fb4c41e",
@@ -954,6 +963,26 @@
       "viaGoogle": false,
       "sourceKind": "news",
       "isNew": false
+    },
+    {
+      "id": "3eecae0d78b4",
+      "title": "TVアニメ『薬屋のひとりごと』3期6話のあらすじ公開！ 猫猫は、虞淵（やぶ医者）の⾥帰りに同⾏するようで…",
+      "url": "https://eeo.today/media/2026/11/05/409795/",
+      "host": "eeo.today",
+      "source": "eeo",
+      "summary": "",
+      "publishedAt": "2026-11-09T03:53:27.000Z",
+      "image": "https://eeo.today/media/wp-content/uploads/2026/11/EP54①（©）.jpg",
+      "categories": [
+        "anime"
+      ],
+      "works": [
+        "kusuriya"
+      ],
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": true
     },
     {
       "id": "67a2dbbe5cfc",
@@ -1073,7 +1102,7 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "8459bee04904",
@@ -1094,26 +1123,6 @@
       "viaGoogle": false,
       "sourceKind": "news",
       "isNew": false
-    },
-    {
-      "id": "0de9d62d7712",
-      "title": "『無職転生』第3期、第1話＆第2話あらすじ＆場面カット公開 “第1期以来の登場”エリスが剣の聖地へ",
-      "url": "https://www.sanyonews.jp/article/1947902?kw",
-      "host": "sanyonews.jp",
-      "source": "山陽新聞",
-      "summary": "",
-      "publishedAt": "2026-11-09T02:33:57.000Z",
-      "image": "https://static.sanyonews.jp/image/article/size1/3/a/0/d/3a0dc05a8e2327e75794b644c6b57b15_1.jpg",
-      "categories": [
-        "anime"
-      ],
-      "works": [
-        "mushoku"
-      ],
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": true
     },
     {
       "id": "4494aacda085",
@@ -1174,7 +1183,7 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "180739db449d",
@@ -1214,7 +1223,7 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "8c6879a78202",
@@ -1235,7 +1244,7 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "7cced13db001",
@@ -1375,26 +1384,6 @@
       "isNew": false
     },
     {
-      "id": "528ab15ffd00",
-      "title": "『薬屋のひとりごと』最新話に反響 猫猫と壬氏の距離に変化？白鈴の核心つく一言に「それがまたいい」",
-      "url": "https://www.fukuishimbun.co.jp/articles/gallery/2721986",
-      "host": "fukuishimbun.co.jp",
-      "source": "福井新聞社",
-      "summary": "",
-      "publishedAt": "2026-11-08T04:46:54.000Z",
-      "image": "https://fki.ismcdn.jp/mwimgs/7/e/-/img_7e3179615b6c91a08d79bf3b90f64d7975123.jpg",
-      "categories": [
-        "other"
-      ],
-      "works": [
-        "kusuriya"
-      ],
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": false
-    },
-    {
       "id": "14c5d7f334b8",
       "title": "柴田理恵、今期アニメに“暗殺の母”として出演…裏側を告白「チートって何だか分からなく…」異世界用語に困惑",
       "url": "https://0115765.com/archives/212741",
@@ -1490,6 +1479,26 @@
       "isNew": false
     },
     {
+      "id": "528ab15ffd00",
+      "title": "『薬屋のひとりごと』最新話に反響 猫猫と壬氏の距離に変化？白鈴の核心つく一言に「それがまたいい」",
+      "url": "https://www.fukuishimbun.co.jp/articles/gallery/2721986?ph",
+      "host": "fukuishimbun.co.jp",
+      "source": "福井新聞社",
+      "summary": "",
+      "publishedAt": "2026-11-08T01:59:05.000Z",
+      "image": "https://fki.ismcdn.jp/mwimgs/7/e/-/img_7e3179615b6c91a08d79bf3b90f64d7975123.jpg",
+      "categories": [
+        "other"
+      ],
+      "works": [
+        "kusuriya"
+      ],
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": false
+    },
+    {
       "id": "01e4edf73b90",
       "title": "アニメ『信者ゼロの女神サマと始める異世界攻略』の視聴方法！動画配信サービス、あらすじを解説",
       "url": "https://spocale.com/blog/shinja-zero-anime-streaming/",
@@ -1506,6 +1515,27 @@
       "viaGoogle": false,
       "sourceKind": "news",
       "isNew": false
+    },
+    {
+      "id": "af7c881d3c65",
+      "title": "2026年、新作夏アニメのABEMA最終ランキングを発表「無職転生3」が再生数・コメント数の両部門で1位を獲得",
+      "url": "https://thetv.jp/news/detail/1453469/landing/",
+      "host": "thetv.jp",
+      "source": "WEBザテレビジョン",
+      "summary": "",
+      "publishedAt": "2026-11-07T21:36:38.000Z",
+      "image": "",
+      "categories": [
+        "anime",
+        "web"
+      ],
+      "works": [
+        "mushoku"
+      ],
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": true
     },
     {
       "id": "a4301d08b098",
@@ -1665,6 +1695,26 @@
       "isNew": false
     },
     {
+      "id": "d9be21ec09a1",
+      "title": "本日放送の『薬屋のひとりごと』放送時間変更へ 壬氏の“頬の傷”激変のワケも判明か？（マグミクス）",
+      "url": "https://news.yahoo.co.jp/articles/372c728ae727f94579a6bdf2bfc98ad8ad896ea4",
+      "host": "news.yahoo.co.jp",
+      "source": "Yahoo!ニュース",
+      "summary": "",
+      "publishedAt": "2026-11-07T04:43:00.000Z",
+      "image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20261106-00384274-magmix-000-17-view.jpg?exp=10800",
+      "categories": [
+        "anime"
+      ],
+      "works": [
+        "kusuriya"
+      ],
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": true
+    },
+    {
       "id": "f1e344fb9da2",
       "title": "#本好きの下剋上 本好き詰め合わせ10 - 彩音のイラスト - pixiv",
       "url": "https://t.co/YRgWMf1sba",
@@ -1702,7 +1752,7 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "b62b674e429f",
@@ -1723,26 +1773,6 @@
       "isNew": false
     },
     {
-      "id": "1615e9d935d0",
-      "title": "薬屋のひとりごと 第3期 #54・見逃し放送",
-      "url": "https://abema.tv/channels/abema-anime/slots/8tqzjfe4jLSTpT",
-      "host": "abema.tv",
-      "source": "ABEMA",
-      "summary": "",
-      "publishedAt": "2026-11-07T01:25:11.000Z",
-      "image": "",
-      "categories": [
-        "anime"
-      ],
-      "works": [
-        "kusuriya"
-      ],
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": true
-    },
-    {
       "id": "748ff4b20495",
       "title": "アニメ『転生したら剣でしたII』新章突入キービジュアル第2弾＆PV第3弾が公開",
       "url": "https://ln-news.com/articles/127153",
@@ -1757,24 +1787,6 @@
       "works": [
         "tenken"
       ],
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": false
-    },
-    {
-      "id": "7431af147a97",
-      "title": "【新作発売記念】平鳥コウ『〈完全版〉ＪＫハルは異世界で娼婦になった autumn』（新潮文庫nex）購入者特典配布中！",
-      "url": "https://www.jiji.com/jc/article?k",
-      "host": "jiji.com",
-      "source": "時事ドットコム",
-      "summary": "",
-      "publishedAt": "2026-11-06T18:40:00.000Z",
-      "image": "",
-      "categories": [
-        "book"
-      ],
-      "works": [],
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
@@ -2417,6 +2429,24 @@
       "categories": [
         "anime",
         "comic"
+      ],
+      "works": [],
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": false
+    },
+    {
+      "id": "7431af147a97",
+      "title": "【新作発売記念】平鳥コウ『〈完全版〉ＪＫハルは異世界で娼婦になった autumn』（新潮文庫nex）購入者特典配布中！",
+      "url": "https://koubo.jp/press-release/prtimes/c47877_r3404",
+      "host": "koubo.jp",
+      "source": "Koubo",
+      "summary": "",
+      "publishedAt": "2026-11-06T06:30:48.000Z",
+      "image": "",
+      "categories": [
+        "book"
       ],
       "works": [],
       "isPR": false,
