@@ -1,18 +1,18 @@
 {
-  "updatedAt": "2026-11-09T21:00:18.795Z",
+  "updatedAt": "2026-11-09T21:30:21.891Z",
   "site": {
     "title": "なろう系まとめ",
     "tagline": "小説家になろう発の作品のアニメ化・コミカライズ・書籍化のニュースと、なろうのランキングをまとめています。",
     "url": "https://naroumatome.gamelab.website/",
     "contactUrl": "https://docs.google.com/forms/d/e/1FAIpQLSesWyhmZ6sRS_ve-c3X2KqF_wC5PK2TgwgQbTKmnQltSlg5Jw/viewform"
   },
-  "total": 80,
+  "total": 79,
   "todayCount": 7,
   "categories": [
     {
       "id": "anime",
       "label": "アニメ",
-      "count": 50
+      "count": 49
     },
     {
       "id": "comic",
@@ -98,7 +98,7 @@
       "id": "arifureta",
       "title": "ありふれた職業で世界最強",
       "short": "ありふれ",
-      "count": 1
+      "count": 0
     },
     {
       "id": "hachinan",
@@ -296,11 +296,11 @@
   "sources": [
     {
       "name": "山陽新聞",
-      "count": 12
+      "count": 11
     },
     {
       "name": "Yahoo!ニュース",
-      "count": 6
+      "count": 7
     },
     {
       "name": "ラノベニュースオンライン",
@@ -319,7 +319,7 @@
       "count": 4
     },
     {
-      "name": "WEBザテレビジョン",
+      "name": "ABEMA",
       "count": 3
     },
     {
@@ -327,7 +327,7 @@
       "count": 3
     },
     {
-      "name": "ABEMA",
+      "name": "WEBザテレビジョン",
       "count": 2
     },
     {
@@ -344,10 +344,6 @@
     },
     {
       "name": "オタク総研",
-      "count": 2
-    },
-    {
-      "name": "はてなブログ",
       "count": 2
     },
     {
@@ -416,6 +412,10 @@
     },
     {
       "name": "TVer",
+      "count": 1
+    },
+    {
+      "name": "はてなブログ",
       "count": 1
     },
     {
@@ -676,7 +676,7 @@
       "leadSource": "山陽新聞",
       "publishedAt": "2026-11-09T16:27:47.000Z",
       "sourceCount": 2,
-      "articleCount": 4,
+      "articleCount": 3,
       "categories": [
         "other",
         "anime"
@@ -692,13 +692,6 @@
           "url": "https://news.yahoo.co.jp/articles/f59685bbc3c0cdb28aef8e5922e7dc864ff5eb4c",
           "source": "Yahoo!ニュース",
           "publishedAt": "2026-11-09T03:03:00.000Z",
-          "isPR": false
-        },
-        {
-          "title": "『薬屋のひとりごと』猫猫、物乞いへの“贅沢すぎる施し”に違和感 第51話あらすじ＆場面カット公開",
-          "url": "https://www.sanyonews.jp/article/2005343?kw",
-          "source": "山陽新聞",
-          "publishedAt": "2026-11-08T15:20:02.000Z",
           "isPR": false
         },
         {
@@ -820,15 +813,42 @@
           "isPR": false
         }
       ]
+    },
+    {
+      "id": "458d52c91f72",
+      "title": "アニメ「薬屋のひとりごと」グッズや番組特製QUOカードなどが当たる！データ放送 [d]ボタンからプレゼントに応募しよう【11/9～11/15の実施企画一覧】",
+      "summary": "",
+      "url": "https://www.ntv.co.jp/topics/articles/19ubrel1o7hm1571ps.html",
+      "image": "https://www.ntv.co.jp/topics/articles/images/611gv8tdlhplune42j30otz0l8lcsn.png",
+      "leadSource": "日本テレビ",
+      "publishedAt": "2026-11-08T21:15:52.000Z",
+      "sourceCount": 2,
+      "articleCount": 2,
+      "categories": [
+        "anime",
+        "goods"
+      ],
+      "keywords": [
+        "薬屋"
+      ],
+      "articles": [
+        {
+          "title": "薬屋のひとりごと 第3期 #55・見逃し放送",
+          "url": "https://abema.tv/channels/abema-anime/slots/FC7DzjwBuvgNRu",
+          "source": "ABEMA",
+          "publishedAt": "2026-11-06T22:28:22.000Z",
+          "isPR": false
+        }
+      ]
     }
   ],
   "churn": {
-    "previousAt": "2026-11-09T20:30:21.374Z",
-    "previousCount": 78,
-    "newCount": 2
+    "previousAt": "2026-11-09T21:00:18.795Z",
+    "previousCount": 80,
+    "newCount": 1
   },
   "updateGapMin": 30,
-  "nextUpdateAt": "2026-11-09T21:30:18.795Z",
+  "nextUpdateAt": "2026-11-09T22:00:21.891Z",
   "items": [
     {
       "id": "d037145a529d",
@@ -1770,24 +1790,6 @@
       "isNew": false
     },
     {
-      "id": "b62b674e429f",
-      "title": "チー付与＞山下大輝×Lynn×柴田理恵スペシャル鼎談「なんでキングギドラと戦ってるの!?」柴田が驚愕したカオスな異世界とキャラクターの濃すぎる魅力",
-      "url": "https://thetv.jp/news/detail/1454273/",
-      "host": "thetv.jp",
-      "source": "WEBザテレビジョン",
-      "summary": "",
-      "publishedAt": "2026-11-08T19:24:01.000Z",
-      "image": "https://thetv.jp/i/nw/1454273/19050800.jpg?w=1284",
-      "categories": [
-        "other"
-      ],
-      "works": [],
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": false
-    },
-    {
       "id": "35523dc4cfd8",
       "title": "『片田舎のおっさん、剣聖になる』サーベルボア討伐 第2期の第5話あらすじ＆場面カット解禁",
       "url": "https://www.sanyonews.jp/article/1966527?rct",
@@ -1806,26 +1808,6 @@
       "viaGoogle": false,
       "sourceKind": "news",
       "isNew": false
-    },
-    {
-      "id": "46c454fd4b32",
-      "title": "『薬屋のひとりごと』猫猫、物乞いへの“贅沢すぎる施し”に違和感 第51話あらすじ＆場面カット公開",
-      "url": "https://www.sanyonews.jp/article/2005343?kw",
-      "host": "sanyonews.jp",
-      "source": "山陽新聞",
-      "summary": "",
-      "publishedAt": "2026-11-08T15:20:02.000Z",
-      "image": "https://static.sanyonews.jp/image/article/size1/0/2/b/2/02b26e8d4ce18b9a11a95164fff3f2c2_1.jpg",
-      "categories": [
-        "anime"
-      ],
-      "works": [
-        "kusuriya"
-      ],
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": true
     },
     {
       "id": "8c6879a78202",
@@ -2316,7 +2298,25 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": true
+      "isNew": false
+    },
+    {
+      "id": "b62b674e429f",
+      "title": "チー付与＞山下大輝×Lynn×柴田理恵スペシャル鼎談「なんでキングギドラと戦ってるの!?」柴田が驚愕したカオスな異世界とキャラクターの濃すぎる魅力（WEBザテレビジョン）",
+      "url": "https://news.yahoo.co.jp/articles/c3d5e408f6d2ec4d4d0126622af80fd06f1222b2",
+      "host": "news.yahoo.co.jp",
+      "source": "Yahoo!ニュース",
+      "summary": "",
+      "publishedAt": "2026-11-07T03:00:04.000Z",
+      "image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20261107-01454273-the_tv-000-1-view.jpg?exp=10800",
+      "categories": [
+        "other"
+      ],
+      "works": [],
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": false
     },
     {
       "id": "db2859ad6e6d",
@@ -2359,24 +2359,24 @@
       "isNew": false
     },
     {
-      "id": "dfc8b1ef63f6",
-      "title": "ありふれた職業で世界最強4期いつ？アニメの続きは原作何巻から？",
-      "url": "https://anisaki.hatenadiary.com/entry/arifureta-season4-release-date",
-      "host": "anisaki.hatenadiary.com",
-      "source": "はてなブログ",
+      "id": "1615e9d935d0",
+      "title": "薬屋のひとりごと 第3期 #55・見逃し放送",
+      "url": "https://abema.tv/channels/abema-anime/slots/FC7DzjwBuvgNRu",
+      "host": "abema.tv",
+      "source": "ABEMA",
       "summary": "",
-      "publishedAt": "2026-11-06T21:17:00.000Z",
-      "image": "https://cdn.image.st-hatena.com/image/scale/a8230a76b8ecd264d652fda842ca582fd1dfdb41/backend=imagemagick;version=1;width=1300/https%3A%2F%2Fcdn-ak.f.st-hatena.com%2Fimages%2Ffotolife%2Fs%2Fshikisoku%2F20260813%2F20260813125955_m.jpg",
+      "publishedAt": "2026-11-06T22:28:22.000Z",
+      "image": "https://image.p-c2-x.abema-tv.com/image/programs/175-1rthzhecdme_s0_p12/thumb001.png?height=720&quality=75&version=1793952907&width=1280",
       "categories": [
         "anime"
       ],
       "works": [
-        "arifureta"
+        "kusuriya"
       ],
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": false
+      "isNew": true
     },
     {
       "id": "315fcfa977de",
