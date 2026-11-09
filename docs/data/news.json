@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-09T18:30:19.507Z",
+  "updatedAt": "2026-11-09T19:00:20.729Z",
   "site": {
     "title": "なろう系まとめ",
     "tagline": "小説家になろう発の作品のアニメ化・コミカライズ・書籍化のニュースと、なろうのランキングをまとめています。",
@@ -7,12 +7,12 @@
     "contactUrl": "https://docs.google.com/forms/d/e/1FAIpQLSesWyhmZ6sRS_ve-c3X2KqF_wC5PK2TgwgQbTKmnQltSlg5Jw/viewform"
   },
   "total": 79,
-  "todayCount": 6,
+  "todayCount": 7,
   "categories": [
     {
       "id": "anime",
       "label": "アニメ",
-      "count": 46
+      "count": 47
     },
     {
       "id": "comic",
@@ -22,7 +22,7 @@
     {
       "id": "book",
       "label": "書籍・ラノベ",
-      "count": 10
+      "count": 9
     },
     {
       "id": "web",
@@ -311,15 +311,15 @@
       "count": 5
     },
     {
+      "name": "ナタリー",
+      "count": 4
+    },
+    {
       "name": "ニコニコニュース",
       "count": 3
     },
     {
       "name": "PR TIMES",
-      "count": 3
-    },
-    {
-      "name": "ナタリー",
       "count": 3
     },
     {
@@ -448,10 +448,6 @@
     },
     {
       "name": "Howl.Link",
-      "count": 1
-    },
-    {
-      "name": "時事ドットコム",
       "count": 1
     }
   ],
@@ -732,33 +728,6 @@
       ]
     },
     {
-      "id": "5f78c3817a0a",
-      "title": "「悪役令嬢転生おじさん」11巻より [画像ギャラリー 2/5]",
-      "summary": "",
-      "url": "https://natalie.mu/comic/gallery/news/697236/3013249?ref",
-      "image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20261109-00000098-nataliec-000-1-view.jpg?exp=10800",
-      "leadSource": "ナタリー",
-      "publishedAt": "2026-11-09T13:41:04.000Z",
-      "sourceCount": 2,
-      "articleCount": 2,
-      "categories": [
-        "book",
-        "comic"
-      ],
-      "keywords": [
-        "悪役令嬢転生"
-      ],
-      "articles": [
-        {
-          "title": "グレイス＝憲三郎、魔法学園の生徒会長に？「悪役令嬢転生おじさん」11巻（コミックナタリー）",
-          "url": "https://news.yahoo.co.jp/articles/cc5ff6328291bc9115a0682644cb806a07e538ca",
-          "source": "Yahoo!ニュース",
-          "publishedAt": "2026-11-09T09:45:11.000Z",
-          "isPR": false
-        }
-      ]
-    },
-    {
       "id": "d4709deebfd9",
       "title": "「素材採取家の異世界旅行記」アニメの配信はどこで見れる？見放題のサブスクと無料で見る方法を紹介",
       "summary": "『素材採取家の異世界旅行記』は、DMM TV・U-NEXT・Lemino・dアニメストア・Hulu・Netflix・TELASAで見放題配信中です。DMM TVがおすすめの理由や無料で見る方法、声優キャストも紹介します。",
@@ -844,13 +813,49 @@
     }
   ],
   "churn": {
-    "previousAt": "2026-11-09T18:00:21.554Z",
-    "previousCount": 77,
-    "newCount": 3
+    "previousAt": "2026-11-09T18:30:19.507Z",
+    "previousCount": 79,
+    "newCount": 1
   },
   "updateGapMin": 30,
-  "nextUpdateAt": "2026-11-09T19:00:19.507Z",
+  "nextUpdateAt": "2026-11-09T19:30:20.729Z",
   "items": [
+    {
+      "id": "1e92bf793904",
+      "title": "TVアニメ「アラフォー賢者の異世界生活日記」“いいおっさんの日”を記念した描き下ろしビジュアル [画像・動画ギャラリー 1/4]",
+      "url": "https://natalie.mu/comic/gallery/news/696392/3007304",
+      "host": "natalie.mu",
+      "source": "ナタリー",
+      "summary": "",
+      "publishedAt": "2026-11-09T18:04:57.000Z",
+      "image": "",
+      "categories": [
+        "anime"
+      ],
+      "works": [],
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": true
+    },
+    {
+      "id": "86c279374abe",
+      "title": "異世界・ファンタジーアニメ5チャンネル | 無料で放送中の番組や配信中の話題作が見放題",
+      "url": "https://abema.tv/now-on-air/isekai-anime-5",
+      "host": "abema.tv",
+      "source": "ABEMA",
+      "summary": "",
+      "publishedAt": "2026-11-09T17:08:55.000Z",
+      "image": "",
+      "categories": [
+        "anime"
+      ],
+      "works": [],
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": false
+    },
     {
       "id": "616e4171c3f6",
       "title": "『薬屋のひとりごと』ハロウィン企画ビジュアル＆ミニボイスドラマ公開 3日連続解禁で第1弾は猫猫＆趙迂",
@@ -889,7 +894,7 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "18c442dd9a7f",
@@ -946,24 +951,6 @@
       "works": [
         "tensura"
       ],
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": false
-    },
-    {
-      "id": "86c279374abe",
-      "title": "異世界・ファンタジーアニメ5チャンネル | 無料で放送中の番組や配信中の話題作が見放題",
-      "url": "https://abema.tv/now-on-air/isekai-anime-5",
-      "host": "abema.tv",
-      "source": "ABEMA",
-      "summary": "",
-      "publishedAt": "2026-11-09T15:00:00.000Z",
-      "image": "",
-      "categories": [
-        "anime"
-      ],
-      "works": [],
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
@@ -1181,7 +1168,7 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "bd6f5b540bd8",
@@ -1541,7 +1528,7 @@
       "source": "もぐナビ",
       "summary": "",
       "publishedAt": "2026-11-09T03:44:24.000Z",
-      "image": "",
+      "image": "https://mognavi.jp/image/food/01/25/70/3668664_original.jpg",
       "categories": [
         "other"
       ],
@@ -2278,7 +2265,7 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "db2859ad6e6d",
@@ -2351,24 +2338,6 @@
       "image": "",
       "categories": [
         "comic",
-        "book"
-      ],
-      "works": [],
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": false
-    },
-    {
-      "id": "7431af147a97",
-      "title": "【新作発売記念】平鳥コウ『〈完全版〉ＪＫハルは異世界で娼婦になった autumn』（新潮文庫nex）購入者特典配布中！",
-      "url": "https://www.jiji.com/jc/article?k",
-      "host": "jiji.com",
-      "source": "時事ドットコム",
-      "summary": "",
-      "publishedAt": "2026-11-06T18:40:00.000Z",
-      "image": "",
-      "categories": [
         "book"
       ],
       "works": [],
