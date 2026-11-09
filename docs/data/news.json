@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-09T20:00:22.533Z",
+  "updatedAt": "2026-11-09T20:30:21.374Z",
   "site": {
     "title": "なろう系まとめ",
     "tagline": "小説家になろう発の作品のアニメ化・コミカライズ・書籍化のニュースと、なろうのランキングをまとめています。",
@@ -7,17 +7,17 @@
     "contactUrl": "https://docs.google.com/forms/d/e/1FAIpQLSesWyhmZ6sRS_ve-c3X2KqF_wC5PK2TgwgQbTKmnQltSlg5Jw/viewform"
   },
   "total": 78,
-  "todayCount": 6,
+  "todayCount": 7,
   "categories": [
     {
       "id": "anime",
       "label": "アニメ",
-      "count": 47
+      "count": 48
     },
     {
       "id": "comic",
       "label": "コミカライズ",
-      "count": 4
+      "count": 3
     },
     {
       "id": "book",
@@ -74,7 +74,7 @@
       "id": "kusuriya",
       "title": "薬屋のひとりごと",
       "short": "薬屋",
-      "count": 31
+      "count": 30
     },
     {
       "id": "kagejitsu",
@@ -296,7 +296,7 @@
   "sources": [
     {
       "name": "山陽新聞",
-      "count": 11
+      "count": 10
     },
     {
       "name": "Yahoo!ニュース",
@@ -311,20 +311,12 @@
       "count": 5
     },
     {
-      "name": "ABEMA",
-      "count": 3
-    },
-    {
-      "name": "ニコニコニュース",
-      "count": 3
-    },
-    {
       "name": "PR TIMES",
-      "count": 3
+      "count": 4
     },
     {
       "name": "ナタリー",
-      "count": 3
+      "count": 4
     },
     {
       "name": "WEBザテレビジョン",
@@ -333,6 +325,14 @@
     {
       "name": "電撃オンライン",
       "count": 3
+    },
+    {
+      "name": "ABEMA",
+      "count": 2
+    },
+    {
+      "name": "ライブドアニュース",
+      "count": 2
     },
     {
       "name": "マイナビニュース",
@@ -364,10 +364,6 @@
     },
     {
       "name": "コラボカフェ",
-      "count": 1
-    },
-    {
-      "name": "ライブドアニュース",
       "count": 1
     },
     {
@@ -439,6 +435,10 @@
       "count": 1
     },
     {
+      "name": "J:magazine!",
+      "count": 1
+    },
+    {
       "name": "SHIBUYA TSUTAYA",
       "count": 1
     },
@@ -448,6 +448,10 @@
     },
     {
       "name": "Howl.Link",
+      "count": 1
+    },
+    {
+      "name": "ニコニコニュース",
       "count": 1
     }
   ],
@@ -672,7 +676,7 @@
       "leadSource": "山陽新聞",
       "publishedAt": "2026-11-09T16:27:47.000Z",
       "sourceCount": 2,
-      "articleCount": 4,
+      "articleCount": 3,
       "categories": [
         "other",
         "anime"
@@ -691,46 +695,11 @@
           "isPR": false
         },
         {
-          "title": "『薬屋のひとりごと』猫猫、物乞いへの“贅沢すぎる施し”に違和感 第51話あらすじ＆場面カット公開",
-          "url": "https://www.sanyonews.jp/article/2005343?kw",
-          "source": "山陽新聞",
-          "publishedAt": "2026-11-08T15:20:02.000Z",
-          "isPR": false
-        },
-        {
           "title": "『薬屋のひとりごと』謎の仙女・白娘々、猫猫たちに仙術を披露 第53話あらすじ＆場面カット公開",
           "url": "https://www.sanyonews.jp/article/2012865?kw",
           "source": "山陽新聞",
           "publishedAt": "2026-11-07T19:58:10.000Z",
           "isPR": false
-        }
-      ]
-    },
-    {
-      "id": "d037145a529d",
-      "title": "児童書版「転スラ」最新刊・『転生したらスライムだった件 とある時空の物語１７.（上）』かなで文庫より、11月16日（月）発売！販売協力店で購入された方に『両面紙しおり』をプレゼント！",
-      "summary": "",
-      "url": "https://news.nicovideo.jp/watch/nw19973033?news_ref",
-      "image": "https://prcdn.freetls.fastly.net/release_image/48095/2875/48095-2875-681e82b99a0461920bdfbe834ca4489f-1000x1549.jpg?format=jpeg&auto=webp&fit=bounds&width=2400&height=1260",
-      "leadSource": "ニコニコニュース",
-      "publishedAt": "2026-11-09T15:21:22.000Z",
-      "sourceCount": 2,
-      "articleCount": 2,
-      "categories": [
-        "book"
-      ],
-      "keywords": [
-        "転スラ",
-        "スライム",
-        "プレゼント"
-      ],
-      "articles": [
-        {
-          "title": "児童書版「転スラ」最新刊・『転生したらスライムだった件 とある時空の物語⑰（上）』かなで文庫より、11月16日（月）発売！販売協力店で購入された方に『両面紙しおり』をプレゼント！",
-          "url": "https://prtimes.jp/main/html/rd/p/000002875.000048095.html",
-          "source": "PR TIMES",
-          "publishedAt": "2026-11-09T08:00:01.000Z",
-          "isPR": true
         }
       ]
     },
@@ -844,43 +813,36 @@
           "isPR": false
         }
       ]
-    },
-    {
-      "id": "3b6d7b2bc3d7",
-      "title": "【期間限定】『薬屋のひとりごと』原作小説カフェ @TOKYOの今日・明日の天気 週末の天気・紫外線情報【お出かけスポット天気】",
-      "summary": "",
-      "url": "https://tenki.jp/leisure/3/16/93/187094/",
-      "image": "https://d2goguvysdoarq.cloudfront.net/system/facility_photos/photos/307024/normal.jpg?1777519463&w=640&h=640&t=r",
-      "leadSource": "tenki.jp",
-      "publishedAt": "2026-11-09T00:47:39.000Z",
-      "sourceCount": 2,
-      "articleCount": 2,
-      "categories": [
-        "book",
-        "goods"
-      ],
-      "keywords": [
-        "薬屋"
-      ],
-      "articles": [
-        {
-          "title": "薬屋のひとりごと 第3期 #54・見逃し放送",
-          "url": "https://abema.tv/channels/abema-anime/slots/8tqzjfe4jLSTpT",
-          "source": "ABEMA",
-          "publishedAt": "2026-11-07T01:25:11.000Z",
-          "isPR": false
-        }
-      ]
     }
   ],
   "churn": {
-    "previousAt": "2026-11-09T19:30:20.781Z",
+    "previousAt": "2026-11-09T20:00:22.533Z",
     "previousCount": 78,
-    "newCount": 2
+    "newCount": 3
   },
   "updateGapMin": 30,
-  "nextUpdateAt": "2026-11-09T20:30:22.533Z",
+  "nextUpdateAt": "2026-11-09T21:00:21.374Z",
   "items": [
+    {
+      "id": "d037145a529d",
+      "title": "児童書版「転スラ」最新刊・『転生したらスライムだった件 とある時空の物語１７.（上）』かなで文庫より、11月16日（月）発売！販売協力店で購入された方に『両面紙しおり』をプレゼント！",
+      "url": "https://prtimes.jp/main/html/rd/p/000002875.000048095.html",
+      "host": "prtimes.jp",
+      "source": "PR TIMES",
+      "summary": "[株式会社マイクロマガジン社] マイクロマガジン社（東京都中央区）は、かなで文庫『転生したらスライムだった件 とある時空の物語１７.（上）』を、2026年11月16日（月）に発売いたします！ 難しい言葉もわかりやすく解説した児童文庫版『転生...",
+      "publishedAt": "2026-11-09T20:10:03.000Z",
+      "image": "https://prcdn.freetls.fastly.net/release_image/48095/2875/48095-2875-681e82b99a0461920bdfbe834ca4489f-1000x1549.jpg?format=jpeg&auto=webp&fit=bounds&width=2400&height=1260",
+      "categories": [
+        "book"
+      ],
+      "works": [
+        "tensura"
+      ],
+      "isPR": true,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": false
+    },
     {
       "id": "86c279374abe",
       "title": "異世界・ファンタジーアニメ5チャンネル | 無料で放送中の番組や配信中の話題作が見放題",
@@ -898,6 +860,25 @@
       "viaGoogle": false,
       "sourceKind": "news",
       "isNew": false
+    },
+    {
+      "id": "ca16eb4710c2",
+      "title": "TVアニメ「アラフォー賢者の異世界生活日記」ティザービジュアル ©寿安清/MFブックス/アラフォー賢者製作委員会",
+      "url": "https://natalie.mu/comic/gallery/news/696392/2971646",
+      "host": "natalie.mu",
+      "source": "ナタリー",
+      "summary": "",
+      "publishedAt": "2026-11-09T18:04:56.000Z",
+      "image": "",
+      "categories": [
+        "anime",
+        "book"
+      ],
+      "works": [],
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": true
     },
     {
       "id": "616e4171c3f6",
@@ -950,26 +931,6 @@
       "image": "https://static.sanyonews.jp/image/article/size1/2/b/6/7/2b67db9eed80b704cb517b99fda49c2c_1.jpg",
       "categories": [
         "anime"
-      ],
-      "works": [
-        "tensura"
-      ],
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": false
-    },
-    {
-      "id": "d037145a529d",
-      "title": "児童書版「転スラ」最新刊・『転生したらスライムだった件 とある時空の物語１７.（上）』かなで文庫より、11月16日（月）発売！販売協力店で購入された方に『両面紙しおり』をプレゼント！",
-      "url": "https://news.nicovideo.jp/watch/nw19973033?news_ref",
-      "host": "news.nicovideo.jp",
-      "source": "ニコニコニュース",
-      "summary": "",
-      "publishedAt": "2026-11-09T15:21:22.000Z",
-      "image": "",
-      "categories": [
-        "book"
       ],
       "works": [
         "tensura"
@@ -1230,6 +1191,24 @@
       "viaGoogle": false,
       "sourceKind": "news",
       "isNew": false
+    },
+    {
+      "id": "563b45ebe137",
+      "title": "【画像】鈴木このみ、ついに“悪役令嬢もの”の主題歌を歌う！TVアニメ『弱気MAX令嬢』OPテーマ「強気MAX宣言」に込めた“かましたれ”精神と30代の新しい挑戦に迫る！ - ライブドアニュース",
+      "url": "https://news.livedoor.com/article/image_detail/32771949/?img_id",
+      "host": "news.livedoor.com",
+      "source": "ライブドアニュース",
+      "summary": "",
+      "publishedAt": "2026-11-09T09:13:24.000Z",
+      "image": "https://image.news.livedoor.com/newsimage/stf/1/0/10381_1516_28cdf2fd_70dd4fca.jpg",
+      "categories": [
+        "anime"
+      ],
+      "works": [],
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": true
     },
     {
       "id": "3fcaafa94fd6",
@@ -1822,26 +1801,6 @@
       "isNew": false
     },
     {
-      "id": "46c454fd4b32",
-      "title": "『薬屋のひとりごと』猫猫、物乞いへの“贅沢すぎる施し”に違和感 第51話あらすじ＆場面カット公開",
-      "url": "https://www.sanyonews.jp/article/2005343?kw",
-      "host": "sanyonews.jp",
-      "source": "山陽新聞",
-      "summary": "",
-      "publishedAt": "2026-11-08T15:20:02.000Z",
-      "image": "https://static.sanyonews.jp/image/article/size1/0/2/b/2/02b26e8d4ce18b9a11a95164fff3f2c2_1.jpg",
-      "categories": [
-        "anime"
-      ],
-      "works": [
-        "kusuriya"
-      ],
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": false
-    },
-    {
       "id": "8c6879a78202",
       "title": "中島美嘉×ヒトリエのコラボ曲がTVアニメ『無職転生III』EDテーマに決定「新しい性格の曲をいただけた」",
       "url": "https://www.sanyonews.jp/article/1932697",
@@ -2192,6 +2151,26 @@
       "isNew": false
     },
     {
+      "id": "37ce460ad31b",
+      "title": "TVアニメ『薬屋のひとりごと』猫猫の推理がさえるエピソード5選！圧倒的な薬学知識と鋭い観察力で謎を解く",
+      "url": "https://jmagazine.myjcom.jp/category/anime/post001869/",
+      "host": "jmagazine.myjcom.jp",
+      "source": "J:magazine!",
+      "summary": "",
+      "publishedAt": "2026-11-07T08:00:00.000Z",
+      "image": "https://jmagazine.myjcom.jp/uploads/261031_kusuriya01.jpg",
+      "categories": [
+        "anime"
+      ],
+      "works": [
+        "kusuriya"
+      ],
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": true
+    },
+    {
       "id": "62f618d4fc2c",
       "title": "TSUTAYA IP書店『SQUARE ENIX Official Goodsコーナー』ほかにて2026年11月20日(金)よりアニメ『薬屋のひとりごと』オフィシャルグッズ販売開始！！",
       "url": "https://shibuyatsutaya.tsite.jp/article/2687.html",
@@ -2230,7 +2209,7 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "22f5c16093c6",
@@ -2293,26 +2272,6 @@
       "isNew": false
     },
     {
-      "id": "1615e9d935d0",
-      "title": "薬屋のひとりごと 第3期 #54・見逃し放送",
-      "url": "https://abema.tv/channels/abema-anime/slots/8tqzjfe4jLSTpT",
-      "host": "abema.tv",
-      "source": "ABEMA",
-      "summary": "",
-      "publishedAt": "2026-11-07T01:25:11.000Z",
-      "image": "",
-      "categories": [
-        "anime"
-      ],
-      "works": [
-        "kusuriya"
-      ],
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": true
-    },
-    {
       "id": "db2859ad6e6d",
       "title": "ロリータ＆ゴシックテーマ衣装の描き下ろしイラストに胸キュン！TVアニメ「無職転生III",
       "url": "https://news.nicovideo.jp/watch/nw19966779",
@@ -2367,25 +2326,6 @@
       "works": [
         "arifureta"
       ],
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": false
-    },
-    {
-      "id": "5207f94c2ed3",
-      "title": "人間と魔物の共生を目指す異世界お仕事ファンタジー！WEBマンガ『魔物学者ニニアの日誌』単行本第1巻が本日「ピッコマ」に",
-      "url": "https://news.nicovideo.jp/watch/nw19966377",
-      "host": "news.nicovideo.jp",
-      "source": "ニコニコニュース",
-      "summary": "",
-      "publishedAt": "2026-11-06T20:30:26.000Z",
-      "image": "",
-      "categories": [
-        "comic",
-        "book"
-      ],
-      "works": [],
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
