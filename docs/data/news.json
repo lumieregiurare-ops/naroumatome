@@ -1,18 +1,18 @@
 {
-  "updatedAt": "2026-11-09T00:00:19.510Z",
+  "updatedAt": "2026-11-09T00:30:19.426Z",
   "site": {
     "title": "なろう系まとめ",
     "tagline": "小説家になろう発の作品のアニメ化・コミカライズ・書籍化のニュースと、なろうのランキングをまとめています。",
     "url": "https://naroumatome.gamelab.website/",
     "contactUrl": "https://docs.google.com/forms/d/e/1FAIpQLSesWyhmZ6sRS_ve-c3X2KqF_wC5PK2TgwgQbTKmnQltSlg5Jw/viewform"
   },
-  "total": 79,
+  "total": 80,
   "todayCount": 6,
   "categories": [
     {
       "id": "anime",
       "label": "アニメ",
-      "count": 46
+      "count": 47
     },
     {
       "id": "comic",
@@ -56,7 +56,7 @@
       "id": "mushoku",
       "title": "無職転生 ～異世界行ったら本気だす～",
       "short": "無職転生",
-      "count": 6
+      "count": 7
     },
     {
       "id": "rezero",
@@ -335,10 +335,6 @@
       "count": 3
     },
     {
-      "name": "PR TIMES",
-      "count": 3
-    },
-    {
       "name": "オタク総研",
       "count": 2
     },
@@ -347,11 +343,19 @@
       "count": 2
     },
     {
+      "name": "山陽新聞",
+      "count": 2
+    },
+    {
       "name": "PASH! PLUS",
       "count": 2
     },
     {
       "name": "アニメイトタイムズ",
+      "count": 2
+    },
+    {
+      "name": "PR TIMES",
       "count": 2
     },
     {
@@ -391,10 +395,6 @@
       "count": 1
     },
     {
-      "name": "山陽新聞",
-      "count": 1
-    },
-    {
       "name": "こまめブログ",
       "count": 1
     },
@@ -407,6 +407,10 @@
       "count": 1
     },
     {
+      "name": "時事ドットコム",
+      "count": 1
+    },
+    {
       "name": "eeo",
       "count": 1
     },
@@ -415,7 +419,7 @@
       "count": 1
     },
     {
-      "name": "ニコニコニュース",
+      "name": "ダ・ヴィンチWeb",
       "count": 1
     },
     {
@@ -752,12 +756,12 @@
     }
   ],
   "churn": {
-    "previousAt": "2026-11-08T23:30:16.593Z",
-    "previousCount": 76,
-    "newCount": 4
+    "previousAt": "2026-11-09T00:00:19.510Z",
+    "previousCount": 79,
+    "newCount": 1
   },
   "updateGapMin": 30,
-  "nextUpdateAt": "2026-11-09T00:30:19.510Z",
+  "nextUpdateAt": "2026-11-09T01:00:19.426Z",
   "items": [
     {
       "id": "4494aacda085",
@@ -767,7 +771,7 @@
       "source": "au Webポータル",
       "summary": "",
       "publishedAt": "2026-11-08T22:11:28.000Z",
-      "image": "https://portal.auone.jp/media/thumbnails/2026/11/08/https___news_jp_i_1492285922458354453_w640.webp",
+      "image": "https://portal.auone.jp/media/thumbnails/2026/11/09/https___news_jp_i_1492285922458354453_w640.webp",
       "categories": [
         "other"
       ],
@@ -1204,7 +1208,7 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "6b63d0117802",
@@ -1247,6 +1251,26 @@
       "isNew": false
     },
     {
+      "id": "d9c2c0ae764a",
+      "title": "『無職転生』第3期、「エリス修行編」新キャラキャスト発表 小西克幸＆日笠陽子＆横尾まり【コメントあり】",
+      "url": "https://www.sanyonews.jp/article/1941561?rct",
+      "host": "sanyonews.jp",
+      "source": "山陽新聞",
+      "summary": "",
+      "publishedAt": "2026-11-07T03:18:08.000Z",
+      "image": "https://static.sanyonews.jp/image/article/size1/0/c/5/8/0c585d3f932a8d3715498939feb9b42e_1.jpg",
+      "categories": [
+        "anime"
+      ],
+      "works": [
+        "mushoku"
+      ],
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": true
+    },
+    {
       "id": "748ff4b20495",
       "title": "アニメ『転生したら剣でしたII』新章突入キービジュアル第2弾＆PV第3弾が公開",
       "url": "https://ln-news.com/articles/127153",
@@ -1261,6 +1285,24 @@
       "works": [
         "tenken"
       ],
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": false
+    },
+    {
+      "id": "7431af147a97",
+      "title": "【新作発売記念】平鳥コウ『〈完全版〉ＪＫハルは異世界で娼婦になった autumn』（新潮文庫nex）購入者特典配布中！",
+      "url": "https://www.jiji.com/jc/article?k",
+      "host": "jiji.com",
+      "source": "時事ドットコム",
+      "summary": "",
+      "publishedAt": "2026-11-06T18:40:00.000Z",
+      "image": "",
+      "categories": [
+        "book"
+      ],
+      "works": [],
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
@@ -1344,7 +1386,7 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "ee237dc8ed84",
@@ -1400,7 +1442,7 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "449017a0eaef",
@@ -1640,18 +1682,20 @@
       "isNew": false
     },
     {
-      "id": "2ffe224f5b3b",
-      "title": "【異世界コミック読み放題】Kindle+で『無敵商人の異世界成り上がり物語』など話題作を満喫しよう",
-      "url": "https://news.nicovideo.jp/watch/nw19964286",
-      "host": "news.nicovideo.jp",
-      "source": "ニコニコニュース",
+      "id": "38bee673e629",
+      "title": "ワークマン×『薬屋のひとりごと』コラボグッズが猫猫並に有能だった…! 11月6日発売の全4アイテムを詳しくレビュー",
+      "url": "https://news.yahoo.co.jp/articles/dc21c08672386d735dcffce713ad6d4f0bbc864b",
+      "host": "news.yahoo.co.jp",
+      "source": "Yahoo!ニュース",
       "summary": "",
-      "publishedAt": "2026-11-06T08:36:07.000Z",
-      "image": "",
+      "publishedAt": "2026-11-06T08:31:00.000Z",
+      "image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20261106-00000004-mynavin-000-1-view.jpg?exp=10800",
       "categories": [
-        "comic"
+        "goods"
       ],
-      "works": [],
+      "works": [
+        "kusuriya"
+      ],
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
@@ -1668,26 +1712,6 @@
       "image": "https://times-abema.ismcdn.jp/mwimgs/5/4/1200w/img_54acf90cdfe1552c0ca4ac91ec6edcaa120869.jpg",
       "categories": [
         "anime"
-      ],
-      "works": [
-        "kusuriya"
-      ],
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": false
-    },
-    {
-      "id": "38bee673e629",
-      "title": "ワークマン×『薬屋のひとりごと』コラボグッズが猫猫並に有能だった…! 11月6日発売の全4アイテムを詳しくレビュー",
-      "url": "https://news.yahoo.co.jp/articles/dc21c08672386d735dcffce713ad6d4f0bbc864b",
-      "host": "news.yahoo.co.jp",
-      "source": "Yahoo!ニュース",
-      "summary": "",
-      "publishedAt": "2026-11-06T08:31:00.000Z",
-      "image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20261106-00000004-mynavin-000-1-view.jpg?exp=10800",
-      "categories": [
-        "goods"
       ],
       "works": [
         "kusuriya"
@@ -1733,6 +1757,24 @@
         "tensei-kizoku"
       ],
       "isPR": true,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": false
+    },
+    {
+      "id": "2ffe224f5b3b",
+      "title": "【異世界コミック読み放題】Kindle+で『無敵商人の異世界成り上がり物語』など話題作を満喫しよう",
+      "url": "https://ddnavi.com/article/1455181/a/",
+      "host": "ddnavi.com",
+      "source": "ダ・ヴィンチWeb",
+      "summary": "",
+      "publishedAt": "2026-11-06T08:00:00.000Z",
+      "image": "",
+      "categories": [
+        "comic"
+      ],
+      "works": [],
+      "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
       "isNew": false
@@ -1886,24 +1928,6 @@
       ],
       "works": [],
       "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": false
-    },
-    {
-      "id": "7431af147a97",
-      "title": "【新作発売記念】平鳥コウ『〈完全版〉ＪＫハルは異世界で娼婦になった autumn』（新潮文庫nex）購入者特典配布中！",
-      "url": "https://prtimes.jp/main/html/rd/p/000003404.000047877.html",
-      "host": "prtimes.jp",
-      "source": "PR TIMES",
-      "summary": "",
-      "publishedAt": "2026-11-06T06:30:48.000Z",
-      "image": "https://prcdn.freetls.fastly.net/release_image/47877/3404/47877-3404-8be5f22a16892db186aa42544484f7d7-3900x2601.jpg?format=jpeg&auto=webp&fit=bounds&width=2400&height=1260",
-      "categories": [
-        "book"
-      ],
-      "works": [],
-      "isPR": true,
       "viaGoogle": false,
       "sourceKind": "news",
       "isNew": false
@@ -2130,7 +2154,7 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "d783a8d375c6",
