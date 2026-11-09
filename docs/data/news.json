@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-09T19:30:20.781Z",
+  "updatedAt": "2026-11-09T20:00:22.533Z",
   "site": {
     "title": "なろう系まとめ",
     "tagline": "小説家になろう発の作品のアニメ化・コミカライズ・書籍化のニュースと、なろうのランキングをまとめています。",
@@ -12,7 +12,7 @@
     {
       "id": "anime",
       "label": "アニメ",
-      "count": 46
+      "count": 47
     },
     {
       "id": "comic",
@@ -42,7 +42,7 @@
     {
       "id": "other",
       "label": "そのほか",
-      "count": 17
+      "count": 16
     }
   ],
   "works": [
@@ -74,7 +74,7 @@
       "id": "kusuriya",
       "title": "薬屋のひとりごと",
       "short": "薬屋",
-      "count": 30
+      "count": 31
     },
     {
       "id": "kagejitsu",
@@ -311,6 +311,10 @@
       "count": 5
     },
     {
+      "name": "ABEMA",
+      "count": 3
+    },
+    {
       "name": "ニコニコニュース",
       "count": 3
     },
@@ -329,14 +333,6 @@
     {
       "name": "電撃オンライン",
       "count": 3
-    },
-    {
-      "name": "ABEMA",
-      "count": 2
-    },
-    {
-      "name": "ライブドアニュース",
-      "count": 2
     },
     {
       "name": "マイナビニュース",
@@ -371,15 +367,15 @@
       "count": 1
     },
     {
+      "name": "ライブドアニュース",
+      "count": 1
+    },
+    {
       "name": "smart-flash.jp",
       "count": 1
     },
     {
       "name": "株式会社ピクセラ",
-      "count": 1
-    },
-    {
-      "name": "アニメイトタイムズ",
       "count": 1
     },
     {
@@ -444,6 +440,10 @@
     },
     {
       "name": "SHIBUYA TSUTAYA",
+      "count": 1
+    },
+    {
+      "name": "USENの音楽情報サイト",
       "count": 1
     },
     {
@@ -844,16 +844,61 @@
           "isPR": false
         }
       ]
+    },
+    {
+      "id": "3b6d7b2bc3d7",
+      "title": "【期間限定】『薬屋のひとりごと』原作小説カフェ @TOKYOの今日・明日の天気 週末の天気・紫外線情報【お出かけスポット天気】",
+      "summary": "",
+      "url": "https://tenki.jp/leisure/3/16/93/187094/",
+      "image": "https://d2goguvysdoarq.cloudfront.net/system/facility_photos/photos/307024/normal.jpg?1777519463&w=640&h=640&t=r",
+      "leadSource": "tenki.jp",
+      "publishedAt": "2026-11-09T00:47:39.000Z",
+      "sourceCount": 2,
+      "articleCount": 2,
+      "categories": [
+        "book",
+        "goods"
+      ],
+      "keywords": [
+        "薬屋"
+      ],
+      "articles": [
+        {
+          "title": "薬屋のひとりごと 第3期 #54・見逃し放送",
+          "url": "https://abema.tv/channels/abema-anime/slots/8tqzjfe4jLSTpT",
+          "source": "ABEMA",
+          "publishedAt": "2026-11-07T01:25:11.000Z",
+          "isPR": false
+        }
+      ]
     }
   ],
   "churn": {
-    "previousAt": "2026-11-09T19:00:20.729Z",
-    "previousCount": 79,
-    "newCount": 1
+    "previousAt": "2026-11-09T19:30:20.781Z",
+    "previousCount": 78,
+    "newCount": 2
   },
   "updateGapMin": 30,
-  "nextUpdateAt": "2026-11-09T20:00:20.781Z",
+  "nextUpdateAt": "2026-11-09T20:30:22.533Z",
   "items": [
+    {
+      "id": "86c279374abe",
+      "title": "異世界・ファンタジーアニメ5チャンネル | 無料で放送中の番組や配信中の話題作が見放題",
+      "url": "https://abema.tv/now-on-air/isekai-anime-5",
+      "host": "abema.tv",
+      "source": "ABEMA",
+      "summary": "",
+      "publishedAt": "2026-11-09T18:14:44.000Z",
+      "image": "",
+      "categories": [
+        "anime"
+      ],
+      "works": [],
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": false
+    },
     {
       "id": "616e4171c3f6",
       "title": "『薬屋のひとりごと』ハロウィン企画ビジュアル＆ミニボイスドラマ公開 3日連続解禁で第1弾は猫猫＆趙迂",
@@ -949,24 +994,6 @@
       "works": [
         "tensura"
       ],
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": false
-    },
-    {
-      "id": "86c279374abe",
-      "title": "異世界・ファンタジーアニメ5チャンネル | 無料で放送中の番組や配信中の話題作が見放題",
-      "url": "https://abema.tv/now-on-air/isekai-anime-5",
-      "host": "abema.tv",
-      "source": "ABEMA",
-      "summary": "",
-      "publishedAt": "2026-11-09T15:00:00.000Z",
-      "image": "https://image.p-c2-x.abema-tv.com/image/assets/splash.png?height=720&quality=75&version=20210720&width=1280",
-      "categories": [
-        "anime"
-      ],
-      "works": [],
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
@@ -1205,24 +1232,6 @@
       "isNew": false
     },
     {
-      "id": "563b45ebe137",
-      "title": "【画像】鈴木このみ、ついに“悪役令嬢もの”の主題歌を歌う！TVアニメ『弱気MAX令嬢』OPテーマ「強気MAX宣言」に込めた“かましたれ”精神と30代の新しい挑戦に迫る！ - ライブドアニュース",
-      "url": "https://news.livedoor.com/article/image_detail/32771949/?img_id",
-      "host": "news.livedoor.com",
-      "source": "ライブドアニュース",
-      "summary": "",
-      "publishedAt": "2026-11-09T09:13:24.000Z",
-      "image": "https://image.news.livedoor.com/newsimage/stf/1/0/10381_1516_28cdf2fd_70dd4fca.jpg",
-      "categories": [
-        "anime"
-      ],
-      "works": [],
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": false
-    },
-    {
       "id": "3fcaafa94fd6",
       "title": "【薬屋のひとりごと】猫猫＆壬氏の《きゅるみー》が再登場！ 上目遣いが可愛いミニフィギュア全2種",
       "url": "https://dengekionline.com/article/202611/93505",
@@ -1391,26 +1400,6 @@
         "anime"
       ],
       "works": [],
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": false
-    },
-    {
-      "id": "d2075b40863c",
-      "title": "『薬屋のひとりごと』阿多妃の魅力｜外見も内面も格好良い妃",
-      "url": "https://www.animatetimes.com/news/details.php?id",
-      "host": "animatetimes.com",
-      "source": "アニメイトタイムズ",
-      "summary": "",
-      "publishedAt": "2026-11-09T07:00:00.000Z",
-      "image": "https://www.animatetimes.com/img/ogimage.png",
-      "categories": [
-        "other"
-      ],
-      "works": [
-        "kusuriya"
-      ],
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
@@ -1729,7 +1718,7 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "483a7fb4c41e",
@@ -1881,7 +1870,7 @@
       "source": "ABEMA",
       "summary": "",
       "publishedAt": "2026-11-08T15:10:14.000Z",
-      "image": "https://image.p-c2-x.abema-tv.com/image/programs/218-934_s10000_p1/thumb001.png?height=720&quality=75&version=1793857979&width=1280",
+      "image": "",
       "categories": [
         "anime"
       ],
@@ -2224,6 +2213,26 @@
       "isNew": false
     },
     {
+      "id": "1828e4c743eb",
+      "title": "第１弾CMが大反響！猫猫と壬氏がヨルシカ新曲について会話するTV アニメ『薬屋のひとりごと』エクスクルーシブCM第２弾が地上波放送内オンエア。",
+      "url": "https://e.usen.com/news/news-release/cmtv-cm.html",
+      "host": "e.usen.com",
+      "source": "USENの音楽情報サイト",
+      "summary": "",
+      "publishedAt": "2026-11-07T07:02:46.000Z",
+      "image": "https://e.usen.com/image/a9b5fd65f77b13e50596f7bdb1dddb8f7e6b9542.jpg",
+      "categories": [
+        "anime"
+      ],
+      "works": [
+        "kusuriya"
+      ],
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": true
+    },
+    {
       "id": "22f5c16093c6",
       "title": "日テレの河出奈都美アナ、最新コスプレにネット衝撃 『薬屋のひとりごと』猫猫姿で「アクセサリーは自作」",
       "url": "https://www.oricon.co.jp/news/2491431/full/",
@@ -2282,6 +2291,26 @@
       "viaGoogle": false,
       "sourceKind": "news",
       "isNew": false
+    },
+    {
+      "id": "1615e9d935d0",
+      "title": "薬屋のひとりごと 第3期 #54・見逃し放送",
+      "url": "https://abema.tv/channels/abema-anime/slots/8tqzjfe4jLSTpT",
+      "host": "abema.tv",
+      "source": "ABEMA",
+      "summary": "",
+      "publishedAt": "2026-11-07T01:25:11.000Z",
+      "image": "",
+      "categories": [
+        "anime"
+      ],
+      "works": [
+        "kusuriya"
+      ],
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": true
     },
     {
       "id": "db2859ad6e6d",
