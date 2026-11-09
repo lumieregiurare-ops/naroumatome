@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-09T02:00:19.856Z",
+  "updatedAt": "2026-11-09T02:30:19.730Z",
   "site": {
     "title": "なろう系まとめ",
     "tagline": "小説家になろう発の作品のアニメ化・コミカライズ・書籍化のニュースと、なろうのランキングをまとめています。",
@@ -7,12 +7,12 @@
     "contactUrl": "https://docs.google.com/forms/d/e/1FAIpQLSesWyhmZ6sRS_ve-c3X2KqF_wC5PK2TgwgQbTKmnQltSlg5Jw/viewform"
   },
   "total": 81,
-  "todayCount": 7,
+  "todayCount": 9,
   "categories": [
     {
       "id": "anime",
       "label": "アニメ",
-      "count": 47
+      "count": 48
     },
     {
       "id": "comic",
@@ -27,7 +27,7 @@
     {
       "id": "web",
       "label": "Web小説・賞",
-      "count": 4
+      "count": 5
     },
     {
       "id": "game",
@@ -37,12 +37,12 @@
     {
       "id": "goods",
       "label": "グッズ・イベント",
-      "count": 12
+      "count": 13
     },
     {
       "id": "other",
       "label": "そのほか",
-      "count": 20
+      "count": 19
     }
   ],
   "works": [
@@ -56,13 +56,13 @@
       "id": "mushoku",
       "title": "無職転生 ～異世界行ったら本気だす～",
       "short": "無職転生",
-      "count": 6
+      "count": 7
     },
     {
       "id": "rezero",
       "title": "Re:ゼロから始める異世界生活",
       "short": "リゼロ",
-      "count": 9
+      "count": 8
     },
     {
       "id": "honzuki",
@@ -307,11 +307,7 @@
       "count": 6
     },
     {
-      "name": "GameWith",
-      "count": 5
-    },
-    {
-      "name": "PR TIMES",
+      "name": "WEBザテレビジョン",
       "count": 4
     },
     {
@@ -319,7 +315,15 @@
       "count": 4
     },
     {
-      "name": "WEBザテレビジョン",
+      "name": "GameWith",
+      "count": 4
+    },
+    {
+      "name": "PR TIMES",
+      "count": 3
+    },
+    {
+      "name": "山陽新聞",
       "count": 3
     },
     {
@@ -328,10 +332,6 @@
     },
     {
       "name": "ABEMA",
-      "count": 3
-    },
-    {
-      "name": "山陽新聞",
       "count": 3
     },
     {
@@ -412,6 +412,10 @@
     },
     {
       "name": "毎日新聞",
+      "count": 1
+    },
+    {
+      "name": "毎日キレイ",
       "count": 1
     },
     {
@@ -780,7 +784,7 @@
       "title": "プレスリリース：人間と魔物の共生を目指す異世界お仕事ファンタジー！WEBマンガ『魔物学者ニニアの日誌』単行本第1巻が本日「ピッコマ」にて配信開始。単行本版限定描き下ろしも必見！（PR TIMES）",
       "summary": "",
       "url": "https://mainichi.jp/articles/20261106/pr2/00m/020/975000c",
-      "image": "https://prcdn.freetls.fastly.net/release_image/51825/837/51825-837-ac11ca8e49b1808f83cb6a0cdaceed64-1920x1080.jpg?format=jpeg&auto=webp&fit=bounds&width=2400&height=1260",
+      "image": "https://prtimes.jp/img/51825/837/resize/d51825-837-aa5c9bd8be2e4e48822c-5.jpg",
       "leadSource": "毎日新聞",
       "publishedAt": "2026-11-06T09:23:04.000Z",
       "sourceCount": 2,
@@ -797,10 +801,10 @@
       "articles": [
         {
           "title": "人間と魔物の共生を目指す異世界お仕事ファンタジー！WEBマンガ『魔物学者ニニアの日誌』単行本第1巻が本日「ピッコマ」にて配信開始。単行本版限定描き下ろしも必見！",
-          "url": "https://prtimes.jp/main/html/rd/p/000000837.000051825.html",
-          "source": "PR TIMES",
-          "publishedAt": "2026-11-06T09:00:02.000Z",
-          "isPR": true
+          "url": "https://mainichikirei.jp/prtimes/article/20261106prt00m100000912a.html",
+          "source": "毎日キレイ",
+          "publishedAt": "2026-11-06T09:00:00.000Z",
+          "isPR": false
         }
       ]
     },
@@ -835,12 +839,12 @@
     }
   ],
   "churn": {
-    "previousAt": "2026-11-09T01:30:17.506Z",
-    "previousCount": 80,
-    "newCount": 3
+    "previousAt": "2026-11-09T02:00:19.856Z",
+    "previousCount": 81,
+    "newCount": 2
   },
   "updateGapMin": 30,
-  "nextUpdateAt": "2026-11-09T02:30:19.856Z",
+  "nextUpdateAt": "2026-11-09T03:00:19.730Z",
   "items": [
     {
       "id": "483a7fb4c41e",
@@ -905,6 +909,26 @@
       "isNew": false
     },
     {
+      "id": "616e4171c3f6",
+      "title": "『薬屋のひとりごと』ハロウィン企画ビジュアル＆ミニボイスドラマ公開 3日連続解禁で第1弾は猫猫＆趙迂",
+      "url": "https://www.sanyonews.jp/article/2012864?kw",
+      "host": "sanyonews.jp",
+      "source": "山陽新聞",
+      "summary": "",
+      "publishedAt": "2026-11-08T21:04:27.000Z",
+      "image": "https://static.sanyonews.jp/image/article/size1/2/2/6/9/22691045f5f76de9d50170d05e001015_1.jpg",
+      "categories": [
+        "other"
+      ],
+      "works": [
+        "kusuriya"
+      ],
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": false
+    },
+    {
       "id": "b62b674e429f",
       "title": "チー付与＞山下大輝×Lynn×柴田理恵スペシャル鼎談「なんでキングギドラと戦ってるの!?」柴田が驚愕したカオスな異世界とキャラクターの濃すぎる魅力",
       "url": "https://thetv.jp/news/detail/1454273/",
@@ -941,6 +965,27 @@
       "viaGoogle": false,
       "sourceKind": "news",
       "isNew": false
+    },
+    {
+      "id": "8c6879a78202",
+      "title": "中島美嘉×ヒトリエのコラボ曲がTVアニメ『無職転生III』EDテーマに決定「新しい性格の曲をいただけた」",
+      "url": "https://www.sanyonews.jp/article/1932697",
+      "host": "sanyonews.jp",
+      "source": "山陽新聞",
+      "summary": "",
+      "publishedAt": "2026-11-08T15:14:43.000Z",
+      "image": "https://static.sanyonews.jp/image/article/size1/c/5/d/9/c5d93e04c1f598b8b620326155fe4832_1.jpg",
+      "categories": [
+        "anime",
+        "goods"
+      ],
+      "works": [
+        "mushoku"
+      ],
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": true
     },
     {
       "id": "7cced13db001",
@@ -1193,6 +1238,27 @@
       "isNew": false
     },
     {
+      "id": "af7c881d3c65",
+      "title": "2026年、新作夏アニメのABEMA最終ランキングを発表「無職転生3」が再生数・コメント数の両部門で1位を獲得",
+      "url": "https://thetv.jp/news/detail/1453469/landing/",
+      "host": "thetv.jp",
+      "source": "WEBザテレビジョン",
+      "summary": "",
+      "publishedAt": "2026-11-07T21:36:38.000Z",
+      "image": "",
+      "categories": [
+        "anime",
+        "web"
+      ],
+      "works": [
+        "mushoku"
+      ],
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": true
+    },
+    {
       "id": "a4301d08b098",
       "title": "『薬屋のひとりごと』謎の仙女・白娘々、猫猫たちに仙術を披露 第53話あらすじ＆場面カット公開",
       "url": "https://www.sanyonews.jp/article/2012865?kw",
@@ -1226,26 +1292,6 @@
       ],
       "works": [
         "tensei-kizoku"
-      ],
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": false
-    },
-    {
-      "id": "616e4171c3f6",
-      "title": "『薬屋のひとりごと』ハロウィン企画ビジュアル＆ミニボイスドラマ公開 3日連続解禁で第1弾は猫猫＆趙迂",
-      "url": "https://www.sanyonews.jp/article/2012864?rct",
-      "host": "sanyonews.jp",
-      "source": "山陽新聞",
-      "summary": "",
-      "publishedAt": "2026-11-07T19:16:19.000Z",
-      "image": "https://static.sanyonews.jp/image/article/size1/2/2/6/9/22691045f5f76de9d50170d05e001015_1.jpg",
-      "categories": [
-        "other"
-      ],
-      "works": [
-        "kusuriya"
       ],
       "isPR": false,
       "viaGoogle": false,
@@ -1348,26 +1394,6 @@
       "viaGoogle": false,
       "sourceKind": "news",
       "isNew": false
-    },
-    {
-      "id": "d9c2c0ae764a",
-      "title": "『無職転生』第3期、「エリス修行編」新キャラキャスト発表 小西克幸＆日笠陽子＆横尾まり【コメントあり】",
-      "url": "https://www.sanyonews.jp/article/1941561?rct",
-      "host": "sanyonews.jp",
-      "source": "山陽新聞",
-      "summary": "",
-      "publishedAt": "2026-11-07T03:18:08.000Z",
-      "image": "https://static.sanyonews.jp/image/article/size1/0/c/5/8/0c585d3f932a8d3715498939feb9b42e_1.jpg",
-      "categories": [
-        "anime"
-      ],
-      "works": [
-        "mushoku"
-      ],
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": true
     },
     {
       "id": "748ff4b20495",
@@ -1718,7 +1744,7 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "5a97acf345e4",
@@ -1763,18 +1789,18 @@
     {
       "id": "5207f94c2ed3",
       "title": "人間と魔物の共生を目指す異世界お仕事ファンタジー！WEBマンガ『魔物学者ニニアの日誌』単行本第1巻が本日「ピッコマ」にて配信開始。単行本版限定描き下ろしも必見！",
-      "url": "https://prtimes.jp/main/html/rd/p/000000837.000051825.html",
-      "host": "prtimes.jp",
-      "source": "PR TIMES",
+      "url": "https://mainichikirei.jp/prtimes/article/20261106prt00m100000912a.html",
+      "host": "mainichikirei.jp",
+      "source": "毎日キレイ",
       "summary": "",
-      "publishedAt": "2026-11-06T09:00:02.000Z",
-      "image": "https://prcdn.freetls.fastly.net/release_image/51825/837/51825-837-ac11ca8e49b1808f83cb6a0cdaceed64-1920x1080.jpg?format=jpeg&auto=webp&fit=bounds&width=2400&height=1260",
+      "publishedAt": "2026-11-06T09:00:00.000Z",
+      "image": "https://prtimes.jp/img/51825/837/resize/d51825-837-aa5c9bd8be2e4e48822c-5.jpg",
       "categories": [
         "anime",
         "comic"
       ],
       "works": [],
-      "isPR": true,
+      "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
       "isNew": false
@@ -1820,26 +1846,6 @@
       "isNew": false
     },
     {
-      "id": "7d3f679c40bb",
-      "title": "アニメ「薬屋のひとりごと」毛毛とは何者？読み方や正体、猫猫・壬氏との関係は？ | アニメニュース | アニメフリークス",
-      "url": "https://times.abema.tv/articles/-/10159771",
-      "host": "times.abema.tv",
-      "source": "ABEMA TIMES",
-      "summary": "",
-      "publishedAt": "2026-11-06T08:31:00.000Z",
-      "image": "https://times-abema.ismcdn.jp/mwimgs/5/4/1200w/img_54acf90cdfe1552c0ca4ac91ec6edcaa120869.jpg",
-      "categories": [
-        "anime"
-      ],
-      "works": [
-        "kusuriya"
-      ],
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": false
-    },
-    {
       "id": "38bee673e629",
       "title": "ワークマン×『薬屋のひとりごと』コラボグッズが猫猫並に有能だった…! 11月6日発売の全4アイテムを詳しくレビュー",
       "url": "https://news.yahoo.co.jp/articles/dc21c08672386d735dcffce713ad6d4f0bbc864b",
@@ -1850,6 +1856,26 @@
       "image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20261106-00000004-mynavin-000-1-view.jpg?exp=10800",
       "categories": [
         "goods"
+      ],
+      "works": [
+        "kusuriya"
+      ],
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": false
+    },
+    {
+      "id": "7d3f679c40bb",
+      "title": "アニメ「薬屋のひとりごと」毛毛とは何者？読み方や正体、猫猫・壬氏との関係は？ | アニメニュース | アニメフリークス",
+      "url": "https://times.abema.tv/articles/-/10159771",
+      "host": "times.abema.tv",
+      "source": "ABEMA TIMES",
+      "summary": "",
+      "publishedAt": "2026-11-06T08:31:00.000Z",
+      "image": "https://times-abema.ismcdn.jp/mwimgs/5/4/1200w/img_54acf90cdfe1552c0ca4ac91ec6edcaa120869.jpg",
+      "categories": [
+        "anime"
       ],
       "works": [
         "kusuriya"
@@ -2191,26 +2217,6 @@
       "viaGoogle": false,
       "sourceKind": "news",
       "isNew": false
-    },
-    {
-      "id": "35037b77e56d",
-      "title": "【グラクロ】王選候補者エミリア(リゼロ)の評価とおすすめ装備【七つの大罪】",
-      "url": "https://gamewith.jp/7taizai/article/show/263668",
-      "host": "gamewith.jp",
-      "source": "GameWith",
-      "summary": "",
-      "publishedAt": "2026-11-06T04:18:53.000Z",
-      "image": "https://img.gamewith.jp/article/thumbnail/rectangle/263668.png?date=1616990295",
-      "categories": [
-        "other"
-      ],
-      "works": [
-        "rezero"
-      ],
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": true
     },
     {
       "id": "f884c35babcf",
