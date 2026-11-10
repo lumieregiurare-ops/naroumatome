@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-10T07:30:19.451Z",
+  "updatedAt": "2026-11-10T08:00:20.342Z",
   "site": {
     "title": "なろう系まとめ",
     "tagline": "小説家になろう発の作品のアニメ化・コミカライズ・書籍化のニュースと、なろうのランキングをまとめています。",
@@ -7,12 +7,12 @@
     "contactUrl": "https://docs.google.com/forms/d/e/1FAIpQLSesWyhmZ6sRS_ve-c3X2KqF_wC5PK2TgwgQbTKmnQltSlg5Jw/viewform"
   },
   "total": 85,
-  "todayCount": 27,
+  "todayCount": 28,
   "categories": [
     {
       "id": "anime",
       "label": "アニメ",
-      "count": 50
+      "count": 49
     },
     {
       "id": "comic",
@@ -42,7 +42,7 @@
     {
       "id": "other",
       "label": "そのほか",
-      "count": 16
+      "count": 17
     }
   ],
   "works": [
@@ -74,7 +74,7 @@
       "id": "kusuriya",
       "title": "薬屋のひとりごと",
       "short": "薬屋",
-      "count": 33
+      "count": 32
     },
     {
       "id": "kagejitsu",
@@ -296,15 +296,11 @@
   "sources": [
     {
       "name": "Yahoo!ニュース",
-      "count": 13
+      "count": 15
     },
     {
       "name": "山陽新聞",
       "count": 9
-    },
-    {
-      "name": "アニメ！アニメ！",
-      "count": 6
     },
     {
       "name": "ナタリー",
@@ -313,6 +309,14 @@
     {
       "name": "ラノベニュースオンライン",
       "count": 5
+    },
+    {
+      "name": "アニメ！アニメ！",
+      "count": 5
+    },
+    {
+      "name": "PR TIMES",
+      "count": 3
     },
     {
       "name": "マイナビニュース",
@@ -335,10 +339,6 @@
       "count": 3
     },
     {
-      "name": "ニコニコニュース",
-      "count": 2
-    },
-    {
       "name": "ABEMA TIMES",
       "count": 2
     },
@@ -347,8 +347,12 @@
       "count": 2
     },
     {
-      "name": "PR TIMES",
-      "count": 2
+      "name": "ほんのひきだし",
+      "count": 1
+    },
+    {
+      "name": "ニコニコニュース",
+      "count": 1
     },
     {
       "name": "Mantan Web",
@@ -356,10 +360,6 @@
     },
     {
       "name": "コラボカフェ",
-      "count": 1
-    },
-    {
-      "name": "hobby Watch",
       "count": 1
     },
     {
@@ -441,10 +441,6 @@
     {
       "name": "BANGER!!!（バンガー!!!）映画評論・情報サイト",
       "count": 1
-    },
-    {
-      "name": "J:magazine!",
-      "count": 1
     }
   ],
   "topics": [
@@ -523,41 +519,6 @@
           "source": "電撃オンライン",
           "publishedAt": "2026-11-09T05:08:00.000Z",
           "isPR": false
-        }
-      ]
-    },
-    {
-      "id": "f719ecf36d66",
-      "title": "かなで文庫『転生したらスライムだった件 とある時空の物語⑰（上）』11月16日発売！ミョルマイルとヴェルグリンドの短編を収録、描き下ろし『特製リムル様しおり』も配布",
-      "summary": "",
-      "url": "https://nijimen.kusuguru.co.jp/topics/652688",
-      "image": "https://nijimen.kusuguru.co.jp/wp-content/uploads/2026/11/f7b2f1565c324246a8e0085544d5ff14.jpg",
-      "leadSource": "にじめん",
-      "publishedAt": "2026-11-10T00:45:00.000Z",
-      "sourceCount": 3,
-      "articleCount": 3,
-      "categories": [
-        "book"
-      ],
-      "keywords": [
-        "スライム",
-        "文庫",
-        "時空"
-      ],
-      "articles": [
-        {
-          "title": "児童書版「転スラ」最新刊・『転生したらスライムだった件 とある時空の物語１７.（上）』かなで文庫より、11月16日（月）発売！販売協力店で購入された方に『両面紙しおり』をプレゼント！",
-          "url": "https://news.nicovideo.jp/watch/nw19973033",
-          "source": "ニコニコニュース",
-          "publishedAt": "2026-11-09T15:21:22.000Z",
-          "isPR": false
-        },
-        {
-          "title": "児童書版「転スラ」最新刊・『転生したらスライムだった件 とある時空の物語⑰（上）』かなで文庫より、11月16日（月）発売！販売協力店で購入された方に『両面紙しおり』をプレゼント！",
-          "url": "https://prtimes.jp/main/html/rd/p/000002875.000048095.html",
-          "source": "PR TIMES",
-          "publishedAt": "2026-11-09T08:00:01.000Z",
-          "isPR": true
         }
       ]
     },
@@ -732,13 +693,51 @@
     }
   ],
   "churn": {
-    "previousAt": "2026-11-10T07:00:18.641Z",
-    "previousCount": 84,
-    "newCount": 3
+    "previousAt": "2026-11-10T07:30:19.451Z",
+    "previousCount": 85,
+    "newCount": 2
   },
   "updateGapMin": 30,
-  "nextUpdateAt": "2026-11-10T08:00:19.451Z",
+  "nextUpdateAt": "2026-11-10T08:30:20.342Z",
   "items": [
+    {
+      "id": "3eb500b42cb7",
+      "title": "「この世界は20年以内に滅亡します」ハロワで面接してたら異世界に飛ばされただと…！？『ニートだけどハロワにいったら異世界につれてかれた』【#1】",
+      "url": "https://hon-hikidashi.jp/book-person/217862/",
+      "host": "hon-hikidashi.jp",
+      "source": "ほんのひきだし",
+      "summary": "",
+      "publishedAt": "2026-11-10T07:45:11.000Z",
+      "image": "https://hon-hikidashi.jp/wp-content/uploads/2026/11/72ea58f3ccebb1dee0ebbe46790c9817-1.jpg",
+      "categories": [
+        "other"
+      ],
+      "works": [],
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": true
+    },
+    {
+      "id": "d037145a529d",
+      "title": "児童書版「転スラ」最新刊・『転生したらスライムだった件 とある時空の物語１７.（上）』かなで文庫より、11月16日（月）発売！販売協力店で購入された方に『両面紙しおり』をプレゼント！",
+      "url": "https://prtimes.jp/main/html/rd/p/000002875.000048095.html",
+      "host": "prtimes.jp",
+      "source": "PR TIMES",
+      "summary": "[株式会社マイクロマガジン社] マイクロマガジン社（東京都中央区）は、かなで文庫『転生したらスライムだった件 とある時空の物語１７.（上）』を、2026年11月16日（月）に発売いたします！ 難しい言葉もわかりやすく解説した児童文庫版『転生...",
+      "publishedAt": "2026-11-10T07:40:02.000Z",
+      "image": "https://prcdn.freetls.fastly.net/release_image/48095/2875/48095-2875-681e82b99a0461920bdfbe834ca4489f-1000x1549.jpg?format=jpeg&auto=webp&fit=bounds&width=2400&height=1260",
+      "categories": [
+        "book"
+      ],
+      "works": [
+        "tensura"
+      ],
+      "isPR": true,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": false
+    },
     {
       "id": "040076b206f1",
       "title": "「悪役令嬢の四畳半」オフショットが楽しめるファンブック、キャラクター設定資料も",
@@ -755,7 +754,7 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "036f0cfe13bf",
@@ -972,13 +971,13 @@
     },
     {
       "id": "0a106ac7aafb",
-      "title": "「無職転生III」より「ロキシー・ミグルディア・グレイラット」が1/7スケールでフィギュア化！2027年6月発売予定 帽子は着脱可能",
-      "url": "https://hobby.watch.impress.co.jp/docs/news/2155046.html",
-      "host": "hobby.watch.impress.co.jp",
-      "source": "hobby Watch",
+      "title": "「無職転生III」より「ロキシー・ミグルディア・グレイラット」が1/7スケールでフィギュア化！2027年6月発売予定（HOBBY Watch）",
+      "url": "https://news.yahoo.co.jp/articles/9222b8608214482947156db3c54188e02dc9edd5",
+      "host": "news.yahoo.co.jp",
+      "source": "Yahoo!ニュース",
       "summary": "",
-      "publishedAt": "2026-11-10T02:19:24.000Z",
-      "image": "https://hobby.watch.impress.co.jp/img/hbw/list/2155/046/001.jpg",
+      "publishedAt": "2026-11-10T02:19:00.000Z",
+      "image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20261110-00000006-imphbw-000-1-view.jpg?exp=10800",
       "categories": [
         "goods"
       ],
@@ -1206,26 +1205,6 @@
       "isNew": false
     },
     {
-      "id": "80dae3b81de8",
-      "title": "『転スラ』リムル戦闘！ディアブロ含めキャラ大集結 第90話あらすじ＆場面カット解禁",
-      "url": "https://www.sanyonews.jp/article/1970647?kw",
-      "host": "sanyonews.jp",
-      "source": "山陽新聞",
-      "summary": "",
-      "publishedAt": "2026-11-09T15:32:33.000Z",
-      "image": "https://static.sanyonews.jp/image/article/size1/e/1/6/0/e1606d7d1670af7487b22801b4147609_1.jpg",
-      "categories": [
-        "anime"
-      ],
-      "works": [
-        "tensura"
-      ],
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": true
-    },
-    {
       "id": "18c442dd9a7f",
       "title": "『転スラ』そのキャラ出るの！第4期の第2クールPV解禁 OPはDaoko、EDは田所あずさ",
       "url": "https://www.sanyonews.jp/article/1940746?kw",
@@ -1246,16 +1225,16 @@
       "isNew": false
     },
     {
-      "id": "d037145a529d",
-      "title": "児童書版「転スラ」最新刊・『転生したらスライムだった件 とある時空の物語１７.（上）』かなで文庫より、11月16日（月）発売！販売協力店で購入された方に『両面紙しおり』をプレゼント！",
-      "url": "https://news.nicovideo.jp/watch/nw19973033",
-      "host": "news.nicovideo.jp",
-      "source": "ニコニコニュース",
+      "id": "299970487651",
+      "title": "『転スラ』衝撃の戦闘！封印の解かれたクロノア、破壊の化身に 第94話あらすじ＆場面カット解禁",
+      "url": "https://www.sanyonews.jp/article/1985402?rct",
+      "host": "sanyonews.jp",
+      "source": "山陽新聞",
       "summary": "",
-      "publishedAt": "2026-11-09T15:21:22.000Z",
-      "image": "",
+      "publishedAt": "2026-11-09T15:18:15.000Z",
+      "image": "https://static.sanyonews.jp/image/article/size1/d/9/c/b/d9cb1ddffdf8abde09ac68fbbed84f89_1.jpg",
       "categories": [
-        "book"
+        "anime"
       ],
       "works": [
         "tensura"
@@ -1263,7 +1242,7 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": false
+      "isNew": true
     },
     {
       "id": "5f5f981dfa87",
@@ -1625,26 +1604,6 @@
         "tensura"
       ],
       "isPR": true,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": false
-    },
-    {
-      "id": "4494aacda085",
-      "title": "【コスプレ】艶めく紫のピッチリボディスーツで美脚×ヒップラインが際立つ！雨の中で魅せる「リゼロ」エミリアの可憐な立ち姿【写真10枚】",
-      "url": "https://animeanime.jp/article/2026/11/09/104620.html",
-      "host": "animeanime.jp",
-      "source": "アニメ！アニメ！",
-      "summary": "「コミケ108」で見つけた美女コスプレイヤーを紹介します。",
-      "publishedAt": "2026-11-09T07:45:03.000Z",
-      "image": "https://animeanime.jp/imgs/rss/953463.jpg",
-      "categories": [
-        "other"
-      ],
-      "works": [
-        "rezero"
-      ],
-      "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
       "isNew": false
@@ -2024,7 +1983,27 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": true
+      "isNew": false
+    },
+    {
+      "id": "4494aacda085",
+      "title": "【コスプレ】艶めく紫のピッチリボディスーツで美脚×ヒップラインが際立つ！雨の中で魅せる「リゼロ」エミリアの可憐な立ち姿【写真10枚】（インサイド）",
+      "url": "https://news.yahoo.co.jp/articles/370eaa2f39459a5eeb9d908b8f60e781c8326a6c",
+      "host": "news.yahoo.co.jp",
+      "source": "Yahoo!ニュース",
+      "summary": "",
+      "publishedAt": "2026-11-08T22:00:03.000Z",
+      "image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20261109-00000004-isd-000-1-view.jpg?exp=10800",
+      "categories": [
+        "other"
+      ],
+      "works": [
+        "rezero"
+      ],
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": false
     },
     {
       "id": "458d52c91f72",
@@ -2089,26 +2068,6 @@
       "isNew": false
     },
     {
-      "id": "7cced13db001",
-      "title": "TVアニメ「転生したら剣でしたⅡ」シードラン編突入記念特番",
-      "url": "https://abema.tv/channels/abema-anime/slots/BDbG6nGuy8wUyd",
-      "host": "abema.tv",
-      "source": "ABEMA",
-      "summary": "",
-      "publishedAt": "2026-11-08T15:10:14.000Z",
-      "image": "",
-      "categories": [
-        "anime"
-      ],
-      "works": [
-        "tenken"
-      ],
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": false
-    },
-    {
       "id": "571da7c4ea64",
       "title": "アニメ『薬屋のひとりごと』3期6話“紙の村”。壬氏から持ち込まれた“⾯倒事”に頭を抱える猫猫。そんな中、やぶ医者・虞淵と馬閃、そして変装した壬氏が花街に現れる",
       "url": "https://dengekionline.com/article/202611/93182",
@@ -2162,6 +2121,26 @@
       ],
       "works": [
         "kusuriya"
+      ],
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": false
+    },
+    {
+      "id": "7cced13db001",
+      "title": "TVアニメ「転生したら剣でしたⅡ」シードラン編突入記念特番",
+      "url": "https://abema.tv/channels/abema-anime/slots/BDbG6nGuy8wUyd",
+      "host": "abema.tv",
+      "source": "ABEMA",
+      "summary": "",
+      "publishedAt": "2026-11-08T08:00:00.000Z",
+      "image": "",
+      "categories": [
+        "anime"
+      ],
+      "works": [
+        "tenken"
       ],
       "isPR": false,
       "viaGoogle": false,
@@ -2354,26 +2333,6 @@
         "web"
       ],
       "works": [],
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": false
-    },
-    {
-      "id": "37ce460ad31b",
-      "title": "TVアニメ『薬屋のひとりごと』猫猫の推理がさえるエピソード5選！圧倒的な薬学知識と鋭い観察力で謎を解く",
-      "url": "https://jmagazine.myjcom.jp/category/anime/post001869/",
-      "host": "jmagazine.myjcom.jp",
-      "source": "J:magazine!",
-      "summary": "",
-      "publishedAt": "2026-11-07T08:00:00.000Z",
-      "image": "https://jmagazine.myjcom.jp/uploads/261031_kusuriya01.jpg",
-      "categories": [
-        "anime"
-      ],
-      "works": [
-        "kusuriya"
-      ],
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
