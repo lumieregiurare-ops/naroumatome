@@ -1,12 +1,12 @@
 {
-  "updatedAt": "2026-11-10T08:30:20.366Z",
+  "updatedAt": "2026-11-10T09:00:21.287Z",
   "site": {
     "title": "なろう系まとめ",
     "tagline": "小説家になろう発の作品のアニメ化・コミカライズ・書籍化のニュースと、なろうのランキングをまとめています。",
     "url": "https://naroumatome.gamelab.website/",
     "contactUrl": "https://docs.google.com/forms/d/e/1FAIpQLSesWyhmZ6sRS_ve-c3X2KqF_wC5PK2TgwgQbTKmnQltSlg5Jw/viewform"
   },
-  "total": 85,
+  "total": 83,
   "todayCount": 28,
   "categories": [
     {
@@ -17,7 +17,7 @@
     {
       "id": "comic",
       "label": "コミカライズ",
-      "count": 4
+      "count": 3
     },
     {
       "id": "book",
@@ -42,7 +42,7 @@
     {
       "id": "other",
       "label": "そのほか",
-      "count": 17
+      "count": 16
     }
   ],
   "works": [
@@ -296,7 +296,7 @@
   "sources": [
     {
       "name": "Yahoo!ニュース",
-      "count": 15
+      "count": 14
     },
     {
       "name": "山陽新聞",
@@ -319,7 +319,7 @@
       "count": 3
     },
     {
-      "name": "ABEMA",
+      "name": "ニコニコニュース",
       "count": 3
     },
     {
@@ -335,15 +335,15 @@
       "count": 3
     },
     {
-      "name": "ニコニコニュース",
-      "count": 2
-    },
-    {
       "name": "ABEMA TIMES",
       "count": 2
     },
     {
       "name": "にじめん",
+      "count": 2
+    },
+    {
+      "name": "ABEMA",
       "count": 2
     },
     {
@@ -360,6 +360,10 @@
     },
     {
       "name": "コラボカフェ",
+      "count": 1
+    },
+    {
+      "name": "hobby Watch",
       "count": 1
     },
     {
@@ -432,14 +436,6 @@
     },
     {
       "name": "TBSテレビ",
-      "count": 1
-    },
-    {
-      "name": "こまめブログ",
-      "count": 1
-    },
-    {
-      "name": "BANGER!!!（バンガー!!!）映画評論・情報サイト",
       "count": 1
     }
   ],
@@ -728,21 +724,21 @@
     }
   ],
   "churn": {
-    "previousAt": "2026-11-10T08:00:20.342Z",
+    "previousAt": "2026-11-10T08:30:20.366Z",
     "previousCount": 85,
-    "newCount": 0
+    "newCount": 3
   },
   "updateGapMin": 30,
-  "nextUpdateAt": "2026-11-10T09:00:20.366Z",
+  "nextUpdateAt": "2026-11-10T09:30:21.287Z",
   "items": [
     {
-      "id": "3eb500b42cb7",
-      "title": "「この世界は20年以内に滅亡します」ハロワで面接してたら異世界に飛ばされただと…！？『ニートだけどハロワにいったら異世界につれてかれた』【#1】",
-      "url": "https://hon-hikidashi.jp/book-person/217862/",
+      "id": "0169b83819ea",
+      "title": "雑魚モンスターなら楽勝だと思ったのに…異世界転生した俺を襲った予想外の事態とは『ニートだけどハロワにいったら異世界につれてかれた』【#2】",
+      "url": "https://hon-hikidashi.jp/book-person/217884/",
       "host": "hon-hikidashi.jp",
       "source": "ほんのひきだし",
       "summary": "",
-      "publishedAt": "2026-11-10T07:45:11.000Z",
+      "publishedAt": "2026-11-10T08:45:12.000Z",
       "image": "https://hon-hikidashi.jp/wp-content/uploads/2026/11/72ea58f3ccebb1dee0ebbe46790c9817-1.jpg",
       "categories": [
         "other"
@@ -751,7 +747,7 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": false
+      "isNew": true
     },
     {
       "id": "040076b206f1",
@@ -802,24 +798,6 @@
       "image": "",
       "categories": [
         "anime"
-      ],
-      "works": [],
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": false
-    },
-    {
-      "id": "5b037c1a3930",
-      "title": "転生ゴブリンだけど質問ある？ 総集編【地上波1週間先行・WEB最速】",
-      "url": "https://abema.tv/channels/abema-anime/slots/8nQS8PGAdjy2Q7",
-      "host": "abema.tv",
-      "source": "ABEMA",
-      "summary": "",
-      "publishedAt": "2026-11-10T05:38:58.000Z",
-      "image": "",
-      "categories": [
-        "other"
       ],
       "works": [],
       "isPR": false,
@@ -927,6 +905,25 @@
       "isNew": false
     },
     {
+      "id": "3abb5e95b81f",
+      "title": "TVアニメ『俺の死亡フラグが留まるところを知らない』が2027年に放送決定。第3回「なろうコン大賞」グランプリ受賞、シ",
+      "url": "https://news.nicovideo.jp/watch/nw19974455?news_ref",
+      "host": "news.nicovideo.jp",
+      "source": "ニコニコニュース",
+      "summary": "",
+      "publishedAt": "2026-11-10T03:51:16.000Z",
+      "image": "",
+      "categories": [
+        "web",
+        "anime"
+      ],
+      "works": [],
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": true
+    },
+    {
       "id": "c7af185686c0",
       "title": "俺の死亡フラグが留まるところを知らない＞“なろう系”人気作 2027年テレビアニメ化 ツンデレな悪役が膨大な死亡フラグを回避！（MANTANWEB）",
       "url": "https://news.yahoo.co.jp/articles/5f2fd790708b3ee3bf7469159c54b84864534913",
@@ -986,13 +983,13 @@
     },
     {
       "id": "0a106ac7aafb",
-      "title": "「無職転生III」より「ロキシー・ミグルディア・グレイラット」が1/7スケールでフィギュア化！2027年6月発売予定（HOBBY Watch）",
-      "url": "https://news.yahoo.co.jp/articles/9222b8608214482947156db3c54188e02dc9edd5",
-      "host": "news.yahoo.co.jp",
-      "source": "Yahoo!ニュース",
+      "title": "「無職転生III」より「ロキシー・ミグルディア・グレイラット」が1/7スケールでフィギュア化！2027年6月発売予定 帽子は着脱可能",
+      "url": "https://hobby.watch.impress.co.jp/docs/news/2155046.html",
+      "host": "hobby.watch.impress.co.jp",
+      "source": "hobby Watch",
       "summary": "",
-      "publishedAt": "2026-11-10T02:19:00.000Z",
-      "image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20261110-00000006-imphbw-000-1-view.jpg?exp=10800",
+      "publishedAt": "2026-11-10T02:19:24.000Z",
+      "image": "https://hobby.watch.impress.co.jp/img/hbw/list/2155/046/001.jpg",
       "categories": [
         "goods"
       ],
@@ -1220,6 +1217,26 @@
       "isNew": false
     },
     {
+      "id": "80dae3b81de8",
+      "title": "『転スラ』リムル戦闘！ディアブロ含めキャラ大集結 第90話あらすじ＆場面カット解禁",
+      "url": "https://www.sanyonews.jp/article/1970647?kw",
+      "host": "sanyonews.jp",
+      "source": "山陽新聞",
+      "summary": "",
+      "publishedAt": "2026-11-09T15:32:33.000Z",
+      "image": "https://static.sanyonews.jp/image/article/size1/e/1/6/0/e1606d7d1670af7487b22801b4147609_1.jpg",
+      "categories": [
+        "anime"
+      ],
+      "works": [
+        "tensura"
+      ],
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": true
+    },
+    {
       "id": "18c442dd9a7f",
       "title": "『転スラ』そのキャラ出るの！第4期の第2クールPV解禁 OPはDaoko、EDは田所あずさ",
       "url": "https://www.sanyonews.jp/article/1940746?kw",
@@ -1250,26 +1267,6 @@
       "image": "",
       "categories": [
         "book"
-      ],
-      "works": [
-        "tensura"
-      ],
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": false
-    },
-    {
-      "id": "299970487651",
-      "title": "『転スラ』衝撃の戦闘！封印の解かれたクロノア、破壊の化身に 第94話あらすじ＆場面カット解禁",
-      "url": "https://www.sanyonews.jp/article/1985402?rct",
-      "host": "sanyonews.jp",
-      "source": "山陽新聞",
-      "summary": "",
-      "publishedAt": "2026-11-09T15:18:15.000Z",
-      "image": "https://static.sanyonews.jp/image/article/size1/d/9/c/b/d9cb1ddffdf8abde09ac68fbbed84f89_1.jpg",
-      "categories": [
-        "anime"
       ],
       "works": [
         "tensura"
@@ -2331,43 +2328,6 @@
       "works": [
         "tensei-kizoku"
       ],
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": false
-    },
-    {
-      "id": "4d6b8819bd13",
-      "title": "完結済みの異世界マンガKindle版が全巻1冊99円【11/8まで】",
-      "url": "https://komameblog.jp/sale/kindle-20261107-isekai99/",
-      "host": "komameblog.jp",
-      "source": "こまめブログ",
-      "summary": "",
-      "publishedAt": "2026-11-07T08:54:25.000Z",
-      "image": "https://komameblog.jp/wp-content/uploads/2026/11/Kindle-20261107-isekai99-.jpg",
-      "categories": [
-        "comic"
-      ],
-      "works": [],
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": false
-    },
-    {
-      "id": "fa671ac0a490",
-      "title": "【Hulu アニメ 秋冬ランキング：2026年10～11月】異世界転生・チート系アニメ群雄割拠！秋の夜長によりどりみどり【11/7更新】",
-      "url": "https://www.banger.jp/news/191787/",
-      "host": "banger.jp",
-      "source": "BANGER!!!（バンガー!!!）映画評論・情報サイト",
-      "summary": "",
-      "publishedAt": "2026-11-07T08:45:35.000Z",
-      "image": "https://www.banger.jp/wp-content/uploads/2026/10/tengobu_Hulu.jpg",
-      "categories": [
-        "anime",
-        "web"
-      ],
-      "works": [],
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
