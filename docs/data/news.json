@@ -1,12 +1,12 @@
 {
-  "updatedAt": "2026-11-10T16:30:23.407Z",
+  "updatedAt": "2026-11-10T17:00:23.540Z",
   "site": {
     "title": "なろう系まとめ",
     "tagline": "小説家になろう発の作品のアニメ化・コミカライズ・書籍化のニュースと、なろうのランキングをまとめています。",
     "url": "https://naroumatome.gamelab.website/",
     "contactUrl": "https://docs.google.com/forms/d/e/1FAIpQLSesWyhmZ6sRS_ve-c3X2KqF_wC5PK2TgwgQbTKmnQltSlg5Jw/viewform"
   },
-  "total": 86,
+  "total": 85,
   "todayCount": 0,
   "categories": [
     {
@@ -42,7 +42,7 @@
     {
       "id": "other",
       "label": "そのほか",
-      "count": 17
+      "count": 16
     }
   ],
   "works": [
@@ -307,16 +307,16 @@
       "count": 7
     },
     {
-      "name": "ABEMA",
-      "count": 4
-    },
-    {
       "name": "ラノベニュースオンライン",
       "count": 4
     },
     {
       "name": "アニメ！アニメ！",
       "count": 4
+    },
+    {
+      "name": "ABEMA",
+      "count": 3
     },
     {
       "name": "マイナビニュース",
@@ -720,8 +720,8 @@
       ],
       "articles": [
         {
-          "title": "「悪役令嬢転生おじさん」11巻より [画像ギャラリー 4/5]",
-          "url": "https://natalie.mu/comic/gallery/news/697236/3013247",
+          "title": "「悪役令嬢転生おじさん」11巻 [画像ギャラリー 1/5]",
+          "url": "https://natalie.mu/comic/gallery/news/697236/3013250",
           "source": "ナタリー",
           "publishedAt": "2026-11-09T09:49:05.000Z",
           "isPR": false
@@ -794,12 +794,12 @@
     }
   ],
   "churn": {
-    "previousAt": "2026-11-10T16:00:29.442Z",
-    "previousCount": 85,
-    "newCount": 4
+    "previousAt": "2026-11-10T16:30:23.407Z",
+    "previousCount": 86,
+    "newCount": 1
   },
   "updateGapMin": 30,
-  "nextUpdateAt": "2026-11-10T17:00:23.407Z",
+  "nextUpdateAt": "2026-11-10T17:30:23.540Z",
   "items": [
     {
       "id": "048856b88e3c",
@@ -817,7 +817,7 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "01e4edf73b90",
@@ -1458,7 +1458,7 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "3dd8894a55a3",
@@ -1537,9 +1537,9 @@
       "isNew": false
     },
     {
-      "id": "f18ca2c1cbf4",
-      "title": "「悪役令嬢転生おじさん」11巻より [画像ギャラリー 4/5]",
-      "url": "https://natalie.mu/comic/gallery/news/697236/3013247",
+      "id": "311267d482c8",
+      "title": "「悪役令嬢転生おじさん」11巻 [画像ギャラリー 1/5]",
+      "url": "https://natalie.mu/comic/gallery/news/697236/3013250",
       "host": "natalie.mu",
       "source": "ナタリー",
       "summary": "",
@@ -1742,24 +1742,6 @@
         "tensura"
       ],
       "isPR": true,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": false
-    },
-    {
-      "id": "5b037c1a3930",
-      "title": "転生ゴブリンだけど質問ある？ 総集編【地上波1週間先行・WEB最速】",
-      "url": "https://abema.tv/channels/abema-anime/slots/8nQS8PGAdjy2Q7",
-      "host": "abema.tv",
-      "source": "ABEMA",
-      "summary": "",
-      "publishedAt": "2026-11-09T08:00:00.000Z",
-      "image": "",
-      "categories": [
-        "other"
-      ],
-      "works": [],
-      "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
       "isNew": false
@@ -2160,7 +2142,7 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "4494aacda085",
