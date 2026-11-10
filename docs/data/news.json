@@ -1,18 +1,18 @@
 {
-  "updatedAt": "2026-11-10T10:00:20.142Z",
+  "updatedAt": "2026-11-10T10:30:19.011Z",
   "site": {
     "title": "なろう系まとめ",
     "tagline": "小説家になろう発の作品のアニメ化・コミカライズ・書籍化のニュースと、なろうのランキングをまとめています。",
     "url": "https://naroumatome.gamelab.website/",
     "contactUrl": "https://docs.google.com/forms/d/e/1FAIpQLSesWyhmZ6sRS_ve-c3X2KqF_wC5PK2TgwgQbTKmnQltSlg5Jw/viewform"
   },
-  "total": 79,
-  "todayCount": 26,
+  "total": 81,
+  "todayCount": 28,
   "categories": [
     {
       "id": "anime",
       "label": "アニメ",
-      "count": 46
+      "count": 48
     },
     {
       "id": "comic",
@@ -22,7 +22,7 @@
     {
       "id": "book",
       "label": "書籍・ラノベ",
-      "count": 10
+      "count": 9
     },
     {
       "id": "web",
@@ -37,7 +37,7 @@
     {
       "id": "goods",
       "label": "グッズ・イベント",
-      "count": 16
+      "count": 15
     },
     {
       "id": "other",
@@ -56,7 +56,7 @@
       "id": "mushoku",
       "title": "無職転生 ～異世界行ったら本気だす～",
       "short": "無職転生",
-      "count": 4
+      "count": 6
     },
     {
       "id": "rezero",
@@ -74,7 +74,7 @@
       "id": "kusuriya",
       "title": "薬屋のひとりごと",
       "short": "薬屋",
-      "count": 32
+      "count": 33
     },
     {
       "id": "kagejitsu",
@@ -296,11 +296,11 @@
   "sources": [
     {
       "name": "Yahoo!ニュース",
-      "count": 14
+      "count": 15
     },
     {
       "name": "山陽新聞",
-      "count": 9
+      "count": 10
     },
     {
       "name": "ナタリー",
@@ -319,6 +319,10 @@
       "count": 3
     },
     {
+      "name": "ニコニコニュース",
+      "count": 3
+    },
+    {
       "name": "ライブドアニュース",
       "count": 3
     },
@@ -331,19 +335,11 @@
       "count": 3
     },
     {
-      "name": "ニコニコニュース",
-      "count": 2
-    },
-    {
-      "name": "ABEMA TIMES",
+      "name": "Howl.Link",
       "count": 2
     },
     {
       "name": "にじめん",
-      "count": 2
-    },
-    {
-      "name": "ABEMA",
       "count": 2
     },
     {
@@ -352,6 +348,10 @@
     },
     {
       "name": "ほんのひきだし",
+      "count": 1
+    },
+    {
+      "name": "ABEMA TIMES",
       "count": 1
     },
     {
@@ -368,10 +368,6 @@
     },
     {
       "name": "Dtimes",
-      "count": 1
-    },
-    {
-      "name": "グルメ Watch",
       "count": 1
     },
     {
@@ -403,11 +399,11 @@
       "count": 1
     },
     {
-      "name": "tenki.jp",
+      "name": "日本テレビ",
       "count": 1
     },
     {
-      "name": "日本テレビ",
+      "name": "ABEMA",
       "count": 1
     },
     {
@@ -424,6 +420,10 @@
     },
     {
       "name": "はてなブログ",
+      "count": 1
+    },
+    {
+      "name": "千葉テレビ放送株式会社",
       "count": 1
     },
     {
@@ -444,8 +444,8 @@
       "image": "https://times-abema.ismcdn.jp/mwimgs/a/d/1200w/img_ada1011f3250f9690e4682fa92fb9afe72678.jpg",
       "leadSource": "ABEMA TIMES",
       "publishedAt": "2026-11-10T05:11:00.000Z",
-      "sourceCount": 13,
-      "articleCount": 17,
+      "sourceCount": 10,
+      "articleCount": 11,
       "categories": [
         "anime",
         "goods"
@@ -453,7 +453,7 @@
       "keywords": [
         "薬屋",
         "猫猫",
-        "壬氏"
+        "コラボ"
       ],
       "articles": [
         {
@@ -475,13 +475,6 @@
           "url": "https://dtimes.jp/post-1464091/",
           "source": "Dtimes",
           "publishedAt": "2026-11-09T21:40:19.000Z",
-          "isPR": false
-        },
-        {
-          "title": "栗山米菓「ばかうけ」と「劇場版 薬屋のひとりごと 亡妃の秘宝」がコラボ！ 描き下ろしの限定シール付き",
-          "url": "https://gourmet.watch.impress.co.jp/docs/news/2154773.html",
-          "source": "グルメ Watch",
-          "publishedAt": "2026-11-09T11:10:56.000Z",
           "isPR": false
         },
         {
@@ -510,6 +503,112 @@
           "url": "https://dengekionline.com/article/202611/93474",
           "source": "電撃オンライン",
           "publishedAt": "2026-11-09T05:08:00.000Z",
+          "isPR": false
+        },
+        {
+          "title": "「薬屋のひとりごと」猫猫＆壬氏が「ばかうけ」と初コラボ！限定パケ＆全6種のオリジナルシールはコンプしたい！",
+          "url": "https://news.yahoo.co.jp/articles/5746e6249c187c9b37c5c28687a76156c047cd10/images/000",
+          "source": "Yahoo!ニュース",
+          "publishedAt": "2026-11-09T03:50:41.000Z",
+          "isPR": false
+        }
+      ]
+    },
+    {
+      "id": "5b3f2206d596",
+      "title": "『薬屋のひとりごと』猫猫＆壬氏が織りなす幻想世界 六本木ヒルズ展望台で初の“舞”イベント",
+      "summary": "",
+      "url": "https://www.sanyonews.jp/article/1938679?kw",
+      "image": "https://static.sanyonews.jp/image/article/size1/1/8/6/d/186de6bed03b1bb06f72b3fe36057ad9_1.jpg",
+      "leadSource": "山陽新聞",
+      "publishedAt": "2026-11-09T22:18:45.000Z",
+      "sourceCount": 4,
+      "articleCount": 4,
+      "categories": [
+        "goods",
+        "anime"
+      ],
+      "keywords": [
+        "薬屋",
+        "猫猫",
+        "壬氏"
+      ],
+      "articles": [
+        {
+          "title": "猫猫がやぶ医者の嫁に!?変装中の壬氏の動揺に「無言でも面白い」アニメ『薬屋のひとりごと』54話（ABEMA TIMES）",
+          "url": "https://news.yahoo.co.jp/articles/d8c8a255b188d80d9bfab24b707478db82841757",
+          "source": "Yahoo!ニュース",
+          "publishedAt": "2026-11-09T11:00:38.000Z",
+          "isPR": false
+        },
+        {
+          "title": "TVアニメ『薬屋のひとりごと』3期6話のあらすじ公開！ 猫猫は、虞淵（やぶ医者）の⾥帰りに同⾏するようで…",
+          "url": "https://eeo.today/media/2026/11/05/409795/",
+          "source": "eeo",
+          "publishedAt": "2026-11-09T03:53:27.000Z",
+          "isPR": false
+        },
+        {
+          "title": "アニメ『薬屋のひとりごと』3期6話“紙の村”。壬氏から持ち込まれた“⾯倒事”に頭を抱える猫猫。そんな中、やぶ医者・虞淵と馬閃、そして変装した壬氏が花街に現れる",
+          "url": "https://dengekionline.com/article/202611/93182",
+          "source": "電撃オンライン",
+          "publishedAt": "2026-11-08T13:27:00.000Z",
+          "isPR": false
+        }
+      ]
+    },
+    {
+      "id": "daea2b931feb",
+      "title": "アニメ『凶乱令嬢ニア・リストン 病弱令嬢に転生した神殺しの武人の華麗なる無双録』第6話「学院武闘大会、開催！」のあらすじ＆先行カット解禁",
+      "summary": "",
+      "url": "https://ln-news.com/articles/127152",
+      "image": "https://assets.ln-news.com/images/medias/3507631f564e4322b9a739e7fc495404.jpg",
+      "leadSource": "ラノベニュースオンライン",
+      "publishedAt": "2026-11-09T10:00:00.000Z",
+      "sourceCount": 3,
+      "articleCount": 6,
+      "categories": [
+        "anime"
+      ],
+      "keywords": [
+        "カット",
+        "先行",
+        "転生貴族"
+      ],
+      "articles": [
+        {
+          "title": "『薬屋のひとりごと』第54話 あらすじ＆先行カット公開！（アニメージュプラス）",
+          "url": "https://news.yahoo.co.jp/articles/470e48940e4962b4bfd8bf517cc9cadf041cc984",
+          "source": "Yahoo!ニュース",
+          "publishedAt": "2026-11-09T03:15:00.000Z",
+          "isPR": false
+        },
+        {
+          "title": "壬⽒から持ち込まれた“⾯倒事”に猫猫は頭を抱える…アニメ『薬屋のひとりごと』第54話あらすじ・先行カット公開",
+          "url": "https://news.yahoo.co.jp/articles/f59685bbc3c0cdb28aef8e5922e7dc864ff5eb4c",
+          "source": "Yahoo!ニュース",
+          "publishedAt": "2026-11-09T03:03:00.000Z",
+          "isPR": false
+        },
+        {
+          "title": "アニメ『転生貴族、鑑定スキルで成り上がる 第3期』第31話「アルス救出へ」のあらすじ＆先行カット解禁",
+          "url": "https://ln-news.com/articles/127148",
+          "source": "ラノベニュースオンライン",
+          "publishedAt": "2026-11-08T10:00:00.000Z",
+          "isPR": false
+        },
+        {
+          "title": "アニメ『転生貴族、鑑定スキルで成り上がる』第31話、大ピンチのアルス救出作戦！【先行カット】（オタク総研）",
+          "url": "https://news.yahoo.co.jp/articles/893e72160635dab2b95b40d349fcc74d20c51480",
+          "source": "Yahoo!ニュース",
+          "publishedAt": "2026-11-08T02:18:00.000Z",
+          "isPR": false
+        },
+        {
+          "title": "転生貴族、鑑定スキルで成り上がる 第３期 [字] ＃３２【アガルアニメ】",
+          "url": "https://www.tbs.co.jp/tv/20261115_C574.html",
+          "source": "TBSテレビ",
+          "publishedAt": "2026-11-07T19:29:14.000Z",
           "isPR": false
         }
       ]
@@ -546,6 +645,62 @@
           "source": "PR TIMES",
           "publishedAt": "2026-11-09T08:00:01.000Z",
           "isPR": true
+        }
+      ]
+    },
+    {
+      "id": "1d034ea68c7b",
+      "title": "『転スラ』剣を交えるリムルとレオン！ルミナスも動く 第91話あらすじ＆場面カット解禁",
+      "summary": "",
+      "url": "https://www.sanyonews.jp/article/1973862?kw",
+      "image": "https://static.sanyonews.jp/image/article/size1/c/5/6/4/c564fde6e19fffbb9ffc1ef2aae7229b_1.jpg",
+      "leadSource": "山陽新聞",
+      "publishedAt": "2026-11-09T18:47:41.000Z",
+      "sourceCount": 2,
+      "articleCount": 6,
+      "categories": [
+        "anime"
+      ],
+      "keywords": [
+        "カット",
+        "場面",
+        "解禁"
+      ],
+      "articles": [
+        {
+          "title": "『無職転生』“不死魔王”アトーフェラトーフェが立ちふさがる 第3期の第10話あらすじ＆場面カット公開",
+          "url": "https://www.sanyonews.jp/article/1978431?kw",
+          "source": "山陽新聞",
+          "publishedAt": "2026-11-09T16:19:06.000Z",
+          "isPR": false
+        },
+        {
+          "title": "『転スラ』クロエとヒナタ、暴風竜に戦いを挑む 【勇者クロノア・後編】第93話あらすじ＆場面カット解禁",
+          "url": "https://www.sanyonews.jp/photo/detail?article_id",
+          "source": "山陽新聞",
+          "publishedAt": "2026-11-09T08:28:33.000Z",
+          "isPR": false
+        },
+        {
+          "title": "『薬屋のひとりごと』変装した壬氏登場…第54話あらすじ＆場面カット公開 旅路設定画も解禁（オリコン）",
+          "url": "https://news.yahoo.co.jp/articles/de7e28a5d3bef4f510c5b176af563071f0af0606",
+          "source": "Yahoo!ニュース",
+          "publishedAt": "2026-11-09T02:42:00.000Z",
+          "isPR": false
+        },
+        {
+          "title": "『無職転生』第3期、第1話＆第2話あらすじ＆場面カット公開 “第1期以来の登場”エリスが剣の聖地へ",
+          "url": "https://www.sanyonews.jp/article/1947902?kw",
+          "source": "山陽新聞",
+          "publishedAt": "2026-11-09T02:33:57.000Z",
+          "isPR": false
+        },
+        {
+          "title": "『片田舎のおっさん、剣聖になる』サーベルボア討伐 第2期の第5話あらすじ＆場面カット解禁",
+          "url": "https://www.sanyonews.jp/article/1966527?rct",
+          "source": "山陽新聞",
+          "publishedAt": "2026-11-08T18:25:08.000Z",
+          "isPR": false
         }
       ]
     },
@@ -605,34 +760,6 @@
       ]
     },
     {
-      "id": "3dd8894a55a3",
-      "title": "猫猫がやぶ医者の嫁に!?変装中の壬氏の動揺に「無言でも面白い」アニメ『薬屋のひとりごと』54話（ABEMA TIMES）",
-      "summary": "",
-      "url": "https://news.yahoo.co.jp/articles/d8c8a255b188d80d9bfab24b707478db82841757",
-      "image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20261109-10287569-abemad-000-1-view.jpg?exp=10800",
-      "leadSource": "Yahoo!ニュース",
-      "publishedAt": "2026-11-09T11:00:38.000Z",
-      "sourceCount": 2,
-      "articleCount": 2,
-      "categories": [
-        "anime"
-      ],
-      "keywords": [
-        "薬屋",
-        "猫猫",
-        "医者"
-      ],
-      "articles": [
-        {
-          "title": "TVアニメ『薬屋のひとりごと』3期6話のあらすじ公開！ 猫猫は、虞淵（やぶ医者）の⾥帰りに同⾏するようで…",
-          "url": "https://eeo.today/media/2026/11/05/409795/",
-          "source": "eeo",
-          "publishedAt": "2026-11-09T03:53:27.000Z",
-          "isPR": false
-        }
-      ]
-    },
-    {
       "id": "9fe251274de8",
       "title": "『信者ゼロの女神サマと始める異世界攻略』",
       "summary": "",
@@ -660,43 +787,15 @@
           "isPR": false
         }
       ]
-    },
-    {
-      "id": "9d47237b64ab",
-      "title": "アニメ『転生貴族、鑑定スキルで成り上がる』第31話、大ピンチのアルス救出作戦！【先行カット】（オタク総研）",
-      "summary": "",
-      "url": "https://news.yahoo.co.jp/articles/893e72160635dab2b95b40d349fcc74d20c51480",
-      "image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20261108-00111800-otakulab-000-1-view.jpg?exp=10800",
-      "leadSource": "Yahoo!ニュース",
-      "publishedAt": "2026-11-08T02:18:00.000Z",
-      "sourceCount": 2,
-      "articleCount": 2,
-      "categories": [
-        "anime"
-      ],
-      "keywords": [
-        "転生貴族",
-        "スキル",
-        "鑑定"
-      ],
-      "articles": [
-        {
-          "title": "転生貴族、鑑定スキルで成り上がる 第３期 [字] ＃３２【アガルアニメ】",
-          "url": "https://www.tbs.co.jp/tv/20261115_C574.html",
-          "source": "TBSテレビ",
-          "publishedAt": "2026-11-07T19:29:14.000Z",
-          "isPR": false
-        }
-      ]
     }
   ],
   "churn": {
-    "previousAt": "2026-11-10T09:30:18.168Z",
-    "previousCount": 82,
-    "newCount": 1
+    "previousAt": "2026-11-10T10:00:20.142Z",
+    "previousCount": 79,
+    "newCount": 6
   },
   "updateGapMin": 30,
-  "nextUpdateAt": "2026-11-10T10:30:20.142Z",
+  "nextUpdateAt": "2026-11-10T11:00:19.011Z",
   "items": [
     {
       "id": "b541e6c8e862",
@@ -711,6 +810,46 @@
         "other"
       ],
       "works": [],
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": false
+    },
+    {
+      "id": "7109bc018797",
+      "title": "テレビアニメ『無職転生 〜異世界行ったら本気だす〜』第1期第2クール アニメレビュー記事まとめ : 歴史狂アニメ狂大河狂読書狂",
+      "url": "https://t.co/7KdXeDZjnF",
+      "host": "t.co",
+      "source": "Howl.Link",
+      "summary": "",
+      "publishedAt": "2026-11-10T08:17:48.000Z",
+      "image": "",
+      "categories": [
+        "anime"
+      ],
+      "works": [
+        "mushoku"
+      ],
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": true
+    },
+    {
+      "id": "7323e38fc383",
+      "title": "テレビアニメ『無職転生 〜異世界行ったら本気だす〜』第1期第1クール アニメレビュー記事まとめ : 歴史狂アニメ狂大河狂読書狂",
+      "url": "https://t.co/T1P68g7i98",
+      "host": "t.co",
+      "source": "Howl.Link",
+      "summary": "",
+      "publishedAt": "2026-11-10T08:16:19.000Z",
+      "image": "",
+      "categories": [
+        "anime"
+      ],
+      "works": [
+        "mushoku"
+      ],
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
@@ -854,12 +993,12 @@
     {
       "id": "dbe99938665d",
       "title": "猫猫キック炸裂！鈍感な馬閃への容赦ないサポートに「蹴り過ぎwww」アニメ『薬屋のひとりごと』54話",
-      "url": "https://times.abema.tv/articles/-/10287811",
-      "host": "times.abema.tv",
-      "source": "ABEMA TIMES",
+      "url": "https://news.nicovideo.jp/watch/nw19974679?news_ref",
+      "host": "news.nicovideo.jp",
+      "source": "ニコニコニュース",
       "summary": "",
-      "publishedAt": "2026-11-10T04:46:00.000Z",
-      "image": "https://times-abema.ismcdn.jp/mwimgs/f/a/1200w/img_fa706aeb56931efbe5044bea633363cf192688.jpg",
+      "publishedAt": "2026-11-10T04:48:11.000Z",
+      "image": "",
       "categories": [
         "anime"
       ],
@@ -1028,6 +1167,26 @@
       "isNew": false
     },
     {
+      "id": "5b3f2206d596",
+      "title": "『薬屋のひとりごと』猫猫＆壬氏が織りなす幻想世界 六本木ヒルズ展望台で初の“舞”イベント",
+      "url": "https://www.sanyonews.jp/article/1938679?kw",
+      "host": "sanyonews.jp",
+      "source": "山陽新聞",
+      "summary": "",
+      "publishedAt": "2026-11-09T22:18:45.000Z",
+      "image": "https://static.sanyonews.jp/image/article/size1/1/8/6/d/186de6bed03b1bb06f72b3fe36057ad9_1.jpg",
+      "categories": [
+        "goods"
+      ],
+      "works": [
+        "kusuriya"
+      ],
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": true
+    },
+    {
       "id": "1b61e10bb44a",
       "title": "猫猫と壬氏が映画館ロビーに登場！『劇場版 薬屋のひとりごと』×「TOHO-ONE」特別コラボ動画が解禁！ TOHOシネマズでの幕間上映もスタート",
       "url": "https://www.moviecollection.jp/movie/312444/",
@@ -1069,6 +1228,26 @@
       "isNew": false
     },
     {
+      "id": "1d034ea68c7b",
+      "title": "『転スラ』剣を交えるリムルとレオン！ルミナスも動く 第91話あらすじ＆場面カット解禁",
+      "url": "https://www.sanyonews.jp/article/1973862?kw",
+      "host": "sanyonews.jp",
+      "source": "山陽新聞",
+      "summary": "",
+      "publishedAt": "2026-11-09T18:47:41.000Z",
+      "image": "https://static.sanyonews.jp/image/article/size1/c/5/6/4/c564fde6e19fffbb9ffc1ef2aae7229b_1.jpg",
+      "categories": [
+        "anime"
+      ],
+      "works": [
+        "tensura"
+      ],
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": true
+    },
+    {
       "id": "ca16eb4710c2",
       "title": "TVアニメ「アラフォー賢者の異世界生活日記」ティザービジュアル ©寿安清/MFブックス/アラフォー賢者製作委員会",
       "url": "https://natalie.mu/comic/gallery/news/696392/2971646",
@@ -1080,24 +1259,6 @@
       "categories": [
         "anime",
         "book"
-      ],
-      "works": [],
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": false
-    },
-    {
-      "id": "048856b88e3c",
-      "title": "異世界・ファンタジーアニメ4チャンネル | 無料で放送中の番組や配信中の話題作が見放題",
-      "url": "https://abema.tv/now-on-air/isekai-anime-4",
-      "host": "abema.tv",
-      "source": "ABEMA",
-      "summary": "",
-      "publishedAt": "2026-11-09T17:55:21.000Z",
-      "image": "",
-      "categories": [
-        "anime"
       ],
       "works": [],
       "isPR": false,
@@ -1139,26 +1300,6 @@
       ],
       "works": [
         "mushoku"
-      ],
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": false
-    },
-    {
-      "id": "80dae3b81de8",
-      "title": "『転スラ』リムル戦闘！ディアブロ含めキャラ大集結 第90話あらすじ＆場面カット解禁",
-      "url": "https://www.sanyonews.jp/article/1970647?kw",
-      "host": "sanyonews.jp",
-      "source": "山陽新聞",
-      "summary": "",
-      "publishedAt": "2026-11-09T15:32:33.000Z",
-      "image": "https://static.sanyonews.jp/image/article/size1/e/1/6/0/e1606d7d1670af7487b22801b4147609_1.jpg",
-      "categories": [
-        "anime"
-      ],
-      "works": [
-        "tensura"
       ],
       "isPR": false,
       "viaGoogle": false,
@@ -1253,27 +1394,6 @@
       "image": "https://thetv.jp/i/nw/1455243/19085873.jpg?w=1284",
       "categories": [
         "game"
-      ],
-      "works": [
-        "kusuriya"
-      ],
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": false
-    },
-    {
-      "id": "5641cfa508eb",
-      "title": "栗山米菓「ばかうけ」と「劇場版 薬屋のひとりごと 亡妃の秘宝」がコラボ！ 描き下ろしの限定シール付き",
-      "url": "https://gourmet.watch.impress.co.jp/docs/news/2154773.html",
-      "host": "gourmet.watch.impress.co.jp",
-      "source": "グルメ Watch",
-      "summary": "",
-      "publishedAt": "2026-11-09T11:10:56.000Z",
-      "image": "https://gourmet.watch.impress.co.jp/img/grw/list/2154/773/01.jpg",
-      "categories": [
-        "anime",
-        "goods"
       ],
       "works": [
         "kusuriya"
@@ -1749,6 +1869,26 @@
       "isNew": false
     },
     {
+      "id": "ae12b40bbbf0",
+      "title": "『薬屋のひとりごと』第54話 あらすじ＆先行カット公開！（アニメージュプラス）",
+      "url": "https://news.yahoo.co.jp/articles/470e48940e4962b4bfd8bf517cc9cadf041cc984",
+      "host": "news.yahoo.co.jp",
+      "source": "Yahoo!ニュース",
+      "summary": "",
+      "publishedAt": "2026-11-09T03:15:00.000Z",
+      "image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20261105-00068163-animage-000-2-view.jpg?exp=10800",
+      "categories": [
+        "anime"
+      ],
+      "works": [
+        "kusuriya"
+      ],
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": true
+    },
+    {
       "id": "4852e4f1c5f3",
       "title": "「沖縄アニメーションフェスティバル2027​」 TVアニメ『転生したらスライムだった件 第4期​』×TVアニメ『転生したらスライムだった件 クレイマンREVENGE』 合同ステージ実施決定！​ - https://www.ten-sura…",
       "url": "https://www.ten-sura.com/news/anime/tensura/news/post/12126",
@@ -1903,27 +2043,6 @@
         "kusuriya"
       ],
       "isPR": true,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": false
-    },
-    {
-      "id": "3b6d7b2bc3d7",
-      "title": "【期間限定】『薬屋のひとりごと』原作小説カフェ @TOKYOの今日・明日の天気 週末の天気・紫外線情報【お出かけスポット天気】",
-      "url": "https://tenki.jp/leisure/3/16/93/187094/",
-      "host": "tenki.jp",
-      "source": "tenki.jp",
-      "summary": "",
-      "publishedAt": "2026-11-09T00:47:39.000Z",
-      "image": "https://d2goguvysdoarq.cloudfront.net/system/facility_photos/photos/307024/normal.jpg?1777519463&w=640&h=640&t=r",
-      "categories": [
-        "book",
-        "goods"
-      ],
-      "works": [
-        "kusuriya"
-      ],
-      "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
       "isNew": false
@@ -2205,6 +2324,26 @@
       "viaGoogle": false,
       "sourceKind": "news",
       "isNew": false
+    },
+    {
+      "id": "36d7fc3d4913",
+      "title": "アニメ『薬屋のひとりごと 第3期』はどこで見れる？サブスク・配信サービスを全調査 | VODB! by チバテレ",
+      "url": "https://www.chiba-tv.com/vod-db/kusuriya-s3-anime/",
+      "host": "chiba-tv.com",
+      "source": "千葉テレビ放送株式会社",
+      "summary": "",
+      "publishedAt": "2026-11-08T00:05:49.000Z",
+      "image": "https://www.chiba-tv.com/vod-db/wp-content/uploads/2026/09/eyecatch_kusuriya-s3-anime.png",
+      "categories": [
+        "anime"
+      ],
+      "works": [
+        "kusuriya"
+      ],
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": true
     },
     {
       "id": "01e4edf73b90",
