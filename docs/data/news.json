@@ -1,23 +1,23 @@
 {
-  "updatedAt": "2026-11-10T20:30:19.874Z",
+  "updatedAt": "2026-11-10T21:00:20.669Z",
   "site": {
     "title": "なろう系まとめ",
     "tagline": "小説家になろう発の作品のアニメ化・コミカライズ・書籍化のニュースと、なろうのランキングをまとめています。",
     "url": "https://naroumatome.gamelab.website/",
     "contactUrl": "https://docs.google.com/forms/d/e/1FAIpQLSesWyhmZ6sRS_ve-c3X2KqF_wC5PK2TgwgQbTKmnQltSlg5Jw/viewform"
   },
-  "total": 82,
+  "total": 81,
   "todayCount": 2,
   "categories": [
     {
       "id": "anime",
       "label": "アニメ",
-      "count": 48
+      "count": 46
     },
     {
       "id": "comic",
       "label": "コミカライズ",
-      "count": 5
+      "count": 4
     },
     {
       "id": "book",
@@ -27,7 +27,7 @@
     {
       "id": "web",
       "label": "Web小説・賞",
-      "count": 4
+      "count": 3
     },
     {
       "id": "game",
@@ -42,7 +42,7 @@
     {
       "id": "other",
       "label": "そのほか",
-      "count": 16
+      "count": 17
     }
   ],
   "works": [
@@ -56,13 +56,13 @@
       "id": "mushoku",
       "title": "無職転生 ～異世界行ったら本気だす～",
       "short": "無職転生",
-      "count": 7
+      "count": 6
     },
     {
       "id": "rezero",
       "title": "Re:ゼロから始める異世界生活",
       "short": "リゼロ",
-      "count": 3
+      "count": 4
     },
     {
       "id": "honzuki",
@@ -296,22 +296,22 @@
   "sources": [
     {
       "name": "Yahoo!ニュース",
-      "count": 15
+      "count": 14
     },
     {
       "name": "山陽新聞",
-      "count": 9
+      "count": 8
     },
     {
       "name": "ナタリー",
       "count": 6
     },
     {
-      "name": "ラノベニュースオンライン",
-      "count": 4
+      "name": "アニメ！アニメ！",
+      "count": 5
     },
     {
-      "name": "アニメ！アニメ！",
+      "name": "ラノベニュースオンライン",
       "count": 4
     },
     {
@@ -332,10 +332,6 @@
     },
     {
       "name": "Howl.Link",
-      "count": 2
-    },
-    {
-      "name": "ニコニコニュース",
       "count": 2
     },
     {
@@ -367,15 +363,15 @@
       "count": 1
     },
     {
-      "name": "ABEMA",
-      "count": 1
-    },
-    {
       "name": "玩具人 TOY PEOPLE",
       "count": 1
     },
     {
       "name": "コミロック",
+      "count": 1
+    },
+    {
+      "name": "ニコニコニュース",
       "count": 1
     },
     {
@@ -411,11 +407,19 @@
       "count": 1
     },
     {
+      "name": "GameWith",
+      "count": 1
+    },
+    {
       "name": "tenki.jp",
       "count": 1
     },
     {
       "name": "日本テレビ",
+      "count": 1
+    },
+    {
+      "name": "ABEMA",
       "count": 1
     },
     {
@@ -554,7 +558,7 @@
       "leadSource": "山陽新聞",
       "publishedAt": "2026-11-09T18:47:41.000Z",
       "sourceCount": 2,
-      "articleCount": 6,
+      "articleCount": 5,
       "categories": [
         "anime"
       ],
@@ -583,13 +587,6 @@
           "url": "https://news.yahoo.co.jp/articles/de7e28a5d3bef4f510c5b176af563071f0af0606",
           "source": "Yahoo!ニュース",
           "publishedAt": "2026-11-09T02:42:00.000Z",
-          "isPR": false
-        },
-        {
-          "title": "『無職転生』第3期、第1話＆第2話あらすじ＆場面カット公開 “第1期以来の登場”エリスが剣の聖地へ",
-          "url": "https://www.sanyonews.jp/article/1947902?kw",
-          "source": "山陽新聞",
-          "publishedAt": "2026-11-09T02:33:57.000Z",
           "isPR": false
         },
         {
@@ -706,42 +703,15 @@
           "isPR": false
         }
       ]
-    },
-    {
-      "id": "5f78c3817a0a",
-      "title": "「悪役令嬢転生おじさん」11巻より [画像ギャラリー 2/5]",
-      "summary": "",
-      "url": "https://natalie.mu/comic/gallery/news/697236/3013249?ref",
-      "image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20261109-00000098-nataliec-000-1-view.jpg?exp=10800",
-      "leadSource": "ナタリー",
-      "publishedAt": "2026-11-09T13:41:04.000Z",
-      "sourceCount": 2,
-      "articleCount": 2,
-      "categories": [
-        "book",
-        "comic"
-      ],
-      "keywords": [
-        "悪役令嬢転生"
-      ],
-      "articles": [
-        {
-          "title": "グレイス＝憲三郎、魔法学園の生徒会長に？「悪役令嬢転生おじさん」11巻（コミックナタリー）",
-          "url": "https://news.yahoo.co.jp/articles/cc5ff6328291bc9115a0682644cb806a07e538ca",
-          "source": "Yahoo!ニュース",
-          "publishedAt": "2026-11-09T09:45:11.000Z",
-          "isPR": false
-        }
-      ]
     }
   ],
   "churn": {
-    "previousAt": "2026-11-10T20:00:19.986Z",
+    "previousAt": "2026-11-10T20:30:19.874Z",
     "previousCount": 82,
-    "newCount": 0
+    "newCount": 3
   },
   "updateGapMin": 30,
-  "nextUpdateAt": "2026-11-10T21:00:19.874Z",
+  "nextUpdateAt": "2026-11-10T21:30:20.669Z",
   "items": [
     {
       "id": "d037145a529d",
@@ -814,26 +784,6 @@
         "other"
       ],
       "works": [],
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": false
-    },
-    {
-      "id": "e43e354fa697",
-      "title": "転生したら剣でした TVアニメ「転生したら剣でしたⅡ」シードラン編突入記念特番 (アニメ) | 無料動画・見逃し配信を見るなら",
-      "url": "https://abema.tv/video/title/218-934",
-      "host": "abema.tv",
-      "source": "ABEMA",
-      "summary": "",
-      "publishedAt": "2026-11-10T10:43:10.000Z",
-      "image": "",
-      "categories": [
-        "anime"
-      ],
-      "works": [
-        "tenken"
-      ],
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
@@ -1085,25 +1035,6 @@
       "works": [
         "kusuriya"
       ],
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": false
-    },
-    {
-      "id": "3abb5e95b81f",
-      "title": "TVアニメ『俺の死亡フラグが留まるところを知らない』が2027年に放送決定。第3回「なろうコン大賞」グランプリ受賞、シ",
-      "url": "https://news.nicovideo.jp/watch/nw19974455?news_ref",
-      "host": "news.nicovideo.jp",
-      "source": "ニコニコニュース",
-      "summary": "",
-      "publishedAt": "2026-11-10T03:51:16.000Z",
-      "image": "",
-      "categories": [
-        "web",
-        "anime"
-      ],
-      "works": [],
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
@@ -1479,23 +1410,22 @@
       "isNew": false
     },
     {
-      "id": "8a80a98db6cc",
-      "title": "グレイス＝憲三郎、魔法学園の生徒会長に？「悪役令嬢転生おじさん」11巻（コミックナタリー）",
-      "url": "https://news.yahoo.co.jp/articles/cc5ff6328291bc9115a0682644cb806a07e538ca",
-      "host": "news.yahoo.co.jp",
-      "source": "Yahoo!ニュース",
+      "id": "62dd2ca2c04c",
+      "title": "直筆サイン入り複製原画が当たる！藤咲もえ先生『腐男子召喚～異世界で神獣にハメられました～(14)』発売記念キャンペーン開催！【ホーリンラブブックス】",
+      "url": "https://animeanime.jp/release/prtimes/20261109/325622.html",
+      "host": "animeanime.jp",
+      "source": "アニメ！アニメ！",
       "summary": "",
-      "publishedAt": "2026-11-09T09:45:11.000Z",
-      "image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20261109-00000098-nataliec-000-1-view.jpg?exp=10800",
+      "publishedAt": "2026-11-09T10:00:00.000Z",
+      "image": "https://animeanime.jp/release/imgs/list/571722.jpg",
       "categories": [
-        "comic",
         "book"
       ],
       "works": [],
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": false
+      "isNew": true
     },
     {
       "id": "fa95f9677818",
@@ -1967,6 +1897,26 @@
       "isNew": false
     },
     {
+      "id": "cba0e0bf9b34",
+      "title": "【グラクロ】太陽姫プリシラ(リゼロ)の評価とおすすめ装備【七つの大罪】",
+      "url": "https://gamewith.jp/7taizai/article/show/557265",
+      "host": "gamewith.jp",
+      "source": "GameWith",
+      "summary": "",
+      "publishedAt": "2026-11-09T02:46:31.000Z",
+      "image": "https://img.gamewith.jp/article/thumbnail/rectangle/557265.png?date=1776861377",
+      "categories": [
+        "other"
+      ],
+      "works": [
+        "rezero"
+      ],
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": true
+    },
+    {
       "id": "8459bee04904",
       "title": "『薬屋のひとりごと』変装した壬氏登場…第54話あらすじ＆場面カット公開 旅路設定画も解禁（オリコン）",
       "url": "https://news.yahoo.co.jp/articles/de7e28a5d3bef4f510c5b176af563071f0af0606",
@@ -1980,26 +1930,6 @@
       ],
       "works": [
         "kusuriya"
-      ],
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": false
-    },
-    {
-      "id": "0de9d62d7712",
-      "title": "『無職転生』第3期、第1話＆第2話あらすじ＆場面カット公開 “第1期以来の登場”エリスが剣の聖地へ",
-      "url": "https://www.sanyonews.jp/article/1947902?kw",
-      "host": "sanyonews.jp",
-      "source": "山陽新聞",
-      "summary": "",
-      "publishedAt": "2026-11-09T02:33:57.000Z",
-      "image": "https://static.sanyonews.jp/image/article/size1/3/a/0/d/3a0dc05a8e2327e75794b644c6b57b15_1.jpg",
-      "categories": [
-        "anime"
-      ],
-      "works": [
-        "mushoku"
       ],
       "isPR": false,
       "viaGoogle": false,
@@ -2227,6 +2157,26 @@
       "viaGoogle": false,
       "sourceKind": "news",
       "isNew": false
+    },
+    {
+      "id": "7cced13db001",
+      "title": "TVアニメ「転生したら剣でしたⅡ」シードラン編突入記念特番",
+      "url": "https://abema.tv/channels/abema-anime/slots/BDbG6nGuy8wUyd",
+      "host": "abema.tv",
+      "source": "ABEMA",
+      "summary": "",
+      "publishedAt": "2026-11-08T08:00:00.000Z",
+      "image": "",
+      "categories": [
+        "anime"
+      ],
+      "works": [
+        "tenken"
+      ],
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": true
     },
     {
       "id": "180739db449d",
