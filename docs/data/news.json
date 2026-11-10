@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-10T03:00:18.705Z",
+  "updatedAt": "2026-11-10T03:30:24.083Z",
   "site": {
     "title": "なろう系まとめ",
     "tagline": "小説家になろう発の作品のアニメ化・コミカライズ・書籍化のニュースと、なろうのランキングをまとめています。",
@@ -7,7 +7,7 @@
     "contactUrl": "https://docs.google.com/forms/d/e/1FAIpQLSesWyhmZ6sRS_ve-c3X2KqF_wC5PK2TgwgQbTKmnQltSlg5Jw/viewform"
   },
   "total": 86,
-  "todayCount": 18,
+  "todayCount": 20,
   "categories": [
     {
       "id": "anime",
@@ -27,7 +27,7 @@
     {
       "id": "web",
       "label": "Web小説・賞",
-      "count": 3
+      "count": 5
     },
     {
       "id": "game",
@@ -56,7 +56,7 @@
       "id": "mushoku",
       "title": "無職転生 ～異世界行ったら本気だす～",
       "short": "無職転生",
-      "count": 6
+      "count": 5
     },
     {
       "id": "rezero",
@@ -68,7 +68,7 @@
       "id": "honzuki",
       "title": "本好きの下剋上",
       "short": "本好き",
-      "count": 2
+      "count": 1
     },
     {
       "id": "kusuriya",
@@ -295,12 +295,12 @@
   ],
   "sources": [
     {
-      "name": "山陽新聞",
-      "count": 13
+      "name": "Yahoo!ニュース",
+      "count": 12
     },
     {
-      "name": "Yahoo!ニュース",
-      "count": 9
+      "name": "山陽新聞",
+      "count": 11
     },
     {
       "name": "アニメ！アニメ！",
@@ -311,15 +311,15 @@
       "count": 5
     },
     {
-      "name": "WEBザテレビジョン",
-      "count": 4
-    },
-    {
       "name": "ナタリー",
       "count": 4
     },
     {
       "name": "ABEMA",
+      "count": 3
+    },
+    {
+      "name": "WEBザテレビジョン",
       "count": 3
     },
     {
@@ -347,11 +347,11 @@
       "count": 2
     },
     {
-      "name": "コラボカフェ",
+      "name": "Mantan Web",
       "count": 1
     },
     {
-      "name": "hobby Watch",
+      "name": "コラボカフェ",
       "count": 1
     },
     {
@@ -388,6 +388,10 @@
     },
     {
       "name": "株式会社ピクセラ",
+      "count": 1
+    },
+    {
+      "name": "アニメイトタイムズ",
       "count": 1
     },
     {
@@ -456,10 +460,6 @@
     },
     {
       "name": "SHIBUYA TSUTAYA",
-      "count": 1
-    },
-    {
-      "name": "Howl.Link",
       "count": 1
     }
   ],
@@ -551,7 +551,7 @@
       "leadSource": "山陽新聞",
       "publishedAt": "2026-11-09T21:38:54.000Z",
       "sourceCount": 3,
-      "articleCount": 9,
+      "articleCount": 8,
       "categories": [
         "anime"
       ],
@@ -594,13 +594,6 @@
           "url": "https://www.sanyonews.jp/article/1966527?rct",
           "source": "山陽新聞",
           "publishedAt": "2026-11-08T18:25:08.000Z",
-          "isPR": false
-        },
-        {
-          "title": "『薬屋のひとりごと』猫猫、物乞いへの“贅沢すぎる施し”に違和感 第51話あらすじ＆場面カット公開",
-          "url": "https://www.sanyonews.jp/article/2005343?kw",
-          "source": "山陽新聞",
-          "publishedAt": "2026-11-08T15:20:02.000Z",
           "isPR": false
         },
         {
@@ -651,6 +644,35 @@
           "source": "PR TIMES",
           "publishedAt": "2026-11-09T08:00:01.000Z",
           "isPR": true
+        }
+      ]
+    },
+    {
+      "id": "bce7d11f21a7",
+      "title": "俺の死亡フラグが留まるところを知らない：“なろう系”人気作 2027年テレビアニメ化 ツンデレな悪役が膨大な死亡フラグを回避！",
+      "summary": "",
+      "url": "https://mantan-web.jp/article/20261109dog00m200053000a.html",
+      "image": "https://storage.mantan-web.jp/w=1280,h=720,icr=0:0.1:1:1,a=2,g=2,f=webp:auto/images/2026/11/09/20261109dog00m200053000a/001.jpg",
+      "leadSource": "Mantan Web",
+      "publishedAt": "2026-11-10T03:00:00.000Z",
+      "sourceCount": 2,
+      "articleCount": 2,
+      "categories": [
+        "anime",
+        "web"
+      ],
+      "keywords": [
+        "フラグ",
+        "テレビアニメ",
+        "ツンデレ"
+      ],
+      "articles": [
+        {
+          "title": "俺の死亡フラグが留まるところを知らない＞“なろう系”人気作 2027年テレビアニメ化 ツンデレな悪役が膨大な死亡フラグを回避！（MANTANWEB）",
+          "url": "https://news.yahoo.co.jp/articles/5f2fd790708b3ee3bf7469159c54b84864534913",
+          "source": "Yahoo!ニュース",
+          "publishedAt": "2026-11-10T03:00:00.000Z",
+          "isPR": false
         }
       ]
     },
@@ -795,13 +817,51 @@
     }
   ],
   "churn": {
-    "previousAt": "2026-11-10T02:30:18.445Z",
-    "previousCount": 84,
-    "newCount": 5
+    "previousAt": "2026-11-10T03:00:18.705Z",
+    "previousCount": 86,
+    "newCount": 3
   },
   "updateGapMin": 30,
-  "nextUpdateAt": "2026-11-10T03:30:18.705Z",
+  "nextUpdateAt": "2026-11-10T04:00:24.083Z",
   "items": [
+    {
+      "id": "bce7d11f21a7",
+      "title": "俺の死亡フラグが留まるところを知らない：“なろう系”人気作 2027年テレビアニメ化 ツンデレな悪役が膨大な死亡フラグを回避！",
+      "url": "https://mantan-web.jp/article/20261109dog00m200053000a.html",
+      "host": "mantan-web.jp",
+      "source": "Mantan Web",
+      "summary": "",
+      "publishedAt": "2026-11-10T03:00:00.000Z",
+      "image": "https://storage.mantan-web.jp/w=1280,h=720,icr=0:0.1:1:1,a=2,g=2,f=webp:auto/images/2026/11/09/20261109dog00m200053000a/001.jpg",
+      "categories": [
+        "anime",
+        "web"
+      ],
+      "works": [],
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": true
+    },
+    {
+      "id": "c7af185686c0",
+      "title": "俺の死亡フラグが留まるところを知らない＞“なろう系”人気作 2027年テレビアニメ化 ツンデレな悪役が膨大な死亡フラグを回避！（MANTANWEB）",
+      "url": "https://news.yahoo.co.jp/articles/5f2fd790708b3ee3bf7469159c54b84864534913",
+      "host": "news.yahoo.co.jp",
+      "source": "Yahoo!ニュース",
+      "summary": "",
+      "publishedAt": "2026-11-10T03:00:00.000Z",
+      "image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20261110-00000031-mantan-000-1-view.jpg?exp=10800",
+      "categories": [
+        "anime",
+        "web"
+      ],
+      "works": [],
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": true
+    },
     {
       "id": "599190065ce5",
       "title": "薬屋のひとりごと 新作グッズ in TSUTAYA 11月20日より登場!",
@@ -820,17 +880,17 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "0a106ac7aafb",
-      "title": "「無職転生III」より「ロキシー・ミグルディア・グレイラット」が1/7スケールでフィギュア化！2027年6月発売予定 帽子は着脱可能",
-      "url": "https://hobby.watch.impress.co.jp/docs/news/2155046.html",
-      "host": "hobby.watch.impress.co.jp",
-      "source": "hobby Watch",
+      "title": "「無職転生III」より「ロキシー・ミグルディア・グレイラット」が1/7スケールでフィギュア化！2027年6月発売予定（HOBBY Watch）",
+      "url": "https://news.yahoo.co.jp/articles/9222b8608214482947156db3c54188e02dc9edd5",
+      "host": "news.yahoo.co.jp",
+      "source": "Yahoo!ニュース",
       "summary": "",
-      "publishedAt": "2026-11-10T02:19:24.000Z",
-      "image": "https://hobby.watch.impress.co.jp/img/hbw/list/2155/046/001.jpg",
+      "publishedAt": "2026-11-10T02:19:00.000Z",
+      "image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20261110-00000006-imphbw-000-1-view.jpg?exp=10800",
       "categories": [
         "goods"
       ],
@@ -904,12 +964,12 @@
     {
       "id": "7f1263b08fba",
       "title": "アラサー独身女子が異世界の“ワケあり女の子”に…“小人さん”として生きていく様子に「可愛すぎて疲れがぶっ飛ぶ」【漫画】",
-      "url": "https://thetv.jp/news/detail/1450942/",
-      "host": "thetv.jp",
-      "source": "WEBザテレビジョン",
+      "url": "https://news.yahoo.co.jp/articles/d10de3bbb2ae7729edc9a81c20608d5f8500b410",
+      "host": "news.yahoo.co.jp",
+      "source": "Yahoo!ニュース",
       "summary": "",
       "publishedAt": "2026-11-09T23:30:00.000Z",
-      "image": "https://thetv.jp/i/nw/1450942/18895761.jpg?w=1284",
+      "image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20261110-01450942-the_tv-000-1-view.jpg?exp=10800",
       "categories": [
         "comic"
       ],
@@ -1035,7 +1095,7 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "616e4171c3f6",
@@ -1135,7 +1195,7 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "86c279374abe",
@@ -1560,6 +1620,26 @@
       "isNew": false
     },
     {
+      "id": "d2075b40863c",
+      "title": "『薬屋のひとりごと』阿多妃の魅力｜外見も内面も格好良い妃",
+      "url": "https://www.animatetimes.com/news/details.php?id",
+      "host": "animatetimes.com",
+      "source": "アニメイトタイムズ",
+      "summary": "",
+      "publishedAt": "2026-11-09T07:00:00.000Z",
+      "image": "https://www.animatetimes.com/img/ogimage.png",
+      "categories": [
+        "other"
+      ],
+      "works": [
+        "kusuriya"
+      ],
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": true
+    },
+    {
       "id": "3602222e245b",
       "title": "『本好きの下剋上』新キャストに本渡楓 新規映像盛りだくさんのクライマックスPV公開",
       "url": "https://www.sanyonews.jp/photo/detail?article_id",
@@ -1756,7 +1836,7 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "04422c8cf632",
@@ -1954,26 +2034,6 @@
       "viaGoogle": false,
       "sourceKind": "news",
       "isNew": false
-    },
-    {
-      "id": "46c454fd4b32",
-      "title": "『薬屋のひとりごと』猫猫、物乞いへの“贅沢すぎる施し”に違和感 第51話あらすじ＆場面カット公開",
-      "url": "https://www.sanyonews.jp/article/2005343?kw",
-      "host": "sanyonews.jp",
-      "source": "山陽新聞",
-      "summary": "",
-      "publishedAt": "2026-11-08T15:20:02.000Z",
-      "image": "https://static.sanyonews.jp/image/article/size1/0/2/b/2/02b26e8d4ce18b9a11a95164fff3f2c2_1.jpg",
-      "categories": [
-        "anime"
-      ],
-      "works": [
-        "kusuriya"
-      ],
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": true
     },
     {
       "id": "8c6879a78202",
@@ -2421,46 +2481,6 @@
       ],
       "works": [
         "kusuriya"
-      ],
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": false
-    },
-    {
-      "id": "f1e344fb9da2",
-      "title": "#本好きの下剋上 本好き詰め合わせ10 - 彩音のイラスト - pixiv",
-      "url": "https://t.co/YRgWMf1sba",
-      "host": "t.co",
-      "source": "Howl.Link",
-      "summary": "",
-      "publishedAt": "2026-11-07T03:27:00.000Z",
-      "image": "",
-      "categories": [
-        "other"
-      ],
-      "works": [
-        "honzuki"
-      ],
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": false
-    },
-    {
-      "id": "d9c2c0ae764a",
-      "title": "『無職転生』第3期、「エリス修行編」新キャラキャスト発表 小西克幸＆日笠陽子＆横尾まり【コメントあり】",
-      "url": "https://www.sanyonews.jp/article/1941561?rct",
-      "host": "sanyonews.jp",
-      "source": "山陽新聞",
-      "summary": "",
-      "publishedAt": "2026-11-07T03:18:08.000Z",
-      "image": "https://static.sanyonews.jp/image/article/size1/0/c/5/8/0c585d3f932a8d3715498939feb9b42e_1.jpg",
-      "categories": [
-        "anime"
-      ],
-      "works": [
-        "mushoku"
       ],
       "isPR": false,
       "viaGoogle": false,
