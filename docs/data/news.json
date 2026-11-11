@@ -1,18 +1,18 @@
 {
-  "updatedAt": "2026-11-11T06:00:16.878Z",
+  "updatedAt": "2026-11-11T06:30:19.845Z",
   "site": {
     "title": "なろう系まとめ",
     "tagline": "小説家になろう発の作品のアニメ化・コミカライズ・書籍化のニュースと、なろうのランキングをまとめています。",
     "url": "https://naroumatome.gamelab.website/",
     "contactUrl": "https://docs.google.com/forms/d/e/1FAIpQLSesWyhmZ6sRS_ve-c3X2KqF_wC5PK2TgwgQbTKmnQltSlg5Jw/viewform"
   },
-  "total": 81,
-  "todayCount": 13,
+  "total": 80,
+  "todayCount": 10,
   "categories": [
     {
       "id": "anime",
       "label": "アニメ",
-      "count": 50
+      "count": 49
     },
     {
       "id": "comic",
@@ -37,12 +37,12 @@
     {
       "id": "goods",
       "label": "グッズ・イベント",
-      "count": 14
+      "count": 15
     },
     {
       "id": "other",
       "label": "そのほか",
-      "count": 16
+      "count": 15
     }
   ],
   "works": [
@@ -296,11 +296,11 @@
   "sources": [
     {
       "name": "Yahoo!ニュース",
-      "count": 16
+      "count": 15
     },
     {
       "name": "山陽新聞",
-      "count": 9
+      "count": 10
     },
     {
       "name": "ラノベニュースオンライン",
@@ -332,10 +332,6 @@
     },
     {
       "name": "WEBザテレビジョン",
-      "count": 2
-    },
-    {
-      "name": "ABEMA",
       "count": 2
     },
     {
@@ -371,6 +367,10 @@
       "count": 1
     },
     {
+      "name": "ABEMA",
+      "count": 1
+    },
+    {
       "name": "玩具人 TOY PEOPLE",
       "count": 1
     },
@@ -387,10 +387,6 @@
       "count": 1
     },
     {
-      "name": "Dtimes",
-      "count": 1
-    },
-    {
       "name": "eeo",
       "count": 1
     },
@@ -404,6 +400,10 @@
     },
     {
       "name": "https://www.ten-sura.com/",
+      "count": 1
+    },
+    {
+      "name": "au Webポータル",
       "count": 1
     },
     {
@@ -492,17 +492,17 @@
       ]
     },
     {
-      "id": "e7d92728590e",
-      "title": "猫猫と壬氏が「ばかうけ」に初登場！栗山米菓「薬屋のひとりごとばかうけアソート」",
+      "id": "5b3f2206d596",
+      "title": "『薬屋のひとりごと』猫猫＆壬氏が織りなす幻想世界 六本木ヒルズ展望台で初の“舞”イベント",
       "summary": "",
-      "url": "https://dtimes.jp/post-1464091/",
-      "image": "https://dtimes.jp/wp-content/uploads/2026/11/dtimes-engine-c011b4f60a5861a4a2ad1746eac68091-20261109-e07b29.jpg",
-      "leadSource": "Dtimes",
-      "publishedAt": "2026-11-09T21:40:19.000Z",
+      "url": "https://www.sanyonews.jp/article/1938679?kw",
+      "image": "https://static.sanyonews.jp/image/article/size1/1/8/6/d/186de6bed03b1bb06f72b3fe36057ad9_1.jpg",
+      "leadSource": "山陽新聞",
+      "publishedAt": "2026-11-09T22:18:45.000Z",
       "sourceCount": 5,
       "articleCount": 6,
       "categories": [
-        "other",
+        "goods",
         "anime"
       ],
       "keywords": [
@@ -761,12 +761,12 @@
     }
   ],
   "churn": {
-    "previousAt": "2026-11-11T05:30:20.534Z",
-    "previousCount": 83,
-    "newCount": 2
+    "previousAt": "2026-11-11T06:00:16.878Z",
+    "previousCount": 81,
+    "newCount": 1
   },
   "updateGapMin": 30,
-  "nextUpdateAt": "2026-11-11T06:30:16.878Z",
+  "nextUpdateAt": "2026-11-11T07:00:19.845Z",
   "items": [
     {
       "id": "d45fff10f448",
@@ -841,26 +841,6 @@
         "anime"
       ],
       "works": [],
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": false
-    },
-    {
-      "id": "18c442dd9a7f",
-      "title": "『転スラ』そのキャラ出るの！第4期の第2クールPV解禁 OPはDaoko、EDは田所あずさ",
-      "url": "https://www.sanyonews.jp/article/1940746?kw",
-      "host": "sanyonews.jp",
-      "source": "山陽新聞",
-      "summary": "",
-      "publishedAt": "2026-11-10T23:57:56.000Z",
-      "image": "https://static.sanyonews.jp/image/article/size1/2/b/6/7/2b67db9eed80b704cb517b99fda49c2c_1.jpg",
-      "categories": [
-        "anime"
-      ],
-      "works": [
-        "tensura"
-      ],
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
@@ -984,44 +964,6 @@
       ],
       "isPR": false,
       "viaGoogle": true,
-      "sourceKind": "news",
-      "isNew": false
-    },
-    {
-      "id": "616e4171c3f6",
-      "title": "『薬屋のひとりごと』ハロウィン企画ビジュアル＆ミニボイスドラマ公開 3日連続解禁で第1弾は猫猫＆趙迂",
-      "url": "https://www.sanyonews.jp/article/2012864?rct",
-      "host": "sanyonews.jp",
-      "source": "山陽新聞",
-      "summary": "",
-      "publishedAt": "2026-11-10T16:50:39.000Z",
-      "image": "https://static.sanyonews.jp/image/article/size1/2/2/6/9/22691045f5f76de9d50170d05e001015_1.jpg",
-      "categories": [
-        "other"
-      ],
-      "works": [
-        "kusuriya"
-      ],
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": false
-    },
-    {
-      "id": "86c279374abe",
-      "title": "異世界・ファンタジーアニメ5チャンネル | 無料で放送中の番組や配信中の話題作が見放題",
-      "url": "https://abema.tv/now-on-air/isekai-anime-5",
-      "host": "abema.tv",
-      "source": "ABEMA",
-      "summary": "",
-      "publishedAt": "2026-11-10T15:00:00.000Z",
-      "image": "",
-      "categories": [
-        "anime"
-      ],
-      "works": [],
-      "isPR": false,
-      "viaGoogle": false,
       "sourceKind": "news",
       "isNew": false
     },
@@ -1432,16 +1374,16 @@
       "isNew": false
     },
     {
-      "id": "e7d92728590e",
-      "title": "猫猫と壬氏が「ばかうけ」に初登場！栗山米菓「薬屋のひとりごとばかうけアソート」",
-      "url": "https://dtimes.jp/post-1464091/",
-      "host": "dtimes.jp",
-      "source": "Dtimes",
+      "id": "5b3f2206d596",
+      "title": "『薬屋のひとりごと』猫猫＆壬氏が織りなす幻想世界 六本木ヒルズ展望台で初の“舞”イベント",
+      "url": "https://www.sanyonews.jp/article/1938679?kw",
+      "host": "sanyonews.jp",
+      "source": "山陽新聞",
       "summary": "",
-      "publishedAt": "2026-11-09T21:40:19.000Z",
-      "image": "https://dtimes.jp/wp-content/uploads/2026/11/dtimes-engine-c011b4f60a5861a4a2ad1746eac68091-20261109-e07b29.jpg",
+      "publishedAt": "2026-11-09T22:18:45.000Z",
+      "image": "https://static.sanyonews.jp/image/article/size1/1/8/6/d/186de6bed03b1bb06f72b3fe36057ad9_1.jpg",
       "categories": [
-        "other"
+        "goods"
       ],
       "works": [
         "kusuriya"
@@ -1522,6 +1464,26 @@
       ],
       "works": [
         "mushoku"
+      ],
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": false
+    },
+    {
+      "id": "18c442dd9a7f",
+      "title": "『転スラ』そのキャラ出るの！第4期の第2クールPV解禁 OPはDaoko、EDは田所あずさ",
+      "url": "https://www.sanyonews.jp/article/1940746?kw",
+      "host": "sanyonews.jp",
+      "source": "山陽新聞",
+      "summary": "",
+      "publishedAt": "2026-11-09T15:21:43.000Z",
+      "image": "https://static.sanyonews.jp/image/article/size1/2/b/6/7/2b67db9eed80b704cb517b99fda49c2c_1.jpg",
+      "categories": [
+        "anime"
+      ],
+      "works": [
+        "tensura"
       ],
       "isPR": false,
       "viaGoogle": false,
@@ -2197,13 +2159,13 @@
     },
     {
       "id": "4494aacda085",
-      "title": "【コスプレ】艶めく紫のピッチリボディスーツで美脚×ヒップラインが際立つ！雨の中で魅せる「リゼロ」エミリアの可憐な立ち姿【写真10枚】（インサイド）",
-      "url": "https://news.yahoo.co.jp/articles/370eaa2f39459a5eeb9d908b8f60e781c8326a6c",
-      "host": "news.yahoo.co.jp",
-      "source": "Yahoo!ニュース",
+      "title": "【コスプレ】艶めく紫のピッチリボディスーツで美脚×ヒップラインが際立つ！雨の中で魅せる「リゼロ」エミリアの可憐な立ち姿【写真10枚】",
+      "url": "https://article.auone.jp/6b6beb26-41fe-4111-9b25-b086f06c65ba",
+      "host": "article.auone.jp",
+      "source": "au Webポータル",
       "summary": "",
-      "publishedAt": "2026-11-08T22:00:03.000Z",
-      "image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20261109-00000004-isd-000-1-view.jpg?exp=10800",
+      "publishedAt": "2026-11-08T22:11:28.000Z",
+      "image": "https://portal.auone.jp/media/thumbnails/2026/11/09/https___news_jp_i_1492285922458354453_w640.webp",
       "categories": [
         "other"
       ],
@@ -2237,6 +2199,26 @@
       "isNew": false
     },
     {
+      "id": "616e4171c3f6",
+      "title": "『薬屋のひとりごと』ハロウィン企画ビジュアル＆ミニボイスドラマ公開 3日連続解禁で第1弾は猫猫＆趙迂",
+      "url": "https://www.sanyonews.jp/article/2012864?kw",
+      "host": "sanyonews.jp",
+      "source": "山陽新聞",
+      "summary": "",
+      "publishedAt": "2026-11-08T21:04:27.000Z",
+      "image": "https://static.sanyonews.jp/image/article/size1/2/2/6/9/22691045f5f76de9d50170d05e001015_1.jpg",
+      "categories": [
+        "other"
+      ],
+      "works": [
+        "kusuriya"
+      ],
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": false
+    },
+    {
       "id": "cf171b1263d5",
       "title": "転生難民少女は市民権を０から目指して働きます！第二部@COMIC 連載開始",
       "url": "https://news.dellows.jp/259802/",
@@ -2252,7 +2234,7 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "35523dc4cfd8",
