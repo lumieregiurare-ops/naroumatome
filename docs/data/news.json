@@ -1,28 +1,28 @@
 {
-  "updatedAt": "2026-11-11T05:30:20.534Z",
+  "updatedAt": "2026-11-11T06:00:16.878Z",
   "site": {
     "title": "なろう系まとめ",
     "tagline": "小説家になろう発の作品のアニメ化・コミカライズ・書籍化のニュースと、なろうのランキングをまとめています。",
     "url": "https://naroumatome.gamelab.website/",
     "contactUrl": "https://docs.google.com/forms/d/e/1FAIpQLSesWyhmZ6sRS_ve-c3X2KqF_wC5PK2TgwgQbTKmnQltSlg5Jw/viewform"
   },
-  "total": 83,
-  "todayCount": 12,
+  "total": 81,
+  "todayCount": 13,
   "categories": [
     {
       "id": "anime",
       "label": "アニメ",
-      "count": 51
+      "count": 50
     },
     {
       "id": "comic",
       "label": "コミカライズ",
-      "count": 4
+      "count": 5
     },
     {
       "id": "book",
       "label": "書籍・ラノベ",
-      "count": 7
+      "count": 6
     },
     {
       "id": "web",
@@ -37,7 +37,7 @@
     {
       "id": "goods",
       "label": "グッズ・イベント",
-      "count": 16
+      "count": 14
     },
     {
       "id": "other",
@@ -300,19 +300,19 @@
     },
     {
       "name": "山陽新聞",
-      "count": 10
-    },
-    {
-      "name": "ナタリー",
-      "count": 7
+      "count": 9
     },
     {
       "name": "ラノベニュースオンライン",
       "count": 5
     },
     {
-      "name": "アニメ！アニメ！",
+      "name": "ナタリー",
       "count": 5
+    },
+    {
+      "name": "アニメ！アニメ！",
+      "count": 4
     },
     {
       "name": "電撃オンライン",
@@ -387,6 +387,10 @@
       "count": 1
     },
     {
+      "name": "Dtimes",
+      "count": 1
+    },
+    {
       "name": "eeo",
       "count": 1
     },
@@ -404,6 +408,10 @@
     },
     {
       "name": "日本テレビ",
+      "count": 1
+    },
+    {
+      "name": "Dellows News",
       "count": 1
     },
     {
@@ -484,17 +492,17 @@
       ]
     },
     {
-      "id": "5b3f2206d596",
-      "title": "『薬屋のひとりごと』猫猫＆壬氏が織りなす幻想世界 六本木ヒルズ展望台で初の“舞”イベント",
+      "id": "e7d92728590e",
+      "title": "猫猫と壬氏が「ばかうけ」に初登場！栗山米菓「薬屋のひとりごとばかうけアソート」",
       "summary": "",
-      "url": "https://www.sanyonews.jp/article/1938679?kw",
-      "image": "https://static.sanyonews.jp/image/article/size1/1/8/6/d/186de6bed03b1bb06f72b3fe36057ad9_1.jpg",
-      "leadSource": "山陽新聞",
-      "publishedAt": "2026-11-09T22:18:45.000Z",
+      "url": "https://dtimes.jp/post-1464091/",
+      "image": "https://dtimes.jp/wp-content/uploads/2026/11/dtimes-engine-c011b4f60a5861a4a2ad1746eac68091-20261109-e07b29.jpg",
+      "leadSource": "Dtimes",
+      "publishedAt": "2026-11-09T21:40:19.000Z",
       "sourceCount": 5,
       "articleCount": 6,
       "categories": [
-        "goods",
+        "other",
         "anime"
       ],
       "keywords": [
@@ -753,12 +761,12 @@
     }
   ],
   "churn": {
-    "previousAt": "2026-11-11T05:00:17.021Z",
+    "previousAt": "2026-11-11T05:30:20.534Z",
     "previousCount": 83,
-    "newCount": 1
+    "newCount": 2
   },
   "updateGapMin": 30,
-  "nextUpdateAt": "2026-11-11T06:00:20.534Z",
+  "nextUpdateAt": "2026-11-11T06:30:16.878Z",
   "items": [
     {
       "id": "d45fff10f448",
@@ -833,6 +841,26 @@
         "anime"
       ],
       "works": [],
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": false
+    },
+    {
+      "id": "18c442dd9a7f",
+      "title": "『転スラ』そのキャラ出るの！第4期の第2クールPV解禁 OPはDaoko、EDは田所あずさ",
+      "url": "https://www.sanyonews.jp/article/1940746?kw",
+      "host": "sanyonews.jp",
+      "source": "山陽新聞",
+      "summary": "",
+      "publishedAt": "2026-11-10T23:57:56.000Z",
+      "image": "https://static.sanyonews.jp/image/article/size1/2/b/6/7/2b67db9eed80b704cb517b99fda49c2c_1.jpg",
+      "categories": [
+        "anime"
+      ],
+      "works": [
+        "tensura"
+      ],
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
@@ -1054,24 +1082,6 @@
       "isNew": false
     },
     {
-      "id": "1f0036dfd723",
-      "title": "“闇の神聖魔法”を操る転生令嬢の領地発展ファンタジー「追放幼女の領地開拓記」1巻",
-      "url": "https://natalie.mu/comic/news/697413",
-      "host": "natalie.mu",
-      "source": "ナタリー",
-      "summary": "",
-      "publishedAt": "2026-11-10T09:50:00.000Z",
-      "image": "",
-      "categories": [
-        "book"
-      ],
-      "works": [],
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": false
-    },
-    {
       "id": "95b109350b6f",
       "title": "コトブキヤ『無職転生III ～異世界行ったら本気だす～』ロキシー・ミグルディア・グレイラット 1/7スケールフィギュアが登場！グレイラット家の“青髪ママ”を立体化",
       "url": "https://www.toy-people.com/jp/?p",
@@ -1144,24 +1154,6 @@
       "works": [
         "mushoku"
       ],
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": false
-    },
-    {
-      "id": "040076b206f1",
-      "title": "「悪役令嬢の四畳半」オフショットが楽しめるファンブック、キャラクター設定資料も",
-      "url": "https://natalie.mu/comic/news/697352",
-      "host": "natalie.mu",
-      "source": "ナタリー",
-      "summary": "",
-      "publishedAt": "2026-11-10T07:00:00.000Z",
-      "image": "",
-      "categories": [
-        "other"
-      ],
-      "works": [],
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
@@ -1384,25 +1376,6 @@
       "isNew": false
     },
     {
-      "id": "8f3c0a5743d2",
-      "title": "TVアニメ『落第賢者の学院無双～二度目の転生、Ｓランクチート魔術師冒険録～』 オンラインくじが販売開始！",
-      "url": "https://animeanime.jp/release/prtimes/20261110/325691.html",
-      "host": "animeanime.jp",
-      "source": "アニメ！アニメ！",
-      "summary": "",
-      "publishedAt": "2026-11-10T01:11:14.000Z",
-      "image": "https://animeanime.jp/release/imgs/list/571817.jpg",
-      "categories": [
-        "anime",
-        "goods"
-      ],
-      "works": [],
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": false
-    },
-    {
       "id": "b819235e0646",
       "title": "マッグガーデン・ノベルズ2026年11月刊行のラインナップをご紹介。『異世界に来たけど、生活魔法しか使えません8』『悪妃は余暇を楽しむ』など3冊",
       "url": "https://ln-news.com/articles/127170",
@@ -1459,16 +1432,16 @@
       "isNew": false
     },
     {
-      "id": "5b3f2206d596",
-      "title": "『薬屋のひとりごと』猫猫＆壬氏が織りなす幻想世界 六本木ヒルズ展望台で初の“舞”イベント",
-      "url": "https://www.sanyonews.jp/article/1938679?kw",
-      "host": "sanyonews.jp",
-      "source": "山陽新聞",
+      "id": "e7d92728590e",
+      "title": "猫猫と壬氏が「ばかうけ」に初登場！栗山米菓「薬屋のひとりごとばかうけアソート」",
+      "url": "https://dtimes.jp/post-1464091/",
+      "host": "dtimes.jp",
+      "source": "Dtimes",
       "summary": "",
-      "publishedAt": "2026-11-09T22:18:45.000Z",
-      "image": "https://static.sanyonews.jp/image/article/size1/1/8/6/d/186de6bed03b1bb06f72b3fe36057ad9_1.jpg",
+      "publishedAt": "2026-11-09T21:40:19.000Z",
+      "image": "https://dtimes.jp/wp-content/uploads/2026/11/dtimes-engine-c011b4f60a5861a4a2ad1746eac68091-20261109-e07b29.jpg",
       "categories": [
-        "goods"
+        "other"
       ],
       "works": [
         "kusuriya"
@@ -1549,26 +1522,6 @@
       ],
       "works": [
         "mushoku"
-      ],
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": false
-    },
-    {
-      "id": "18c442dd9a7f",
-      "title": "『転スラ』そのキャラ出るの！第4期の第2クールPV解禁 OPはDaoko、EDは田所あずさ",
-      "url": "https://www.sanyonews.jp/article/1940746?kw",
-      "host": "sanyonews.jp",
-      "source": "山陽新聞",
-      "summary": "",
-      "publishedAt": "2026-11-09T15:21:43.000Z",
-      "image": "https://static.sanyonews.jp/image/article/size1/2/b/6/7/2b67db9eed80b704cb517b99fda49c2c_1.jpg",
-      "categories": [
-        "anime"
-      ],
-      "works": [
-        "tensura"
       ],
       "isPR": false,
       "viaGoogle": false,
@@ -2282,6 +2235,24 @@
       "viaGoogle": false,
       "sourceKind": "news",
       "isNew": false
+    },
+    {
+      "id": "cf171b1263d5",
+      "title": "転生難民少女は市民権を０から目指して働きます！第二部@COMIC 連載開始",
+      "url": "https://news.dellows.jp/259802/",
+      "host": "news.dellows.jp",
+      "source": "Dellows News",
+      "summary": "",
+      "publishedAt": "2026-11-08T18:50:11.000Z",
+      "image": "https://news.dellows.jp/wp-content/uploads/2026/09/259802_1.jpg",
+      "categories": [
+        "comic"
+      ],
+      "works": [],
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": true
     },
     {
       "id": "35523dc4cfd8",
