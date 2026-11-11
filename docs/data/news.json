@@ -1,18 +1,18 @@
 {
-  "updatedAt": "2026-11-11T16:30:27.452Z",
+  "updatedAt": "2026-11-11T17:00:21.794Z",
   "site": {
     "title": "なろう系まとめ",
     "tagline": "小説家になろう発の作品のアニメ化・コミカライズ・書籍化のニュースと、なろうのランキングをまとめています。",
     "url": "https://naroumatome.gamelab.website/",
     "contactUrl": "https://docs.google.com/forms/d/e/1FAIpQLSesWyhmZ6sRS_ve-c3X2KqF_wC5PK2TgwgQbTKmnQltSlg5Jw/viewform"
   },
-  "total": 87,
+  "total": 88,
   "todayCount": 0,
   "categories": [
     {
       "id": "anime",
       "label": "アニメ",
-      "count": 52
+      "count": 54
     },
     {
       "id": "comic",
@@ -32,7 +32,7 @@
     {
       "id": "game",
       "label": "ゲーム",
-      "count": 1
+      "count": 2
     },
     {
       "id": "goods",
@@ -42,7 +42,7 @@
     {
       "id": "other",
       "label": "そのほか",
-      "count": 15
+      "count": 13
     }
   ],
   "works": [
@@ -62,7 +62,7 @@
       "id": "rezero",
       "title": "Re:ゼロから始める異世界生活",
       "short": "リゼロ",
-      "count": 5
+      "count": 6
     },
     {
       "id": "honzuki",
@@ -296,7 +296,7 @@
   "sources": [
     {
       "name": "Yahoo!ニュース",
-      "count": 16
+      "count": 17
     },
     {
       "name": "山陽新聞",
@@ -335,15 +335,15 @@
       "count": 3
     },
     {
+      "name": "Howl.Link",
+      "count": 3
+    },
+    {
       "name": "ライブドアニュース",
       "count": 3
     },
     {
       "name": "WEBザテレビジョン",
-      "count": 2
-    },
-    {
-      "name": "Howl.Link",
       "count": 2
     },
     {
@@ -408,10 +408,6 @@
     },
     {
       "name": "eeo",
-      "count": 1
-    },
-    {
-      "name": "アニメイトタイムズ",
       "count": 1
     },
     {
@@ -852,12 +848,12 @@
     }
   ],
   "churn": {
-    "previousAt": "2026-11-11T16:00:22.272Z",
-    "previousCount": 88,
-    "newCount": 2
+    "previousAt": "2026-11-11T16:30:27.452Z",
+    "previousCount": 87,
+    "newCount": 3
   },
   "updateGapMin": 30,
-  "nextUpdateAt": "2026-11-11T17:00:27.452Z",
+  "nextUpdateAt": "2026-11-11T17:30:21.794Z",
   "items": [
     {
       "id": "ba4e4ccdab3a",
@@ -1331,7 +1327,7 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "18c442dd9a7f",
@@ -1645,26 +1641,6 @@
       "isNew": false
     },
     {
-      "id": "8071aa5878ac",
-      "title": "「薬屋のひとりごと」が躍進した背景で、何が最も大きいと思いますか？",
-      "url": "https://news.yahoo.co.jp/polls/75874",
-      "host": "news.yahoo.co.jp",
-      "source": "Yahoo!ニュース",
-      "summary": "",
-      "publishedAt": "2026-11-10T05:14:05.000Z",
-      "image": "https://news-pctr.c.yimg.jp/dk/news-polls/2026/11/10/45e683de5e325842c8f7d197dacce8149bc925a497f92ba530ba5689a5bb1048.jpg",
-      "categories": [
-        "other"
-      ],
-      "works": [
-        "kusuriya"
-      ],
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": false
-    },
-    {
       "id": "590fd0a5eefd",
       "title": "「…これ、米です」「ばかうけのキャラが猫猫と壬氏様になってる！」『薬屋のひとりごと』劇場版と「ばかうけ」コラボにファン歓喜",
       "url": "https://times.abema.tv/articles/-/10287798",
@@ -1782,7 +1758,7 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "b819235e0646",
@@ -2015,6 +1991,26 @@
       "isNew": false
     },
     {
+      "id": "cf36a6b21d07",
+      "title": "【リゼロ鬼がかり2】新台リゼロが”覇権”だと聞いてやってきました【じゃんじゃんの型破り弾球録第665話】[パチンコ]#じゃんじゃん",
+      "url": "https://t.co/46a1a7skFV",
+      "host": "t.co",
+      "source": "Howl.Link",
+      "summary": "",
+      "publishedAt": "2026-11-09T10:00:21.000Z",
+      "image": "",
+      "categories": [
+        "anime"
+      ],
+      "works": [
+        "rezero"
+      ],
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": true
+    },
+    {
       "id": "daea2b931feb",
       "title": "アニメ『凶乱令嬢ニア・リストン 病弱令嬢に転生した神殺しの武人の華麗なる無双録』第6話「学院武闘大会、開催！」のあらすじ＆先行カット解禁",
       "url": "https://ln-news.com/articles/127152",
@@ -2163,26 +2159,6 @@
       "isNew": false
     },
     {
-      "id": "d2075b40863c",
-      "title": "『薬屋のひとりごと』阿多妃の魅力｜外見も内面も格好良い妃",
-      "url": "https://www.animatetimes.com/news/details.php?id",
-      "host": "animatetimes.com",
-      "source": "アニメイトタイムズ",
-      "summary": "",
-      "publishedAt": "2026-11-09T07:00:00.000Z",
-      "image": "https://www.animatetimes.com/img/ogimage.png",
-      "categories": [
-        "other"
-      ],
-      "works": [
-        "kusuriya"
-      ],
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": false
-    },
-    {
       "id": "9618db86fe72",
       "title": "薬屋のひとりごと＞第54話「紙の村」 やぶ医者、馬閃、変装をした壬氏が！ 里帰りに同行（MANTANWEB）",
       "url": "https://news.yahoo.co.jp/articles/e9b72d6cb92dc7af62d4bcee95a8f01cc3c33b4a",
@@ -2261,6 +2237,26 @@
       "viaGoogle": false,
       "sourceKind": "news",
       "isNew": false
+    },
+    {
+      "id": "04dbe5c12de7",
+      "title": "＜薬屋のひとりごと＞リアル脱出ゲーム オリジナル録り下ろしボイスの謎解き×調合体験「殺意潜む祝宴からの脱出」全国で開催",
+      "url": "https://news.yahoo.co.jp/articles/df6c746b51533f7720e966af0f89cb646d6dcb32",
+      "host": "news.yahoo.co.jp",
+      "source": "Yahoo!ニュース",
+      "summary": "",
+      "publishedAt": "2026-11-09T03:32:00.000Z",
+      "image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20261108-01455243-the_tv-000-2-view.jpg?exp=10800",
+      "categories": [
+        "game"
+      ],
+      "works": [
+        "kusuriya"
+      ],
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": true
     },
     {
       "id": "ae12b40bbbf0",
@@ -2399,6 +2395,26 @@
       "viaGoogle": false,
       "sourceKind": "news",
       "isNew": false
+    },
+    {
+      "id": "235ac4831f04",
+      "title": "TVアニメ『薬屋のひとりごと』第54話先行カット公開 猫猫たちの旅路設定画も（リアルサウンド）",
+      "url": "https://news.yahoo.co.jp/articles/d66a74c64491a3a9741f3893edf4f54d76e6e0db",
+      "host": "news.yahoo.co.jp",
+      "source": "Yahoo!ニュース",
+      "summary": "",
+      "publishedAt": "2026-11-09T02:52:00.000Z",
+      "image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20261105-00010042-realsound-000-2-view.jpg?exp=10800",
+      "categories": [
+        "anime"
+      ],
+      "works": [
+        "kusuriya"
+      ],
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": true
     },
     {
       "id": "355f0c9f591d",
