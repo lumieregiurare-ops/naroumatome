@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-11T04:30:20.329Z",
+  "updatedAt": "2026-11-11T05:00:17.021Z",
   "site": {
     "title": "なろう系まとめ",
     "tagline": "小説家になろう発の作品のアニメ化・コミカライズ・書籍化のニュースと、なろうのランキングをまとめています。",
@@ -296,7 +296,7 @@
   "sources": [
     {
       "name": "Yahoo!ニュース",
-      "count": 16
+      "count": 15
     },
     {
       "name": "山陽新聞",
@@ -400,6 +400,10 @@
     },
     {
       "name": "https://www.ten-sura.com/",
+      "count": 1
+    },
+    {
+      "name": "au Webポータル",
       "count": 1
     },
     {
@@ -753,12 +757,12 @@
     }
   ],
   "churn": {
-    "previousAt": "2026-11-11T04:00:20.396Z",
+    "previousAt": "2026-11-11T04:30:20.329Z",
     "previousCount": 83,
-    "newCount": 2
+    "newCount": 0
   },
   "updateGapMin": 30,
-  "nextUpdateAt": "2026-11-11T05:00:20.329Z",
+  "nextUpdateAt": "2026-11-11T05:30:17.021Z",
   "items": [
     {
       "id": "d45fff10f448",
@@ -831,6 +835,26 @@
       "image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20261110-01095631-encount-000-6-view.jpg?exp=10800",
       "categories": [
         "anime"
+      ],
+      "works": [
+        "kusuriya"
+      ],
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": false
+    },
+    {
+      "id": "616e4171c3f6",
+      "title": "『薬屋のひとりごと』ハロウィン企画ビジュアル＆ミニボイスドラマ公開 3日連続解禁で第1弾は猫猫＆趙迂",
+      "url": "https://www.sanyonews.jp/article/2012864?kw",
+      "host": "sanyonews.jp",
+      "source": "山陽新聞",
+      "summary": "",
+      "publishedAt": "2026-11-10T22:38:13.000Z",
+      "image": "https://static.sanyonews.jp/image/article/size1/2/2/6/9/22691045f5f76de9d50170d05e001015_1.jpg",
+      "categories": [
+        "other"
       ],
       "works": [
         "kusuriya"
@@ -958,26 +982,6 @@
       ],
       "isPR": false,
       "viaGoogle": true,
-      "sourceKind": "news",
-      "isNew": false
-    },
-    {
-      "id": "616e4171c3f6",
-      "title": "『薬屋のひとりごと』ハロウィン企画ビジュアル＆ミニボイスドラマ公開 3日連続解禁で第1弾は猫猫＆趙迂",
-      "url": "https://www.sanyonews.jp/article/2012864?rct",
-      "host": "sanyonews.jp",
-      "source": "山陽新聞",
-      "summary": "",
-      "publishedAt": "2026-11-10T16:50:39.000Z",
-      "image": "https://static.sanyonews.jp/image/article/size1/2/2/6/9/22691045f5f76de9d50170d05e001015_1.jpg",
-      "categories": [
-        "other"
-      ],
-      "works": [
-        "kusuriya"
-      ],
-      "isPR": false,
-      "viaGoogle": false,
       "sourceKind": "news",
       "isNew": false
     },
@@ -2123,7 +2127,7 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "eb07678a6040",
@@ -2240,17 +2244,17 @@
       "isPR": true,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "4494aacda085",
-      "title": "【コスプレ】艶めく紫のピッチリボディスーツで美脚×ヒップラインが際立つ！雨の中で魅せる「リゼロ」エミリアの可憐な立ち姿【写真10枚】（インサイド）",
-      "url": "https://news.yahoo.co.jp/articles/370eaa2f39459a5eeb9d908b8f60e781c8326a6c",
-      "host": "news.yahoo.co.jp",
-      "source": "Yahoo!ニュース",
+      "title": "【コスプレ】艶めく紫のピッチリボディスーツで美脚×ヒップラインが際立つ！雨の中で魅せる「リゼロ」エミリアの可憐な立ち姿【写真10枚】",
+      "url": "https://article.auone.jp/6b6beb26-41fe-4111-9b25-b086f06c65ba",
+      "host": "article.auone.jp",
+      "source": "au Webポータル",
       "summary": "",
-      "publishedAt": "2026-11-08T22:00:03.000Z",
-      "image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20261109-00000004-isd-000-1-view.jpg?exp=10800",
+      "publishedAt": "2026-11-08T22:11:28.000Z",
+      "image": "https://portal.auone.jp/media/thumbnails/2026/11/09/https___news_jp_i_1492285922458354453_w640.webp",
       "categories": [
         "other"
       ],
