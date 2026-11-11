@@ -1,13 +1,13 @@
 {
-  "updatedAt": "2026-11-11T06:30:19.845Z",
+  "updatedAt": "2026-11-11T07:00:18.864Z",
   "site": {
     "title": "なろう系まとめ",
     "tagline": "小説家になろう発の作品のアニメ化・コミカライズ・書籍化のニュースと、なろうのランキングをまとめています。",
     "url": "https://naroumatome.gamelab.website/",
     "contactUrl": "https://docs.google.com/forms/d/e/1FAIpQLSesWyhmZ6sRS_ve-c3X2KqF_wC5PK2TgwgQbTKmnQltSlg5Jw/viewform"
   },
-  "total": 80,
-  "todayCount": 10,
+  "total": 82,
+  "todayCount": 12,
   "categories": [
     {
       "id": "anime",
@@ -22,7 +22,7 @@
     {
       "id": "book",
       "label": "書籍・ラノベ",
-      "count": 6
+      "count": 7
     },
     {
       "id": "web",
@@ -42,7 +42,7 @@
     {
       "id": "other",
       "label": "そのほか",
-      "count": 15
+      "count": 17
     }
   ],
   "works": [
@@ -300,14 +300,14 @@
     },
     {
       "name": "山陽新聞",
-      "count": 10
-    },
-    {
-      "name": "ラノベニュースオンライン",
-      "count": 5
+      "count": 9
     },
     {
       "name": "ナタリー",
+      "count": 6
+    },
+    {
+      "name": "ラノベニュースオンライン",
       "count": 5
     },
     {
@@ -359,6 +359,10 @@
       "count": 2
     },
     {
+      "name": "Infoseek",
+      "count": 1
+    },
+    {
       "name": "スポカレ",
       "count": 1
     },
@@ -384,6 +388,10 @@
     },
     {
       "name": "hobby Watch",
+      "count": 1
+    },
+    {
+      "name": "Dtimes",
       "count": 1
     },
     {
@@ -492,17 +500,17 @@
       ]
     },
     {
-      "id": "5b3f2206d596",
-      "title": "『薬屋のひとりごと』猫猫＆壬氏が織りなす幻想世界 六本木ヒルズ展望台で初の“舞”イベント",
+      "id": "e7d92728590e",
+      "title": "猫猫と壬氏が「ばかうけ」に初登場！栗山米菓「薬屋のひとりごとばかうけアソート」",
       "summary": "",
-      "url": "https://www.sanyonews.jp/article/1938679?kw",
-      "image": "https://static.sanyonews.jp/image/article/size1/1/8/6/d/186de6bed03b1bb06f72b3fe36057ad9_1.jpg",
-      "leadSource": "山陽新聞",
-      "publishedAt": "2026-11-09T22:18:45.000Z",
+      "url": "https://dtimes.jp/post-1464091/",
+      "image": "https://dtimes.jp/wp-content/uploads/2026/11/dtimes-engine-c011b4f60a5861a4a2ad1746eac68091-20261109-e07b29.jpg",
+      "leadSource": "Dtimes",
+      "publishedAt": "2026-11-09T21:40:19.000Z",
       "sourceCount": 5,
       "articleCount": 6,
       "categories": [
-        "goods",
+        "other",
         "anime"
       ],
       "keywords": [
@@ -761,13 +769,32 @@
     }
   ],
   "churn": {
-    "previousAt": "2026-11-11T06:00:16.878Z",
-    "previousCount": 81,
-    "newCount": 1
+    "previousAt": "2026-11-11T06:30:19.845Z",
+    "previousCount": 80,
+    "newCount": 3
   },
   "updateGapMin": 30,
-  "nextUpdateAt": "2026-11-11T07:00:19.845Z",
+  "nextUpdateAt": "2026-11-11T07:30:18.864Z",
   "items": [
+    {
+      "id": "d08b3c91b608",
+      "title": "平成の小学生を魅了した「家庭科のドラゴン」が小説化！舞台は異世界",
+      "url": "https://news.infoseek.co.jp/article/otakuma_6014757/",
+      "host": "news.infoseek.co.jp",
+      "source": "Infoseek",
+      "summary": "",
+      "publishedAt": "2026-11-11T06:36:30.000Z",
+      "image": "https://media.image.infoseek.co.jp/isnews/photos/otakuma/otakuma_6014757_0.jpg",
+      "categories": [
+        "book",
+        "goods"
+      ],
+      "works": [],
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": true
+    },
     {
       "id": "d45fff10f448",
       "title": "アニメ『転生したら剣でしたII』第6話「初めての砂浜は塩味でした」のあらすじ＆先行カット解禁",
@@ -968,6 +995,26 @@
       "isNew": false
     },
     {
+      "id": "616e4171c3f6",
+      "title": "『薬屋のひとりごと』ハロウィン企画ビジュアル＆ミニボイスドラマ公開 3日連続解禁で第1弾は猫猫＆趙迂",
+      "url": "https://www.sanyonews.jp/article/2012864?rct",
+      "host": "sanyonews.jp",
+      "source": "山陽新聞",
+      "summary": "",
+      "publishedAt": "2026-11-10T16:50:39.000Z",
+      "image": "https://static.sanyonews.jp/image/article/size1/2/2/6/9/22691045f5f76de9d50170d05e001015_1.jpg",
+      "categories": [
+        "other"
+      ],
+      "works": [
+        "kusuriya"
+      ],
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": false
+    },
+    {
       "id": "01e4edf73b90",
       "title": "アニメ『信者ゼロの女神サマと始める異世界攻略』の視聴方法！動画配信サービス、あらすじを解説",
       "url": "https://spocale.com/blog/shinja-zero-anime-streaming/",
@@ -1100,6 +1147,24 @@
       "viaGoogle": false,
       "sourceKind": "news",
       "isNew": false
+    },
+    {
+      "id": "040076b206f1",
+      "title": "「悪役令嬢の四畳半」オフショットが楽しめるファンブック、キャラクター設定資料も",
+      "url": "https://natalie.mu/comic/news/697352",
+      "host": "natalie.mu",
+      "source": "ナタリー",
+      "summary": "",
+      "publishedAt": "2026-11-10T07:00:00.000Z",
+      "image": "",
+      "categories": [
+        "other"
+      ],
+      "works": [],
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": true
     },
     {
       "id": "036f0cfe13bf",
@@ -1374,16 +1439,16 @@
       "isNew": false
     },
     {
-      "id": "5b3f2206d596",
-      "title": "『薬屋のひとりごと』猫猫＆壬氏が織りなす幻想世界 六本木ヒルズ展望台で初の“舞”イベント",
-      "url": "https://www.sanyonews.jp/article/1938679?kw",
-      "host": "sanyonews.jp",
-      "source": "山陽新聞",
+      "id": "e7d92728590e",
+      "title": "猫猫と壬氏が「ばかうけ」に初登場！栗山米菓「薬屋のひとりごとばかうけアソート」",
+      "url": "https://dtimes.jp/post-1464091/",
+      "host": "dtimes.jp",
+      "source": "Dtimes",
       "summary": "",
-      "publishedAt": "2026-11-09T22:18:45.000Z",
-      "image": "https://static.sanyonews.jp/image/article/size1/1/8/6/d/186de6bed03b1bb06f72b3fe36057ad9_1.jpg",
+      "publishedAt": "2026-11-09T21:40:19.000Z",
+      "image": "https://dtimes.jp/wp-content/uploads/2026/11/dtimes-engine-c011b4f60a5861a4a2ad1746eac68091-20261109-e07b29.jpg",
       "categories": [
-        "goods"
+        "other"
       ],
       "works": [
         "kusuriya"
@@ -2189,26 +2254,6 @@
       "categories": [
         "anime",
         "goods"
-      ],
-      "works": [
-        "kusuriya"
-      ],
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": false
-    },
-    {
-      "id": "616e4171c3f6",
-      "title": "『薬屋のひとりごと』ハロウィン企画ビジュアル＆ミニボイスドラマ公開 3日連続解禁で第1弾は猫猫＆趙迂",
-      "url": "https://www.sanyonews.jp/article/2012864?kw",
-      "host": "sanyonews.jp",
-      "source": "山陽新聞",
-      "summary": "",
-      "publishedAt": "2026-11-08T21:04:27.000Z",
-      "image": "https://static.sanyonews.jp/image/article/size1/2/2/6/9/22691045f5f76de9d50170d05e001015_1.jpg",
-      "categories": [
-        "other"
       ],
       "works": [
         "kusuriya"
