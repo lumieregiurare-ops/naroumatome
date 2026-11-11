@@ -1,18 +1,18 @@
 {
-  "updatedAt": "2026-11-11T21:30:23.248Z",
+  "updatedAt": "2026-11-11T22:00:21.584Z",
   "site": {
     "title": "なろう系まとめ",
     "tagline": "小説家になろう発の作品のアニメ化・コミカライズ・書籍化のニュースと、なろうのランキングをまとめています。",
     "url": "https://naroumatome.gamelab.website/",
     "contactUrl": "https://docs.google.com/forms/d/e/1FAIpQLSesWyhmZ6sRS_ve-c3X2KqF_wC5PK2TgwgQbTKmnQltSlg5Jw/viewform"
   },
-  "total": 88,
+  "total": 91,
   "todayCount": 1,
   "categories": [
     {
       "id": "anime",
       "label": "アニメ",
-      "count": 51
+      "count": 53
     },
     {
       "id": "comic",
@@ -37,7 +37,7 @@
     {
       "id": "goods",
       "label": "グッズ・イベント",
-      "count": 15
+      "count": 16
     },
     {
       "id": "other",
@@ -62,7 +62,7 @@
       "id": "rezero",
       "title": "Re:ゼロから始める異世界生活",
       "short": "リゼロ",
-      "count": 7
+      "count": 8
     },
     {
       "id": "honzuki",
@@ -80,7 +80,7 @@
       "id": "kagejitsu",
       "title": "陰の実力者になりたくて！",
       "short": "陰の実力者",
-      "count": 0
+      "count": 1
     },
     {
       "id": "tate",
@@ -319,6 +319,10 @@
       "count": 4
     },
     {
+      "name": "ライブドアニュース",
+      "count": 4
+    },
+    {
       "name": "ニコニコニュース",
       "count": 3
     },
@@ -327,11 +331,11 @@
       "count": 3
     },
     {
-      "name": "ライブドアニュース",
+      "name": "アニメ！アニメ！",
       "count": 3
     },
     {
-      "name": "アニメ！アニメ！",
+      "name": "Howl.Link",
       "count": 3
     },
     {
@@ -340,10 +344,6 @@
     },
     {
       "name": "WEBザテレビジョン",
-      "count": 2
-    },
-    {
-      "name": "Howl.Link",
       "count": 2
     },
     {
@@ -408,6 +408,10 @@
     },
     {
       "name": "インサイド",
+      "count": 1
+    },
+    {
+      "name": "神ゲー攻略",
       "count": 1
     },
     {
@@ -851,12 +855,12 @@
     }
   ],
   "churn": {
-    "previousAt": "2026-11-11T21:00:23.276Z",
-    "previousCount": 92,
-    "newCount": 1
+    "previousAt": "2026-11-11T21:30:23.248Z",
+    "previousCount": 88,
+    "newCount": 3
   },
   "updateGapMin": 30,
-  "nextUpdateAt": "2026-11-11T22:00:23.248Z",
+  "nextUpdateAt": "2026-11-11T22:30:21.584Z",
   "items": [
     {
       "id": "b56ab546b2b7",
@@ -1295,24 +1299,6 @@
       "isNew": false
     },
     {
-      "id": "245bb69dc5fe",
-      "title": "「異世界失格」アニメの配信はどこで見れる？全12話見放題のサブスクとNetflix・2期情報",
-      "url": "https://animeanime.jp/article/2026/11/09/104628.html",
-      "host": "animeanime.jp",
-      "source": "アニメ！アニメ！",
-      "summary": "",
-      "publishedAt": "2026-11-11T02:43:01.000Z",
-      "image": "https://animeanime.jp/imgs/ogp_f/952507.jpg",
-      "categories": [
-        "anime"
-      ],
-      "works": [],
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": false
-    },
-    {
       "id": "889706901cac",
       "title": "『薬屋のひとりごと』第3期、猫猫＆壬氏に新たな試練、『鑑定スキル』など話題作続々 J:COM STREAM秋アニメ発表",
       "url": "https://www.sanyonews.jp/article/1999895",
@@ -1522,6 +1508,24 @@
       "image": "",
       "categories": [
         "book"
+      ],
+      "works": [],
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": false
+    },
+    {
+      "id": "245bb69dc5fe",
+      "title": "「異世界失格」アニメの配信はどこで見れる？全12話見放題のサブスクとNetflix・2期情報",
+      "url": "https://animeanime.jp/article/2026/11/09/104628.html",
+      "host": "animeanime.jp",
+      "source": "アニメ！アニメ！",
+      "summary": "",
+      "publishedAt": "2026-11-10T09:43:00.000Z",
+      "image": "https://animeanime.jp/imgs/ogp_f/952507.jpg",
+      "categories": [
+        "anime"
       ],
       "works": [],
       "isPR": false,
@@ -1763,7 +1767,7 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "b819235e0646",
@@ -2016,6 +2020,26 @@
       "isNew": false
     },
     {
+      "id": "cf36a6b21d07",
+      "title": "【リゼロ鬼がかり2】新台リゼロが”覇権”だと聞いてやってきました【じゃんじゃんの型破り弾球録第665話】[パチンコ]#じゃんじゃん",
+      "url": "https://t.co/46a1a7skFV",
+      "host": "t.co",
+      "source": "Howl.Link",
+      "summary": "",
+      "publishedAt": "2026-11-09T10:00:21.000Z",
+      "image": "",
+      "categories": [
+        "anime"
+      ],
+      "works": [
+        "rezero"
+      ],
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": true
+    },
+    {
       "id": "daea2b931feb",
       "title": "アニメ『凶乱令嬢ニア・リストン 病弱令嬢に転生した神殺しの武人の華麗なる無双録』第6話「学院武闘大会、開催！」のあらすじ＆先行カット解禁",
       "url": "https://ln-news.com/articles/127152",
@@ -2070,6 +2094,26 @@
       "isNew": false
     },
     {
+      "id": "1fb1a35b1cef",
+      "title": "【DbD】「陰の実力者」の性能と効果解説【デッドバイデイライト】",
+      "url": "https://kamigame.jp/dbd/page/250719165885761483.html",
+      "host": "kamigame.jp",
+      "source": "神ゲー攻略",
+      "summary": "",
+      "publishedAt": "2026-11-09T09:25:05.000Z",
+      "image": "https://lh3.googleusercontent.com/A8e5d-fqNVK4a9xM6GAyIU0G_NGsOscpWO16tHP5OuuU7TZGUvH2_lqL3jRSKr5BOF4ebwTsHSod9WeCHsvXVE30zxesydrsOowiQg5mZuPHOQ=s0",
+      "categories": [
+        "goods"
+      ],
+      "works": [
+        "kagejitsu"
+      ],
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": true
+    },
+    {
       "id": "bd6f5b540bd8",
       "title": "鈴木このみ、ついに“悪役令嬢もの”の主題歌を歌う！TVアニメ『弱気MAX令嬢』OPテーマ「強気MAX宣言」に込めた“かましたれ”精神と30代の新しい挑戦に迫る！",
       "url": "https://news.livedoor.com/article/detail/32771949/",
@@ -2086,6 +2130,24 @@
       "viaGoogle": false,
       "sourceKind": "news",
       "isNew": false
+    },
+    {
+      "id": "563b45ebe137",
+      "title": "【画像】鈴木このみ、ついに“悪役令嬢もの”の主題歌を歌う！TVアニメ『弱気MAX令嬢』OPテーマ「強気MAX宣言」に込めた“かましたれ”精神と30代の新しい挑戦に迫る！ - ライブドアニュース",
+      "url": "https://news.livedoor.com/article/image_detail/32771949/?img_id",
+      "host": "news.livedoor.com",
+      "source": "ライブドアニュース",
+      "summary": "",
+      "publishedAt": "2026-11-09T09:13:24.000Z",
+      "image": "https://image.news.livedoor.com/newsimage/stf/1/0/10381_1516_28cdf2fd_70dd4fca.jpg",
+      "categories": [
+        "anime"
+      ],
+      "works": [],
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": true
     },
     {
       "id": "05323abe6967",
