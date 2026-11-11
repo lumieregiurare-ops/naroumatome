@@ -1,18 +1,18 @@
 {
-  "updatedAt": "2026-11-11T23:00:20.007Z",
+  "updatedAt": "2026-11-11T23:30:19.273Z",
   "site": {
     "title": "なろう系まとめ",
     "tagline": "小説家になろう発の作品のアニメ化・コミカライズ・書籍化のニュースと、なろうのランキングをまとめています。",
     "url": "https://naroumatome.gamelab.website/",
     "contactUrl": "https://docs.google.com/forms/d/e/1FAIpQLSesWyhmZ6sRS_ve-c3X2KqF_wC5PK2TgwgQbTKmnQltSlg5Jw/viewform"
   },
-  "total": 90,
+  "total": 89,
   "todayCount": 1,
   "categories": [
     {
       "id": "anime",
       "label": "アニメ",
-      "count": 52
+      "count": 51
     },
     {
       "id": "comic",
@@ -42,7 +42,7 @@
     {
       "id": "other",
       "label": "そのほか",
-      "count": 16
+      "count": 15
     }
   ],
   "works": [
@@ -62,7 +62,7 @@
       "id": "rezero",
       "title": "Re:ゼロから始める異世界生活",
       "short": "リゼロ",
-      "count": 8
+      "count": 7
     },
     {
       "id": "honzuki",
@@ -299,11 +299,11 @@
       "count": 18
     },
     {
-      "name": "ナタリー",
-      "count": 9
+      "name": "山陽新聞",
+      "count": 8
     },
     {
-      "name": "山陽新聞",
+      "name": "ナタリー",
       "count": 8
     },
     {
@@ -339,15 +339,15 @@
       "count": 2
     },
     {
-      "name": "Excite エキサイト",
-      "count": 2
-    },
-    {
       "name": "WEBザテレビジョン",
       "count": 2
     },
     {
       "name": "Infoseek",
+      "count": 2
+    },
+    {
+      "name": "電撃オンライン",
       "count": 2
     },
     {
@@ -360,6 +360,10 @@
     },
     {
       "name": "Dellows News",
+      "count": 1
+    },
+    {
+      "name": "Excite エキサイト",
       "count": 1
     },
     {
@@ -380,10 +384,6 @@
     },
     {
       "name": "電撃ホビーウェブ",
-      "count": 1
-    },
-    {
-      "name": "電撃オンライン",
       "count": 1
     },
     {
@@ -513,8 +513,8 @@
       "image": "https://thetv.jp/i/nw/1445408/18697258.jpg?w=1284",
       "leadSource": "WEBザテレビジョン",
       "publishedAt": "2026-11-11T03:13:46.000Z",
-      "sourceCount": 4,
-      "articleCount": 4,
+      "sourceCount": 3,
+      "articleCount": 3,
       "categories": [
         "anime",
         "goods"
@@ -533,17 +533,46 @@
           "isPR": false
         },
         {
-          "title": "「劇場版 薬屋のひとりごと」が「ばかうけ」とコラボ、オリジナルシール付き",
-          "url": "https://natalie.mu/comic/news/697297",
-          "source": "ナタリー",
-          "publishedAt": "2026-11-10T01:21:00.000Z",
-          "isPR": false
-        },
-        {
           "title": "「薬屋のひとりごと」猫猫＆壬氏が「ばかうけ」と初コラボ！限定パケ＆全6種のオリジナルシールはコンプしたい！",
           "url": "https://news.yahoo.co.jp/articles/5746e6249c187c9b37c5c28687a76156c047cd10/images/000",
           "source": "Yahoo!ニュース",
           "publishedAt": "2026-11-09T03:50:41.000Z",
+          "isPR": false
+        }
+      ]
+    },
+    {
+      "id": "889706901cac",
+      "title": "『薬屋のひとりごと』第3期、猫猫＆壬氏に新たな試練、『鑑定スキル』など話題作続々 J:COM STREAM秋アニメ発表",
+      "summary": "",
+      "url": "https://www.sanyonews.jp/article/1999895",
+      "image": "https://static.sanyonews.jp/image/article/size1/b/3/5/d/b35d03295f64611f7b0ef153fed0ec05_1.jpg",
+      "leadSource": "山陽新聞",
+      "publishedAt": "2026-11-11T01:29:08.000Z",
+      "sourceCount": 3,
+      "articleCount": 3,
+      "categories": [
+        "anime",
+        "goods"
+      ],
+      "keywords": [
+        "薬屋",
+        "猫猫",
+        "壬氏"
+      ],
+      "articles": [
+        {
+          "title": "【薬屋のひとりごと】猫猫＆壬氏の《きゅるみー》が再登場！ 上目遣いが可愛いミニフィギュア全2種",
+          "url": "https://dengekionline.com/article/202611/93505",
+          "source": "電撃オンライン",
+          "publishedAt": "2026-11-09T09:00:00.000Z",
+          "isPR": false
+        },
+        {
+          "title": "映画『薬屋のひとりごと』×ばかうけ初コラボ! 猫猫＆壬氏の描き下ろしパッケージで登場",
+          "url": "https://news.mynavi.jp/article/20261109-5286911/",
+          "source": "マイナビニュース",
+          "publishedAt": "2026-11-09T03:06:49.000Z",
           "isPR": false
         }
       ]
@@ -732,35 +761,6 @@
       ]
     },
     {
-      "id": "889706901cac",
-      "title": "『薬屋のひとりごと』第3期、猫猫＆壬氏に新たな試練、『鑑定スキル』など話題作続々 J:COM STREAM秋アニメ発表",
-      "summary": "",
-      "url": "https://www.sanyonews.jp/article/1999895",
-      "image": "https://static.sanyonews.jp/image/article/size1/b/3/5/d/b35d03295f64611f7b0ef153fed0ec05_1.jpg",
-      "leadSource": "山陽新聞",
-      "publishedAt": "2026-11-11T01:29:08.000Z",
-      "sourceCount": 2,
-      "articleCount": 2,
-      "categories": [
-        "anime",
-        "goods"
-      ],
-      "keywords": [
-        "薬屋",
-        "猫猫",
-        "壬氏"
-      ],
-      "articles": [
-        {
-          "title": "映画『薬屋のひとりごと』×ばかうけ初コラボ! 猫猫＆壬氏の描き下ろしパッケージで登場",
-          "url": "https://news.mynavi.jp/article/20261109-5286911/",
-          "source": "マイナビニュース",
-          "publishedAt": "2026-11-09T03:06:49.000Z",
-          "isPR": false
-        }
-      ]
-    },
-    {
       "id": "01e4edf73b90",
       "title": "アニメ『信者ゼロの女神サマと始める異世界攻略』の視聴方法！動画配信サービス、あらすじを解説",
       "summary": "",
@@ -819,12 +819,12 @@
     }
   ],
   "churn": {
-    "previousAt": "2026-11-11T22:30:30.321Z",
-    "previousCount": 89,
-    "newCount": 2
+    "previousAt": "2026-11-11T23:00:20.007Z",
+    "previousCount": 90,
+    "newCount": 1
   },
   "updateGapMin": 30,
-  "nextUpdateAt": "2026-11-11T23:30:20.007Z",
+  "nextUpdateAt": "2026-11-12T00:00:19.273Z",
   "items": [
     {
       "id": "b56ab546b2b7",
@@ -1611,7 +1611,7 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "590fd0a5eefd",
@@ -1706,27 +1706,6 @@
       ],
       "works": [
         "mushoku"
-      ],
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": false
-    },
-    {
-      "id": "0e56f9abbade",
-      "title": "「劇場版 薬屋のひとりごと」が「ばかうけ」とコラボ、オリジナルシール付き",
-      "url": "https://natalie.mu/comic/news/697297",
-      "host": "natalie.mu",
-      "source": "ナタリー",
-      "summary": "",
-      "publishedAt": "2026-11-10T01:21:00.000Z",
-      "image": "",
-      "categories": [
-        "anime",
-        "goods"
-      ],
-      "works": [
-        "kusuriya"
       ],
       "isPR": false,
       "viaGoogle": false,
@@ -2088,6 +2067,26 @@
         "anime"
       ],
       "works": [],
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": false
+    },
+    {
+      "id": "3fcaafa94fd6",
+      "title": "【薬屋のひとりごと】猫猫＆壬氏の《きゅるみー》が再登場！ 上目遣いが可愛いミニフィギュア全2種",
+      "url": "https://dengekionline.com/article/202611/93505",
+      "host": "dengekionline.com",
+      "source": "電撃オンライン",
+      "summary": "",
+      "publishedAt": "2026-11-09T09:00:00.000Z",
+      "image": "https://cimg.kgl-systems.io/camion/files/93505/ogp_WVpj.jpg?x=1280",
+      "categories": [
+        "goods"
+      ],
+      "works": [
+        "kusuriya"
+      ],
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
@@ -2523,26 +2522,6 @@
       ],
       "works": [
         "kusuriya"
-      ],
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": false
-    },
-    {
-      "id": "4494aacda085",
-      "title": "【コスプレ】艶めく紫のピッチリボディスーツで美脚×ヒップラインが際立つ！雨の中で魅せる「リゼロ」エミリアの可憐な立ち姿【写真10枚】",
-      "url": "http://www.excite.co.jp/news/article/Inside_190568/",
-      "host": "excite.co.jp",
-      "source": "Excite エキサイト",
-      "summary": "",
-      "publishedAt": "2026-11-08T23:04:18.000Z",
-      "image": "",
-      "categories": [
-        "other"
-      ],
-      "works": [
-        "rezero"
       ],
       "isPR": false,
       "viaGoogle": false,
