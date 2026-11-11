@@ -1,13 +1,13 @@
 {
-  "updatedAt": "2026-11-11T09:00:20.699Z",
+  "updatedAt": "2026-11-11T09:30:20.023Z",
   "site": {
     "title": "なろう系まとめ",
     "tagline": "小説家になろう発の作品のアニメ化・コミカライズ・書籍化のニュースと、なろうのランキングをまとめています。",
     "url": "https://naroumatome.gamelab.website/",
     "contactUrl": "https://docs.google.com/forms/d/e/1FAIpQLSesWyhmZ6sRS_ve-c3X2KqF_wC5PK2TgwgQbTKmnQltSlg5Jw/viewform"
   },
-  "total": 82,
-  "todayCount": 20,
+  "total": 83,
+  "todayCount": 21,
   "categories": [
     {
       "id": "anime",
@@ -22,12 +22,12 @@
     {
       "id": "book",
       "label": "書籍・ラノベ",
-      "count": 8
+      "count": 9
     },
     {
       "id": "web",
       "label": "Web小説・賞",
-      "count": 4
+      "count": 5
     },
     {
       "id": "game",
@@ -304,15 +304,11 @@
     },
     {
       "name": "ナタリー",
-      "count": 6
+      "count": 7
     },
     {
       "name": "ラノベニュースオンライン",
       "count": 5
-    },
-    {
-      "name": "アニメ！アニメ！",
-      "count": 4
     },
     {
       "name": "ABEMA TIMES",
@@ -323,11 +319,15 @@
       "count": 3
     },
     {
+      "name": "PR TIMES",
+      "count": 3
+    },
+    {
       "name": "Infoseek",
       "count": 3
     },
     {
-      "name": "ニコニコニュース",
+      "name": "アニメ！アニメ！",
       "count": 3
     },
     {
@@ -351,15 +351,15 @@
       "count": 2
     },
     {
+      "name": "ニコニコニュース",
+      "count": 2
+    },
+    {
       "name": "オリコンニュース",
       "count": 2
     },
     {
       "name": "ほんのひきだし",
-      "count": 1
-    },
-    {
-      "name": "毎日新聞",
       "count": 1
     },
     {
@@ -399,10 +399,6 @@
       "count": 1
     },
     {
-      "name": "PR TIMES",
-      "count": 1
-    },
-    {
       "name": "eeo",
       "count": 1
     },
@@ -419,19 +415,23 @@
       "count": 1
     },
     {
+      "name": "au Webポータル",
+      "count": 1
+    },
+    {
       "name": "Dellows News",
       "count": 1
     }
   ],
   "topics": [
     {
-      "id": "65fa0969535d",
-      "title": "プレスリリース：アニメ『薬屋のひとりごと』より、「猫猫」がドルフィードリーム(R)で登場（PR TIMES）",
+      "id": "739d7ac3a64b",
+      "title": "アニメ『薬屋のひとりごと』より、「猫猫」がドルフィードリーム(R)で登場",
       "summary": "",
-      "url": "https://mainichi.jp/articles/20261111/pr2/00m/020/972000c",
+      "url": "https://news.infoseek.co.jp/article/prtimes_000000151_000008991/",
       "image": "https://media.image.infoseek.co.jp/isnews/pc/img/noimage_203x120_busi-econ-1.0.png",
-      "leadSource": "毎日新聞",
-      "publishedAt": "2026-11-11T08:23:19.000Z",
+      "leadSource": "Infoseek",
+      "publishedAt": "2026-11-11T08:00:01.000Z",
       "sourceCount": 5,
       "articleCount": 5,
       "categories": [
@@ -445,11 +445,11 @@
       ],
       "articles": [
         {
-          "title": "アニメ『薬屋のひとりごと』より、「猫猫」がドルフィードリーム(R)で登場",
-          "url": "https://news.infoseek.co.jp/article/prtimes_000000151_000008991/",
-          "source": "Infoseek",
-          "publishedAt": "2026-11-11T08:00:00.000Z",
-          "isPR": false
+          "title": "アニメ『薬屋のひとりごと』より、「猫猫」がドルフィードリーム®で登場",
+          "url": "https://prtimes.jp/main/html/rd/p/000000151.000008991.html",
+          "source": "PR TIMES",
+          "publishedAt": "2026-11-11T08:00:01.000Z",
+          "isPR": true
         },
         {
           "title": "＜薬屋のひとりごと＞壬氏初の“猫猫”名前呼びに「刺激が強すぎる」とファン悶絶、幽霊の正体も明らかに【第38話】",
@@ -800,12 +800,12 @@
     }
   ],
   "churn": {
-    "previousAt": "2026-11-11T08:30:19.340Z",
-    "previousCount": 83,
+    "previousAt": "2026-11-11T09:00:20.699Z",
+    "previousCount": 82,
     "newCount": 3
   },
   "updateGapMin": 30,
-  "nextUpdateAt": "2026-11-11T09:30:20.699Z",
+  "nextUpdateAt": "2026-11-11T10:00:20.023Z",
   "items": [
     {
       "id": "8b3d16af53eb",
@@ -825,7 +825,7 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "7427b878bbf4",
@@ -843,27 +843,7 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": true
-    },
-    {
-      "id": "65fa0969535d",
-      "title": "プレスリリース：アニメ『薬屋のひとりごと』より、「猫猫」がドルフィードリーム(R)で登場（PR TIMES）",
-      "url": "https://mainichi.jp/articles/20261111/pr2/00m/020/972000c",
-      "host": "mainichi.jp",
-      "source": "毎日新聞",
-      "summary": "",
-      "publishedAt": "2026-11-11T08:23:19.000Z",
-      "image": "",
-      "categories": [
-        "anime"
-      ],
-      "works": [
-        "kusuriya"
-      ],
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "ca78c5f0d01e",
@@ -884,6 +864,26 @@
       "viaGoogle": false,
       "sourceKind": "news",
       "isNew": false
+    },
+    {
+      "id": "046538fb8515",
+      "title": "アニメ『薬屋のひとりごと』より、「猫猫」がドルフィードリーム®で登場",
+      "url": "https://prtimes.jp/main/html/rd/p/000000151.000008991.html",
+      "host": "prtimes.jp",
+      "source": "PR TIMES",
+      "summary": "",
+      "publishedAt": "2026-11-11T08:00:01.000Z",
+      "image": "https://prcdn.freetls.fastly.net/release_image/8991/151/8991-151-0211ea7988fd54294ff762e0cc80d853-960x480.jpg?format=jpeg&auto=webp&fit=bounds&width=2400&height=1260",
+      "categories": [
+        "anime"
+      ],
+      "works": [
+        "kusuriya"
+      ],
+      "isPR": true,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": true
     },
     {
       "id": "656cf87d0fd4",
@@ -967,6 +967,25 @@
       "viaGoogle": false,
       "sourceKind": "news",
       "isNew": false
+    },
+    {
+      "id": "c42d44ac5709",
+      "title": "人気スキーリゾートの”ゲレンデガール“を選出するオーディションイベント第3弾！「ゲレンデガール2027～黒伏高原スノーパーク公認PRモデルになろう～」を開催",
+      "url": "https://prtimes.jp/main/html/rd/p/000000919.000030133.html",
+      "host": "prtimes.jp",
+      "source": "PR TIMES",
+      "summary": "[17LIVE株式会社] 17LIVE株式会社（東京都渋谷区、代表取締役：ジャン・ホンフイ、URL：https://jp.17.live/）が運営する日本最大級のライブ配信アプリ「17LIVE（イチナナ）」は、100%天然雪と極上のパウダースノーが魅力の「黒伏...",
+      "publishedAt": "2026-11-11T07:15:38.000Z",
+      "image": "https://prcdn.freetls.fastly.net/release_image/30133/919/30133-919-6583ad30b5ec0b185d812c6c0513ad74-1200x630.png?format=jpeg&auto=webp&fit=bounds&width=2400&height=1260",
+      "categories": [
+        "anime",
+        "web"
+      ],
+      "works": [],
+      "isPR": true,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": true
     },
     {
       "id": "d08b3c91b608",
@@ -1086,26 +1105,6 @@
       "isNew": false
     },
     {
-      "id": "616e4171c3f6",
-      "title": "『薬屋のひとりごと』ハロウィン企画ビジュアル＆ミニボイスドラマ公開 3日連続解禁で第1弾は猫猫＆趙迂",
-      "url": "https://www.sanyonews.jp/article/2012864?kw",
-      "host": "sanyonews.jp",
-      "source": "山陽新聞",
-      "summary": "",
-      "publishedAt": "2026-11-10T22:38:13.000Z",
-      "image": "https://static.sanyonews.jp/image/article/size1/2/2/6/9/22691045f5f76de9d50170d05e001015_1.jpg",
-      "categories": [
-        "other"
-      ],
-      "works": [
-        "kusuriya"
-      ],
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": false
-    },
-    {
       "id": "327c0f705381",
       "title": "なぜ『薬屋のひとりごと』はここまで人気なのか？小説・漫画・アニメを超えたヒットの理由とは #エキスパートトピ",
       "url": "https://news.yahoo.co.jp/expert/articles/8b907200f8003f3c504f8cba500b4cbd26cc3f0f",
@@ -1207,6 +1206,26 @@
       "isNew": false
     },
     {
+      "id": "616e4171c3f6",
+      "title": "『薬屋のひとりごと』ハロウィン企画ビジュアル＆ミニボイスドラマ公開 3日連続解禁で第1弾は猫猫＆趙迂",
+      "url": "https://www.sanyonews.jp/article/2012864?rct",
+      "host": "sanyonews.jp",
+      "source": "山陽新聞",
+      "summary": "",
+      "publishedAt": "2026-11-10T16:50:39.000Z",
+      "image": "https://static.sanyonews.jp/image/article/size1/2/2/6/9/22691045f5f76de9d50170d05e001015_1.jpg",
+      "categories": [
+        "other"
+      ],
+      "works": [
+        "kusuriya"
+      ],
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": false
+    },
+    {
       "id": "01e4edf73b90",
       "title": "アニメ『信者ゼロの女神サマと始める異世界攻略』の視聴方法！動画配信サービス、あらすじを解説",
       "url": "https://spocale.com/blog/shinja-zero-anime-streaming/",
@@ -1243,6 +1262,24 @@
       "viaGoogle": false,
       "sourceKind": "news",
       "isNew": false
+    },
+    {
+      "id": "1f0036dfd723",
+      "title": "“闇の神聖魔法”を操る転生令嬢の領地発展ファンタジー「追放幼女の領地開拓記」1巻",
+      "url": "https://natalie.mu/comic/news/697413",
+      "host": "natalie.mu",
+      "source": "ナタリー",
+      "summary": "",
+      "publishedAt": "2026-11-10T09:50:00.000Z",
+      "image": "",
+      "categories": [
+        "book"
+      ],
+      "works": [],
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": true
     },
     {
       "id": "95b109350b6f",
@@ -1355,24 +1392,6 @@
       "works": [
         "kusuriya"
       ],
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": false
-    },
-    {
-      "id": "2350743a7f2a",
-      "title": "【無料】『日本へようこそエルフさん。』全12話がYouTubeで配信スタート！主人公が持つ夢を通して異世界と行き来でき",
-      "url": "https://news.nicovideo.jp/watch/nw19974881?news_ref",
-      "host": "news.nicovideo.jp",
-      "source": "ニコニコニュース",
-      "summary": "",
-      "publishedAt": "2026-11-10T05:42:16.000Z",
-      "image": "",
-      "categories": [
-        "anime"
-      ],
-      "works": [],
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
@@ -1959,26 +1978,6 @@
       "isNew": false
     },
     {
-      "id": "4494aacda085",
-      "title": "【コスプレ】艶めく紫のピッチリボディスーツで美脚×ヒップラインが際立つ！雨の中で魅せる「リゼロ」エミリアの可憐な立ち姿【写真10枚】",
-      "url": "https://animeanime.jp/article/2026/11/09/104620.html",
-      "host": "animeanime.jp",
-      "source": "アニメ！アニメ！",
-      "summary": "",
-      "publishedAt": "2026-11-09T07:45:03.000Z",
-      "image": "https://animeanime.jp/imgs/ogp_f/953463.jpg",
-      "categories": [
-        "other"
-      ],
-      "works": [
-        "rezero"
-      ],
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": false
-    },
-    {
       "id": "d4709deebfd9",
       "title": "「素材採取家の異世界旅行記」アニメの配信はどこで見れる？見放題のサブスクと無料で見る方法を紹介",
       "url": "https://animeanime.jp/article/2026/11/09/104616.html",
@@ -2308,6 +2307,26 @@
       ],
       "works": [
         "kusuriya"
+      ],
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": false
+    },
+    {
+      "id": "4494aacda085",
+      "title": "【コスプレ】艶めく紫のピッチリボディスーツで美脚×ヒップラインが際立つ！雨の中で魅せる「リゼロ」エミリアの可憐な立ち姿【写真10枚】",
+      "url": "https://article.auone.jp/6b6beb26-41fe-4111-9b25-b086f06c65ba",
+      "host": "article.auone.jp",
+      "source": "au Webポータル",
+      "summary": "",
+      "publishedAt": "2026-11-08T22:11:28.000Z",
+      "image": "https://portal.auone.jp/media/thumbnails/2026/11/09/https___news_jp_i_1492285922458354453_w640.webp",
+      "categories": [
+        "other"
+      ],
+      "works": [
+        "rezero"
       ],
       "isPR": false,
       "viaGoogle": false,
