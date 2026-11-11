@@ -1,12 +1,12 @@
 {
-  "updatedAt": "2026-11-11T22:30:30.321Z",
+  "updatedAt": "2026-11-11T23:00:20.007Z",
   "site": {
     "title": "なろう系まとめ",
     "tagline": "小説家になろう発の作品のアニメ化・コミカライズ・書籍化のニュースと、なろうのランキングをまとめています。",
     "url": "https://naroumatome.gamelab.website/",
     "contactUrl": "https://docs.google.com/forms/d/e/1FAIpQLSesWyhmZ6sRS_ve-c3X2KqF_wC5PK2TgwgQbTKmnQltSlg5Jw/viewform"
   },
-  "total": 89,
+  "total": 90,
   "todayCount": 1,
   "categories": [
     {
@@ -42,7 +42,7 @@
     {
       "id": "other",
       "label": "そのほか",
-      "count": 15
+      "count": 16
     }
   ],
   "works": [
@@ -296,7 +296,7 @@
   "sources": [
     {
       "name": "Yahoo!ニュース",
-      "count": 17
+      "count": 18
     },
     {
       "name": "ナタリー",
@@ -319,15 +319,11 @@
       "count": 4
     },
     {
-      "name": "ニコニコニュース",
-      "count": 3
-    },
-    {
-      "name": "Infoseek",
-      "count": 3
-    },
-    {
       "name": "ライブドアニュース",
+      "count": 4
+    },
+    {
+      "name": "ニコニコニュース",
       "count": 3
     },
     {
@@ -348,6 +344,10 @@
     },
     {
       "name": "WEBザテレビジョン",
+      "count": 2
+    },
+    {
+      "name": "Infoseek",
       "count": 2
     },
     {
@@ -707,7 +707,7 @@
       "title": "『城とドラゴン』×TVアニメ『転生したらスライムだった件』復刻コラボイベントが11月13日(金)19:00より開催！本日からXキャンペーンを実施！",
       "summary": "",
       "url": "https://www.dreamnews.jp/press/0000368064",
-      "image": "https://www.dreamnews.jp/press/0000368064/images/bodyimage1",
+      "image": "https://img.gamewith.jp/article/thumbnail/gamearticle/811/rectangle/65623.png?t=1794384006",
       "leadSource": "ドリームニュース",
       "publishedAt": "2026-11-11T08:00:00.000Z",
       "sourceCount": 2,
@@ -727,34 +727,6 @@
           "url": "https://gamewith.jp/gamedb/811/articles/65623",
           "source": "GameWith",
           "publishedAt": "2026-11-11T05:19:29.000Z",
-          "isPR": false
-        }
-      ]
-    },
-    {
-      "id": "739d7ac3a64b",
-      "title": "アニメ『薬屋のひとりごと』より、「猫猫」がドルフィードリーム(R)で登場",
-      "summary": "",
-      "url": "https://news.infoseek.co.jp/article/prtimes_000000151_000008991/",
-      "image": "https://media.image.infoseek.co.jp/isnews/pc/img/noimage_203x120_busi-econ-1.0.png",
-      "leadSource": "Infoseek",
-      "publishedAt": "2026-11-11T08:00:00.000Z",
-      "sourceCount": 2,
-      "articleCount": 2,
-      "categories": [
-        "anime",
-        "other"
-      ],
-      "keywords": [
-        "薬屋",
-        "猫猫"
-      ],
-      "articles": [
-        {
-          "title": "『薬屋のひとりごと』ハロウィン企画ビジュアル＆ミニボイスドラマ公開 3日連続解禁で第1弾は猫猫＆趙迂",
-          "url": "https://www.sanyonews.jp/article/2012864?kw",
-          "source": "山陽新聞",
-          "publishedAt": "2026-11-11T03:51:42.000Z",
           "isPR": false
         }
       ]
@@ -847,12 +819,12 @@
     }
   ],
   "churn": {
-    "previousAt": "2026-11-11T22:00:21.584Z",
-    "previousCount": 91,
-    "newCount": 0
+    "previousAt": "2026-11-11T22:30:30.321Z",
+    "previousCount": 89,
+    "newCount": 2
   },
   "updateGapMin": 30,
-  "nextUpdateAt": "2026-11-11T23:00:30.321Z",
+  "nextUpdateAt": "2026-11-11T23:30:20.007Z",
   "items": [
     {
       "id": "b56ab546b2b7",
@@ -1076,33 +1048,13 @@
       "source": "ドリームニュース",
       "summary": "",
       "publishedAt": "2026-11-11T08:00:00.000Z",
-      "image": "https://www.dreamnews.jp/press/0000368064/images/bodyimage1",
+      "image": "",
       "categories": [
         "goods",
         "anime"
       ],
       "works": [
         "tensura"
-      ],
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": false
-    },
-    {
-      "id": "739d7ac3a64b",
-      "title": "アニメ『薬屋のひとりごと』より、「猫猫」がドルフィードリーム(R)で登場",
-      "url": "https://news.infoseek.co.jp/article/prtimes_000000151_000008991/",
-      "host": "news.infoseek.co.jp",
-      "source": "Infoseek",
-      "summary": "",
-      "publishedAt": "2026-11-11T08:00:00.000Z",
-      "image": "https://media.image.infoseek.co.jp/isnews/pc/img/noimage_203x120_busi-econ-1.0.png",
-      "categories": [
-        "anime"
-      ],
-      "works": [
-        "kusuriya"
       ],
       "isPR": false,
       "viaGoogle": false,
@@ -1304,6 +1256,26 @@
       ],
       "works": [
         "kusuriya"
+      ],
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": false
+    },
+    {
+      "id": "18c442dd9a7f",
+      "title": "『転スラ』そのキャラ出るの！第4期の第2クールPV解禁 OPはDaoko、EDは田所あずさ",
+      "url": "https://www.sanyonews.jp/article/1940746?kw",
+      "host": "sanyonews.jp",
+      "source": "山陽新聞",
+      "summary": "",
+      "publishedAt": "2026-11-10T23:57:56.000Z",
+      "image": "https://static.sanyonews.jp/image/article/size1/2/b/6/7/2b67db9eed80b704cb517b99fda49c2c_1.jpg",
+      "categories": [
+        "anime"
+      ],
+      "works": [
+        "tensura"
       ],
       "isPR": false,
       "viaGoogle": false,
@@ -1622,6 +1594,26 @@
       "isNew": false
     },
     {
+      "id": "8071aa5878ac",
+      "title": "「薬屋のひとりごと」が躍進した背景で、何が最も大きいと思いますか？",
+      "url": "https://news.yahoo.co.jp/polls/75874",
+      "host": "news.yahoo.co.jp",
+      "source": "Yahoo!ニュース",
+      "summary": "",
+      "publishedAt": "2026-11-10T05:14:05.000Z",
+      "image": "https://news-pctr.c.yimg.jp/dk/news-polls/2026/11/10/45e683de5e325842c8f7d197dacce8149bc925a497f92ba530ba5689a5bb1048.jpg",
+      "categories": [
+        "other"
+      ],
+      "works": [
+        "kusuriya"
+      ],
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": true
+    },
+    {
       "id": "590fd0a5eefd",
       "title": "「…これ、米です」「ばかうけのキャラが猫猫と壬氏様になってる！」『薬屋のひとりごと』劇場版と「ばかうけ」コラボにファン歓喜",
       "url": "https://times.abema.tv/articles/-/10287798",
@@ -1857,26 +1849,6 @@
       "isNew": false
     },
     {
-      "id": "18c442dd9a7f",
-      "title": "『転スラ』そのキャラ出るの！第4期の第2クールPV解禁 OPはDaoko、EDは田所あずさ",
-      "url": "https://www.sanyonews.jp/article/1940746?kw",
-      "host": "sanyonews.jp",
-      "source": "山陽新聞",
-      "summary": "",
-      "publishedAt": "2026-11-09T15:21:43.000Z",
-      "image": "https://static.sanyonews.jp/image/article/size1/2/b/6/7/2b67db9eed80b704cb517b99fda49c2c_1.jpg",
-      "categories": [
-        "anime"
-      ],
-      "works": [
-        "tensura"
-      ],
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": false
-    },
-    {
       "id": "d037145a529d",
       "title": "児童書版「転スラ」最新刊・『転生したらスライムだった件 とある時空の物語１７.（上）』かなで文庫より、11月16日（月）発売！販売協力店で購入された方に『両面紙しおり』をプレゼント！",
       "url": "https://news.nicovideo.jp/watch/nw19973033",
@@ -2102,6 +2074,24 @@
       "viaGoogle": false,
       "sourceKind": "news",
       "isNew": false
+    },
+    {
+      "id": "563b45ebe137",
+      "title": "【画像】鈴木このみ、ついに“悪役令嬢もの”の主題歌を歌う！TVアニメ『弱気MAX令嬢』OPテーマ「強気MAX宣言」に込めた“かましたれ”精神と30代の新しい挑戦に迫る！ - ライブドアニュース",
+      "url": "https://news.livedoor.com/article/image_detail/32771949/?img_id",
+      "host": "news.livedoor.com",
+      "source": "ライブドアニュース",
+      "summary": "",
+      "publishedAt": "2026-11-09T09:13:24.000Z",
+      "image": "https://image.news.livedoor.com/newsimage/stf/1/0/10381_1516_28cdf2fd_70dd4fca.jpg",
+      "categories": [
+        "anime"
+      ],
+      "works": [],
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": true
     },
     {
       "id": "05323abe6967",
