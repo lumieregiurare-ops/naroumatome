@@ -1,18 +1,18 @@
 {
-  "updatedAt": "2026-11-12T18:00:24.961Z",
+  "updatedAt": "2026-11-12T18:30:22.032Z",
   "site": {
     "title": "なろう系まとめ",
     "tagline": "小説家になろう発の作品のアニメ化・コミカライズ・書籍化のニュースと、なろうのランキングをまとめています。",
     "url": "https://naroumatome.gamelab.website/",
     "contactUrl": "https://docs.google.com/forms/d/e/1FAIpQLSesWyhmZ6sRS_ve-c3X2KqF_wC5PK2TgwgQbTKmnQltSlg5Jw/viewform"
   },
-  "total": 93,
-  "todayCount": 1,
+  "total": 92,
+  "todayCount": 2,
   "categories": [
     {
       "id": "anime",
       "label": "アニメ",
-      "count": 51
+      "count": 50
     },
     {
       "id": "comic",
@@ -296,7 +296,7 @@
   "sources": [
     {
       "name": "山陽新聞",
-      "count": 13
+      "count": 14
     },
     {
       "name": "Yahoo!ニュース",
@@ -315,10 +315,6 @@
       "count": 4
     },
     {
-      "name": "Excite エキサイト",
-      "count": 3
-    },
-    {
       "name": "WEBザテレビジョン",
       "count": 3
     },
@@ -331,8 +327,8 @@
       "count": 3
     },
     {
-      "name": "ナタリー",
-      "count": 3
+      "name": "PR TIMES",
+      "count": 2
     },
     {
       "name": "ABEMA",
@@ -363,11 +359,15 @@
       "count": 2
     },
     {
-      "name": "ABEMA TIMES",
+      "name": "Excite エキサイト",
       "count": 2
     },
     {
       "name": "ライブドアニュース",
+      "count": 2
+    },
+    {
+      "name": "ナタリー",
       "count": 2
     },
     {
@@ -396,10 +396,6 @@
     },
     {
       "name": "マイナビニュース",
-      "count": 1
-    },
-    {
-      "name": "PR TIMES",
       "count": 1
     },
     {
@@ -441,6 +437,10 @@
     {
       "name": "ぴあエンタメ情報",
       "count": 1
+    },
+    {
+      "name": "ABEMA TIMES",
+      "count": 1
     }
   ],
   "topics": [
@@ -453,14 +453,14 @@
       "leadSource": "PASH! PLUS",
       "publishedAt": "2026-11-12T13:57:08.000Z",
       "sourceCount": 11,
-      "articleCount": 13,
+      "articleCount": 14,
       "categories": [
         "anime"
       ],
       "keywords": [
         "薬屋",
         "カット",
-        "先行"
+        "猫猫"
       ],
       "articles": [
         {
@@ -799,44 +799,36 @@
           "isPR": false
         }
       ]
-    },
-    {
-      "id": "ba4e4ccdab3a",
-      "title": "“新スキル・天眼を取得する師匠”が1位！アニメ『転生したら剣でしたII』第5話コメント最多シーンTOP3",
-      "summary": "",
-      "url": "https://news.infoseek.co.jp/article/abematimes_10288265/",
-      "image": "https://media.image.infoseek.co.jp/isnews/photos/abematimes/abematimes_10288265_0-enlarge.jpg",
-      "leadSource": "Infoseek",
-      "publishedAt": "2026-11-11T13:00:00.000Z",
-      "sourceCount": 2,
-      "articleCount": 2,
-      "categories": [
-        "anime"
-      ],
-      "keywords": [
-        "top3",
-        "コメント",
-        "シーン"
-      ],
-      "articles": [
-        {
-          "title": "“水銀を飲む白娘々”が1位！アニメ『薬屋のひとりごと』第53話コメント最多シーンTOP3 | アニメニュース | アニメフリークス",
-          "url": "https://times.abema.tv/articles/-/10288255",
-          "source": "ABEMA TIMES",
-          "publishedAt": "2026-11-11T12:50:00.000Z",
-          "isPR": false
-        }
-      ]
     }
   ],
   "churn": {
-    "previousAt": "2026-11-12T17:30:22.688Z",
-    "previousCount": 90,
-    "newCount": 6
+    "previousAt": "2026-11-12T18:00:24.961Z",
+    "previousCount": 93,
+    "newCount": 2
   },
   "updateGapMin": 30,
-  "nextUpdateAt": "2026-11-12T18:30:24.961Z",
+  "nextUpdateAt": "2026-11-12T19:00:22.032Z",
   "items": [
+    {
+      "id": "d037145a529d",
+      "title": "児童書版「転スラ」最新刊・『転生したらスライムだった件 とある時空の物語１７.（上）』かなで文庫より、11月16日（月）発売！販売協力店で購入された方に『両面紙しおり』をプレゼント！",
+      "url": "https://prtimes.jp/main/html/rd/p/000002875.000048095.html",
+      "host": "prtimes.jp",
+      "source": "PR TIMES",
+      "summary": "[株式会社マイクロマガジン社] マイクロマガジン社（東京都中央区）は、かなで文庫『転生したらスライムだった件 とある時空の物語１７.（上）』を、2026年11月16日（月）に発売いたします！ 難しい言葉もわかりやすく解説した児童文庫版『転生...",
+      "publishedAt": "2026-11-12T18:10:02.000Z",
+      "image": "https://prcdn.freetls.fastly.net/release_image/48095/2875/48095-2875-681e82b99a0461920bdfbe834ca4489f-1000x1549.jpg?format=jpeg&auto=webp&fit=bounds&width=2400&height=1260",
+      "categories": [
+        "book"
+      ],
+      "works": [
+        "tensura"
+      ],
+      "isPR": true,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": false
+    },
     {
       "id": "528ab15ffd00",
       "title": "『薬屋のひとりごと』最新話に反響 猫猫と壬氏の距離に変化？白鈴の核心つく一言に「それがまたいい」",
@@ -938,26 +930,6 @@
       "isNew": false
     },
     {
-      "id": "d037145a529d",
-      "title": "児童書版「転スラ」最新刊・『転生したらスライムだった件 とある時空の物語１７.（上）』かなで文庫より、11月16日（月）発売！販売協力店で購入された方に『両面紙しおり』をプレゼント！",
-      "url": "http://www.excite.co.jp/news/article/Prtimes_2026-11-12-48095-2875/",
-      "host": "excite.co.jp",
-      "source": "Excite エキサイト",
-      "summary": "",
-      "publishedAt": "2026-11-12T12:10:00.000Z",
-      "image": "",
-      "categories": [
-        "book"
-      ],
-      "works": [
-        "tensura"
-      ],
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": false
-    },
-    {
       "id": "01e764e68ee8",
       "title": "【モンスト】フィッツは買うべき？｜無職転生コラボ",
       "url": "https://xn--eckwa2aa3a9c8j8bve9d.gamewith.jp/article/show/587659",
@@ -993,6 +965,24 @@
       "works": [
         "kusuriya"
       ],
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": false
+    },
+    {
+      "id": "e746adf83297",
+      "title": "「手、柔らか…」俺の手を握った神官は次の瞬間、とんでもないモノを突き立てて！？『ニートだけどハロワにいったら異世界につれてかれた』【#12】",
+      "url": "https://hon-hikidashi.jp/book-person/218247/",
+      "host": "hon-hikidashi.jp",
+      "source": "ほんのひきだし",
+      "summary": "",
+      "publishedAt": "2026-11-12T10:15:48.000Z",
+      "image": "https://hon-hikidashi.jp/wp-content/uploads/2026/11/72ea58f3ccebb1dee0ebbe46790c9817-1.jpg",
+      "categories": [
+        "other"
+      ],
+      "works": [],
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
@@ -1055,24 +1045,6 @@
       "viaGoogle": false,
       "sourceKind": "news",
       "isNew": false
-    },
-    {
-      "id": "cd0e708be830",
-      "title": "「すごく立派だと思うッ！」俺のことをストレートに褒める神官の言葉が恥ずかしくて…『ニートだけどハロワにいったら異世界につれてかれた』【#11】",
-      "url": "https://hon-hikidashi.jp/book-person/218210/",
-      "host": "hon-hikidashi.jp",
-      "source": "ほんのひきだし",
-      "summary": "",
-      "publishedAt": "2026-11-12T09:45:27.000Z",
-      "image": "https://hon-hikidashi.jp/wp-content/uploads/2026/11/72ea58f3ccebb1dee0ebbe46790c9817-1.jpg",
-      "categories": [
-        "other"
-      ],
-      "works": [],
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": true
     },
     {
       "id": "4101ca2e500a",
@@ -1398,6 +1370,26 @@
       "isNew": false
     },
     {
+      "id": "11ff5432d9b8",
+      "title": "＜薬屋のひとりごと＞壬氏初の“猫猫”名前呼びに「刺激が強すぎる」とファン悶絶、幽霊の正体も明らかに【第38話】",
+      "url": "https://thetv.jp/news/detail/1445408/18697258/",
+      "host": "thetv.jp",
+      "source": "WEBザテレビジョン",
+      "summary": "",
+      "publishedAt": "2026-11-12T08:12:35.000Z",
+      "image": "https://thetv.jp/i/nw/1445408/18697258.jpg?w=1284",
+      "categories": [
+        "anime"
+      ],
+      "works": [
+        "kusuriya"
+      ],
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": false
+    },
+    {
       "id": "16065eb5181d",
       "title": "【モンスト】無職転生コラボのガチャシミュレーター",
       "url": "https://xn--eckwa2aa3a9c8j8bve9d.gamewith.jp/article/show/587602",
@@ -1636,7 +1628,7 @@
       "isPR": false,
       "viaGoogle": true,
       "sourceKind": "news",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "ddd55aa4ccea",
@@ -1696,7 +1688,7 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "b56ab546b2b7",
@@ -1737,6 +1729,26 @@
       "viaGoogle": false,
       "sourceKind": "news",
       "isNew": false
+    },
+    {
+      "id": "a4301d08b098",
+      "title": "『薬屋のひとりごと』謎の仙女・白娘々、猫猫たちに仙術を披露 第53話あらすじ＆場面カット公開",
+      "url": "https://www.sanyonews.jp/article/2012865?kw",
+      "host": "sanyonews.jp",
+      "source": "山陽新聞",
+      "summary": "",
+      "publishedAt": "2026-11-11T16:31:32.000Z",
+      "image": "https://static.sanyonews.jp/image/article/size1/8/f/e/b/8febc030dad6489465025c81af95d949_1.jpg",
+      "categories": [
+        "anime"
+      ],
+      "works": [
+        "kusuriya"
+      ],
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": true
     },
     {
       "id": "4767e9d90138",
@@ -1816,26 +1828,6 @@
       "viaGoogle": false,
       "sourceKind": "news",
       "isNew": false
-    },
-    {
-      "id": "bb54b2570a0e",
-      "title": "“水銀を飲む白娘々”が1位！アニメ『薬屋のひとりごと』第53話コメント最多シーンTOP3 | アニメニュース | アニメフリークス",
-      "url": "https://times.abema.tv/articles/-/10288255",
-      "host": "times.abema.tv",
-      "source": "ABEMA TIMES",
-      "summary": "",
-      "publishedAt": "2026-11-11T12:50:00.000Z",
-      "image": "https://times-abema.ismcdn.jp/mwimgs/1/d/1200w/img_1d3a752d8bdabe56ca5d07dafe6686fd584473.jpg",
-      "categories": [
-        "anime"
-      ],
-      "works": [
-        "kusuriya"
-      ],
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": true
     },
     {
       "id": "d88679381398",
@@ -1995,7 +1987,7 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "d08b3c91b608",
@@ -2068,26 +2060,6 @@
       "categories": [
         "anime",
         "goods"
-      ],
-      "works": [
-        "kusuriya"
-      ],
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": false
-    },
-    {
-      "id": "11ff5432d9b8",
-      "title": "＜薬屋のひとりごと＞壬氏初の“猫猫”名前呼びに「刺激が強すぎる」とファン悶絶、幽霊の正体も明らかに【第38話】",
-      "url": "https://thetv.jp/news/detail/1445408/18697258/",
-      "host": "thetv.jp",
-      "source": "WEBザテレビジョン",
-      "summary": "",
-      "publishedAt": "2026-11-11T03:13:46.000Z",
-      "image": "https://thetv.jp/i/nw/1445408/18697258.jpg?w=1284",
-      "categories": [
-        "anime"
       ],
       "works": [
         "kusuriya"
@@ -2380,7 +2352,7 @@
       "source": "ぴあエンタメ情報",
       "summary": "",
       "publishedAt": "2026-11-10T08:00:00.000Z",
-      "image": "https://lp.p.pia.jp/shared/materials/0be4bdb0-845b-42c8-8611-2ff28bfd87c3/origin.jpg",
+      "image": "",
       "categories": [
         "anime"
       ],
@@ -2637,24 +2609,6 @@
       "works": [
         "tensura"
       ],
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": false
-    },
-    {
-      "id": "1e92bf793904",
-      "title": "TVアニメ「アラフォー賢者の異世界生活日記」“いいおっさんの日”を記念した描き下ろしビジュアル [画像・動画ギャラリー 1/4]",
-      "url": "https://natalie.mu/comic/gallery/news/696392/3007304",
-      "host": "natalie.mu",
-      "source": "ナタリー",
-      "summary": "",
-      "publishedAt": "2026-11-09T18:04:57.000Z",
-      "image": "",
-      "categories": [
-        "anime"
-      ],
-      "works": [],
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
