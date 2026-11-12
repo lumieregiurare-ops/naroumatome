@@ -1,18 +1,18 @@
 {
-  "updatedAt": "2026-11-12T05:00:19.978Z",
+  "updatedAt": "2026-11-12T05:30:17.324Z",
   "site": {
     "title": "なろう系まとめ",
     "tagline": "小説家になろう発の作品のアニメ化・コミカライズ・書籍化のニュースと、なろうのランキングをまとめています。",
     "url": "https://naroumatome.gamelab.website/",
     "contactUrl": "https://docs.google.com/forms/d/e/1FAIpQLSesWyhmZ6sRS_ve-c3X2KqF_wC5PK2TgwgQbTKmnQltSlg5Jw/viewform"
   },
-  "total": 79,
-  "todayCount": 9,
+  "total": 83,
+  "todayCount": 12,
   "categories": [
     {
       "id": "anime",
       "label": "アニメ",
-      "count": 46
+      "count": 50
     },
     {
       "id": "comic",
@@ -37,7 +37,7 @@
     {
       "id": "goods",
       "label": "グッズ・イベント",
-      "count": 13
+      "count": 14
     },
     {
       "id": "other",
@@ -56,7 +56,7 @@
       "id": "mushoku",
       "title": "無職転生 ～異世界行ったら本気だす～",
       "short": "無職転生",
-      "count": 6
+      "count": 7
     },
     {
       "id": "rezero",
@@ -74,7 +74,7 @@
       "id": "kusuriya",
       "title": "薬屋のひとりごと",
       "short": "薬屋",
-      "count": 30
+      "count": 31
     },
     {
       "id": "kagejitsu",
@@ -164,7 +164,7 @@
       "id": "katainaka",
       "title": "片田舎のおっさん、剣聖になる",
       "short": "片田舎のおっさん",
-      "count": 1
+      "count": 2
     },
     {
       "id": "nozomanu",
@@ -296,11 +296,11 @@
   "sources": [
     {
       "name": "山陽新聞",
-      "count": 14
+      "count": 16
     },
     {
       "name": "Yahoo!ニュース",
-      "count": 10
+      "count": 11
     },
     {
       "name": "ナタリー",
@@ -324,7 +324,7 @@
     },
     {
       "name": "ライブドアニュース",
-      "count": 3
+      "count": 4
     },
     {
       "name": "Howl.Link",
@@ -618,6 +618,34 @@
       ]
     },
     {
+      "id": "4dc9b4cbbbc7",
+      "title": "TVアニメ「片田舎のおっさん、剣聖になる II」、7月8日より放送開始決定！ (GAME Watch)",
+      "summary": "",
+      "url": "https://news.yahoo.co.jp/articles/c662f333a323d3055ec16ff30343f838168097c8/images/000",
+      "image": "https://news-pctr.c.yimg.jp/uUzvQ3lML_bkIqyakc1vFhNrRI0RUQxg5aFkrX0xDg1_T0wXrbEJjtNGtrf1o9y3MqkJ5UaD7WaLMXgqHAO4-3lwcPFbyKFOIrqbL8UQBofMUa0HP8eqqg2-NBIipVvHKWjROqFTM78GSqSY_IgLBfrf1mYZI24VVrytRaAFgNkCnlKX3UL9ucJhntyY5aCD",
+      "leadSource": "Yahoo!ニュース",
+      "publishedAt": "2026-11-12T03:02:52.000Z",
+      "sourceCount": 2,
+      "articleCount": 2,
+      "categories": [
+        "anime"
+      ],
+      "keywords": [
+        "片田舎のおっさん",
+        "片田舎",
+        "剣聖"
+      ],
+      "articles": [
+        {
+          "title": "『片田舎のおっさん、剣聖になる』第3期制作決定 平田広明のお祝い映像公開",
+          "url": "https://www.sanyonews.jp/article/1993408?rct",
+          "source": "山陽新聞",
+          "publishedAt": "2026-11-12T00:42:56.000Z",
+          "isPR": false
+        }
+      ]
+    },
+    {
       "id": "e5baa02b0b05",
       "title": "「薬屋のひとりごと」猫猫“これ、毒です”や、壬氏から贈られた簪も再現！園遊会での衣装でドール化",
       "summary": "『薬屋のひとりごと』より、猫猫のドルフィードリームが登場。華やかな園遊会での装いを採用し、上品な色彩と優雅なシルエットを美しく再現した。2026年12月13日に先行販売、2027年1月16日より一般販売を開始する。",
@@ -761,12 +789,12 @@
     }
   ],
   "churn": {
-    "previousAt": "2026-11-12T04:30:19.181Z",
-    "previousCount": 81,
-    "newCount": 1
+    "previousAt": "2026-11-12T05:00:19.978Z",
+    "previousCount": 79,
+    "newCount": 4
   },
   "updateGapMin": 30,
-  "nextUpdateAt": "2026-11-12T05:30:19.978Z",
+  "nextUpdateAt": "2026-11-12T06:00:17.324Z",
   "items": [
     {
       "id": "37fd21570589",
@@ -787,6 +815,26 @@
       "viaGoogle": false,
       "sourceKind": "news",
       "isNew": false
+    },
+    {
+      "id": "4dc9b4cbbbc7",
+      "title": "TVアニメ「片田舎のおっさん、剣聖になる II」、7月8日より放送開始決定！ (GAME Watch)",
+      "url": "https://news.yahoo.co.jp/articles/c662f333a323d3055ec16ff30343f838168097c8/images/000",
+      "host": "news.yahoo.co.jp",
+      "source": "Yahoo!ニュース",
+      "summary": "",
+      "publishedAt": "2026-11-12T03:02:52.000Z",
+      "image": "https://news-pctr.c.yimg.jp/uUzvQ3lML_bkIqyakc1vFhNrRI0RUQxg5aFkrX0xDg1_T0wXrbEJjtNGtrf1o9y3MqkJ5UaD7WaLMXgqHAO4-3lwcPFbyKFOIrqbL8UQBofMUa0HP8eqqg2-NBIipVvHKWjROqFTM78GSqSY_IgLBfrf1mYZI24VVrytRaAFgNkCnlKX3UL9ucJhntyY5aCD",
+      "categories": [
+        "anime"
+      ],
+      "works": [
+        "katainaka"
+      ],
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": true
     },
     {
       "id": "e5baa02b0b05",
@@ -887,6 +935,47 @@
       "viaGoogle": false,
       "sourceKind": "news",
       "isNew": false
+    },
+    {
+      "id": "80f0fa301e95",
+      "title": "『薬屋のひとりごと』第3期、ノンクレジットOP映像公開 Blu-ray発売決定でイラスト解禁",
+      "url": "https://www.sanyonews.jp/article/1998700?rct",
+      "host": "sanyonews.jp",
+      "source": "山陽新聞",
+      "summary": "",
+      "publishedAt": "2026-11-11T21:02:19.000Z",
+      "image": "https://static.sanyonews.jp/image/article/size1/5/9/7/8/59783af7bbcdc324127e682654421cc9_1.jpg",
+      "categories": [
+        "anime",
+        "goods"
+      ],
+      "works": [
+        "kusuriya"
+      ],
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": true
+    },
+    {
+      "id": "1f3fb2c93d42",
+      "title": "『無職転生』第3期の新ビジュアル解禁 【エリス修行編】後に展開する物語！意味深なキャラ登場",
+      "url": "https://www.sanyonews.jp/article/1923395?kw",
+      "host": "sanyonews.jp",
+      "source": "山陽新聞",
+      "summary": "",
+      "publishedAt": "2026-11-11T20:43:37.000Z",
+      "image": "https://static.sanyonews.jp/image/article/size1/7/3/6/3/7363e64aa389c52b439a985f37205bbe_1.jpg",
+      "categories": [
+        "anime"
+      ],
+      "works": [
+        "mushoku"
+      ],
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": true
     },
     {
       "id": "b56ab546b2b7",
@@ -1226,26 +1315,6 @@
       "isNew": false
     },
     {
-      "id": "616e4171c3f6",
-      "title": "『薬屋のひとりごと』ハロウィン企画ビジュアル＆ミニボイスドラマ公開 3日連続解禁で第1弾は猫猫＆趙迂",
-      "url": "https://www.sanyonews.jp/photo/detail?article_id",
-      "host": "sanyonews.jp",
-      "source": "山陽新聞",
-      "summary": "",
-      "publishedAt": "2026-11-11T07:44:06.000Z",
-      "image": "",
-      "categories": [
-        "other"
-      ],
-      "works": [
-        "kusuriya"
-      ],
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": false
-    },
-    {
       "id": "d08b3c91b608",
       "title": "平成の小学生を魅了した「家庭科のドラゴン」が小説化！舞台は異世界",
       "url": "https://news.infoseek.co.jp/article/otakuma_6014757/",
@@ -1298,6 +1367,26 @@
       ],
       "works": [
         "tenken"
+      ],
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": false
+    },
+    {
+      "id": "616e4171c3f6",
+      "title": "『薬屋のひとりごと』ハロウィン企画ビジュアル＆ミニボイスドラマ公開 3日連続解禁で第1弾は猫猫＆趙迂",
+      "url": "https://www.sanyonews.jp/article/2012864?kw",
+      "host": "sanyonews.jp",
+      "source": "山陽新聞",
+      "summary": "",
+      "publishedAt": "2026-11-11T03:51:42.000Z",
+      "image": "https://static.sanyonews.jp/image/article/size1/2/2/6/9/22691045f5f76de9d50170d05e001015_1.jpg",
+      "categories": [
+        "other"
+      ],
+      "works": [
+        "kusuriya"
       ],
       "isPR": false,
       "viaGoogle": false,
@@ -2180,6 +2269,24 @@
       "isNew": false
     },
     {
+      "id": "563b45ebe137",
+      "title": "【画像】鈴木このみ、ついに“悪役令嬢もの”の主題歌を歌う！TVアニメ『弱気MAX令嬢』OPテーマ「強気MAX宣言」に込めた“かましたれ”精神と30代の新しい挑戦に迫る！ - ライブドアニュース",
+      "url": "https://news.livedoor.com/article/image_detail/32771949/?img_id",
+      "host": "news.livedoor.com",
+      "source": "ライブドアニュース",
+      "summary": "",
+      "publishedAt": "2026-11-09T09:13:24.000Z",
+      "image": "https://image.news.livedoor.com/newsimage/stf/1/0/10381_1516_28cdf2fd_70dd4fca.jpg",
+      "categories": [
+        "anime"
+      ],
+      "works": [],
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": true
+    },
+    {
       "id": "3fcaafa94fd6",
       "title": "【薬屋のひとりごと】猫猫＆壬氏の《きゅるみー》が再登場！ 上目遣いが可愛いミニフィギュア全2種",
       "url": "https://dengekionline.com/article/202611/93505",
@@ -2220,26 +2327,6 @@
       "isNew": false
     },
     {
-      "id": "965ddffb7e45",
-      "title": "アニメ「Re:ゼロから始める異世界生活」の配信はどこで見れる？無料視聴できるサービス・サブスクを紹介！",
-      "url": "https://animeanime.jp/article/2026/02/12/96001.html",
-      "host": "animeanime.jp",
-      "source": "アニメ！アニメ！",
-      "summary": "",
-      "publishedAt": "2026-11-09T08:00:00.000Z",
-      "image": "https://animeanime.jp/imgs/ogp_f/840593.jpg",
-      "categories": [
-        "anime"
-      ],
-      "works": [
-        "rezero"
-      ],
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": true
-    },
-    {
       "id": "3eecae0d78b4",
       "title": "TVアニメ『薬屋のひとりごと』3期6話のあらすじ公開！ 猫猫は、虞淵（やぶ医者）の⾥帰りに同⾏するようで…",
       "url": "https://eeo.today/media/2026/11/05/409795/",
@@ -2253,6 +2340,26 @@
       ],
       "works": [
         "kusuriya"
+      ],
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": false
+    },
+    {
+      "id": "965ddffb7e45",
+      "title": "アニメ「Re:ゼロから始める異世界生活」の配信はどこで見れる？無料視聴できるサービス・サブスクを紹介！",
+      "url": "https://animeanime.jp/article/2026/02/12/96001.html",
+      "host": "animeanime.jp",
+      "source": "アニメ！アニメ！",
+      "summary": "",
+      "publishedAt": "2026-11-09T08:00:00.000Z",
+      "image": "https://animeanime.jp/imgs/ogp_f/840593.jpg",
+      "categories": [
+        "anime"
+      ],
+      "works": [
+        "rezero"
       ],
       "isPR": false,
       "viaGoogle": false,
