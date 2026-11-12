@@ -1,18 +1,18 @@
 {
-  "updatedAt": "2026-11-12T17:30:22.688Z",
+  "updatedAt": "2026-11-12T18:00:24.961Z",
   "site": {
     "title": "なろう系まとめ",
     "tagline": "小説家になろう発の作品のアニメ化・コミカライズ・書籍化のニュースと、なろうのランキングをまとめています。",
     "url": "https://naroumatome.gamelab.website/",
     "contactUrl": "https://docs.google.com/forms/d/e/1FAIpQLSesWyhmZ6sRS_ve-c3X2KqF_wC5PK2TgwgQbTKmnQltSlg5Jw/viewform"
   },
-  "total": 90,
+  "total": 93,
   "todayCount": 1,
   "categories": [
     {
       "id": "anime",
       "label": "アニメ",
-      "count": 48
+      "count": 51
     },
     {
       "id": "comic",
@@ -27,7 +27,7 @@
     {
       "id": "web",
       "label": "Web小説・賞",
-      "count": 6
+      "count": 7
     },
     {
       "id": "game",
@@ -50,13 +50,13 @@
       "id": "tensura",
       "title": "転生したらスライムだった件",
       "short": "転スラ",
-      "count": 7
+      "count": 8
     },
     {
       "id": "mushoku",
       "title": "無職転生 ～異世界行ったら本気だす～",
       "short": "無職転生",
-      "count": 17
+      "count": 18
     },
     {
       "id": "rezero",
@@ -74,7 +74,7 @@
       "id": "kusuriya",
       "title": "薬屋のひとりごと",
       "short": "薬屋",
-      "count": 32
+      "count": 33
     },
     {
       "id": "kagejitsu",
@@ -296,7 +296,7 @@
   "sources": [
     {
       "name": "山陽新聞",
-      "count": 12
+      "count": 13
     },
     {
       "name": "Yahoo!ニュース",
@@ -324,6 +324,10 @@
     },
     {
       "name": "Howl.Link",
+      "count": 3
+    },
+    {
+      "name": "Infoseek",
       "count": 3
     },
     {
@@ -359,7 +363,7 @@
       "count": 2
     },
     {
-      "name": "Infoseek",
+      "name": "ABEMA TIMES",
       "count": 2
     },
     {
@@ -437,10 +441,6 @@
     {
       "name": "ぴあエンタメ情報",
       "count": 1
-    },
-    {
-      "name": "ABEMA TIMES",
-      "count": 1
     }
   ],
   "topics": [
@@ -453,18 +453,18 @@
       "leadSource": "PASH! PLUS",
       "publishedAt": "2026-11-12T13:57:08.000Z",
       "sourceCount": 11,
-      "articleCount": 14,
+      "articleCount": 13,
       "categories": [
         "anime"
       ],
       "keywords": [
         "薬屋",
         "カット",
-        "猫猫"
+        "先行"
       ],
       "articles": [
         {
-          "title": "アニメ『薬屋のひとりごと』3期7話“賭け”。虞淵の故郷では、紙職人と地主との間で揉め事が起きていた。それを見た猫猫はあることに気づき、地主たちに賭けを持ちかける",
+          "title": "アニメ『薬屋のひとりごと』3期7話“賭け”。虞淵の故郷での揉め事を見た猫猫は…",
           "url": "https://dengekionline.com/article/202611/93889",
           "source": "電撃オンライン",
           "publishedAt": "2026-11-12T11:30:00.000Z",
@@ -799,15 +799,43 @@
           "isPR": false
         }
       ]
+    },
+    {
+      "id": "ba4e4ccdab3a",
+      "title": "“新スキル・天眼を取得する師匠”が1位！アニメ『転生したら剣でしたII』第5話コメント最多シーンTOP3",
+      "summary": "",
+      "url": "https://news.infoseek.co.jp/article/abematimes_10288265/",
+      "image": "https://media.image.infoseek.co.jp/isnews/photos/abematimes/abematimes_10288265_0-enlarge.jpg",
+      "leadSource": "Infoseek",
+      "publishedAt": "2026-11-11T13:00:00.000Z",
+      "sourceCount": 2,
+      "articleCount": 2,
+      "categories": [
+        "anime"
+      ],
+      "keywords": [
+        "top3",
+        "コメント",
+        "シーン"
+      ],
+      "articles": [
+        {
+          "title": "“水銀を飲む白娘々”が1位！アニメ『薬屋のひとりごと』第53話コメント最多シーンTOP3 | アニメニュース | アニメフリークス",
+          "url": "https://times.abema.tv/articles/-/10288255",
+          "source": "ABEMA TIMES",
+          "publishedAt": "2026-11-11T12:50:00.000Z",
+          "isPR": false
+        }
+      ]
     }
   ],
   "churn": {
-    "previousAt": "2026-11-12T17:00:24.436Z",
-    "previousCount": 93,
-    "newCount": 2
+    "previousAt": "2026-11-12T17:30:22.688Z",
+    "previousCount": 90,
+    "newCount": 6
   },
   "updateGapMin": 30,
-  "nextUpdateAt": "2026-11-12T18:00:22.688Z",
+  "nextUpdateAt": "2026-11-12T18:30:24.961Z",
   "items": [
     {
       "id": "528ab15ffd00",
@@ -827,7 +855,7 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "00c39d00d54b",
@@ -951,8 +979,8 @@
       "isNew": false
     },
     {
-      "id": "c3ed8db21ce2",
-      "title": "アニメ『薬屋のひとりごと』3期7話“賭け”。虞淵の故郷では、紙職人と地主との間で揉め事が起きていた。それを見た猫猫はあることに気づき、地主たちに賭けを持ちかける",
+      "id": "a38f37d82bd3",
+      "title": "アニメ『薬屋のひとりごと』3期7話“賭け”。虞淵の故郷での揉め事を見た猫猫は…",
       "url": "https://dengekionline.com/article/202611/93889",
       "host": "dengekionline.com",
       "source": "電撃オンライン",
@@ -968,25 +996,7 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": false
-    },
-    {
-      "id": "e746adf83297",
-      "title": "「手、柔らか…」俺の手を握った神官は次の瞬間、とんでもないモノを突き立てて！？『ニートだけどハロワにいったら異世界につれてかれた』【#12】",
-      "url": "https://hon-hikidashi.jp/book-person/218247/",
-      "host": "hon-hikidashi.jp",
-      "source": "ほんのひきだし",
-      "summary": "",
-      "publishedAt": "2026-11-12T10:15:48.000Z",
-      "image": "https://hon-hikidashi.jp/wp-content/uploads/2026/11/72ea58f3ccebb1dee0ebbe46790c9817-1.jpg",
-      "categories": [
-        "other"
-      ],
-      "works": [],
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": false
+      "isNew": true
     },
     {
       "id": "7621f0a92607",
@@ -1045,6 +1055,24 @@
       "viaGoogle": false,
       "sourceKind": "news",
       "isNew": false
+    },
+    {
+      "id": "cd0e708be830",
+      "title": "「すごく立派だと思うッ！」俺のことをストレートに褒める神官の言葉が恥ずかしくて…『ニートだけどハロワにいったら異世界につれてかれた』【#11】",
+      "url": "https://hon-hikidashi.jp/book-person/218210/",
+      "host": "hon-hikidashi.jp",
+      "source": "ほんのひきだし",
+      "summary": "",
+      "publishedAt": "2026-11-12T09:45:27.000Z",
+      "image": "https://hon-hikidashi.jp/wp-content/uploads/2026/11/72ea58f3ccebb1dee0ebbe46790c9817-1.jpg",
+      "categories": [
+        "other"
+      ],
+      "works": [],
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": true
     },
     {
       "id": "4101ca2e500a",
@@ -1591,6 +1619,26 @@
       "isNew": false
     },
     {
+      "id": "523ba8013e78",
+      "title": "『転スラ』リムル、ブチギレ顔のマリアベルと戦闘！ユウキも参戦 第82話あらすじ＆場面カット公開",
+      "url": "https://news.google.com/rss/articles/CBMi2AJBVV95cUxPS3JEM3pnSUVKYmQ1Ti1TbkpGNWhUVVJuYk9jalhQQ2VlNFNYdkE0WDEtUmtpVXcxSHY0WW5IbXgtRXRFdGRiclc0S2tpREFBbFU4M0M5RWdnWTNmNGdhODV6QXRHRHZ6UzRzaTk4ODFrNHdYTzcwY1lVTHUzb2xLR01MZFphekl2TWh4RFJBWnd6RFlJaXBPYTh1c1FMbVIwbWNuQXF6UjV4VGM3YUdnYWl2RXVlMVg4LVhKTzROeW9OaVYzZXpRTWV3N1p4MVhPQ2NldGhIa2d6UlJnNGdvRHBiR2tFV28zeE5WeVRNYTM3dU0wYTdTek9taTBVV3NZLVBraXVTOGZZTGdfVkxEa0tZX1M4YnF3dklwT3M5RGZkcFA0NW9WTno1ZE1kTjlvb2dzeVl4RXducWdMM2xNbHFnUE5KQXlnS2VXNmlrYTVVZWsxMVdfag?oc=5",
+      "host": "sanyonews.jp",
+      "source": "山陽新聞",
+      "summary": "",
+      "publishedAt": "2026-11-12T01:42:23.000Z",
+      "image": "",
+      "categories": [
+        "anime"
+      ],
+      "works": [
+        "tensura"
+      ],
+      "isPR": false,
+      "viaGoogle": true,
+      "sourceKind": "news",
+      "isNew": true
+    },
+    {
       "id": "ddd55aa4ccea",
       "title": "『片田舎のおっさん、剣聖になる』第3期制作決定 平田広明のお祝い映像公開",
       "url": "https://www.sanyonews.jp/article/1993408?rct",
@@ -1631,6 +1679,26 @@
       "isNew": false
     },
     {
+      "id": "1f3fb2c93d42",
+      "title": "『無職転生』第3期の新ビジュアル解禁 【エリス修行編】後に展開する物語！意味深なキャラ登場",
+      "url": "https://www.sanyonews.jp/article/1923395?kw",
+      "host": "sanyonews.jp",
+      "source": "山陽新聞",
+      "summary": "",
+      "publishedAt": "2026-11-11T20:43:37.000Z",
+      "image": "https://static.sanyonews.jp/image/article/size1/7/3/6/3/7363e64aa389c52b439a985f37205bbe_1.jpg",
+      "categories": [
+        "anime"
+      ],
+      "works": [
+        "mushoku"
+      ],
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": true
+    },
+    {
       "id": "b56ab546b2b7",
       "title": "KADOKAWA、サイレント・ウィッチ5周年記念オンラインくじを11月12日発売へ",
       "url": "https://news.dellows.jp/1140412/",
@@ -1661,26 +1729,6 @@
       "image": "https://static.sanyonews.jp/image/article/size1/2/2/6/9/22691045f5f76de9d50170d05e001015_1.jpg",
       "categories": [
         "other"
-      ],
-      "works": [
-        "kusuriya"
-      ],
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": false
-    },
-    {
-      "id": "a4301d08b098",
-      "title": "『薬屋のひとりごと』謎の仙女・白娘々、猫猫たちに仙術を披露 第53話あらすじ＆場面カット公開",
-      "url": "https://www.sanyonews.jp/article/2012865?kw",
-      "host": "sanyonews.jp",
-      "source": "山陽新聞",
-      "summary": "",
-      "publishedAt": "2026-11-11T16:31:32.000Z",
-      "image": "https://static.sanyonews.jp/image/article/size1/8/f/e/b/8febc030dad6489465025c81af95d949_1.jpg",
-      "categories": [
-        "anime"
       ],
       "works": [
         "kusuriya"
@@ -1770,6 +1818,26 @@
       "isNew": false
     },
     {
+      "id": "bb54b2570a0e",
+      "title": "“水銀を飲む白娘々”が1位！アニメ『薬屋のひとりごと』第53話コメント最多シーンTOP3 | アニメニュース | アニメフリークス",
+      "url": "https://times.abema.tv/articles/-/10288255",
+      "host": "times.abema.tv",
+      "source": "ABEMA TIMES",
+      "summary": "",
+      "publishedAt": "2026-11-11T12:50:00.000Z",
+      "image": "https://times-abema.ismcdn.jp/mwimgs/1/d/1200w/img_1d3a752d8bdabe56ca5d07dafe6686fd584473.jpg",
+      "categories": [
+        "anime"
+      ],
+      "works": [
+        "kusuriya"
+      ],
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": true
+    },
+    {
       "id": "d88679381398",
       "title": "「立つ気ありますけど!?」周囲は絶賛も“立ってない”と俺が全否定する理由／赤ちゃんに転生した話＋91",
       "url": "https://ddnavi.com/article/1455097/a/",
@@ -1854,7 +1922,7 @@
       "source": "ドリームニュース",
       "summary": "",
       "publishedAt": "2026-11-11T08:00:00.000Z",
-      "image": "",
+      "image": "https://www.dreamnews.jp/press/0000368064/images/bodyimage1",
       "categories": [
         "goods",
         "anime"
@@ -1907,6 +1975,27 @@
       "viaGoogle": false,
       "sourceKind": "news",
       "isNew": false
+    },
+    {
+      "id": "fa083a5d8aa2",
+      "title": "『薬屋のひとりごと』が6週連続1位、TOP5の全作品が前週から順位をキープ！11月2日週アニメ週間ランキング発表",
+      "url": "https://news.infoseek.co.jp/article/abematimes_10288147/",
+      "host": "news.infoseek.co.jp",
+      "source": "Infoseek",
+      "summary": "",
+      "publishedAt": "2026-11-11T07:50:00.000Z",
+      "image": "https://media.image.infoseek.co.jp/isnews/photos/abematimes/abematimes_10288147_0-enlarge.jpg",
+      "categories": [
+        "anime",
+        "web"
+      ],
+      "works": [
+        "kusuriya"
+      ],
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": true
     },
     {
       "id": "d08b3c91b608",
@@ -2301,7 +2390,7 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "040076b206f1",
