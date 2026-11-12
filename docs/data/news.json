@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-12T16:00:22.227Z",
+  "updatedAt": "2026-11-12T16:30:20.522Z",
   "site": {
     "title": "なろう系まとめ",
     "tagline": "小説家になろう発の作品のアニメ化・コミカライズ・書籍化のニュースと、なろうのランキングをまとめています。",
@@ -27,7 +27,7 @@
     {
       "id": "web",
       "label": "Web小説・賞",
-      "count": 6
+      "count": 7
     },
     {
       "id": "game",
@@ -37,7 +37,7 @@
     {
       "id": "goods",
       "label": "グッズ・イベント",
-      "count": 25
+      "count": 24
     },
     {
       "id": "other",
@@ -74,7 +74,7 @@
       "id": "kusuriya",
       "title": "薬屋のひとりごと",
       "short": "薬屋",
-      "count": 34
+      "count": 33
     },
     {
       "id": "kagejitsu",
@@ -296,7 +296,7 @@
   "sources": [
     {
       "name": "山陽新聞",
-      "count": 14
+      "count": 13
     },
     {
       "name": "Yahoo!ニュース",
@@ -304,7 +304,7 @@
     },
     {
       "name": "GameWith",
-      "count": 7
+      "count": 8
     },
     {
       "name": "ラノベニュースオンライン",
@@ -834,12 +834,12 @@
     }
   ],
   "churn": {
-    "previousAt": "2026-11-12T15:30:21.378Z",
-    "previousCount": 92,
-    "newCount": 2
+    "previousAt": "2026-11-12T16:00:22.227Z",
+    "previousCount": 93,
+    "newCount": 1
   },
   "updateGapMin": 30,
-  "nextUpdateAt": "2026-11-12T16:30:22.227Z",
+  "nextUpdateAt": "2026-11-12T17:00:20.522Z",
   "items": [
     {
       "id": "38dd2e824098",
@@ -1041,6 +1041,25 @@
       "isNew": false
     },
     {
+      "id": "584107a1a21f",
+      "title": "サッカー監督になろう ～ユースコーチから始まる監督人生～の配信日と事前登録情報",
+      "url": "https://gamewith.jp/gamedb/19133",
+      "host": "gamewith.jp",
+      "source": "GameWith",
+      "summary": "",
+      "publishedAt": "2026-11-12T09:54:25.000Z",
+      "image": "https://img.gamewith.jp/gamedb/games/eyecatches/80beeb3ac115c4ba733a62a27d541811.jpg",
+      "categories": [
+        "anime",
+        "web"
+      ],
+      "works": [],
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": true
+    },
+    {
       "id": "5d389f57a79e",
       "title": "薬屋のひとりごと＞やぶ医者の故郷の揉めごとを解決するため、猫猫は地主たちに賭けを挑む…第55話あらすじ＆先行カット公開(2/4)",
       "url": "https://thetv.jp/news/detail/1456794/p2/",
@@ -1159,7 +1178,7 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "a73bb9e1a205",
@@ -1664,27 +1683,6 @@
       "isNew": false
     },
     {
-      "id": "80f0fa301e95",
-      "title": "『薬屋のひとりごと』第3期、ノンクレジットOP映像公開 Blu-ray発売決定でイラスト解禁",
-      "url": "https://www.sanyonews.jp/article/1998700?rct",
-      "host": "sanyonews.jp",
-      "source": "山陽新聞",
-      "summary": "",
-      "publishedAt": "2026-11-11T21:02:19.000Z",
-      "image": "https://static.sanyonews.jp/image/article/size1/5/9/7/8/59783af7bbcdc324127e682654421cc9_1.jpg",
-      "categories": [
-        "anime",
-        "goods"
-      ],
-      "works": [
-        "kusuriya"
-      ],
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": false
-    },
-    {
       "id": "1f3fb2c93d42",
       "title": "『無職転生』第3期の新ビジュアル解禁 【エリス修行編】後に展開する物語！意味深なキャラ登場",
       "url": "https://www.sanyonews.jp/article/1923395?kw",
@@ -1839,7 +1837,7 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "b788a84abd47",
