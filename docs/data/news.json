@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-12T07:00:19.201Z",
+  "updatedAt": "2026-11-12T07:30:16.919Z",
   "site": {
     "title": "なろう系まとめ",
     "tagline": "小説家になろう発の作品のアニメ化・コミカライズ・書籍化のニュースと、なろうのランキングをまとめています。",
@@ -7,7 +7,7 @@
     "contactUrl": "https://docs.google.com/forms/d/e/1FAIpQLSesWyhmZ6sRS_ve-c3X2KqF_wC5PK2TgwgQbTKmnQltSlg5Jw/viewform"
   },
   "total": 82,
-  "todayCount": 11,
+  "todayCount": 13,
   "categories": [
     {
       "id": "anime",
@@ -32,17 +32,17 @@
     {
       "id": "game",
       "label": "ゲーム",
-      "count": 0
+      "count": 1
     },
     {
       "id": "goods",
       "label": "グッズ・イベント",
-      "count": 14
+      "count": 15
     },
     {
       "id": "other",
       "label": "そのほか",
-      "count": 13
+      "count": 12
     }
   ],
   "works": [
@@ -56,13 +56,13 @@
       "id": "mushoku",
       "title": "無職転生 ～異世界行ったら本気だす～",
       "short": "無職転生",
-      "count": 6
+      "count": 8
     },
     {
       "id": "rezero",
       "title": "Re:ゼロから始める異世界生活",
       "short": "リゼロ",
-      "count": 4
+      "count": 3
     },
     {
       "id": "honzuki",
@@ -296,7 +296,7 @@
   "sources": [
     {
       "name": "山陽新聞",
-      "count": 15
+      "count": 16
     },
     {
       "name": "Yahoo!ニュース",
@@ -305,10 +305,6 @@
     {
       "name": "ナタリー",
       "count": 7
-    },
-    {
-      "name": "アニメ！アニメ！",
-      "count": 5
     },
     {
       "name": "ラノベニュースオンライン",
@@ -327,15 +323,23 @@
       "count": 4
     },
     {
+      "name": "GameWith",
+      "count": 3
+    },
+    {
+      "name": "アニメ！アニメ！",
+      "count": 3
+    },
+    {
       "name": "Howl.Link",
       "count": 3
     },
     {
-      "name": "GameWith",
+      "name": "電撃ホビーウェブ",
       "count": 2
     },
     {
-      "name": "電撃ホビーウェブ",
+      "name": "Mantan Web",
       "count": 2
     },
     {
@@ -360,10 +364,6 @@
     },
     {
       "name": "Dellows News",
-      "count": 1
-    },
-    {
-      "name": "インサイド",
       "count": 1
     },
     {
@@ -396,10 +396,6 @@
     },
     {
       "name": "マイナビニュース",
-      "count": 1
-    },
-    {
-      "name": "Mantan Web",
       "count": 1
     },
     {
@@ -797,13 +793,34 @@
     }
   ],
   "churn": {
-    "previousAt": "2026-11-12T06:30:19.925Z",
+    "previousAt": "2026-11-12T07:00:19.201Z",
     "previousCount": 82,
-    "newCount": 4
+    "newCount": 2
   },
   "updateGapMin": 30,
-  "nextUpdateAt": "2026-11-12T07:30:19.201Z",
+  "nextUpdateAt": "2026-11-12T08:00:16.919Z",
   "items": [
+    {
+      "id": "af52b9aef2cc",
+      "title": "【モンスト】無職転生コラボの評価とイベントまとめ",
+      "url": "https://xn--eckwa2aa3a9c8j8bve9d.gamewith.jp/article/show/587568",
+      "host": "xn--eckwa2aa3a9c8j8bve9d.gamewith.jp",
+      "source": "GameWith",
+      "summary": "",
+      "publishedAt": "2026-11-12T07:08:14.000Z",
+      "image": "https://img.gamewith.jp/article/thumbnail/rectangle/587568.png?date=1794467295",
+      "categories": [
+        "goods",
+        "game"
+      ],
+      "works": [
+        "mushoku"
+      ],
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": true
+    },
     {
       "id": "7245058c31f1",
       "title": "『陰の実力者になりたくて！マスターオブガーデン』新キャラクター「[魔人化英雄]フレイヤ」登場！",
@@ -902,7 +919,7 @@
       "isPR": false,
       "viaGoogle": true,
       "sourceKind": "news",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "ddd55aa4ccea",
@@ -985,6 +1002,26 @@
       "isNew": false
     },
     {
+      "id": "1f3fb2c93d42",
+      "title": "『無職転生』第3期の新ビジュアル解禁 【エリス修行編】後に展開する物語！意味深なキャラ登場",
+      "url": "https://www.sanyonews.jp/article/1923395?kw",
+      "host": "sanyonews.jp",
+      "source": "山陽新聞",
+      "summary": "",
+      "publishedAt": "2026-11-11T20:43:37.000Z",
+      "image": "https://static.sanyonews.jp/image/article/size1/7/3/6/3/7363e64aa389c52b439a985f37205bbe_1.jpg",
+      "categories": [
+        "anime"
+      ],
+      "works": [
+        "mushoku"
+      ],
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": true
+    },
+    {
       "id": "b56ab546b2b7",
       "title": "KADOKAWA、サイレント・ウィッチ5周年記念オンラインくじを11月12日発売へ",
       "url": "https://news.dellows.jp/1140412/",
@@ -1047,12 +1084,12 @@
     {
       "id": "b6031960e73a",
       "title": "完結巻発売を記念して『ニートだけどハロワにいったら異世界につれてかれた』が今ならなんと5巻分無料で読める！「小説家になろう」で好評を博すMFブックス(KADOKAWA刊)の大人気小説コミカライズ！",
-      "url": "https://www.inside-games.jp/release/prtimes/20261111/317567.html",
-      "host": "inside-games.jp",
-      "source": "インサイド",
+      "url": "https://mantan-web.jp/prtimes/article/20261112prt00m200000000a/photopage/001.html",
+      "host": "mantan-web.jp",
+      "source": "Mantan Web",
       "summary": "",
       "publishedAt": "2026-11-11T13:10:00.000Z",
-      "image": "https://www.inside-games.jp/release/imgs/list/556360.jpg",
+      "image": "https://prtimes.jp/img/49835/1054/resize/d49835-1054-b0ff30fc0b1e873520cc-28.jpg",
       "categories": [
         "book",
         "comic"
@@ -1459,7 +1496,7 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "889706901cac",
@@ -2291,7 +2328,7 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "3fcaafa94fd6",
@@ -2368,44 +2405,6 @@
       "works": [
         "kusuriya"
       ],
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": false
-    },
-    {
-      "id": "4494aacda085",
-      "title": "【コスプレ】艶めく紫のピッチリボディスーツで美脚×ヒップラインが際立つ！雨の中で魅せる「リゼロ」エミリアの可憐な立ち姿【写真10枚】",
-      "url": "https://animeanime.jp/article/2026/11/09/104620.html",
-      "host": "animeanime.jp",
-      "source": "アニメ！アニメ！",
-      "summary": "",
-      "publishedAt": "2026-11-09T07:45:03.000Z",
-      "image": "https://animeanime.jp/imgs/ogp_f/953463.jpg",
-      "categories": [
-        "other"
-      ],
-      "works": [
-        "rezero"
-      ],
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": true
-    },
-    {
-      "id": "d4709deebfd9",
-      "title": "「素材採取家の異世界旅行記」アニメの配信はどこで見れる？見放題のサブスクと無料で見る方法を紹介",
-      "url": "https://animeanime.jp/article/2026/11/09/104616.html",
-      "host": "animeanime.jp",
-      "source": "アニメ！アニメ！",
-      "summary": "",
-      "publishedAt": "2026-11-09T07:29:55.000Z",
-      "image": "https://animeanime.jp/imgs/ogp_f/952633.jpg",
-      "categories": [
-        "anime"
-      ],
-      "works": [],
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
