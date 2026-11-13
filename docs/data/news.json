@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-13T13:30:18.405Z",
+  "updatedAt": "2026-11-13T14:00:21.282Z",
   "site": {
     "title": "なろう系まとめ",
     "tagline": "小説家になろう発の作品のアニメ化・コミカライズ・書籍化のニュースと、なろうのランキングをまとめています。",
@@ -12,7 +12,7 @@
     {
       "id": "anime",
       "label": "アニメ",
-      "count": 63
+      "count": 64
     },
     {
       "id": "comic",
@@ -37,7 +37,7 @@
     {
       "id": "goods",
       "label": "グッズ・イベント",
-      "count": 26
+      "count": 25
     },
     {
       "id": "other",
@@ -308,7 +308,7 @@
     },
     {
       "name": "アニメ！アニメ！",
-      "count": 8
+      "count": 9
     },
     {
       "name": "ラノベニュースオンライン",
@@ -336,10 +336,6 @@
     },
     {
       "name": "PR TIMES",
-      "count": 2
-    },
-    {
-      "name": "ダ・ヴィンチWeb",
       "count": 2
     },
     {
@@ -459,6 +455,10 @@
       "count": 1
     },
     {
+      "name": "ダ・ヴィンチWeb",
+      "count": 1
+    },
+    {
       "name": "電撃ホビーウェブ",
       "count": 1
     },
@@ -555,14 +555,14 @@
       "title": "TVアニメ「無職転生III",
       "summary": "",
       "url": "https://news.nicovideo.jp/watch/nw19990078?news_ref",
-      "image": "https://img.gamewith.jp/article/thumbnail/rectangle/587659.png?date=1794485079",
+      "image": "https://img.gamewith.jp/article/thumbnail/rectangle/587568.png?date=1794495396",
       "leadSource": "ニコニコニュース",
       "publishedAt": "2026-11-13T12:21:34.000Z",
       "sourceCount": 6,
       "articleCount": 10,
       "categories": [
         "anime",
-        "game"
+        "goods"
       ],
       "keywords": [
         "無職転生",
@@ -570,6 +570,13 @@
         "モンスト"
       ],
       "articles": [
+        {
+          "title": "【モンスト】無職転生コラボの評価とイベントまとめ",
+          "url": "https://xn--eckwa2aa3a9c8j8bve9d.gamewith.jp/article/show/587568",
+          "source": "GameWith",
+          "publishedAt": "2026-11-13T11:33:26.000Z",
+          "isPR": false
+        },
         {
           "title": "【モンスト】フィッツは買うべき？｜無職転生コラボ",
           "url": "https://xn--eckwa2aa3a9c8j8bve9d.gamewith.jp/article/show/587659",
@@ -617,13 +624,6 @@
           "url": "https://www.gamer.ne.jp/news/202611120050/",
           "source": "Gamer",
           "publishedAt": "2026-11-12T08:35:00.000Z",
-          "isPR": false
-        },
-        {
-          "title": "【モンスト】無職転生コラボの評価とイベントまとめ",
-          "url": "https://xn--eckwa2aa3a9c8j8bve9d.gamewith.jp/article/show/587568",
-          "source": "GameWith",
-          "publishedAt": "2026-11-12T07:08:14.000Z",
           "isPR": false
         }
       ]
@@ -886,13 +886,13 @@
       ]
     },
     {
-      "id": "b7f55556df60",
-      "title": "シリーズ累計5,700万部『薬屋のひとりごと』スクラッチが全国の宝くじ売り場に登場！ 豪華賞品が当たるプレゼントキャンペーンも",
+      "id": "16404cd2245a",
+      "title": "映画『薬屋のひとりごと』、サンシャイン60でイベント「天空彩宴」を開催決定! てんぼうパークでオリジナルグッズやコラボカフェを展開",
       "summary": "",
-      "url": "https://ddnavi.com/article/1444979/a/",
-      "image": "https://assets.ln-news.com/images/medias/6b10140091fa431e9a75e81c2ce2fa29.jpg",
-      "leadSource": "ダ・ヴィンチWeb",
-      "publishedAt": "2026-11-13T07:53:18.000Z",
+      "url": "https://news.mynavi.jp/article/20261113-5314662/",
+      "image": "https://news.mynavi.jp/article/20261113-5314662/ogp_images/ogp.jpg",
+      "leadSource": "マイナビニュース",
+      "publishedAt": "2026-11-13T02:41:16.000Z",
       "sourceCount": 2,
       "articleCount": 2,
       "categories": [
@@ -901,7 +901,7 @@
       ],
       "keywords": [
         "薬屋",
-        "全国"
+        "開催決定"
       ],
       "articles": [
         {
@@ -944,12 +944,12 @@
     }
   ],
   "churn": {
-    "previousAt": "2026-11-13T13:00:19.070Z",
-    "previousCount": 97,
+    "previousAt": "2026-11-13T13:30:18.405Z",
+    "previousCount": 99,
     "newCount": 2
   },
   "updateGapMin": 30,
-  "nextUpdateAt": "2026-11-13T14:00:18.405Z",
+  "nextUpdateAt": "2026-11-13T14:30:21.282Z",
   "items": [
     {
       "id": "96e7f333b760",
@@ -985,6 +985,27 @@
         "comic"
       ],
       "works": [],
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": false
+    },
+    {
+      "id": "af52b9aef2cc",
+      "title": "【モンスト】無職転生コラボの評価とイベントまとめ",
+      "url": "https://xn--eckwa2aa3a9c8j8bve9d.gamewith.jp/article/show/587568",
+      "host": "xn--eckwa2aa3a9c8j8bve9d.gamewith.jp",
+      "source": "GameWith",
+      "summary": "",
+      "publishedAt": "2026-11-13T11:33:26.000Z",
+      "image": "https://img.gamewith.jp/article/thumbnail/rectangle/587568.png?date=1794495396",
+      "categories": [
+        "goods",
+        "game"
+      ],
+      "works": [
+        "mushoku"
+      ],
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
@@ -1416,26 +1437,6 @@
       "isNew": false
     },
     {
-      "id": "b7f55556df60",
-      "title": "シリーズ累計5,700万部『薬屋のひとりごと』スクラッチが全国の宝くじ売り場に登場！ 豪華賞品が当たるプレゼントキャンペーンも",
-      "url": "https://ddnavi.com/article/1444979/a/",
-      "host": "ddnavi.com",
-      "source": "ダ・ヴィンチWeb",
-      "summary": "",
-      "publishedAt": "2026-11-13T07:53:18.000Z",
-      "image": "",
-      "categories": [
-        "goods"
-      ],
-      "works": [
-        "kusuriya"
-      ],
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": false
-    },
-    {
       "id": "0c839157ccfd",
       "title": "サイレント・ウィッチ 5周年POP UP先行 描き下ろしグッズ発売!",
       "url": "https://collabo-cafe.com/events/collabo/silentwitch-5th-anniversary-kadokawa-anime-store-goods2026/",
@@ -1473,7 +1474,7 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "16065eb5181d",
@@ -1727,7 +1728,7 @@
       "source": "株式会社旅行新聞新社",
       "summary": "",
       "publishedAt": "2026-11-13T01:51:28.000Z",
-      "image": "",
+      "image": "https://www.ryoko-net.co.jp/wp/wp-content/uploads/2026/10/客船「ビアンカ」が舞台.jpg",
       "categories": [
         "other"
       ],
@@ -2123,6 +2124,24 @@
       "isNew": false
     },
     {
+      "id": "e746adf83297",
+      "title": "「手、柔らか…」俺の手を握った神官は次の瞬間、とんでもないモノを突き立てて！？『ニートだけどハロワにいったら異世界につれてかれた』【#12】",
+      "url": "https://hon-hikidashi.jp/book-person/218247/",
+      "host": "hon-hikidashi.jp",
+      "source": "ほんのひきだし",
+      "summary": "",
+      "publishedAt": "2026-11-12T10:15:48.000Z",
+      "image": "https://hon-hikidashi.jp/wp-content/uploads/2026/11/72ea58f3ccebb1dee0ebbe46790c9817-1.jpg",
+      "categories": [
+        "other"
+      ],
+      "works": [],
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": true
+    },
+    {
       "id": "7621f0a92607",
       "title": "『サッカー監督になろう ～ユースコーチから始まる監督人生～』のゲーム概要や公式発表の情報まとめ！長いキャリアを歩むサッカー育成シミュレーション",
       "url": "https://gamewith.jp/gamedb/19133/articles/65710",
@@ -2175,24 +2194,6 @@
       "works": [
         "kusuriya"
       ],
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": false
-    },
-    {
-      "id": "cd0e708be830",
-      "title": "「すごく立派だと思うッ！」俺のことをストレートに褒める神官の言葉が恥ずかしくて…『ニートだけどハロワにいったら異世界につれてかれた』【#11】",
-      "url": "https://hon-hikidashi.jp/book-person/218210/",
-      "host": "hon-hikidashi.jp",
-      "source": "ほんのひきだし",
-      "summary": "",
-      "publishedAt": "2026-11-12T09:45:27.000Z",
-      "image": "https://hon-hikidashi.jp/wp-content/uploads/2026/11/72ea58f3ccebb1dee0ebbe46790c9817-1.jpg",
-      "categories": [
-        "other"
-      ],
-      "works": [],
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
@@ -2439,27 +2440,6 @@
       "isNew": false
     },
     {
-      "id": "af52b9aef2cc",
-      "title": "【モンスト】無職転生コラボの評価とイベントまとめ",
-      "url": "https://xn--eckwa2aa3a9c8j8bve9d.gamewith.jp/article/show/587568",
-      "host": "xn--eckwa2aa3a9c8j8bve9d.gamewith.jp",
-      "source": "GameWith",
-      "summary": "",
-      "publishedAt": "2026-11-12T07:08:14.000Z",
-      "image": "https://img.gamewith.jp/article/thumbnail/rectangle/587568.png?date=1794495396",
-      "categories": [
-        "goods",
-        "game"
-      ],
-      "works": [
-        "mushoku"
-      ],
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": false
-    },
-    {
       "id": "a6653ff9aaf0",
       "title": "「無職転生」との初コラボが開催決定！超究極にはオルステッドが登場！【11/12情報まとめ】",
       "url": "https://appmedia.jp/monst/80558395",
@@ -2537,7 +2517,7 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "523ba8013e78",
@@ -2637,6 +2617,26 @@
       "viaGoogle": false,
       "sourceKind": "news",
       "isNew": false
+    },
+    {
+      "id": "a421566895e7",
+      "title": "アニメ「薬屋のひとりごと」の配信はどこで見れる？無料視聴できるサービス・サブスクを紹介！",
+      "url": "https://animeanime.jp/article/2026/01/30/95607.html",
+      "host": "animeanime.jp",
+      "source": "アニメ！アニメ！",
+      "summary": "",
+      "publishedAt": "2026-11-11T14:51:19.000Z",
+      "image": "https://animeanime.jp/imgs/ogp_f/835429.jpg",
+      "categories": [
+        "anime"
+      ],
+      "works": [
+        "kusuriya"
+      ],
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": true
     },
     {
       "id": "6e36b23288bc",
