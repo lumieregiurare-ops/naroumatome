@@ -1,18 +1,18 @@
 {
-  "updatedAt": "2026-11-13T01:30:22.329Z",
+  "updatedAt": "2026-11-13T02:00:18.223Z",
   "site": {
     "title": "なろう系まとめ",
     "tagline": "小説家になろう発の作品のアニメ化・コミカライズ・書籍化のニュースと、なろうのランキングをまとめています。",
     "url": "https://naroumatome.gamelab.website/",
     "contactUrl": "https://docs.google.com/forms/d/e/1FAIpQLSesWyhmZ6sRS_ve-c3X2KqF_wC5PK2TgwgQbTKmnQltSlg5Jw/viewform"
   },
-  "total": 92,
+  "total": 91,
   "todayCount": 17,
   "categories": [
     {
       "id": "anime",
       "label": "アニメ",
-      "count": 55
+      "count": 54
     },
     {
       "id": "comic",
@@ -27,7 +27,7 @@
     {
       "id": "web",
       "label": "Web小説・賞",
-      "count": 5
+      "count": 6
     },
     {
       "id": "game",
@@ -37,7 +37,7 @@
     {
       "id": "goods",
       "label": "グッズ・イベント",
-      "count": 21
+      "count": 20
     },
     {
       "id": "other",
@@ -74,7 +74,7 @@
       "id": "kusuriya",
       "title": "薬屋のひとりごと",
       "short": "薬屋",
-      "count": 34
+      "count": 33
     },
     {
       "id": "kagejitsu",
@@ -295,12 +295,12 @@
   ],
   "sources": [
     {
-      "name": "Yahoo!ニュース",
+      "name": "山陽新聞",
       "count": 14
     },
     {
-      "name": "山陽新聞",
-      "count": 13
+      "name": "Yahoo!ニュース",
+      "count": 14
     },
     {
       "name": "GameWith",
@@ -323,19 +323,11 @@
       "count": 3
     },
     {
-      "name": "WEBザテレビジョン",
-      "count": 2
-    },
-    {
       "name": "Mantan Web",
       "count": 2
     },
     {
       "name": "千葉テレビ放送株式会社",
-      "count": 2
-    },
-    {
-      "name": "ABEMA",
       "count": 2
     },
     {
@@ -355,7 +347,7 @@
       "count": 2
     },
     {
-      "name": "電撃ホビーウェブ",
+      "name": "ニコニコニュース",
       "count": 2
     },
     {
@@ -367,7 +359,15 @@
       "count": 2
     },
     {
+      "name": "株式会社旅行新聞新社",
+      "count": 1
+    },
+    {
       "name": "PR TIMES",
+      "count": 1
+    },
+    {
+      "name": "WEBザテレビジョン",
       "count": 1
     },
     {
@@ -419,11 +419,11 @@
       "count": 1
     },
     {
-      "name": "ニコニコニュース",
+      "name": "ウォーカープラス",
       "count": 1
     },
     {
-      "name": "ウォーカープラス",
+      "name": "電撃ホビーウェブ",
       "count": 1
     },
     {
@@ -435,7 +435,7 @@
       "count": 1
     },
     {
-      "name": "ぴあエンタメ情報",
+      "name": "ABEMA",
       "count": 1
     },
     {
@@ -452,8 +452,8 @@
       "image": "https://media.image.infoseek.co.jp/isnews/pc/img/noimage_203x120_busi-econ-1.0.png",
       "leadSource": "Infoseek",
       "publishedAt": "2026-11-13T01:00:00.000Z",
-      "sourceCount": 9,
-      "articleCount": 12,
+      "sourceCount": 8,
+      "articleCount": 11,
       "categories": [
         "anime",
         "goods"
@@ -666,6 +666,84 @@
       ]
     },
     {
+      "id": "d507bd380880",
+      "title": "茨城県、「薬屋のひとりごと」ラッピング山手線を運行 11月13～26日まで",
+      "summary": "",
+      "url": "https://www.ryoko-net.co.jp/?p",
+      "image": "https://prcdn.freetls.fastly.net/release_image/165784/23/165784-23-17eb3df8d5c37e18cf0214c924ff94a2-2869x1772.jpg?format=jpeg&auto=webp&fit=bounds&width=2400&height=1260",
+      "leadSource": "株式会社旅行新聞新社",
+      "publishedAt": "2026-11-13T01:51:28.000Z",
+      "sourceCount": 3,
+      "articleCount": 3,
+      "categories": [
+        "other",
+        "anime"
+      ],
+      "keywords": [
+        "薬屋",
+        "ラッピング",
+        "茨城県"
+      ],
+      "articles": [
+        {
+          "title": "茨城県 × アニメ『薬屋のひとりごと』、『IBARAKI is Blossoming』JR山手線ラッピングトレインを11月13日から運行開始！",
+          "url": "https://prtimes.jp/main/html/rd/p/000000023.000165784.html",
+          "source": "PR TIMES",
+          "publishedAt": "2026-11-13T01:00:02.000Z",
+          "isPR": true
+        },
+        {
+          "title": "第56話 薬屋のひとりごと 第3期",
+          "url": "https://thetv.jp/program/0001067396/8/",
+          "source": "WEBザテレビジョン",
+          "publishedAt": "2026-11-12T22:44:12.000Z",
+          "isPR": false
+        }
+      ]
+    },
+    {
+      "id": "8459bee04904",
+      "title": "『薬屋のひとりごと』変装した壬氏登場…第54話あらすじ＆場面カット公開 旅路設定画も解禁",
+      "summary": "",
+      "url": "https://www.sanyonews.jp/article/2016325",
+      "image": "https://static.sanyonews.jp/image/article/size1/d/4/c/b/d4cb4754727e06d5e0e25d115dacc9b1_1.jpg",
+      "leadSource": "山陽新聞",
+      "publishedAt": "2026-11-12T22:12:01.000Z",
+      "sourceCount": 2,
+      "articleCount": 4,
+      "categories": [
+        "anime"
+      ],
+      "keywords": [
+        "薬屋",
+        "カット",
+        "場面"
+      ],
+      "articles": [
+        {
+          "title": "『薬屋のひとりごと』第55話あらすじ＆場面カット",
+          "url": "https://www.animatetimes.com/news/details.php?id",
+          "source": "アニメイトタイムズ",
+          "publishedAt": "2026-11-12T09:01:00.000Z",
+          "isPR": false
+        },
+        {
+          "title": "『薬屋のひとりごと』謎の仙女・白娘々、猫猫たちに仙術を披露 第53話あらすじ＆場面カット公開",
+          "url": "https://www.sanyonews.jp/article/2012865?kw",
+          "source": "山陽新聞",
+          "publishedAt": "2026-11-11T16:31:32.000Z",
+          "isPR": false
+        },
+        {
+          "title": "『薬屋のひとりごと』阿多を訪ねた猫猫、手掛かりに気づく 第52話あらすじ＆場面カット公開",
+          "url": "https://www.sanyonews.jp/article/2009036?kw",
+          "source": "山陽新聞",
+          "publishedAt": "2026-11-11T15:53:40.000Z",
+          "isPR": false
+        }
+      ]
+    },
+    {
       "id": "7e7a39cf0559",
       "title": "『薬屋のひとりごと』芦田愛菜主演で実写ドラマ化！脚本は『虎に翼』吉田恵里香、アニメ3期&劇場版情報も",
       "summary": "",
@@ -702,60 +780,6 @@
       ]
     },
     {
-      "id": "f528c8acb403",
-      "title": "第56話 薬屋のひとりごと 第3期",
-      "summary": "",
-      "url": "https://thetv.jp/program/0001067396/8/",
-      "image": "https://prcdn.freetls.fastly.net/release_image/165784/23/165784-23-17eb3df8d5c37e18cf0214c924ff94a2-2869x1772.jpg?format=jpeg&auto=webp&fit=bounds&width=2400&height=1260",
-      "leadSource": "WEBザテレビジョン",
-      "publishedAt": "2026-11-13T01:00:02.000Z",
-      "sourceCount": 2,
-      "articleCount": 2,
-      "categories": [
-        "anime"
-      ],
-      "keywords": [
-        "薬屋"
-      ],
-      "articles": [
-        {
-          "title": "茨城県 × アニメ『薬屋のひとりごと』、『IBARAKI is Blossoming』JR山手線ラッピングトレインを11月13日から運行開始！",
-          "url": "https://prtimes.jp/main/html/rd/p/000000023.000165784.html",
-          "source": "PR TIMES",
-          "publishedAt": "2026-11-13T01:00:02.000Z",
-          "isPR": true
-        }
-      ]
-    },
-    {
-      "id": "8459bee04904",
-      "title": "『薬屋のひとりごと』変装した壬氏登場…第54話あらすじ＆場面カット公開 旅路設定画も解禁",
-      "summary": "",
-      "url": "https://www.sanyonews.jp/article/2016325",
-      "image": "https://static.sanyonews.jp/image/article/size1/d/4/c/b/d4cb4754727e06d5e0e25d115dacc9b1_1.jpg",
-      "leadSource": "山陽新聞",
-      "publishedAt": "2026-11-12T22:12:01.000Z",
-      "sourceCount": 2,
-      "articleCount": 2,
-      "categories": [
-        "anime"
-      ],
-      "keywords": [
-        "薬屋",
-        "カット",
-        "場面"
-      ],
-      "articles": [
-        {
-          "title": "『薬屋のひとりごと』第55話あらすじ＆場面カット",
-          "url": "https://www.animatetimes.com/news/details.php?id",
-          "source": "アニメイトタイムズ",
-          "publishedAt": "2026-11-12T09:01:00.000Z",
-          "isPR": false
-        }
-      ]
-    },
-    {
       "id": "96b14503ef5a",
       "title": "「陰の実力者になりたくて！マスターオブガーデン」に［魔人化英雄］フレイヤが登場！無料で100連引けるガチャも",
       "summary": "",
@@ -780,34 +804,6 @@
           "url": "https://gamewith.jp/gamedb/8388/articles/65677",
           "source": "GameWith",
           "publishedAt": "2026-11-12T05:00:09.000Z",
-          "isPR": false
-        }
-      ]
-    },
-    {
-      "id": "e5baa02b0b05",
-      "title": "「薬屋のひとりごと」猫猫“これ、毒です”や、壬氏から贈られた簪も再現！園遊会での衣装でドール化",
-      "summary": "『薬屋のひとりごと』より、猫猫のドルフィードリームが登場。華やかな園遊会での装いを採用し、上品な色彩と優雅なシルエットを美しく再現した。2026年12月13日に先行販売、2027年1月16日より一般販売を開始する。",
-      "url": "https://animeanime.jp/article/2026/11/12/104704.html",
-      "image": "https://animeanime.jp/imgs/rss/954876.jpg",
-      "leadSource": "アニメ！アニメ！",
-      "publishedAt": "2026-11-12T02:30:03.000Z",
-      "sourceCount": 2,
-      "articleCount": 2,
-      "categories": [
-        "other"
-      ],
-      "keywords": [
-        "薬屋",
-        "ドール",
-        "猫猫"
-      ],
-      "articles": [
-        {
-          "title": "ボークスより『薬屋のひとりごと』猫猫がドール化！「Dollfie Dream Sister 猫猫」が12月13日（日）開催の「ドールズ パーティー56」で先行販売",
-          "url": "https://hobby.dengeki.com/news/3228584/",
-          "source": "電撃ホビーウェブ",
-          "publishedAt": "2026-11-12T00:35:00.000Z",
           "isPR": false
         }
       ]
@@ -899,13 +895,33 @@
     }
   ],
   "churn": {
-    "previousAt": "2026-11-13T01:00:26.266Z",
+    "previousAt": "2026-11-13T01:30:22.329Z",
     "previousCount": 92,
-    "newCount": 3
+    "newCount": 4
   },
   "updateGapMin": 30,
-  "nextUpdateAt": "2026-11-13T02:00:22.329Z",
+  "nextUpdateAt": "2026-11-13T02:30:18.223Z",
   "items": [
+    {
+      "id": "d507bd380880",
+      "title": "茨城県、「薬屋のひとりごと」ラッピング山手線を運行 11月13～26日まで",
+      "url": "https://www.ryoko-net.co.jp/?p",
+      "host": "ryoko-net.co.jp",
+      "source": "株式会社旅行新聞新社",
+      "summary": "",
+      "publishedAt": "2026-11-13T01:51:28.000Z",
+      "image": "",
+      "categories": [
+        "other"
+      ],
+      "works": [
+        "kusuriya"
+      ],
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": true
+    },
     {
       "id": "ef2dcd6d6cb0",
       "title": "茨城県 × アニメ『薬屋のひとりごと』、『IBARAKI is Blossoming』JR山手線ラッピングトレインを11月13日から運行開始！",
@@ -924,7 +940,7 @@
       "isPR": true,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "9f6ac7d2300f",
@@ -945,7 +961,7 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "d037145a529d",
@@ -1226,24 +1242,6 @@
       "isNew": false
     },
     {
-      "id": "86c279374abe",
-      "title": "異世界・ファンタジーアニメ5チャンネル | 無料で放送中の番組や配信中の話題作が見放題",
-      "url": "https://abema.tv/now-on-air/isekai-anime-5",
-      "host": "abema.tv",
-      "source": "ABEMA",
-      "summary": "",
-      "publishedAt": "2026-11-12T15:00:00.000Z",
-      "image": "",
-      "categories": [
-        "anime"
-      ],
-      "works": [],
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": false
-    },
-    {
       "id": "d32704a38a90",
       "title": "【モンスト】無職転生コラボの当たりキャラ｜ガチャは引くべき？",
       "url": "https://xn--eckwa2aa3a9c8j8bve9d.gamewith.jp/article/show/587661",
@@ -1342,7 +1340,7 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "7621f0a92607",
@@ -1666,26 +1664,6 @@
       "isNew": false
     },
     {
-      "id": "11ff5432d9b8",
-      "title": "＜薬屋のひとりごと＞壬氏初の“猫猫”名前呼びに「刺激が強すぎる」とファン悶絶、幽霊の正体も明らかに【第38話】",
-      "url": "https://thetv.jp/news/detail/1445408/18697258/",
-      "host": "thetv.jp",
-      "source": "WEBザテレビジョン",
-      "summary": "",
-      "publishedAt": "2026-11-12T08:12:35.000Z",
-      "image": "https://thetv.jp/i/nw/1445408/18697258.jpg?w=1284",
-      "categories": [
-        "anime"
-      ],
-      "works": [
-        "kusuriya"
-      ],
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": false
-    },
-    {
       "id": "16065eb5181d",
       "title": "【モンスト】無職転生コラボのガチャシミュレーター",
       "url": "https://xn--eckwa2aa3a9c8j8bve9d.gamewith.jp/article/show/587602",
@@ -1945,26 +1923,6 @@
       "isNew": false
     },
     {
-      "id": "9333160df40d",
-      "title": "ボークスより『薬屋のひとりごと』猫猫がドール化！「Dollfie Dream Sister 猫猫」が12月13日（日）開催の「ドールズ パーティー56」で先行販売",
-      "url": "https://hobby.dengeki.com/news/3228584/",
-      "host": "hobby.dengeki.com",
-      "source": "電撃ホビーウェブ",
-      "summary": "",
-      "publishedAt": "2026-11-12T00:35:00.000Z",
-      "image": "https://hobby.dengeki.com/ss/hobby/2026/11/1200x630_oQpJ3ATGMp0XaRtaYm84dU8KscnRySDN_scEYsNEasJKqGiar8JSvShvI_fXuaXzr.jpg",
-      "categories": [
-        "other"
-      ],
-      "works": [
-        "kusuriya"
-      ],
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": false
-    },
-    {
       "id": "712fb57e38a6",
       "title": "ユニコーン『あたえてこ』「片田舎のおっさん、剣聖になるII」OP主題歌“クレナイノハ”や80sハードロッキンなど元気が出る曲揃い",
       "url": "https://mikiki.tokyo.jp/articles/-/46605",
@@ -2023,6 +1981,46 @@
       "viaGoogle": false,
       "sourceKind": "news",
       "isNew": false
+    },
+    {
+      "id": "a4301d08b098",
+      "title": "『薬屋のひとりごと』謎の仙女・白娘々、猫猫たちに仙術を披露 第53話あらすじ＆場面カット公開",
+      "url": "https://www.sanyonews.jp/article/2012865?kw",
+      "host": "sanyonews.jp",
+      "source": "山陽新聞",
+      "summary": "",
+      "publishedAt": "2026-11-11T16:31:32.000Z",
+      "image": "https://static.sanyonews.jp/image/article/size1/8/f/e/b/8febc030dad6489465025c81af95d949_1.jpg",
+      "categories": [
+        "anime"
+      ],
+      "works": [
+        "kusuriya"
+      ],
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": true
+    },
+    {
+      "id": "4767e9d90138",
+      "title": "『薬屋のひとりごと』阿多を訪ねた猫猫、手掛かりに気づく 第52話あらすじ＆場面カット公開",
+      "url": "https://www.sanyonews.jp/article/2009036?kw",
+      "host": "sanyonews.jp",
+      "source": "山陽新聞",
+      "summary": "",
+      "publishedAt": "2026-11-11T15:53:40.000Z",
+      "image": "https://static.sanyonews.jp/image/article/size1/8/b/3/d/8b3d5406dc5695c39a1607f0ee0ef946_1.jpg",
+      "categories": [
+        "anime"
+      ],
+      "works": [
+        "kusuriya"
+      ],
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": true
     },
     {
       "id": "ba4e4ccdab3a",
@@ -2284,27 +2282,6 @@
       "isNew": false
     },
     {
-      "id": "78d9b4951016",
-      "title": "劇場版『薬屋のひとりごと』、横浜市＆アニメイトとコラボ決定 横浜イメージ「猫猫＆壬氏」コラボ新ビジュアル解禁",
-      "url": "https://www.sanyonews.jp/article/2013258",
-      "host": "sanyonews.jp",
-      "source": "山陽新聞",
-      "summary": "",
-      "publishedAt": "2026-11-11T03:26:48.000Z",
-      "image": "https://static.sanyonews.jp/image/article/size1/f/5/3/6/f536073a3890b3e6552004fbf27626ff_1.jpg",
-      "categories": [
-        "anime",
-        "goods"
-      ],
-      "works": [
-        "kusuriya"
-      ],
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": false
-    },
-    {
       "id": "18c442dd9a7f",
       "title": "『転スラ』そのキャラ出るの！第4期の第2クールPV解禁 OPはDaoko、EDは田所あずさ",
       "url": "https://www.sanyonews.jp/article/1940746?kw",
@@ -2538,26 +2515,6 @@
       "isNew": false
     },
     {
-      "id": "94c5ae47fe04",
-      "title": "『薬屋のひとりごと』ヨルシカによるOPテーマ「雲を抜け風下へ私だけ」ノンクレジット映像解禁 動画（ 1",
-      "url": "https://lp.p.pia.jp/article/news/514487/video-gallery/index.html",
-      "host": "lp.p.pia.jp",
-      "source": "ぴあエンタメ情報",
-      "summary": "",
-      "publishedAt": "2026-11-10T08:00:00.000Z",
-      "image": "https://lp.p.pia.jp/shared/materials/0be4bdb0-845b-42c8-8611-2ff28bfd87c3/origin.jpg",
-      "categories": [
-        "anime"
-      ],
-      "works": [
-        "kusuriya"
-      ],
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": false
-    },
-    {
       "id": "040076b206f1",
       "title": "「悪役令嬢の四畳半」オフショットが楽しめるファンブック、キャラクター設定資料も",
       "url": "https://natalie.mu/comic/news/697352",
@@ -2653,6 +2610,25 @@
       "viaGoogle": false,
       "sourceKind": "news",
       "isNew": false
+    },
+    {
+      "id": "3abb5e95b81f",
+      "title": "TVアニメ『俺の死亡フラグが留まるところを知らない』が2027年に放送決定。第3回「なろうコン大賞」グランプリ受賞、シ",
+      "url": "https://news.nicovideo.jp/watch/nw19974455?news_ref",
+      "host": "news.nicovideo.jp",
+      "source": "ニコニコニュース",
+      "summary": "",
+      "publishedAt": "2026-11-10T03:51:16.000Z",
+      "image": "",
+      "categories": [
+        "web",
+        "anime"
+      ],
+      "works": [],
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": true
     },
     {
       "id": "bce7d11f21a7",
