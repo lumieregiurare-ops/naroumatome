@@ -1,18 +1,18 @@
 {
-  "updatedAt": "2026-11-13T17:30:27.000Z",
+  "updatedAt": "2026-11-13T18:00:17.069Z",
   "site": {
     "title": "なろう系まとめ",
     "tagline": "小説家になろう発の作品のアニメ化・コミカライズ・書籍化のニュースと、なろうのランキングをまとめています。",
     "url": "https://naroumatome.gamelab.website/",
     "contactUrl": "https://docs.google.com/forms/d/e/1FAIpQLSesWyhmZ6sRS_ve-c3X2KqF_wC5PK2TgwgQbTKmnQltSlg5Jw/viewform"
   },
-  "total": 98,
-  "todayCount": 6,
+  "total": 100,
+  "todayCount": 7,
   "categories": [
     {
       "id": "anime",
       "label": "アニメ",
-      "count": 63
+      "count": 64
     },
     {
       "id": "comic",
@@ -32,7 +32,7 @@
     {
       "id": "game",
       "label": "ゲーム",
-      "count": 11
+      "count": 12
     },
     {
       "id": "goods",
@@ -50,7 +50,7 @@
       "id": "tensura",
       "title": "転生したらスライムだった件",
       "short": "転スラ",
-      "count": 10
+      "count": 11
     },
     {
       "id": "mushoku",
@@ -74,7 +74,7 @@
       "id": "kusuriya",
       "title": "薬屋のひとりごと",
       "short": "薬屋",
-      "count": 32
+      "count": 33
     },
     {
       "id": "kagejitsu",
@@ -308,7 +308,7 @@
     },
     {
       "name": "アニメ！アニメ！",
-      "count": 7
+      "count": 8
     },
     {
       "name": "ナタリー",
@@ -319,16 +319,16 @@
       "count": 4
     },
     {
+      "name": "AppMedia",
+      "count": 3
+    },
+    {
       "name": "ニコニコニュース",
       "count": 3
     },
     {
       "name": "Gamer",
       "count": 3
-    },
-    {
-      "name": "AppMedia",
-      "count": 2
     },
     {
       "name": "千葉テレビ放送株式会社",
@@ -347,11 +347,11 @@
       "count": 2
     },
     {
-      "name": "電撃オンライン",
+      "name": "WEBザテレビジョン",
       "count": 2
     },
     {
-      "name": "PR TIMES",
+      "name": "電撃オンライン",
       "count": 2
     },
     {
@@ -383,10 +383,6 @@
       "count": 1
     },
     {
-      "name": "WEBザテレビジョン",
-      "count": 1
-    },
-    {
       "name": "ダ・ヴィンチWeb",
       "count": 1
     },
@@ -404,6 +400,10 @@
     },
     {
       "name": "おた☆スケ",
+      "count": 1
+    },
+    {
+      "name": "PR TIMES",
       "count": 1
     },
     {
@@ -469,7 +469,7 @@
       "title": "アニメ『薬屋のひとりごと』とシチズン「wicca」がコラボ！猫猫と壬氏をイメージした白蝶貝の文字盤の腕時計が登場",
       "summary": "",
       "url": "https://www.chiba-tv.com/plus/detail/2026112219294",
-      "image": "https://img.jp.ekkowassets.com/c_limit,w_360,f_auto,q_auto:eco/ch/images/1494000702419043970/origin_1.jpg",
+      "image": "https://times-abema.ismcdn.jp/mwimgs/8/e/1200w/img_8efa1c8a824684db76cbd971a72dc993145531.jpg",
       "leadSource": "千葉テレビ放送株式会社",
       "publishedAt": "2026-11-13T15:46:05.000Z",
       "sourceCount": 9,
@@ -970,13 +970,33 @@
     }
   ],
   "churn": {
-    "previousAt": "2026-11-13T17:00:22.091Z",
-    "previousCount": 99,
-    "newCount": 1
+    "previousAt": "2026-11-13T17:30:27.000Z",
+    "previousCount": 98,
+    "newCount": 2
   },
   "updateGapMin": 30,
-  "nextUpdateAt": "2026-11-13T18:00:27.000Z",
+  "nextUpdateAt": "2026-11-13T18:30:17.069Z",
   "items": [
+    {
+      "id": "eecf71fa228d",
+      "title": "【まおりゅう】ガチャはどれを引くべき？【転スラ】",
+      "url": "https://appmedia.jp/ten-sura-m/27053896",
+      "host": "appmedia.jp",
+      "source": "AppMedia",
+      "summary": "",
+      "publishedAt": "2026-11-13T17:32:49.000Z",
+      "image": "https://appmedia.jp/wp-content/uploads/2023/03/145410_zm20o.webp",
+      "categories": [
+        "game"
+      ],
+      "works": [
+        "tensura"
+      ],
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": true
+    },
     {
       "id": "0f37b66f127f",
       "title": "【まおりゅう】最強戦闘キャラランキング｜最新Tier表【転スラ】",
@@ -1015,7 +1035,7 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "9f6ac7d2300f",
@@ -1025,7 +1045,7 @@
       "source": "千葉テレビ放送株式会社",
       "summary": "",
       "publishedAt": "2026-11-13T15:46:05.000Z",
-      "image": "https://img.jp.ekkowassets.com/c_limit,w_360,f_auto,q_auto:eco/ch/images/1494000702419043970/origin_1.jpg",
+      "image": "",
       "categories": [
         "anime",
         "goods"
@@ -1349,6 +1369,26 @@
       "viaGoogle": false,
       "sourceKind": "news",
       "isNew": false
+    },
+    {
+      "id": "11ff5432d9b8",
+      "title": "＜薬屋のひとりごと＞壬氏初の“猫猫”名前呼びに「刺激が強すぎる」とファン悶絶、幽霊の正体も明らかに【第38話】",
+      "url": "https://thetv.jp/news/detail/1445408/18697258/",
+      "host": "thetv.jp",
+      "source": "WEBザテレビジョン",
+      "summary": "",
+      "publishedAt": "2026-11-13T11:09:19.000Z",
+      "image": "https://thetv.jp/i/nw/1445408/18697258.jpg?w=1284",
+      "categories": [
+        "anime"
+      ],
+      "works": [
+        "kusuriya"
+      ],
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": true
     },
     {
       "id": "b45ee7227069",
@@ -1759,6 +1799,26 @@
       "isNew": false
     },
     {
+      "id": "d401b5da3839",
+      "title": "【eb！ブックス創刊！】『オーバーロード』『幼女戦記』『陰の実力者になりたくて！』などの超人気タイトルを含む単行本がレーベルに！",
+      "url": "https://animeanime.jp/release/prtimes/20261113/326788.html",
+      "host": "animeanime.jp",
+      "source": "アニメ！アニメ！",
+      "summary": "",
+      "publishedAt": "2026-11-13T05:16:47.000Z",
+      "image": "https://animeanime.jp/release/imgs/list/573473.png",
+      "categories": [
+        "book"
+      ],
+      "works": [
+        "kagejitsu"
+      ],
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": false
+    },
+    {
       "id": "e6d17e874fbc",
       "title": "転スラ4期はどこまで？原作小説・漫画の続き巻数を整理",
       "url": "https://anisaki.hatenadiary.com/entry/tensura-season4",
@@ -1775,26 +1835,6 @@
         "tensura"
       ],
       "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": false
-    },
-    {
-      "id": "d401b5da3839",
-      "title": "【eb！ブックス創刊！】『オーバーロード』『幼女戦記』『陰の実力者になりたくて！』などの超人気タイトルを含む単行本がレーベルに！",
-      "url": "https://prtimes.jp/main/html/rd/p/000020588.000007006.html",
-      "host": "prtimes.jp",
-      "source": "PR TIMES",
-      "summary": "",
-      "publishedAt": "2026-11-13T04:00:02.000Z",
-      "image": "https://prcdn.freetls.fastly.net/release_image/7006/20588/7006-20588-ea290a4f72b11fa6b2112b1827bbf42d-960x185.png?format=jpeg&auto=webp&fit=bounds&width=2400&height=1260",
-      "categories": [
-        "book"
-      ],
-      "works": [
-        "kagejitsu"
-      ],
-      "isPR": true,
       "viaGoogle": false,
       "sourceKind": "news",
       "isNew": false
