@@ -1,18 +1,18 @@
 {
-  "updatedAt": "2026-11-14T12:00:18.330Z",
+  "updatedAt": "2026-11-14T12:30:17.993Z",
   "site": {
     "title": "なろう系まとめ",
     "tagline": "小説家になろう発の作品のアニメ化・コミカライズ・書籍化のニュースと、なろうのランキングをまとめています。",
     "url": "https://naroumatome.gamelab.website/",
     "contactUrl": "https://docs.google.com/forms/d/e/1FAIpQLSesWyhmZ6sRS_ve-c3X2KqF_wC5PK2TgwgQbTKmnQltSlg5Jw/viewform"
   },
-  "total": 109,
-  "todayCount": 37,
+  "total": 115,
+  "todayCount": 43,
   "categories": [
     {
       "id": "anime",
       "label": "アニメ",
-      "count": 66
+      "count": 71
     },
     {
       "id": "comic",
@@ -42,7 +42,7 @@
     {
       "id": "other",
       "label": "そのほか",
-      "count": 17
+      "count": 18
     }
   ],
   "works": [
@@ -62,7 +62,7 @@
       "id": "rezero",
       "title": "Re:ゼロから始める異世界生活",
       "short": "リゼロ",
-      "count": 4
+      "count": 11
     },
     {
       "id": "honzuki",
@@ -74,7 +74,7 @@
       "id": "kusuriya",
       "title": "薬屋のひとりごと",
       "short": "薬屋",
-      "count": 33
+      "count": 32
     },
     {
       "id": "kagejitsu",
@@ -296,11 +296,11 @@
   "sources": [
     {
       "name": "Yahoo!ニュース",
-      "count": 16
+      "count": 17
     },
     {
       "name": "ナタリー",
-      "count": 9
+      "count": 10
     },
     {
       "name": "GameWith",
@@ -319,15 +319,15 @@
       "count": 5
     },
     {
+      "name": "ニコニコニュース",
+      "count": 4
+    },
+    {
       "name": "AppMedia",
       "count": 3
     },
     {
       "name": "ABEMA",
-      "count": 3
-    },
-    {
-      "name": "ニコニコニュース",
       "count": 3
     },
     {
@@ -337,6 +337,10 @@
     {
       "name": "Infoseek",
       "count": 3
+    },
+    {
+      "name": "Mantan Web",
+      "count": 2
     },
     {
       "name": "千葉テレビ放送",
@@ -375,6 +379,18 @@
       "count": 2
     },
     {
+      "name": "PASH! PLUS",
+      "count": 1
+    },
+    {
+      "name": "電ファミニコゲーマー",
+      "count": 1
+    },
+    {
+      "name": "ファミ通",
+      "count": 1
+    },
+    {
       "name": "HugKum",
       "count": 1
     },
@@ -388,10 +404,6 @@
     },
     {
       "name": "はてなブログ",
-      "count": 1
-    },
-    {
-      "name": "Howl.Link",
       "count": 1
     },
     {
@@ -444,10 +456,6 @@
     },
     {
       "name": "Mikiki by TOWER RECORDS",
-      "count": 1
-    },
-    {
-      "name": "Mantan Web",
       "count": 1
     },
     {
@@ -611,6 +619,49 @@
       ]
     },
     {
+      "id": "46bb166907eb",
+      "title": "【リゼロ5期】アニメ『Re:ゼロから始める異世界生活』5th seasonが製作決定！ スバルとレムが新たな冒険へ旅立つ姿を描いたウルトラティザービジュアルも公開",
+      "summary": "",
+      "url": "https://www.pashplus.jp/anime/503122/",
+      "image": "https://www.pashplus.jp/wp-content/uploads/32b9c4b704c1995f0b7d7d499d5b1c29.jpg",
+      "leadSource": "PASH! PLUS",
+      "publishedAt": "2026-11-14T12:03:02.000Z",
+      "sourceCount": 4,
+      "articleCount": 4,
+      "categories": [
+        "anime",
+        "other"
+      ],
+      "keywords": [
+        "ビジュアル",
+        "season",
+        "ウルトラティザービジュアル"
+      ],
+      "articles": [
+        {
+          "title": "アニメ『Re:ゼロから始める異世界生活』5th seasonが製作決定。ウルトラティザービジュアルと原作者長月達平のコメントが到着",
+          "url": "https://www.famitsu.com/article/202611/94048",
+          "source": "ファミ通",
+          "publishedAt": "2026-11-14T12:00:00.000Z",
+          "isPR": false
+        },
+        {
+          "title": "「Re:ゼロから始める異世界生活」5th seasonが製作決定、ウルトラティザービジュアル公開（コメントあり）",
+          "url": "https://natalie.mu/comic/news/698061",
+          "source": "ナタリー",
+          "publishedAt": "2026-11-14T12:00:00.000Z",
+          "isPR": false
+        },
+        {
+          "title": "リゼロ：テレビアニメ第5期制作決定 ビジュアルに旅立つスバルとレム 「君のためなら、何度でも。」",
+          "url": "https://mantan-web.jp/article/20261114dog00m200018000a.html",
+          "source": "Mantan Web",
+          "publishedAt": "2026-11-14T12:00:00.000Z",
+          "isPR": false
+        }
+      ]
+    },
+    {
       "id": "9834ca7160aa",
       "title": "アニメ『異世界転生騒動記』は2027年1月6日（水）より放送開始 第2弾となるキービジュアル＆PVもお披露目",
       "summary": "",
@@ -761,41 +812,6 @@
       ]
     },
     {
-      "id": "e19b449c735c",
-      "title": "1/6～「異世界転生騒動記」に井上麻里奈、子安武人、熊谷俊輝ら",
-      "summary": "",
-      "url": "https://www.ota-suke.jp/news/292749",
-      "image": "http://www.ota-suke.jp/images/editor/tak/image2026/1113_05.webp",
-      "leadSource": "おた☆スケ",
-      "publishedAt": "2026-11-13T09:53:00.000Z",
-      "sourceCount": 3,
-      "articleCount": 3,
-      "categories": [
-        "other",
-        "anime"
-      ],
-      "keywords": [
-        "異世界転生騒動記",
-        "井上麻里奈"
-      ],
-      "articles": [
-        {
-          "title": "「異世界転生騒動記」に井上麻里奈ら出演、主題歌はMaverick Mom＆ときのそら（動画あり / コメントあり）",
-          "url": "https://natalie.mu/comic/news/697941",
-          "source": "ナタリー",
-          "publishedAt": "2026-11-13T09:00:00.000Z",
-          "isPR": false
-        },
-        {
-          "title": "『異世界転生騒動記』2027年1月6日放送決定、追加声優に井上麻里奈ら6名発表",
-          "url": "https://www.animatetimes.com/news/details.php?id",
-          "source": "アニメイトタイムズ",
-          "publishedAt": "2026-11-13T09:00:00.000Z",
-          "isPR": false
-        }
-      ]
-    },
-    {
       "id": "b56ab546b2b7",
       "title": "KADOKAWA、サイレント・ウィッチ5周年記念オンラインくじを11月12日発売へ",
       "summary": "",
@@ -880,6 +896,33 @@
       ]
     },
     {
+      "id": "4cd0a5bf639a",
+      "title": "TVアニメ『Re:ゼロから始める異世界生活』第5期の製作が決定！原作者・長月達平氏「七章の道のりもしっかり過酷で難易度",
+      "summary": "",
+      "url": "https://news.nicovideo.jp/watch/nw19992713",
+      "image": "https://news.denfaminicogamer.jp/wp-content/uploads/2026/11/re05_teaserV_jpn-727x1024.jpg",
+      "leadSource": "ニコニコニュース",
+      "publishedAt": "2026-11-14T12:03:09.000Z",
+      "sourceCount": 2,
+      "articleCount": 2,
+      "categories": [
+        "anime"
+      ],
+      "keywords": [
+        "異世界生活",
+        "製作"
+      ],
+      "articles": [
+        {
+          "title": "TVアニメ『Re:ゼロから始める異世界生活』第5期の製作が決定！",
+          "url": "https://news.denfaminicogamer.jp/news/261114k",
+          "source": "電ファミニコゲーマー",
+          "publishedAt": "2026-11-14T12:00:00.000Z",
+          "isPR": false
+        }
+      ]
+    },
+    {
       "id": "444bf6b51583",
       "title": "「薬屋のひとりごと」猫猫＆壬氏が天空に…♪ サンシャイン60展望台と初コラボ☆限定グッズやカフェメニューも【12月10日から】",
       "summary": "・サンシャイン60展望台が『劇場版 薬屋のひとりごと 亡妃の秘宝』とのコラボイベントを12月10日から開催します。 ・窓面装飾やキーワードラリー、限定グッズ付き入場チケット、コラボカフェメニューなどを用意します。 ・期間は2027年1月31日までで、料金は展望台の入場料のみです。",
@@ -934,45 +977,156 @@
           "isPR": false
         }
       ]
-    },
-    {
-      "id": "52cf80cf1e98",
-      "title": "【薬屋のひとりごと】“猫猫”悠木碧＆“壬氏”大塚剛央に直撃！意外な素顔が明らかに！？第3期で描かれる2人の関係性を深掘りトーク 『薬屋のひとりごと』インタビュー",
-      "summary": "",
-      "url": "https://t.co/mIWJMiR2xJ",
-      "image": "https://jmagazine.myjcom.jp/uploads/261020_ootsuka_01.jpg",
-      "leadSource": "Howl.Link",
-      "publishedAt": "2026-11-14T03:00:08.000Z",
-      "sourceCount": 2,
-      "articleCount": 2,
-      "categories": [
-        "anime",
-        "other"
-      ],
-      "keywords": [
-        "薬屋",
-        "壬氏",
-        "大塚剛央"
-      ],
-      "articles": [
-        {
-          "title": "「薬屋のひとりごと」壬氏役・大塚剛央が語る作品への思い「終わってしまったら抜け殻になりそう(笑)」（画像 1 5",
-          "url": "https://jmagazine.myjcom.jp/category/anime/post001759/gallery/",
-          "source": "J:magazine!",
-          "publishedAt": "2026-11-12T08:00:00.000Z",
-          "isPR": false
-        }
-      ]
     }
   ],
   "churn": {
-    "previousAt": "2026-11-14T11:30:20.527Z",
-    "previousCount": 107,
-    "newCount": 2
+    "previousAt": "2026-11-14T12:00:18.330Z",
+    "previousCount": 109,
+    "newCount": 8
   },
   "updateGapMin": 30,
-  "nextUpdateAt": "2026-11-14T12:30:18.330Z",
+  "nextUpdateAt": "2026-11-14T13:00:17.993Z",
   "items": [
+    {
+      "id": "4cd0a5bf639a",
+      "title": "TVアニメ『Re:ゼロから始める異世界生活』第5期の製作が決定！原作者・長月達平氏「七章の道のりもしっかり過酷で難易度",
+      "url": "https://news.nicovideo.jp/watch/nw19992713",
+      "host": "news.nicovideo.jp",
+      "source": "ニコニコニュース",
+      "summary": "",
+      "publishedAt": "2026-11-14T12:03:09.000Z",
+      "image": "",
+      "categories": [
+        "anime"
+      ],
+      "works": [
+        "rezero"
+      ],
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": true
+    },
+    {
+      "id": "46bb166907eb",
+      "title": "【リゼロ5期】アニメ『Re:ゼロから始める異世界生活』5th seasonが製作決定！ スバルとレムが新たな冒険へ旅立つ姿を描いたウルトラティザービジュアルも公開",
+      "url": "https://www.pashplus.jp/anime/503122/",
+      "host": "pashplus.jp",
+      "source": "PASH! PLUS",
+      "summary": "",
+      "publishedAt": "2026-11-14T12:03:02.000Z",
+      "image": "https://www.pashplus.jp/wp-content/uploads/32b9c4b704c1995f0b7d7d499d5b1c29.jpg",
+      "categories": [
+        "anime"
+      ],
+      "works": [
+        "rezero"
+      ],
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": true
+    },
+    {
+      "id": "7be9f440cf35",
+      "title": "TVアニメ『Re:ゼロから始める異世界生活』第5期の製作が決定！",
+      "url": "https://news.denfaminicogamer.jp/news/261114k",
+      "host": "news.denfaminicogamer.jp",
+      "source": "電ファミニコゲーマー",
+      "summary": "",
+      "publishedAt": "2026-11-14T12:00:00.000Z",
+      "image": "https://news.denfaminicogamer.jp/wp-content/uploads/2026/11/re05_teaserV_jpn-727x1024.jpg",
+      "categories": [
+        "anime"
+      ],
+      "works": [
+        "rezero"
+      ],
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": true
+    },
+    {
+      "id": "5c0d00d809f2",
+      "title": "アニメ『Re:ゼロから始める異世界生活』5th seasonが製作決定。ウルトラティザービジュアルと原作者長月達平のコメントが到着",
+      "url": "https://www.famitsu.com/article/202611/94048",
+      "host": "famitsu.com",
+      "source": "ファミ通",
+      "summary": "",
+      "publishedAt": "2026-11-14T12:00:00.000Z",
+      "image": "https://cimg.kgl-systems.io/camion/files/94048/thumbnail_kFec.jpg?x=1280",
+      "categories": [
+        "anime"
+      ],
+      "works": [
+        "rezero"
+      ],
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": true
+    },
+    {
+      "id": "0cc7c4e1db79",
+      "title": "「Re:ゼロから始める異世界生活」5th seasonが製作決定、ウルトラティザービジュアル公開（コメントあり）",
+      "url": "https://natalie.mu/comic/news/698061",
+      "host": "natalie.mu",
+      "source": "ナタリー",
+      "summary": "",
+      "publishedAt": "2026-11-14T12:00:00.000Z",
+      "image": "",
+      "categories": [
+        "other"
+      ],
+      "works": [
+        "rezero"
+      ],
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": true
+    },
+    {
+      "id": "c5ab2b8e9153",
+      "title": "『リゼロ』第5期制作決定 物語を示唆するウルトラティザービジュアルが公開（オリコン）",
+      "url": "https://news.yahoo.co.jp/articles/fd8f6ca64001fa5e65d52c0787bb2c8f57006636",
+      "host": "news.yahoo.co.jp",
+      "source": "Yahoo!ニュース",
+      "summary": "",
+      "publishedAt": "2026-11-14T12:00:00.000Z",
+      "image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20261114-00000441-oric-000-1-view.jpg?exp=10800",
+      "categories": [
+        "anime"
+      ],
+      "works": [
+        "rezero"
+      ],
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": true
+    },
+    {
+      "id": "91b2c23eeb55",
+      "title": "リゼロ：テレビアニメ第5期制作決定 ビジュアルに旅立つスバルとレム 「君のためなら、何度でも。」",
+      "url": "https://mantan-web.jp/article/20261114dog00m200018000a.html",
+      "host": "mantan-web.jp",
+      "source": "Mantan Web",
+      "summary": "",
+      "publishedAt": "2026-11-14T12:00:00.000Z",
+      "image": "https://storage.mantan-web.jp/w=1280,h=720,icr=0:0.1:1:1,a=2,g=2,f=webp:auto/images/2026/11/14/20261114dog00m200018000a/001.jpg",
+      "categories": [
+        "anime"
+      ],
+      "works": [
+        "rezero"
+      ],
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": true
+    },
     {
       "id": "eecf71fa228d",
       "title": "【まおりゅう】ガチャはどれを引くべき？【転スラ】",
@@ -1012,7 +1166,7 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "0f37b66f127f",
@@ -1035,6 +1189,24 @@
       "isNew": false
     },
     {
+      "id": "86c279374abe",
+      "title": "異世界・ファンタジーアニメ5チャンネル | 無料で放送中の番組や配信中の話題作が見放題",
+      "url": "https://abema.tv/now-on-air/isekai-anime-5",
+      "host": "abema.tv",
+      "source": "ABEMA",
+      "summary": "",
+      "publishedAt": "2026-11-14T10:41:07.000Z",
+      "image": "",
+      "categories": [
+        "anime"
+      ],
+      "works": [],
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": false
+    },
+    {
       "id": "7679000bae87",
       "title": "ポケモンと宇宙を大冒険できる「くるくる たいようけいキット」。遊びながら星に詳しくなろう【『小学一年生』12月号】",
       "url": "https://hugkum.sho.jp/824918",
@@ -1047,6 +1219,26 @@
         "web"
       ],
       "works": [],
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": false
+    },
+    {
+      "id": "b7f55556df60",
+      "title": "シリーズ累計5,700万部『薬屋のひとりごと』スクラッチが全国の宝くじ売り場に登場！ 豪華賞品が当たるプレゼントキャンペーンも",
+      "url": "https://ddnavi.com/article/1444979/a/",
+      "host": "ddnavi.com",
+      "source": "ダ・ヴィンチWeb",
+      "summary": "",
+      "publishedAt": "2026-11-14T10:22:40.000Z",
+      "image": "",
+      "categories": [
+        "goods"
+      ],
+      "works": [
+        "kusuriya"
+      ],
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
@@ -1091,24 +1283,6 @@
       "isNew": false
     },
     {
-      "id": "86c279374abe",
-      "title": "異世界・ファンタジーアニメ5チャンネル | 無料で放送中の番組や配信中の話題作が見放題",
-      "url": "https://abema.tv/now-on-air/isekai-anime-5",
-      "host": "abema.tv",
-      "source": "ABEMA",
-      "summary": "",
-      "publishedAt": "2026-11-14T08:42:00.000Z",
-      "image": "",
-      "categories": [
-        "anime"
-      ],
-      "works": [],
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": false
-    },
-    {
       "id": "bc8c31d4271c",
       "title": "【薬屋のひとりごと】サンシャイン60展望台 てんぼうパークコラボイベントにグッズやコラボメニュー満載！（アニメージュプラス）",
       "url": "https://news.yahoo.co.jp/articles/f1d7137cd5265244d0cbafecf0e7b7ea4f497fbf",
@@ -1142,26 +1316,6 @@
         "anime"
       ],
       "works": [],
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": false
-    },
-    {
-      "id": "b7f55556df60",
-      "title": "シリーズ累計5,700万部『薬屋のひとりごと』スクラッチが全国の宝くじ売り場に登場！ 豪華賞品が当たるプレゼントキャンペーンも",
-      "url": "https://ddnavi.com/article/1444979/a/",
-      "host": "ddnavi.com",
-      "source": "ダ・ヴィンチWeb",
-      "summary": "",
-      "publishedAt": "2026-11-14T07:21:21.000Z",
-      "image": "",
-      "categories": [
-        "goods"
-      ],
-      "works": [
-        "kusuriya"
-      ],
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
@@ -1358,26 +1512,6 @@
       "categories": [
         "anime",
         "goods"
-      ],
-      "works": [
-        "kusuriya"
-      ],
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": false
-    },
-    {
-      "id": "52cf80cf1e98",
-      "title": "【薬屋のひとりごと】“猫猫”悠木碧＆“壬氏”大塚剛央に直撃！意外な素顔が明らかに！？第3期で描かれる2人の関係性を深掘りトーク 『薬屋のひとりごと』インタビュー",
-      "url": "https://t.co/mIWJMiR2xJ",
-      "host": "t.co",
-      "source": "Howl.Link",
-      "summary": "",
-      "publishedAt": "2026-11-14T03:00:08.000Z",
-      "image": "",
-      "categories": [
-        "anime"
       ],
       "works": [
         "kusuriya"
@@ -1703,7 +1837,7 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "ee237dc8ed84",
@@ -2012,6 +2146,24 @@
       "isNew": false
     },
     {
+      "id": "a4b1a18aa16b",
+      "title": "TVアニメ「異世界転生騒動記」PV第2弾より [画像・動画ギャラリー 25/27]",
+      "url": "https://natalie.mu/comic/gallery/news/697941/3017725",
+      "host": "natalie.mu",
+      "source": "ナタリー",
+      "summary": "",
+      "publishedAt": "2026-11-13T09:04:02.000Z",
+      "image": "",
+      "categories": [
+        "anime"
+      ],
+      "works": [],
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": true
+    },
+    {
       "id": "6e5851419482",
       "title": "TVアニメ「異世界転生騒動記」放送情報 [画像・動画ギャラリー 18/27]",
       "url": "https://natalie.mu/comic/gallery/news/697941/3017718",
@@ -2033,24 +2185,6 @@
       "id": "9d10e2571c84",
       "title": "TVアニメ「異世界転生騒動記」PV第2弾 [画像・動画ギャラリー 27/27]",
       "url": "https://natalie.mu/comic/gallery/news/697941/media/144616",
-      "host": "natalie.mu",
-      "source": "ナタリー",
-      "summary": "",
-      "publishedAt": "2026-11-13T09:04:01.000Z",
-      "image": "",
-      "categories": [
-        "anime"
-      ],
-      "works": [],
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": false
-    },
-    {
-      "id": "3cbf42d919a7",
-      "title": "TVアニメ「異世界転生騒動記」主題歌情報 [画像・動画ギャラリー 17/27]",
-      "url": "https://natalie.mu/comic/gallery/news/697941/3017717",
       "host": "natalie.mu",
       "source": "ナタリー",
       "summary": "",
