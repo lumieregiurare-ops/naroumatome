@@ -1,18 +1,18 @@
 {
-  "updatedAt": "2026-11-14T04:00:19.531Z",
+  "updatedAt": "2026-11-14T04:30:16.818Z",
   "site": {
     "title": "なろう系まとめ",
     "tagline": "小説家になろう発の作品のアニメ化・コミカライズ・書籍化のニュースと、なろうのランキングをまとめています。",
     "url": "https://naroumatome.gamelab.website/",
     "contactUrl": "https://docs.google.com/forms/d/e/1FAIpQLSesWyhmZ6sRS_ve-c3X2KqF_wC5PK2TgwgQbTKmnQltSlg5Jw/viewform"
   },
-  "total": 104,
+  "total": 105,
   "todayCount": 22,
   "categories": [
     {
       "id": "anime",
       "label": "アニメ",
-      "count": 62
+      "count": 63
     },
     {
       "id": "comic",
@@ -312,7 +312,7 @@
     },
     {
       "name": "ナタリー",
-      "count": 6
+      "count": 7
     },
     {
       "name": "ラノベニュースオンライン",
@@ -934,12 +934,12 @@
     }
   ],
   "churn": {
-    "previousAt": "2026-11-14T03:30:19.517Z",
-    "previousCount": 106,
+    "previousAt": "2026-11-14T04:00:19.531Z",
+    "previousCount": 104,
     "newCount": 1
   },
   "updateGapMin": 30,
-  "nextUpdateAt": "2026-11-14T04:30:19.531Z",
+  "nextUpdateAt": "2026-11-14T05:00:16.818Z",
   "items": [
     {
       "id": "2b3b075e652f",
@@ -1378,7 +1378,7 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "ee237dc8ed84",
@@ -1727,6 +1727,24 @@
       "viaGoogle": false,
       "sourceKind": "news",
       "isNew": false
+    },
+    {
+      "id": "4fd144fa48f9",
+      "title": "TVアニメ「異世界転生騒動記」PV第2弾より [画像・動画ギャラリー 22/27]",
+      "url": "https://natalie.mu/comic/gallery/news/697941/3017722",
+      "host": "natalie.mu",
+      "source": "ナタリー",
+      "summary": "",
+      "publishedAt": "2026-11-13T09:04:02.000Z",
+      "image": "",
+      "categories": [
+        "anime"
+      ],
+      "works": [],
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": true
     },
     {
       "id": "6e5851419482",
