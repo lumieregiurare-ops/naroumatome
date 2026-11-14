@@ -1,18 +1,18 @@
 {
-  "updatedAt": "2026-11-14T10:30:15.596Z",
+  "updatedAt": "2026-11-14T11:00:16.962Z",
   "site": {
     "title": "なろう系まとめ",
     "tagline": "小説家になろう発の作品のアニメ化・コミカライズ・書籍化のニュースと、なろうのランキングをまとめています。",
     "url": "https://naroumatome.gamelab.website/",
     "contactUrl": "https://docs.google.com/forms/d/e/1FAIpQLSesWyhmZ6sRS_ve-c3X2KqF_wC5PK2TgwgQbTKmnQltSlg5Jw/viewform"
   },
-  "total": 105,
-  "todayCount": 34,
+  "total": 107,
+  "todayCount": 35,
   "categories": [
     {
       "id": "anime",
       "label": "アニメ",
-      "count": 63
+      "count": 65
     },
     {
       "id": "comic",
@@ -37,7 +37,7 @@
     {
       "id": "goods",
       "label": "グッズ・イベント",
-      "count": 24
+      "count": 25
     },
     {
       "id": "other",
@@ -50,7 +50,7 @@
       "id": "tensura",
       "title": "転生したらスライムだった件",
       "short": "転スラ",
-      "count": 8
+      "count": 9
     },
     {
       "id": "mushoku",
@@ -296,7 +296,7 @@
   "sources": [
     {
       "name": "Yahoo!ニュース",
-      "count": 17
+      "count": 16
     },
     {
       "name": "GameWith",
@@ -304,11 +304,11 @@
     },
     {
       "name": "ナタリー",
-      "count": 8
+      "count": 9
     },
     {
       "name": "山陽新聞",
-      "count": 7
+      "count": 8
     },
     {
       "name": "アニメ！アニメ！",
@@ -456,6 +456,10 @@
     },
     {
       "name": "eeo",
+      "count": 1
+    },
+    {
+      "name": "SHIBUYA TSUTAYA",
       "count": 1
     },
     {
@@ -768,41 +772,6 @@
       ]
     },
     {
-      "id": "e19b449c735c",
-      "title": "1/6～「異世界転生騒動記」に井上麻里奈、子安武人、熊谷俊輝ら",
-      "summary": "",
-      "url": "https://www.ota-suke.jp/news/292749",
-      "image": "http://www.ota-suke.jp/images/editor/tak/image2026/1113_05.webp",
-      "leadSource": "おた☆スケ",
-      "publishedAt": "2026-11-13T09:53:00.000Z",
-      "sourceCount": 3,
-      "articleCount": 3,
-      "categories": [
-        "other",
-        "anime"
-      ],
-      "keywords": [
-        "異世界転生騒動記",
-        "井上麻里奈"
-      ],
-      "articles": [
-        {
-          "title": "「異世界転生騒動記」に井上麻里奈ら出演、主題歌はMaverick Mom＆ときのそら（動画あり / コメントあり）",
-          "url": "https://natalie.mu/comic/news/697941",
-          "source": "ナタリー",
-          "publishedAt": "2026-11-13T09:00:00.000Z",
-          "isPR": false
-        },
-        {
-          "title": "『異世界転生騒動記』2027年1月6日放送決定、追加声優に井上麻里奈ら6名発表",
-          "url": "https://www.animatetimes.com/news/details.php?id",
-          "source": "アニメイトタイムズ",
-          "publishedAt": "2026-11-13T09:00:00.000Z",
-          "isPR": false
-        }
-      ]
-    },
-    {
       "id": "b56ab546b2b7",
       "title": "KADOKAWA、サイレント・ウィッチ5周年記念オンラインくじを11月12日発売へ",
       "summary": "",
@@ -969,15 +938,44 @@
           "isPR": false
         }
       ]
+    },
+    {
+      "id": "3fce66efc8c0",
+      "title": "『サイレント・ウィッチ』原作5周年ポップアップショップのグッズ全82アイテムが購入特典付きでカドストの事後受注に登場",
+      "summary": "",
+      "url": "https://nijimen.kusuguru.co.jp/topics/656729",
+      "image": "https://nijimen.kusuguru.co.jp/wp-content/uploads/2026/11/07ce8181412649fc94a51b0652df3937.png",
+      "leadSource": "にじめん",
+      "publishedAt": "2026-11-13T22:27:00.000Z",
+      "sourceCount": 2,
+      "articleCount": 2,
+      "categories": [
+        "goods",
+        "anime"
+      ],
+      "keywords": [
+        "サイレント",
+        "ウィッチ",
+        "グッズ"
+      ],
+      "articles": [
+        {
+          "title": "サイレント・ウィッチ 5周年POP UP先行 描き下ろしグッズ発売!",
+          "url": "https://collabo-cafe.com/events/collabo/silentwitch-5th-anniversary-kadokawa-anime-store-goods2026/",
+          "source": "コラボカフェ",
+          "publishedAt": "2026-11-13T07:07:30.000Z",
+          "isPR": false
+        }
+      ]
     }
   ],
   "churn": {
-    "previousAt": "2026-11-14T10:00:18.171Z",
-    "previousCount": 108,
-    "newCount": 2
+    "previousAt": "2026-11-14T10:30:15.596Z",
+    "previousCount": 105,
+    "newCount": 5
   },
   "updateGapMin": 30,
-  "nextUpdateAt": "2026-11-14T11:00:15.596Z",
+  "nextUpdateAt": "2026-11-14T11:30:16.962Z",
   "items": [
     {
       "id": "d507bd380880",
@@ -1015,7 +1013,7 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "eecf71fa228d",
@@ -1025,7 +1023,7 @@
       "source": "AppMedia",
       "summary": "",
       "publishedAt": "2026-11-14T08:47:28.000Z",
-      "image": "",
+      "image": "https://appmedia.jp/wp-content/uploads/2023/03/145410_zm20o.webp",
       "categories": [
         "game"
       ],
@@ -1102,7 +1100,7 @@
       "source": "AppMedia",
       "summary": "",
       "publishedAt": "2026-11-14T07:44:30.000Z",
-      "image": "https://appmedia.jp/wp-content/uploads/2023/03/125202_3l6dn.webp",
+      "image": "",
       "categories": [
         "web"
       ],
@@ -1593,6 +1591,26 @@
       "isNew": false
     },
     {
+      "id": "18c442dd9a7f",
+      "title": "『転スラ』そのキャラ出るの！第4期の第2クールPV解禁 OPはDaoko、EDは田所あずさ",
+      "url": "https://www.sanyonews.jp/article/1940746?kw",
+      "host": "sanyonews.jp",
+      "source": "山陽新聞",
+      "summary": "",
+      "publishedAt": "2026-11-13T18:10:09.000Z",
+      "image": "https://static.sanyonews.jp/image/article/size1/2/b/6/7/2b67db9eed80b704cb517b99fda49c2c_1.jpg",
+      "categories": [
+        "anime"
+      ],
+      "works": [
+        "tensura"
+      ],
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": true
+    },
+    {
       "id": "299970487651",
       "title": "『転スラ』衝撃の戦闘！封印の解かれたクロノア、破壊の化身に 第94話あらすじ＆場面カット解禁",
       "url": "https://www.sanyonews.jp/article/1985402?rct",
@@ -1961,6 +1979,24 @@
       "isNew": false
     },
     {
+      "id": "a4b1a18aa16b",
+      "title": "TVアニメ「異世界転生騒動記」PV第2弾より [画像・動画ギャラリー 25/27]",
+      "url": "https://natalie.mu/comic/gallery/news/697941/3017725",
+      "host": "natalie.mu",
+      "source": "ナタリー",
+      "summary": "",
+      "publishedAt": "2026-11-13T09:04:02.000Z",
+      "image": "",
+      "categories": [
+        "anime"
+      ],
+      "works": [],
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": true
+    },
+    {
       "id": "6e5851419482",
       "title": "TVアニメ「異世界転生騒動記」放送情報 [画像・動画ギャラリー 18/27]",
       "url": "https://natalie.mu/comic/gallery/news/697941/3017718",
@@ -1979,9 +2015,9 @@
       "isNew": false
     },
     {
-      "id": "9d10e2571c84",
-      "title": "TVアニメ「異世界転生騒動記」PV第2弾 [画像・動画ギャラリー 27/27]",
-      "url": "https://natalie.mu/comic/gallery/news/697941/media/144616",
+      "id": "d8f6e513471b",
+      "title": "TVアニメ「異世界転生騒動記」PV第2弾より [画像・動画ギャラリー 23/27]",
+      "url": "https://natalie.mu/comic/gallery/news/697941/3017723",
       "host": "natalie.mu",
       "source": "ナタリー",
       "summary": "",
@@ -1994,12 +2030,12 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": false
+      "isNew": true
     },
     {
-      "id": "3cbf42d919a7",
-      "title": "TVアニメ「異世界転生騒動記」主題歌情報 [画像・動画ギャラリー 17/27]",
-      "url": "https://natalie.mu/comic/gallery/news/697941/3017717",
+      "id": "9d10e2571c84",
+      "title": "TVアニメ「異世界転生騒動記」PV第2弾 [画像・動画ギャラリー 27/27]",
+      "url": "https://natalie.mu/comic/gallery/news/697941/media/144616",
       "host": "natalie.mu",
       "source": "ナタリー",
       "summary": "",
@@ -2510,6 +2546,24 @@
       "isNew": false
     },
     {
+      "id": "e746adf83297",
+      "title": "「手、柔らか…」俺の手を握った神官は次の瞬間、とんでもないモノを突き立てて！？『ニートだけどハロワにいったら異世界につれてかれた』【#12】",
+      "url": "https://hon-hikidashi.jp/book-person/218247/",
+      "host": "hon-hikidashi.jp",
+      "source": "ほんのひきだし",
+      "summary": "",
+      "publishedAt": "2026-11-12T10:15:48.000Z",
+      "image": "https://hon-hikidashi.jp/wp-content/uploads/2026/11/72ea58f3ccebb1dee0ebbe46790c9817-1.jpg",
+      "categories": [
+        "other"
+      ],
+      "works": [],
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": true
+    },
+    {
       "id": "7621f0a92607",
       "title": "『サッカー監督になろう ～ユースコーチから始まる監督人生～』のゲーム概要や公式発表の情報まとめ！長いキャリアを歩むサッカー育成シミュレーション",
       "url": "https://gamewith.jp/gamedb/19133/articles/65710",
@@ -2547,24 +2601,6 @@
       "viaGoogle": false,
       "sourceKind": "news",
       "isNew": false
-    },
-    {
-      "id": "cd0e708be830",
-      "title": "「すごく立派だと思うッ！」俺のことをストレートに褒める神官の言葉が恥ずかしくて…『ニートだけどハロワにいったら異世界につれてかれた』【#11】",
-      "url": "https://hon-hikidashi.jp/book-person/218210/",
-      "host": "hon-hikidashi.jp",
-      "source": "ほんのひきだし",
-      "summary": "",
-      "publishedAt": "2026-11-12T09:45:27.000Z",
-      "image": "https://hon-hikidashi.jp/wp-content/uploads/2026/11/72ea58f3ccebb1dee0ebbe46790c9817-1.jpg",
-      "categories": [
-        "other"
-      ],
-      "works": [],
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": true
     },
     {
       "id": "4101ca2e500a",
@@ -2729,6 +2765,27 @@
       "isNew": false
     },
     {
+      "id": "62f618d4fc2c",
+      "title": "TSUTAYA IP書店『SQUARE ENIX Official Goodsコーナー』ほかにて2026年11月20日(金)よりアニメ『薬屋のひとりごと』オフィシャルグッズ販売開始！！",
+      "url": "https://shibuyatsutaya.tsite.jp/article/2687.html",
+      "host": "shibuyatsutaya.tsite.jp",
+      "source": "SHIBUYA TSUTAYA",
+      "summary": "",
+      "publishedAt": "2026-11-12T08:00:00.000Z",
+      "image": "https://shibuyatsutaya.tsite.jp/menu_files/article/000/002/687/article_images/article_resize.kusuriya_KV.jpg",
+      "categories": [
+        "anime",
+        "goods"
+      ],
+      "works": [
+        "kusuriya"
+      ],
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": true
+    },
+    {
       "id": "2271828d75cb",
       "title": "【無職転生×モンスト】コラボイベント開催記念キャンペーンを実施！",
       "url": "https://www.monster-strike.com/news/20261112_3.html",
@@ -2796,7 +2853,7 @@
       "source": "AppMedia",
       "summary": "",
       "publishedAt": "2026-11-12T07:03:26.000Z",
-      "image": "",
+      "image": "https://appmedia.jp/wp-content/uploads/2025/07/170927_anxbk.webp",
       "categories": [
         "goods"
       ],
@@ -3001,26 +3058,6 @@
       ],
       "works": [
         "silent-witch"
-      ],
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": false
-    },
-    {
-      "id": "172170f60001",
-      "title": "壬氏が火傷メイクで変装！“従者スタイル”に「美しいいい」「火傷姿もイケメン」アニメ『薬屋のひとりごと』54話（ABEMA TIMES）",
-      "url": "https://news.yahoo.co.jp/articles/39f2d657eaf5239a1e05e9de52e0315bf193273c",
-      "host": "news.yahoo.co.jp",
-      "source": "Yahoo!ニュース",
-      "summary": "",
-      "publishedAt": "2026-11-11T10:54:16.000Z",
-      "image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20261111-10287807-abemad-000-1-view.jpg?exp=10800",
-      "categories": [
-        "anime"
-      ],
-      "works": [
-        "kusuriya"
       ],
       "isPR": false,
       "viaGoogle": false,
