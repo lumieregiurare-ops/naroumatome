@@ -1,18 +1,18 @@
 {
-  "updatedAt": "2026-11-14T11:30:20.527Z",
+  "updatedAt": "2026-11-14T12:00:18.330Z",
   "site": {
     "title": "なろう系まとめ",
     "tagline": "小説家になろう発の作品のアニメ化・コミカライズ・書籍化のニュースと、なろうのランキングをまとめています。",
     "url": "https://naroumatome.gamelab.website/",
     "contactUrl": "https://docs.google.com/forms/d/e/1FAIpQLSesWyhmZ6sRS_ve-c3X2KqF_wC5PK2TgwgQbTKmnQltSlg5Jw/viewform"
   },
-  "total": 107,
-  "todayCount": 35,
+  "total": 109,
+  "todayCount": 37,
   "categories": [
     {
       "id": "anime",
       "label": "アニメ",
-      "count": 64
+      "count": 66
     },
     {
       "id": "comic",
@@ -37,7 +37,7 @@
     {
       "id": "goods",
       "label": "グッズ・イベント",
-      "count": 25
+      "count": 26
     },
     {
       "id": "other",
@@ -62,7 +62,7 @@
       "id": "rezero",
       "title": "Re:ゼロから始める異世界生活",
       "short": "リゼロ",
-      "count": 3
+      "count": 4
     },
     {
       "id": "honzuki",
@@ -299,12 +299,12 @@
       "count": 16
     },
     {
-      "name": "GameWith",
+      "name": "ナタリー",
       "count": 9
     },
     {
-      "name": "ナタリー",
-      "count": 8
+      "name": "GameWith",
+      "count": 9
     },
     {
       "name": "山陽新聞",
@@ -312,7 +312,7 @@
     },
     {
       "name": "アニメ！アニメ！",
-      "count": 7
+      "count": 6
     },
     {
       "name": "ラノベニュースオンライン",
@@ -320,6 +320,10 @@
     },
     {
       "name": "AppMedia",
+      "count": 3
+    },
+    {
+      "name": "ABEMA",
       "count": 3
     },
     {
@@ -331,11 +335,11 @@
       "count": 3
     },
     {
-      "name": "千葉テレビ放送",
-      "count": 2
+      "name": "Infoseek",
+      "count": 3
     },
     {
-      "name": "ABEMA",
+      "name": "千葉テレビ放送",
       "count": 2
     },
     {
@@ -352,10 +356,6 @@
     },
     {
       "name": "PR TIMES",
-      "count": 2
-    },
-    {
-      "name": "Infoseek",
       "count": 2
     },
     {
@@ -517,17 +517,17 @@
           "isPR": false
         },
         {
+          "title": "TVアニメ「無職転生 ～異世界行ったら本気だす～」×モンスト初コラボを11月15日（日）12：00より開催！",
+          "url": "https://news.infoseek.co.jp/article/prtimes_000000896_000025121/",
+          "source": "Infoseek",
+          "publishedAt": "2026-11-12T11:15:23.000Z",
+          "isPR": false
+        },
+        {
           "title": "『モンスト』と『無職転生』が初コラボ！ ルーデウス・ロキシー・エリスが獣神化＆フィッツはパックで入手可能",
           "url": "https://dengekionline.com/article/202611/93872",
           "source": "電撃オンライン",
           "publishedAt": "2026-11-12T09:30:00.000Z",
-          "isPR": false
-        },
-        {
-          "title": "TVアニメ「無職転生 ～異世界行ったら本気だす～」×モンスト初コラボを11月15日（日）12：00より開催！",
-          "url": "https://animeanime.jp/release/prtimes/20261112/326544.html",
-          "source": "アニメ！アニメ！",
-          "publishedAt": "2026-11-12T08:46:47.000Z",
           "isPR": false
         },
         {
@@ -966,13 +966,54 @@
     }
   ],
   "churn": {
-    "previousAt": "2026-11-14T11:00:16.962Z",
+    "previousAt": "2026-11-14T11:30:20.527Z",
     "previousCount": 107,
-    "newCount": 4
+    "newCount": 2
   },
   "updateGapMin": 30,
-  "nextUpdateAt": "2026-11-14T12:00:20.527Z",
+  "nextUpdateAt": "2026-11-14T12:30:18.330Z",
   "items": [
+    {
+      "id": "eecf71fa228d",
+      "title": "【まおりゅう】ガチャはどれを引くべき？【転スラ】",
+      "url": "https://appmedia.jp/ten-sura-m/27053896",
+      "host": "appmedia.jp",
+      "source": "AppMedia",
+      "summary": "",
+      "publishedAt": "2026-11-14T11:52:28.000Z",
+      "image": "https://appmedia.jp/wp-content/uploads/2023/03/145410_zm20o.webp",
+      "categories": [
+        "game"
+      ],
+      "works": [
+        "tensura"
+      ],
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": false
+    },
+    {
+      "id": "20877750f2e5",
+      "title": "「リゼロ」10周年イベントに小林裕介らキャスト集結 高橋李依のサプライズライブも（イベントレポート）",
+      "url": "https://natalie.mu/comic/news/698058",
+      "host": "natalie.mu",
+      "source": "ナタリー",
+      "summary": "",
+      "publishedAt": "2026-11-14T11:42:00.000Z",
+      "image": "",
+      "categories": [
+        "anime",
+        "goods"
+      ],
+      "works": [
+        "rezero"
+      ],
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": true
+    },
     {
       "id": "0f37b66f127f",
       "title": "【まおりゅう】最強戦闘キャラランキング｜最新Tier表【転スラ】",
@@ -1044,26 +1085,6 @@
         "anime"
       ],
       "works": [],
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": false
-    },
-    {
-      "id": "eecf71fa228d",
-      "title": "【まおりゅう】ガチャはどれを引くべき？【転スラ】",
-      "url": "https://appmedia.jp/ten-sura-m/27053896",
-      "host": "appmedia.jp",
-      "source": "AppMedia",
-      "summary": "",
-      "publishedAt": "2026-11-14T08:47:28.000Z",
-      "image": "https://appmedia.jp/wp-content/uploads/2023/03/145410_zm20o.webp",
-      "categories": [
-        "game"
-      ],
-      "works": [
-        "tensura"
-      ],
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
@@ -1323,7 +1344,7 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "2b3b075e652f",
@@ -1667,6 +1688,24 @@
       "isNew": false
     },
     {
+      "id": "42e2db9f677d",
+      "title": "異世界転生騒動記 (アニメ) | 無料動画・見逃し配信を見るなら",
+      "url": "https://abema.tv/video/title/564-19",
+      "host": "abema.tv",
+      "source": "ABEMA",
+      "summary": "",
+      "publishedAt": "2026-11-13T15:00:51.000Z",
+      "image": "",
+      "categories": [
+        "anime"
+      ],
+      "works": [],
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": true
+    },
+    {
       "id": "ee237dc8ed84",
       "title": "アニメ『薬屋のひとりごと』3期はいつから？2026年10月2日から分割2クールで放送！原作のどこからどこまで？",
       "url": "https://times.abema.tv/articles/-/10078716",
@@ -1970,7 +2009,7 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "6e5851419482",
@@ -2024,7 +2063,7 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "52ee9830cc09",
@@ -2501,6 +2540,27 @@
       "isNew": false
     },
     {
+      "id": "54e12bc89e73",
+      "title": "TVアニメ「無職転生 ～異世界行ったら本気だす～」×モンスト初コラボを11月15日（日）12：00より開催！",
+      "url": "https://news.infoseek.co.jp/article/prtimes_000000896_000025121/",
+      "host": "news.infoseek.co.jp",
+      "source": "Infoseek",
+      "summary": "",
+      "publishedAt": "2026-11-12T11:15:23.000Z",
+      "image": "https://media.image.infoseek.co.jp/isnews/pc/img/noimage_203x120_busi-econ-1.0.png",
+      "categories": [
+        "anime",
+        "game"
+      ],
+      "works": [
+        "mushoku"
+      ],
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": false
+    },
+    {
       "id": "e746adf83297",
       "title": "「手、柔らか…」俺の手を握った神官は次の瞬間、とんでもないモノを突き立てて！？『ニートだけどハロワにいったら異世界につれてかれた』【#12】",
       "url": "https://hon-hikidashi.jp/book-person/218247/",
@@ -2659,27 +2719,6 @@
       "isNew": false
     },
     {
-      "id": "54e12bc89e73",
-      "title": "TVアニメ「無職転生 ～異世界行ったら本気だす～」×モンスト初コラボを11月15日（日）12：00より開催！",
-      "url": "https://animeanime.jp/release/prtimes/20261112/326544.html",
-      "host": "animeanime.jp",
-      "source": "アニメ！アニメ！",
-      "summary": "",
-      "publishedAt": "2026-11-12T08:46:47.000Z",
-      "image": "https://animeanime.jp/release/imgs/list/573055.png",
-      "categories": [
-        "anime",
-        "game"
-      ],
-      "works": [
-        "mushoku"
-      ],
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": false
-    },
-    {
       "id": "2344b8e8b49a",
       "title": "「モンスト」でアニメ「無職転生 ～異世界行ったら本気だす～」とのコラボが11月15日12時より開催！ルーデウス、ロキシー、エリスたちがガチャに登場",
       "url": "https://www.gamer.ne.jp/news/202611120050/",
@@ -2758,7 +2797,7 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "62f618d4fc2c",
