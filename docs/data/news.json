@@ -1,18 +1,18 @@
 {
-  "updatedAt": "2026-11-15T23:30:19.971Z",
+  "updatedAt": "2026-11-15T23:56:41.544Z",
   "site": {
     "title": "なろう系まとめ",
     "tagline": "小説家になろう発の作品のアニメ化・コミカライズ・書籍化のニュースと、なろうのランキングをまとめています。",
     "url": "https://naroumatome.gamelab.website/",
     "contactUrl": "https://docs.google.com/forms/d/e/1FAIpQLSesWyhmZ6sRS_ve-c3X2KqF_wC5PK2TgwgQbTKmnQltSlg5Jw/viewform"
   },
-  "total": 120,
-  "todayCount": 7,
+  "total": 119,
+  "todayCount": 8,
   "categories": [
     {
       "id": "anime",
       "label": "アニメ",
-      "count": 78
+      "count": 77
     },
     {
       "id": "comic",
@@ -27,7 +27,7 @@
     {
       "id": "web",
       "label": "Web小説・賞",
-      "count": 5
+      "count": 4
     },
     {
       "id": "game",
@@ -50,13 +50,13 @@
       "id": "tensura",
       "title": "転生したらスライムだった件",
       "short": "転スラ",
-      "count": 8
+      "count": 9
     },
     {
       "id": "mushoku",
       "title": "無職転生 ～異世界行ったら本気だす～",
       "short": "無職転生",
-      "count": 19
+      "count": 18
     },
     {
       "id": "rezero",
@@ -299,12 +299,12 @@
       "count": 13
     },
     {
-      "name": "ナタリー",
-      "count": 13
+      "name": "山陽新聞",
+      "count": 12
     },
     {
-      "name": "山陽新聞",
-      "count": 11
+      "name": "ナタリー",
+      "count": 12
     },
     {
       "name": "アニメ！アニメ！",
@@ -317,10 +317,6 @@
     {
       "name": "ラノベニュースオンライン",
       "count": 5
-    },
-    {
-      "name": "WEBザテレビジョン",
-      "count": 4
     },
     {
       "name": "ニコニコニュース",
@@ -336,6 +332,10 @@
     },
     {
       "name": "電撃オンライン",
+      "count": 3
+    },
+    {
+      "name": "WEBザテレビジョン",
       "count": 3
     },
     {
@@ -862,7 +862,7 @@
       "leadSource": "山陽新聞",
       "publishedAt": "2026-11-15T20:54:07.000Z",
       "sourceCount": 2,
-      "articleCount": 4,
+      "articleCount": 3,
       "categories": [
         "anime",
         "game"
@@ -874,17 +874,10 @@
       ],
       "articles": [
         {
-          "title": "『転スラ』夜明けの勇者グラン！リムルはルミナスから誘われる 第88話あらすじ＆場面カット解禁",
-          "url": "https://www.sanyonews.jp/article/1958264",
+          "title": "『転スラ』ディアブロ、旧知の３人の悪魔を訪ねる 第86話あらすじ＆場面カット公開",
+          "url": "https://www.sanyonews.jp/article/1950779?rct",
           "source": "山陽新聞",
-          "publishedAt": "2026-11-15T09:17:53.000Z",
-          "isPR": false
-        },
-        {
-          "title": "『転スラ』リムル様、大忙し！ラミリスから緊急連絡 尊いミリムの表情…第84話あらすじ＆場面カット解禁",
-          "url": "https://www.sanyonews.jp/article/1942798",
-          "source": "山陽新聞",
-          "publishedAt": "2026-11-15T09:16:16.000Z",
+          "publishedAt": "2026-11-15T10:19:11.000Z",
           "isPR": false
         },
         {
@@ -989,12 +982,12 @@
     }
   ],
   "churn": {
-    "previousAt": "2026-11-15T23:00:17.234Z",
+    "previousAt": "2026-11-15T23:30:19.971Z",
     "previousCount": 120,
-    "newCount": 4
+    "newCount": 2
   },
   "updateGapMin": 30,
-  "nextUpdateAt": "2026-11-16T00:00:19.971Z",
+  "nextUpdateAt": "2026-11-16T00:26:41.544Z",
   "items": [
     {
       "id": "4d8362e98ec4",
@@ -1014,7 +1007,7 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "b8d989b2cece",
@@ -1097,6 +1090,26 @@
       "viaGoogle": false,
       "sourceKind": "news",
       "isNew": false
+    },
+    {
+      "id": "18c442dd9a7f",
+      "title": "『転スラ』そのキャラ出るの！第4期の第2クールPV解禁 OPはDaoko、EDは田所あずさ",
+      "url": "https://www.sanyonews.jp/article/1940746?kw",
+      "host": "sanyonews.jp",
+      "source": "山陽新聞",
+      "summary": "",
+      "publishedAt": "2026-11-15T16:19:52.000Z",
+      "image": "https://static.sanyonews.jp/image/article/size1/2/b/6/7/2b67db9eed80b704cb517b99fda49c2c_1.jpg",
+      "categories": [
+        "anime"
+      ],
+      "works": [
+        "tensura"
+      ],
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": true
     },
     {
       "id": "3602222e245b",
@@ -1237,6 +1250,26 @@
       "viaGoogle": false,
       "sourceKind": "news",
       "isNew": false
+    },
+    {
+      "id": "1ed9418c4ddb",
+      "title": "『転スラ』ディアブロ、旧知の３人の悪魔を訪ねる 第86話あらすじ＆場面カット公開",
+      "url": "https://www.sanyonews.jp/article/1950779?rct",
+      "host": "sanyonews.jp",
+      "source": "山陽新聞",
+      "summary": "",
+      "publishedAt": "2026-11-15T10:19:11.000Z",
+      "image": "https://static.sanyonews.jp/image/article/size1/0/4/9/3/04933a1621737fd3123efb4b1ebc5fc9_1.jpg",
+      "categories": [
+        "anime"
+      ],
+      "works": [
+        "tensura"
+      ],
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": true
     },
     {
       "id": "9af157a85cd2",
@@ -1397,7 +1430,7 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "3001176857af",
@@ -2153,7 +2186,7 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "eecf71fa228d",
@@ -2265,27 +2298,6 @@
       ],
       "works": [
         "kusuriya"
-      ],
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": false
-    },
-    {
-      "id": "af7c881d3c65",
-      "title": "2026年、新作夏アニメのABEMA最終ランキングを発表「無職転生3」が再生数・コメント数の両部門で1位を獲得",
-      "url": "https://thetv.jp/news/detail/1453469/19013242/",
-      "host": "thetv.jp",
-      "source": "WEBザテレビジョン",
-      "summary": "",
-      "publishedAt": "2026-11-14T02:53:55.000Z",
-      "image": "https://thetv.jp/i/nw/1453469/19013242.jpg?w=1284",
-      "categories": [
-        "anime",
-        "web"
-      ],
-      "works": [
-        "mushoku"
       ],
       "isPR": false,
       "viaGoogle": false,
@@ -2572,24 +2584,6 @@
       "isNew": false
     },
     {
-      "id": "9d10e2571c84",
-      "title": "TVアニメ「異世界転生騒動記」PV第2弾 [画像・動画ギャラリー 27/27]",
-      "url": "https://natalie.mu/comic/gallery/news/697941/media/144616?ref",
-      "host": "natalie.mu",
-      "source": "ナタリー",
-      "summary": "",
-      "publishedAt": "2026-11-13T13:04:25.000Z",
-      "image": "",
-      "categories": [
-        "anime"
-      ],
-      "works": [],
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": false
-    },
-    {
       "id": "96e7f333b760",
       "title": "TVアニメ「無職転生III",
       "url": "https://news.nicovideo.jp/watch/nw19990078?news_ref",
@@ -2816,24 +2810,6 @@
       "isNew": false
     },
     {
-      "id": "8670cf414ac3",
-      "title": "TVアニメ「異世界転生騒動記」の出演キャスト [画像・動画ギャラリー 2/27]",
-      "url": "https://natalie.mu/comic/gallery/news/697941/3017710",
-      "host": "natalie.mu",
-      "source": "ナタリー",
-      "summary": "",
-      "publishedAt": "2026-11-13T09:04:02.000Z",
-      "image": "",
-      "categories": [
-        "anime"
-      ],
-      "works": [],
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": true
-    },
-    {
       "id": "6e5851419482",
       "title": "TVアニメ「異世界転生騒動記」放送情報 [画像・動画ギャラリー 18/27]",
       "url": "https://natalie.mu/comic/gallery/news/697941/3017718",
@@ -2855,6 +2831,24 @@
       "id": "0e0bc95ff39f",
       "title": "TVアニメ「異世界転生騒動記」PV第2弾サムネイル [画像・動画ギャラリー 19/27]",
       "url": "https://natalie.mu/comic/gallery/news/697941/3017719",
+      "host": "natalie.mu",
+      "source": "ナタリー",
+      "summary": "",
+      "publishedAt": "2026-11-13T09:04:01.000Z",
+      "image": "",
+      "categories": [
+        "anime"
+      ],
+      "works": [],
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": false
+    },
+    {
+      "id": "9d10e2571c84",
+      "title": "TVアニメ「異世界転生騒動記」PV第2弾 [画像・動画ギャラリー 27/27]",
+      "url": "https://natalie.mu/comic/gallery/news/697941/media/144616",
       "host": "natalie.mu",
       "source": "ナタリー",
       "summary": "",
@@ -2958,26 +2952,6 @@
         "book"
       ],
       "works": [],
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": false
-    },
-    {
-      "id": "597aeb0ae593",
-      "title": "『転スラ』クロエとヒナタ、暴風竜に戦いを挑む 【勇者クロノア・後編】第93話あらすじ＆場面カット解禁",
-      "url": "https://www.sanyonews.jp/photo/detail?article_id",
-      "host": "sanyonews.jp",
-      "source": "山陽新聞",
-      "summary": "",
-      "publishedAt": "2026-11-13T08:00:00.000Z",
-      "image": "",
-      "categories": [
-        "anime"
-      ],
-      "works": [
-        "tensura"
-      ],
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
@@ -3090,7 +3064,7 @@
       "host": "collabo-cafe.com",
       "source": "コラボカフェ",
       "summary": "",
-      "publishedAt": "2026-11-13T07:07:30.000Z",
+      "publishedAt": "2026-11-13T07:08:55.000Z",
       "image": "https://collabo-cafe.com/wp-content/uploads/086711674d70f7e953b3416296c989a7-279.jpg",
       "categories": [
         "anime",
