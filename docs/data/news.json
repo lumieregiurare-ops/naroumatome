@@ -1,18 +1,18 @@
 {
-  "updatedAt": "2026-11-15T01:00:19.987Z",
+  "updatedAt": "2026-11-15T01:30:19.028Z",
   "site": {
     "title": "なろう系まとめ",
     "tagline": "小説家になろう発の作品のアニメ化・コミカライズ・書籍化のニュースと、なろうのランキングをまとめています。",
     "url": "https://naroumatome.gamelab.website/",
     "contactUrl": "https://docs.google.com/forms/d/e/1FAIpQLSesWyhmZ6sRS_ve-c3X2KqF_wC5PK2TgwgQbTKmnQltSlg5Jw/viewform"
   },
-  "total": 125,
+  "total": 127,
   "todayCount": 14,
   "categories": [
     {
       "id": "anime",
       "label": "アニメ",
-      "count": 78
+      "count": 79
     },
     {
       "id": "comic",
@@ -42,7 +42,7 @@
     {
       "id": "other",
       "label": "そのほか",
-      "count": 21
+      "count": 22
     }
   ],
   "works": [
@@ -62,7 +62,7 @@
       "id": "rezero",
       "title": "Re:ゼロから始める異世界生活",
       "short": "リゼロ",
-      "count": 22
+      "count": 23
     },
     {
       "id": "honzuki",
@@ -300,7 +300,7 @@
     },
     {
       "name": "ナタリー",
-      "count": 11
+      "count": 12
     },
     {
       "name": "GameWith",
@@ -349,6 +349,10 @@
     {
       "name": "ニコニコニュース",
       "count": 3
+    },
+    {
+      "name": "おた☆スケ",
+      "count": 2
     },
     {
       "name": "玩具人 TOY PEOPLE",
@@ -439,10 +443,6 @@
       "count": 1
     },
     {
-      "name": "おた☆スケ",
-      "count": 1
-    },
-    {
       "name": "日本経済新聞",
       "count": 1
     },
@@ -485,30 +485,44 @@
   ],
   "topics": [
     {
-      "id": "46bb166907eb",
-      "title": "【リゼロ5期】アニメ『Re:ゼロから始める異世界生活』5th seasonが製作決定！ スバルとレムが新たな冒険へ旅立つ姿を描いたウルトラティザービジュアルも公開",
+      "id": "e88f1c4b2f04",
+      "title": "「Re:ゼロから始める異世界生活」5th season 製作決定。ビジュアル",
       "summary": "",
-      "url": "https://www.pashplus.jp/anime/503122/",
-      "image": "https://www.pashplus.jp/wp-content/uploads/32b9c4b704c1995f0b7d7d499d5b1c29.jpg",
-      "leadSource": "PASH! PLUS",
-      "publishedAt": "2026-11-14T23:47:36.000Z",
-      "sourceCount": 5,
-      "articleCount": 7,
+      "url": "https://www.ota-suke.jp/news/292763",
+      "image": "http://www.ota-suke.jp/images/editor/tak/image2026/1115_06.webp",
+      "leadSource": "おた☆スケ",
+      "publishedAt": "2026-11-15T01:20:00.000Z",
+      "sourceCount": 10,
+      "articleCount": 13,
       "categories": [
-        "anime",
-        "other"
+        "other",
+        "anime"
       ],
       "keywords": [
-        "season",
-        "異世界生活",
-        "製作決定"
+        "ビジュアル",
+        "リゼロ",
+        "season"
       ],
       "articles": [
+        {
+          "title": "【リゼロ5期】アニメ『Re:ゼロから始める異世界生活』5th seasonが製作決定！ スバルとレムが新たな冒険へ旅立つ姿を描いたウルトラティザービジュアルも公開",
+          "url": "https://www.pashplus.jp/anime/503122/",
+          "source": "PASH! PLUS",
+          "publishedAt": "2026-11-14T23:47:36.000Z",
+          "isPR": false
+        },
         {
           "title": "アニメ『Re：ゼロから始める異世界生活 5th season』製作決定",
           "url": "https://ln-news.com/articles/127211",
           "source": "ラノベニュースオンライン",
           "publishedAt": "2026-11-14T23:00:00.000Z",
+          "isPR": false
+        },
+        {
+          "title": "「リゼロ」アニメ第5期制作決定 ビジュアルも公開 | スマートニュース",
+          "url": "https://news.google.com/rss/articles/CBMigANBVV95cUxPbUlmVHhUSlhKdVoySmhUSzdIOG80LVZYaFV2N1BfSVoxeVZoMkMwU1gxQWF5SmlrVXFtd2dnX1RHa0hSSkI0b0xFNDJCMHdCcnZaajJPc01Pc09PZW1PSC1UczJWRHF5M1ZoYVRFcEVhQkxlaWdtQ2JkT1pRRWZNd3VEWUJQZjNJSDd1cVNBdE5nNzQzYlN6dVlJMkxLRHFUOXJFcnpfeHl6ajRaZDlUT1pXdUFoR21pc1dwd1JHa2NiZE1EeUI0ZXJrRVJScGVkRE1NblpwdEMtT3dBQzUxb0RYbHpPbG9YZVBfM055NXdmQVFpbklKc0hXQXBMZTJabzI3blIxWnJyWDBoeTJCaEI0VjRLRzVoWW5Vb2dheFpDdlkwSU1yVHJEdnpfR0tlcUVNdjl2SUNGbjB5MmRTakhvdXdyV2g3WWlBb1dmcDBLVVBIM05sUFpmaTQ0NGVqYXk4YnBvMjR2c3dETE5YNEZibnhpeXd1bVRSRi1FbC0?oc=5",
+          "source": "SmartNews",
+          "publishedAt": "2026-11-14T15:07:00.000Z",
           "isPR": false
         },
         {
@@ -533,17 +547,81 @@
           "isPR": false
         },
         {
-          "title": "アニメ『Re:ゼロから始める異世界生活』5th seasonが製作決定。ウルトラティザービジュアルと原作者長月達平のコメントが到着",
-          "url": "https://www.famitsu.com/article/202611/94048",
-          "source": "ファミ通",
+          "title": "リゼロ＞テレビアニメ第5期制作決定 ビジュアルに旅立つスバルとレム 「君のためなら、何度でも。」（MANTANWEB）",
+          "url": "https://news.yahoo.co.jp/articles/8e1dc71fabc76869874d186f10e5b4f89fc6fe93",
+          "source": "Yahoo!ニュース",
           "publishedAt": "2026-11-14T12:00:00.000Z",
           "isPR": false
         },
         {
-          "title": "「Re:ゼロから始める異世界生活」5th seasonが製作決定、ウルトラティザービジュアル公開（コメントあり）",
-          "url": "https://natalie.mu/comic/news/698061",
-          "source": "ナタリー",
+          "title": "『リゼロ』第5期制作決定 物語を示唆するウルトラティザービジュアルが公開（オリコン）",
+          "url": "https://news.yahoo.co.jp/articles/fd8f6ca64001fa5e65d52c0787bb2c8f57006636",
+          "source": "Yahoo!ニュース",
           "publishedAt": "2026-11-14T12:00:00.000Z",
+          "isPR": false
+        }
+      ]
+    },
+    {
+      "id": "9999d48e56d6",
+      "title": "『無職転生～異世界行ったら本気だす～』幸せなひと時をイメージしたロキシー・ミグルディア・グレイラット1／7スケールフィギュアが2027年6月発売",
+      "summary": "",
+      "url": "https://ln-news.com/articles/127184",
+      "image": "https://assets.ln-news.com/images/medias/0392b681be9242a0b4157edba167e891.jpg",
+      "leadSource": "ラノベニュースオンライン",
+      "publishedAt": "2026-11-13T23:00:00.000Z",
+      "sourceCount": 7,
+      "articleCount": 7,
+      "categories": [
+        "goods",
+        "anime"
+      ],
+      "keywords": [
+        "無職転生",
+        "ロキシー",
+        "異世界行"
+      ],
+      "articles": [
+        {
+          "title": "コトブキヤ『無職転生III ～異世界行ったら本気だす～』ロキシー・ミグルディア・グレイラット 1/7スケールフィギュアが登場！グレイラット家の“青髪ママ”を立体化",
+          "url": "https://www.toy-people.com/jp/?p",
+          "source": "玩具人 TOY PEOPLE",
+          "publishedAt": "2026-11-13T14:41:33.000Z",
+          "isPR": false
+        },
+        {
+          "title": "TVアニメ「無職転生III ～異世界行ったら本気だす～」ロキシーの存在感をその背に感じられる「フルカラーMA-1ジャケット」など新グッズが二次元コスパから登場！【株式会社コスパ】 - PR TIMES",
+          "url": "https://animeanime.jp/release/prtimes/20261113/326799.html",
+          "source": "アニメ！アニメ！",
+          "publishedAt": "2026-11-13T03:30:00.000Z",
+          "isPR": false
+        },
+        {
+          "title": "TVアニメ「無職転生 ～異世界行ったら本気だす～」×モンスト初コラボを11月15日（日）12：00より開催！",
+          "url": "https://news.infoseek.co.jp/article/prtimes_000000896_000025121/",
+          "source": "Infoseek",
+          "publishedAt": "2026-11-12T11:15:23.000Z",
+          "isPR": false
+        },
+        {
+          "title": "『モンスト』と『無職転生』が初コラボ！ ルーデウス・ロキシー・エリスが獣神化＆フィッツはパックで入手可能",
+          "url": "https://dengekionline.com/article/202611/93872",
+          "source": "電撃オンライン",
+          "publishedAt": "2026-11-12T09:30:00.000Z",
+          "isPR": false
+        },
+        {
+          "title": "「モンスト」でアニメ「無職転生 ～異世界行ったら本気だす～」とのコラボが11月15日12時より開催！ルーデウス、ロキシー、エリスたちがガチャに登場",
+          "url": "https://www.gamer.ne.jp/news/202611120050/",
+          "source": "Gamer",
+          "publishedAt": "2026-11-12T08:35:00.000Z",
+          "isPR": false
+        },
+        {
+          "title": "「無職転生」との初コラボが開催決定！超究極にはオルステッドが登場！【11/12情報まとめ】",
+          "url": "https://appmedia.jp/monst/80558395",
+          "source": "AppMedia",
+          "publishedAt": "2026-11-12T07:03:26.000Z",
           "isPR": false
         }
       ]
@@ -608,91 +686,6 @@
           "url": "https://news.yahoo.co.jp/articles/24866684027845db1e594299a659be64545734ff",
           "source": "Yahoo!ニュース",
           "publishedAt": "2026-11-12T09:00:36.000Z",
-          "isPR": false
-        }
-      ]
-    },
-    {
-      "id": "95b109350b6f",
-      "title": "コトブキヤ『無職転生III ～異世界行ったら本気だす～』ロキシー・ミグルディア・グレイラット 1/7スケールフィギュアが登場！グレイラット家の“青髪ママ”を立体化",
-      "summary": "",
-      "url": "https://www.toy-people.com/jp/?p",
-      "image": "https://assets.ln-news.com/images/medias/0392b681be9242a0b4157edba167e891.jpg",
-      "leadSource": "玩具人 TOY PEOPLE",
-      "publishedAt": "2026-11-14T23:19:19.000Z",
-      "sourceCount": 4,
-      "articleCount": 4,
-      "categories": [
-        "goods",
-        "anime"
-      ],
-      "keywords": [
-        "無職転生",
-        "iii",
-        "ロキシー"
-      ],
-      "articles": [
-        {
-          "title": "『無職転生～異世界行ったら本気だす～』幸せなひと時をイメージしたロキシー・ミグルディア・グレイラット1／7スケールフィギュアが2027年6月発売",
-          "url": "https://ln-news.com/articles/127184",
-          "source": "ラノベニュースオンライン",
-          "publishedAt": "2026-11-13T23:00:00.000Z",
-          "isPR": false
-        },
-        {
-          "title": "TVアニメ「無職転生III",
-          "url": "https://news.nicovideo.jp/watch/nw19990078?news_ref",
-          "source": "ニコニコニュース",
-          "publishedAt": "2026-11-13T12:21:34.000Z",
-          "isPR": false
-        },
-        {
-          "title": "TVアニメ「無職転生III ～異世界行ったら本気だす～」ロキシーの存在感をその背に感じられる「フルカラーMA-1ジャケット」など新グッズが二次元コスパから登場！【株式会社コスパ】 - PR TIMES",
-          "url": "https://animeanime.jp/release/prtimes/20261113/326799.html",
-          "source": "アニメ！アニメ！",
-          "publishedAt": "2026-11-13T03:30:00.000Z",
-          "isPR": false
-        }
-      ]
-    },
-    {
-      "id": "65f90a335f20",
-      "title": "「リゼロ」アニメ第5期制作決定 ビジュアルも公開 | スマートニュース",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMigANBVV95cUxPbUlmVHhUSlhKdVoySmhUSzdIOG80LVZYaFV2N1BfSVoxeVZoMkMwU1gxQWF5SmlrVXFtd2dnX1RHa0hSSkI0b0xFNDJCMHdCcnZaajJPc01Pc09PZW1PSC1UczJWRHF5M1ZoYVRFcEVhQkxlaWdtQ2JkT1pRRWZNd3VEWUJQZjNJSDd1cVNBdE5nNzQzYlN6dVlJMkxLRHFUOXJFcnpfeHl6ajRaZDlUT1pXdUFoR21pc1dwd1JHa2NiZE1EeUI0ZXJrRVJScGVkRE1NblpwdEMtT3dBQzUxb0RYbHpPbG9YZVBfM055NXdmQVFpbklKc0hXQXBMZTJabzI3blIxWnJyWDBoeTJCaEI0VjRLRzVoWW5Vb2dheFpDdlkwSU1yVHJEdnpfR0tlcUVNdjl2SUNGbjB5MmRTakhvdXdyV2g3WWlBb1dmcDBLVVBIM05sUFpmaTQ0NGVqYXk4YnBvMjR2c3dETE5YNEZibnhpeXd1bVRSRi1FbC0?oc=5",
-      "image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20261114-00000066-mantan-000-1-view.jpg?exp=10800",
-      "leadSource": "SmartNews",
-      "publishedAt": "2026-11-14T15:07:00.000Z",
-      "sourceCount": 4,
-      "articleCount": 4,
-      "categories": [
-        "anime"
-      ],
-      "keywords": [
-        "リゼロ",
-        "ビジュアル",
-        "期制作決定"
-      ],
-      "articles": [
-        {
-          "title": "リゼロ＞テレビアニメ第5期制作決定 ビジュアルに旅立つスバルとレム 「君のためなら、何度でも。」（MANTANWEB）",
-          "url": "https://news.yahoo.co.jp/articles/8e1dc71fabc76869874d186f10e5b4f89fc6fe93",
-          "source": "Yahoo!ニュース",
-          "publishedAt": "2026-11-14T12:00:00.000Z",
-          "isPR": false
-        },
-        {
-          "title": "＜リゼロ＞テレビアニメ第5期制作決定 ビジュアルに旅立つスバルとレム 「君のためなら、何度でも。」",
-          "url": "https://t.co/kS8EU1bqO8",
-          "source": "Howl.Link",
-          "publishedAt": "2026-11-14T12:00:00.000Z",
-          "isPR": false
-        },
-        {
-          "title": "リゼロ：テレビアニメ第5期制作決定 ビジュアルに旅立つスバルとレム 「君のためなら、何度でも。」",
-          "url": "https://mantan-web.jp/article/20261114dog00m200018000a.html",
-          "source": "Mantan Web",
-          "publishedAt": "2026-11-14T12:00:00.000Z",
           "isPR": false
         }
       ]
@@ -778,49 +771,6 @@
           "url": "https://www.nikkei.com/nkd/disclosure/tdnr/20261113579585/",
           "source": "日本経済新聞",
           "publishedAt": "2026-11-13T09:30:00.000Z",
-          "isPR": false
-        }
-      ]
-    },
-    {
-      "id": "54e12bc89e73",
-      "title": "TVアニメ「無職転生 ～異世界行ったら本気だす～」×モンスト初コラボを11月15日（日）12：00より開催！",
-      "summary": "",
-      "url": "https://news.infoseek.co.jp/article/prtimes_000000896_000025121/",
-      "image": "https://media.image.infoseek.co.jp/isnews/pc/img/noimage_203x120_busi-econ-1.0.png",
-      "leadSource": "Infoseek",
-      "publishedAt": "2026-11-12T11:15:23.000Z",
-      "sourceCount": 4,
-      "articleCount": 4,
-      "categories": [
-        "anime",
-        "game"
-      ],
-      "keywords": [
-        "無職転生",
-        "コラボ",
-        "モンスト"
-      ],
-      "articles": [
-        {
-          "title": "『モンスト』と『無職転生』が初コラボ！ ルーデウス・ロキシー・エリスが獣神化＆フィッツはパックで入手可能",
-          "url": "https://dengekionline.com/article/202611/93872",
-          "source": "電撃オンライン",
-          "publishedAt": "2026-11-12T09:30:00.000Z",
-          "isPR": false
-        },
-        {
-          "title": "「モンスト」でアニメ「無職転生 ～異世界行ったら本気だす～」とのコラボが11月15日12時より開催！ルーデウス、ロキシー、エリスたちがガチャに登場",
-          "url": "https://www.gamer.ne.jp/news/202611120050/",
-          "source": "Gamer",
-          "publishedAt": "2026-11-12T08:35:00.000Z",
-          "isPR": false
-        },
-        {
-          "title": "「無職転生」との初コラボが開催決定！超究極にはオルステッドが登場！【11/12情報まとめ】",
-          "url": "https://appmedia.jp/monst/80558395",
-          "source": "AppMedia",
-          "publishedAt": "2026-11-12T07:03:26.000Z",
           "isPR": false
         }
       ]
@@ -1030,16 +980,106 @@
           "isPR": false
         }
       ]
+    },
+    {
+      "id": "a433acb43de8",
+      "title": "アニメ『Re:ゼロから始める異世界生活 4th season』はどこで見れる？サブスク・配信サービスを全調査 | VODB! by チバテレ",
+      "summary": "",
+      "url": "https://www.chiba-tv.com/vod-db/rezero-s4-anime/",
+      "image": "https://www.chiba-tv.com/vod-db/wp-content/uploads/2026/06/eyecatch_rezero-4th-anime.png",
+      "leadSource": "千葉テレビ放送",
+      "publishedAt": "2026-11-14T13:10:19.000Z",
+      "sourceCount": 2,
+      "articleCount": 4,
+      "categories": [
+        "anime",
+        "other"
+      ],
+      "keywords": [
+        "vodb",
+        "サブスク",
+        "サービス"
+      ],
+      "articles": [
+        {
+          "title": "アニメ『本好きの下剋上 領主の養女』はどこで見れる？サブスク・配信サービスを全調査 | VODB! by チバテレ",
+          "url": "https://www.chiba-tv.com/vod-db/honzuki-s4-anime/",
+          "source": "千葉テレビ放送",
+          "publishedAt": "2026-11-14T13:10:11.000Z",
+          "isPR": false
+        },
+        {
+          "title": "『本好きの下剋上 領主の養女』が描く成長と切なさ――本を愛するマインが夢と引き換えに手放したもの【松井玲奈】",
+          "url": "https://jmagazine.myjcom.jp/category/anime/post001907/",
+          "source": "J:magazine!",
+          "publishedAt": "2026-11-12T18:00:00.000Z",
+          "isPR": false
+        },
+        {
+          "title": "アニメ『異世界失格』はどこで見れる？サブスク・配信サービスを全調査 | VODB! by チバテレ",
+          "url": "https://www.chiba-tv.com/vod-db/isekaishikkaku-anime/",
+          "source": "千葉テレビ放送",
+          "publishedAt": "2026-11-12T16:29:14.000Z",
+          "isPR": false
+        }
+      ]
+    },
+    {
+      "id": "eecf71fa228d",
+      "title": "【まおりゅう】ガチャはどれを引くべき？【転スラ】",
+      "summary": "",
+      "url": "https://appmedia.jp/ten-sura-m/27053896",
+      "image": "https://appmedia.jp/wp-content/uploads/2023/03/145410_zm20o.webp",
+      "leadSource": "AppMedia",
+      "publishedAt": "2026-11-14T17:56:26.000Z",
+      "sourceCount": 2,
+      "articleCount": 2,
+      "categories": [
+        "game",
+        "anime"
+      ],
+      "keywords": [
+        "転スラ"
+      ],
+      "articles": [
+        {
+          "title": "転スラ4期はどこまで？原作小説・漫画の続き巻数を整理",
+          "url": "https://anisaki.hatenadiary.com/entry/tensura-season4",
+          "source": "はてなブログ",
+          "publishedAt": "2026-11-14T04:35:05.000Z",
+          "isPR": false
+        }
+      ]
     }
   ],
   "churn": {
-    "previousAt": "2026-11-15T00:30:17.694Z",
+    "previousAt": "2026-11-15T01:00:19.987Z",
     "previousCount": 125,
-    "newCount": 6
+    "newCount": 3
   },
   "updateGapMin": 30,
-  "nextUpdateAt": "2026-11-15T01:30:19.987Z",
+  "nextUpdateAt": "2026-11-15T02:00:19.028Z",
   "items": [
+    {
+      "id": "e88f1c4b2f04",
+      "title": "「Re:ゼロから始める異世界生活」5th season 製作決定。ビジュアル",
+      "url": "https://www.ota-suke.jp/news/292763",
+      "host": "ota-suke.jp",
+      "source": "おた☆スケ",
+      "summary": "",
+      "publishedAt": "2026-11-15T01:20:00.000Z",
+      "image": "http://www.ota-suke.jp/images/editor/tak/image2026/1115_06.webp",
+      "categories": [
+        "other"
+      ],
+      "works": [
+        "rezero"
+      ],
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": true
+    },
     {
       "id": "b116a4264d86",
       "title": "『魔導具師ダリヤはうつむかない～今日から自由な職人ライフ～』のオンラインくじが登場 駒田ハチ氏による原作イラストをしたオリジナルグッズがラインナップ",
@@ -1058,7 +1098,7 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "46bb166907eb",
@@ -1074,26 +1114,6 @@
       ],
       "works": [
         "rezero"
-      ],
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": false
-    },
-    {
-      "id": "95b109350b6f",
-      "title": "コトブキヤ『無職転生III ～異世界行ったら本気だす～』ロキシー・ミグルディア・グレイラット 1/7スケールフィギュアが登場！グレイラット家の“青髪ママ”を立体化",
-      "url": "https://www.toy-people.com/jp/?p",
-      "host": "toy-people.com",
-      "source": "玩具人 TOY PEOPLE",
-      "summary": "",
-      "publishedAt": "2026-11-14T23:19:19.000Z",
-      "image": "",
-      "categories": [
-        "goods"
-      ],
-      "works": [
-        "mushoku"
       ],
       "isPR": false,
       "viaGoogle": false,
@@ -1318,7 +1338,7 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "51d35cbb309d",
@@ -2157,6 +2177,26 @@
       "isNew": false
     },
     {
+      "id": "95b109350b6f",
+      "title": "コトブキヤ『無職転生III ～異世界行ったら本気だす～』ロキシー・ミグルディア・グレイラット 1/7スケールフィギュアが登場！グレイラット家の“青髪ママ”を立体化",
+      "url": "https://www.toy-people.com/jp/?p",
+      "host": "toy-people.com",
+      "source": "玩具人 TOY PEOPLE",
+      "summary": "",
+      "publishedAt": "2026-11-13T14:41:33.000Z",
+      "image": "",
+      "categories": [
+        "goods"
+      ],
+      "works": [
+        "mushoku"
+      ],
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": false
+    },
+    {
       "id": "1969cab16b49",
       "title": "薬屋のひとりごと＞猫猫＆壬氏がヨルシカの新曲を語る特別CMの総集編公開（WEBザテレビジョン）",
       "url": "https://news.yahoo.co.jp/articles/253cea9e40c9580bbef0c1ef616b793a94c7c61d",
@@ -2445,24 +2485,6 @@
       "isNew": false
     },
     {
-      "id": "a4b1a18aa16b",
-      "title": "TVアニメ「異世界転生騒動記」PV第2弾より [画像・動画ギャラリー 25/27]",
-      "url": "https://natalie.mu/comic/gallery/news/697941/3017725",
-      "host": "natalie.mu",
-      "source": "ナタリー",
-      "summary": "",
-      "publishedAt": "2026-11-13T09:04:02.000Z",
-      "image": "",
-      "categories": [
-        "anime"
-      ],
-      "works": [],
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": true
-    },
-    {
       "id": "6e5851419482",
       "title": "TVアニメ「異世界転生騒動記」放送情報 [画像・動画ギャラリー 18/27]",
       "url": "https://natalie.mu/comic/gallery/news/697941/3017718",
@@ -2497,6 +2519,42 @@
       "viaGoogle": false,
       "sourceKind": "news",
       "isNew": false
+    },
+    {
+      "id": "3cbf42d919a7",
+      "title": "TVアニメ「異世界転生騒動記」主題歌情報 [画像・動画ギャラリー 17/27]",
+      "url": "https://natalie.mu/comic/gallery/news/697941/3017717",
+      "host": "natalie.mu",
+      "source": "ナタリー",
+      "summary": "",
+      "publishedAt": "2026-11-13T09:04:01.000Z",
+      "image": "",
+      "categories": [
+        "anime"
+      ],
+      "works": [],
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": true
+    },
+    {
+      "id": "0e0bc95ff39f",
+      "title": "TVアニメ「異世界転生騒動記」PV第2弾サムネイル [画像・動画ギャラリー 19/27]",
+      "url": "https://natalie.mu/comic/gallery/news/697941/3017719",
+      "host": "natalie.mu",
+      "source": "ナタリー",
+      "summary": "",
+      "publishedAt": "2026-11-13T09:04:01.000Z",
+      "image": "",
+      "categories": [
+        "anime"
+      ],
+      "works": [],
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": true
     },
     {
       "id": "52ee9830cc09",
@@ -3071,7 +3129,7 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "7621f0a92607",
@@ -3248,7 +3306,7 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "2344b8e8b49a",
@@ -3472,7 +3530,7 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "355f0c9f591d",
