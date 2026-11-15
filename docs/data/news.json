@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-15T23:00:17.234Z",
+  "updatedAt": "2026-11-15T23:30:19.971Z",
   "site": {
     "title": "なろう系まとめ",
     "tagline": "小説家になろう発の作品のアニメ化・コミカライズ・書籍化のニュースと、なろうのランキングをまとめています。",
@@ -7,22 +7,22 @@
     "contactUrl": "https://docs.google.com/forms/d/e/1FAIpQLSesWyhmZ6sRS_ve-c3X2KqF_wC5PK2TgwgQbTKmnQltSlg5Jw/viewform"
   },
   "total": 120,
-  "todayCount": 8,
+  "todayCount": 7,
   "categories": [
     {
       "id": "anime",
       "label": "アニメ",
-      "count": 80
+      "count": 78
     },
     {
       "id": "comic",
       "label": "コミカライズ",
-      "count": 7
+      "count": 8
     },
     {
       "id": "book",
       "label": "書籍・ラノベ",
-      "count": 4
+      "count": 5
     },
     {
       "id": "web",
@@ -42,7 +42,7 @@
     {
       "id": "other",
       "label": "そのほか",
-      "count": 18
+      "count": 19
     }
   ],
   "works": [
@@ -50,7 +50,7 @@
       "id": "tensura",
       "title": "転生したらスライムだった件",
       "short": "転スラ",
-      "count": 10
+      "count": 8
     },
     {
       "id": "mushoku",
@@ -62,7 +62,7 @@
       "id": "rezero",
       "title": "Re:ゼロから始める異世界生活",
       "short": "リゼロ",
-      "count": 26
+      "count": 27
     },
     {
       "id": "honzuki",
@@ -74,7 +74,7 @@
       "id": "kusuriya",
       "title": "薬屋のひとりごと",
       "short": "薬屋",
-      "count": 28
+      "count": 27
     },
     {
       "id": "kagejitsu",
@@ -295,16 +295,16 @@
   ],
   "sources": [
     {
-      "name": "山陽新聞",
-      "count": 13
-    },
-    {
       "name": "Yahoo!ニュース",
       "count": 13
     },
     {
       "name": "ナタリー",
-      "count": 12
+      "count": 13
+    },
+    {
+      "name": "山陽新聞",
+      "count": 11
     },
     {
       "name": "アニメ！アニメ！",
@@ -325,6 +325,10 @@
     {
       "name": "ニコニコニュース",
       "count": 4
+    },
+    {
+      "name": "Excite エキサイト",
+      "count": 3
     },
     {
       "name": "オリコンニュース",
@@ -356,10 +360,6 @@
     },
     {
       "name": "Mantan Web",
-      "count": 2
-    },
-    {
-      "name": "Excite エキサイト",
       "count": 2
     },
     {
@@ -611,70 +611,6 @@
       ]
     },
     {
-      "id": "b8d989b2cece",
-      "title": "『ドラクエRPG』場面カットに衝撃／『リゼロ』第5期制作決定【11／15よく読まれたアニメ＆ゲームニュース】",
-      "summary": "",
-      "url": "https://www.oricon.co.jp/special/76817/",
-      "image": "https://contents.oricon.co.jp/upimg/news/2493000/2492441/20261110_200515_p_o_62023827.jpg",
-      "leadSource": "オリコンニュース",
-      "publishedAt": "2026-11-15T22:50:00.000Z",
-      "sourceCount": 4,
-      "articleCount": 7,
-      "categories": [
-        "anime",
-        "game"
-      ],
-      "keywords": [
-        "転スラ",
-        "カット",
-        "場面"
-      ],
-      "articles": [
-        {
-          "title": "『転スラ』衝撃の戦闘！封印の解かれたクロノア、破壊の化身に 第94話あらすじ＆場面カット解禁",
-          "url": "https://www.sanyonews.jp/article/1985402?rct",
-          "source": "山陽新聞",
-          "publishedAt": "2026-11-15T21:41:01.000Z",
-          "isPR": false
-        },
-        {
-          "title": "『転スラ』クロノアのスキルに干渉を試みる 第96話あらすじ＆場面カット公開",
-          "url": "https://www.sanyonews.jp/article/1992860?kw",
-          "source": "山陽新聞",
-          "publishedAt": "2026-11-15T20:54:07.000Z",
-          "isPR": false
-        },
-        {
-          "title": "『転スラ』ディアブロ、旧知の３人の悪魔を訪ねる 第86話あらすじ＆場面カット公開",
-          "url": "https://www.sanyonews.jp/article/1950779?rct",
-          "source": "山陽新聞",
-          "publishedAt": "2026-11-15T10:19:11.000Z",
-          "isPR": false
-        },
-        {
-          "title": "『転スラ』夜明けの勇者グラン！リムルはルミナスから誘われる 第88話あらすじ＆場面カット解禁",
-          "url": "https://www.sanyonews.jp/article/1958264",
-          "source": "山陽新聞",
-          "publishedAt": "2026-11-15T09:17:53.000Z",
-          "isPR": false
-        },
-        {
-          "title": "「リゼロ」アニメ第5期制作決定 ビジュアルも公開 | スマートニュース",
-          "url": "https://news.google.com/rss/articles/CBMigANBVV95cUxPbUlmVHhUSlhKdVoySmhUSzdIOG80LVZYaFV2N1BfSVoxeVZoMkMwU1gxQWF5SmlrVXFtd2dnX1RHa0hSSkI0b0xFNDJCMHdCcnZaajJPc01Pc09PZW1PSC1UczJWRHF5M1ZoYVRFcEVhQkxlaWdtQ2JkT1pRRWZNd3VEWUJQZjNJSDd1cVNBdE5nNzQzYlN6dVlJMkxLRHFUOXJFcnpfeHl6ajRaZDlUT1pXdUFoR21pc1dwd1JHa2NiZE1EeUI0ZXJrRVJScGVkRE1NblpwdEMtT3dBQzUxb0RYbHpPbG9YZVBfM055NXdmQVFpbklKc0hXQXBMZTJabzI3blIxWnJyWDBoeTJCaEI0VjRLRzVoWW5Vb2dheFpDdlkwSU1yVHJEdnpfR0tlcUVNdjl2SUNGbjB5MmRTakhvdXdyV2g3WWlBb1dmcDBLVVBIM05sUFpmaTQ0NGVqYXk4YnBvMjR2c3dETE5YNEZibnhpeXd1bVRSRi1FbC0?oc=5",
-          "source": "SmartNews",
-          "publishedAt": "2026-11-14T15:07:00.000Z",
-          "isPR": false
-        },
-        {
-          "title": "【まおりゅう】ガチャはどれを引くべき？【転スラ】",
-          "url": "https://appmedia.jp/ten-sura-m/27053896",
-          "source": "AppMedia",
-          "publishedAt": "2026-11-14T08:00:00.000Z",
-          "isPR": false
-        }
-      ]
-    },
-    {
       "id": "6eaa2cd0ed70",
       "title": "「薬屋のひとりごと」猫猫＆壬氏の麗しさが腕時計に！白蝶貝の文字盤に草花や月のモチーフをデザイン♪",
       "summary": "アニメ『薬屋のひとりごと』より、シチズンのウオッチブランド「wicca」とコラボレーションした「薬屋のひとりごと×wicca 白蝶貝の腕時計」が登場。猫猫モデルと壬氏モデルの全2種で、PREMICOオンラインショップにて発売中。",
@@ -918,6 +854,49 @@
       ]
     },
     {
+      "id": "d8dedb155cf8",
+      "title": "『転スラ』クロノアのスキルに干渉を試みる 第96話あらすじ＆場面カット公開",
+      "summary": "",
+      "url": "https://www.sanyonews.jp/article/1992860?kw",
+      "image": "https://static.sanyonews.jp/image/article/size1/0/5/5/2/05527084bfe9e9217256cbb81ba04bb3_1.jpg",
+      "leadSource": "山陽新聞",
+      "publishedAt": "2026-11-15T20:54:07.000Z",
+      "sourceCount": 2,
+      "articleCount": 4,
+      "categories": [
+        "anime",
+        "game"
+      ],
+      "keywords": [
+        "転スラ",
+        "カット",
+        "場面"
+      ],
+      "articles": [
+        {
+          "title": "『転スラ』夜明けの勇者グラン！リムルはルミナスから誘われる 第88話あらすじ＆場面カット解禁",
+          "url": "https://www.sanyonews.jp/article/1958264",
+          "source": "山陽新聞",
+          "publishedAt": "2026-11-15T09:17:53.000Z",
+          "isPR": false
+        },
+        {
+          "title": "『転スラ』リムル様、大忙し！ラミリスから緊急連絡 尊いミリムの表情…第84話あらすじ＆場面カット解禁",
+          "url": "https://www.sanyonews.jp/article/1942798",
+          "source": "山陽新聞",
+          "publishedAt": "2026-11-15T09:16:16.000Z",
+          "isPR": false
+        },
+        {
+          "title": "【まおりゅう】ガチャはどれを引くべき？【転スラ】",
+          "url": "https://appmedia.jp/ten-sura-m/27053896",
+          "source": "AppMedia",
+          "publishedAt": "2026-11-14T08:00:00.000Z",
+          "isPR": false
+        }
+      ]
+    },
+    {
       "id": "3602222e245b",
       "title": "『本好きの下剋上』新キャストに本渡楓 新規映像盛りだくさんのクライマックスPV公開",
       "summary": "",
@@ -954,6 +933,34 @@
       ]
     },
     {
+      "id": "b8d989b2cece",
+      "title": "『ドラクエRPG』場面カットに衝撃／『リゼロ』第5期制作決定【11／15よく読まれたアニメ＆ゲームニュース】",
+      "summary": "",
+      "url": "https://www.oricon.co.jp/special/76817/",
+      "image": "https://contents.oricon.co.jp/upimg/news/2493000/2492441/20261110_200515_p_o_62023827.jpg",
+      "leadSource": "オリコンニュース",
+      "publishedAt": "2026-11-15T22:50:00.000Z",
+      "sourceCount": 2,
+      "articleCount": 2,
+      "categories": [
+        "anime",
+        "game"
+      ],
+      "keywords": [
+        "リゼロ",
+        "期制作決定"
+      ],
+      "articles": [
+        {
+          "title": "「リゼロ」アニメ第5期制作決定 ビジュアルも公開 | スマートニュース",
+          "url": "https://news.google.com/rss/articles/CBMigANBVV95cUxPbUlmVHhUSlhKdVoySmhUSzdIOG80LVZYaFV2N1BfSVoxeVZoMkMwU1gxQWF5SmlrVXFtd2dnX1RHa0hSSkI0b0xFNDJCMHdCcnZaajJPc01Pc09PZW1PSC1UczJWRHF5M1ZoYVRFcEVhQkxlaWdtQ2JkT1pRRWZNd3VEWUJQZjNJSDd1cVNBdE5nNzQzYlN6dVlJMkxLRHFUOXJFcnpfeHl6ajRaZDlUT1pXdUFoR21pc1dwd1JHa2NiZE1EeUI0ZXJrRVJScGVkRE1NblpwdEMtT3dBQzUxb0RYbHpPbG9YZVBfM055NXdmQVFpbklKc0hXQXBMZTJabzI3blIxWnJyWDBoeTJCaEI0VjRLRzVoWW5Vb2dheFpDdlkwSU1yVHJEdnpfR0tlcUVNdjl2SUNGbjB5MmRTakhvdXdyV2g3WWlBb1dmcDBLVVBIM05sUFpmaTQ0NGVqYXk4YnBvMjR2c3dETE5YNEZibnhpeXd1bVRSRi1FbC0?oc=5",
+          "source": "SmartNews",
+          "publishedAt": "2026-11-14T15:07:00.000Z",
+          "isPR": false
+        }
+      ]
+    },
+    {
       "id": "8e2e81a3520c",
       "title": "＜無職転生III＞突然現れた謎の老人が、ルーデウスの未来について語り始める…第12話あらすじ＆先行カット公開",
       "summary": "",
@@ -979,45 +986,36 @@
           "isPR": false
         }
       ]
-    },
-    {
-      "id": "9af157a85cd2",
-      "title": "アニメ1週間＞魂ネイション2026にフィギュア新商品続々 「リゼロ」第5期制作（MANTANWEB）",
-      "summary": "",
-      "url": "https://news.yahoo.co.jp/articles/b34e175fa4347a06c3ad28d3d17ce39415eb7aca?page",
-      "image": "https://storage.mantan-web.jp/w=1280,h=720,icr=0:0.1:1:1,a=2,g=2,f=webp:auto/images/2026/11/15/20261115dog00m200000000a/001.jpg",
-      "leadSource": "Yahoo!ニュース",
-      "publishedAt": "2026-11-15T10:05:00.000Z",
-      "sourceCount": 2,
-      "articleCount": 2,
-      "categories": [
-        "anime",
-        "goods"
-      ],
-      "keywords": [
-        "リゼロ",
-        "ネイション",
-        "フィギュア"
-      ],
-      "articles": [
-        {
-          "title": "アニメ1週間：魂ネイション2026にフィギュア新商品続々 「リゼロ」第5期制作",
-          "url": "https://mantan-web.jp/article/20261115dog00m200000000a.html",
-          "source": "Mantan Web",
-          "publishedAt": "2026-11-15T10:01:00.000Z",
-          "isPR": false
-        }
-      ]
     }
   ],
   "churn": {
-    "previousAt": "2026-11-15T22:30:17.715Z",
-    "previousCount": 121,
+    "previousAt": "2026-11-15T23:00:17.234Z",
+    "previousCount": 120,
     "newCount": 4
   },
   "updateGapMin": 30,
-  "nextUpdateAt": "2026-11-15T23:30:17.234Z",
+  "nextUpdateAt": "2026-11-16T00:00:19.971Z",
   "items": [
+    {
+      "id": "4d8362e98ec4",
+      "title": "【コスプレ】ハロウィン衣装がセクシー×可愛い「着せ恋」、妖精みたいな初音ミクや「リゼロ」など「池ハロ」美女レイヤー11選【写真44枚】",
+      "url": "http://www.excite.co.jp/news/article/Inside_191003/",
+      "host": "excite.co.jp",
+      "source": "Excite エキサイト",
+      "summary": "",
+      "publishedAt": "2026-11-15T23:07:22.000Z",
+      "image": "",
+      "categories": [
+        "other"
+      ],
+      "works": [
+        "rezero"
+      ],
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": true
+    },
     {
       "id": "b8d989b2cece",
       "title": "『ドラクエRPG』場面カットに衝撃／『リゼロ』第5期制作決定【11／15よく読まれたアニメ＆ゲームニュース】",
@@ -1037,7 +1035,7 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "1de4c7d81c06",
@@ -1058,26 +1056,6 @@
       "viaGoogle": false,
       "sourceKind": "news",
       "isNew": false
-    },
-    {
-      "id": "299970487651",
-      "title": "『転スラ』衝撃の戦闘！封印の解かれたクロノア、破壊の化身に 第94話あらすじ＆場面カット解禁",
-      "url": "https://www.sanyonews.jp/article/1985402?rct",
-      "host": "sanyonews.jp",
-      "source": "山陽新聞",
-      "summary": "",
-      "publishedAt": "2026-11-15T21:41:01.000Z",
-      "image": "https://static.sanyonews.jp/image/article/size1/d/9/c/b/d9cb1ddffdf8abde09ac68fbbed84f89_1.jpg",
-      "categories": [
-        "anime"
-      ],
-      "works": [
-        "tensura"
-      ],
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": true
     },
     {
       "id": "d8dedb155cf8",
@@ -1119,26 +1097,6 @@
       "viaGoogle": false,
       "sourceKind": "news",
       "isNew": false
-    },
-    {
-      "id": "18c442dd9a7f",
-      "title": "『転スラ』そのキャラ出るの！第4期の第2クールPV解禁 OPはDaoko、EDは田所あずさ",
-      "url": "https://www.sanyonews.jp/article/1940746?kw",
-      "host": "sanyonews.jp",
-      "source": "山陽新聞",
-      "summary": "",
-      "publishedAt": "2026-11-15T16:19:52.000Z",
-      "image": "https://static.sanyonews.jp/image/article/size1/2/b/6/7/2b67db9eed80b704cb517b99fda49c2c_1.jpg",
-      "categories": [
-        "anime"
-      ],
-      "works": [
-        "tensura"
-      ],
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": true
     },
     {
       "id": "3602222e245b",
@@ -1281,26 +1239,6 @@
       "isNew": false
     },
     {
-      "id": "1ed9418c4ddb",
-      "title": "『転スラ』ディアブロ、旧知の３人の悪魔を訪ねる 第86話あらすじ＆場面カット公開",
-      "url": "https://www.sanyonews.jp/article/1950779?rct",
-      "host": "sanyonews.jp",
-      "source": "山陽新聞",
-      "summary": "",
-      "publishedAt": "2026-11-15T10:19:11.000Z",
-      "image": "https://static.sanyonews.jp/image/article/size1/0/4/9/3/04933a1621737fd3123efb4b1ebc5fc9_1.jpg",
-      "categories": [
-        "anime"
-      ],
-      "works": [
-        "tensura"
-      ],
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": true
-    },
-    {
       "id": "9af157a85cd2",
       "title": "アニメ1週間＞魂ネイション2026にフィギュア新商品続々 「リゼロ」第5期制作（MANTANWEB）",
       "url": "https://news.yahoo.co.jp/articles/b34e175fa4347a06c3ad28d3d17ce39415eb7aca?page",
@@ -1440,6 +1378,26 @@
       "viaGoogle": false,
       "sourceKind": "news",
       "isNew": false
+    },
+    {
+      "id": "2373c0692c7f",
+      "title": "『転スラ』リムル様、大忙し！ラミリスから緊急連絡 尊いミリムの表情…第84話あらすじ＆場面カット解禁",
+      "url": "https://www.sanyonews.jp/article/1942798",
+      "host": "sanyonews.jp",
+      "source": "山陽新聞",
+      "summary": "",
+      "publishedAt": "2026-11-15T09:16:16.000Z",
+      "image": "https://static.sanyonews.jp/image/article/size1/6/5/0/1/6501ce6b09cb9464f23235f99fbe6a7f_1.jpg",
+      "categories": [
+        "anime"
+      ],
+      "works": [
+        "tensura"
+      ],
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": true
     },
     {
       "id": "3001176857af",
@@ -2179,6 +2137,25 @@
       "isNew": false
     },
     {
+      "id": "620724a65b90",
+      "title": "『ドローイング 最強漫画家はお絵描きスキルで異世界無双する！』連載5周年＆20巻刊行記念フェア開催！",
+      "url": "https://www.sanyonews.jp/article/1985334",
+      "host": "sanyonews.jp",
+      "source": "山陽新聞",
+      "summary": "",
+      "publishedAt": "2026-11-14T08:00:00.000Z",
+      "image": "https://static.sanyonews.jp/image/article/size1https://prtimes.jp/img/49835/1008/resize/d49835-1008-4fe328325d1fef044031-29.jpg",
+      "categories": [
+        "comic",
+        "book"
+      ],
+      "works": [],
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": true
+    },
+    {
       "id": "eecf71fa228d",
       "title": "【まおりゅう】ガチャはどれを引くべき？【転スラ】",
       "url": "https://appmedia.jp/ten-sura-m/27053896",
@@ -2192,26 +2169,6 @@
       ],
       "works": [
         "tensura"
-      ],
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": false
-    },
-    {
-      "id": "59297b5b2213",
-      "title": "『薬屋のひとりごと』初の劇場版、12・11公開 「亡妃の秘宝」新予告映像解禁で新キャストに伊瀬茉莉也",
-      "url": "https://www.sanyonews.jp/article/1948702",
-      "host": "sanyonews.jp",
-      "source": "山陽新聞",
-      "summary": "",
-      "publishedAt": "2026-11-14T08:00:00.000Z",
-      "image": "https://static.sanyonews.jp/image/article/size1/c/e/2/7/ce279f4c372828b2a814d8dee05e1664_1.jpg",
-      "categories": [
-        "anime"
-      ],
-      "works": [
-        "kusuriya"
       ],
       "isPR": false,
       "viaGoogle": false,
@@ -2615,6 +2572,24 @@
       "isNew": false
     },
     {
+      "id": "9d10e2571c84",
+      "title": "TVアニメ「異世界転生騒動記」PV第2弾 [画像・動画ギャラリー 27/27]",
+      "url": "https://natalie.mu/comic/gallery/news/697941/media/144616?ref",
+      "host": "natalie.mu",
+      "source": "ナタリー",
+      "summary": "",
+      "publishedAt": "2026-11-13T13:04:25.000Z",
+      "image": "",
+      "categories": [
+        "anime"
+      ],
+      "works": [],
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": false
+    },
+    {
       "id": "96e7f333b760",
       "title": "TVアニメ「無職転生III",
       "url": "https://news.nicovideo.jp/watch/nw19990078?news_ref",
@@ -2841,6 +2816,24 @@
       "isNew": false
     },
     {
+      "id": "8670cf414ac3",
+      "title": "TVアニメ「異世界転生騒動記」の出演キャスト [画像・動画ギャラリー 2/27]",
+      "url": "https://natalie.mu/comic/gallery/news/697941/3017710",
+      "host": "natalie.mu",
+      "source": "ナタリー",
+      "summary": "",
+      "publishedAt": "2026-11-13T09:04:02.000Z",
+      "image": "",
+      "categories": [
+        "anime"
+      ],
+      "works": [],
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": true
+    },
+    {
       "id": "6e5851419482",
       "title": "TVアニメ「異世界転生騒動記」放送情報 [画像・動画ギャラリー 18/27]",
       "url": "https://natalie.mu/comic/gallery/news/697941/3017718",
@@ -2862,24 +2855,6 @@
       "id": "0e0bc95ff39f",
       "title": "TVアニメ「異世界転生騒動記」PV第2弾サムネイル [画像・動画ギャラリー 19/27]",
       "url": "https://natalie.mu/comic/gallery/news/697941/3017719",
-      "host": "natalie.mu",
-      "source": "ナタリー",
-      "summary": "",
-      "publishedAt": "2026-11-13T09:04:01.000Z",
-      "image": "",
-      "categories": [
-        "anime"
-      ],
-      "works": [],
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": false
-    },
-    {
-      "id": "9d10e2571c84",
-      "title": "TVアニメ「異世界転生騒動記」PV第2弾 [画像・動画ギャラリー 27/27]",
-      "url": "https://natalie.mu/comic/gallery/news/697941/media/144616",
       "host": "natalie.mu",
       "source": "ナタリー",
       "summary": "",
