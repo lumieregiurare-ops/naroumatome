@@ -1,18 +1,18 @@
 {
-  "updatedAt": "2026-11-16T18:30:20.217Z",
+  "updatedAt": "2026-11-16T19:00:20.418Z",
   "site": {
     "title": "なろう系まとめ",
     "tagline": "小説家になろう発の作品のアニメ化・コミカライズ・書籍化のニュースと、なろうのランキングをまとめています。",
     "url": "https://naroumatome.gamelab.website/",
     "contactUrl": "https://docs.google.com/forms/d/e/1FAIpQLSesWyhmZ6sRS_ve-c3X2KqF_wC5PK2TgwgQbTKmnQltSlg5Jw/viewform"
   },
-  "total": 126,
-  "todayCount": 3,
+  "total": 127,
+  "todayCount": 4,
   "categories": [
     {
       "id": "anime",
       "label": "アニメ",
-      "count": 83
+      "count": 84
     },
     {
       "id": "comic",
@@ -444,6 +444,10 @@
     },
     {
       "name": "BANGER!!!（バンガー!!!）映画評論・情報サイト",
+      "count": 1
+    },
+    {
+      "name": "ぴあエンタメ情報",
       "count": 1
     },
     {
@@ -982,12 +986,12 @@
     }
   ],
   "churn": {
-    "previousAt": "2026-11-16T18:00:32.477Z",
-    "previousCount": 125,
-    "newCount": 3
+    "previousAt": "2026-11-16T18:30:20.217Z",
+    "previousCount": 126,
+    "newCount": 1
   },
   "updateGapMin": 30,
-  "nextUpdateAt": "2026-11-16T19:00:20.217Z",
+  "nextUpdateAt": "2026-11-16T19:30:20.418Z",
   "items": [
     {
       "id": "86c279374abe",
@@ -996,12 +1000,32 @@
       "host": "abema.tv",
       "source": "ABEMA",
       "summary": "",
-      "publishedAt": "2026-11-16T17:44:09.000Z",
-      "image": "",
+      "publishedAt": "2026-11-16T16:37:03.000Z",
+      "image": "https://image.p-c2-x.abema-tv.com/image/assets/splash.png?height=720&quality=75&version=20210720&width=1280",
       "categories": [
         "anime"
       ],
       "works": [],
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": false
+    },
+    {
+      "id": "ddd55aa4ccea",
+      "title": "『片田舎のおっさん、剣聖になる』第3期制作決定 平田広明のお祝い映像公開",
+      "url": "https://www.sanyonews.jp/article/1993408?rct",
+      "host": "sanyonews.jp",
+      "source": "山陽新聞",
+      "summary": "",
+      "publishedAt": "2026-11-16T16:25:21.000Z",
+      "image": "https://static.sanyonews.jp/image/article/size1/0/5/5/9/0559c9ca53af5a5500ca2c2956d5bc81_1.jpg",
+      "categories": [
+        "anime"
+      ],
+      "works": [
+        "katainaka"
+      ],
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
@@ -1035,7 +1059,7 @@
       "source": "ABEMA",
       "summary": "",
       "publishedAt": "2026-11-16T15:18:56.000Z",
-      "image": "",
+      "image": "https://image.p-c2-x.abema-tv.com/image/assets/splash.png?height=720&quality=75&version=20210720&width=1280",
       "categories": [
         "anime"
       ],
@@ -1681,7 +1705,7 @@
       "source": "ドリームニュース",
       "summary": "",
       "publishedAt": "2026-11-16T01:48:25.000Z",
-      "image": "",
+      "image": "https://www.dreamnews.jp/press/0000368440/images/bodyimage1",
       "categories": [
         "goods",
         "anime"
@@ -1753,7 +1777,7 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "9bec1f6335d0",
@@ -1783,7 +1807,7 @@
       "source": "gamebiz【ゲームビズ】",
       "summary": "",
       "publishedAt": "2026-11-16T00:12:00.000Z",
-      "image": "",
+      "image": "https://i3.gamebiz.jp/media/33ecae56-453f-4823-8b40-1924aca379c9.png",
       "categories": [
         "game",
         "goods"
@@ -1855,7 +1879,7 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "1ed9418c4ddb",
@@ -2337,7 +2361,7 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "16f30db8b4bd",
@@ -2499,6 +2523,24 @@
       "viaGoogle": false,
       "sourceKind": "news",
       "isNew": false
+    },
+    {
+      "id": "b24c4a2cb07b",
+      "title": "TVアニメ「異世界転生騒動記」・予告編・動画・映像（1/1） - ぴあ映画",
+      "url": "https://lp.p.pia.jp/event/movie/465097/video-gallery/index.html",
+      "host": "lp.p.pia.jp",
+      "source": "ぴあエンタメ情報",
+      "summary": "",
+      "publishedAt": "2026-11-15T03:06:22.000Z",
+      "image": "https://lp.p.pia.jp/shared/materials/e0cd20d8-58a2-4e05-8b07-cb971aebdec6/origin.jpg",
+      "categories": [
+        "anime"
+      ],
+      "works": [],
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": true
     },
     {
       "id": "5a42c1deb3bb",
@@ -2702,7 +2744,7 @@
       "source": "ABEMA",
       "summary": "",
       "publishedAt": "2026-11-14T20:34:11.000Z",
-      "image": "",
+      "image": "https://image.p-c2-x.abema-tv.com/image/programs/413-2_s1_p13/thumb001.png?height=720&quality=75&version=1683864310&width=1280",
       "categories": [
         "other"
       ],
@@ -2722,7 +2764,7 @@
       "source": "ABEMA",
       "summary": "",
       "publishedAt": "2026-11-14T18:02:06.000Z",
-      "image": "",
+      "image": "https://image.p-c2-x.abema-tv.com/image/programs/25-221_s2_p1/thumb001.png?height=720&quality=75&version=1703157090&width=1280",
       "categories": [
         "other"
       ],
@@ -2763,32 +2805,12 @@
       "source": "ABEMA",
       "summary": "",
       "publishedAt": "2026-11-14T17:45:52.000Z",
-      "image": "",
+      "image": "https://image.p-c2-x.abema-tv.com/image/programs/175-1rthzhecdme_s0_p12/thumb001.png?height=720&quality=75&version=1794378756&width=1280",
       "categories": [
         "anime"
       ],
       "works": [
         "kusuriya"
-      ],
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": false
-    },
-    {
-      "id": "ddd55aa4ccea",
-      "title": "『片田舎のおっさん、剣聖になる』第3期制作決定 平田広明のお祝い映像公開",
-      "url": "https://www.sanyonews.jp/article/1993408?rct",
-      "host": "sanyonews.jp",
-      "source": "山陽新聞",
-      "summary": "",
-      "publishedAt": "2026-11-14T16:16:43.000Z",
-      "image": "https://static.sanyonews.jp/image/article/size1/0/5/5/9/0559c9ca53af5a5500ca2c2956d5bc81_1.jpg",
-      "categories": [
-        "anime"
-      ],
-      "works": [
-        "katainaka"
       ],
       "isPR": false,
       "viaGoogle": false,
