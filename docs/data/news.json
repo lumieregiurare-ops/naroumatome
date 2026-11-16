@@ -1,28 +1,28 @@
 {
-  "updatedAt": "2026-11-16T09:00:18.134Z",
+  "updatedAt": "2026-11-16T09:30:24.406Z",
   "site": {
     "title": "なろう系まとめ",
     "tagline": "小説家になろう発の作品のアニメ化・コミカライズ・書籍化のニュースと、なろうのランキングをまとめています。",
     "url": "https://naroumatome.gamelab.website/",
     "contactUrl": "https://docs.google.com/forms/d/e/1FAIpQLSesWyhmZ6sRS_ve-c3X2KqF_wC5PK2TgwgQbTKmnQltSlg5Jw/viewform"
   },
-  "total": 133,
-  "todayCount": 39,
+  "total": 128,
+  "todayCount": 45,
   "categories": [
     {
       "id": "anime",
       "label": "アニメ",
-      "count": 87
+      "count": 82
     },
     {
       "id": "comic",
       "label": "コミカライズ",
-      "count": 10
+      "count": 7
     },
     {
       "id": "book",
       "label": "書籍・ラノベ",
-      "count": 5
+      "count": 4
     },
     {
       "id": "web",
@@ -32,7 +32,7 @@
     {
       "id": "game",
       "label": "ゲーム",
-      "count": 10
+      "count": 11
     },
     {
       "id": "goods",
@@ -42,7 +42,7 @@
     {
       "id": "other",
       "label": "そのほか",
-      "count": 22
+      "count": 23
     }
   ],
   "works": [
@@ -50,19 +50,19 @@
       "id": "tensura",
       "title": "転生したらスライムだった件",
       "short": "転スラ",
-      "count": 8
+      "count": 9
     },
     {
       "id": "mushoku",
       "title": "無職転生 ～異世界行ったら本気だす～",
       "short": "無職転生",
-      "count": 18
+      "count": 16
     },
     {
       "id": "rezero",
       "title": "Re:ゼロから始める異世界生活",
       "short": "リゼロ",
-      "count": 33
+      "count": 37
     },
     {
       "id": "honzuki",
@@ -74,7 +74,7 @@
       "id": "kusuriya",
       "title": "薬屋のひとりごと",
       "short": "薬屋",
-      "count": 33
+      "count": 32
     },
     {
       "id": "kagejitsu",
@@ -164,7 +164,7 @@
       "id": "katainaka",
       "title": "片田舎のおっさん、剣聖になる",
       "short": "片田舎のおっさん",
-      "count": 2
+      "count": 1
     },
     {
       "id": "nozomanu",
@@ -224,7 +224,7 @@
       "id": "tenken",
       "title": "転生したら剣でした",
       "short": "転剣",
-      "count": 0
+      "count": 1
     },
     {
       "id": "rupunana",
@@ -296,23 +296,23 @@
   "sources": [
     {
       "name": "Yahoo!ニュース",
-      "count": 17
+      "count": 15
     },
     {
       "name": "山陽新聞",
-      "count": 17
+      "count": 14
+    },
+    {
+      "name": "ニコニコニュース",
+      "count": 10
     },
     {
       "name": "ナタリー",
-      "count": 13
+      "count": 8
     },
     {
       "name": "アニメ！アニメ！",
       "count": 7
-    },
-    {
-      "name": "ニコニコニュース",
-      "count": 6
     },
     {
       "name": "GameWith",
@@ -331,6 +331,10 @@
       "count": 4
     },
     {
+      "name": "ABEMA",
+      "count": 3
+    },
+    {
       "name": "マイナビニュース",
       "count": 3
     },
@@ -339,12 +343,16 @@
       "count": 3
     },
     {
-      "name": "WEBザテレビジョン",
+      "name": "ライブドアニュース",
       "count": 3
     },
     {
       "name": "TVer",
       "count": 3
+    },
+    {
+      "name": "アニメハック",
+      "count": 2
     },
     {
       "name": "eeo",
@@ -359,19 +367,15 @@
       "count": 2
     },
     {
-      "name": "Dellows News",
-      "count": 2
-    },
-    {
       "name": "オリコンニュース",
       "count": 2
     },
     {
-      "name": "Mantan Web",
+      "name": "WEBザテレビジョン",
       "count": 2
     },
     {
-      "name": "ABEMA",
+      "name": "Mantan Web",
       "count": 2
     },
     {
@@ -381,6 +385,14 @@
     {
       "name": "電ファミニコゲーマー",
       "count": 2
+    },
+    {
+      "name": "日本経済新聞",
+      "count": 1
+    },
+    {
+      "name": "PR TIMES",
+      "count": 1
     },
     {
       "name": "au Webポータル",
@@ -427,14 +439,6 @@
       "count": 1
     },
     {
-      "name": "ライブドアニュース",
-      "count": 1
-    },
-    {
-      "name": "アニメハック",
-      "count": 1
-    },
-    {
       "name": "PASH! PLUS",
       "count": 1
     },
@@ -447,7 +451,7 @@
       "count": 1
     },
     {
-      "name": "Excite エキサイト",
+      "name": "Dellows News",
       "count": 1
     },
     {
@@ -481,14 +485,6 @@
     {
       "name": "おた☆スケ",
       "count": 1
-    },
-    {
-      "name": "PR TIMES",
-      "count": 1
-    },
-    {
-      "name": "日本経済新聞",
-      "count": 1
     }
   ],
   "topics": [
@@ -499,12 +495,12 @@
       "url": "https://animeanime.jp/article/2026/11/16/104809.html",
       "image": "https://animeanime.jp/imgs/rss/956184.jpg",
       "leadSource": "アニメ！アニメ！",
-      "publishedAt": "2026-11-16T03:23:00.000Z",
-      "sourceCount": 14,
-      "articleCount": 18,
+      "publishedAt": "2026-11-16T09:00:00.000Z",
+      "sourceCount": 16,
+      "articleCount": 20,
       "categories": [
-        "anime",
-        "other"
+        "other",
+        "anime"
       ],
       "keywords": [
         "ビジュアル",
@@ -512,6 +508,13 @@
         "ティザービジュアル"
       ],
       "articles": [
+        {
+          "title": "「リゼロ」5th season製作決定 スバルとレムが新たな冒険へ旅立つウルトラティザービジュアル公開 : ニュース",
+          "url": "https://anime.eiga.com/news/127874/",
+          "source": "アニメハック",
+          "publishedAt": "2026-11-16T09:00:00.000Z",
+          "isPR": false
+        },
         {
           "title": "『リゼロ』TVアニメ5th season製作決定！スバルがレムの手を取るウルトラティザービジュアル公開＆原作・長月達平からお祝いコメントも",
           "url": "https://nijimen.kusuguru.co.jp/topics/658853",
@@ -541,6 +544,13 @@
           "isPR": false
         },
         {
+          "title": "TVアニメ『Re:ゼロから始める異世界生活』5th season 製作決定！ウルトラティザービジュアルを公開＆原作：長月達平からお祝いコメントが到着！ (2026年11月15日掲載)",
+          "url": "https://news.livedoor.com/topics/detail/32824084/",
+          "source": "ライブドアニュース",
+          "publishedAt": "2026-11-15T09:00:28.000Z",
+          "isPR": false
+        },
+        {
           "title": "アニメ『Re：ゼロから始める異世界生活 5th season』製作決定",
           "url": "https://ln-news.com/articles/127211",
           "source": "ラノベニュースオンライン",
@@ -552,20 +562,6 @@
           "url": "https://www.toy-people.com/jp/?p",
           "source": "玩具人 TOY PEOPLE",
           "publishedAt": "2026-11-14T16:00:27.000Z",
-          "isPR": false
-        },
-        {
-          "title": "画像ページ[2/7] TVアニメ『Re:ゼロから始める異世界生活』第5期の製作が決定！",
-          "url": "https://news.denfaminicogamer.jp/?attachment_id",
-          "source": "電ファミニコゲーマー",
-          "publishedAt": "2026-11-14T15:40:59.000Z",
-          "isPR": false
-        },
-        {
-          "title": "「Re:ゼロから始める異世界生活」5th season",
-          "url": "https://natalie.mu/comic/anime/1869",
-          "source": "ナタリー",
-          "publishedAt": "2026-11-14T12:03:42.000Z",
           "isPR": false
         }
       ]
@@ -642,94 +638,108 @@
       ]
     },
     {
-      "id": "8db1335ea804",
-      "title": "「劇場版 薬屋のひとりごと」CUTのバックカバーに 悠木碧×大塚剛央の対談を掲載",
+      "id": "55e76e9dfc62",
+      "title": "山手線に「薬屋のひとりごと」のラッピング車両 茨城県が観光地PR",
       "summary": "",
-      "url": "https://natalie.mu/comic/news/698173",
-      "image": "https://cinema.korona.co.jp/uploads/X_da5e2ae6f5.png",
-      "leadSource": "ナタリー",
-      "publishedAt": "2026-11-16T03:35:00.000Z",
+      "url": "https://www.nikkei.com/article/DGXZQOCC165NQ0W6A111C2000000/",
+      "image": "https://article-image-ix.nikkei.com/https%3A%2F%2Fimgix-proxy.n8s.jp%2FDSXZQO3886096016112026000000-1.jpg?auto=compress&bg=FFFF&crop=focalpoint&fit=crop&fm=jpg&h=630&w=1200&s=93c251b717ceac49e9e4796a02e21ee6",
+      "leadSource": "日本経済新聞",
+      "publishedAt": "2026-11-16T09:00:00.000Z",
       "sourceCount": 4,
-      "articleCount": 5,
+      "articleCount": 4,
       "categories": [
-        "anime",
-        "other"
+        "other",
+        "anime"
       ],
       "keywords": [
         "薬屋",
-        "劇場版",
-        "亡妃"
+        "猫猫",
+        "壬氏"
       ],
       "articles": [
         {
-          "title": "CUT12月号で『劇場版 薬屋のひとりごと 亡妃の秘宝』特集を敢行！ 描き下ろしバックカバー＆キャストインタビューで、花咲く謎を解き明かします。11月19日（木）発売！",
-          "url": "https://rockinon.com/blog/cut/216251",
-          "source": "rockinon.com",
-          "publishedAt": "2026-11-16T03:01:02.000Z",
+          "title": "JR山手線『薬屋のひとりごと』×茨城県ラッピングトレインが運行開始 - 猫猫や壬氏が“四季のいばらき”を発信",
+          "url": "https://news.mynavi.jp/article/20261116-5336284/",
+          "source": "マイナビニュース",
+          "publishedAt": "2026-11-16T02:08:35.000Z",
           "isPR": false
         },
         {
           "title": "劇場版 薬屋のひとりごと 亡妃の秘宝公開記念 猫猫＆壬氏がららぽーと安城へやってくる！",
           "url": "https://cinema.korona.co.jp/news/2843/",
           "source": "コロナワールド",
-          "publishedAt": "2026-11-16T01:22:12.000Z",
+          "publishedAt": "2026-11-16T01:33:48.000Z",
           "isPR": false
         },
         {
           "title": "『薬屋のひとりごと』最新話、猫猫が歌った子守歌に注目集まる「母から猫猫、そして壬氏へ」「切ない」",
-          "url": "https://www.sanyonews.jp/article/2004391",
+          "url": "https://www.sanyonews.jp/article/2004391?kw",
           "source": "山陽新聞",
-          "publishedAt": "2026-11-15T09:05:16.000Z",
-          "isPR": false
-        },
-        {
-          "title": "『薬屋のひとりごと』初の劇場版、12・11公開 「亡妃の秘宝」新予告映像解禁で新キャストに伊瀬茉莉也",
-          "url": "https://www.sanyonews.jp/article/1948702",
-          "source": "山陽新聞",
-          "publishedAt": "2026-11-14T08:00:00.000Z",
+          "publishedAt": "2026-11-15T18:29:56.000Z",
           "isPR": false
         }
       ]
     },
     {
-      "id": "9834ca7160aa",
-      "title": "アニメ『異世界転生騒動記』は2027年1月6日（水）より放送開始 第2弾となるキービジュアル＆PVもお披露目",
+      "id": "b8d989b2cece",
+      "title": "『ドラクエRPG』場面カットに衝撃／『リゼロ』第5期制作決定【11／15よく読まれたアニメ＆ゲームニュース】",
       "summary": "",
-      "url": "https://ln-news.com/articles/127206",
-      "image": "https://assets.ln-news.com/images/medias/731ccb1b8a284e7a9277f585cca70e78.jpg",
-      "leadSource": "ラノベニュースオンライン",
-      "publishedAt": "2026-11-14T05:30:00.000Z",
-      "sourceCount": 4,
-      "articleCount": 4,
+      "url": "https://www.oricon.co.jp/special/76817/",
+      "image": "https://contents.oricon.co.jp/upimg/news/2493000/2492441/20261110_200515_p_o_62023827.jpg",
+      "leadSource": "オリコンニュース",
+      "publishedAt": "2026-11-15T22:50:00.000Z",
+      "sourceCount": 3,
+      "articleCount": 7,
       "categories": [
         "anime",
-        "comic"
+        "game"
       ],
       "keywords": [
-        "異世界転生騒動記",
-        "キービジュアル",
-        "放送開始"
+        "カット",
+        "場面",
+        "転スラ"
       ],
       "articles": [
         {
-          "title": "貴族×武将×オタクの三位一体ファンタジーアニメ『異世界転生騒動記』1/6より放送開始。コミックス最新15巻も12/14発売",
-          "url": "https://dengekionline.com/article/202611/93989",
-          "source": "電撃オンライン",
-          "publishedAt": "2026-11-13T12:00:00.000Z",
+          "title": "『転スラ』衝撃の戦闘！封印の解かれたクロノア、破壊の化身に 第94話あらすじ＆場面カット解禁",
+          "url": "https://www.sanyonews.jp/article/1985402?rct",
+          "source": "山陽新聞",
+          "publishedAt": "2026-11-15T21:41:01.000Z",
           "isPR": false
         },
         {
-          "title": "TVアニメ『異世界転生騒動記』2027年1月6日より放送・配信決定！キービジュアル第2弾、PV第2弾を公開！ コミカライズ最新巻を12/14(月)に刊行！",
-          "url": "https://prtimes.jp/main/html/rd/p/000000226.000004331.html",
-          "source": "PR TIMES",
-          "publishedAt": "2026-11-13T09:30:02.000Z",
-          "isPR": true
+          "title": "『転スラ』クロノアのスキルに干渉を試みる 第96話あらすじ＆場面カット公開",
+          "url": "https://www.sanyonews.jp/article/1992860?kw",
+          "source": "山陽新聞",
+          "publishedAt": "2026-11-15T20:54:07.000Z",
+          "isPR": false
         },
         {
-          "title": "アルファポリス[9467]：TVアニメ『異世界転生騒動記』2027年1月6日より放送・配信決定！ キービジュアル第2弾、PV第2弾を公開！ 2026年11月13日(適時開示) ：日経会社情報DIGITAL",
-          "url": "https://www.nikkei.com/nkd/disclosure/tdnr/20261113579585/",
-          "source": "日本経済新聞",
-          "publishedAt": "2026-11-13T09:30:00.000Z",
+          "title": "『転スラ』クロエとヒナタ、暴風竜に戦いを挑む 【勇者クロノア・後編】第93話あらすじ＆場面カット解禁",
+          "url": "https://www.sanyonews.jp/photo/detail?article_id",
+          "source": "山陽新聞",
+          "publishedAt": "2026-11-15T16:58:01.000Z",
+          "isPR": false
+        },
+        {
+          "title": "『転スラ』ディアブロ、旧知の３人の悪魔を訪ねる 第86話あらすじ＆場面カット公開",
+          "url": "https://www.sanyonews.jp/article/1950779?rct",
+          "source": "山陽新聞",
+          "publishedAt": "2026-11-15T10:19:11.000Z",
+          "isPR": false
+        },
+        {
+          "title": "『転スラ』夜明けの勇者グラン！リムルはルミナスから誘われる 第88話あらすじ＆場面カット解禁",
+          "url": "https://www.sanyonews.jp/article/1958264",
+          "source": "山陽新聞",
+          "publishedAt": "2026-11-15T09:17:53.000Z",
+          "isPR": false
+        },
+        {
+          "title": "「リゼロ」アニメ第5期制作決定 ビジュアルも公開 | スマートニュース",
+          "url": "https://news.google.com/rss/articles/CBMigANBVV95cUxPbUlmVHhUSlhKdVoySmhUSzdIOG80LVZYaFV2N1BfSVoxeVZoMkMwU1gxQWF5SmlrVXFtd2dnX1RHa0hSSkI0b0xFNDJCMHdCcnZaajJPc01Pc09PZW1PSC1UczJWRHF5M1ZoYVRFcEVhQkxlaWdtQ2JkT1pRRWZNd3VEWUJQZjNJSDd1cVNBdE5nNzQzYlN6dVlJMkxLRHFUOXJFcnpfeHl6ajRaZDlUT1pXdUFoR21pc1dwd1JHa2NiZE1EeUI0ZXJrRVJScGVkRE1NblpwdEMtT3dBQzUxb0RYbHpPbG9YZVBfM055NXdmQVFpbklKc0hXQXBMZTJabzI3blIxWnJyWDBoeTJCaEI0VjRLRzVoWW5Vb2dheFpDdlkwSU1yVHJEdnpfR0tlcUVNdjl2SUNGbjB5MmRTakhvdXdyV2g3WWlBb1dmcDBLVVBIM05sUFpmaTQ0NGVqYXk4YnBvMjR2c3dETE5YNEZibnhpeXd1bVRSRi1FbC0?oc=5",
+          "source": "SmartNews",
+          "publishedAt": "2026-11-14T15:07:00.000Z",
           "isPR": false
         }
       ]
@@ -743,10 +753,10 @@
       "leadSource": "アニメ！アニメ！",
       "publishedAt": "2026-11-16T02:15:28.000Z",
       "sourceCount": 3,
-      "articleCount": 5,
+      "articleCount": 4,
       "categories": [
         "goods",
-        "other"
+        "anime"
       ],
       "keywords": [
         "薬屋",
@@ -759,13 +769,6 @@
           "url": "https://news.mynavi.jp/article/20261116-5336362/",
           "source": "マイナビニュース",
           "publishedAt": "2026-11-16T02:15:28.000Z",
-          "isPR": false
-        },
-        {
-          "title": "JR山手線『薬屋のひとりごと』×茨城県ラッピングトレインが運行開始 - 猫猫や壬氏が“四季のいばらき”を発信",
-          "url": "https://news.mynavi.jp/article/20261116-5336284/",
-          "source": "マイナビニュース",
-          "publishedAt": "2026-11-16T02:08:35.000Z",
           "isPR": false
         },
         {
@@ -785,36 +788,36 @@
       ]
     },
     {
-      "id": "195dcba603c9",
-      "title": "TVアニメ『異世界転生騒動記』2027年1月6日から放送開始！ OPテーマはMaverick Mom「異世界」、EDテーマはときのそら「Brand new day」に決定",
+      "id": "8db1335ea804",
+      "title": "「劇場版 薬屋のひとりごと」CUTのバックカバーに 悠木碧×大塚剛央の対談を掲載",
       "summary": "",
-      "url": "https://eeo.today/media/2026/11/16/412984/",
-      "image": "https://eeo.today/media/wp-content/uploads/2026/11/1116isekaisoudou9.jpg",
-      "leadSource": "eeo",
-      "publishedAt": "2026-11-16T08:30:52.000Z",
+      "url": "https://natalie.mu/comic/news/698173",
+      "image": "https://static.sanyonews.jp/image/article/size1/c/e/2/7/ce279f4c372828b2a814d8dee05e1664_1.jpg",
+      "leadSource": "ナタリー",
+      "publishedAt": "2026-11-16T03:35:00.000Z",
       "sourceCount": 3,
       "articleCount": 3,
       "categories": [
         "anime"
       ],
       "keywords": [
-        "テーマ",
-        "異世界転生騒動記",
-        "maverick"
+        "薬屋",
+        "劇場版",
+        "cut"
       ],
       "articles": [
         {
-          "title": "ときのそら、新曲『Brand new day』がTVアニメ「異世界転生騒動記」EDテーマに決定！アニメPV第2弾にて楽曲初公開！",
-          "url": "https://news.livedoor.com/article/detail/32824757/",
-          "source": "ライブドアニュース",
-          "publishedAt": "2026-11-15T11:00:04.000Z",
+          "title": "CUT12月号で『劇場版 薬屋のひとりごと 亡妃の秘宝』特集を敢行！ 描き下ろしバックカバー＆キャストインタビューで、花咲く謎を解き明かします。11月19日（木）発売！",
+          "url": "https://rockinon.com/blog/cut/216251",
+          "source": "rockinon.com",
+          "publishedAt": "2026-11-16T03:01:02.000Z",
           "isPR": false
         },
         {
-          "title": "Maverick Mom、初のアニメタイアップ！TVアニメ『異世界転生騒動記』OPテーマに「異世界」が決定！",
-          "url": "http://www.excite.co.jp/news/article/Lisani_0000322194/",
-          "source": "Excite エキサイト",
-          "publishedAt": "2026-11-15T02:19:00.000Z",
+          "title": "『薬屋のひとりごと』初の劇場版、12・11公開 「亡妃の秘宝」新予告映像解禁で新キャストに伊瀬茉莉也",
+          "url": "https://www.sanyonews.jp/article/1948702",
+          "source": "山陽新聞",
+          "publishedAt": "2026-11-14T08:00:00.000Z",
           "isPR": false
         }
       ]
@@ -855,44 +858,72 @@
       ]
     },
     {
-      "id": "986ca6d0192b",
-      "title": "『薬屋のひとりごと』猫猫＆壬氏、ヨルシカ新曲についてトーク 3週連続放送CMの総集編が公開 (オリコン)",
+      "id": "9834ca7160aa",
+      "title": "アニメ『異世界転生騒動記』は2027年1月6日（水）より放送開始 第2弾となるキービジュアル＆PVもお披露目",
       "summary": "",
-      "url": "https://news.yahoo.co.jp/articles/ea1d7dd7dfc4d2b17ea5f3432223826bb7749c6f/images/000",
-      "image": "https://news-pctr.c.yimg.jp/uUzvQ3lML_bkIqyakc1vFhNrRI0RUQxg5aFkrX0xDg1_T0wXrbEJjtNGtrf1o9y32aKHaE9S6KKOAHNM7AL26rIUAgakAYnx0zBtPl3DqCfpZzsgDNHq8lBb5suQFs7ELQ9C_LGb8CQwRkmnQLl9-PFl1CT4PWS3PBFdGstYZegDj5uN3pvARXjnLrtsLXq3",
-      "leadSource": "Yahoo!ニュース",
-      "publishedAt": "2026-11-13T22:40:20.000Z",
-      "sourceCount": 2,
-      "articleCount": 4,
+      "url": "https://ln-news.com/articles/127206",
+      "image": "https://assets.ln-news.com/images/medias/731ccb1b8a284e7a9277f585cca70e78.jpg",
+      "leadSource": "ラノベニュースオンライン",
+      "publishedAt": "2026-11-14T05:30:00.000Z",
+      "sourceCount": 3,
+      "articleCount": 3,
       "categories": [
         "anime",
-        "other"
+        "comic"
       ],
       "keywords": [
-        "薬屋",
-        "猫猫",
-        "壬氏"
+        "異世界転生騒動記",
+        "キービジュアル",
+        "放送開始"
       ],
       "articles": [
         {
-          "title": "壬氏が爆笑！猫猫の“おもしろメイク姿”に「これはひどいｗ」「楽しそうだね!?」アニメ『薬屋のひとりごと』55話 (ABEMA TIMES)",
-          "url": "https://news.yahoo.co.jp/articles/50758b90802dc226be72e51d61972a97add267bf/images/000",
-          "source": "Yahoo!ニュース",
-          "publishedAt": "2026-11-13T15:12:17.000Z",
+          "title": "TVアニメ『異世界転生騒動記』2027年1月6日より放送・配信決定！キービジュアル第2弾、PV第2弾を公開！",
+          "url": "https://news.nicovideo.jp/watch/nw19991147",
+          "source": "ニコニコニュース",
+          "publishedAt": "2026-11-13T20:30:32.000Z",
           "isPR": false
         },
         {
-          "title": "薬屋のひとりごと＞猫猫＆壬氏がヨルシカの新曲を語る特別CMの総集編公開（WEBザテレビジョン）",
-          "url": "https://news.yahoo.co.jp/articles/253cea9e40c9580bbef0c1ef616b793a94c7c61d",
-          "source": "Yahoo!ニュース",
-          "publishedAt": "2026-11-13T14:30:00.000Z",
+          "title": "貴族×武将×オタクの三位一体ファンタジーアニメ『異世界転生騒動記』1/6より放送開始。コミックス最新15巻も12/14発売",
+          "url": "https://dengekionline.com/article/202611/93989",
+          "source": "電撃オンライン",
+          "publishedAt": "2026-11-13T12:00:00.000Z",
+          "isPR": false
+        }
+      ]
+    },
+    {
+      "id": "195dcba603c9",
+      "title": "TVアニメ『異世界転生騒動記』2027年1月6日から放送開始！ OPテーマはMaverick Mom「異世界」、EDテーマはときのそら「Brand new day」に決定",
+      "summary": "",
+      "url": "https://eeo.today/media/2026/11/16/412984/",
+      "image": "https://eeo.today/media/wp-content/uploads/2026/11/1116isekaisoudou9.jpg",
+      "leadSource": "eeo",
+      "publishedAt": "2026-11-16T08:30:52.000Z",
+      "sourceCount": 2,
+      "articleCount": 3,
+      "categories": [
+        "anime"
+      ],
+      "keywords": [
+        "テーマ",
+        "異世界転生騒動記",
+        "maverick"
+      ],
+      "articles": [
+        {
+          "title": "ときのそら、新曲『Brand new day』がTVアニメ「異世界転生騒動記」EDテーマに決定！アニメPV第2弾にて楽曲初公開！",
+          "url": "https://news.livedoor.com/article/detail/32824757/",
+          "source": "ライブドアニュース",
+          "publishedAt": "2026-11-15T11:00:04.000Z",
           "isPR": false
         },
         {
-          "title": "＜薬屋のひとりごと＞猫猫＆壬氏がヨルシカの新曲を語る特別CMの総集編公開",
-          "url": "https://thetv.jp/news/detail/1457362/",
-          "source": "WEBザテレビジョン",
-          "publishedAt": "2026-11-13T14:30:00.000Z",
+          "title": "Maverick Mom、初のアニメタイアップ！TVアニメ『異世界転生騒動記』OPテーマに「異世界」が決定！",
+          "url": "https://news.livedoor.com/article/detail/32822278/",
+          "source": "ライブドアニュース",
+          "publishedAt": "2026-11-15T02:19:00.000Z",
           "isPR": false
         }
       ]
@@ -929,42 +960,6 @@
           "url": "https://abema.tv/channels/isekai-anime/slots/AyqCNVKNJJyxMD",
           "source": "ABEMA",
           "publishedAt": "2026-11-14T18:02:06.000Z",
-          "isPR": false
-        }
-      ]
-    },
-    {
-      "id": "e19b449c735c",
-      "title": "1/6～「異世界転生騒動記」に井上麻里奈、子安武人、熊谷俊輝ら",
-      "summary": "",
-      "url": "https://www.ota-suke.jp/news/292749",
-      "image": "http://www.ota-suke.jp/images/editor/tak/image2026/1113_05.webp",
-      "leadSource": "おた☆スケ",
-      "publishedAt": "2026-11-13T09:53:00.000Z",
-      "sourceCount": 2,
-      "articleCount": 3,
-      "categories": [
-        "other",
-        "anime"
-      ],
-      "keywords": [
-        "異世界転生騒動記",
-        "井上麻里奈",
-        "maverick"
-      ],
-      "articles": [
-        {
-          "title": "「異世界転生騒動記」に井上麻里奈ら出演、主題歌はMaverick Mom＆ときのそら（コミックナタリー）",
-          "url": "https://news.yahoo.co.jp/articles/cf879df5c99e895ec1a5ac111f745161525d6465",
-          "source": "Yahoo!ニュース",
-          "publishedAt": "2026-11-13T09:00:53.000Z",
-          "isPR": false
-        },
-        {
-          "title": "Maverick Mom、TVアニメ『異世界転生騒動記』OPテーマに「異世界」が決定。来年にはワンマンライブも（E-TALENTBANK）",
-          "url": "https://news.yahoo.co.jp/articles/64e83dc74a7403292966db483fb58c2e5b44f04c",
-          "source": "Yahoo!ニュース",
-          "publishedAt": "2026-11-13T09:00:25.000Z",
           "isPR": false
         }
       ]
@@ -1029,13 +1024,112 @@
     }
   ],
   "churn": {
-    "previousAt": "2026-11-16T08:30:20.234Z",
-    "previousCount": 130,
-    "newCount": 8
+    "previousAt": "2026-11-16T09:00:18.134Z",
+    "previousCount": 133,
+    "newCount": 9
   },
   "updateGapMin": 30,
-  "nextUpdateAt": "2026-11-16T09:30:18.134Z",
+  "nextUpdateAt": "2026-11-16T10:00:24.406Z",
   "items": [
+    {
+      "id": "86c279374abe",
+      "title": "異世界・ファンタジーアニメ5チャンネル | 無料で放送中の番組や配信中の話題作が見放題",
+      "url": "https://abema.tv/now-on-air/isekai-anime-5",
+      "host": "abema.tv",
+      "source": "ABEMA",
+      "summary": "",
+      "publishedAt": "2026-11-16T09:13:10.000Z",
+      "image": "",
+      "categories": [
+        "anime"
+      ],
+      "works": [],
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": true
+    },
+    {
+      "id": "eb3a19c7661a",
+      "title": "「400年待つ気だったのにあっつ」アニメ『リゼロ』5期製作決定に歓喜の声「情報量が多すぎて鳥肌止まらん」",
+      "url": "https://news.nicovideo.jp/watch/nw19996886?news_ref",
+      "host": "news.nicovideo.jp",
+      "source": "ニコニコニュース",
+      "summary": "",
+      "publishedAt": "2026-11-16T09:00:21.000Z",
+      "image": "",
+      "categories": [
+        "anime"
+      ],
+      "works": [
+        "rezero"
+      ],
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": true
+    },
+    {
+      "id": "500950e02236",
+      "title": "「リゼロ」5th season製作決定 スバルとレムが新たな冒険へ旅立つウルトラティザービジュアル公開 : ニュース",
+      "url": "https://anime.eiga.com/news/127874/",
+      "host": "anime.eiga.com",
+      "source": "アニメハック",
+      "summary": "",
+      "publishedAt": "2026-11-16T09:00:00.000Z",
+      "image": "https://media.eiga.com/images/anime/news/127874/photo/c7fc60a7ea71a546/640.jpg",
+      "categories": [
+        "other"
+      ],
+      "works": [
+        "rezero"
+      ],
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": true
+    },
+    {
+      "id": "55e76e9dfc62",
+      "title": "山手線に「薬屋のひとりごと」のラッピング車両 茨城県が観光地PR",
+      "url": "https://www.nikkei.com/article/DGXZQOCC165NQ0W6A111C2000000/",
+      "host": "nikkei.com",
+      "source": "日本経済新聞",
+      "summary": "",
+      "publishedAt": "2026-11-16T09:00:00.000Z",
+      "image": "https://article-image-ix.nikkei.com/https%3A%2F%2Fimgix-proxy.n8s.jp%2FDSXZQO3886096016112026000000-1.jpg?auto=compress&bg=FFFF&crop=focalpoint&fit=crop&fm=jpg&h=630&w=1200&s=93c251b717ceac49e9e4796a02e21ee6",
+      "categories": [
+        "other"
+      ],
+      "works": [
+        "kusuriya"
+      ],
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": true
+    },
+    {
+      "id": "3dbb80c973b6",
+      "title": "三木眞一郎＆加隈亜衣が『転生したら剣でしたII』新章「シードラン編」の見どころを徹底解説！加隈亜衣、師匠の「親心感」をアピール！？／三木眞一郎がゲーム企画で大活躍！加隈亜衣「さすが師匠です！」",
+      "url": "https://prtimes.jp/main/html/rd/p/000004258.000064643.html",
+      "host": "prtimes.jp",
+      "source": "PR TIMES",
+      "summary": "[ABEMA] [画像1: https://prcdn.freetls.fastly.net/release_image/64643/4258/64643-4258-4c036a011633dd887cfebbb74566bfed-1800x1350.jpg?width=536&quality=85%2C75&for…",
+      "publishedAt": "2026-11-16T08:40:00.000Z",
+      "image": "https://prcdn.freetls.fastly.net/release_image/64643/4258/64643-4258-4c036a011633dd887cfebbb74566bfed-1800x1350.jpg?format=jpeg&auto=webp&fit=bounds&width=2400&height=1260",
+      "categories": [
+        "anime",
+        "game"
+      ],
+      "works": [
+        "tenken"
+      ],
+      "isPR": true,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": true
+    },
     {
       "id": "195dcba603c9",
       "title": "TVアニメ『異世界転生騒動記』2027年1月6日から放送開始！ OPテーマはMaverick Mom「異世界」、EDテーマはときのそら「Brand new day」に決定",
@@ -1052,7 +1146,7 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "62807f13ec40",
@@ -1211,6 +1305,26 @@
       "viaGoogle": false,
       "sourceKind": "news",
       "isNew": false
+    },
+    {
+      "id": "13e162946ccb",
+      "title": "『リゼロ』TVアニメ5th",
+      "url": "https://news.nicovideo.jp/watch/nw19995625?news_ref",
+      "host": "news.nicovideo.jp",
+      "source": "ニコニコニュース",
+      "summary": "",
+      "publishedAt": "2026-11-16T03:24:19.000Z",
+      "image": "",
+      "categories": [
+        "anime"
+      ],
+      "works": [
+        "rezero"
+      ],
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": true
     },
     {
       "id": "82764545d27a",
@@ -1482,7 +1596,7 @@
       "host": "cinema.korona.co.jp",
       "source": "コロナワールド",
       "summary": "",
-      "publishedAt": "2026-11-16T01:22:12.000Z",
+      "publishedAt": "2026-11-16T01:33:48.000Z",
       "image": "https://cinema.korona.co.jp/uploads/X_da5e2ae6f5.png",
       "categories": [
         "anime"
@@ -1494,26 +1608,6 @@
       "viaGoogle": false,
       "sourceKind": "news",
       "isNew": false
-    },
-    {
-      "id": "54faa7525557",
-      "title": "Creative Plusがアニメ無職転生ⅢのLINEスタンプと着せかえを配信",
-      "url": "https://news.dellows.jp/439657/?from",
-      "host": "news.dellows.jp",
-      "source": "Dellows News",
-      "summary": "",
-      "publishedAt": "2026-11-16T01:20:45.000Z",
-      "image": "https://news.dellows.jp/wp-content/uploads/2026/09/439657_1.jpg",
-      "categories": [
-        "anime"
-      ],
-      "works": [
-        "mushoku"
-      ],
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": true
     },
     {
       "id": "9bec1f6335d0",
@@ -1615,26 +1709,6 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": true
-    },
-    {
-      "id": "1ed9418c4ddb",
-      "title": "『転スラ』ディアブロ、旧知の３人の悪魔を訪ねる 第86話あらすじ＆場面カット公開",
-      "url": "https://www.sanyonews.jp/article/1950779?kw",
-      "host": "sanyonews.jp",
-      "source": "山陽新聞",
-      "summary": "",
-      "publishedAt": "2026-11-15T23:16:50.000Z",
-      "image": "https://static.sanyonews.jp/image/article/size1/0/4/9/3/04933a1621737fd3123efb4b1ebc5fc9_1.jpg",
-      "categories": [
-        "anime"
-      ],
-      "works": [
-        "tensura"
-      ],
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
       "isNew": false
     },
     {
@@ -1699,6 +1773,26 @@
       "isNew": false
     },
     {
+      "id": "299970487651",
+      "title": "『転スラ』衝撃の戦闘！封印の解かれたクロノア、破壊の化身に 第94話あらすじ＆場面カット解禁",
+      "url": "https://www.sanyonews.jp/article/1985402?rct",
+      "host": "sanyonews.jp",
+      "source": "山陽新聞",
+      "summary": "",
+      "publishedAt": "2026-11-15T21:41:01.000Z",
+      "image": "https://static.sanyonews.jp/image/article/size1/d/9/c/b/d9cb1ddffdf8abde09ac68fbbed84f89_1.jpg",
+      "categories": [
+        "anime"
+      ],
+      "works": [
+        "tensura"
+      ],
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": false
+    },
+    {
       "id": "d8dedb155cf8",
       "title": "『転スラ』クロノアのスキルに干渉を試みる 第96話あらすじ＆場面カット公開",
       "url": "https://www.sanyonews.jp/article/1992860?kw",
@@ -1712,26 +1806,6 @@
       ],
       "works": [
         "tensura"
-      ],
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": false
-    },
-    {
-      "id": "ae1f844a9b87",
-      "title": "『無職転生』第3期の第5話あらすじ＆場面カット解禁 TV放送にあわせて声優3人オーディオコメンタリー配信",
-      "url": "https://www.sanyonews.jp/article/1959251?rct",
-      "host": "sanyonews.jp",
-      "source": "山陽新聞",
-      "summary": "",
-      "publishedAt": "2026-11-15T18:59:35.000Z",
-      "image": "https://static.sanyonews.jp/image/article/size1/7/f/1/1/7f11dc5c8c5bebf2ba29d5c6803d55cf_1.jpg",
-      "categories": [
-        "anime"
-      ],
-      "works": [
-        "mushoku"
       ],
       "isPR": false,
       "viaGoogle": false,
@@ -1758,6 +1832,46 @@
       "viaGoogle": false,
       "sourceKind": "news",
       "isNew": false
+    },
+    {
+      "id": "3001176857af",
+      "title": "『薬屋のひとりごと』最新話、猫猫が歌った子守歌に注目集まる「母から猫猫、そして壬氏へ」「切ない」",
+      "url": "https://www.sanyonews.jp/article/2004391?kw",
+      "host": "sanyonews.jp",
+      "source": "山陽新聞",
+      "summary": "",
+      "publishedAt": "2026-11-15T18:29:56.000Z",
+      "image": "https://static.sanyonews.jp/image/article/size1/a/a/c/2/aac23468d65942e20f3e9b0d292a6a7e_1.jpg",
+      "categories": [
+        "other"
+      ],
+      "works": [
+        "kusuriya"
+      ],
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": false
+    },
+    {
+      "id": "597aeb0ae593",
+      "title": "『転スラ』クロエとヒナタ、暴風竜に戦いを挑む 【勇者クロノア・後編】第93話あらすじ＆場面カット解禁",
+      "url": "https://www.sanyonews.jp/photo/detail?article_id",
+      "host": "sanyonews.jp",
+      "source": "山陽新聞",
+      "summary": "",
+      "publishedAt": "2026-11-15T16:58:01.000Z",
+      "image": "",
+      "categories": [
+        "anime"
+      ],
+      "works": [
+        "tensura"
+      ],
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": true
     },
     {
       "id": "18c442dd9a7f",
@@ -1820,6 +1934,26 @@
       "isNew": false
     },
     {
+      "id": "11ff5432d9b8",
+      "title": "＜薬屋のひとりごと＞壬氏初の“猫猫”名前呼びに「刺激が強すぎる」とファン悶絶、幽霊の正体も明らかに【第38話】",
+      "url": "https://thetv.jp/news/detail/1445408/18697258/",
+      "host": "thetv.jp",
+      "source": "WEBザテレビジョン",
+      "summary": "",
+      "publishedAt": "2026-11-15T12:38:42.000Z",
+      "image": "https://thetv.jp/i/nw/1445408/18697258.jpg?w=1284",
+      "categories": [
+        "anime"
+      ],
+      "works": [
+        "kusuriya"
+      ],
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": false
+    },
+    {
       "id": "8e2e81a3520c",
       "title": "＜無職転生III＞突然現れた謎の老人が、ルーデウスの未来について語り始める…第12話あらすじ＆先行カット公開",
       "url": "https://thetv.jp/news/detail/1439775/18478383/",
@@ -1840,26 +1974,6 @@
       "isNew": false
     },
     {
-      "id": "4767e9d90138",
-      "title": "『薬屋のひとりごと』阿多を訪ねた猫猫、手掛かりに気づく 第52話あらすじ＆場面カット公開",
-      "url": "https://www.sanyonews.jp/article/2009036",
-      "host": "sanyonews.jp",
-      "source": "山陽新聞",
-      "summary": "",
-      "publishedAt": "2026-11-15T11:17:58.000Z",
-      "image": "https://static.sanyonews.jp/image/article/size1/8/b/3/d/8b3d5406dc5695c39a1607f0ee0ef946_1.jpg",
-      "categories": [
-        "anime"
-      ],
-      "works": [
-        "kusuriya"
-      ],
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": true
-    },
-    {
       "id": "0d51e8aba164",
       "title": "ときのそら、新曲『Brand new day』がTVアニメ「異世界転生騒動記」EDテーマに決定！アニメPV第2弾にて楽曲初公開！",
       "url": "https://news.livedoor.com/article/detail/32824757/",
@@ -1878,24 +1992,44 @@
       "isNew": false
     },
     {
-      "id": "f20ac13e612b",
-      "title": "『片田舎のおっさん、剣聖になる』第2期PV公開 魔術師学院の秘密に迫るアクション",
-      "url": "https://www.sanyonews.jp/article/1896592",
+      "id": "1f3fb2c93d42",
+      "title": "『無職転生』第3期の新ビジュアル解禁 【エリス修行編】後に展開する物語！意味深なキャラ登場",
+      "url": "https://www.sanyonews.jp/article/1923395?kw",
       "host": "sanyonews.jp",
       "source": "山陽新聞",
       "summary": "",
-      "publishedAt": "2026-11-15T10:57:29.000Z",
-      "image": "https://static.sanyonews.jp/image/article/size1/6/1/4/f/614f54b5670dcff4b0c72aff4dd6b317_1.jpg",
+      "publishedAt": "2026-11-15T10:40:52.000Z",
+      "image": "https://static.sanyonews.jp/image/article/size1/7/3/6/3/7363e64aa389c52b439a985f37205bbe_1.jpg",
       "categories": [
         "anime"
       ],
       "works": [
-        "katainaka"
+        "mushoku"
       ],
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": true
+      "isNew": false
+    },
+    {
+      "id": "1ed9418c4ddb",
+      "title": "『転スラ』ディアブロ、旧知の３人の悪魔を訪ねる 第86話あらすじ＆場面カット公開",
+      "url": "https://www.sanyonews.jp/article/1950779?rct",
+      "host": "sanyonews.jp",
+      "source": "山陽新聞",
+      "summary": "",
+      "publishedAt": "2026-11-15T10:19:11.000Z",
+      "image": "https://static.sanyonews.jp/image/article/size1/0/4/9/3/04933a1621737fd3123efb4b1ebc5fc9_1.jpg",
+      "categories": [
+        "anime"
+      ],
+      "works": [
+        "tensura"
+      ],
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": false
     },
     {
       "id": "9af157a85cd2",
@@ -2040,14 +2174,14 @@
       "isNew": false
     },
     {
-      "id": "a42ca905e92c",
-      "title": "『薬屋のひとりごと』猫猫リカちゃん、新登場！10月24日発売 特徴的なそばかすや左腕の包帯など再現",
-      "url": "https://www.sanyonews.jp/article/1977543",
+      "id": "c5c8b6d22594",
+      "title": "『薬屋のひとりごと』新ビジュアル公開 猫猫＆女華の関係が垣間見える1枚",
+      "url": "https://www.sanyonews.jp/article/1909899?kw",
       "host": "sanyonews.jp",
       "source": "山陽新聞",
       "summary": "",
-      "publishedAt": "2026-11-15T09:15:29.000Z",
-      "image": "https://static.sanyonews.jp/image/article/size1/0/d/f/b/0dfb964765b66344c72a93e26a9002e1_1.jpg",
+      "publishedAt": "2026-11-15T09:05:17.000Z",
+      "image": "https://static.sanyonews.jp/image/article/size1/c/8/3/e/c83ee124bc9adcfbf7cf8959c237dde7_1.jpg",
       "categories": [
         "other"
       ],
@@ -2060,24 +2194,24 @@
       "isNew": true
     },
     {
-      "id": "3001176857af",
-      "title": "『薬屋のひとりごと』最新話、猫猫が歌った子守歌に注目集まる「母から猫猫、そして壬氏へ」「切ない」",
-      "url": "https://www.sanyonews.jp/article/2004391",
-      "host": "sanyonews.jp",
-      "source": "山陽新聞",
+      "id": "9e38bf0b4645",
+      "title": "TVアニメ『Re:ゼロから始める異世界生活』5th season 製作決定！ウルトラティザービジュアルを公開＆原作：長月達平からお祝いコメントが到着！ (2026年11月15日掲載)",
+      "url": "https://news.livedoor.com/topics/detail/32824084/",
+      "host": "news.livedoor.com",
+      "source": "ライブドアニュース",
       "summary": "",
-      "publishedAt": "2026-11-15T09:05:16.000Z",
-      "image": "https://static.sanyonews.jp/image/article/size1/a/a/c/2/aac23468d65942e20f3e9b0d292a6a7e_1.jpg",
+      "publishedAt": "2026-11-15T09:00:28.000Z",
+      "image": "https://image.news.livedoor.com/newsimage/stf/2/f/2f970_1516_efc44bae_b95c580d.jpg",
       "categories": [
-        "other"
+        "anime"
       ],
       "works": [
-        "kusuriya"
+        "rezero"
       ],
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": false
+      "isNew": true
     },
     {
       "id": "7564efbaceb1",
@@ -2164,12 +2298,12 @@
     {
       "id": "e6a4c933cc2e",
       "title": "Maverick Mom、初のアニメタイアップ！TVアニメ『異世界転生騒動記』OPテーマに「異世界」が決定！",
-      "url": "http://www.excite.co.jp/news/article/Lisani_0000322194/",
-      "host": "excite.co.jp",
-      "source": "Excite エキサイト",
+      "url": "https://news.livedoor.com/article/detail/32822278/",
+      "host": "news.livedoor.com",
+      "source": "ライブドアニュース",
       "summary": "",
       "publishedAt": "2026-11-15T02:19:00.000Z",
-      "image": "",
+      "image": "https://image.news.livedoor.com/newsimage/stf/7/e/7e687_1516_54a618b1_8b1a453c.jpeg",
       "categories": [
         "anime"
       ],
@@ -2436,26 +2570,6 @@
       "isNew": false
     },
     {
-      "id": "1f3fb2c93d42",
-      "title": "『無職転生』第3期の新ビジュアル解禁 【エリス修行編】後に展開する物語！意味深なキャラ登場",
-      "url": "https://www.sanyonews.jp/article/1923395?kw",
-      "host": "sanyonews.jp",
-      "source": "山陽新聞",
-      "summary": "",
-      "publishedAt": "2026-11-14T15:30:55.000Z",
-      "image": "https://static.sanyonews.jp/image/article/size1/7/3/6/3/7363e64aa389c52b439a985f37205bbe_1.jpg",
-      "categories": [
-        "anime"
-      ],
-      "works": [
-        "mushoku"
-      ],
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": false
-    },
-    {
       "id": "65f90a335f20",
       "title": "「リゼロ」アニメ第5期制作決定 ビジュアルも公開 | スマートニュース",
       "url": "https://news.google.com/rss/articles/CBMigANBVV95cUxPbUlmVHhUSlhKdVoySmhUSzdIOG80LVZYaFV2N1BfSVoxeVZoMkMwU1gxQWF5SmlrVXFtd2dnX1RHa0hSSkI0b0xFNDJCMHdCcnZaajJPc01Pc09PZW1PSC1UczJWRHF5M1ZoYVRFcEVhQkxlaWdtQ2JkT1pRRWZNd3VEWUJQZjNJSDd1cVNBdE5nNzQzYlN6dVlJMkxLRHFUOXJFcnpfeHl6ajRaZDlUT1pXdUFoR21pc1dwd1JHa2NiZE1EeUI0ZXJrRVJScGVkRE1NblpwdEMtT3dBQzUxb0RYbHpPbG9YZVBfM055NXdmQVFpbklKc0hXQXBMZTJabzI3blIxWnJyWDBoeTJCaEI0VjRLRzVoWW5Vb2dheFpDdlkwSU1yVHJEdnpfR0tlcUVNdjl2SUNGbjB5MmRTakhvdXdyV2g3WWlBb1dmcDBLVVBIM05sUFpmaTQ0NGVqYXk4YnBvMjR2c3dETE5YNEZibnhpeXd1bVRSRi1FbC0?oc=5",
@@ -2472,46 +2586,6 @@
       ],
       "isPR": false,
       "viaGoogle": true,
-      "sourceKind": "news",
-      "isNew": false
-    },
-    {
-      "id": "299970487651",
-      "title": "『転スラ』衝撃の戦闘！封印の解かれたクロノア、破壊の化身に 第94話あらすじ＆場面カット解禁",
-      "url": "https://www.sanyonews.jp/article/1985402?rct",
-      "host": "sanyonews.jp",
-      "source": "山陽新聞",
-      "summary": "",
-      "publishedAt": "2026-11-14T13:18:28.000Z",
-      "image": "https://static.sanyonews.jp/image/article/size1/d/9/c/b/d9cb1ddffdf8abde09ac68fbbed84f89_1.jpg",
-      "categories": [
-        "anime"
-      ],
-      "works": [
-        "tensura"
-      ],
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": true
-    },
-    {
-      "id": "11ff5432d9b8",
-      "title": "＜薬屋のひとりごと＞壬氏初の“猫猫”名前呼びに「刺激が強すぎる」とファン悶絶、幽霊の正体も明らかに【第38話】",
-      "url": "https://thetv.jp/news/detail/1445408/18697258/",
-      "host": "thetv.jp",
-      "source": "WEBザテレビジョン",
-      "summary": "",
-      "publishedAt": "2026-11-14T13:14:17.000Z",
-      "image": "https://thetv.jp/i/nw/1445408/18697258.jpg?w=1284",
-      "categories": [
-        "anime"
-      ],
-      "works": [
-        "kusuriya"
-      ],
-      "isPR": false,
-      "viaGoogle": false,
       "sourceKind": "news",
       "isNew": false
     },
@@ -2775,25 +2849,6 @@
       "viaGoogle": false,
       "sourceKind": "news",
       "isNew": false
-    },
-    {
-      "id": "620724a65b90",
-      "title": "『ドローイング 最強漫画家はお絵描きスキルで異世界無双する！』連載5周年＆20巻刊行記念フェア開催！",
-      "url": "https://www.sanyonews.jp/article/1985334",
-      "host": "sanyonews.jp",
-      "source": "山陽新聞",
-      "summary": "",
-      "publishedAt": "2026-11-14T08:00:00.000Z",
-      "image": "https://static.sanyonews.jp/image/article/size1https://prtimes.jp/img/49835/1008/resize/d49835-1008-4fe328325d1fef044031-29.jpg",
-      "categories": [
-        "comic",
-        "book"
-      ],
-      "works": [],
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": true
     },
     {
       "id": "eecf71fa228d",
@@ -3090,6 +3145,24 @@
       "isNew": false
     },
     {
+      "id": "ea53ec09d78d",
+      "title": "TVアニメ『異世界転生騒動記』2027年1月6日より放送・配信決定！キービジュアル第2弾、PV第2弾を公開！",
+      "url": "https://news.nicovideo.jp/watch/nw19991147",
+      "host": "news.nicovideo.jp",
+      "source": "ニコニコニュース",
+      "summary": "",
+      "publishedAt": "2026-11-13T20:30:32.000Z",
+      "image": "",
+      "categories": [
+        "anime"
+      ],
+      "works": [],
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": false
+    },
+    {
       "id": "d037145a529d",
       "title": "児童書版「転スラ」最新刊・『転生したらスライムだった件 とある時空の物語１７.（上）』かなで文庫より、11月16日（月）発売！販売協力店で購入された方に『両面紙しおり』をプレゼント！",
       "url": "https://www.jiji.com/jc/article?k",
@@ -3209,6 +3282,24 @@
       "isNew": false
     },
     {
+      "id": "52ee9830cc09",
+      "title": "Maverick Mom、TVアニメ『異世界転生騒動記』OPテーマに「異世界」が決定。来年にはワンマンライブも",
+      "url": "https://news.nicovideo.jp/watch/nw19990541",
+      "host": "news.nicovideo.jp",
+      "source": "ニコニコニュース",
+      "summary": "",
+      "publishedAt": "2026-11-13T15:03:10.000Z",
+      "image": "",
+      "categories": [
+        "anime"
+      ],
+      "works": [],
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": false
+    },
+    {
       "id": "ee237dc8ed84",
       "title": "アニメ『薬屋のひとりごと』3期はいつから？2026年10月2日から分割2クールで放送！原作のどこからどこまで？",
       "url": "https://times.abema.tv/articles/-/10078716",
@@ -3237,26 +3328,6 @@
       "summary": "",
       "publishedAt": "2026-11-13T14:30:00.000Z",
       "image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20261113-01457362-the_tv-000-1-view.jpg?exp=10800",
-      "categories": [
-        "other"
-      ],
-      "works": [
-        "kusuriya"
-      ],
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": false
-    },
-    {
-      "id": "db3453058abc",
-      "title": "＜薬屋のひとりごと＞猫猫＆壬氏がヨルシカの新曲を語る特別CMの総集編公開",
-      "url": "https://thetv.jp/news/detail/1457362/",
-      "host": "thetv.jp",
-      "source": "WEBザテレビジョン",
-      "summary": "",
-      "publishedAt": "2026-11-13T14:30:00.000Z",
-      "image": "https://thetv.jp/i/nw/1457362/19175060.jpg?w=1284",
       "categories": [
         "other"
       ],
@@ -3495,170 +3566,6 @@
       "works": [
         "kusuriya"
       ],
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": false
-    },
-    {
-      "id": "ea53ec09d78d",
-      "title": "TVアニメ『異世界転生騒動記』2027年1月6日より放送・配信決定！キービジュアル第2弾、PV第2弾を公開！ コミカライズ最新巻を12/14(月)に刊行！",
-      "url": "https://prtimes.jp/main/html/rd/p/000000226.000004331.html",
-      "host": "prtimes.jp",
-      "source": "PR TIMES",
-      "summary": "",
-      "publishedAt": "2026-11-13T09:30:02.000Z",
-      "image": "https://prcdn.freetls.fastly.net/release_image/4331/226/4331-226-a13cef2704e5eb0d266ec59f21ad68f4-1909x2700.jpg?format=jpeg&auto=webp&fit=bounds&width=2400&height=1260",
-      "categories": [
-        "anime",
-        "comic"
-      ],
-      "works": [],
-      "isPR": true,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": false
-    },
-    {
-      "id": "bc211963dca4",
-      "title": "アルファポリス[9467]：TVアニメ『異世界転生騒動記』2027年1月6日より放送・配信決定！ キービジュアル第2弾、PV第2弾を公開！ 2026年11月13日(適時開示) ：日経会社情報DIGITAL",
-      "url": "https://www.nikkei.com/nkd/disclosure/tdnr/20261113579585/",
-      "host": "nikkei.com",
-      "source": "日本経済新聞",
-      "summary": "",
-      "publishedAt": "2026-11-13T09:30:00.000Z",
-      "image": "https://www.nikkei.com/nkd/disclosure/tdnr/20261113579585/thumbnail/?ttype=ogp",
-      "categories": [
-        "anime"
-      ],
-      "works": [],
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": false
-    },
-    {
-      "id": "47bb1a6300a9",
-      "title": "TVアニメ「異世界転生騒動記」PV第2弾より [画像・動画ギャラリー 26/27]",
-      "url": "https://natalie.mu/comic/gallery/news/697941/3017726",
-      "host": "natalie.mu",
-      "source": "ナタリー",
-      "summary": "",
-      "publishedAt": "2026-11-13T09:04:02.000Z",
-      "image": "",
-      "categories": [
-        "anime"
-      ],
-      "works": [],
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": false
-    },
-    {
-      "id": "4fd144fa48f9",
-      "title": "TVアニメ「異世界転生騒動記」PV第2弾より [画像・動画ギャラリー 22/27]",
-      "url": "https://natalie.mu/comic/gallery/news/697941/3017722",
-      "host": "natalie.mu",
-      "source": "ナタリー",
-      "summary": "",
-      "publishedAt": "2026-11-13T09:04:02.000Z",
-      "image": "",
-      "categories": [
-        "anime"
-      ],
-      "works": [],
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": false
-    },
-    {
-      "id": "6e5851419482",
-      "title": "TVアニメ「異世界転生騒動記」放送情報 [画像・動画ギャラリー 18/27]",
-      "url": "https://natalie.mu/comic/gallery/news/697941/3017718",
-      "host": "natalie.mu",
-      "source": "ナタリー",
-      "summary": "",
-      "publishedAt": "2026-11-13T09:04:02.000Z",
-      "image": "",
-      "categories": [
-        "anime"
-      ],
-      "works": [],
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": false
-    },
-    {
-      "id": "d8f6e513471b",
-      "title": "TVアニメ「異世界転生騒動記」PV第2弾より [画像・動画ギャラリー 23/27]",
-      "url": "https://natalie.mu/comic/gallery/news/697941/3017723",
-      "host": "natalie.mu",
-      "source": "ナタリー",
-      "summary": "",
-      "publishedAt": "2026-11-13T09:04:01.000Z",
-      "image": "",
-      "categories": [
-        "anime"
-      ],
-      "works": [],
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": false
-    },
-    {
-      "id": "0e0bc95ff39f",
-      "title": "TVアニメ「異世界転生騒動記」PV第2弾サムネイル [画像・動画ギャラリー 19/27]",
-      "url": "https://natalie.mu/comic/gallery/news/697941/3017719",
-      "host": "natalie.mu",
-      "source": "ナタリー",
-      "summary": "",
-      "publishedAt": "2026-11-13T09:04:01.000Z",
-      "image": "",
-      "categories": [
-        "anime"
-      ],
-      "works": [],
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": false
-    },
-    {
-      "id": "c0620727972c",
-      "title": "「異世界転生騒動記」に井上麻里奈ら出演、主題歌はMaverick Mom＆ときのそら（コミックナタリー）",
-      "url": "https://news.yahoo.co.jp/articles/cf879df5c99e895ec1a5ac111f745161525d6465",
-      "host": "news.yahoo.co.jp",
-      "source": "Yahoo!ニュース",
-      "summary": "",
-      "publishedAt": "2026-11-13T09:00:53.000Z",
-      "image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20261113-00000127-nataliec-000-1-view.jpg?exp=10800",
-      "categories": [
-        "anime",
-        "comic"
-      ],
-      "works": [],
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": false
-    },
-    {
-      "id": "52ee9830cc09",
-      "title": "Maverick Mom、TVアニメ『異世界転生騒動記』OPテーマに「異世界」が決定。来年にはワンマンライブも（E-TALENTBANK）",
-      "url": "https://news.yahoo.co.jp/articles/64e83dc74a7403292966db483fb58c2e5b44f04c",
-      "host": "news.yahoo.co.jp",
-      "source": "Yahoo!ニュース",
-      "summary": "",
-      "publishedAt": "2026-11-13T09:00:25.000Z",
-      "image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20261113-00627916-etalent-000-1-view.jpg?exp=10800",
-      "categories": [
-        "anime"
-      ],
-      "works": [],
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
