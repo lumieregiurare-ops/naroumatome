@@ -1,28 +1,28 @@
 {
-  "updatedAt": "2026-11-16T00:30:17.627Z",
+  "updatedAt": "2026-11-16T01:00:19.514Z",
   "site": {
     "title": "なろう系まとめ",
     "tagline": "小説家になろう発の作品のアニメ化・コミカライズ・書籍化のニュースと、なろうのランキングをまとめています。",
     "url": "https://naroumatome.gamelab.website/",
     "contactUrl": "https://docs.google.com/forms/d/e/1FAIpQLSesWyhmZ6sRS_ve-c3X2KqF_wC5PK2TgwgQbTKmnQltSlg5Jw/viewform"
   },
-  "total": 119,
+  "total": 118,
   "todayCount": 8,
   "categories": [
     {
       "id": "anime",
       "label": "アニメ",
-      "count": 78
+      "count": 76
     },
     {
       "id": "comic",
       "label": "コミカライズ",
-      "count": 7
+      "count": 9
     },
     {
       "id": "book",
       "label": "書籍・ラノベ",
-      "count": 3
+      "count": 4
     },
     {
       "id": "web",
@@ -37,12 +37,12 @@
     {
       "id": "goods",
       "label": "グッズ・イベント",
-      "count": 23
+      "count": 22
     },
     {
       "id": "other",
       "label": "そのほか",
-      "count": 19
+      "count": 18
     }
   ],
   "works": [
@@ -56,7 +56,7 @@
       "id": "mushoku",
       "title": "無職転生 ～異世界行ったら本気だす～",
       "short": "無職転生",
-      "count": 18
+      "count": 17
     },
     {
       "id": "rezero",
@@ -74,7 +74,7 @@
       "id": "kusuriya",
       "title": "薬屋のひとりごと",
       "short": "薬屋",
-      "count": 29
+      "count": 28
     },
     {
       "id": "kagejitsu",
@@ -296,7 +296,7 @@
   "sources": [
     {
       "name": "Yahoo!ニュース",
-      "count": 13
+      "count": 14
     },
     {
       "name": "山陽新聞",
@@ -304,7 +304,7 @@
     },
     {
       "name": "ナタリー",
-      "count": 12
+      "count": 11
     },
     {
       "name": "アニメ！アニメ！",
@@ -325,10 +325,6 @@
     {
       "name": "ABEMA TIMES",
       "count": 4
-    },
-    {
-      "name": "Excite エキサイト",
-      "count": 3
     },
     {
       "name": "オリコンニュース",
@@ -359,6 +355,14 @@
       "count": 3
     },
     {
+      "name": "Excite エキサイト",
+      "count": 2
+    },
+    {
+      "name": "ライブドアニュース",
+      "count": 2
+    },
+    {
       "name": "Mantan Web",
       "count": 2
     },
@@ -380,10 +384,6 @@
     },
     {
       "name": "はてなブログ",
-      "count": 1
-    },
-    {
-      "name": "ライブドアニュース",
       "count": 1
     },
     {
@@ -460,10 +460,6 @@
     },
     {
       "name": "gamebiz【ゲームビズ】",
-      "count": 1
-    },
-    {
-      "name": "キャラグー",
       "count": 1
     }
   ],
@@ -554,7 +550,7 @@
       "image": "https://image.news.livedoor.com/newsimage/stf/0/e/0e98a_1516_3c63b2d9_ea6dbe97.jpg",
       "leadSource": "ライブドアニュース",
       "publishedAt": "2026-11-15T11:00:04.000Z",
-      "sourceCount": 6,
+      "sourceCount": 5,
       "articleCount": 6,
       "categories": [
         "anime"
@@ -567,8 +563,8 @@
       "articles": [
         {
           "title": "Maverick Mom、初のアニメタイアップ！TVアニメ『異世界転生騒動記』OPテーマに「異世界」が決定！",
-          "url": "http://www.excite.co.jp/news/article/Lisani_0000322194/",
-          "source": "Excite エキサイト",
+          "url": "https://news.livedoor.com/article/detail/32822278/",
+          "source": "ライブドアニュース",
           "publishedAt": "2026-11-15T02:19:00.000Z",
           "isPR": false
         },
@@ -981,12 +977,12 @@
     }
   ],
   "churn": {
-    "previousAt": "2026-11-15T23:56:41.544Z",
+    "previousAt": "2026-11-16T00:30:17.627Z",
     "previousCount": 119,
-    "newCount": 3
+    "newCount": 1
   },
   "updateGapMin": 30,
-  "nextUpdateAt": "2026-11-16T01:00:17.627Z",
+  "nextUpdateAt": "2026-11-16T01:30:19.514Z",
   "items": [
     {
       "id": "d28513ef004f",
@@ -1472,26 +1468,6 @@
       "isNew": false
     },
     {
-      "id": "7564efbaceb1",
-      "title": "『薬屋のひとりごと』ノンクレジットED映像公開 Eve「AIYOU」にのせ猫猫の記憶を辿る",
-      "url": "https://www.sanyonews.jp/article/1998838",
-      "host": "sanyonews.jp",
-      "source": "山陽新聞",
-      "summary": "",
-      "publishedAt": "2026-11-15T08:21:44.000Z",
-      "image": "https://static.sanyonews.jp/image/article/size1/7/9/3/4/7934f2055233f31b4542d7db00029f6b_1.jpg",
-      "categories": [
-        "anime"
-      ],
-      "works": [
-        "kusuriya"
-      ],
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": false
-    },
-    {
       "id": "95b109350b6f",
       "title": "コトブキヤ『無職転生III ～異世界行ったら本気だす～』ロキシー・ミグルディア・グレイラット 1/7スケールフィギュアが登場！グレイラット家の“青髪ママ”を立体化",
       "url": "https://www.toy-people.com/jp/?p",
@@ -1576,12 +1552,12 @@
     {
       "id": "e6a4c933cc2e",
       "title": "Maverick Mom、初のアニメタイアップ！TVアニメ『異世界転生騒動記』OPテーマに「異世界」が決定！",
-      "url": "http://www.excite.co.jp/news/article/Lisani_0000322194/",
-      "host": "excite.co.jp",
-      "source": "Excite エキサイト",
+      "url": "https://news.livedoor.com/article/detail/32822278/",
+      "host": "news.livedoor.com",
+      "source": "ライブドアニュース",
       "summary": "",
       "publishedAt": "2026-11-15T02:19:00.000Z",
-      "image": "",
+      "image": "https://image.news.livedoor.com/newsimage/stf/7/e/7e687_1516_54a618b1_8b1a453c.jpeg",
       "categories": [
         "anime"
       ],
@@ -1715,7 +1691,7 @@
       "source": "Dellows News",
       "summary": "",
       "publishedAt": "2026-11-14T22:18:45.000Z",
-      "image": "",
+      "image": "https://news.dellows.jp/wp-content/uploads/2026/10/720866_1.jpg",
       "categories": [
         "web",
         "book"
@@ -1988,6 +1964,26 @@
       "isNew": false
     },
     {
+      "id": "0cc7c4e1db79",
+      "title": "「Re:ゼロから始める異世界生活」5th seasonが製作決定、ウルトラティザービジュアル公開（コミックナタリー）",
+      "url": "https://news.yahoo.co.jp/articles/8b5ade55a6e8eeae851d3d6309b2f6b2e10a3337",
+      "host": "news.yahoo.co.jp",
+      "source": "Yahoo!ニュース",
+      "summary": "",
+      "publishedAt": "2026-11-14T12:00:11.000Z",
+      "image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20261114-00000075-nataliec-000-1-view.jpg?exp=10800",
+      "categories": [
+        "comic"
+      ],
+      "works": [
+        "rezero"
+      ],
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": false
+    },
+    {
       "id": "7be9f440cf35",
       "title": "TVアニメ『Re:ゼロから始める異世界生活』第5期の製作が決定！",
       "url": "https://news.denfaminicogamer.jp/news/261114k",
@@ -2088,26 +2084,6 @@
       "isNew": false
     },
     {
-      "id": "0cc7c4e1db79",
-      "title": "「Re:ゼロから始める異世界生活」5th seasonが製作決定、ウルトラティザービジュアル公開（コメントあり）",
-      "url": "https://natalie.mu/comic/news/698061",
-      "host": "natalie.mu",
-      "source": "ナタリー",
-      "summary": "",
-      "publishedAt": "2026-11-14T12:00:00.000Z",
-      "image": "",
-      "categories": [
-        "other"
-      ],
-      "works": [
-        "rezero"
-      ],
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": false
-    },
-    {
       "id": "91b2c23eeb55",
       "title": "リゼロ：テレビアニメ第5期制作決定 ビジュアルに旅立つスバルとレム 「君のためなら、何度でも。」",
       "url": "https://mantan-web.jp/article/20261114dog00m200018000a.html",
@@ -2149,6 +2125,25 @@
       "isNew": false
     },
     {
+      "id": "620724a65b90",
+      "title": "『ドローイング 最強漫画家はお絵描きスキルで異世界無双する！』連載5周年＆20巻刊行記念フェア開催！",
+      "url": "https://www.sanyonews.jp/article/1985334",
+      "host": "sanyonews.jp",
+      "source": "山陽新聞",
+      "summary": "",
+      "publishedAt": "2026-11-14T08:00:00.000Z",
+      "image": "https://static.sanyonews.jp/image/article/size1https://prtimes.jp/img/49835/1008/resize/d49835-1008-4fe328325d1fef044031-29.jpg",
+      "categories": [
+        "comic",
+        "book"
+      ],
+      "works": [],
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": true
+    },
+    {
       "id": "eecf71fa228d",
       "title": "【まおりゅう】ガチャはどれを引くべき？【転スラ】",
       "url": "https://appmedia.jp/ten-sura-m/27053896",
@@ -2186,7 +2181,7 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "01e764e68ee8",
@@ -2734,7 +2729,7 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "ea53ec09d78d",
@@ -2975,7 +2970,7 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "0f37b66f127f",
@@ -3290,27 +3285,6 @@
       "categories": [
         "game",
         "anime"
-      ],
-      "works": [
-        "mushoku"
-      ],
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": false
-    },
-    {
-      "id": "608dff113c40",
-      "title": "無職転生Ⅲ ～異世界行ったら本気だす～ Desktop Cute フィギュア エリス・グレイラット～チャイナドレスver.～（タイクレ限定）の入荷日・価格｜プライズ",
-      "url": "https://charagoo.jp/prize/item/f63df7724263/",
-      "host": "charagoo.jp",
-      "source": "キャラグー",
-      "summary": "",
-      "publishedAt": "2026-11-13T00:47:37.000Z",
-      "image": "",
-      "categories": [
-        "anime",
-        "goods"
       ],
       "works": [
         "mushoku"
