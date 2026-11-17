@@ -1,28 +1,28 @@
 {
-  "updatedAt": "2026-11-17T03:30:26.678Z",
+  "updatedAt": "2026-11-17T04:00:17.568Z",
   "site": {
     "title": "なろう系まとめ",
     "tagline": "小説家になろう発の作品のアニメ化・コミカライズ・書籍化のニュースと、なろうのランキングをまとめています。",
     "url": "https://naroumatome.gamelab.website/",
     "contactUrl": "https://docs.google.com/forms/d/e/1FAIpQLSesWyhmZ6sRS_ve-c3X2KqF_wC5PK2TgwgQbTKmnQltSlg5Jw/viewform"
   },
-  "total": 87,
-  "todayCount": 6,
+  "total": 111,
+  "todayCount": 21,
   "categories": [
     {
       "id": "anime",
       "label": "アニメ",
-      "count": 57
+      "count": 70
     },
     {
       "id": "comic",
       "label": "コミカライズ",
-      "count": 5
+      "count": 8
     },
     {
       "id": "book",
       "label": "書籍・ラノベ",
-      "count": 3
+      "count": 4
     },
     {
       "id": "web",
@@ -37,12 +37,12 @@
     {
       "id": "goods",
       "label": "グッズ・イベント",
-      "count": 14
+      "count": 20
     },
     {
       "id": "other",
       "label": "そのほか",
-      "count": 13
+      "count": 21
     }
   ],
   "works": [
@@ -50,37 +50,37 @@
       "id": "tensura",
       "title": "転生したらスライムだった件",
       "short": "転スラ",
-      "count": 9
+      "count": 7
     },
     {
       "id": "mushoku",
       "title": "無職転生 ～異世界行ったら本気だす～",
       "short": "無職転生",
-      "count": 13
+      "count": 14
     },
     {
       "id": "rezero",
       "title": "Re:ゼロから始める異世界生活",
       "short": "リゼロ",
-      "count": 38
+      "count": 33
     },
     {
       "id": "honzuki",
       "title": "本好きの下剋上",
       "short": "本好き",
-      "count": 3
+      "count": 0
     },
     {
       "id": "kusuriya",
       "title": "薬屋のひとりごと",
       "short": "薬屋",
-      "count": 1
+      "count": 32
     },
     {
       "id": "kagejitsu",
       "title": "陰の実力者になりたくて！",
       "short": "陰の実力者",
-      "count": 2
+      "count": 0
     },
     {
       "id": "tate",
@@ -164,7 +164,7 @@
       "id": "katainaka",
       "title": "片田舎のおっさん、剣聖になる",
       "short": "片田舎のおっさん",
-      "count": 1
+      "count": 2
     },
     {
       "id": "nozomanu",
@@ -296,7 +296,11 @@
   "sources": [
     {
       "name": "山陽新聞",
-      "count": 11
+      "count": 19
+    },
+    {
+      "name": "Yahoo!ニュース",
+      "count": 14
     },
     {
       "name": "ナタリー",
@@ -311,31 +315,35 @@
       "count": 5
     },
     {
-      "name": "Yahoo!ニュース",
-      "count": 5
+      "name": "ニコニコニュース",
+      "count": 4
     },
     {
       "name": "GameWith",
       "count": 4
     },
     {
-      "name": "ニコニコニュース",
+      "name": "WEBザテレビジョン",
       "count": 3
     },
     {
-      "name": "Excite エキサイト",
+      "name": "マイナビニュース",
       "count": 3
     },
     {
-      "name": "千葉テレビ放送",
+      "name": "Unisba Media",
       "count": 3
     },
     {
-      "name": "電ファミニコゲーマー",
-      "count": 3
+      "name": "電撃オンライン",
+      "count": 2
     },
     {
-      "name": "玩具人 TOY PEOPLE",
+      "name": "au Webポータル",
+      "count": 2
+    },
+    {
+      "name": "ふねぽ",
       "count": 2
     },
     {
@@ -359,7 +367,7 @@
       "count": 2
     },
     {
-      "name": "オリコンニュース",
+      "name": "千葉テレビ放送",
       "count": 2
     },
     {
@@ -367,15 +375,15 @@
       "count": 2
     },
     {
-      "name": "ABEMA",
-      "count": 2
-    },
-    {
       "name": "AppMedia",
       "count": 2
     },
     {
-      "name": "ウォーカープラス",
+      "name": "PR TIMES",
+      "count": 1
+    },
+    {
+      "name": "玩具人 TOY PEOPLE",
       "count": 1
     },
     {
@@ -383,11 +391,11 @@
       "count": 1
     },
     {
-      "name": "au Webポータル",
+      "name": "日本経済新聞",
       "count": 1
     },
     {
-      "name": "WEBザテレビジョン",
+      "name": "rockinon.com",
       "count": 1
     },
     {
@@ -399,15 +407,11 @@
       "count": 1
     },
     {
-      "name": "Unisba Media",
+      "name": "オリコンニュース",
       "count": 1
     },
     {
       "name": "インサイド",
-      "count": 1
-    },
-    {
-      "name": "電撃オンライン",
       "count": 1
     },
     {
@@ -419,7 +423,15 @@
       "count": 1
     },
     {
+      "name": "ぴあエンタメ情報",
+      "count": 1
+    },
+    {
       "name": "オタク総研",
+      "count": 1
+    },
+    {
+      "name": "Excite エキサイト",
       "count": 1
     },
     {
@@ -431,7 +443,15 @@
       "count": 1
     },
     {
+      "name": "ABEMA",
+      "count": 1
+    },
+    {
       "name": "SmartNews",
+      "count": 1
+    },
+    {
+      "name": "電ファミニコゲーマー",
       "count": 1
     },
     {
@@ -443,7 +463,7 @@
       "count": 1
     },
     {
-      "name": "Billboard JAPAN",
+      "name": "SHIBUYA TSUTAYA",
       "count": 1
     },
     {
@@ -460,16 +480,16 @@
       "image": "https://animeanime.jp/imgs/rss/956184.jpg",
       "leadSource": "アニメ！アニメ！",
       "publishedAt": "2026-11-16T09:00:00.000Z",
-      "sourceCount": 15,
-      "articleCount": 21,
+      "sourceCount": 12,
+      "articleCount": 16,
       "categories": [
         "other",
         "anime"
       ],
       "keywords": [
         "ビジュアル",
-        "製作",
-        "season"
+        "season",
+        "ティザービジュアル"
       ],
       "articles": [
         {
@@ -477,13 +497,6 @@
           "url": "https://anime.eiga.com/news/127874/",
           "source": "アニメハック",
           "publishedAt": "2026-11-16T09:00:00.000Z",
-          "isPR": false
-        },
-        {
-          "title": "『リゼロ』TVアニメ5th season製作決定！スバルがレムの手を取るウルトラティザービジュアル公開＆原作・長月達平からお祝いコメントも",
-          "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5mRXY5THlveWlNNnMyeDI0eWZaNno3R0JxZ3JSYjYyRGtvaHRpcFRlemdDUjhCSldrdmJpUWtXd2VTanJ5NTNkalBXeUJCR05Td3dZU01fNTFFOG1HcFJhUzVYc0FKcFo2ZVkzY3pldlU?oc=5",
-          "source": "Excite エキサイト",
-          "publishedAt": "2026-11-16T03:30:15.000Z",
           "isPR": false
         },
         {
@@ -495,23 +508,16 @@
         },
         {
           "title": "アニメ『リゼロ』5th season製作決定。スバルとレムのティザービジュアル公開＆長月達平からのお祝いコメントも",
-          "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1NajZLNEo0MkppZ0l0Y3ZYSlEzZlFrMzJhQ3FjTGtfNzg4VTdSR0dwZERiM1QzUnJRVWxsVHBIMDVCTV8yTDhBbzRmYloxZjJ5NXlqTkxpaTRPdw?oc=5",
+          "url": "https://dengekionline.com/article/202611/94101",
           "source": "電撃オンライン",
           "publishedAt": "2026-11-15T22:00:00.000Z",
           "isPR": false
         },
         {
           "title": "【リゼロ5期】アニメ『Re:ゼロから始める異世界生活』5th seasonが製作決定！ スバルとレムが新たな冒険へ旅立つ姿を描いたウルトラティザービジュアルも公開",
-          "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE9MTWpPSnJWRlg0bkdRUXR5ZWNENHFQS0NtNkhFcTJfeFhhOTA1WkxTbzJqZHo0eXMtdFJ6NmVtNzY2UDdKRXlpZ0VGSjNBUQ?oc=5",
+          "url": "https://www.pashplus.jp/anime/503122/",
           "source": "PASH! PLUS",
           "publishedAt": "2026-11-15T09:58:51.000Z",
-          "isPR": false
-        },
-        {
-          "title": "TVアニメ『Re:ゼロから始める異世界生活』5th season 製作決定！ウルトラティザービジュアルを公開＆原作：長月達平からお祝いコメントが到着！",
-          "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFA4TFA2blVrZ0ZDTGVIMXpaMi1IS01DR3F6QWpUZEs4Q29VcmtWckN1ODRfVTJWSDdHQVQ5ZDB3LXlGdmZFajBiZkdiWDlEZHpDZW1mbkRZc21XNUU4OHBCM0VteWw5Zw?oc=5",
-          "source": "Excite エキサイト",
-          "publishedAt": "2026-11-15T09:17:27.000Z",
           "isPR": false
         },
         {
@@ -522,10 +528,102 @@
           "isPR": false
         },
         {
-          "title": "『Re:ゼロから始める異世界生活』第5期の製作が決定！ 長月達平「次は難易度インフェルノ」",
-          "url": "https://www.toy-people.com/jp/?p",
-          "source": "玩具人 TOY PEOPLE",
-          "publishedAt": "2026-11-14T16:00:27.000Z",
+          "title": "「Re:ゼロから始める異世界生活」5th season",
+          "url": "https://natalie.mu/comic/anime/1869",
+          "source": "ナタリー",
+          "publishedAt": "2026-11-14T12:03:42.000Z",
+          "isPR": false
+        },
+        {
+          "title": "TVアニメ「Re:ゼロから始める異世界生活」ロゴ [画像ギャラリー 2/2]",
+          "url": "https://natalie.mu/comic/gallery/news/698061/3018487",
+          "source": "ナタリー",
+          "publishedAt": "2026-11-14T12:03:42.000Z",
+          "isPR": false
+        },
+        {
+          "title": "TVアニメ「Re:ゼロから始める異世界生活」5th seasonのウルトラティザービジュアル [画像ギャラリー 1/2]",
+          "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE85UGNaUVpVOVpoenBHamllTlVtUnlpZHRtd2tDMnVGX1d4b1ZqOWNJeV8zX2UwZDUxSWNTdU1XYVBzQ2NZZUE4UmxoYlE0ck5Hc2pVS2NMWkZ4TXJUcVRhVTZB?oc=5",
+          "source": "ナタリー",
+          "publishedAt": "2026-11-14T12:03:42.000Z",
+          "isPR": false
+        }
+      ]
+    },
+    {
+      "id": "40a28a10dc83",
+      "title": "薬屋のひとりごと＞earth music＆ecologyコラボ 猫猫と壬氏イメージのアパレル続々（MANTANWEB）",
+      "summary": "",
+      "url": "https://news.yahoo.co.jp/articles/5c76578df9a56ed050967894bb00f03ff44a7b97",
+      "image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20261117-00000038-mantan-000-1-view.jpg?exp=10800",
+      "leadSource": "Yahoo!ニュース",
+      "publishedAt": "2026-11-17T03:53:00.000Z",
+      "sourceCount": 6,
+      "articleCount": 13,
+      "categories": [
+        "goods",
+        "anime"
+      ],
+      "keywords": [
+        "薬屋",
+        "猫猫",
+        "壬氏"
+      ],
+      "articles": [
+        {
+          "title": "「薬屋のひとりごと」猫猫“これ、毒です”や、壬氏から贈られた簪も再現！園遊会での衣装でドール化 (アニメ！アニメ！)",
+          "url": "https://news.yahoo.co.jp/articles/30ad1e096c107f33bd6f015304cc10f754f9f69e/images/000",
+          "source": "Yahoo!ニュース",
+          "publishedAt": "2026-11-17T03:33:37.000Z",
+          "isPR": false
+        },
+        {
+          "title": "アニメ『薬屋のひとりごと』 とearth music&ecology Japan Labelがコラボレーション！「猫猫」と「壬氏」をイメージしたアイテムを11月19日(木)より受注開始 | 株式会社ストライプインターナショナルのプレスリリ…",
+          "url": "https://prtimes.jp/main/html/rd/p/000001376.000036659.html",
+          "source": "PR TIMES",
+          "publishedAt": "2026-11-17T03:00:02.000Z",
+          "isPR": true
+        },
+        {
+          "title": "真相の方が怖い…『薬屋のひとりごと』猫猫が解き明かした「身の毛もよだつ怪奇事件」",
+          "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBOVzVMdzUxOGw5dVhodnNfOFUyTzJMYmlXTzI1dnFzSmpYX0g3MzVhZ1ZoTEFvb1BucGNyM2VGVzdXMkhlUmRnMDFwTkRJWHFrbDdDQjE3SHc3Sjc0ck5aSnQ2NEk0MFBrTTFfMmRR?oc=5",
+          "source": "au Webポータル",
+          "publishedAt": "2026-11-16T21:41:16.000Z",
+          "isPR": false
+        },
+        {
+          "title": "不気味な色の炎、湯殿に現れる幽霊…『薬屋のひとりごと』猫猫が解き明かした「身の毛もよだつ怪奇事件」",
+          "url": "https://futaman.futabanet.jp/articles/-/132754",
+          "source": "ふねぽ",
+          "publishedAt": "2026-11-16T21:00:00.000Z",
+          "isPR": false
+        },
+        {
+          "title": "(3ページ目) 不気味な色の炎、湯殿に現れる幽霊…『薬屋のひとりごと』猫猫が解き明かした「身の毛もよだつ怪奇事件」",
+          "url": "https://futaman.futabanet.jp/articles/-/132754?page",
+          "source": "ふねぽ",
+          "publishedAt": "2026-11-16T21:00:00.000Z",
+          "isPR": false
+        },
+        {
+          "title": "『薬屋のひとりごと』最新話、猫猫が歌った子守歌に注目集まる「母から猫猫、そして壬氏へ」「切ない」",
+          "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1fMHdodnRuSC1kbGNRdkdGdENDLXgxUGpoQU5XTWZQWTl5QTQ1RUxjdUsybXZ3V3BEWWNicTZZbWQtZVV5QmFvZUlfMzA4TDVEVzd0dVRBYzVjVmR1V3Z6SlUzNDlnZUE5bS1ILW1YQQ?oc=5",
+          "source": "山陽新聞",
+          "publishedAt": "2026-11-16T20:40:37.000Z",
+          "isPR": false
+        },
+        {
+          "title": "『薬屋のひとりごと』最新話に反響 猫猫と壬氏の距離に変化？白鈴の核心つく一言に「それがまたいい」",
+          "url": "https://www.sanyonews.jp/article/2004625?rct",
+          "source": "山陽新聞",
+          "publishedAt": "2026-11-16T19:15:30.000Z",
+          "isPR": false
+        },
+        {
+          "title": "『薬屋のひとりごと』×「wicca」コラボ腕時計が登場 - 猫猫、壬氏モデル各2,000本限定販売",
+          "url": "https://news.mynavi.jp/article/20261116-5336362/",
+          "source": "マイナビニュース",
+          "publishedAt": "2026-11-16T02:15:28.000Z",
           "isPR": false
         }
       ]
@@ -535,7 +633,7 @@
       "title": "【モンスト】無職転生コラボの当たりキャラ｜ガチャは引くべき？",
       "summary": "",
       "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFBpaHd3bzQ4eHQ1ejM5VHFRZlhyeHU1Nkhvbk1xM3d0c1J3THRyMEZXVll1dl81SnBtTk9WdDZqQnFWUW1LZlFoNnVqMzUxOWJMeE1qZWQ4S0dmWDFYVjRSVzM1NHozMjlpNEhMX212N0lsZw?oc=5",
-      "image": "https://img.gamewith.jp/article/thumbnail/rectangle/587659.png?date=1794485079",
+      "image": "https://img.gamewith.jp/article/thumbnail/rectangle/587568.png?date=1794495396",
       "leadSource": "GameWith",
       "publishedAt": "2026-11-16T18:36:06.000Z",
       "sourceCount": 3,
@@ -552,28 +650,28 @@
       "articles": [
         {
           "title": "【モンスト】フィッツは買うべき？｜無職転生コラボ",
-          "url": "https://xn--eckwa2aa3a9c8j8bve9d.gamewith.jp/article/show/587659",
+          "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE1PU3hDZjRzOXNlUjNGLWQyZ1hmODI3ZWFndWN3cGc2akFxOEU5SGx0MGNVOUtCWWRleW9DWGIwSE9ZazI3WkVOaFpSSXMxZjk0bGtUcVhRRGZGSDVQTWt6Rm1CYUhXTHlMRGJweTFnS2oyQQ?oc=5",
           "source": "GameWith",
           "publishedAt": "2026-11-16T13:15:22.000Z",
           "isPR": false
         },
         {
           "title": "【モンスト】無職転生コラボの評価とイベントまとめ",
-          "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE84dTl6bXNaRThkVmlJa2NNSGI2dHFOeE9xVEpEa2RfQkJYWHd6TG51bnd6QnpFSjhENUMyQ05uRmthVllnVW9HbDV4ZFJPNnpCZmpITVlEMGRQa2J6R3ZKZkNMVGxPdWtwU2Q4OEpNakRvZw?oc=5",
+          "url": "https://xn--eckwa2aa3a9c8j8bve9d.gamewith.jp/article/show/587568",
           "source": "GameWith",
           "publishedAt": "2026-11-16T04:59:13.000Z",
           "isPR": false
         },
         {
           "title": "「コンプガチャ」はなぜ禁止？ 無職転生×モンストのガチャで注目",
-          "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBtNTloWW1WTlltZ2VkUlNDQ29GQ2pGNzdnQnFxcnJLeVlTdXpEMllXYVRUbVZxbzJTSEtNRjdNWXJPb2RnUGw1QUx5TGFodDZFbU5MTk1RTnh0OE84NkxF?oc=5",
+          "url": "https://www.chiba-tv.com/plus/detail/2026112226992",
           "source": "千葉テレビ放送",
           "publishedAt": "2026-11-16T00:55:17.000Z",
           "isPR": false
         },
         {
           "title": "【App Store(11/16)】首位は『ポケモンGO』 「無職転生」との初コラボで『モンスト』がトップ3入り",
-          "url": "https://news.google.com/rss/articles/CBMiREFVX3lxTE5fUlhDTUl3TW9MOWFTbVFXVlA1SGY1NjJ2ZEp0ZnhSczY2SHhBM05LWDU5cEt3bE95X3VfbHYzTlkwcEYt?oc=5",
+          "url": "https://gamebiz.jp/news/435547",
           "source": "gamebiz【ゲームビズ】",
           "publishedAt": "2026-11-16T00:12:00.000Z",
           "isPR": false
@@ -591,7 +689,7 @@
       "id": "4a9f0acf4abf",
       "title": "“貴族×武将×オタク”のファンタジー『異世界転生騒動記』ABEMAで地上波1週間先行配信が決定！2027年1月6日より",
       "summary": "",
-      "url": "https://times.abema.tv/articles/-/10289452?utm_campaign",
+      "url": "https://times.abema.tv/articles/-/10289452",
       "image": "https://times-abema.ismcdn.jp/mwimgs/5/d/1200w/img_5daae6d509c87ee3128c0460d67898ae885906.jpg",
       "leadSource": "ABEMA TIMES",
       "publishedAt": "2026-11-16T10:00:00.000Z",
@@ -609,14 +707,14 @@
       "articles": [
         {
           "title": "“貴族×武将×オタク”が織りなす異色の痛快異世界ファンタジー『異世界転生騒動記』2027年1月6日（水）夜10時30分",
-          "url": "https://news.nicovideo.jp/watch/nw19996786?news_ref",
+          "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5PRTRYZ1psdjFxUlFZV1I4THFXRnR5dkJCR3lJRno1R1l4dlQzeFlCOFV1NHpLZnlUd0pjRDg4VFJGWWhvT1ROV0xkVklScXptTjUtN1FTWE5vZmUzSzhOUlNteGh1Y242cWc5cWhReFBneGdtTVpVZ2hkZw?oc=5",
           "source": "ニコニコニュース",
           "publishedAt": "2026-11-16T08:30:29.000Z",
           "isPR": false
         },
         {
           "title": "異色の痛快異世界ファンタジー『異世界転生騒動記』ABEMAで配信",
-          "url": "https://article.auone.jp/c30c8156-0188-4b94-a544-628bca5bce7c",
+          "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE8zRXJDd2lpZDNPQlN5WnRnT0d5WWFnZ2xBUkxhYndGejdMbE9CTW4xU1JRWm41dnh5ZlJReGxqc01OY1BGVDVFQ3JGOUNfTFpOb0tYcC02TEJHSk5hYkJUNjZEV25LUzQ4Z014VDFB?oc=5",
           "source": "au Webポータル",
           "publishedAt": "2026-11-16T07:26:28.000Z",
           "isPR": false
@@ -659,6 +757,41 @@
       ]
     },
     {
+      "id": "4767e9d90138",
+      "title": "『薬屋のひとりごと』阿多を訪ねた猫猫、手掛かりに気づく 第52話あらすじ＆場面カット公開",
+      "summary": "",
+      "url": "https://www.sanyonews.jp/article/2009036?kw",
+      "image": "https://static.sanyonews.jp/image/article/size1/8/b/3/d/8b3d5406dc5695c39a1607f0ee0ef946_1.jpg",
+      "leadSource": "山陽新聞",
+      "publishedAt": "2026-11-16T17:29:08.000Z",
+      "sourceCount": 2,
+      "articleCount": 3,
+      "categories": [
+        "anime"
+      ],
+      "keywords": [
+        "薬屋",
+        "カット",
+        "猫猫"
+      ],
+      "articles": [
+        {
+          "title": "『薬屋のひとりごと』謎の仙女・白娘々、猫猫たちに仙術を披露 第53話あらすじ＆場面カット公開",
+          "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9zUEpyLXJjWW9venpsaHFucl9yVEkwb2N4a0wwMDRjXzAtLWVFNDJ4UnlBSjlSRjgtWFJ4b2F4YnpQc3JYdS1LUmpfQ1BxTlN5dERqZURYTlQyUDVxNXlLNmZ1ZDZlN2lTV2JveEpfTQ?oc=5",
+          "source": "山陽新聞",
+          "publishedAt": "2026-11-16T16:47:17.000Z",
+          "isPR": false
+        },
+        {
+          "title": "薬屋のひとりごと 第3期 #56・見逃し放送",
+          "url": "https://abema.tv/channels/abema-anime/slots/8ZgAogytkTqKMq",
+          "source": "ABEMA",
+          "publishedAt": "2026-11-14T17:45:52.000Z",
+          "isPR": false
+        }
+      ]
+    },
+    {
       "id": "b76703bf7566",
       "title": "＜リゼロ＞岡本信彦、小林裕介＆江口拓也との“3ホスト”ショット公開 10周年イベントに「良き良き」「メッシュやばい」と反響",
       "summary": "",
@@ -687,7 +820,7 @@
         },
         {
           "title": "【イベントレポート】「リゼロ」10周年イベントに小林裕介らキャスト集結 高橋李依のサプライズライブも（コミックナタリー）",
-          "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBmRmMxMG0zcGt3WE1BTk52Nlk3am9EalRuU09VeXpyMWd6a2hCbENYYmlNbWxGWlpUeVpJVnJkT1NQSVVlTE11d2RwXzFZRHJGaUllOE45d2NYd1NpY3pYekRYWXlleEhvek9vM0FOdnN4VXp5SHIxZjNDYWlBdm8?oc=5",
+          "url": "https://news.yahoo.co.jp/articles/008489137a34b022bca18a47249602c97e98d202",
           "source": "Yahoo!ニュース",
           "publishedAt": "2026-11-14T11:43:10.000Z",
           "isPR": false
@@ -695,28 +828,85 @@
       ]
     },
     {
-      "id": "1ed9418c4ddb",
-      "title": "『転スラ』ディアブロ、旧知の３人の悪魔を訪ねる 第86話あらすじ＆場面カット公開",
+      "id": "e38ce410953d",
+      "title": "『薬屋のひとりごと』第54話、コメント最多シーン1位は猫猫と毛毛＆やぶ医者の再会！壬氏の動揺も話題に",
       "summary": "",
-      "url": "https://www.sanyonews.jp/article/1950779?kw",
-      "image": "https://static.sanyonews.jp/image/article/size1/0/4/9/3/04933a1621737fd3123efb4b1ebc5fc9_1.jpg",
-      "leadSource": "山陽新聞",
-      "publishedAt": "2026-11-15T23:16:50.000Z",
+      "url": "https://news.nicovideo.jp/watch/nw19999475?news_ref",
+      "image": "https://cimg.kgl-systems.io/camion/files/94232/ogp_cCvU.jpg?x=1280",
+      "leadSource": "ニコニコニュース",
+      "publishedAt": "2026-11-17T02:03:19.000Z",
       "sourceCount": 2,
       "articleCount": 2,
       "categories": [
-        "anime",
-        "game"
+        "anime"
       ],
       "keywords": [
-        "転スラ"
+        "薬屋",
+        "コメント",
+        "シーン"
       ],
       "articles": [
         {
-          "title": "【まおりゅう】ガチャはどれを引くべき？【転スラ】",
-          "url": "https://appmedia.jp/ten-sura-m/27053896",
-          "source": "AppMedia",
-          "publishedAt": "2026-11-14T08:00:00.000Z",
+          "title": "アニメ『薬屋のひとりごと』54話“紙の村”コメント最多シーンTOP3が発表。猫猫の激怒や壬氏の動揺がランクイン。そして1位は…!?",
+          "url": "http://news.dengeki.com/article/202611/94232",
+          "source": "電撃オンライン",
+          "publishedAt": "2026-11-16T22:00:00.000Z",
+          "isPR": false
+        }
+      ]
+    },
+    {
+      "id": "43ceec66bd33",
+      "title": "「劇場版 薬屋のひとりごと 亡妃の秘宝」公開記念！TVシリーズ傑作選(アニメ)",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE80LUlmSXpMQUdtV0l6YlkzekloYlBtZHpxS2VQYWZESTluSGp2alBmWlVqcjFRdkZMM0pEbHpXRnlySUU3RXRYaHRFcXk?oc=5",
+      "image": "",
+      "leadSource": "WEBザテレビジョン",
+      "publishedAt": "2026-11-16T15:48:06.000Z",
+      "sourceCount": 2,
+      "articleCount": 2,
+      "categories": [
+        "anime"
+      ],
+      "keywords": [
+        "薬屋",
+        "劇場版",
+        "亡妃"
+      ],
+      "articles": [
+        {
+          "title": "CUT12月号で『劇場版 薬屋のひとりごと 亡妃の秘宝』特集を敢行！ 描き下ろしバックカバー＆キャストインタビューで、花咲く謎を解き明かします。11月19日（木）発売！",
+          "url": "https://rockinon.com/blog/cut/216251",
+          "source": "rockinon.com",
+          "publishedAt": "2026-11-16T03:01:02.000Z",
+          "isPR": false
+        }
+      ]
+    },
+    {
+      "id": "55e76e9dfc62",
+      "title": "山手線に「薬屋のひとりごと」のラッピング車両 茨城県が観光地PR",
+      "summary": "",
+      "url": "https://www.nikkei.com/article/DGXZQOCC165NQ0W6A111C2000000/",
+      "image": "https://article-image-ix.nikkei.com/https%3A%2F%2Fimgix-proxy.n8s.jp%2FDSXZQO3886096016112026000000-1.jpg?auto=compress&bg=FFFF&crop=focalpoint&fit=crop&fm=jpg&h=630&w=1200&s=93c251b717ceac49e9e4796a02e21ee6",
+      "leadSource": "日本経済新聞",
+      "publishedAt": "2026-11-16T09:00:00.000Z",
+      "sourceCount": 2,
+      "articleCount": 2,
+      "categories": [
+        "other"
+      ],
+      "keywords": [
+        "薬屋",
+        "ラッピング",
+        "山手線"
+      ],
+      "articles": [
+        {
+          "title": "JR山手線『薬屋のひとりごと』×茨城県ラッピングトレインが運行開始 - 猫猫や壬氏が“四季のいばらき”を発信",
+          "url": "https://news.mynavi.jp/article/20261116-5336284/",
+          "source": "マイナビニュース",
+          "publishedAt": "2026-11-16T02:08:35.000Z",
           "isPR": false
         }
       ]
@@ -750,40 +940,11 @@
       ]
     },
     {
-      "id": "3602222e245b",
-      "title": "『本好きの下剋上』新キャストに本渡楓 新規映像盛りだくさんのクライマックスPV公開",
-      "summary": "",
-      "url": "https://www.sanyonews.jp/article/1987971?kw",
-      "image": "https://static.sanyonews.jp/image/article/size1/9/6/a/f/96afefddf8d40f2d7c640e346c9eee72_1.jpg",
-      "leadSource": "山陽新聞",
-      "publishedAt": "2026-11-15T16:19:13.000Z",
-      "sourceCount": 2,
-      "articleCount": 2,
-      "categories": [
-        "anime",
-        "other"
-      ],
-      "keywords": [
-        "本好き",
-        "本好",
-        "下剋上"
-      ],
-      "articles": [
-        {
-          "title": "本好きの下剋上 #13〜24【無料ビデオ1週間】",
-          "url": "https://abema.tv/channels/isekai-anime-3/slots/DnLe2jMPw65KUj",
-          "source": "ABEMA",
-          "publishedAt": "2026-11-14T13:30:43.000Z",
-          "isPR": false
-        }
-      ]
-    },
-    {
       "id": "9af157a85cd2",
       "title": "アニメ1週間＞魂ネイション2026にフィギュア新商品続々 「リゼロ」第5期制作（MANTANWEB）",
       "summary": "",
       "url": "https://news.yahoo.co.jp/articles/b34e175fa4347a06c3ad28d3d17ce39415eb7aca?page",
-      "image": "https://storage.mantan-web.jp/w=1280,h=720,icr=0:0.1:1:1,a=2,g=2,f=webp:auto/images/2026/11/15/20261115dog00m200000000a/001.jpg",
+      "image": "",
       "leadSource": "Yahoo!ニュース",
       "publishedAt": "2026-11-15T10:05:00.000Z",
       "sourceCount": 2,
@@ -800,83 +961,276 @@
       "articles": [
         {
           "title": "アニメ1週間：魂ネイション2026にフィギュア新商品続々 「リゼロ」第5期制作",
-          "url": "https://mantan-web.jp/article/20261115dog00m200000000a.html",
+          "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1BU1c3OUhKd2x6dVhsb3dpd3pmWkNSUGxTdWV6QVpiUXhHci1DbXFsOFRxZ0NPNkxpR0o3ZXI1TnE0ZE95SEJjTGJKOTY4elRNMGo0R1dEQjdiQVc3Ri1LU1VLZ0FaNXQyLUZn?oc=5",
           "source": "Mantan Web",
           "publishedAt": "2026-11-15T10:01:00.000Z",
-          "isPR": false
-        }
-      ]
-    },
-    {
-      "id": "ae85c90c512a",
-      "title": "ときのそら、新曲「Brand new day」がTVアニメ『異世界転生騒動記』EDテーマに決定",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFByYnhqbFVTRnhfMW51aUdzRjNkRXZOMjhKQ3JCTVNBMHRkZjJNT0JCTFhEdHprMTdLNEZWUWpCLWxyU2d6UmRreTBSRExVZlc2QTRJZHE0VEUzeS1SOTBnTW1R?oc=5",
-      "image": "",
-      "leadSource": "Billboard JAPAN",
-      "publishedAt": "2026-11-14T07:30:00.000Z",
-      "sourceCount": 2,
-      "articleCount": 2,
-      "categories": [
-        "anime"
-      ],
-      "keywords": [
-        "brand",
-        "new",
-        "day"
-      ],
-      "articles": [
-        {
-          "title": "ときのそら、新曲「Brand new day」がアニメ『異世界転生騒動記』EDテーマに起用 楽曲使用のPVも",
-          "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1yUGpoai1wd2haVHc1Wi1aZ2lhclFSbW9CUVpWa3Z2MFhGclNXVHcyZzVZVGpmQWhoZzA1bUt3MlBTNjBZNmNUWjFUSDBveXhRLWI2dWNKSlFtZ9IBX0FVX3lxTFB1WGpYYVdWVzFMQ2x0TVd1SUpKVkRheVlEVHNsSVdCM3JsOEZYM0oybXBMc0ptbkxqU1dvMzlOTXFZUDZfem5IWnRod0xWNGxJRWJQQnM4UXZEQkVLY09j?oc=5",
-          "source": "リアルサウンド",
-          "publishedAt": "2026-11-14T06:00:09.000Z",
           "isPR": false
         }
       ]
     }
   ],
   "churn": {
-    "previousAt": "2026-11-17T03:00:18.656Z",
-    "previousCount": 120,
-    "newCount": 2
+    "previousAt": "2026-11-17T03:30:26.678Z",
+    "previousCount": 87,
+    "newCount": 37
   },
   "updateGapMin": 30,
-  "nextUpdateAt": "2026-11-17T04:00:26.678Z",
+  "nextUpdateAt": "2026-11-17T04:30:17.568Z",
   "items": [
+    {
+      "id": "40a28a10dc83",
+      "title": "薬屋のひとりごと＞earth music＆ecologyコラボ 猫猫と壬氏イメージのアパレル続々（MANTANWEB）",
+      "url": "https://news.yahoo.co.jp/articles/5c76578df9a56ed050967894bb00f03ff44a7b97",
+      "host": "news.yahoo.co.jp",
+      "source": "Yahoo!ニュース",
+      "summary": "",
+      "publishedAt": "2026-11-17T03:53:00.000Z",
+      "image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20261117-00000038-mantan-000-1-view.jpg?exp=10800",
+      "categories": [
+        "goods"
+      ],
+      "works": [
+        "kusuriya"
+      ],
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": true
+    },
+    {
+      "id": "e5baa02b0b05",
+      "title": "「薬屋のひとりごと」猫猫“これ、毒です”や、壬氏から贈られた簪も再現！園遊会での衣装でドール化 (アニメ！アニメ！)",
+      "url": "https://news.yahoo.co.jp/articles/30ad1e096c107f33bd6f015304cc10f754f9f69e/images/000",
+      "host": "news.yahoo.co.jp",
+      "source": "Yahoo!ニュース",
+      "summary": "",
+      "publishedAt": "2026-11-17T03:33:37.000Z",
+      "image": "https://news-pctr.c.yimg.jp/uUzvQ3lML_bkIqyakc1vFhNrRI0RUQxg5aFkrX0xDg1_T0wXrbEJjtNGtrf1o9y32aKHaE9S6KKOAHNM7AL26guzWNqz09LEe3b4EE-PBuH00GnaBHqFE6XHXBA-gPyfW12vSfPlLCgYO-JlVjPSWZXMwTT3wCDJBEOBv05lSQkvbB5xRCfoH-QHKYBSkx2dXLKh7t3jQkahOG6TGVDRJg==",
+      "categories": [
+        "anime"
+      ],
+      "works": [
+        "kusuriya"
+      ],
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": true
+    },
+    {
+      "id": "c3d601fdf31f",
+      "title": "中島美嘉、アニメ『無職転生III』EDテーマ「祈り、終われば」のMV公開！作詞作曲を手掛けたシノダ（ヒトリエ）が恋人役として登場",
+      "url": "https://news.yahoo.co.jp/articles/9271cfd32bf41372617826aee3b6e33eb6172d5e/images/000",
+      "host": "news.yahoo.co.jp",
+      "source": "Yahoo!ニュース",
+      "summary": "",
+      "publishedAt": "2026-11-17T03:33:31.000Z",
+      "image": "https://news-pctr.c.yimg.jp/uUzvQ3lML_bkIqyakc1vFhNrRI0RUQxg5aFkrX0xDg1_T0wXrbEJjtNGtrf1o9y3j2Xc-_ypRo_MbDt6ekL9RKY6Xqu8hzaschAZo_ehBLQ412tlNuw1H5uyyhRKFc_oZs3vHGX7pDHMQDR6HpbMHhhJPufo6qNwWOkpa9TcRSUjGeM3eFogW3T8B1B9xUZU",
+      "categories": [
+        "anime"
+      ],
+      "works": [
+        "mushoku"
+      ],
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": true
+    },
+    {
+      "id": "68dd90cc575e",
+      "title": "アニメ『薬屋のひとりごと』 とearth music&ecology Japan Labelがコラボレーション！「猫猫」と「壬氏」をイメージしたアイテムを11月19日(木)より受注開始 | 株式会社ストライプインターナショナルのプレスリリ…",
+      "url": "https://prtimes.jp/main/html/rd/p/000001376.000036659.html",
+      "host": "prtimes.jp",
+      "source": "PR TIMES",
+      "summary": "",
+      "publishedAt": "2026-11-17T03:00:02.000Z",
+      "image": "https://prcdn.freetls.fastly.net/release_image/36659/1376/36659-1376-4ee16b9f5b54bf938c417c325bf3d479-1100x550.jpg?format=jpeg&auto=webp&fit=bounds&width=2400&height=1260",
+      "categories": [
+        "anime",
+        "goods"
+      ],
+      "works": [
+        "kusuriya"
+      ],
+      "isPR": true,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": true
+    },
+    {
+      "id": "e38ce410953d",
+      "title": "『薬屋のひとりごと』第54話、コメント最多シーン1位は猫猫と毛毛＆やぶ医者の再会！壬氏の動揺も話題に",
+      "url": "https://news.nicovideo.jp/watch/nw19999475?news_ref",
+      "host": "news.nicovideo.jp",
+      "source": "ニコニコニュース",
+      "summary": "",
+      "publishedAt": "2026-11-17T02:03:19.000Z",
+      "image": "",
+      "categories": [
+        "anime"
+      ],
+      "works": [
+        "kusuriya"
+      ],
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": true
+    },
     {
       "id": "6787b41d4f5a",
       "title": "異世界ファンタジーレーベル「comicスピラ」人気タイトルの紙コミックス＜最新刊＞が11月17日（火）発売！書店購入特典や『黒妖の花嫁』初のキャラクター人気投票も開催",
-      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE11TS1Jc3FVYUhsMHdNcG5CZkZ6UlR0R2xjdHhHcFhHdG1nRnd1bjdKV21NLWFjem1SazZaU0FVeFVkQ2NKRk12TXN0T0FQVGxzN2RRVkV5QkFpLUpYZXFhS0dEdmVmb3NOOVE?oc=5",
+      "url": "https://animeanime.jp/release/prtimes/20261117/327345.html",
       "host": "animeanime.jp",
       "source": "アニメ！アニメ！",
       "summary": "",
       "publishedAt": "2026-11-17T01:00:00.000Z",
-      "image": "",
+      "image": "https://animeanime.jp/release/imgs/list/574168.jpg",
       "categories": [
         "comic",
         "book"
       ],
       "works": [],
       "isPR": false,
-      "viaGoogle": true,
+      "viaGoogle": false,
       "sourceKind": "news",
       "isNew": false
     },
     {
-      "id": "f6f5b132f70c",
-      "title": "KADOKAWAグループ作品6万点以上に使える最大60％OFFクーポン配布！「陰の実力者」「聖剣学院の魔剣使い」など秋アニメ作品もお得に",
-      "url": "https://www.walkerplus.com/article/1163318/",
-      "host": "walkerplus.com",
-      "source": "ウォーカープラス",
+      "id": "ec75f96631d3",
+      "title": "アニメ『薬屋のひとりごと』54話“紙の村”コメント最多シーンTOP3が発表。猫猫の激怒や壬氏の動揺がランクイン。そして1位は…!?",
+      "url": "http://news.dengeki.com/article/202611/94232",
+      "host": "news.dengeki.com",
+      "source": "電撃オンライン",
       "summary": "",
-      "publishedAt": "2026-11-16T23:14:00.000Z",
-      "image": "https://news.walkerplus.com/article/1163318/12301909_615.jpg",
+      "publishedAt": "2026-11-16T22:00:00.000Z",
+      "image": "https://cimg.kgl-systems.io/camion/files/94232/ogp_cCvU.jpg?x=1280",
       "categories": [
         "anime"
       ],
       "works": [
-        "kagejitsu"
+        "kusuriya"
+      ],
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": true
+    },
+    {
+      "id": "e218bf973343",
+      "title": "真相の方が怖い…『薬屋のひとりごと』猫猫が解き明かした「身の毛もよだつ怪奇事件」",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBOVzVMdzUxOGw5dVhodnNfOFUyTzJMYmlXTzI1dnFzSmpYX0g3MzVhZ1ZoTEFvb1BucGNyM2VGVzdXMkhlUmRnMDFwTkRJWHFrbDdDQjE3SHc3Sjc0ck5aSnQ2NEk0MFBrTTFfMmRR?oc=5",
+      "host": "article.auone.jp",
+      "source": "au Webポータル",
+      "summary": "",
+      "publishedAt": "2026-11-16T21:41:16.000Z",
+      "image": "",
+      "categories": [
+        "other"
+      ],
+      "works": [
+        "kusuriya"
+      ],
+      "isPR": false,
+      "viaGoogle": true,
+      "sourceKind": "news",
+      "isNew": true
+    },
+    {
+      "id": "616e4171c3f6",
+      "title": "『薬屋のひとりごと』ハロウィン企画ビジュアル＆ミニボイスドラマ公開 3日連続解禁で第1弾は猫猫＆趙迂",
+      "url": "https://www.sanyonews.jp/photo/detail?article_id",
+      "host": "sanyonews.jp",
+      "source": "山陽新聞",
+      "summary": "",
+      "publishedAt": "2026-11-16T21:25:24.000Z",
+      "image": "",
+      "categories": [
+        "other"
+      ],
+      "works": [
+        "kusuriya"
+      ],
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": true
+    },
+    {
+      "id": "c16bbeed3ce6",
+      "title": "不気味な色の炎、湯殿に現れる幽霊…『薬屋のひとりごと』猫猫が解き明かした「身の毛もよだつ怪奇事件」",
+      "url": "https://futaman.futabanet.jp/articles/-/132754",
+      "host": "futaman.futabanet.jp",
+      "source": "ふねぽ",
+      "summary": "",
+      "publishedAt": "2026-11-16T21:00:00.000Z",
+      "image": "https://futaman.ismcdn.jp/mwimgs/4/a/1200wm/img_4a27c9e6af8831a9fbbb91b0528152b4126100.jpg",
+      "categories": [
+        "other"
+      ],
+      "works": [
+        "kusuriya"
+      ],
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": true
+    },
+    {
+      "id": "f69991427d2f",
+      "title": "(3ページ目) 不気味な色の炎、湯殿に現れる幽霊…『薬屋のひとりごと』猫猫が解き明かした「身の毛もよだつ怪奇事件」",
+      "url": "https://futaman.futabanet.jp/articles/-/132754?page",
+      "host": "futaman.futabanet.jp",
+      "source": "ふねぽ",
+      "summary": "",
+      "publishedAt": "2026-11-16T21:00:00.000Z",
+      "image": "https://futaman.ismcdn.jp/mwimgs/4/a/1200wm/img_4a27c9e6af8831a9fbbb91b0528152b4126100.jpg",
+      "categories": [
+        "other"
+      ],
+      "works": [
+        "kusuriya"
+      ],
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": true
+    },
+    {
+      "id": "3001176857af",
+      "title": "『薬屋のひとりごと』最新話、猫猫が歌った子守歌に注目集まる「母から猫猫、そして壬氏へ」「切ない」",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1fMHdodnRuSC1kbGNRdkdGdENDLXgxUGpoQU5XTWZQWTl5QTQ1RUxjdUsybXZ3V3BEWWNicTZZbWQtZVV5QmFvZUlfMzA4TDVEVzd0dVRBYzVjVmR1V3Z6SlUzNDlnZUE5bS1ILW1YQQ?oc=5",
+      "host": "sanyonews.jp",
+      "source": "山陽新聞",
+      "summary": "",
+      "publishedAt": "2026-11-16T20:40:37.000Z",
+      "image": "",
+      "categories": [
+        "other"
+      ],
+      "works": [
+        "kusuriya"
+      ],
+      "isPR": false,
+      "viaGoogle": true,
+      "sourceKind": "news",
+      "isNew": true
+    },
+    {
+      "id": "528ab15ffd00",
+      "title": "『薬屋のひとりごと』最新話に反響 猫猫と壬氏の距離に変化？白鈴の核心つく一言に「それがまたいい」",
+      "url": "https://www.sanyonews.jp/article/2004625?rct",
+      "host": "sanyonews.jp",
+      "source": "山陽新聞",
+      "summary": "",
+      "publishedAt": "2026-11-16T19:15:30.000Z",
+      "image": "https://static.sanyonews.jp/image/article/size1/8/f/f/3/8ff3f8278baeab94cb0b68f151c14023_1.jpg",
+      "categories": [
+        "other"
+      ],
+      "works": [
+        "kusuriya"
       ],
       "isPR": false,
       "viaGoogle": false,
@@ -927,7 +1281,7 @@
     {
       "id": "95b109350b6f",
       "title": "コトブキヤ『無職転生III ～異世界行ったら本気だす～』ロキシー・ミグルディア・グレイラット 1/7スケールフィギュアが登場！グレイラット家の“青髪ママ”を立体化",
-      "url": "https://www.toy-people.com/jp/?p",
+      "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBVX1RfU0wwcUhmRmtoT0NYV2phaHMwM1BLTjVJSVJ2RC1oM2JJSmduMzNaR2dDVnhNeEpwZTNzallmWkU4cXg4Slo0MEFlZjlV?oc=5",
       "host": "toy-people.com",
       "source": "玩具人 TOY PEOPLE",
       "summary": "",
@@ -940,9 +1294,49 @@
         "mushoku"
       ],
       "isPR": false,
-      "viaGoogle": false,
+      "viaGoogle": true,
       "sourceKind": "news",
       "isNew": false
+    },
+    {
+      "id": "4767e9d90138",
+      "title": "『薬屋のひとりごと』阿多を訪ねた猫猫、手掛かりに気づく 第52話あらすじ＆場面カット公開",
+      "url": "https://www.sanyonews.jp/article/2009036?kw",
+      "host": "sanyonews.jp",
+      "source": "山陽新聞",
+      "summary": "",
+      "publishedAt": "2026-11-16T17:29:08.000Z",
+      "image": "https://static.sanyonews.jp/image/article/size1/8/b/3/d/8b3d5406dc5695c39a1607f0ee0ef946_1.jpg",
+      "categories": [
+        "anime"
+      ],
+      "works": [
+        "kusuriya"
+      ],
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": true
+    },
+    {
+      "id": "a4301d08b098",
+      "title": "『薬屋のひとりごと』謎の仙女・白娘々、猫猫たちに仙術を披露 第53話あらすじ＆場面カット公開",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9zUEpyLXJjWW9venpsaHFucl9yVEkwb2N4a0wwMDRjXzAtLWVFNDJ4UnlBSjlSRjgtWFJ4b2F4YnpQc3JYdS1LUmpfQ1BxTlN5dERqZURYTlQyUDVxNXlLNmZ1ZDZlN2lTV2JveEpfTQ?oc=5",
+      "host": "sanyonews.jp",
+      "source": "山陽新聞",
+      "summary": "",
+      "publishedAt": "2026-11-16T16:47:17.000Z",
+      "image": "",
+      "categories": [
+        "anime"
+      ],
+      "works": [
+        "kusuriya"
+      ],
+      "isPR": false,
+      "viaGoogle": true,
+      "sourceKind": "news",
+      "isNew": true
     },
     {
       "id": "ddd55aa4ccea",
@@ -965,9 +1359,49 @@
       "isNew": false
     },
     {
+      "id": "80dae3b81de8",
+      "title": "『転スラ』リムル戦闘！ディアブロ含めキャラ大集結 第90話あらすじ＆場面カット解禁",
+      "url": "https://www.sanyonews.jp/article/1970647?kw",
+      "host": "sanyonews.jp",
+      "source": "山陽新聞",
+      "summary": "",
+      "publishedAt": "2026-11-16T16:23:48.000Z",
+      "image": "https://static.sanyonews.jp/image/article/size1/e/1/6/0/e1606d7d1670af7487b22801b4147609_1.jpg",
+      "categories": [
+        "anime"
+      ],
+      "works": [
+        "tensura"
+      ],
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": true
+    },
+    {
+      "id": "43ceec66bd33",
+      "title": "「劇場版 薬屋のひとりごと 亡妃の秘宝」公開記念！TVシリーズ傑作選(アニメ)",
+      "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE80LUlmSXpMQUdtV0l6YlkzekloYlBtZHpxS2VQYWZESTluSGp2alBmWlVqcjFRdkZMM0pEbHpXRnlySUU3RXRYaHRFcXk?oc=5",
+      "host": "thetv.jp",
+      "source": "WEBザテレビジョン",
+      "summary": "",
+      "publishedAt": "2026-11-16T15:48:06.000Z",
+      "image": "",
+      "categories": [
+        "anime"
+      ],
+      "works": [
+        "kusuriya"
+      ],
+      "isPR": false,
+      "viaGoogle": true,
+      "sourceKind": "news",
+      "isNew": true
+    },
+    {
       "id": "af1aa7a4165f",
       "title": "【Kindleセール】99円~ 双葉社 読書の秋 女性向け異世界マンガセール : ヤフオク落札価格より安い超特価品情報blog",
-      "url": "https://news.google.com/rss/articles/CBMiO0FVX3lxTE1ZZ013WGRGSUhWeFVCUm5EZWIxQ1VnenFBQjFZMUZoSngySU9xYTl4MTRuWFMxQ1RYeW40?oc=5",
+      "url": "https://t.co/2RsjJZoAoN",
       "host": "t.co",
       "source": "Howl.Link",
       "summary": "",
@@ -978,19 +1412,19 @@
       ],
       "works": [],
       "isPR": false,
-      "viaGoogle": true,
+      "viaGoogle": false,
       "sourceKind": "news",
       "isNew": false
     },
     {
       "id": "01e764e68ee8",
       "title": "【モンスト】フィッツは買うべき？｜無職転生コラボ",
-      "url": "https://xn--eckwa2aa3a9c8j8bve9d.gamewith.jp/article/show/587659",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE1PU3hDZjRzOXNlUjNGLWQyZ1hmODI3ZWFndWN3cGc2akFxOEU5SGx0MGNVOUtCWWRleW9DWGIwSE9ZazI3WkVOaFpSSXMxZjk0bGtUcVhRRGZGSDVQTWt6Rm1CYUhXTHlMRGJweTFnS2oyQQ?oc=5",
       "host": "xn--eckwa2aa3a9c8j8bve9d.gamewith.jp",
       "source": "GameWith",
       "summary": "",
       "publishedAt": "2026-11-16T13:15:22.000Z",
-      "image": "https://img.gamewith.jp/article/thumbnail/rectangle/587659.png?date=1794485079",
+      "image": "",
       "categories": [
         "game",
         "goods"
@@ -999,7 +1433,7 @@
         "mushoku"
       ],
       "isPR": false,
-      "viaGoogle": false,
+      "viaGoogle": true,
       "sourceKind": "news",
       "isNew": false
     },
@@ -1022,14 +1456,34 @@
       "isNew": false
     },
     {
+      "id": "342fbaeddf09",
+      "title": "「最高の共同作業！」猫猫＆壬氏が馬閃を押さえつけ「息ぴったりで可愛い」アニメ『薬屋のひとりごと』55話 (ABEMA TIMES)",
+      "url": "https://news.yahoo.co.jp/articles/397d95128fcd94cc7991fb2d4a8e35a1c39263c0/images/000",
+      "host": "news.yahoo.co.jp",
+      "source": "Yahoo!ニュース",
+      "summary": "",
+      "publishedAt": "2026-11-16T11:12:17.000Z",
+      "image": "https://news-pctr.c.yimg.jp/uUzvQ3lML_bkIqyakc1vFhNrRI0RUQxg5aFkrX0xDg1_T0wXrbEJjtNGtrf1o9y32aKHaE9S6KKOAHNM7AL26vPgpl8IcVBJ076Ul3tYOD_P4_LktXExTq_8u_pPiJKr2d4xSN0WK579qZrpp_8vgorT9Ar9Jxzit9eWlEFg7gTb-HnBYbwKpy_kZ9nQu-Sa4fgZd8qIbZ-T7pwjZ31YtQ==",
+      "categories": [
+        "anime"
+      ],
+      "works": [
+        "kusuriya"
+      ],
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": true
+    },
+    {
       "id": "d2bf1dda7c74",
       "title": "【池袋ハロウィン2026】コスプレイヤー写真一覧｜『To LOVEる』『名探偵プリキュア！』『リゼロ』など | コスプレ | アニメフリークス",
-      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBRVTJDR3MyaGxKYkJrdExWRnhWWWdLQWdnREhhanJwQVVZTUFTWm40anY2UEstZFVnRkhpWFNjSVBORzYzd0I1dnA2b2VUbWJPZjVtWQ?oc=5",
+      "url": "https://times.abema.tv/articles/-/10289439",
       "host": "times.abema.tv",
       "source": "ABEMA TIMES",
       "summary": "",
       "publishedAt": "2026-11-16T10:58:00.000Z",
-      "image": "",
+      "image": "https://times-abema.ismcdn.jp/mwimgs/c/6/1200w/img_c61c62feaa6e214a69912046ee91bfba196696.jpg",
       "categories": [
         "anime"
       ],
@@ -1037,7 +1491,7 @@
         "rezero"
       ],
       "isPR": false,
-      "viaGoogle": true,
+      "viaGoogle": false,
       "sourceKind": "news",
       "isNew": false
     },
@@ -1062,7 +1516,7 @@
     {
       "id": "4a9f0acf4abf",
       "title": "“貴族×武将×オタク”のファンタジー『異世界転生騒動記』ABEMAで地上波1週間先行配信が決定！2027年1月6日より",
-      "url": "https://times.abema.tv/articles/-/10289452?utm_campaign",
+      "url": "https://times.abema.tv/articles/-/10289452",
       "host": "times.abema.tv",
       "source": "ABEMA TIMES",
       "summary": "",
@@ -1118,6 +1572,26 @@
       "isNew": false
     },
     {
+      "id": "55e76e9dfc62",
+      "title": "山手線に「薬屋のひとりごと」のラッピング車両 茨城県が観光地PR",
+      "url": "https://www.nikkei.com/article/DGXZQOCC165NQ0W6A111C2000000/",
+      "host": "nikkei.com",
+      "source": "日本経済新聞",
+      "summary": "",
+      "publishedAt": "2026-11-16T09:00:00.000Z",
+      "image": "https://article-image-ix.nikkei.com/https%3A%2F%2Fimgix-proxy.n8s.jp%2FDSXZQO3886096016112026000000-1.jpg?auto=compress&bg=FFFF&crop=focalpoint&fit=crop&fm=jpg&h=630&w=1200&s=93c251b717ceac49e9e4796a02e21ee6",
+      "categories": [
+        "other"
+      ],
+      "works": [
+        "kusuriya"
+      ],
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": true
+    },
+    {
       "id": "195dcba603c9",
       "title": "TVアニメ『異世界転生騒動記』2027年1月6日から放送開始！ OPテーマはMaverick Mom「異世界」、EDテーマはときのそら「Brand new day」に決定",
       "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9jUklGRVpnLVhoX1l3LXNlS3l2M2laT0loaF9PeTRPY25QWUpmYW5uVF95UV83bkpnZXZMdkp5OEcyX0RiUWxBY3lnbEpSVjd6b09FVg?oc=5",
@@ -1138,7 +1612,7 @@
     {
       "id": "62807f13ec40",
       "title": "“貴族×武将×オタク”が織りなす異色の痛快異世界ファンタジー『異世界転生騒動記』2027年1月6日（水）夜10時30分",
-      "url": "https://news.nicovideo.jp/watch/nw19996786?news_ref",
+      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5PRTRYZ1psdjFxUlFZV1I4THFXRnR5dkJCR3lJRno1R1l4dlQzeFlCOFV1NHpLZnlUd0pjRDg4VFJGWWhvT1ROV0xkVklScXptTjUtN1FTWE5vZmUzSzhOUlNteGh1Y242cWc5cWhReFBneGdtTVpVZ2hkZw?oc=5",
       "host": "news.nicovideo.jp",
       "source": "ニコニコニュース",
       "summary": "",
@@ -1149,27 +1623,47 @@
       ],
       "works": [],
       "isPR": false,
-      "viaGoogle": false,
+      "viaGoogle": true,
       "sourceKind": "news",
       "isNew": false
     },
     {
       "id": "33a9449d75c6",
       "title": "異色の痛快異世界ファンタジー『異世界転生騒動記』ABEMAで配信",
-      "url": "https://article.auone.jp/c30c8156-0188-4b94-a544-628bca5bce7c",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE8zRXJDd2lpZDNPQlN5WnRnT0d5WWFnZ2xBUkxhYndGejdMbE9CTW4xU1JRWm41dnh5ZlJReGxqc01OY1BGVDVFQ3JGOUNfTFpOb0tYcC02TEJHSk5hYkJUNjZEV25LUzQ4Z014VDFB?oc=5",
       "host": "article.auone.jp",
       "source": "au Webポータル",
       "summary": "",
       "publishedAt": "2026-11-16T07:26:28.000Z",
-      "image": "https://portal.auone.jp/media/thumbnails/2026/11/16/https___news_jp_i_1494962306521744019_w500.webp",
+      "image": "",
       "categories": [
         "anime"
       ],
       "works": [],
       "isPR": false,
-      "viaGoogle": false,
+      "viaGoogle": true,
       "sourceKind": "news",
       "isNew": false
+    },
+    {
+      "id": "11ff5432d9b8",
+      "title": "＜薬屋のひとりごと＞壬氏初の“猫猫”名前呼びに「刺激が強すぎる」とファン悶絶、幽霊の正体も明らかに【第38話】",
+      "url": "https://thetv.jp/news/detail/1445408/18697261/",
+      "host": "thetv.jp",
+      "source": "WEBザテレビジョン",
+      "summary": "",
+      "publishedAt": "2026-11-16T05:28:53.000Z",
+      "image": "https://thetv.jp/i/nw/1445408/18697261.jpg?w=1284",
+      "categories": [
+        "anime"
+      ],
+      "works": [
+        "kusuriya"
+      ],
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": true
     },
     {
       "id": "b76703bf7566",
@@ -1214,12 +1708,12 @@
     {
       "id": "af52b9aef2cc",
       "title": "【モンスト】無職転生コラボの評価とイベントまとめ",
-      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE84dTl6bXNaRThkVmlJa2NNSGI2dHFOeE9xVEpEa2RfQkJYWHd6TG51bnd6QnpFSjhENUMyQ05uRmthVllnVW9HbDV4ZFJPNnpCZmpITVlEMGRQa2J6R3ZKZkNMVGxPdWtwU2Q4OEpNakRvZw?oc=5",
+      "url": "https://xn--eckwa2aa3a9c8j8bve9d.gamewith.jp/article/show/587568",
       "host": "xn--eckwa2aa3a9c8j8bve9d.gamewith.jp",
       "source": "GameWith",
       "summary": "",
       "publishedAt": "2026-11-16T04:59:13.000Z",
-      "image": "",
+      "image": "https://img.gamewith.jp/article/thumbnail/rectangle/587568.png?date=1794495396",
       "categories": [
         "goods",
         "game"
@@ -1228,7 +1722,7 @@
         "mushoku"
       ],
       "isPR": false,
-      "viaGoogle": true,
+      "viaGoogle": false,
       "sourceKind": "news",
       "isNew": false
     },
@@ -1253,24 +1747,65 @@
       "isNew": false
     },
     {
-      "id": "6cab86e20ac7",
-      "title": "『リゼロ』TVアニメ5th season製作決定！スバルがレムの手を取るウルトラティザービジュアル公開＆原作・長月達平からお祝いコメントも",
-      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5mRXY5THlveWlNNnMyeDI0eWZaNno3R0JxZ3JSYjYyRGtvaHRpcFRlemdDUjhCSldrdmJpUWtXd2VTanJ5NTNkalBXeUJCR05Td3dZU01fNTFFOG1HcFJhUzVYc0FKcFo2ZVkzY3pldlU?oc=5",
-      "host": "excite.co.jp",
-      "source": "Excite エキサイト",
+      "id": "8db1335ea804",
+      "title": "「劇場版 薬屋のひとりごと」CUTのバックカバーに 悠木碧×大塚剛央の対談を掲載 (コミックナタリー)",
+      "url": "https://news.yahoo.co.jp/articles/bd1f8928a30ed88aa7d181385f22d11df9cc6f95/images/000",
+      "host": "news.yahoo.co.jp",
+      "source": "Yahoo!ニュース",
       "summary": "",
-      "publishedAt": "2026-11-16T03:30:15.000Z",
+      "publishedAt": "2026-11-16T03:36:10.000Z",
+      "image": "https://news-pctr.c.yimg.jp/uUzvQ3lML_bkIqyakc1vFhNrRI0RUQxg5aFkrX0xDg1_T0wXrbEJjtNGtrf1o9y32aKHaE9S6KKOAHNM7AL26nl_vuwGLtSKmA9n-lNmad41kh2O-ySfGA3jeFBttX6WyODeVSmduGUD96hz4fGwzI0Wm8pCI6do0UXa18n0LLihe3zRjbZi9bsrnLv6KyKarM9MTS-EQX7xI9oHVisqkQ==",
+      "categories": [
+        "anime",
+        "comic"
+      ],
+      "works": [
+        "kusuriya"
+      ],
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": true
+    },
+    {
+      "id": "f09ce04d968c",
+      "title": "『薬屋のひとりごと』第55話SNSの反応まとめ - 猫猫の意外な一面にSNSざわつく…! 悠木碧の演技にも絶賛の声",
+      "url": "https://news.mynavi.jp/article/20261116-5336621/",
+      "host": "news.mynavi.jp",
+      "source": "マイナビニュース",
+      "summary": "",
+      "publishedAt": "2026-11-16T03:12:27.000Z",
+      "image": "https://news.mynavi.jp/article/20261116-5336621/ogp_images/ogp.jpg",
+      "categories": [
+        "anime"
+      ],
+      "works": [
+        "kusuriya"
+      ],
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": true
+    },
+    {
+      "id": "91e3197ce0fb",
+      "title": "CUT12月号で『劇場版 薬屋のひとりごと 亡妃の秘宝』特集を敢行！ 描き下ろしバックカバー＆キャストインタビューで、花咲く謎を解き明かします。11月19日（木）発売！",
+      "url": "https://rockinon.com/blog/cut/216251",
+      "host": "rockinon.com",
+      "source": "rockinon.com",
+      "summary": "",
+      "publishedAt": "2026-11-16T03:01:02.000Z",
       "image": "",
       "categories": [
         "anime"
       ],
       "works": [
-        "rezero"
+        "kusuriya"
       ],
       "isPR": false,
-      "viaGoogle": true,
+      "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": false
+      "isNew": true
     },
     {
       "id": "9807e1334b84",
@@ -1313,6 +1848,46 @@
       "isNew": false
     },
     {
+      "id": "a1a373600733",
+      "title": "『薬屋のひとりごと』×「wicca」コラボ腕時計が登場 - 猫猫、壬氏モデル各2,000本限定販売",
+      "url": "https://news.mynavi.jp/article/20261116-5336362/",
+      "host": "news.mynavi.jp",
+      "source": "マイナビニュース",
+      "summary": "",
+      "publishedAt": "2026-11-16T02:15:28.000Z",
+      "image": "https://news.mynavi.jp/article/20261116-5336362/ogp_images/ogp.jpg",
+      "categories": [
+        "goods"
+      ],
+      "works": [
+        "kusuriya"
+      ],
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": true
+    },
+    {
+      "id": "5066c9cbdcff",
+      "title": "JR山手線『薬屋のひとりごと』×茨城県ラッピングトレインが運行開始 - 猫猫や壬氏が“四季のいばらき”を発信",
+      "url": "https://news.mynavi.jp/article/20261116-5336284/",
+      "host": "news.mynavi.jp",
+      "source": "マイナビニュース",
+      "summary": "",
+      "publishedAt": "2026-11-16T02:08:35.000Z",
+      "image": "https://news.mynavi.jp/article/20261116-5336284/ogp_images/ogp.jpg",
+      "categories": [
+        "other"
+      ],
+      "works": [
+        "kusuriya"
+      ],
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": true
+    },
+    {
       "id": "598edf6dc33b",
       "title": "推計30億円でKADOKAWA首位 ウェブ小説発の『リゼロ』はなぜ10年続くIPになれたのか",
       "url": "https://mediamixi.jp/news/18864/",
@@ -1336,12 +1911,12 @@
     {
       "id": "557975fe8582",
       "title": "海外売上は12億円から22億円へ 『薬屋のひとりごと』はなぜ海外で売れるのか | ニュース | IT×エンタメの最前線を届ける",
-      "url": "https://mediamixi.jp/news/18866/",
+      "url": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE9aa1RQQkJTRXVDX2lwaVRaeVl4WEg0RS1DQTJOZ2FXVXRzWWZJTy1SU0VKN1M5bjkyaDhjWEtFTERZdmVyel93?oc=5",
       "host": "mediamixi.jp",
       "source": "MEDIAMIXI",
       "summary": "",
       "publishedAt": "2026-11-16T02:00:41.000Z",
-      "image": "https://mediamixi.jp/app/uploads/2026/11/1116_001.jpg",
+      "image": "",
       "categories": [
         "other"
       ],
@@ -1349,19 +1924,19 @@
         "kusuriya"
       ],
       "isPR": false,
-      "viaGoogle": false,
+      "viaGoogle": true,
       "sourceKind": "news",
       "isNew": false
     },
     {
       "id": "31c34d7039d4",
       "title": "『城とドラゴン』×TVアニメ『転生したらスライムだった件』復刻コラボイベントが今日から開催！迷宮妖精ラミリスもコラボお着替えに登場！",
-      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE0tS3ZHWXo2SkR0bXlVQ1JjMTlBUWNzbXkzWUE4b3RyeHFhY1ZKb3dnT1ZmVG9RY3pMRXdOYVVyWG9nR2t0dTlOd0JpdDRIbGJXZjdv?oc=5",
+      "url": "https://www.dreamnews.jp/press/0000368440",
       "host": "dreamnews.jp",
       "source": "ドリームニュース",
       "summary": "",
       "publishedAt": "2026-11-16T01:48:25.000Z",
-      "image": "",
+      "image": "https://www.dreamnews.jp/press/0000368440/images/bodyimage1",
       "categories": [
         "goods",
         "anime"
@@ -1370,19 +1945,19 @@
         "tensura"
       ],
       "isPR": false,
-      "viaGoogle": true,
+      "viaGoogle": false,
       "sourceKind": "news",
       "isNew": false
     },
     {
       "id": "9b5ce7615730",
       "title": "『Re:ゼロから始める異世界生活』×「押上温泉 大黒湯」のコラボレーションアイテムの受注を開始！！アニメ・漫画のオリジナルグッズを販売する「AMNIBUS」にて",
-      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBCZXZTMERDVW5EYW9tY3YyRVhjU0hjd1FQRFhxSzBtd2g0OFpsajFRYTlPWjBKUXJXUTZpQWJ6UDFYYWdHeE5VTjNEVGVmSEFqWVZXV1dXMXBIdjdoZ28wSU1rYzVpOVB4VUE?oc=5",
+      "url": "https://animeanime.jp/release/prtimes/20261116/327116.html",
       "host": "animeanime.jp",
       "source": "アニメ！アニメ！",
       "summary": "",
       "publishedAt": "2026-11-16T01:45:34.000Z",
-      "image": "",
+      "image": "https://animeanime.jp/release/imgs/list/573807.jpg",
       "categories": [
         "goods",
         "anime"
@@ -1391,7 +1966,7 @@
         "rezero"
       ],
       "isPR": false,
-      "viaGoogle": true,
+      "viaGoogle": false,
       "sourceKind": "news",
       "isNew": false
     },
@@ -1418,12 +1993,12 @@
     {
       "id": "9bec1f6335d0",
       "title": "「コンプガチャ」はなぜ禁止？ 無職転生×モンストのガチャで注目",
-      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBtNTloWW1WTlltZ2VkUlNDQ29GQ2pGNzdnQnFxcnJLeVlTdXpEMllXYVRUbVZxbzJTSEtNRjdNWXJPb2RnUGw1QUx5TGFodDZFbU5MTk1RTnh0OE84NkxF?oc=5",
+      "url": "https://www.chiba-tv.com/plus/detail/2026112226992",
       "host": "chiba-tv.com",
       "source": "千葉テレビ放送",
       "summary": "",
       "publishedAt": "2026-11-16T00:55:17.000Z",
-      "image": "",
+      "image": "https://img.jp.ekkowassets.com/c_limit,w_360,f_auto,q_auto:eco/ch/images/1494863853182058942/origin_1.jpg",
       "categories": [
         "game"
       ],
@@ -1431,19 +2006,19 @@
         "mushoku"
       ],
       "isPR": false,
-      "viaGoogle": true,
+      "viaGoogle": false,
       "sourceKind": "news",
       "isNew": false
     },
     {
       "id": "a1e8ee3cb765",
       "title": "【App Store(11/16)】首位は『ポケモンGO』 「無職転生」との初コラボで『モンスト』がトップ3入り",
-      "url": "https://news.google.com/rss/articles/CBMiREFVX3lxTE5fUlhDTUl3TW9MOWFTbVFXVlA1SGY1NjJ2ZEp0ZnhSczY2SHhBM05LWDU5cEt3bE95X3VfbHYzTlkwcEYt?oc=5",
+      "url": "https://gamebiz.jp/news/435547",
       "host": "gamebiz.jp",
       "source": "gamebiz【ゲームビズ】",
       "summary": "",
       "publishedAt": "2026-11-16T00:12:00.000Z",
-      "image": "",
+      "image": "https://i3.gamebiz.jp/media/33ecae56-453f-4823-8b40-1924aca379c9.png",
       "categories": [
         "game",
         "goods"
@@ -1452,7 +2027,7 @@
         "mushoku"
       ],
       "isPR": false,
-      "viaGoogle": true,
+      "viaGoogle": false,
       "sourceKind": "news",
       "isNew": false
     },
@@ -1479,7 +2054,7 @@
     {
       "id": "87837013c9d6",
       "title": "【蛇足編06】ルーシーとパパ「ルーシーの家族」【無職転生】をWEB原作よりおたのしみください。 Ahl Playoffs (DqEBWIibiB)",
-      "url": "https://media.unisba.ac.id/6122ee8f/f2259f3eIS4lGjtpHV4BMAE",
+      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9RZ2ZZa0JBOVQzcUZET1hETHl4WmRrUTItRF9TU2tYUVlMdXRrdjhabWhySmJIMGVyT2FwTlh3T1padjNVeUJfV0pLcnA2VGZZd3lRZGVtMkcwck9KNFZYMFBBYk1NTk5VazNZ?oc=5",
       "host": "media.unisba.ac.id",
       "source": "Unisba Media",
       "summary": "",
@@ -1492,7 +2067,7 @@
         "mushoku"
       ],
       "isPR": false,
-      "viaGoogle": false,
+      "viaGoogle": true,
       "sourceKind": "news",
       "isNew": false
     },
@@ -1540,14 +2115,34 @@
     {
       "id": "4d8362e98ec4",
       "title": "【コスプレ】ハロウィン衣装がセクシー×可愛い「着せ恋」、妖精みたいな初音ミクや「リゼロ」など「池ハロ」美女レイヤー11選【写真44枚】",
-      "url": "https://www.inside-games.jp/article/2026/11/16/191003.html",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5jREdxUXREMFNrSVFLdHhWR3Fhdk9uODZFc01uZXBiT1BnUjN4R2ZqSWtMS2w3b0JPOVRhV3A2d25KZHVVRk9RTE11dlVqMG1PX3ZaSVh5N3g2Rk9uYkVRR0lSaHdZRFotbXc?oc=5",
       "host": "inside-games.jp",
       "source": "インサイド",
       "summary": "",
       "publishedAt": "2026-11-15T22:00:02.000Z",
-      "image": "https://www.inside-games.jp/imgs/ogp_f/1807485.jpg",
+      "image": "",
       "categories": [
         "other"
+      ],
+      "works": [
+        "rezero"
+      ],
+      "isPR": false,
+      "viaGoogle": true,
+      "sourceKind": "news",
+      "isNew": false
+    },
+    {
+      "id": "1de4c7d81c06",
+      "title": "アニメ『リゼロ』5th season製作決定。スバルとレムのティザービジュアル公開＆長月達平からのお祝いコメントも",
+      "url": "https://dengekionline.com/article/202611/94101",
+      "host": "dengekionline.com",
+      "source": "電撃オンライン",
+      "summary": "",
+      "publishedAt": "2026-11-15T22:00:00.000Z",
+      "image": "https://cimg.kgl-systems.io/camion/files/94101/ogp_vtih.jpg?x=1280",
+      "categories": [
+        "anime"
       ],
       "works": [
         "rezero"
@@ -1558,44 +2153,45 @@
       "isNew": false
     },
     {
-      "id": "1de4c7d81c06",
-      "title": "アニメ『リゼロ』5th season製作決定。スバルとレムのティザービジュアル公開＆長月達平からのお祝いコメントも",
-      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1NajZLNEo0MkppZ0l0Y3ZYSlEzZlFrMzJhQ3FjTGtfNzg4VTdSR0dwZERiM1QzUnJRVWxsVHBIMDVCTV8yTDhBbzRmYloxZjJ5NXlqTkxpaTRPdw?oc=5",
-      "host": "dengekionline.com",
-      "source": "電撃オンライン",
-      "summary": "",
-      "publishedAt": "2026-11-15T22:00:00.000Z",
-      "image": "",
-      "categories": [
-        "anime"
-      ],
-      "works": [
-        "rezero"
-      ],
-      "isPR": false,
-      "viaGoogle": true,
-      "sourceKind": "news",
-      "isNew": false
-    },
-    {
-      "id": "299970487651",
-      "title": "『転スラ』衝撃の戦闘！封印の解かれたクロノア、破壊の化身に 第94話あらすじ＆場面カット解禁",
-      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5DekdTcjRUYks0Vmk1NzZJUk1ObW5MM2h2cDRKbHpVcFpYdVRzbkEzTkp6emowbUZCZ191bFRMaER0eVA3c0xXZEtndVNlRWJpMmw4ZS02enFrUUMyUlllaFJ1aHNyYjBKQ29CTl9sSmtldzRLcU9z?oc=5",
+      "id": "5b3f2206d596",
+      "title": "『薬屋のひとりごと』猫猫＆壬氏が織りなす幻想世界 六本木ヒルズ展望台で初の“舞”イベント",
+      "url": "https://www.sanyonews.jp/article/1938679?kw",
       "host": "sanyonews.jp",
       "source": "山陽新聞",
       "summary": "",
-      "publishedAt": "2026-11-15T21:41:01.000Z",
-      "image": "",
+      "publishedAt": "2026-11-15T21:49:09.000Z",
+      "image": "https://static.sanyonews.jp/image/article/size1/1/8/6/d/186de6bed03b1bb06f72b3fe36057ad9_1.jpg",
       "categories": [
-        "anime"
+        "goods"
       ],
       "works": [
-        "tensura"
+        "kusuriya"
+      ],
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": true
+    },
+    {
+      "id": "07522b67bff2",
+      "title": "劇場版『薬屋のひとりごと』入場者特典は原作者書き下ろし小説 猫猫＆壬氏の“その後”描く",
+      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNSUJXY1NnWmJzamZUMXNoWVVBdVBhMjVKX2xQRzZDazJld0dCNi1DRmZ1STA5YV9jNEVXS185bzNvRElBTEY5RlpqZTJFOTlMYUZLLWh5WVFSSUtpTWFCSTBwMk1nbWoza0l4ZlcxV01UVWJVczlRa3ZVZDRKZC1tRXhMTTdfNkQ2WlE?oc=5",
+      "host": "sanyonews.jp",
+      "source": "山陽新聞",
+      "summary": "",
+      "publishedAt": "2026-11-15T21:37:40.000Z",
+      "image": "",
+      "categories": [
+        "anime",
+        "book"
+      ],
+      "works": [
+        "kusuriya"
       ],
       "isPR": false,
       "viaGoogle": true,
       "sourceKind": "news",
-      "isNew": false
+      "isNew": true
     },
     {
       "id": "d8dedb155cf8",
@@ -1639,6 +2235,26 @@
       "isNew": false
     },
     {
+      "id": "e0a688477001",
+      "title": "芦田愛菜『薬屋のひとりごと』猫猫姿にネットざわつく「目元が気になる！」",
+      "url": "https://www.sanyonews.jp/article/1983634?kw",
+      "host": "sanyonews.jp",
+      "source": "山陽新聞",
+      "summary": "",
+      "publishedAt": "2026-11-15T17:22:15.000Z",
+      "image": "https://static.sanyonews.jp/image/article/size1/d/3/6/7/d3670d8ee47c6d2ae8ceb19407a40eb2_1.jpg",
+      "categories": [
+        "other"
+      ],
+      "works": [
+        "kusuriya"
+      ],
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": true
+    },
+    {
       "id": "597aeb0ae593",
       "title": "『転スラ』クロエとヒナタ、暴風竜に戦いを挑む 【勇者クロノア・後編】第93話あらすじ＆場面カット解禁",
       "url": "https://www.sanyonews.jp/photo/detail?article_id",
@@ -1661,12 +2277,12 @@
     {
       "id": "18c442dd9a7f",
       "title": "『転スラ』そのキャラ出るの！第4期の第2クールPV解禁 OPはDaoko、EDは田所あずさ",
-      "url": "https://www.sanyonews.jp/article/1940746?kw",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFA3dHNCT1c0WkhwaTg4UlRYdXo2cXJ2OHdzMHZlRzFXeWRVQ1ZiQm9qSDNub0JiTURWbEtJZzdOOFJuZmZwY1dCendPRWMzNnZOS00tLXlmLTBVZnlPMVYxa2cwYTY3Y2R5NTVqZGx6TQ?oc=5",
       "host": "sanyonews.jp",
       "source": "山陽新聞",
       "summary": "",
       "publishedAt": "2026-11-15T16:19:52.000Z",
-      "image": "https://static.sanyonews.jp/image/article/size1/2/b/6/7/2b67db9eed80b704cb517b99fda49c2c_1.jpg",
+      "image": "",
       "categories": [
         "anime"
       ],
@@ -1674,29 +2290,28 @@
         "tensura"
       ],
       "isPR": false,
-      "viaGoogle": false,
+      "viaGoogle": true,
       "sourceKind": "news",
       "isNew": false
     },
     {
-      "id": "3602222e245b",
-      "title": "『本好きの下剋上』新キャストに本渡楓 新規映像盛りだくさんのクライマックスPV公開",
-      "url": "https://www.sanyonews.jp/article/1987971?kw",
-      "host": "sanyonews.jp",
-      "source": "山陽新聞",
+      "id": "54f99555b9af",
+      "title": "【アニメ異世界】彼はラーメンを作って売ることで、のんびりとした生活を始めた。【マンガ動画】 Colson Montgomery (aVs3euVWOx)",
+      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1za2JZOHdsWnZvTmNScXdQYS05aFlNQUg0Qmc2T1pIakRyZ3g5Wnd5Y2xKQkhhb0pJM3hWTXgtN2l4aDRKYWxRR2pneVpqOGpYSlNtM0Nfa0lVdXFva2JLbl9zLXdqZw?oc=5",
+      "host": "media.unisba.ac.id",
+      "source": "Unisba Media",
       "summary": "",
-      "publishedAt": "2026-11-15T16:19:13.000Z",
-      "image": "https://static.sanyonews.jp/image/article/size1/9/6/a/f/96afefddf8d40f2d7c640e346c9eee72_1.jpg",
+      "publishedAt": "2026-11-15T11:16:02.000Z",
+      "image": "",
       "categories": [
-        "anime"
+        "anime",
+        "comic"
       ],
-      "works": [
-        "honzuki"
-      ],
+      "works": [],
       "isPR": false,
-      "viaGoogle": false,
+      "viaGoogle": true,
       "sourceKind": "news",
-      "isNew": false
+      "isNew": true
     },
     {
       "id": "0d51e8aba164",
@@ -1715,6 +2330,26 @@
       "viaGoogle": false,
       "sourceKind": "news",
       "isNew": false
+    },
+    {
+      "id": "f20ac13e612b",
+      "title": "『片田舎のおっさん、剣聖になる』第2期PV公開 魔術師学院の秘密に迫るアクション",
+      "url": "https://www.sanyonews.jp/article/1896592",
+      "host": "sanyonews.jp",
+      "source": "山陽新聞",
+      "summary": "",
+      "publishedAt": "2026-11-15T10:57:29.000Z",
+      "image": "https://static.sanyonews.jp/image/article/size1/6/1/4/f/614f54b5670dcff4b0c72aff4dd6b317_1.jpg",
+      "categories": [
+        "anime"
+      ],
+      "works": [
+        "katainaka"
+      ],
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": true
     },
     {
       "id": "1f3fb2c93d42",
@@ -1760,12 +2395,12 @@
     {
       "id": "99dad84275c0",
       "title": "アニメ1週間：魂ネイション2026にフィギュア新商品続々 「リゼロ」第5期制作",
-      "url": "https://mantan-web.jp/article/20261115dog00m200000000a.html",
+      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1BU1c3OUhKd2x6dVhsb3dpd3pmWkNSUGxTdWV6QVpiUXhHci1DbXFsOFRxZ0NPNkxpR0o3ZXI1TnE0ZE95SEJjTGJKOTY4elRNMGo0R1dEQjdiQVc3Ri1LU1VLZ0FaNXQyLUZn?oc=5",
       "host": "mantan-web.jp",
       "source": "Mantan Web",
       "summary": "",
       "publishedAt": "2026-11-15T10:01:00.000Z",
-      "image": "https://storage.mantan-web.jp/w=1280,h=720,icr=0:0.1:1:1,a=2,g=2,f=webp:auto/images/2026/11/15/20261115dog00m200000000a/001.jpg",
+      "image": "",
       "categories": [
         "anime",
         "goods"
@@ -1774,19 +2409,19 @@
         "rezero"
       ],
       "isPR": false,
-      "viaGoogle": false,
+      "viaGoogle": true,
       "sourceKind": "news",
       "isNew": false
     },
     {
       "id": "46bb166907eb",
       "title": "【リゼロ5期】アニメ『Re:ゼロから始める異世界生活』5th seasonが製作決定！ スバルとレムが新たな冒険へ旅立つ姿を描いたウルトラティザービジュアルも公開",
-      "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE9MTWpPSnJWRlg0bkdRUXR5ZWNENHFQS0NtNkhFcTJfeFhhOTA1WkxTbzJqZHo0eXMtdFJ6NmVtNzY2UDdKRXlpZ0VGSjNBUQ?oc=5",
+      "url": "https://www.pashplus.jp/anime/503122/",
       "host": "pashplus.jp",
       "source": "PASH! PLUS",
       "summary": "",
       "publishedAt": "2026-11-15T09:58:51.000Z",
-      "image": "",
+      "image": "https://www.pashplus.jp/wp-content/uploads/32b9c4b704c1995f0b7d7d499d5b1c29.jpg",
       "categories": [
         "anime"
       ],
@@ -1794,69 +2429,107 @@
         "rezero"
       ],
       "isPR": false,
-      "viaGoogle": true,
-      "sourceKind": "news",
-      "isNew": false
-    },
-    {
-      "id": "17e282b34777",
-      "title": "『転スラ』夜明けの勇者グラン！リムルはルミナスから誘われる 第88話あらすじ＆場面カット解禁",
-      "url": "https://www.sanyonews.jp/article/1958264",
-      "host": "sanyonews.jp",
-      "source": "山陽新聞",
-      "summary": "",
-      "publishedAt": "2026-11-15T09:17:53.000Z",
-      "image": "https://static.sanyonews.jp/image/article/size1/e/f/b/6/efb60caf92c7645929cfad2dc6f25ed5_1.jpg",
-      "categories": [
-        "anime"
-      ],
-      "works": [
-        "tensura"
-      ],
-      "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
       "isNew": false
     },
     {
-      "id": "9e38bf0b4645",
-      "title": "TVアニメ『Re:ゼロから始める異世界生活』5th season 製作決定！ウルトラティザービジュアルを公開＆原作：長月達平からお祝いコメントが到着！",
-      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFA4TFA2blVrZ0ZDTGVIMXpaMi1IS01DR3F6QWpUZEs4Q29VcmtWckN1ODRfVTJWSDdHQVQ5ZDB3LXlGdmZFajBiZkdiWDlEZHpDZW1mbkRZc21XNUU4OHBCM0VteWw5Zw?oc=5",
-      "host": "excite.co.jp",
-      "source": "Excite エキサイト",
+      "id": "c5c8b6d22594",
+      "title": "『薬屋のひとりごと』新ビジュアル公開 猫猫＆女華の関係が垣間見える1枚",
+      "url": "https://www.sanyonews.jp/article/1909899?kw",
+      "host": "sanyonews.jp",
+      "source": "山陽新聞",
       "summary": "",
-      "publishedAt": "2026-11-15T09:17:27.000Z",
+      "publishedAt": "2026-11-15T09:05:17.000Z",
+      "image": "https://static.sanyonews.jp/image/article/size1/c/8/3/e/c83ee124bc9adcfbf7cf8959c237dde7_1.jpg",
+      "categories": [
+        "other"
+      ],
+      "works": [
+        "kusuriya"
+      ],
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": true
+    },
+    {
+      "id": "16f30db8b4bd",
+      "title": "【薬屋のひとりごと】シチズン「wicca」とコラボ！ 猫猫と壬氏イメージの腕時計が登場！（アニメージュプラス）",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1FX3k5cnQ4X0M2T3RwLV85Zy0wZzRxM3V4cG9TN2dvRUpDall2UndUcGZOei1ZYVljY1M3WWFDQUI0YWFlbFo2bEs1VVcwb3d6dF93b0thYjZ5OGtIbGlUeWhLc1pVeTRUZXJ1c0lnOU54aTUzbjRSUllGdC1oXzg?oc=5",
+      "host": "news.yahoo.co.jp",
+      "source": "Yahoo!ニュース",
+      "summary": "",
+      "publishedAt": "2026-11-15T09:00:00.000Z",
       "image": "",
       "categories": [
-        "anime"
+        "anime",
+        "goods"
       ],
       "works": [
-        "rezero"
+        "kusuriya"
       ],
       "isPR": false,
       "viaGoogle": true,
       "sourceKind": "news",
-      "isNew": false
+      "isNew": true
     },
     {
-      "id": "2373c0692c7f",
-      "title": "『転スラ』リムル様、大忙し！ラミリスから緊急連絡 尊いミリムの表情…第84話あらすじ＆場面カット解禁",
-      "url": "https://www.sanyonews.jp/article/1942798",
-      "host": "sanyonews.jp",
-      "source": "山陽新聞",
+      "id": "12fb75ef300f",
+      "title": "【アニメ異世界】古民家の井戸の向こうで、行き場のない人たちの町が育っていく【マンガ動画】 Playstation Plus Extra (4FAW9NcDLa)",
+      "url": "https://media.unisba.ac.id/ea0b9203/bf4b430dORcrWBZdOBgARw0/?share",
+      "host": "media.unisba.ac.id",
+      "source": "Unisba Media",
       "summary": "",
-      "publishedAt": "2026-11-15T09:16:16.000Z",
-      "image": "https://static.sanyonews.jp/image/article/size1/6/5/0/1/6501ce6b09cb9464f23235f99fbe6a7f_1.jpg",
+      "publishedAt": "2026-11-15T07:31:03.000Z",
+      "image": "",
+      "categories": [
+        "anime",
+        "comic"
+      ],
+      "works": [],
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": true
+    },
+    {
+      "id": "6eaa2cd0ed70",
+      "title": "「薬屋のひとりごと」猫猫＆壬氏の麗しさが腕時計に！白蝶貝の文字盤に草花や月のモチーフをデザイン♪ (アニメ！アニメ！)",
+      "url": "https://news.yahoo.co.jp/articles/1adf7f81a70fa2ed9c138acc1380f3f7b7c7964a/images/000",
+      "host": "news.yahoo.co.jp",
+      "source": "Yahoo!ニュース",
+      "summary": "",
+      "publishedAt": "2026-11-15T04:28:58.000Z",
+      "image": "https://news-pctr.c.yimg.jp/uUzvQ3lML_bkIqyakc1vFhNrRI0RUQxg5aFkrX0xDg1_T0wXrbEJjtNGtrf1o9y32aKHaE9S6KKOAHNM7AL26qMribZboXhKzSmwarMonEenj86FAbFg4Sag-Z2G1zINSLg7xCA3CQnxHhH5SxBrBLr1ryguD6bDdqvokTydpztcnkWz7JAL6n-5ss7sWEKVOFRcl4YqBiF5wejk_In8Ww==",
       "categories": [
         "anime"
       ],
       "works": [
-        "tensura"
+        "kusuriya"
       ],
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": false
+      "isNew": true
+    },
+    {
+      "id": "b24c4a2cb07b",
+      "title": "TVアニメ「異世界転生騒動記」・予告編・動画・映像（1/1） - ぴあ映画",
+      "url": "https://lp.p.pia.jp/event/movie/465097/video-gallery/index.html",
+      "host": "lp.p.pia.jp",
+      "source": "ぴあエンタメ情報",
+      "summary": "",
+      "publishedAt": "2026-11-15T03:06:22.000Z",
+      "image": "https://lp.p.pia.jp/shared/materials/e0cd20d8-58a2-4e05-8b07-cb971aebdec6/origin.jpg",
+      "categories": [
+        "anime"
+      ],
+      "works": [],
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": true
     },
     {
       "id": "5a42c1deb3bb",
@@ -1886,7 +2559,7 @@
       "source": "Excite エキサイト",
       "summary": "",
       "publishedAt": "2026-11-15T02:19:00.000Z",
-      "image": "https://s.eximg.jp/exnews/feed/Lisani/11/Lisani_0000322194/Lisani_0000322194_1.jpeg",
+      "image": "",
       "categories": [
         "anime"
       ],
@@ -1899,7 +2572,7 @@
     {
       "id": "0e21cac3a3ef",
       "title": "第７章 自称悪役令嬢と憎しみの観察記録。",
-      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE9FR2lzTUVjY1JfdWlzV0RSWmNqaExUVFRJREcwemxFSk1TQk5XSjVRUHh0LWdKb0QyeTByZDQwOHB3TVctbjNXM2UzMA?oc=5",
+      "url": "https://tver.jp/episodes/epdnhs5bhu",
       "host": "tver.jp",
       "source": "TVer",
       "summary": "",
@@ -1910,26 +2583,26 @@
       ],
       "works": [],
       "isPR": false,
-      "viaGoogle": true,
+      "viaGoogle": false,
       "sourceKind": "news",
       "isNew": false
     },
     {
       "id": "d580b1eaa636",
       "title": "テラーノベル発の人気小説がコミカライズ！『処刑された女勇者は悪役令嬢でやり直す～復讐を楽しむはずが、なぜか執着されています～』が11月15日よりまんが王国で先行配信スタート",
-      "url": "https://animeanime.jp/release/prtimes/20261115/327003.html",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1ZRU56cFRJYjl0dVF1LVpiaHlCbGFESk12MEFfVWQ3akRXWDUxV2F3aHBYTE9oamNZcFlEeGJRV2g0U2RJeWp0SlZNdUhPV2JjR0VHRVFNTXlhZU9WclB6ZHAtcW9vTlVIcUE?oc=5",
       "host": "animeanime.jp",
       "source": "アニメ！アニメ！",
       "summary": "",
       "publishedAt": "2026-11-15T01:10:00.000Z",
-      "image": "https://animeanime.jp/release/imgs/list/573664.png",
+      "image": "",
       "categories": [
         "anime",
         "comic"
       ],
       "works": [],
       "isPR": false,
-      "viaGoogle": false,
+      "viaGoogle": true,
       "sourceKind": "news",
       "isNew": false
     },
@@ -1956,26 +2629,26 @@
     {
       "id": "604f23d01d2d",
       "title": "AMGの卒業生が作画を担当した電子コミック『処刑された女勇者は悪役令嬢でやり直す～復讐を楽しむはずが、なぜか執着されています～』が「まんが王国」にて11月15日（日）より独占先行配信",
-      "url": "https://animeanime.jp/release/prtimes/20261115/327004.html",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1rRHdWS202UG1VMi1KQkx6a25YQjNONncxemtxRHJNb1RoYmUxN2hURDBFd3ZPSkhKaHMtakl4bzRrSTRHb2NEZkNiaTVnMmtFVm1YSzVwYldCNGI3T2w4c1RfTWdsMGxXeHc?oc=5",
       "host": "animeanime.jp",
       "source": "アニメ！アニメ！",
       "summary": "",
       "publishedAt": "2026-11-15T01:00:00.000Z",
-      "image": "https://animeanime.jp/release/imgs/list/573665.jpg",
+      "image": "",
       "categories": [
         "anime",
         "comic"
       ],
       "works": [],
       "isPR": false,
-      "viaGoogle": false,
+      "viaGoogle": true,
       "sourceKind": "news",
       "isNew": false
     },
     {
       "id": "22d32b3da5e4",
       "title": "中古機の価格動向が一目でわかる！『中古機価格Report』リゼロ鬼がかり2・とある3・中古台・相場",
-      "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE5faG01ajc4c0J1MEY2MHV6RTBTaEJBdG9SckNTS2RXMkJSUVpWOGp1X0ZXSy0tT1oxNGVxQkc4Yzhramk3UWtXMGhpU3Q?oc=5",
+      "url": "https://p-town.dmm.com/specials/5576",
       "host": "p-town.dmm.com",
       "source": "DMMぱちタウン",
       "summary": "",
@@ -1988,9 +2661,9 @@
         "rezero"
       ],
       "isPR": false,
-      "viaGoogle": true,
+      "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "0af8ae01060d",
@@ -2032,26 +2705,6 @@
       "isNew": false
     },
     {
-      "id": "5d7cce172e67",
-      "title": "陰の実力者になりたくて！2nd season #1〜12【無料ビデオ2週間】",
-      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE14SEhxVkRpUDV0VC1HZ0ZRMFdnNGlTWTZneGhyanZzRzcwdENQV0V0ZWI5U0U5Rl9OYUtBUkxyaHAyLUFPYV9vbk9NNUJfLXZ0UTB2VmtuT2wtVlNZTHExdmw4dW81TENaakJJ?oc=5",
-      "host": "abema.tv",
-      "source": "ABEMA",
-      "summary": "",
-      "publishedAt": "2026-11-14T18:02:06.000Z",
-      "image": "",
-      "categories": [
-        "other"
-      ],
-      "works": [
-        "kagejitsu"
-      ],
-      "isPR": false,
-      "viaGoogle": true,
-      "sourceKind": "news",
-      "isNew": false
-    },
-    {
       "id": "370ae48112a0",
       "title": "【モンスト】あの黎絶に更に追い討ちをかけるアタッカーキャラ登場！無職転生コラボ第1弾あたりランキング",
       "url": "https://appmedia.jp/monst/80563579",
@@ -2073,64 +2726,24 @@
       "isNew": false
     },
     {
-      "id": "2aea32b2a621",
-      "title": "『Re:ゼロから始める異世界生活』第5期の製作が決定！ 長月達平「次は難易度インフェルノ」",
-      "url": "https://www.toy-people.com/jp/?p",
-      "host": "toy-people.com",
-      "source": "玩具人 TOY PEOPLE",
+      "id": "1615e9d935d0",
+      "title": "薬屋のひとりごと 第3期 #56・見逃し放送",
+      "url": "https://abema.tv/channels/abema-anime/slots/8ZgAogytkTqKMq",
+      "host": "abema.tv",
+      "source": "ABEMA",
       "summary": "",
-      "publishedAt": "2026-11-14T16:00:27.000Z",
+      "publishedAt": "2026-11-14T17:45:52.000Z",
       "image": "",
       "categories": [
         "anime"
       ],
       "works": [
-        "rezero"
+        "kusuriya"
       ],
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": false
-    },
-    {
-      "id": "b02336e82611",
-      "title": "画像ページ[1/7] TVアニメ『Re:ゼロから始める異世界生活』第5期の製作が決定！",
-      "url": "https://news.denfaminicogamer.jp/?attachment_id",
-      "host": "news.denfaminicogamer.jp",
-      "source": "電ファミニコゲーマー",
-      "summary": "",
-      "publishedAt": "2026-11-14T15:40:59.000Z",
-      "image": "https://news.denfaminicogamer.jp/wp-content/uploads/2021/08/header.png",
-      "categories": [
-        "anime"
-      ],
-      "works": [
-        "rezero"
-      ],
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": false
-    },
-    {
-      "id": "e4e90089a485",
-      "title": "画像ページ[2/7] TVアニメ『Re:ゼロから始める異世界生活』第5期の製作が決定！",
-      "url": "https://news.denfaminicogamer.jp/news/261114k/attachment/re04_kv3",
-      "host": "news.denfaminicogamer.jp",
-      "source": "電ファミニコゲーマー",
-      "summary": "",
-      "publishedAt": "2026-11-14T15:40:59.000Z",
-      "image": "https://news.denfaminicogamer.jp/news/261114k/attachment/re04_kv3",
-      "categories": [
-        "anime"
-      ],
-      "works": [
-        "rezero"
-      ],
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": false
+      "isNew": true
     },
     {
       "id": "65f90a335f20",
@@ -2153,29 +2766,9 @@
       "isNew": false
     },
     {
-      "id": "51d35cbb309d",
-      "title": "本好きの下剋上 #13〜24【無料ビデオ1週間】",
-      "url": "https://abema.tv/channels/isekai-anime-3/slots/DnLe2jMPw65KUj",
-      "host": "abema.tv",
-      "source": "ABEMA",
-      "summary": "",
-      "publishedAt": "2026-11-14T13:30:43.000Z",
-      "image": "",
-      "categories": [
-        "other"
-      ],
-      "works": [
-        "honzuki"
-      ],
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": false
-    },
-    {
       "id": "a433acb43de8",
       "title": "アニメ『Re:ゼロから始める異世界生活 4th season』はどこで見れる？サブスク・配信サービスを全調査 | VODB! by チバテレ",
-      "url": "https://www.chiba-tv.com/vod-db/rezero-s4-anime/",
+      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBtWWdQTlFiYVh0MEhReDFjZ2cwVHBUcUtvYnc1SUNHTUl3dl9yMUViZERjN0NpRnp1STlycWpSNDFQWUlTNXZSM0Fkakc1NXdrb1RGSDV5UHpHc0Vs?oc=5",
       "host": "chiba-tv.com",
       "source": "千葉テレビ放送",
       "summary": "",
@@ -2188,27 +2781,7 @@
         "rezero"
       ],
       "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": false
-    },
-    {
-      "id": "0a9d8fb6e357",
-      "title": "アニメ『本好きの下剋上 領主の養女』はどこで見れる？サブスク・配信サービスを全調査 | VODB! by チバテレ",
-      "url": "https://www.chiba-tv.com/vod-db/honzuki-s4-anime/",
-      "host": "chiba-tv.com",
-      "source": "千葉テレビ放送",
-      "summary": "",
-      "publishedAt": "2026-11-14T13:10:11.000Z",
-      "image": "",
-      "categories": [
-        "anime"
-      ],
-      "works": [
-        "honzuki"
-      ],
-      "isPR": false,
-      "viaGoogle": false,
+      "viaGoogle": true,
       "sourceKind": "news",
       "isNew": false
     },
@@ -2295,12 +2868,12 @@
     {
       "id": "14d81266178f",
       "title": "『リゼロ』5th season 製作決定、ウルトラティザービジュアル公開！",
-      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5vRllCbl9zTG9NY3pRaGVONUdKa2VmOF9CUnlpelMxUzE0dE5mOWNHM2xrTVF5UU9RdW5nZGpZNzZDbEUySHVONGxtci1VNUQ4bXF4MUxyX1dnZkhiRjNQQjV1ODRuNVk4TnNB?oc=5",
+      "url": "https://www.animatetimes.com/news/details.php?id",
       "host": "animatetimes.com",
       "source": "アニメイトタイムズ",
       "summary": "",
       "publishedAt": "2026-11-14T12:00:00.000Z",
-      "image": "",
+      "image": "https://www.animatetimes.com/img/ogimage.png",
       "categories": [
         "other"
       ],
@@ -2308,39 +2881,19 @@
         "rezero"
       ],
       "isPR": false,
-      "viaGoogle": true,
+      "viaGoogle": false,
       "sourceKind": "news",
       "isNew": false
     },
     {
       "id": "3265f19de291",
       "title": "リゼロ＞テレビアニメ第5期制作決定 ビジュアルに旅立つスバルとレム 「君のためなら、何度でも。」（MANTANWEB）",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE43bENySE1oWjBGX3duclBVWUtNWEpFdUU1T3BiZlBFd1c0WVE3WjdLZ3Q1dVVLb0h4aEk1OXp5THduRmhJMlIxUjFuOHpmekFTOWRTOG01OUpPaHFoY3E0RTBBcFotbFBqTjlFWVkycGs4SHpDU1NEZFNndG1qbkE?oc=5",
+      "url": "https://news.yahoo.co.jp/articles/8e1dc71fabc76869874d186f10e5b4f89fc6fe93",
       "host": "news.yahoo.co.jp",
       "source": "Yahoo!ニュース",
       "summary": "",
       "publishedAt": "2026-11-14T12:00:00.000Z",
-      "image": "",
-      "categories": [
-        "anime"
-      ],
-      "works": [
-        "rezero"
-      ],
-      "isPR": false,
-      "viaGoogle": true,
-      "sourceKind": "news",
-      "isNew": false
-    },
-    {
-      "id": "5c0d00d809f2",
-      "title": "アニメ『Re:ゼロから始める異世界生活』5th seasonが製作決定。ウルトラティザービジュアルと原作者長月達平のコメントが到着",
-      "url": "https://www.famitsu.com/article/202611/94048",
-      "host": "famitsu.com",
-      "source": "ファミ通",
-      "summary": "",
-      "publishedAt": "2026-11-14T12:00:00.000Z",
-      "image": "https://cimg.kgl-systems.io/camion/files/94048/thumbnail_kFec.jpg?x=1280",
+      "image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20261114-00000066-mantan-000-1-view.jpg?exp=10800",
       "categories": [
         "anime"
       ],
@@ -2349,6 +2902,26 @@
       ],
       "isPR": false,
       "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": false
+    },
+    {
+      "id": "5c0d00d809f2",
+      "title": "アニメ『Re:ゼロから始める異世界生活』5th seasonが製作決定。ウルトラティザービジュアルと原作者長月達平のコメントが到着",
+      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1rZW9qT2Y0eGNXeXZVR3JwMzNMM2VHZUhPcGhKZmF2ZTRxZGtPd3ZMVVMwVHFPZEROb3dkZ29TQmtROHFULXg2a1Z1ZTgyUEJSMlJhai0xaw?oc=5",
+      "host": "famitsu.com",
+      "source": "ファミ通",
+      "summary": "",
+      "publishedAt": "2026-11-14T12:00:00.000Z",
+      "image": "",
+      "categories": [
+        "anime"
+      ],
+      "works": [
+        "rezero"
+      ],
+      "isPR": false,
+      "viaGoogle": true,
       "sourceKind": "news",
       "isNew": false
     },
@@ -2374,13 +2947,13 @@
     },
     {
       "id": "c5ab2b8e9153",
-      "title": "『リゼロ』第5期制作決定 物語を示唆するウルトラティザービジュアルが公開",
-      "url": "https://www.oricon.co.jp/news/2492918/photo/4/?anc",
-      "host": "oricon.co.jp",
-      "source": "オリコンニュース",
+      "title": "『リゼロ』第5期制作決定 物語を示唆するウルトラティザービジュアルが公開（オリコン）",
+      "url": "https://news.yahoo.co.jp/articles/fd8f6ca64001fa5e65d52c0787bb2c8f57006636",
+      "host": "news.yahoo.co.jp",
+      "source": "Yahoo!ニュース",
       "summary": "",
       "publishedAt": "2026-11-14T12:00:00.000Z",
-      "image": "https://contents.oricon.co.jp/upimg/news/2493000/2492918/20261114_192044_p_o_85742055.jpg",
+      "image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20261114-00000441-oric-000-10-view.jpg?exp=10800",
       "categories": [
         "anime"
       ],
@@ -2395,12 +2968,12 @@
     {
       "id": "91b2c23eeb55",
       "title": "リゼロ：テレビアニメ第5期制作決定 ビジュアルに旅立つスバルとレム 「君のためなら、何度でも。」",
-      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBJbUxCZkl4elZ2cDJmUkZCYzVrcnhqOFh3dkxYUlEtdmh2X1I1M3ktMFZfQ201ekZRMUduVzRkaENvQzY4blZLZ2RlSzBEakNsZXhVV0I0UU1WdG5oZzU2QXlWNnYzazlsNzI4?oc=5",
+      "url": "https://mantan-web.jp/article/20261114dog00m200018000a.html",
       "host": "mantan-web.jp",
       "source": "Mantan Web",
       "summary": "",
       "publishedAt": "2026-11-14T12:00:00.000Z",
-      "image": "",
+      "image": "https://storage.mantan-web.jp/w=1280,h=720,icr=0:0.1:1:1,a=2,g=2,f=webp:auto/images/2026/11/14/20261114dog00m200018000a/001.jpg",
       "categories": [
         "anime"
       ],
@@ -2408,19 +2981,19 @@
         "rezero"
       ],
       "isPR": false,
-      "viaGoogle": true,
+      "viaGoogle": false,
       "sourceKind": "news",
       "isNew": false
     },
     {
       "id": "387c33acb7b3",
       "title": "【イベントレポート】「リゼロ」10周年イベントに小林裕介らキャスト集結 高橋李依のサプライズライブも（コミックナタリー）",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBmRmMxMG0zcGt3WE1BTk52Nlk3am9EalRuU09VeXpyMWd6a2hCbENYYmlNbWxGWlpUeVpJVnJkT1NQSVVlTE11d2RwXzFZRHJGaUllOE45d2NYd1NpY3pYekRYWXlleEhvek9vM0FOdnN4VXp5SHIxZjNDYWlBdm8?oc=5",
+      "url": "https://news.yahoo.co.jp/articles/008489137a34b022bca18a47249602c97e98d202",
       "host": "news.yahoo.co.jp",
       "source": "Yahoo!ニュース",
       "summary": "",
       "publishedAt": "2026-11-14T11:43:10.000Z",
-      "image": "",
+      "image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20261114-00000073-nataliec-000-1-view.jpg?exp=10800",
       "categories": [
         "anime",
         "comic"
@@ -2429,18 +3002,18 @@
         "rezero"
       ],
       "isPR": false,
-      "viaGoogle": true,
+      "viaGoogle": false,
       "sourceKind": "news",
       "isNew": false
     },
     {
       "id": "e09df1c03fdc",
       "title": "「異世界でチート能力を手にした俺は、現実世界をも無双する さぶくえすと ～レベルダウンはヒロインを変えた～」第1話の試し読み",
-      "url": "https://natalie.mu/comic/gallery/news/694323/2994956",
+      "url": "https://natalie.mu/comic/gallery/news/694323/2994953",
       "host": "natalie.mu",
       "source": "ナタリー",
       "summary": "",
-      "publishedAt": "2026-11-14T09:04:07.000Z",
+      "publishedAt": "2026-11-14T10:28:49.000Z",
       "image": "",
       "categories": [
         "anime"
@@ -2472,13 +3045,54 @@
       "isNew": false
     },
     {
+      "id": "62f618d4fc2c",
+      "title": "TSUTAYA IP書店『SQUARE ENIX Official Goodsコーナー』ほかにて2026年11月20日(金)よりアニメ『薬屋のひとりごと』オフィシャルグッズ販売開始！！",
+      "url": "https://shibuyatsutaya.tsite.jp/article/2687.html",
+      "host": "shibuyatsutaya.tsite.jp",
+      "source": "SHIBUYA TSUTAYA",
+      "summary": "",
+      "publishedAt": "2026-11-14T08:00:00.000Z",
+      "image": "https://shibuyatsutaya.tsite.jp/menu_files/article/000/002/687/article_images/article_resize.kusuriya_KV.jpg",
+      "categories": [
+        "anime",
+        "goods"
+      ],
+      "works": [
+        "kusuriya"
+      ],
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": true
+    },
+    {
+      "id": "59297b5b2213",
+      "title": "『薬屋のひとりごと』初の劇場版、12・11公開 「亡妃の秘宝」新予告映像解禁で新キャストに伊瀬茉莉也",
+      "url": "https://www.sanyonews.jp/article/1948702",
+      "host": "sanyonews.jp",
+      "source": "山陽新聞",
+      "summary": "",
+      "publishedAt": "2026-11-14T08:00:00.000Z",
+      "image": "https://static.sanyonews.jp/image/article/size1/c/e/2/7/ce279f4c372828b2a814d8dee05e1664_1.jpg",
+      "categories": [
+        "anime"
+      ],
+      "works": [
+        "kusuriya"
+      ],
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": true
+    },
+    {
       "id": "ae85c90c512a",
       "title": "ときのそら、新曲「Brand new day」がTVアニメ『異世界転生騒動記』EDテーマに決定",
-      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFByYnhqbFVTRnhfMW51aUdzRjNkRXZOMjhKQ3JCTVNBMHRkZjJNT0JCTFhEdHprMTdLNEZWUWpCLWxyU2d6UmRreTBSRExVZlc2QTRJZHE0VEUzeS1SOTBnTW1R?oc=5",
-      "host": "billboard-japan.com",
-      "source": "Billboard JAPAN",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBMNDFqeEdSeTZCN2dPN25uNENqcWdRSXVoN1ZjZUlwU0J5eEJMR3VZNFV3c2hJVFBQSlNRb0JDRUV6bDE2bmM1Q185QVo0a1JMWS1QQzl1REE5UFZYamktUlpHQ3NKUzBPa3FDXzlPMDRVdlVSa0NxbHI4cGo1djg?oc=5",
+      "host": "news.yahoo.co.jp",
+      "source": "Yahoo!ニュース",
       "summary": "",
-      "publishedAt": "2026-11-14T07:30:00.000Z",
+      "publishedAt": "2026-11-14T07:50:03.000Z",
       "image": "",
       "categories": [
         "anime"
