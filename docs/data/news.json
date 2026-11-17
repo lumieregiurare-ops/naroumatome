@@ -1,13 +1,13 @@
 {
-  "updatedAt": "2026-11-17T23:30:19.172Z",
+  "updatedAt": "2026-11-17T23:57:44.970Z",
   "site": {
     "title": "なろう系まとめ",
     "tagline": "小説家になろう発の作品のアニメ化・コミカライズ・書籍化のニュースと、なろうのランキングをまとめています。",
     "url": "https://naroumatome.gamelab.website/",
     "contactUrl": "https://docs.google.com/forms/d/e/1FAIpQLSesWyhmZ6sRS_ve-c3X2KqF_wC5PK2TgwgQbTKmnQltSlg5Jw/viewform"
   },
-  "total": 106,
-  "todayCount": 6,
+  "total": 107,
+  "todayCount": 8,
   "categories": [
     {
       "id": "anime",
@@ -42,7 +42,7 @@
     {
       "id": "other",
       "label": "そのほか",
-      "count": 18
+      "count": 19
     }
   ],
   "works": [
@@ -74,7 +74,7 @@
       "id": "kusuriya",
       "title": "薬屋のひとりごと",
       "short": "薬屋",
-      "count": 31
+      "count": 32
     },
     {
       "id": "kagejitsu",
@@ -296,7 +296,7 @@
   "sources": [
     {
       "name": "山陽新聞",
-      "count": 15
+      "count": 16
     },
     {
       "name": "Yahoo!ニュース",
@@ -833,7 +833,7 @@
       "title": "『リゼロ鬼2』をノーカスタムで打ってみた",
       "summary": "",
       "url": "https://p-town.dmm.com/writers/reoco/14353",
-      "image": "https://thetv.jp/i/nw/1458347/19208560.jpg?w=1284",
+      "image": "https://p-town.dmm.com/upload/writer/107/writer_thum.jpg?t=1794959874",
       "leadSource": "DMMぱちタウン",
       "publishedAt": "2026-11-17T09:16:32.000Z",
       "sourceCount": 2,
@@ -888,7 +888,7 @@
       "title": "転スラ4期は何話まで？全5クールの放送スケジュールと残り3クール",
       "summary": "",
       "url": "https://anisaki.hatenadiary.com/entry/tensura-season4-episodes_5",
-      "image": "https://cdn.image.st-hatena.com/image/scale/4e6d26e1cdbd6572f4fd48ce9d8c779a5a74e0d1/backend=imagemagick;version=1;width=1300/https%3A%2F%2Fwww.ten-sura.com%2F4GfGdAp7%2Fwp-content%2Fuploads%2F2026%2F06%2Fe99fd50d1487a0faf98258e74aeccdad.png",
+      "image": "https://static.sanyonews.jp/image/article/size1/2/b/6/7/2b67db9eed80b704cb517b99fda49c2c_1.jpg",
       "leadSource": "はてなブログ",
       "publishedAt": "2026-11-17T05:06:02.000Z",
       "sourceCount": 2,
@@ -968,12 +968,12 @@
     }
   ],
   "churn": {
-    "previousAt": "2026-11-17T23:00:21.021Z",
+    "previousAt": "2026-11-17T23:30:19.172Z",
     "previousCount": 106,
     "newCount": 1
   },
   "updateGapMin": 30,
-  "nextUpdateAt": "2026-11-18T00:00:19.172Z",
+  "nextUpdateAt": "2026-11-18T00:27:44.970Z",
   "items": [
     {
       "id": "528ab15ffd00",
@@ -1054,13 +1054,53 @@
       "isNew": false
     },
     {
-      "id": "3602222e245b",
-      "title": "『本好きの下剋上』新キャストに本渡楓 新規映像盛りだくさんのクライマックスPV公開",
-      "url": "https://www.sanyonews.jp/article/1987971?rct",
+      "id": "7a8c2d399546",
+      "title": "見上愛、“朝ドラ後初”作品で『薬屋のひとりごと』出演 元々ファン「本当にうれしかった」",
+      "url": "https://www.sanyonews.jp/article/2004241",
       "host": "sanyonews.jp",
       "source": "山陽新聞",
       "summary": "",
-      "publishedAt": "2026-11-17T18:13:24.000Z",
+      "publishedAt": "2026-11-17T18:38:39.000Z",
+      "image": "https://static.sanyonews.jp/image/article/size1/7/0/f/a/70fae9d808ca9145c5603a198a34b944_1.jpg",
+      "categories": [
+        "other"
+      ],
+      "works": [
+        "kusuriya"
+      ],
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": true
+    },
+    {
+      "id": "ae1f844a9b87",
+      "title": "『無職転生』第3期の第5話あらすじ＆場面カット解禁 TV放送にあわせて声優3人オーディオコメンタリー配信",
+      "url": "https://www.sanyonews.jp/article/1959251?rct",
+      "host": "sanyonews.jp",
+      "source": "山陽新聞",
+      "summary": "",
+      "publishedAt": "2026-11-17T18:27:37.000Z",
+      "image": "https://static.sanyonews.jp/image/article/size1/7/f/1/1/7f11dc5c8c5bebf2ba29d5c6803d55cf_1.jpg",
+      "categories": [
+        "anime"
+      ],
+      "works": [
+        "mushoku"
+      ],
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": false
+    },
+    {
+      "id": "3602222e245b",
+      "title": "『本好きの下剋上』新キャストに本渡楓 新規映像盛りだくさんのクライマックスPV公開",
+      "url": "https://www.sanyonews.jp/article/1987971?kw",
+      "host": "sanyonews.jp",
+      "source": "山陽新聞",
+      "summary": "",
+      "publishedAt": "2026-11-17T18:23:56.000Z",
       "image": "https://static.sanyonews.jp/image/article/size1/9/6/a/f/96afefddf8d40f2d7c640e346c9eee72_1.jpg",
       "categories": [
         "anime"
@@ -1220,7 +1260,7 @@
       "source": "DMMぱちタウン",
       "summary": "",
       "publishedAt": "2026-11-17T09:16:32.000Z",
-      "image": "",
+      "image": "https://p-town.dmm.com/upload/writer/107/writer_thum.jpg?t=1794959874",
       "categories": [
         "other"
       ],
@@ -1384,7 +1424,7 @@
       "source": "はてなブログ",
       "summary": "",
       "publishedAt": "2026-11-17T05:06:02.000Z",
-      "image": "https://cdn.image.st-hatena.com/image/scale/4e6d26e1cdbd6572f4fd48ce9d8c779a5a74e0d1/backend=imagemagick;version=1;width=1300/https%3A%2F%2Fwww.ten-sura.com%2F4GfGdAp7%2Fwp-content%2Fuploads%2F2026%2F06%2Fe99fd50d1487a0faf98258e74aeccdad.png",
+      "image": "",
       "categories": [
         "anime"
       ],
@@ -1465,7 +1505,7 @@
       "source": "ドリームニュース",
       "summary": "",
       "publishedAt": "2026-11-17T04:30:00.000Z",
-      "image": "",
+      "image": "https://www.dreamnews.jp/press/0000368850/images/bodyimage1",
       "categories": [
         "anime",
         "goods"
@@ -1750,26 +1790,6 @@
       ],
       "works": [
         "kusuriya"
-      ],
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": false
-    },
-    {
-      "id": "ae1f844a9b87",
-      "title": "『無職転生』第3期の第5話あらすじ＆場面カット解禁 TV放送にあわせて声優3人オーディオコメンタリー配信",
-      "url": "https://www.sanyonews.jp/article/1959251?rct",
-      "host": "sanyonews.jp",
-      "source": "山陽新聞",
-      "summary": "",
-      "publishedAt": "2026-11-16T18:37:20.000Z",
-      "image": "https://static.sanyonews.jp/image/article/size1/7/f/1/1/7f11dc5c8c5bebf2ba29d5c6803d55cf_1.jpg",
-      "categories": [
-        "anime"
-      ],
-      "works": [
-        "mushoku"
       ],
       "isPR": false,
       "viaGoogle": false,
@@ -2133,7 +2153,7 @@
       "source": "Excite エキサイト",
       "summary": "",
       "publishedAt": "2026-11-16T03:30:15.000Z",
-      "image": "",
+      "image": "https://s.eximg.jp/exnews/feed/Nijimen/dc/Nijimen_0000000000658853/Nijimen_0000000000658853_1.jpg",
       "categories": [
         "anime"
       ],
@@ -2294,7 +2314,7 @@
       "source": "ドリームニュース",
       "summary": "",
       "publishedAt": "2026-11-16T01:48:25.000Z",
-      "image": "",
+      "image": "https://www.dreamnews.jp/press/0000368440/images/bodyimage1",
       "categories": [
         "goods",
         "anime"
@@ -2423,6 +2443,26 @@
       ],
       "works": [
         "mushoku"
+      ],
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": false
+    },
+    {
+      "id": "1ed9418c4ddb",
+      "title": "『転スラ』ディアブロ、旧知の３人の悪魔を訪ねる 第86話あらすじ＆場面カット公開",
+      "url": "https://www.sanyonews.jp/article/1950779?kw",
+      "host": "sanyonews.jp",
+      "source": "山陽新聞",
+      "summary": "",
+      "publishedAt": "2026-11-15T23:16:50.000Z",
+      "image": "https://static.sanyonews.jp/image/article/size1/0/4/9/3/04933a1621737fd3123efb4b1ebc5fc9_1.jpg",
+      "categories": [
+        "anime"
+      ],
+      "works": [
+        "tensura"
       ],
       "isPR": false,
       "viaGoogle": false,
@@ -2586,7 +2626,7 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "c4dfafb503ec",
@@ -2596,7 +2636,7 @@
       "source": "はてなブログ",
       "summary": "",
       "publishedAt": "2026-11-15T15:10:08.000Z",
-      "image": "https://cdn.image.st-hatena.com/image/scale/2526e4bb1ce9e63b3c8ff7219984d365a27b4dba/backend=imagemagick;version=1;width=1300/https%3A%2F%2Fcdn-ak.f.st-hatena.com%2Fimages%2Ffotolife%2Fs%2Fshikisoku%2F20261116%2F20261116000333.webp",
+      "image": "",
       "categories": [
         "anime"
       ],
@@ -2634,7 +2674,7 @@
       "source": "はてなブログ",
       "summary": "",
       "publishedAt": "2026-11-15T14:40:00.000Z",
-      "image": "https://cdn.image.st-hatena.com/image/scale/fabefec8e25241eb9adb82efdc4916a4380d1cee/backend=imagemagick;version=1;width=1300/https%3A%2F%2Fcdn-ak.f.st-hatena.com%2Fimages%2Ffotolife%2Fs%2Fshikisoku%2F20260521%2F20260521023711.png",
+      "image": "",
       "categories": [
         "anime"
       ],
@@ -2697,26 +2737,6 @@
       ],
       "works": [
         "mushoku"
-      ],
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": false
-    },
-    {
-      "id": "1ed9418c4ddb",
-      "title": "『転スラ』ディアブロ、旧知の３人の悪魔を訪ねる 第86話あらすじ＆場面カット公開",
-      "url": "https://www.sanyonews.jp/article/1950779?rct",
-      "host": "sanyonews.jp",
-      "source": "山陽新聞",
-      "summary": "",
-      "publishedAt": "2026-11-15T10:19:11.000Z",
-      "image": "https://static.sanyonews.jp/image/article/size1/0/4/9/3/04933a1621737fd3123efb4b1ebc5fc9_1.jpg",
-      "categories": [
-        "anime"
-      ],
-      "works": [
-        "tensura"
       ],
       "isPR": false,
       "viaGoogle": false,
@@ -2811,7 +2831,7 @@
       "source": "Excite エキサイト",
       "summary": "",
       "publishedAt": "2026-11-15T09:17:27.000Z",
-      "image": "",
+      "image": "https://s.eximg.jp/exnews/feed/Lisani/fc/Lisani_0000322257/Lisani_0000322257_1.jpg",
       "categories": [
         "anime"
       ],
@@ -3025,7 +3045,7 @@
       "source": "DMMぱちタウン",
       "summary": "",
       "publishedAt": "2026-11-15T00:00:00.000Z",
-      "image": "",
+      "image": "https://cdn.p-town.dmm.com/special/5576/google_discover.png?t=1794699582",
       "categories": [
         "other"
       ],
