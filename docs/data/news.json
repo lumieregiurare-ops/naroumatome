@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-18T22:30:20.408Z",
+  "updatedAt": "2026-11-18T23:00:20.227Z",
   "site": {
     "title": "なろう系まとめ",
     "tagline": "小説家になろう発の作品のアニメ化・コミカライズ・書籍化のニュースと、なろうのランキングをまとめています。",
@@ -32,7 +32,7 @@
     {
       "id": "game",
       "label": "ゲーム",
-      "count": 10
+      "count": 9
     },
     {
       "id": "goods",
@@ -315,12 +315,12 @@
       "count": 5
     },
     {
-      "name": "ABEMA TIMES",
+      "name": "ニコニコニュース",
       "count": 4
     },
     {
-      "name": "ニコニコニュース",
-      "count": 3
+      "name": "ABEMA TIMES",
+      "count": 4
     },
     {
       "name": "ラノベニュースオンライン",
@@ -339,10 +339,6 @@
       "count": 3
     },
     {
-      "name": "オリコンニュース",
-      "count": 3
-    },
-    {
       "name": "PR TIMES",
       "count": 3
     },
@@ -352,6 +348,10 @@
     },
     {
       "name": "Mantan Web",
+      "count": 2
+    },
+    {
+      "name": "オリコンニュース",
       "count": 2
     },
     {
@@ -980,12 +980,12 @@
     }
   ],
   "churn": {
-    "previousAt": "2026-11-18T22:00:16.636Z",
-    "previousCount": 99,
-    "newCount": 3
+    "previousAt": "2026-11-18T22:30:20.408Z",
+    "previousCount": 101,
+    "newCount": 1
   },
   "updateGapMin": 30,
-  "nextUpdateAt": "2026-11-18T23:00:20.408Z",
+  "nextUpdateAt": "2026-11-18T23:30:20.227Z",
   "items": [
     {
       "id": "620724a65b90",
@@ -1004,7 +1004,7 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "57afd58f12ff",
@@ -1658,7 +1658,7 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "34ccc4fe922b",
@@ -1835,7 +1835,7 @@
       "source": "Dellows News",
       "summary": "",
       "publishedAt": "2026-11-17T19:08:53.000Z",
-      "image": "",
+      "image": "https://news.dellows.jp/wp-content/uploads/2026/10/935264_1.jpg",
       "categories": [
         "goods"
       ],
@@ -2831,7 +2831,7 @@
       "isPR": true,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "31c34d7039d4",
@@ -2916,6 +2916,26 @@
       "isNew": false
     },
     {
+      "id": "d28513ef004f",
+      "title": "『リゼロ』アニメ第5期が電撃製作決定！スバルとレムのウルトラティザー公開にファン歓喜",
+      "url": "https://news.nicovideo.jp/watch/nw19994770?news_ref",
+      "host": "news.nicovideo.jp",
+      "source": "ニコニコニュース",
+      "summary": "",
+      "publishedAt": "2026-11-16T00:03:21.000Z",
+      "image": "",
+      "categories": [
+        "anime"
+      ],
+      "works": [
+        "rezero"
+      ],
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": true
+    },
+    {
       "id": "87837013c9d6",
       "title": "【蛇足編06】ルーシーとパパ「ルーシーの家族」【無職転生】をWEB原作よりおたのしみください。 Ahl Playoffs (DqEBWIibiB)",
       "url": "https://media.unisba.ac.id/6122ee8f/f2259f3eIS4lGjtpHV4BMAE",
@@ -2948,27 +2968,6 @@
         "comic"
       ],
       "works": [],
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": false
-    },
-    {
-      "id": "b8d989b2cece",
-      "title": "『ドラクエRPG』場面カットに衝撃／『リゼロ』第5期制作決定【11／15よく読まれたアニメ＆ゲームニュース】",
-      "url": "https://www.oricon.co.jp/special/76817/",
-      "host": "oricon.co.jp",
-      "source": "オリコンニュース",
-      "summary": "",
-      "publishedAt": "2026-11-15T22:50:00.000Z",
-      "image": "https://contents.oricon.co.jp/upimg/news/2493000/2492441/20261110_200515_p_o_62023827.jpg",
-      "categories": [
-        "anime",
-        "game"
-      ],
-      "works": [
-        "rezero"
-      ],
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
