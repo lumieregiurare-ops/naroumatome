@@ -1,18 +1,18 @@
 {
-  "updatedAt": "2026-11-18T16:30:24.057Z",
+  "updatedAt": "2026-11-18T17:00:23.466Z",
   "site": {
     "title": "なろう系まとめ",
     "tagline": "小説家になろう発の作品のアニメ化・コミカライズ・書籍化のニュースと、なろうのランキングをまとめています。",
     "url": "https://naroumatome.gamelab.website/",
     "contactUrl": "https://docs.google.com/forms/d/e/1FAIpQLSesWyhmZ6sRS_ve-c3X2KqF_wC5PK2TgwgQbTKmnQltSlg5Jw/viewform"
   },
-  "total": 106,
+  "total": 105,
   "todayCount": 1,
   "categories": [
     {
       "id": "anime",
       "label": "アニメ",
-      "count": 61
+      "count": 60
     },
     {
       "id": "comic",
@@ -323,10 +323,6 @@
       "count": 4
     },
     {
-      "name": "電撃オンライン",
-      "count": 4
-    },
-    {
       "name": "PR TIMES",
       "count": 3
     },
@@ -344,6 +340,10 @@
     },
     {
       "name": "オリコンニュース",
+      "count": 3
+    },
+    {
+      "name": "電撃オンライン",
       "count": 3
     },
     {
@@ -492,16 +492,16 @@
       "image": "https://animeanime.jp/imgs/rss/957527.jpg",
       "leadSource": "アニメ！アニメ！",
       "publishedAt": "2026-11-18T13:57:57.000Z",
-      "sourceCount": 10,
-      "articleCount": 11,
+      "sourceCount": 9,
+      "articleCount": 10,
       "categories": [
         "anime",
         "comic"
       ],
       "keywords": [
         "マンチキン",
-        "lil",
-        "league"
+        "主題歌",
+        "lil"
       ],
       "articles": [
         {
@@ -526,13 +526,6 @@
           "isPR": false
         },
         {
-          "title": "アニメ『異世界マンチキン』1/7放送開始。OPはLIL LEAGUE、EDはZAQ",
-          "url": "https://dengekionline.com/article/202611/94365",
-          "source": "電撃オンライン",
-          "publishedAt": "2026-11-18T05:23:00.000Z",
-          "isPR": false
-        },
-        {
           "title": "TVアニメ「異世界マンチキン ―HP1のままで最強最速ダンジョン攻略―」キービジュアル [画像・動画ギャラリー 11/12]",
           "url": "https://natalie.mu/comic/gallery/news/698485/2598068",
           "source": "ナタリー",
@@ -550,6 +543,13 @@
           "title": "「異世界マンチキン」2027年1月放送開始 キービジュアル＆PV第2弾公開 主題歌情報も（動画あり / コメントあり）",
           "url": "https://natalie.mu/comic/news/698485",
           "source": "ナタリー",
+          "publishedAt": "2026-11-18T03:00:00.000Z",
+          "isPR": false
+        },
+        {
+          "title": "LIL LEAGUE、本日配信の新曲「賽」がTVアニメ『異世界マンチキン』OP主題歌に決定",
+          "url": "https://barks.jp/news/1105169",
+          "source": "BARKS",
           "publishedAt": "2026-11-18T03:00:00.000Z",
           "isPR": false
         },
@@ -1001,12 +1001,12 @@
     }
   ],
   "churn": {
-    "previousAt": "2026-11-18T16:00:21.812Z",
-    "previousCount": 103,
-    "newCount": 5
+    "previousAt": "2026-11-18T16:30:24.057Z",
+    "previousCount": 106,
+    "newCount": 0
   },
   "updateGapMin": 30,
-  "nextUpdateAt": "2026-11-18T17:00:24.057Z",
+  "nextUpdateAt": "2026-11-18T17:30:23.466Z",
   "items": [
     {
       "id": "ec92985b083d",
@@ -1065,7 +1065,7 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "c6f17e323f21",
@@ -1510,24 +1510,6 @@
       "isNew": false
     },
     {
-      "id": "b90577a4793b",
-      "title": "アニメ『異世界マンチキン』1/7放送開始。OPはLIL LEAGUE、EDはZAQ",
-      "url": "https://dengekionline.com/article/202611/94365",
-      "host": "dengekionline.com",
-      "source": "電撃オンライン",
-      "summary": "",
-      "publishedAt": "2026-11-18T05:23:00.000Z",
-      "image": "https://cimg.kgl-systems.io/camion/files/94365/ogp_dHxP.jpg?x=1280",
-      "categories": [
-        "anime"
-      ],
-      "works": [],
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": false
-    },
-    {
       "id": "95b109350b6f",
       "title": "コトブキヤ『無職転生III ～異世界行ったら本気だす～』ロキシー・ミグルディア・グレイラット 1/7スケールフィギュアが登場！グレイラット家の“青髪ママ”を立体化",
       "url": "https://www.toy-people.com/jp/?p",
@@ -1621,7 +1603,7 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "e96b9a952aea",
@@ -1733,24 +1715,6 @@
       "isNew": false
     },
     {
-      "id": "162c5ce7ca4f",
-      "title": "TVアニメ『異世界マンチキン』2027年1月7日放送開始！第2弾KV＆PV、OP・ED主題歌を解禁",
-      "url": "https://times.abema.tv/articles/-/10289911",
-      "host": "times.abema.tv",
-      "source": "ABEMA TIMES",
-      "summary": "",
-      "publishedAt": "2026-11-18T03:00:00.000Z",
-      "image": "https://times-abema.ismcdn.jp/mwimgs/b/3/1200w/img_b314e0e32ae948e9b36fa3a0e9ce449c1442171.jpg",
-      "categories": [
-        "anime"
-      ],
-      "works": [],
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": false
-    },
-    {
       "id": "74460b4920d4",
       "title": "LIL LEAGUE、本日配信の新曲「賽」がTVアニメ『異世界マンチキン』OP主題歌に決定",
       "url": "https://barks.jp/news/1105169",
@@ -1769,14 +1733,32 @@
       "isNew": false
     },
     {
+      "id": "162c5ce7ca4f",
+      "title": "TVアニメ『異世界マンチキン』2027年1月7日放送開始！第2弾KV＆PV、OP・ED主題歌を解禁",
+      "url": "https://times.abema.tv/articles/-/10289911",
+      "host": "times.abema.tv",
+      "source": "ABEMA TIMES",
+      "summary": "",
+      "publishedAt": "2026-11-18T03:00:00.000Z",
+      "image": "https://times-abema.ismcdn.jp/mwimgs/b/3/1200w/img_b314e0e32ae948e9b36fa3a0e9ce449c1442171.jpg",
+      "categories": [
+        "anime"
+      ],
+      "works": [],
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": false
+    },
+    {
       "id": "218355b65f9b",
       "title": "『異世界マンチキン』来年1・7スタート 新PV公開で主題歌情報も解禁",
-      "url": "https://www.oricon.co.jp/news/2493525/full/",
+      "url": "https://www.oricon.co.jp/news/2493525/photo/8/",
       "host": "oricon.co.jp",
       "source": "オリコンニュース",
       "summary": "",
       "publishedAt": "2026-11-18T03:00:00.000Z",
-      "image": "https://contents.oricon.co.jp/upimg/news/2494000/2493525/20261117_182828_p_o_81942395.jpg",
+      "image": "https://contents.oricon.co.jp/upimg/news/2494000/2493525/20261117_182836_p_o_73038220.jpg",
       "categories": [
         "anime"
       ],
@@ -1844,7 +1826,7 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "7a8c2d399546",
@@ -2305,7 +2287,7 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "68dd90cc575e",
@@ -2878,7 +2860,7 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "54faa7525557",
