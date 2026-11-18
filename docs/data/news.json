@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-18T18:30:24.061Z",
+  "updatedAt": "2026-11-18T19:00:25.618Z",
   "site": {
     "title": "なろう系まとめ",
     "tagline": "小説家になろう発の作品のアニメ化・コミカライズ・書籍化のニュースと、なろうのランキングをまとめています。",
@@ -12,7 +12,7 @@
     {
       "id": "anime",
       "label": "アニメ",
-      "count": 60
+      "count": 59
     },
     {
       "id": "comic",
@@ -27,22 +27,22 @@
     {
       "id": "web",
       "label": "Web小説・賞",
-      "count": 7
+      "count": 6
     },
     {
       "id": "game",
       "label": "ゲーム",
-      "count": 10
+      "count": 11
     },
     {
       "id": "goods",
       "label": "グッズ・イベント",
-      "count": 26
+      "count": 28
     },
     {
       "id": "other",
       "label": "そのほか",
-      "count": 12
+      "count": 11
     }
   ],
   "works": [
@@ -50,7 +50,7 @@
       "id": "tensura",
       "title": "転生したらスライムだった件",
       "short": "転スラ",
-      "count": 4
+      "count": 5
     },
     {
       "id": "mushoku",
@@ -74,7 +74,7 @@
       "id": "kusuriya",
       "title": "薬屋のひとりごと",
       "short": "薬屋",
-      "count": 32
+      "count": 31
     },
     {
       "id": "kagejitsu",
@@ -319,10 +319,6 @@
       "count": 4
     },
     {
-      "name": "WEBザテレビジョン",
-      "count": 4
-    },
-    {
       "name": "ニコニコニュース",
       "count": 3
     },
@@ -335,11 +331,11 @@
       "count": 3
     },
     {
-      "name": "オリコンニュース",
+      "name": "WEBザテレビジョン",
       "count": 3
     },
     {
-      "name": "電撃オンライン",
+      "name": "オリコンニュース",
       "count": 3
     },
     {
@@ -364,6 +360,10 @@
     },
     {
       "name": "au Webポータル",
+      "count": 2
+    },
+    {
+      "name": "電撃オンライン",
       "count": 2
     },
     {
@@ -455,7 +455,15 @@
       "count": 1
     },
     {
+      "name": "マイナビニュース",
+      "count": 1
+    },
+    {
       "name": "rockinon.com",
+      "count": 1
+    },
+    {
+      "name": "キャラグー",
       "count": 1
     },
     {
@@ -818,6 +826,42 @@
       ]
     },
     {
+      "id": "ee1286cbd59c",
+      "title": "「酔っ払い壬氏様かわいすぎ」「はぁ〜〜よきぃ〜〜」「じんまお尊い」出来上がってご機嫌な壬氏が面白すぎる『薬屋のひとりごと』ミニアニメ55話 (ABEMA TIMES)",
+      "summary": "",
+      "url": "https://news.yahoo.co.jp/articles/b444151b520b74e9695e6f421659a1ede75fae6c/images/000",
+      "image": "https://news-pctr.c.yimg.jp/uUzvQ3lML_bkIqyakc1vFhNrRI0RUQxg5aFkrX0xDg1_T0wXrbEJjtNGtrf1o9y32aKHaE9S6KKOAHNM7AL26uJ7pVdPRVAgIVFh_vrMomLOEZaU-1Q6aBbIHItPnJng9z3zu3OKNZDQHtkDEFF9RlgC9ryrqLoYAdfgeNPuA78IbuVSkX7cC79b8-nNufjO1zkAvUHfEkGTIZp9Zmd_5w==",
+      "leadSource": "Yahoo!ニュース",
+      "publishedAt": "2026-11-17T12:27:15.000Z",
+      "sourceCount": 2,
+      "articleCount": 3,
+      "categories": [
+        "anime",
+        "goods"
+      ],
+      "keywords": [
+        "薬屋",
+        "壬氏",
+        "abema"
+      ],
+      "articles": [
+        {
+          "title": "「最高の共同作業！」猫猫＆壬氏が馬閃を押さえつけ「息ぴったりで可愛い」アニメ『薬屋のひとりごと』55話 (ABEMA TIMES)",
+          "url": "https://news.yahoo.co.jp/articles/397d95128fcd94cc7991fb2d4a8e35a1c39263c0/images/000",
+          "source": "Yahoo!ニュース",
+          "publishedAt": "2026-11-16T11:12:17.000Z",
+          "isPR": false
+        },
+        {
+          "title": "『薬屋のひとりごと』猫猫＆壬氏が織りなす幻想世界 六本木ヒルズ展望台で初の“舞”イベント",
+          "url": "https://www.sanyonews.jp/article/1938679?kw",
+          "source": "山陽新聞",
+          "publishedAt": "2026-11-15T21:49:09.000Z",
+          "isPR": false
+        }
+      ]
+    },
+    {
       "id": "b8d989b2cece",
       "title": "『ドラクエRPG』場面カットに衝撃／『リゼロ』第5期制作決定【11／15よく読まれたアニメ＆ゲームニュース】",
       "summary": "",
@@ -962,43 +1006,15 @@
           "isPR": false
         }
       ]
-    },
-    {
-      "id": "4a9f0acf4abf",
-      "title": "“貴族×武将×オタク”のファンタジー『異世界転生騒動記』ABEMAで地上波1週間先行配信が決定！2027年1月6日より",
-      "summary": "",
-      "url": "https://times.abema.tv/articles/-/10289452",
-      "image": "https://times-abema.ismcdn.jp/mwimgs/5/d/1200w/img_5daae6d509c87ee3128c0460d67898ae885906.jpg",
-      "leadSource": "ABEMA TIMES",
-      "publishedAt": "2026-11-16T10:00:00.000Z",
-      "sourceCount": 2,
-      "articleCount": 2,
-      "categories": [
-        "anime"
-      ],
-      "keywords": [
-        "abema",
-        "ファンタジー",
-        "異世界転生騒動記"
-      ],
-      "articles": [
-        {
-          "title": "異色の痛快異世界ファンタジー『異世界転生騒動記』ABEMAで配信",
-          "url": "https://article.auone.jp/c30c8156-0188-4b94-a544-628bca5bce7c",
-          "source": "au Webポータル",
-          "publishedAt": "2026-11-16T07:26:28.000Z",
-          "isPR": false
-        }
-      ]
     }
   ],
   "churn": {
-    "previousAt": "2026-11-18T18:00:24.529Z",
-    "previousCount": 103,
-    "newCount": 0
+    "previousAt": "2026-11-18T18:30:24.061Z",
+    "previousCount": 102,
+    "newCount": 3
   },
   "updateGapMin": 30,
-  "nextUpdateAt": "2026-11-18T19:00:24.061Z",
+  "nextUpdateAt": "2026-11-18T19:30:25.618Z",
   "items": [
     {
       "id": "fd2d480c7d90",
@@ -1803,26 +1819,6 @@
       "isNew": false
     },
     {
-      "id": "7a8c2d399546",
-      "title": "見上愛、“朝ドラ後初”作品で『薬屋のひとりごと』出演 元々ファン「本当にうれしかった」",
-      "url": "https://www.sanyonews.jp/article/2004241",
-      "host": "sanyonews.jp",
-      "source": "山陽新聞",
-      "summary": "",
-      "publishedAt": "2026-11-17T18:38:39.000Z",
-      "image": "https://static.sanyonews.jp/image/article/size1/7/0/f/a/70fae9d808ca9145c5603a198a34b944_1.jpg",
-      "categories": [
-        "other"
-      ],
-      "works": [
-        "kusuriya"
-      ],
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": false
-    },
-    {
       "id": "ae1f844a9b87",
       "title": "『無職転生』第3期の第5話あらすじ＆場面カット解禁 TV放送にあわせて声優3人オーディオコメンタリー配信",
       "url": "https://www.sanyonews.jp/article/1959251?rct",
@@ -2144,27 +2140,6 @@
       "isNew": false
     },
     {
-      "id": "4affa03e160f",
-      "title": "ABEMAアニメ“週間ランキング”『薬屋のひとりごと』が初週から7週連続1位を獲得。上位5作品の顔ぶれも公開",
-      "url": "https://dengekionline.com/article/202611/94262",
-      "host": "dengekionline.com",
-      "source": "電撃オンライン",
-      "summary": "",
-      "publishedAt": "2026-11-17T04:35:00.000Z",
-      "image": "https://cimg.kgl-systems.io/camion/files/94262/ogp_SdYz.jpg?x=1280",
-      "categories": [
-        "anime",
-        "web"
-      ],
-      "works": [
-        "kusuriya"
-      ],
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": false
-    },
-    {
       "id": "c013af3b32ab",
       "title": "TVアニメ『追放された転生重騎士はゲーム知識で無双する』第21話のあらすじ公開！ エルマの前に現れたのはA級冒険者の魔剣士カロスで…",
       "url": "https://eeo.today/media/2026/11/17/413529/",
@@ -2444,13 +2419,13 @@
     },
     {
       "id": "342fbaeddf09",
-      "title": "「最高の共同作業！」猫猫＆壬氏が馬閃を押さえつけ「息ぴったりで可愛い」アニメ『薬屋のひとりごと』55話（ABEMA TIMES）",
-      "url": "https://news.yahoo.co.jp/articles/397d95128fcd94cc7991fb2d4a8e35a1c39263c0?source",
+      "title": "「最高の共同作業！」猫猫＆壬氏が馬閃を押さえつけ「息ぴったりで可愛い」アニメ『薬屋のひとりごと』55話 (ABEMA TIMES)",
+      "url": "https://news.yahoo.co.jp/articles/397d95128fcd94cc7991fb2d4a8e35a1c39263c0/images/000",
       "host": "news.yahoo.co.jp",
       "source": "Yahoo!ニュース",
       "summary": "",
       "publishedAt": "2026-11-16T11:12:17.000Z",
-      "image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20261116-10289520-abemad-000-1-view.jpg?exp=10800",
+      "image": "https://news-pctr.c.yimg.jp/uUzvQ3lML_bkIqyakc1vFhNrRI0RUQxg5aFkrX0xDg1_T0wXrbEJjtNGtrf1o9y32aKHaE9S6KKOAHNM7AL26vPgpl8IcVBJ076Ul3tYOD_P4_LktXExTq_8u_pPiJKr2d4xSN0WK579qZrpp_8vgorT9Ar9Jxzit9eWlEFg7gTb-HnBYbwKpy_kZ9nQu-Sa4fgZd8qIbZ-T7pwjZ31YtQ==",
       "categories": [
         "anime"
       ],
@@ -2595,26 +2570,6 @@
       "isNew": false
     },
     {
-      "id": "11ff5432d9b8",
-      "title": "＜薬屋のひとりごと＞壬氏初の“猫猫”名前呼びに「刺激が強すぎる」とファン悶絶、幽霊の正体も明らかに【第38話】",
-      "url": "https://thetv.jp/news/detail/1445408/18697261/",
-      "host": "thetv.jp",
-      "source": "WEBザテレビジョン",
-      "summary": "",
-      "publishedAt": "2026-11-16T05:28:53.000Z",
-      "image": "https://thetv.jp/i/nw/1445408/18697261.jpg?w=1284",
-      "categories": [
-        "anime"
-      ],
-      "works": [
-        "kusuriya"
-      ],
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": false
-    },
-    {
       "id": "b76703bf7566",
       "title": "＜リゼロ＞岡本信彦、小林裕介＆江口拓也との“3ホスト”ショット公開 10周年イベントに「良き良き」「メッシュやばい」と反響",
       "url": "https://news.yahoo.co.jp/articles/cfaabb72d9dd2a269b3db042c42ba299cf67d500",
@@ -2695,6 +2650,26 @@
       "isNew": false
     },
     {
+      "id": "f09ce04d968c",
+      "title": "『薬屋のひとりごと』第55話SNSの反応まとめ - 猫猫の意外な一面にSNSざわつく…! 悠木碧の演技にも絶賛の声",
+      "url": "https://news.mynavi.jp/article/20261116-5336621/",
+      "host": "news.mynavi.jp",
+      "source": "マイナビニュース",
+      "summary": "",
+      "publishedAt": "2026-11-16T03:12:27.000Z",
+      "image": "https://news.mynavi.jp/article/20261116-5336621/ogp_images/ogp.jpg",
+      "categories": [
+        "anime"
+      ],
+      "works": [
+        "kusuriya"
+      ],
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": true
+    },
+    {
       "id": "91e3197ce0fb",
       "title": "CUT12月号で『劇場版 薬屋のひとりごと 亡妃の秘宝』特集を敢行！ 描き下ろしバックカバー＆キャストインタビューで、花咲く謎を解き明かします。11月19日（木）発売！",
       "url": "https://rockinon.com/blog/cut/216251",
@@ -2753,6 +2728,27 @@
       "viaGoogle": false,
       "sourceKind": "news",
       "isNew": false
+    },
+    {
+      "id": "4a2ad20bd316",
+      "title": "転生したらスライムだった件 ひょこっこコレクションフィギュアの設置場所・発売日・ラインナップ｜ガチャガチャ",
+      "url": "https://charagoo.jp/gacha/item/f74329dff9cf/",
+      "host": "charagoo.jp",
+      "source": "キャラグー",
+      "summary": "",
+      "publishedAt": "2026-11-16T02:08:18.000Z",
+      "image": "",
+      "categories": [
+        "game",
+        "goods"
+      ],
+      "works": [
+        "tensura"
+      ],
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": true
     },
     {
       "id": "598edf6dc33b",
@@ -2954,6 +2950,26 @@
       "viaGoogle": false,
       "sourceKind": "news",
       "isNew": false
+    },
+    {
+      "id": "5b3f2206d596",
+      "title": "『薬屋のひとりごと』猫猫＆壬氏が織りなす幻想世界 六本木ヒルズ展望台で初の“舞”イベント",
+      "url": "https://www.sanyonews.jp/article/1938679?kw",
+      "host": "sanyonews.jp",
+      "source": "山陽新聞",
+      "summary": "",
+      "publishedAt": "2026-11-15T21:49:09.000Z",
+      "image": "https://static.sanyonews.jp/image/article/size1/1/8/6/d/186de6bed03b1bb06f72b3fe36057ad9_1.jpg",
+      "categories": [
+        "goods"
+      ],
+      "works": [
+        "kusuriya"
+      ],
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": true
     },
     {
       "id": "299970487651",
