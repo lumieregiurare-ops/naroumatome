@@ -1,18 +1,18 @@
 {
-  "updatedAt": "2026-11-18T23:30:18.165Z",
+  "updatedAt": "2026-11-19T00:00:18.705Z",
   "site": {
     "title": "なろう系まとめ",
     "tagline": "小説家になろう発の作品のアニメ化・コミカライズ・書籍化のニュースと、なろうのランキングをまとめています。",
     "url": "https://naroumatome.gamelab.website/",
     "contactUrl": "https://docs.google.com/forms/d/e/1FAIpQLSesWyhmZ6sRS_ve-c3X2KqF_wC5PK2TgwgQbTKmnQltSlg5Jw/viewform"
   },
-  "total": 98,
-  "todayCount": 7,
+  "total": 97,
+  "todayCount": 8,
   "categories": [
     {
       "id": "anime",
       "label": "アニメ",
-      "count": 61
+      "count": 60
     },
     {
       "id": "comic",
@@ -62,7 +62,7 @@
       "id": "rezero",
       "title": "Re:ゼロから始める異世界生活",
       "short": "リゼロ",
-      "count": 18
+      "count": 17
     },
     {
       "id": "honzuki",
@@ -315,12 +315,12 @@
       "count": 5
     },
     {
-      "name": "ニコニコニュース",
+      "name": "ABEMA TIMES",
       "count": 4
     },
     {
-      "name": "ABEMA TIMES",
-      "count": 4
+      "name": "ニコニコニュース",
+      "count": 3
     },
     {
       "name": "ラノベニュースオンライン",
@@ -363,6 +363,10 @@
       "count": 2
     },
     {
+      "name": "エンタのおはなし",
+      "count": 1
+    },
+    {
       "name": "https://mediadogs.jp/",
       "count": 1
     },
@@ -400,10 +404,6 @@
     },
     {
       "name": "玩具人 TOY PEOPLE",
-      "count": 1
-    },
-    {
-      "name": "おた☆スケ",
       "count": 1
     },
     {
@@ -479,9 +479,9 @@
       "url": "https://animeanime.jp/article/2026/11/18/104880.html",
       "image": "https://animeanime.jp/imgs/rss/957527.jpg",
       "leadSource": "アニメ！アニメ！",
-      "publishedAt": "2026-11-18T21:17:00.000Z",
-      "sourceCount": 10,
-      "articleCount": 11,
+      "publishedAt": "2026-11-18T23:45:47.000Z",
+      "sourceCount": 11,
+      "articleCount": 12,
       "categories": [
         "anime",
         "comic"
@@ -492,6 +492,13 @@
         "league"
       ],
       "articles": [
+        {
+          "title": "LIL LEAGUE、新曲「賽」配信！ TVアニメ『異世界マンチキン －HP1のままで最強最速ダンジョン攻略－』OP",
+          "url": "https://entametalk.com/news/210496/",
+          "source": "エンタのおはなし",
+          "publishedAt": "2026-11-18T23:45:47.000Z",
+          "isPR": false
+        },
         {
           "title": "異世界マンチキン、アニメは1月7日24時30分から OPはLIL LEAGUE新曲「賽」",
           "url": "https://mediadogs.jp/2026/11/19/isekai-munchkin-anime-january-2027/",
@@ -538,13 +545,6 @@
           "title": "「異世界マンチキン」2027年1月放送開始 キービジュアル＆PV第2弾公開 主題歌情報も（動画あり / コメントあり）",
           "url": "https://natalie.mu/comic/news/698485",
           "source": "ナタリー",
-          "publishedAt": "2026-11-18T03:00:00.000Z",
-          "isPR": false
-        },
-        {
-          "title": "LIL LEAGUE、本日配信の新曲「賽」がTVアニメ『異世界マンチキン』OP主題歌に決定",
-          "url": "https://barks.jp/news/1105169",
-          "source": "BARKS",
           "publishedAt": "2026-11-18T03:00:00.000Z",
           "isPR": false
         }
@@ -897,33 +897,6 @@
       ]
     },
     {
-      "id": "e96b9a952aea",
-      "title": "TVアニメ『異世界マンチキン』2027年1月7日から放送開始！ 桐原ユキトたちの勇姿が描かれた第2弾キービジュアルも公開",
-      "summary": "",
-      "url": "https://eeo.today/media/2026/11/18/413878/",
-      "image": "https://eeo.today/media/wp-content/uploads/2026/11/1118mantikin1.jpg",
-      "leadSource": "eeo",
-      "publishedAt": "2026-11-18T03:39:47.000Z",
-      "sourceCount": 2,
-      "articleCount": 2,
-      "categories": [
-        "anime"
-      ],
-      "keywords": [
-        "マンチキン",
-        "キービジュアル"
-      ],
-      "articles": [
-        {
-          "title": "「異世界マンチキン」は1/7～。キービジュアル第2弾＆PV第2弾が公開",
-          "url": "https://www.ota-suke.jp/news/292807",
-          "source": "おた☆スケ",
-          "publishedAt": "2026-11-18T03:22:00.000Z",
-          "isPR": false
-        }
-      ]
-    },
-    {
       "id": "7eb508938ab0",
       "title": "『城とドラゴン』×TVアニメ『転生したらスライムだった件』復刻コラボ「リーダー腕利きGP」が11月17日(火)より開催",
       "summary": "",
@@ -982,13 +955,31 @@
     }
   ],
   "churn": {
-    "previousAt": "2026-11-18T23:00:20.227Z",
-    "previousCount": 101,
-    "newCount": 2
+    "previousAt": "2026-11-18T23:30:18.165Z",
+    "previousCount": 98,
+    "newCount": 1
   },
   "updateGapMin": 30,
-  "nextUpdateAt": "2026-11-19T00:00:18.165Z",
+  "nextUpdateAt": "2026-11-19T00:30:18.705Z",
   "items": [
+    {
+      "id": "91ecc833058f",
+      "title": "LIL LEAGUE、新曲「賽」配信！ TVアニメ『異世界マンチキン －HP1のままで最強最速ダンジョン攻略－』OP",
+      "url": "https://entametalk.com/news/210496/",
+      "host": "entametalk.com",
+      "source": "エンタのおはなし",
+      "summary": "",
+      "publishedAt": "2026-11-18T23:45:47.000Z",
+      "image": "https://entametalk.com/wp-content/uploads/2026/11/LIL-LEAGUE.jpg",
+      "categories": [
+        "anime"
+      ],
+      "works": [],
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": true
+    },
     {
       "id": "445e0edf4538",
       "title": "チョン・レイ×ワン・チューランが悪役にW転生 原作通りに進まない中国時代劇「成何体統」が“スペシャル”な理由",
@@ -1005,7 +996,7 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "39b66f40c4fe",
@@ -1023,7 +1014,7 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "620724a65b90",
@@ -1653,24 +1644,6 @@
       "summary": "",
       "publishedAt": "2026-11-18T03:39:47.000Z",
       "image": "https://eeo.today/media/wp-content/uploads/2026/11/1118mantikin1.jpg",
-      "categories": [
-        "anime"
-      ],
-      "works": [],
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": false
-    },
-    {
-      "id": "f9f222b868e7",
-      "title": "「異世界マンチキン」は1/7～。キービジュアル第2弾＆PV第2弾が公開",
-      "url": "https://www.ota-suke.jp/news/292807",
-      "host": "ota-suke.jp",
-      "source": "おた☆スケ",
-      "summary": "",
-      "publishedAt": "2026-11-18T03:22:00.000Z",
-      "image": "http://www.ota-suke.jp/images/editor/tak/image2026/1118_33.webp",
       "categories": [
         "anime"
       ],
@@ -2891,26 +2864,6 @@
       ],
       "works": [
         "mushoku"
-      ],
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": false
-    },
-    {
-      "id": "d28513ef004f",
-      "title": "『リゼロ』アニメ第5期が電撃製作決定！スバルとレムのウルトラティザー公開にファン歓喜",
-      "url": "https://news.nicovideo.jp/watch/nw19994770?news_ref",
-      "host": "news.nicovideo.jp",
-      "source": "ニコニコニュース",
-      "summary": "",
-      "publishedAt": "2026-11-16T00:03:21.000Z",
-      "image": "",
-      "categories": [
-        "anime"
-      ],
-      "works": [
-        "rezero"
       ],
       "isPR": false,
       "viaGoogle": false,
