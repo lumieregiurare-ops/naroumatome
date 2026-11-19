@@ -1,18 +1,18 @@
 {
-  "updatedAt": "2026-11-19T14:30:21.382Z",
+  "updatedAt": "2026-11-19T15:00:20.518Z",
   "site": {
     "title": "なろう系まとめ",
     "tagline": "小説家になろう発の作品のアニメ化・コミカライズ・書籍化のニュースと、なろうのランキングをまとめています。",
     "url": "https://naroumatome.gamelab.website/",
     "contactUrl": "https://docs.google.com/forms/d/e/1FAIpQLSesWyhmZ6sRS_ve-c3X2KqF_wC5PK2TgwgQbTKmnQltSlg5Jw/viewform"
   },
-  "total": 115,
-  "todayCount": 56,
+  "total": 118,
+  "todayCount": 0,
   "categories": [
     {
       "id": "anime",
       "label": "アニメ",
-      "count": 72
+      "count": 74
     },
     {
       "id": "comic",
@@ -22,7 +22,7 @@
     {
       "id": "book",
       "label": "書籍・ラノベ",
-      "count": 4
+      "count": 5
     },
     {
       "id": "web",
@@ -37,12 +37,12 @@
     {
       "id": "goods",
       "label": "グッズ・イベント",
-      "count": 32
+      "count": 31
     },
     {
       "id": "other",
       "label": "そのほか",
-      "count": 12
+      "count": 13
     }
   ],
   "works": [
@@ -300,11 +300,15 @@
     },
     {
       "name": "アニメ！アニメ！",
-      "count": 8
+      "count": 9
     },
     {
       "name": "山陽新聞",
       "count": 7
+    },
+    {
+      "name": "ニコニコニュース",
+      "count": 6
     },
     {
       "name": "GameWith",
@@ -315,15 +319,15 @@
       "count": 6
     },
     {
-      "name": "ニコニコニュース",
-      "count": 5
-    },
-    {
       "name": "ナタリー",
-      "count": 5
+      "count": 6
     },
     {
       "name": "ABEMA TIMES",
+      "count": 3
+    },
+    {
+      "name": "PR TIMES",
       "count": 3
     },
     {
@@ -367,8 +371,8 @@
       "count": 2
     },
     {
-      "name": "PR TIMES",
-      "count": 2
+      "name": "PASH! PLUS",
+      "count": 1
     },
     {
       "name": "ABEMA",
@@ -380,10 +384,6 @@
     },
     {
       "name": "WEBザテレビジョン",
-      "count": 1
-    },
-    {
-      "name": "PASH! PLUS",
       "count": 1
     },
     {
@@ -435,10 +435,6 @@
       "count": 1
     },
     {
-      "name": "映画.com",
-      "count": 1
-    },
-    {
       "name": "日刊エンタメクリップ",
       "count": 1
     },
@@ -447,11 +443,11 @@
       "count": 1
     },
     {
-      "name": "アニメハック",
+      "name": "TVer",
       "count": 1
     },
     {
-      "name": "産経ニュース",
+      "name": "アニメハック",
       "count": 1
     },
     {
@@ -578,15 +574,15 @@
       ]
     },
     {
-      "id": "0769bdf90a15",
-      "title": "薬屋のひとりごと＞西都を目指す猫猫一行は、白蛇信仰と盗賊出没の不穏な噂を耳にする…第56話あらすじ＆先行カット公開",
+      "id": "a92cc9be5e6c",
+      "title": "アニメ『薬屋のひとりごと』紙職人の村をあとにした猫猫たちは、さらに西にある西都を目指す。第56話「麻と民間信仰」あらすじ＆先行カット",
       "summary": "",
-      "url": "https://thetv.jp/news/detail/1459101/",
-      "image": "https://thetv.jp/i/nw/1459101/19236283.jpg?w=1284",
-      "leadSource": "WEBザテレビジョン",
-      "publishedAt": "2026-11-19T09:33:53.000Z",
+      "url": "https://www.pashplus.jp/anime/503744/",
+      "image": "https://www.pashplus.jp/wp-content/uploads/fc523ebff58ca119f4441197a0ff5a7d.jpg",
+      "leadSource": "PASH! PLUS",
+      "publishedAt": "2026-11-19T13:51:29.000Z",
       "sourceCount": 9,
-      "articleCount": 13,
+      "articleCount": 12,
       "categories": [
         "anime"
       ],
@@ -597,17 +593,17 @@
       ],
       "articles": [
         {
+          "title": "薬屋のひとりごと＞西都を目指す猫猫一行は、白蛇信仰と盗賊出没の不穏な噂を耳にする…第56話あらすじ＆先行カット公開",
+          "url": "https://thetv.jp/news/detail/1459101/",
+          "source": "WEBザテレビジョン",
+          "publishedAt": "2026-11-19T09:33:53.000Z",
+          "isPR": false
+        },
+        {
           "title": "TVアニメ『薬屋のひとりごと』第56話先行カット公開 猫猫たちが西都を目指す道中へ（リアルサウンド）",
           "url": "https://news.yahoo.co.jp/articles/a33055b88cd3fc42c9f8671aee658c5c0970796c",
           "source": "Yahoo!ニュース",
           "publishedAt": "2026-11-19T09:22:39.000Z",
-          "isPR": false
-        },
-        {
-          "title": "アニメ『薬屋のひとりごと』紙職人の村をあとにした猫猫たちは、さらに西にある西都を目指す。第56話「麻と民間信仰」あらすじ＆先行カット",
-          "url": "https://www.pashplus.jp/anime/503744/",
-          "source": "PASH! PLUS",
-          "publishedAt": "2026-11-19T09:06:21.000Z",
           "isPR": false
         },
         {
@@ -1062,13 +1058,33 @@
     }
   ],
   "churn": {
-    "previousAt": "2026-11-19T14:00:20.168Z",
-    "previousCount": 117,
+    "previousAt": "2026-11-19T14:30:21.382Z",
+    "previousCount": 115,
     "newCount": 4
   },
   "updateGapMin": 30,
-  "nextUpdateAt": "2026-11-19T15:00:21.382Z",
+  "nextUpdateAt": "2026-11-19T15:30:20.518Z",
   "items": [
+    {
+      "id": "a92cc9be5e6c",
+      "title": "アニメ『薬屋のひとりごと』紙職人の村をあとにした猫猫たちは、さらに西にある西都を目指す。第56話「麻と民間信仰」あらすじ＆先行カット",
+      "url": "https://www.pashplus.jp/anime/503744/",
+      "host": "pashplus.jp",
+      "source": "PASH! PLUS",
+      "summary": "",
+      "publishedAt": "2026-11-19T13:51:29.000Z",
+      "image": "https://www.pashplus.jp/wp-content/uploads/fc523ebff58ca119f4441197a0ff5a7d.jpg",
+      "categories": [
+        "anime"
+      ],
+      "works": [
+        "kusuriya"
+      ],
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": false
+    },
     {
       "id": "540b80477328",
       "title": "今年話題の異世界アニメ3作品『リゼロ』などをABEMAで11月19日より一挙配信",
@@ -1368,26 +1384,6 @@
       "isNew": false
     },
     {
-      "id": "a92cc9be5e6c",
-      "title": "アニメ『薬屋のひとりごと』紙職人の村をあとにした猫猫たちは、さらに西にある西都を目指す。第56話「麻と民間信仰」あらすじ＆先行カット",
-      "url": "https://www.pashplus.jp/anime/503744/",
-      "host": "pashplus.jp",
-      "source": "PASH! PLUS",
-      "summary": "",
-      "publishedAt": "2026-11-19T09:06:21.000Z",
-      "image": "https://www.pashplus.jp/wp-content/uploads/fc523ebff58ca119f4441197a0ff5a7d.jpg",
-      "categories": [
-        "anime"
-      ],
-      "works": [
-        "kusuriya"
-      ],
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": false
-    },
-    {
       "id": "f804ae05cc46",
       "title": "『薬屋のひとりごと』第56話 あらすじ＆先行カット公開！",
       "url": "https://animageplus.jp/articles/detail/68276",
@@ -1528,6 +1524,24 @@
       "viaGoogle": false,
       "sourceKind": "news",
       "isNew": false
+    },
+    {
+      "id": "83d34afd8d96",
+      "title": "TVアニメ 2027年1月6日(水)より放送決定!『魔術を極めて旅に出た転生エルフ、持て余した寿命で生ける伝説となる』",
+      "url": "https://prtimes.jp/main/html/rd/p/000002308.000000607.html",
+      "host": "prtimes.jp",
+      "source": "PR TIMES",
+      "summary": "",
+      "publishedAt": "2026-11-19T09:00:01.000Z",
+      "image": "https://prcdn.freetls.fastly.net/release_image/607/2308/607-2308-f61715343d1156012313cfbf92308cb4-1911x2700.jpg?format=jpeg&auto=webp&fit=bounds&width=2400&height=1260",
+      "categories": [
+        "anime"
+      ],
+      "works": [],
+      "isPR": true,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": true
     },
     {
       "id": "eebb24fa6718",
@@ -1726,7 +1740,7 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "1b7bea3b60a5",
@@ -2058,7 +2072,7 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "620724a65b90",
@@ -2115,6 +2129,27 @@
       ],
       "works": [
         "kusuriya"
+      ],
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": false
+    },
+    {
+      "id": "c093a6281516",
+      "title": "『ポーカーチェイス』が人気TVアニメ「陰の実力者になりたくて！」と初コラボ！11/25～12/16 期間限定イベント開催決定！",
+      "url": "https://news.nicovideo.jp/watch/nw20007744?news_ref",
+      "host": "news.nicovideo.jp",
+      "source": "ニコニコニュース",
+      "summary": "",
+      "publishedAt": "2026-11-18T19:21:23.000Z",
+      "image": "",
+      "categories": [
+        "goods",
+        "anime"
+      ],
+      "works": [
+        "kagejitsu"
       ],
       "isPR": false,
       "viaGoogle": false,
@@ -2204,24 +2239,6 @@
       "isNew": false
     },
     {
-      "id": "731e31be28eb",
-      "title": "舞台「烈海王は異世界転生しても 一向にかまわんッッ」に坂垣怜次、新井雄也、松原凛らが出演 キービジュアル公開",
-      "url": "https://eiga.com/l/ynQFU",
-      "host": "eiga.com",
-      "source": "映画.com",
-      "summary": "",
-      "publishedAt": "2026-11-18T14:00:00.000Z",
-      "image": "https://media.eiga.com/images/buzz/130610/7dde0825f4c94c4f.jpg",
-      "categories": [
-        "goods"
-      ],
-      "works": [],
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": false
-    },
-    {
       "id": "c6f17e323f21",
       "title": "本日配信のLIL LEAGUE新曲「賽」が、TVアニメ『異世界マンチキン －HP1のままで最強最速ダンジョン攻略－』のオープニング主題歌に決定！",
       "url": "https://entameclip.com/news/494393/",
@@ -2258,6 +2275,24 @@
       "viaGoogle": false,
       "sourceKind": "news",
       "isNew": false
+    },
+    {
+      "id": "dbda44bd03b0",
+      "title": "「異世界転生した途端追放されましたが、ハズレスキル【調理】は世界で唯一魔物を従えられるスキルだったので魔物だらけの見捨てられた辺境領地を最強にします」1巻 [画像ギャラリー 1/1]",
+      "url": "https://natalie.mu/comic/gallery/news/698652/3021756",
+      "host": "natalie.mu",
+      "source": "ナタリー",
+      "summary": "",
+      "publishedAt": "2026-11-18T13:27:13.000Z",
+      "image": "",
+      "categories": [
+        "book"
+      ],
+      "works": [],
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": true
     },
     {
       "id": "066a21998abe",
@@ -2354,6 +2389,24 @@
       "viaGoogle": false,
       "sourceKind": "news",
       "isNew": false
+    },
+    {
+      "id": "b788a84abd47",
+      "title": "世界最高の暗殺者、異世界貴族に転生する",
+      "url": "https://tver.jp/episodes/ephioralg7",
+      "host": "tver.jp",
+      "source": "TVer",
+      "summary": "",
+      "publishedAt": "2026-11-18T10:17:20.000Z",
+      "image": "",
+      "categories": [
+        "other"
+      ],
+      "works": [],
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": true
     },
     {
       "id": "999476d71a6b",
@@ -2478,27 +2531,6 @@
       "isNew": false
     },
     {
-      "id": "c093a6281516",
-      "title": "『ポーカーチェイス』が人気TVアニメ「陰の実力者になりたくて！」と初コラボ！11/25～12/16 期間限定イベント開催決定！",
-      "url": "https://www.sankei.com/pressrelease/prtimes/Y46JWFMMY5P2JPBPQPNN5U5CEI/",
-      "host": "sankei.com",
-      "source": "産経ニュース",
-      "summary": "",
-      "publishedAt": "2026-11-18T08:00:00.000Z",
-      "image": "https://www.sankei.com/resizer/v2/https%3A%2F%2Fdpgdieoe6npux.cloudfront.net%2Fprtimes%2F6V356X5ONRNSDEUJ25TGKNHYOY?auth=799d8b4e500d7c34cf42277f44f1ca169f0e9e4f4ffd23f2f5d0da128bf2b198&quality=50&smart=true&width=1200&height=675",
-      "categories": [
-        "goods",
-        "anime"
-      ],
-      "works": [
-        "kagejitsu"
-      ],
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": false
-    },
-    {
       "id": "a55077df2f84",
       "title": "「無職転生 ～異世界行ったら本気だす～ クロニクル・オブ・エコーズ」にプルセナが初登場！ピックアップガチャは11月19日より開催",
       "url": "https://www.gamer.ne.jp/news/202611180039/",
@@ -2613,7 +2645,7 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "37d20ae35961",
@@ -2649,7 +2681,7 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "d7e9e2f5ec19",
@@ -3054,6 +3086,24 @@
       "viaGoogle": false,
       "sourceKind": "news",
       "isNew": false
+    },
+    {
+      "id": "d4709deebfd9",
+      "title": "「素材採取家の異世界旅行記」アニメの配信はどこで見れる？見放題のサブスクと無料で見る方法を紹介",
+      "url": "https://animeanime.jp/article/2026/11/09/104616.html",
+      "host": "animeanime.jp",
+      "source": "アニメ！アニメ！",
+      "summary": "",
+      "publishedAt": "2026-11-17T08:00:00.000Z",
+      "image": "https://animeanime.jp/imgs/ogp_f/952633.jpg",
+      "categories": [
+        "anime"
+      ],
+      "works": [],
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": true
     },
     {
       "id": "ea53ec09d78d",
