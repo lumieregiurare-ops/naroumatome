@@ -1,23 +1,23 @@
 {
-  "updatedAt": "2026-11-20T18:30:24.038Z",
+  "updatedAt": "2026-11-20T19:00:28.063Z",
   "site": {
     "title": "なろう系まとめ",
     "tagline": "小説家になろう発の作品のアニメ化・コミカライズ・書籍化のニュースと、なろうのランキングをまとめています。",
     "url": "https://naroumatome.gamelab.website/",
     "contactUrl": "https://docs.google.com/forms/d/e/1FAIpQLSesWyhmZ6sRS_ve-c3X2KqF_wC5PK2TgwgQbTKmnQltSlg5Jw/viewform"
   },
-  "total": 127,
-  "todayCount": 5,
+  "total": 129,
+  "todayCount": 6,
   "categories": [
     {
       "id": "anime",
       "label": "アニメ",
-      "count": 72
+      "count": 73
     },
     {
       "id": "comic",
       "label": "コミカライズ",
-      "count": 6
+      "count": 5
     },
     {
       "id": "book",
@@ -32,12 +32,12 @@
     {
       "id": "game",
       "label": "ゲーム",
-      "count": 8
+      "count": 9
     },
     {
       "id": "goods",
       "label": "グッズ・イベント",
-      "count": 37
+      "count": 39
     },
     {
       "id": "other",
@@ -56,7 +56,7 @@
       "id": "mushoku",
       "title": "無職転生 ～異世界行ったら本気だす～",
       "short": "無職転生",
-      "count": 23
+      "count": 25
     },
     {
       "id": "rezero",
@@ -296,7 +296,7 @@
   "sources": [
     {
       "name": "Yahoo!ニュース",
-      "count": 18
+      "count": 17
     },
     {
       "name": "アニメ！アニメ！",
@@ -307,16 +307,16 @@
       "count": 9
     },
     {
-      "name": "ナタリー",
-      "count": 8
-    },
-    {
       "name": "ABEMA TIMES",
-      "count": 6
+      "count": 7
     },
     {
       "name": "GameWith",
-      "count": 6
+      "count": 7
+    },
+    {
+      "name": "ナタリー",
+      "count": 7
     },
     {
       "name": "ニコニコニュース",
@@ -339,6 +339,10 @@
       "count": 4
     },
     {
+      "name": "ABEMA",
+      "count": 3
+    },
+    {
       "name": "Dellows News",
       "count": 3
     },
@@ -359,10 +363,6 @@
       "count": 2
     },
     {
-      "name": "ABEMA",
-      "count": 2
-    },
-    {
       "name": "AppBank",
       "count": 2
     },
@@ -376,6 +376,10 @@
     },
     {
       "name": "Media Innovation",
+      "count": 1
+    },
+    {
+      "name": "玩具人 TOY PEOPLE",
       "count": 1
     },
     {
@@ -864,7 +868,7 @@
       "leadSource": "GameWith",
       "publishedAt": "2026-11-20T08:15:33.000Z",
       "sourceCount": 3,
-      "articleCount": 4,
+      "articleCount": 5,
       "categories": [
         "goods",
         "game"
@@ -875,6 +879,13 @@
         "モンスト"
       ],
       "articles": [
+        {
+          "title": "【モンスト】無職転生コラボのガチャシミュレーター",
+          "url": "https://xn--eckwa2aa3a9c8j8bve9d.gamewith.jp/article/show/587602",
+          "source": "GameWith",
+          "publishedAt": "2026-11-20T06:06:08.000Z",
+          "isPR": false
+        },
         {
           "title": "【モンスト】無職転生コラボの当たりキャラ｜ガチャは引くべき？",
           "url": "https://xn--eckwa2aa3a9c8j8bve9d.gamewith.jp/article/show/587661",
@@ -1012,6 +1023,35 @@
       ]
     },
     {
+      "id": "7239a2a6be8b",
+      "title": "ミニ壬氏がほんわかスマイル！猫猫の呆れ顔に歓喜し「手遅れです」「喜ぶなよｗ」アニメ『薬屋のひとりごと』第56話",
+      "summary": "",
+      "url": "https://news.yahoo.co.jp/articles/6ce65b15020a68201508cc8fb5dd757be99f921a",
+      "image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20261121-10291074-abemad-000-1-view.jpg?exp=10800",
+      "leadSource": "Yahoo!ニュース",
+      "publishedAt": "2026-11-20T15:21:16.000Z",
+      "sourceCount": 2,
+      "articleCount": 2,
+      "categories": [
+        "anime",
+        "comic"
+      ],
+      "keywords": [
+        "薬屋",
+        "壬氏",
+        "猫猫"
+      ],
+      "articles": [
+        {
+          "title": "「こんなこと起きるんだ…すご…」「ノリがいい」『薬屋のひとりごと』劇場版衣装の猫猫＆壬氏がコミカライズ2誌の表紙にW降臨",
+          "url": "https://times.abema.tv/articles/-/10291026",
+          "source": "ABEMA TIMES",
+          "publishedAt": "2026-11-20T12:08:00.000Z",
+          "isPR": false
+        }
+      ]
+    },
+    {
       "id": "bf619b58203e",
       "title": "『薬屋のひとりごと』×「earth music＆ecology」がコラボ！ 猫猫＆壬氏をイメージした巾着トートなど展開（クランクイン！）",
       "summary": "",
@@ -1041,71 +1081,61 @@
       ]
     },
     {
-      "id": "0069e8dbca1b",
-      "title": "アニメ『薬屋のひとりごと』と極楽湯グループのコラボキャンペーン第2弾が開催決定",
+      "id": "95b109350b6f",
+      "title": "コトブキヤ『無職転生III ～異世界行ったら本気だす～』ロキシー・ミグルディア・グレイラット 1/7スケールフィギュアが登場！グレイラット家の“青髪ママ”を立体化",
       "summary": "",
-      "url": "https://ln-news.com/articles/127238",
-      "image": "https://assets.ln-news.com/images/medias/a2cb2870bd3e4a9eb05ba601779363f9.jpg",
-      "leadSource": "ラノベニュースオンライン",
-      "publishedAt": "2026-11-20T04:00:00.000Z",
+      "url": "https://www.toy-people.com/jp/?p",
+      "image": "https://animeanime.jp/imgs/ogp_f/904642.jpg",
+      "leadSource": "玩具人 TOY PEOPLE",
+      "publishedAt": "2026-11-20T07:49:04.000Z",
       "sourceCount": 2,
       "articleCount": 2,
       "categories": [
-        "anime",
-        "goods"
-      ],
-      "keywords": [
-        "薬屋",
-        "極楽湯",
-        "コラボ"
-      ],
-      "articles": [
-        {
-          "title": "薬屋のひとりごと＞極楽湯コラボ第2弾 猫猫、壬氏、羅半、陸孫、馬閃の風呂 コラボメニューも（MANTANWEB）",
-          "url": "https://news.yahoo.co.jp/articles/4161518f9bf00bbbf24f8046cd0774067135d29f",
-          "source": "Yahoo!ニュース",
-          "publishedAt": "2026-11-18T04:34:00.000Z",
-          "isPR": false
-        }
-      ]
-    },
-    {
-      "id": "f518eafec4dc",
-      "title": "2027年冬の新作異世界ファンタジー『魔術を極めて旅に出た転生エルフ、持て余した寿命で生ける伝説となる』ABEMAで2026年12月30日（水）夜24時より地上波1週間先行・見放題独占配信決定！",
-      "summary": "",
-      "url": "https://animeanime.jp/release/prtimes/20261120/328443.html",
-      "image": "https://animeanime.jp/release/imgs/list/575730.jpg",
-      "leadSource": "アニメ！アニメ！",
-      "publishedAt": "2026-11-20T01:40:00.000Z",
-      "sourceCount": 2,
-      "articleCount": 2,
-      "categories": [
+        "goods",
         "anime"
       ],
       "keywords": [
-        "エルフ",
-        "魔術",
-        "寿命"
+        "無職転生",
+        "異世界行",
+        "本気"
       ],
       "articles": [
         {
-          "title": "アニメ『魔術を極めて旅に出た転生エルフ、持て余した寿命で生ける伝説となる』は2027年1月6日（水）より放送開始",
-          "url": "https://ln-news.com/articles/127229",
-          "source": "ラノベニュースオンライン",
-          "publishedAt": "2026-11-19T23:00:00.000Z",
+          "title": "アニメ『無職転生Ⅲ ～異世界行ったら本気だす～』無職転生3期の配信はどこで見れる？放送日とおすすめサブスク紹介",
+          "url": "https://animeanime.jp/article/2026/07/14/101043.html",
+          "source": "アニメ！アニメ！",
+          "publishedAt": "2026-11-19T09:47:23.000Z",
           "isPR": false
         }
       ]
     }
   ],
   "churn": {
-    "previousAt": "2026-11-20T18:00:21.533Z",
-    "previousCount": 129,
-    "newCount": 2
+    "previousAt": "2026-11-20T18:30:24.038Z",
+    "previousCount": 127,
+    "newCount": 4
   },
   "updateGapMin": 30,
-  "nextUpdateAt": "2026-11-20T19:00:24.038Z",
+  "nextUpdateAt": "2026-11-20T19:30:28.063Z",
   "items": [
+    {
+      "id": "048856b88e3c",
+      "title": "異世界・ファンタジーアニメ4チャンネル | 無料で放送中の番組や配信中の話題作が見放題",
+      "url": "https://abema.tv/now-on-air/isekai-anime-4",
+      "host": "abema.tv",
+      "source": "ABEMA",
+      "summary": "",
+      "publishedAt": "2026-11-20T18:58:53.000Z",
+      "image": "",
+      "categories": [
+        "anime"
+      ],
+      "works": [],
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": true
+    },
     {
       "id": "fcbf68e9b39c",
       "title": "『劇場版 薬屋のひとりごと 亡妃の秘宝』POP UP SHOP in",
@@ -1229,12 +1259,12 @@
     {
       "id": "9fb9a3856ffa",
       "title": "「こんなこと起きるんだ…すご…」「ノリがいい」『薬屋のひとりごと』劇場版衣装の猫猫＆壬氏がコミカライズ2誌の表紙にW降臨",
-      "url": "https://news.yahoo.co.jp/articles/a479ed7c3a9120ca659e1fe97342ee943f4ab5ca?source",
-      "host": "news.yahoo.co.jp",
-      "source": "Yahoo!ニュース",
+      "url": "https://times.abema.tv/articles/-/10291026",
+      "host": "times.abema.tv",
+      "source": "ABEMA TIMES",
       "summary": "",
-      "publishedAt": "2026-11-20T12:09:15.000Z",
-      "image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20261120-10291026-abemad-000-1-view.jpg?exp=10800",
+      "publishedAt": "2026-11-20T12:08:00.000Z",
+      "image": "https://times-abema.ismcdn.jp/mwimgs/5/1/1200w/img_51590c76675b64a29b01c8c4ee597eb4643437.jpg",
       "categories": [
         "anime",
         "comic"
@@ -1468,6 +1498,26 @@
       "isNew": false
     },
     {
+      "id": "95b109350b6f",
+      "title": "コトブキヤ『無職転生III ～異世界行ったら本気だす～』ロキシー・ミグルディア・グレイラット 1/7スケールフィギュアが登場！グレイラット家の“青髪ママ”を立体化",
+      "url": "https://www.toy-people.com/jp/?p",
+      "host": "toy-people.com",
+      "source": "玩具人 TOY PEOPLE",
+      "summary": "",
+      "publishedAt": "2026-11-20T07:49:04.000Z",
+      "image": "",
+      "categories": [
+        "goods"
+      ],
+      "works": [
+        "mushoku"
+      ],
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": true
+    },
+    {
       "id": "65443129065f",
       "title": "「薬屋のひとりごと」猫猫＆壬氏とファミマで謎解き！ 限定アイテム盛りだくさんのコラボ開催♪",
       "url": "https://animeanime.jp/article/2026/11/20/104955.html",
@@ -1607,6 +1657,27 @@
       "viaGoogle": false,
       "sourceKind": "news",
       "isNew": false
+    },
+    {
+      "id": "16065eb5181d",
+      "title": "【モンスト】無職転生コラボのガチャシミュレーター",
+      "url": "https://xn--eckwa2aa3a9c8j8bve9d.gamewith.jp/article/show/587602",
+      "host": "xn--eckwa2aa3a9c8j8bve9d.gamewith.jp",
+      "source": "GameWith",
+      "summary": "",
+      "publishedAt": "2026-11-20T06:06:08.000Z",
+      "image": "https://img.gamewith.jp/article/thumbnail/rectangle/587602.png?date=1794471138",
+      "categories": [
+        "game",
+        "goods"
+      ],
+      "works": [
+        "mushoku"
+      ],
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": true
     },
     {
       "id": "e50edb5a9566",
@@ -2112,26 +2183,6 @@
       "isNew": false
     },
     {
-      "id": "1d034ea68c7b",
-      "title": "『転スラ』剣を交えるリムルとレオン！ルミナスも動く 第91話あらすじ＆場面カット解禁",
-      "url": "https://www.sanyonews.jp/article/1973862?kw",
-      "host": "sanyonews.jp",
-      "source": "山陽新聞",
-      "summary": "",
-      "publishedAt": "2026-11-19T21:19:07.000Z",
-      "image": "https://static.sanyonews.jp/image/article/size1/c/5/6/4/c564fde6e19fffbb9ffc1ef2aae7229b_1.jpg",
-      "categories": [
-        "anime"
-      ],
-      "works": [
-        "tensura"
-      ],
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": false
-    },
-    {
       "id": "d0ea1bb66f34",
       "title": "薬屋のひとりごと：第56話「麻と民間信仰」 麻の栽培が盛んな地域へ 白蛇を神とする信仰",
       "url": "https://mantan-web.jp/article/20261119dog00m200062000a.html",
@@ -2150,6 +2201,26 @@
       "viaGoogle": false,
       "sourceKind": "news",
       "isNew": false
+    },
+    {
+      "id": "544bfcd56eb8",
+      "title": "『転スラ』リムル奮闘！シオンは能力進化 第95話あらすじ＆場面カット公開",
+      "url": "https://www.sanyonews.jp/article/1989093?rct",
+      "host": "sanyonews.jp",
+      "source": "山陽新聞",
+      "summary": "",
+      "publishedAt": "2026-11-19T20:56:00.000Z",
+      "image": "https://static.sanyonews.jp/image/article/size1/8/f/3/2/8f32ab86c07e5ec05d0b22f7a8bae192_1.jpg",
+      "categories": [
+        "anime"
+      ],
+      "works": [
+        "tensura"
+      ],
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": true
     },
     {
       "id": "0de9d62d7712",
@@ -2619,7 +2690,7 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "db9b614de891",
@@ -2818,24 +2889,6 @@
       "isNew": false
     },
     {
-      "id": "c454dabeef88",
-      "title": "今世こそFIREしたい、元社畜アラサーの転生少女が奔走するガンガンONLINE新連載",
-      "url": "https://natalie.mu/comic/news/698345",
-      "host": "natalie.mu",
-      "source": "ナタリー",
-      "summary": "",
-      "publishedAt": "2026-11-19T02:00:00.000Z",
-      "image": "",
-      "categories": [
-        "comic"
-      ],
-      "works": [],
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": false
-    },
-    {
       "id": "91ecc833058f",
       "title": "LIL LEAGUE、新曲「賽」配信！ TVアニメ『異世界マンチキン －HP1のままで最強最速ダンジョン攻略－』OP",
       "url": "https://entametalk.com/news/210496/",
@@ -2946,7 +2999,7 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "620724a65b90",
@@ -3600,7 +3653,7 @@
       "source": "Dellows News",
       "summary": "",
       "publishedAt": "2026-11-17T19:08:53.000Z",
-      "image": "https://news.dellows.jp/wp-content/uploads/2026/10/935264_1.jpg",
+      "image": "",
       "categories": [
         "goods"
       ],
