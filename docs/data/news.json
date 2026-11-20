@@ -1,12 +1,12 @@
 {
-  "updatedAt": "2026-11-20T21:30:19.682Z",
+  "updatedAt": "2026-11-20T22:00:22.254Z",
   "site": {
     "title": "なろう系まとめ",
     "tagline": "小説家になろう発の作品のアニメ化・コミカライズ・書籍化のニュースと、なろうのランキングをまとめています。",
     "url": "https://naroumatome.gamelab.website/",
     "contactUrl": "https://docs.google.com/forms/d/e/1FAIpQLSesWyhmZ6sRS_ve-c3X2KqF_wC5PK2TgwgQbTKmnQltSlg5Jw/viewform"
   },
-  "total": 128,
+  "total": 127,
   "todayCount": 6,
   "categories": [
     {
@@ -22,7 +22,7 @@
     {
       "id": "book",
       "label": "書籍・ラノベ",
-      "count": 7
+      "count": 6
     },
     {
       "id": "web",
@@ -56,13 +56,13 @@
       "id": "mushoku",
       "title": "無職転生 ～異世界行ったら本気だす～",
       "short": "無職転生",
-      "count": 23
+      "count": 22
     },
     {
       "id": "rezero",
       "title": "Re:ゼロから始める異世界生活",
       "short": "リゼロ",
-      "count": 17
+      "count": 16
     },
     {
       "id": "honzuki",
@@ -80,7 +80,7 @@
       "id": "kagejitsu",
       "title": "陰の実力者になりたくて！",
       "short": "陰の実力者",
-      "count": 1
+      "count": 2
     },
     {
       "id": "tate",
@@ -300,7 +300,7 @@
     },
     {
       "name": "アニメ！アニメ！",
-      "count": 11
+      "count": 10
     },
     {
       "name": "ファミ通",
@@ -316,10 +316,6 @@
     },
     {
       "name": "ナタリー",
-      "count": 7
-    },
-    {
-      "name": "GameWith",
       "count": 6
     },
     {
@@ -331,12 +327,20 @@
       "count": 5
     },
     {
+      "name": "GameWith",
+      "count": 5
+    },
+    {
       "name": "山陽新聞",
       "count": 5
     },
     {
       "name": "オリコンニュース",
       "count": 4
+    },
+    {
+      "name": "ABEMA",
+      "count": 3
     },
     {
       "name": "マイナビニュース",
@@ -351,15 +355,15 @@
       "count": 3
     },
     {
-      "name": "ABEMA",
-      "count": 2
-    },
-    {
       "name": "Dellows News",
       "count": 2
     },
     {
       "name": "TVer",
+      "count": 2
+    },
+    {
+      "name": "Infoseek",
       "count": 2
     },
     {
@@ -439,6 +443,10 @@
       "count": 1
     },
     {
+      "name": "https://mediadogs.jp/",
+      "count": 1
+    },
+    {
       "name": "コラボカフェ",
       "count": 1
     },
@@ -447,19 +455,11 @@
       "count": 1
     },
     {
-      "name": "Infoseek",
-      "count": 1
-    },
-    {
       "name": "LDH",
       "count": 1
     },
     {
       "name": "V-storage",
-      "count": 1
-    },
-    {
-      "name": "PR TIMES",
       "count": 1
     },
     {
@@ -706,6 +706,55 @@
       ]
     },
     {
+      "id": "2512a9a0325b",
+      "title": "TVアニメ『異世界マンチキン』、2027年1月7日に放送開始 OPはLIL LEAGUE、EDはZAQ",
+      "summary": "",
+      "url": "https://www.at-s.com/media/articles/anime/isekai-munchkin-broadcast-op-ed-2027/",
+      "image": "https://entametalk.com/wp-content/uploads/2026/11/LIL-LEAGUE.jpg",
+      "leadSource": "アットエス",
+      "publishedAt": "2026-11-20T10:07:47.000Z",
+      "sourceCount": 5,
+      "articleCount": 5,
+      "categories": [
+        "anime"
+      ],
+      "keywords": [
+        "lil",
+        "league",
+        "マンチキン"
+      ],
+      "articles": [
+        {
+          "title": "LIL LEAGUE、新曲「賽」配信！ TVアニメ『異世界マンチキン －HP1のままで最強最速ダンジョン攻略－』OP",
+          "url": "https://entametalk.com/news/210496/",
+          "source": "エンタのおはなし",
+          "publishedAt": "2026-11-18T23:45:48.000Z",
+          "isPR": false
+        },
+        {
+          "title": "異世界マンチキン、アニメは1月7日24時30分から OPはLIL LEAGUE新曲「賽」",
+          "url": "https://mediadogs.jp/2026/11/19/isekai-munchkin-anime-january-2027/",
+          "source": "https://mediadogs.jp/",
+          "publishedAt": "2026-11-18T21:17:00.000Z",
+          "isPR": false
+        },
+        {
+          "title": "本日配信のLIL LEAGUE新曲「賽」が、TVアニメ『異世界マンチキン －HP1のままで最強最速ダンジョン攻略－』のオープニング主題歌に決定！",
+          "url": "https://entameclip.com/news/494393/",
+          "source": "日刊エンタメクリップ",
+          "publishedAt": "2026-11-18T13:57:57.000Z",
+          "isPR": false
+        },
+        {
+          "title": "LIL LEAGUE、新曲「賽」がアニメ『異世界マンチキン』OP主題歌に",
+          "url": "https://news.yahoo.co.jp/articles/15faa18813d4d0ddb41aa2e940c4219101256365?source",
+          "source": "Yahoo!ニュース",
+          "publishedAt": "2026-11-18T12:20:02.000Z",
+          "isPR": false
+        }
+      ]
+    },
+    {
       "id": "86eaa62837f2",
       "title": "『リゼロ』第5期製作決定！10周年イベントで小林裕介が発表「これからも走り続けていきます」",
       "summary": "",
@@ -756,43 +805,43 @@
       ]
     },
     {
-      "id": "2512a9a0325b",
-      "title": "TVアニメ『異世界マンチキン』、2027年1月7日に放送開始 OPはLIL LEAGUE、EDはZAQ",
+      "id": "1d60330f9839",
+      "title": "『リゼロ』全4シリーズ＆『幼女戦記』がABEMAで全話無料配信！ 話題の異世界アニメ3作品",
       "summary": "",
-      "url": "https://www.at-s.com/media/articles/anime/isekai-munchkin-broadcast-op-ed-2027/",
-      "image": "https://entametalk.com/wp-content/uploads/2026/11/LIL-LEAGUE.jpg",
-      "leadSource": "アットエス",
-      "publishedAt": "2026-11-20T10:07:47.000Z",
+      "url": "https://dengekionline.com/article/202611/94611",
+      "image": "https://cimg.kgl-systems.io/camion/files/94611/ogp_EMuc.jpg?x=1280",
+      "leadSource": "電撃オンライン",
+      "publishedAt": "2026-11-20T07:23:00.000Z",
       "sourceCount": 4,
       "articleCount": 4,
       "categories": [
         "anime"
       ],
       "keywords": [
-        "lil",
-        "league",
-        "マンチキン"
+        "abema",
+        "作品",
+        "無料"
       ],
       "articles": [
         {
-          "title": "LIL LEAGUE、新曲「賽」配信！ TVアニメ『異世界マンチキン －HP1のままで最強最速ダンジョン攻略－』OP",
-          "url": "https://entametalk.com/news/210496/",
-          "source": "エンタのおはなし",
-          "publishedAt": "2026-11-18T23:45:48.000Z",
+          "title": "今年話題の異世界アニメ3作品『リゼロ』などをABEMAで11月19日より一挙配信",
+          "url": "https://news.infoseek.co.jp/amp/article/abematimes_10290698/",
+          "source": "Infoseek",
+          "publishedAt": "2026-11-19T13:00:00.000Z",
           "isPR": false
         },
         {
-          "title": "本日配信のLIL LEAGUE新曲「賽」が、TVアニメ『異世界マンチキン －HP1のままで最強最速ダンジョン攻略－』のオープニング主題歌に決定！",
-          "url": "https://entameclip.com/news/494393/",
-          "source": "日刊エンタメクリップ",
-          "publishedAt": "2026-11-18T13:57:57.000Z",
+          "title": "2026年話題の異世界アニメ３作品をABEMAで無料イッキ見！",
+          "url": "https://www.entameplex.com/archives/107106",
+          "source": "Entame Plex",
+          "publishedAt": "2026-11-19T05:50:41.000Z",
           "isPR": false
         },
         {
-          "title": "LIL LEAGUE、新曲「賽」がアニメ『異世界マンチキン』OP主題歌に",
-          "url": "https://news.yahoo.co.jp/articles/15faa18813d4d0ddb41aa2e940c4219101256365?source",
-          "source": "Yahoo!ニュース",
-          "publishedAt": "2026-11-18T12:20:02.000Z",
+          "title": "2026年話題の異世界アニメ3作品をABEMAで無料イッキ見！『Re:ゼロから始める異世界生活』全シリーズのほか『幼女",
+          "url": "https://news.nicovideo.jp/watch/nw20007032?news_ref",
+          "source": "ニコニコニュース",
+          "publishedAt": "2026-11-18T13:30:28.000Z",
           "isPR": false
         }
       ]
@@ -915,41 +964,6 @@
           "url": "https://eeo.today/media/2026/11/19/414336/",
           "source": "eeo",
           "publishedAt": "2026-11-19T09:01:03.000Z",
-          "isPR": false
-        }
-      ]
-    },
-    {
-      "id": "1d60330f9839",
-      "title": "『リゼロ』全4シリーズ＆『幼女戦記』がABEMAで全話無料配信！ 話題の異世界アニメ3作品",
-      "summary": "",
-      "url": "https://dengekionline.com/article/202611/94611",
-      "image": "https://cimg.kgl-systems.io/camion/files/94611/ogp_EMuc.jpg?x=1280",
-      "leadSource": "電撃オンライン",
-      "publishedAt": "2026-11-20T07:23:00.000Z",
-      "sourceCount": 3,
-      "articleCount": 3,
-      "categories": [
-        "anime"
-      ],
-      "keywords": [
-        "abema",
-        "作品",
-        "リゼロ"
-      ],
-      "articles": [
-        {
-          "title": "今年話題の異世界アニメ3作品『リゼロ』などをABEMAで11月19日より一挙配信",
-          "url": "https://news.nicovideo.jp/watch/nw20011587",
-          "source": "ニコニコニュース",
-          "publishedAt": "2026-11-19T13:24:25.000Z",
-          "isPR": false
-        },
-        {
-          "title": "2026年話題の異世界アニメ３作品をABEMAで無料イッキ見！",
-          "url": "https://www.entameplex.com/archives/107106",
-          "source": "Entame Plex",
-          "publishedAt": "2026-11-19T05:50:41.000Z",
           "isPR": false
         }
       ]
@@ -1092,12 +1106,12 @@
     }
   ],
   "churn": {
-    "previousAt": "2026-11-20T21:00:26.270Z",
-    "previousCount": 122,
-    "newCount": 19
+    "previousAt": "2026-11-20T21:30:19.682Z",
+    "previousCount": 128,
+    "newCount": 2
   },
   "updateGapMin": 30,
-  "nextUpdateAt": "2026-11-20T22:00:19.682Z",
+  "nextUpdateAt": "2026-11-20T22:30:22.254Z",
   "items": [
     {
       "id": "048856b88e3c",
@@ -1135,7 +1149,7 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "1585a5a61ca3",
@@ -1235,7 +1249,7 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "9fb9a3856ffa",
@@ -1297,7 +1311,7 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "2512a9a0325b",
@@ -1436,7 +1450,7 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "af52b9aef2cc",
@@ -1497,7 +1511,7 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "65443129065f",
@@ -1576,7 +1590,7 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "31c34d7039d4",
@@ -1638,7 +1652,7 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "e50edb5a9566",
@@ -1800,7 +1814,7 @@
       "isPR": false,
       "viaGoogle": true,
       "sourceKind": "news",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "0069e8dbca1b",
@@ -1981,7 +1995,7 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "1820224b2971",
@@ -2083,7 +2097,7 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "b89c8112e6b9",
@@ -2141,7 +2155,7 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "0de9d62d7712",
@@ -2312,12 +2326,12 @@
     {
       "id": "540b80477328",
       "title": "今年話題の異世界アニメ3作品『リゼロ』などをABEMAで11月19日より一挙配信",
-      "url": "https://news.nicovideo.jp/watch/nw20011587",
-      "host": "news.nicovideo.jp",
-      "source": "ニコニコニュース",
+      "url": "https://news.infoseek.co.jp/amp/article/abematimes_10290698/",
+      "host": "news.infoseek.co.jp",
+      "source": "Infoseek",
       "summary": "",
-      "publishedAt": "2026-11-19T13:24:25.000Z",
-      "image": "",
+      "publishedAt": "2026-11-19T13:00:00.000Z",
+      "image": "https://media.image.infoseek.co.jp/isnews/photos/abematimes/abematimes_10290698_0-enlarge.jpg",
       "categories": [
         "anime"
       ],
@@ -2369,26 +2383,6 @@
       "viaGoogle": false,
       "sourceKind": "news",
       "isNew": false
-    },
-    {
-      "id": "b86a757d74fc",
-      "title": "アニメ「無職転生」の配信はどこで見れる？シリーズの見る順番とおすすめサブスク",
-      "url": "https://animeanime.jp/article/2026/07/14/101045.html",
-      "host": "animeanime.jp",
-      "source": "アニメ！アニメ！",
-      "summary": "",
-      "publishedAt": "2026-11-19T09:47:47.000Z",
-      "image": "https://animeanime.jp/imgs/ogp_f/904698.jpg",
-      "categories": [
-        "anime"
-      ],
-      "works": [
-        "mushoku"
-      ],
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": true
     },
     {
       "id": "ad321bc71420",
@@ -2488,7 +2482,7 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "5d84871f2672",
@@ -2588,7 +2582,7 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "0818f179e726",
@@ -2890,11 +2884,11 @@
     {
       "id": "c5ab2b8e9153",
       "title": "『リゼロ』第5期制作決定 物語を示唆するウルトラティザービジュアルが公開",
-      "url": "https://www.sanyonews.jp/article/2021173?rct",
+      "url": "https://www.sanyonews.jp/article/2021173?kw",
       "host": "sanyonews.jp",
       "source": "山陽新聞",
       "summary": "",
-      "publishedAt": "2026-11-18T23:04:01.000Z",
+      "publishedAt": "2026-11-18T23:18:58.000Z",
       "image": "https://static.sanyonews.jp/image/article/size1/0/a/0/6/0a068b0d7a32c7fc86e3d709910f8203_1.jpg",
       "categories": [
         "anime"
@@ -2926,6 +2920,26 @@
       "isNew": false
     },
     {
+      "id": "5d7cce172e67",
+      "title": "陰の実力者になりたくて！2nd season #1〜12【無料ビデオ2週間】",
+      "url": "https://abema.tv/channels/isekai-anime/slots/AyqCP6V4DzCcoZ",
+      "host": "abema.tv",
+      "source": "ABEMA",
+      "summary": "",
+      "publishedAt": "2026-11-18T22:52:53.000Z",
+      "image": "",
+      "categories": [
+        "other"
+      ],
+      "works": [
+        "kagejitsu"
+      ],
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": true
+    },
+    {
       "id": "0881999f0d34",
       "title": "愛称の決定はいつ？グッズの販売は？B案の「紫のうさぎ」に決定後も大忙し！今後のスケジュールを確認して古参になろう",
       "url": "https://dime.jp/genre/2172934/",
@@ -2945,6 +2959,24 @@
       "isNew": false
     },
     {
+      "id": "39b66f40c4fe",
+      "title": "異世界マンチキン、アニメは1月7日24時30分から OPはLIL LEAGUE新曲「賽」",
+      "url": "https://mediadogs.jp/2026/11/19/isekai-munchkin-anime-january-2027/",
+      "host": "mediadogs.jp",
+      "source": "https://mediadogs.jp/",
+      "summary": "",
+      "publishedAt": "2026-11-18T21:17:00.000Z",
+      "image": "https://mediadogs.jp/wp-content/uploads/2026/11/isekai-munchkin-anime-january-2027-eyecatch.webp",
+      "categories": [
+        "anime"
+      ],
+      "works": [],
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": true
+    },
+    {
       "id": "620724a65b90",
       "title": "『ドローイング 最強漫画家はお絵描きスキルで異世界無双する！』連載5周年＆20巻刊行記念フェア開催！",
       "url": "https://www.sanyonews.jp/article/1985334?kw",
@@ -2961,7 +2993,7 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "41091a576cea",
@@ -3040,22 +3072,24 @@
       "isNew": false
     },
     {
-      "id": "dbda44bd03b0",
-      "title": "「異世界転生した途端追放されましたが、ハズレスキル【調理】は世界で唯一魔物を従えられるスキルだったので魔物だらけの見捨てられた辺境領地を最強にします」1巻 [画像ギャラリー 1/1]",
-      "url": "https://natalie.mu/comic/gallery/news/698652/3021756",
-      "host": "natalie.mu",
-      "source": "ナタリー",
+      "id": "ec92985b083d",
+      "title": "2026年話題の異世界アニメ3作品をABEMAで無料イッキ見！『Re:ゼロから始める異世界生活』全シリーズのほか『幼女",
+      "url": "https://news.nicovideo.jp/watch/nw20007032?news_ref",
+      "host": "news.nicovideo.jp",
+      "source": "ニコニコニュース",
       "summary": "",
-      "publishedAt": "2026-11-18T13:27:13.000Z",
+      "publishedAt": "2026-11-18T13:30:28.000Z",
       "image": "",
       "categories": [
-        "book"
+        "anime"
       ],
-      "works": [],
+      "works": [
+        "rezero"
+      ],
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "066a21998abe",
@@ -3070,26 +3104,6 @@
         "book"
       ],
       "works": [],
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": false
-    },
-    {
-      "id": "7d7afc7057a1",
-      "title": "【白猫】レム(槍)の評価とおすすめ武器｜リゼロ2019",
-      "url": "https://gamewith.jp/shironeko/article/show/178028",
-      "host": "gamewith.jp",
-      "source": "GameWith",
-      "summary": "",
-      "publishedAt": "2026-11-18T13:08:20.000Z",
-      "image": "https://img.gamewith.jp/article/thumbnail/rectangle/178028.png?date=1574925121",
-      "categories": [
-        "other"
-      ],
-      "works": [
-        "rezero"
-      ],
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
@@ -3113,7 +3127,7 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "ce12ef97c70b",
@@ -3230,7 +3244,7 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "b3e1111fe577",
@@ -3268,7 +3282,7 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "ffb15a5cab61",
@@ -3491,26 +3505,6 @@
       ],
       "works": [],
       "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": false
-    },
-    {
-      "id": "ec92985b083d",
-      "title": "2026年話題の異世界アニメ3作品をABEMAで無料イッキ見！『Re:ゼロから始める異世界生活』全シリーズのほか『幼女戦記』第1期・第2期、『世界最強の後衛』を11月19日（木）より全話無料一挙配信",
-      "url": "https://prtimes.jp/main/html/rd/p/000004270.000064643.html",
-      "host": "prtimes.jp",
-      "source": "PR TIMES",
-      "summary": "",
-      "publishedAt": "2026-11-18T03:00:02.000Z",
-      "image": "https://prcdn.freetls.fastly.net/release_image/64643/4270/64643-4270-84335e60e58fcff377858308257ab422-1648x928.jpg?format=jpeg&auto=webp&fit=bounds&width=2400&height=1260",
-      "categories": [
-        "anime"
-      ],
-      "works": [
-        "rezero"
-      ],
-      "isPR": true,
       "viaGoogle": false,
       "sourceKind": "news",
       "isNew": false
