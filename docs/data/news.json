@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-21T16:00:18.165Z",
+  "updatedAt": "2026-11-21T16:30:23.133Z",
   "site": {
     "title": "なろう系まとめ",
     "tagline": "小説家になろう発の作品のアニメ化・コミカライズ・書籍化のニュースと、なろうのランキングをまとめています。",
@@ -12,17 +12,17 @@
     {
       "id": "anime",
       "label": "アニメ",
-      "count": 83
+      "count": 82
     },
     {
       "id": "comic",
       "label": "コミカライズ",
-      "count": 8
+      "count": 9
     },
     {
       "id": "book",
       "label": "書籍・ラノベ",
-      "count": 3
+      "count": 4
     },
     {
       "id": "web",
@@ -32,7 +32,7 @@
     {
       "id": "game",
       "label": "ゲーム",
-      "count": 7
+      "count": 6
     },
     {
       "id": "goods",
@@ -42,7 +42,7 @@
     {
       "id": "other",
       "label": "そのほか",
-      "count": 19
+      "count": 20
     }
   ],
   "works": [
@@ -311,11 +311,11 @@
       "count": 9
     },
     {
-      "name": "ナタリー",
+      "name": "山陽新聞",
       "count": 6
     },
     {
-      "name": "山陽新聞",
+      "name": "ナタリー",
       "count": 5
     },
     {
@@ -329,10 +329,6 @@
     {
       "name": "eeo",
       "count": 4
-    },
-    {
-      "name": "ニコニコニュース",
-      "count": 3
     },
     {
       "name": "Mantan Web",
@@ -351,6 +347,10 @@
       "count": 2
     },
     {
+      "name": "Infoseek",
+      "count": 2
+    },
+    {
       "name": "au Webポータル",
       "count": 2
     },
@@ -363,6 +363,10 @@
       "count": 2
     },
     {
+      "name": "マイナビニュース",
+      "count": 2
+    },
+    {
       "name": "ファミリーマート",
       "count": 2
     },
@@ -371,11 +375,11 @@
       "count": 2
     },
     {
-      "name": "千葉テレビ放送株式会社",
-      "count": 1
+      "name": "ニコニコニュース",
+      "count": 2
     },
     {
-      "name": "Infoseek",
+      "name": "千葉テレビ放送株式会社",
       "count": 1
     },
     {
@@ -419,10 +423,6 @@
       "count": 1
     },
     {
-      "name": "マイナビニュース",
-      "count": 1
-    },
-    {
       "name": "横浜市",
       "count": 1
     },
@@ -448,10 +448,6 @@
     },
     {
       "name": "ciatr[シアター]",
-      "count": 1
-    },
-    {
-      "name": "ライブドアニュース",
       "count": 1
     },
     {
@@ -999,12 +995,12 @@
     }
   ],
   "churn": {
-    "previousAt": "2026-11-21T15:30:20.057Z",
-    "previousCount": 125,
-    "newCount": 6
+    "previousAt": "2026-11-21T16:00:18.165Z",
+    "previousCount": 124,
+    "newCount": 2
   },
   "updateGapMin": 30,
-  "nextUpdateAt": "2026-11-21T16:30:18.165Z",
+  "nextUpdateAt": "2026-11-21T17:00:23.133Z",
   "items": [
     {
       "id": "6cd07de10990",
@@ -1416,7 +1412,7 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "abbe15c1eac5",
@@ -1473,25 +1469,6 @@
       "works": [
         "mushoku"
       ],
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": false
-    },
-    {
-      "id": "ea19d16f3971",
-      "title": "【本日予約開始】TVアニメ化決定の話題作『悪党一家の愛娘、転生先も乙女ゲームの極道令嬢でした。』の書き下ろしドラマCD",
-      "url": "https://news.nicovideo.jp/watch/nw20017023?news_ref",
-      "host": "news.nicovideo.jp",
-      "source": "ニコニコニュース",
-      "summary": "",
-      "publishedAt": "2026-11-20T16:51:40.000Z",
-      "image": "",
-      "categories": [
-        "anime",
-        "game"
-      ],
-      "works": [],
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
@@ -1816,6 +1793,24 @@
       "isNew": false
     },
     {
+      "id": "902223709f50",
+      "title": "「邪魔すんなよ」転生ヒロイン、親友の恋路を応援していたはずが…",
+      "url": "https://news.mynavi.jp/article/nidosukuu-2/",
+      "host": "news.mynavi.jp",
+      "source": "マイナビニュース",
+      "summary": "",
+      "publishedAt": "2026-11-20T07:30:00.000Z",
+      "image": "https://news.mynavi.jp/article/nidosukuu-2/ogp_images/ogp.jpg",
+      "categories": [
+        "other"
+      ],
+      "works": [],
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": true
+    },
+    {
       "id": "1d60330f9839",
       "title": "『リゼロ』全4シリーズ＆『幼女戦記』がABEMAで全話無料配信！ 話題の異世界アニメ3作品",
       "url": "https://dengekionline.com/article/202611/94611",
@@ -1846,6 +1841,25 @@
       "image": "https://eeo.today/media/wp-content/uploads/2026/11/1116isekaisoudou9.jpg",
       "categories": [
         "anime"
+      ],
+      "works": [],
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": false
+    },
+    {
+      "id": "ea19d16f3971",
+      "title": "【本日予約開始】TVアニメ化決定の話題作『悪党一家の愛娘、転生先も乙女ゲームの極道令嬢でした。』の書き下ろしドラマCD三作が小説になってついに登場！ドラマCD最新作も発売決定！",
+      "url": "https://news.infoseek.co.jp/article/prtimes_000000246_000174060/",
+      "host": "news.infoseek.co.jp",
+      "source": "Infoseek",
+      "summary": "",
+      "publishedAt": "2026-11-20T07:15:49.000Z",
+      "image": "https://media.image.infoseek.co.jp/isnews/pc/img/noimage_203x120_busi-econ-1.0.png",
+      "categories": [
+        "anime",
+        "book"
       ],
       "works": [],
       "isPR": false,
@@ -1973,7 +1987,7 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "beb89efa03f8",
@@ -2175,7 +2189,7 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "1820224b2971",
@@ -2247,7 +2261,7 @@
       "source": "GAME Watch",
       "summary": "",
       "publishedAt": "2026-11-20T01:00:00.000Z",
-      "image": "",
+      "image": "https://game.watch.impress.co.jp/img/gmw/list/2157/992/1.jpg",
       "categories": [
         "other"
       ],
@@ -2297,7 +2311,7 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "b89c8112e6b9",
@@ -3020,24 +3034,6 @@
       "isNew": false
     },
     {
-      "id": "29a688dd2301",
-      "title": "「社畜なもぐらは異世界で虎神さまと恋をする」1巻より [画像ギャラリー 3/9]",
-      "url": "https://natalie.mu/comic/gallery/news/698708/3022278",
-      "host": "natalie.mu",
-      "source": "ナタリー",
-      "summary": "",
-      "publishedAt": "2026-11-19T08:26:15.000Z",
-      "image": "",
-      "categories": [
-        "book"
-      ],
-      "works": [],
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": true
-    },
-    {
       "id": "3bff45599a76",
       "title": "苦労性同士が癒し合う異世界スローライフBL「社畜なもぐらは異世界で虎神さまと恋をする」",
       "url": "https://natalie.mu/comic/news/698708",
@@ -3137,7 +3133,7 @@
     {
       "id": "1b7bea3b60a5",
       "title": "漫画『転生アラサー女子の異世改活』最新話までネタバレあらすじ！マグノリアの結末と原作の完結は？",
-      "url": "https://ciatr.jp/topics/340471",
+      "url": "https://ciatr.jp/topics/340471?page",
       "host": "ciatr.jp",
       "source": "ciatr[シアター]",
       "summary": "",
@@ -3152,24 +3148,6 @@
       "viaGoogle": false,
       "sourceKind": "news",
       "isNew": false
-    },
-    {
-      "id": "b7a9b3d8e088",
-      "title": "ハント・ノヴァの目的は――魔人？『研ぎ士のおっさん、異世界を輝かす』第9話が無料公開 (2026年11月19日掲載)",
-      "url": "https://news.livedoor.com/topics/detail/32852841/",
-      "host": "news.livedoor.com",
-      "source": "ライブドアニュース",
-      "summary": "",
-      "publishedAt": "2026-11-19T03:08:37.000Z",
-      "image": "https://image.news.livedoor.com/newsimage/stf/9/8/986a0_1843_c7b9421c6d2b112208a3d1c35f328229.jpg",
-      "categories": [
-        "anime"
-      ],
-      "works": [],
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": true
     },
     {
       "id": "7621f0a92607",
@@ -3364,6 +3342,25 @@
       "viaGoogle": false,
       "sourceKind": "news",
       "isNew": false
+    },
+    {
+      "id": "620724a65b90",
+      "title": "『ドローイング 最強漫画家はお絵描きスキルで異世界無双する！』連載5周年＆20巻刊行記念フェア開催！",
+      "url": "https://www.sanyonews.jp/article/1985334?kw",
+      "host": "sanyonews.jp",
+      "source": "山陽新聞",
+      "summary": "",
+      "publishedAt": "2026-11-18T20:47:01.000Z",
+      "image": "https://static.sanyonews.jp/image/article/size1https://prtimes.jp/img/49835/1008/resize/d49835-1008-4fe328325d1fef044031-29.jpg",
+      "categories": [
+        "comic",
+        "book"
+      ],
+      "works": [],
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": true
     },
     {
       "id": "c093a6281516",
