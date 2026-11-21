@@ -1,12 +1,12 @@
 {
-  "updatedAt": "2026-11-21T16:30:23.133Z",
+  "updatedAt": "2026-11-21T17:00:18.769Z",
   "site": {
     "title": "なろう系まとめ",
     "tagline": "小説家になろう発の作品のアニメ化・コミカライズ・書籍化のニュースと、なろうのランキングをまとめています。",
     "url": "https://naroumatome.gamelab.website/",
     "contactUrl": "https://docs.google.com/forms/d/e/1FAIpQLSesWyhmZ6sRS_ve-c3X2KqF_wC5PK2TgwgQbTKmnQltSlg5Jw/viewform"
   },
-  "total": 124,
+  "total": 125,
   "todayCount": 0,
   "categories": [
     {
@@ -22,7 +22,7 @@
     {
       "id": "book",
       "label": "書籍・ラノベ",
-      "count": 4
+      "count": 3
     },
     {
       "id": "web",
@@ -32,7 +32,7 @@
     {
       "id": "game",
       "label": "ゲーム",
-      "count": 6
+      "count": 8
     },
     {
       "id": "goods",
@@ -290,7 +290,7 @@
       "id": "nonbiri-noka",
       "title": "異世界のんびり農家",
       "short": "のんびり農家",
-      "count": 1
+      "count": 0
     }
   ],
   "sources": [
@@ -331,6 +331,10 @@
       "count": 4
     },
     {
+      "name": "ニコニコニュース",
+      "count": 3
+    },
+    {
       "name": "Mantan Web",
       "count": 3
     },
@@ -347,15 +351,15 @@
       "count": 2
     },
     {
-      "name": "Infoseek",
-      "count": 2
-    },
-    {
       "name": "au Webポータル",
       "count": 2
     },
     {
       "name": "WEBザテレビジョン",
+      "count": 2
+    },
+    {
+      "name": "ABEMA",
       "count": 2
     },
     {
@@ -375,11 +379,11 @@
       "count": 2
     },
     {
-      "name": "ニコニコニュース",
-      "count": 2
+      "name": "千葉テレビ放送株式会社",
+      "count": 1
     },
     {
-      "name": "千葉テレビ放送株式会社",
+      "name": "Infoseek",
       "count": 1
     },
     {
@@ -396,10 +400,6 @@
     },
     {
       "name": "上毛新聞電子版",
-      "count": 1
-    },
-    {
-      "name": "ABEMA",
       "count": 1
     },
     {
@@ -634,8 +634,8 @@
       "id": "45beed357751",
       "title": "「Re:ゼロ」全シリーズ「幼女戦記」第1期・第2期ほか、異世界アニメ3作品をABEMAで全話無料一挙放送",
       "summary": "",
-      "url": "https://thetv.jp/news/detail/1459682/19253172/",
-      "image": "https://thetv.jp/i/nw/1459682/19253172.jpg?w=1284",
+      "url": "https://thetv.jp/news/detail/1459682/19253173/",
+      "image": "https://thetv.jp/i/nw/1459682/19253173.jpg?w=1284",
       "leadSource": "WEBザテレビジョン",
       "publishedAt": "2026-11-20T23:54:36.000Z",
       "sourceCount": 4,
@@ -995,12 +995,12 @@
     }
   ],
   "churn": {
-    "previousAt": "2026-11-21T16:00:18.165Z",
+    "previousAt": "2026-11-21T16:30:23.133Z",
     "previousCount": 124,
     "newCount": 2
   },
   "updateGapMin": 30,
-  "nextUpdateAt": "2026-11-21T17:00:23.133Z",
+  "nextUpdateAt": "2026-11-21T17:30:18.769Z",
   "items": [
     {
       "id": "6cd07de10990",
@@ -1297,12 +1297,12 @@
     {
       "id": "45beed357751",
       "title": "「Re:ゼロ」全シリーズ「幼女戦記」第1期・第2期ほか、異世界アニメ3作品をABEMAで全話無料一挙放送",
-      "url": "https://thetv.jp/news/detail/1459682/19253172/",
+      "url": "https://thetv.jp/news/detail/1459682/19253173/",
       "host": "thetv.jp",
       "source": "WEBザテレビジョン",
       "summary": "",
       "publishedAt": "2026-11-20T23:54:36.000Z",
-      "image": "https://thetv.jp/i/nw/1459682/19253172.jpg?w=1284",
+      "image": "https://thetv.jp/i/nw/1459682/19253173.jpg?w=1284",
       "categories": [
         "anime"
       ],
@@ -1469,6 +1469,25 @@
       "works": [
         "mushoku"
       ],
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": false
+    },
+    {
+      "id": "ea19d16f3971",
+      "title": "【本日予約開始】TVアニメ化決定の話題作『悪党一家の愛娘、転生先も乙女ゲームの極道令嬢でした。』の書き下ろしドラマCD",
+      "url": "https://news.nicovideo.jp/watch/nw20017023?news_ref",
+      "host": "news.nicovideo.jp",
+      "source": "ニコニコニュース",
+      "summary": "",
+      "publishedAt": "2026-11-20T16:51:40.000Z",
+      "image": "",
+      "categories": [
+        "anime",
+        "game"
+      ],
+      "works": [],
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
@@ -1808,7 +1827,7 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "1d60330f9839",
@@ -1841,25 +1860,6 @@
       "image": "https://eeo.today/media/wp-content/uploads/2026/11/1116isekaisoudou9.jpg",
       "categories": [
         "anime"
-      ],
-      "works": [],
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": false
-    },
-    {
-      "id": "ea19d16f3971",
-      "title": "【本日予約開始】TVアニメ化決定の話題作『悪党一家の愛娘、転生先も乙女ゲームの極道令嬢でした。』の書き下ろしドラマCD三作が小説になってついに登場！ドラマCD最新作も発売決定！",
-      "url": "https://news.infoseek.co.jp/article/prtimes_000000246_000174060/",
-      "host": "news.infoseek.co.jp",
-      "source": "Infoseek",
-      "summary": "",
-      "publishedAt": "2026-11-20T07:15:49.000Z",
-      "image": "https://media.image.infoseek.co.jp/isnews/pc/img/noimage_203x120_busi-econ-1.0.png",
-      "categories": [
-        "anime",
-        "book"
       ],
       "works": [],
       "isPR": false,
@@ -2261,7 +2261,7 @@
       "source": "GAME Watch",
       "summary": "",
       "publishedAt": "2026-11-20T01:00:00.000Z",
-      "image": "https://game.watch.impress.co.jp/img/gmw/list/2157/992/1.jpg",
+      "image": "",
       "categories": [
         "other"
       ],
@@ -2996,26 +2996,6 @@
       "isNew": false
     },
     {
-      "id": "6a4cd1a087a7",
-      "title": "「異世界のんびり農家」の配信はどこで見れる？1期が見放題のサブスク",
-      "url": "https://animeanime.jp/article/2026/10/13/103754.html",
-      "host": "animeanime.jp",
-      "source": "アニメ！アニメ！",
-      "summary": "",
-      "publishedAt": "2026-11-19T08:57:48.000Z",
-      "image": "https://animeanime.jp/imgs/ogp_f/941991.jpg",
-      "categories": [
-        "anime"
-      ],
-      "works": [
-        "nonbiri-noka"
-      ],
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": false
-    },
-    {
       "id": "57b52f480691",
       "title": "「信者ゼロの女神サマと始める異世界攻略」の配信はどこで見れる？U-NEXTで見放題",
       "url": "https://animeanime.jp/article/2026/10/15/103849.html",
@@ -3133,7 +3113,7 @@
     {
       "id": "1b7bea3b60a5",
       "title": "漫画『転生アラサー女子の異世改活』最新話までネタバレあらすじ！マグノリアの結末と原作の完結は？",
-      "url": "https://ciatr.jp/topics/340471?page",
+      "url": "https://ciatr.jp/topics/340471",
       "host": "ciatr.jp",
       "source": "ciatr[シアター]",
       "summary": "",
@@ -3272,6 +3252,24 @@
       "isNew": false
     },
     {
+      "id": "514041aa6a22",
+      "title": "大人気異世界溺愛BL『乙女ゲームの悪役が、隠しキャラを恋人になんかするもんじゃない』がオーディオブック化！！",
+      "url": "https://animeanime.jp/release/prtimes/20261119/328088.html",
+      "host": "animeanime.jp",
+      "source": "アニメ！アニメ！",
+      "summary": "",
+      "publishedAt": "2026-11-19T02:00:00.000Z",
+      "image": "https://animeanime.jp/release/imgs/list/575223.jpg",
+      "categories": [
+        "game"
+      ],
+      "works": [],
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": true
+    },
+    {
       "id": "c454dabeef88",
       "title": "今世こそFIREしたい、元社畜アラサーの転生少女が奔走するガンガンONLINE新連載",
       "url": "https://natalie.mu/comic/news/698345",
@@ -3344,6 +3342,24 @@
       "isNew": false
     },
     {
+      "id": "b50c3dd0b229",
+      "title": "異世界転生騒動記 #1【地上波1週間先行・独占配信】",
+      "url": "https://abema.tv/channels/abema-anime/slots/F2LEksfXn5eyeP",
+      "host": "abema.tv",
+      "source": "ABEMA",
+      "summary": "",
+      "publishedAt": "2026-11-18T21:19:08.000Z",
+      "image": "",
+      "categories": [
+        "anime"
+      ],
+      "works": [],
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": true
+    },
+    {
       "id": "620724a65b90",
       "title": "『ドローイング 最強漫画家はお絵描きスキルで異世界無双する！』連載5周年＆20巻刊行記念フェア開催！",
       "url": "https://www.sanyonews.jp/article/1985334?kw",
@@ -3360,7 +3376,7 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "c093a6281516",
