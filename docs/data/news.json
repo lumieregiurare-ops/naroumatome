@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-22T10:30:23.872Z",
+  "updatedAt": "2026-11-22T11:00:20.464Z",
   "site": {
     "title": "なろう系まとめ",
     "tagline": "小説家になろう発の作品のアニメ化・コミカライズ・書籍化のニュースと、なろうのランキングをまとめています。",
@@ -7,12 +7,12 @@
     "contactUrl": "https://docs.google.com/forms/d/e/1FAIpQLSesWyhmZ6sRS_ve-c3X2KqF_wC5PK2TgwgQbTKmnQltSlg5Jw/viewform"
   },
   "total": 90,
-  "todayCount": 17,
+  "todayCount": 18,
   "categories": [
     {
       "id": "anime",
       "label": "アニメ",
-      "count": 63
+      "count": 64
     },
     {
       "id": "comic",
@@ -37,12 +37,12 @@
     {
       "id": "goods",
       "label": "グッズ・イベント",
-      "count": 23
+      "count": 22
     },
     {
       "id": "other",
       "label": "そのほか",
-      "count": 15
+      "count": 14
     }
   ],
   "works": [
@@ -296,7 +296,7 @@
   "sources": [
     {
       "name": "Yahoo!ニュース",
-      "count": 14
+      "count": 13
     },
     {
       "name": "ラノベニュースオンライン",
@@ -319,6 +319,10 @@
       "count": 3
     },
     {
+      "name": "TVer",
+      "count": 3
+    },
+    {
       "name": "GameWith",
       "count": 3
     },
@@ -328,10 +332,6 @@
     },
     {
       "name": "ｄメニューニュース",
-      "count": 2
-    },
-    {
-      "name": "TVer",
       "count": 2
     },
     {
@@ -361,6 +361,10 @@
     {
       "name": "ファミリーマート",
       "count": 2
+    },
+    {
+      "name": "アニメイトタイムズ",
+      "count": 1
     },
     {
       "name": "マグミクス",
@@ -432,10 +436,6 @@
     },
     {
       "name": "GAME Watch",
-      "count": 1
-    },
-    {
-      "name": "インサイド",
       "count": 1
     }
   ],
@@ -593,6 +593,41 @@
           "url": "https://news.yahoo.co.jp/articles/bcd99e022cb8ac50e05a7d8b9dfb39611dfbe1f4",
           "source": "Yahoo!ニュース",
           "publishedAt": "2026-11-20T01:00:00.000Z",
+          "isPR": false
+        }
+      ]
+    },
+    {
+      "id": "6b81e875ed87",
+      "title": "『リゼロ』TVアニメ「3rd season」（第3期）製作決定│ビジュアルほか公開",
+      "summary": "",
+      "url": "https://www.animatetimes.com/news/img.php?id",
+      "image": "https://www.animatetimes.com/img/ogimage.png",
+      "leadSource": "アニメイトタイムズ",
+      "publishedAt": "2026-11-22T09:03:38.000Z",
+      "sourceCount": 3,
+      "articleCount": 3,
+      "categories": [
+        "anime"
+      ],
+      "keywords": [
+        "リゼロ",
+        "ビジュアル",
+        "season"
+      ],
+      "articles": [
+        {
+          "title": "「リゼロ」5th season製作決定 スバルとレムが新たな冒険へ旅立つウルトラティザービジュアル公開（映画.com）",
+          "url": "https://news.yahoo.co.jp/articles/32d58a9bb79cb172ca5d798fcd47c910e91fe348",
+          "source": "Yahoo!ニュース",
+          "publishedAt": "2026-11-22T08:00:00.000Z",
+          "isPR": false
+        },
+        {
+          "title": "『リゼロ』第5期制作決定 物語を示唆するウルトラティザービジュアルが公開",
+          "url": "https://www.sanyonews.jp/article/2021173?kw",
+          "source": "山陽新聞",
+          "publishedAt": "2026-11-21T01:05:14.000Z",
           "isPR": false
         }
       ]
@@ -782,33 +817,6 @@
       ]
     },
     {
-      "id": "500950e02236",
-      "title": "「リゼロ」5th season製作決定 スバルとレムが新たな冒険へ旅立つウルトラティザービジュアル公開（映画.com）",
-      "summary": "",
-      "url": "https://news.yahoo.co.jp/articles/32d58a9bb79cb172ca5d798fcd47c910e91fe348",
-      "image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20261122-00000010-eiga-000-1-view.jpg?exp=10800",
-      "leadSource": "Yahoo!ニュース",
-      "publishedAt": "2026-11-22T08:00:00.000Z",
-      "sourceCount": 2,
-      "articleCount": 2,
-      "categories": [
-        "anime"
-      ],
-      "keywords": [
-        "リゼロ",
-        "ウルトラティザービジュアル"
-      ],
-      "articles": [
-        {
-          "title": "『リゼロ』第5期制作決定 物語を示唆するウルトラティザービジュアルが公開",
-          "url": "https://www.sanyonews.jp/article/2021173?rct",
-          "source": "山陽新聞",
-          "publishedAt": "2026-11-20T23:05:32.000Z",
-          "isPR": false
-        }
-      ]
-    },
-    {
       "id": "bfdadb8614c4",
       "title": "映画「薬屋のひとりごと」ＰＲも 「くすりのまちとやま巡りフェスタ2026」開催 薬研体験など薬都とやまを知る 富山",
       "summary": "",
@@ -924,12 +932,12 @@
     }
   ],
   "churn": {
-    "previousAt": "2026-11-22T10:00:20.114Z",
-    "previousCount": 96,
-    "newCount": 1
+    "previousAt": "2026-11-22T10:30:23.872Z",
+    "previousCount": 90,
+    "newCount": 2
   },
   "updateGapMin": 30,
-  "nextUpdateAt": "2026-11-22T11:00:23.872Z",
+  "nextUpdateAt": "2026-11-22T11:30:20.464Z",
   "items": [
     {
       "id": "049af093199b",
@@ -948,6 +956,26 @@
       "viaGoogle": false,
       "sourceKind": "news",
       "isNew": false
+    },
+    {
+      "id": "6b81e875ed87",
+      "title": "『リゼロ』TVアニメ「3rd season」（第3期）製作決定│ビジュアルほか公開",
+      "url": "https://www.animatetimes.com/news/img.php?id",
+      "host": "animatetimes.com",
+      "source": "アニメイトタイムズ",
+      "summary": "",
+      "publishedAt": "2026-11-22T09:03:38.000Z",
+      "image": "https://www.animatetimes.com/img/ogimage.png",
+      "categories": [
+        "anime"
+      ],
+      "works": [
+        "rezero"
+      ],
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": true
     },
     {
       "id": "56d5c9d2b768",
@@ -1242,7 +1270,7 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "2a54fb5a48e7",
@@ -1516,6 +1544,26 @@
       "isNew": false
     },
     {
+      "id": "c5ab2b8e9153",
+      "title": "『リゼロ』第5期制作決定 物語を示唆するウルトラティザービジュアルが公開",
+      "url": "https://www.sanyonews.jp/article/2021173?kw",
+      "host": "sanyonews.jp",
+      "source": "山陽新聞",
+      "summary": "",
+      "publishedAt": "2026-11-21T01:05:14.000Z",
+      "image": "https://static.sanyonews.jp/image/article/size1/0/a/0/6/0a068b0d7a32c7fc86e3d709910f8203_1.jpg",
+      "categories": [
+        "anime"
+      ],
+      "works": [
+        "rezero"
+      ],
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": false
+    },
+    {
       "id": "549df7908e09",
       "title": "“貴族×武将×オタク”異色の組み合わせ異世界ファンタジー「異世界転生騒動記」ABEMAで地上波1週間先行・見放題独占配信決定",
       "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9UWVBCTEFJY1BXWkhFOFY2Z0ZhSjhZWmQybk1UTThjRWNUb2VJSFlEVFBkV1dkZHdmS3R2ZzBGV0dvTHVka2dRNEpSZ1BRZEpJdVhMNTN1SkFhcEJvaXA0UXE3ZWlYYzc2TG9XS0pwZmhUNi1aSm1waFlvVkk5QdIBgwFBVV95cUxQU1c1emFmOXdITjhHQ2R4S0QzdmlUZ2djY0pMWXlWa1NrM1c5Z2gxcGZtbnRaUTBCYTZ6N3lLN1ZfckNlWk81czFBV2xiYnRlZVlDdGxLTVhndU42N244WF9qdjJvM1BMNFMxM0EyTEo0ZjJGU0s1UENFdTlIcWNLZnR1cw?oc=5",
@@ -1541,32 +1589,12 @@
       "source": "Appliv Games",
       "summary": "",
       "publishedAt": "2026-11-20T23:06:33.000Z",
-      "image": "https://games.app-liv.jp/images/articles/2025/07/gd_573775_-26.jpg",
+      "image": "",
       "categories": [
         "goods"
       ],
       "works": [
         "kagejitsu"
-      ],
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": false
-    },
-    {
-      "id": "c5ab2b8e9153",
-      "title": "『リゼロ』第5期制作決定 物語を示唆するウルトラティザービジュアルが公開",
-      "url": "https://www.sanyonews.jp/article/2021173?rct",
-      "host": "sanyonews.jp",
-      "source": "山陽新聞",
-      "summary": "",
-      "publishedAt": "2026-11-20T23:05:32.000Z",
-      "image": "https://static.sanyonews.jp/image/article/size1/0/a/0/6/0a068b0d7a32c7fc86e3d709910f8203_1.jpg",
-      "categories": [
-        "anime"
-      ],
-      "works": [
-        "rezero"
       ],
       "isPR": false,
       "viaGoogle": false,
@@ -1994,6 +2022,26 @@
       "viaGoogle": false,
       "sourceKind": "news",
       "isNew": false
+    },
+    {
+      "id": "bb691b538111",
+      "title": "薬屋のひとりごと｜アニメ／ヒーロー｜見逃し無料配信はTVer！人気の動画見放題",
+      "url": "https://tver.jp/series/sr739q9u4n",
+      "host": "tver.jp",
+      "source": "TVer",
+      "summary": "",
+      "publishedAt": "2026-11-20T08:00:00.000Z",
+      "image": "",
+      "categories": [
+        "anime"
+      ],
+      "works": [
+        "kusuriya"
+      ],
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": true
     },
     {
       "id": "1d60330f9839",
@@ -2676,47 +2724,6 @@
       "works": [
         "mushoku",
         "honzuki"
-      ],
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": false
-    },
-    {
-      "id": "ac4c4cb374ff",
-      "title": "【コスプレ】黒タイツ×赤ヒールが映える美脚と華麗なS字カーブ！「リゼロ」プリシラの美女レイヤーは剣を構えたポーズも美しすぎる【写真8枚】",
-      "url": "https://www.inside-games.jp/article/2026/11/19/191259.html",
-      "host": "inside-games.jp",
-      "source": "インサイド",
-      "summary": "",
-      "publishedAt": "2026-11-19T11:00:03.000Z",
-      "image": "https://www.inside-games.jp/imgs/ogp_f/1808902.jpg",
-      "categories": [
-        "other"
-      ],
-      "works": [
-        "rezero"
-      ],
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": false
-    },
-    {
-      "id": "66b49b4f2471",
-      "title": "「年相応なニコニコ壬氏可愛いね」「設定とブレてなくて良き」『薬屋のひとりごと』劇場版×赤いきつね＆緑のたぬきコラボビジュが話題（ABEMA TIMES）",
-      "url": "https://news.yahoo.co.jp/articles/46b95e95f2bdb4a369898c2c65a5fd4f686bf440",
-      "host": "news.yahoo.co.jp",
-      "source": "Yahoo!ニュース",
-      "summary": "",
-      "publishedAt": "2026-11-19T10:30:37.000Z",
-      "image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20261119-10290636-abemad-000-1-view.jpg?exp=10800",
-      "categories": [
-        "anime",
-        "goods"
-      ],
-      "works": [
-        "kusuriya"
       ],
       "isPR": false,
       "viaGoogle": false,
