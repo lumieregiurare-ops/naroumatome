@@ -1,18 +1,18 @@
 {
-  "updatedAt": "2026-11-22T17:00:23.490Z",
+  "updatedAt": "2026-11-22T17:30:21.250Z",
   "site": {
     "title": "なろう系まとめ",
     "tagline": "小説家になろう発の作品のアニメ化・コミカライズ・書籍化のニュースと、なろうのランキングをまとめています。",
     "url": "https://naroumatome.gamelab.website/",
     "contactUrl": "https://docs.google.com/forms/d/e/1FAIpQLSesWyhmZ6sRS_ve-c3X2KqF_wC5PK2TgwgQbTKmnQltSlg5Jw/viewform"
   },
-  "total": 90,
-  "todayCount": 0,
+  "total": 86,
+  "todayCount": 1,
   "categories": [
     {
       "id": "anime",
       "label": "アニメ",
-      "count": 63
+      "count": 65
     },
     {
       "id": "comic",
@@ -42,7 +42,7 @@
     {
       "id": "other",
       "label": "そのほか",
-      "count": 14
+      "count": 8
     }
   ],
   "works": [
@@ -56,7 +56,7 @@
       "id": "mushoku",
       "title": "無職転生 ～異世界行ったら本気だす～",
       "short": "無職転生",
-      "count": 18
+      "count": 11
     },
     {
       "id": "rezero",
@@ -68,7 +68,7 @@
       "id": "honzuki",
       "title": "本好きの下剋上",
       "short": "本好き",
-      "count": 7
+      "count": 0
     },
     {
       "id": "kusuriya",
@@ -303,12 +303,8 @@
       "count": 10
     },
     {
-      "name": "ファミ通",
-      "count": 8
-    },
-    {
       "name": "山陽新聞",
-      "count": 6
+      "count": 7
     },
     {
       "name": "Mantan Web",
@@ -335,11 +331,19 @@
       "count": 3
     },
     {
+      "name": "Lemino",
+      "count": 2
+    },
+    {
       "name": "アニメイトタイムズ",
       "count": 2
     },
     {
       "name": "ｄメニューニュース",
+      "count": 2
+    },
+    {
+      "name": "株式会社ピクセラ",
       "count": 2
     },
     {
@@ -372,14 +376,6 @@
     },
     {
       "name": "TBS NEWS DIG",
-      "count": 1
-    },
-    {
-      "name": "株式会社ピクセラ",
-      "count": 1
-    },
-    {
-      "name": "Lemino",
       "count": 1
     },
     {
@@ -420,6 +416,10 @@
     },
     {
       "name": "オリコンニュース",
+      "count": 1
+    },
+    {
+      "name": "ファミ通",
       "count": 1
     },
     {
@@ -591,8 +591,8 @@
       ],
       "articles": [
         {
-          "title": "「ぷちげき『劇場版 薬屋のひとりごと 亡妃の秘宝』壬氏」 [画像ギャラリー 4/4]",
-          "url": "https://natalie.mu/comic/gallery/news/698865/3023163",
+          "title": "「ぷちげき『劇場版 薬屋のひとりごと 亡妃の秘宝』猫猫」 [画像ギャラリー 3/4]",
+          "url": "https://natalie.mu/comic/gallery/news/698865/3023162",
           "source": "ナタリー",
           "publishedAt": "2026-11-22T05:18:30.000Z",
           "isPR": false
@@ -750,11 +750,38 @@
       ]
     },
     {
-      "id": "a27cad043768",
-      "title": "その者。のちに…＞“なろう系”人気作 テレビアニメ化 2027年放送 伊東健人、小倉唯出演（MANTANWEB）",
+      "id": "351eac414f28",
+      "title": "転生した大聖女は、聖女であることをひた隠す 第8話",
       "summary": "",
-      "url": "https://news.yahoo.co.jp/articles/8a273d25a1317f1d2dcb0fd08f91517c313b01b7?page",
-      "image": "https://storage.mantan-web.jp/w=1280,h=720,icr=0:0.1:1:1,a=2,g=2,f=webp:auto/images/2026/11/22/20261122dog00m200020000a/001.jpg",
+      "url": "https://lemino.docomo.ne.jp/contents/Y3JpZDovL3BsYWxhLmlwdHZmLmpwL3ZvZC8wMDAwMDAwMDAwX2Uzc3p0bGNsanI",
+      "image": "https://img.lemino.docomo.ne.jp/cms/a14f16a/a14f16a_w1.jpg",
+      "leadSource": "Lemino",
+      "publishedAt": "2026-11-22T17:00:20.000Z",
+      "sourceCount": 2,
+      "articleCount": 2,
+      "categories": [
+        "anime"
+      ],
+      "keywords": [
+        "大聖女",
+        "聖女"
+      ],
+      "articles": [
+        {
+          "title": "アニメ『転生した大聖女は、聖女であることをひた隠す』サザランド編突入記念ビジュアルが解禁",
+          "url": "https://ln-news.com/articles/127283",
+          "source": "ラノベニュースオンライン",
+          "publishedAt": "2026-11-22T10:00:00.000Z",
+          "isPR": false
+        }
+      ]
+    },
+    {
+      "id": "a27cad043768",
+      "title": "その者。のちに…＞“なろう系”人気作 テレビアニメ化 2027年放送 伊東健人、小倉唯出演 (MANTANWEB)",
+      "summary": "",
+      "url": "https://news.yahoo.co.jp/articles/8a273d25a1317f1d2dcb0fd08f91517c313b01b7/images/000",
+      "image": "https://news-pctr.c.yimg.jp/uUzvQ3lML_bkIqyakc1vFhNrRI0RUQxg5aFkrX0xDg1_T0wXrbEJjtNGtrf1o9y32aKHaE9S6KKOAHNM7AL26lx2ZgIS0sQI-xIBmwMVoVZDMps6pBj8nwDE4XKjCQcXZKlH-yzvBkDZxbpUQdLak1XwChyOKDWHWWFuw4mXGUI-pPqJiNuUUAoyuB7HlXhHf6k2A3keUdFk887xNt-t8g==",
       "leadSource": "Yahoo!ニュース",
       "publishedAt": "2026-11-22T11:04:00.000Z",
       "sourceCount": 2,
@@ -835,52 +862,43 @@
           "isPR": false
         }
       ]
-    },
-    {
-      "id": "6cd07de10990",
-      "title": "「異世界マンチキン」27年1月7日から放送開始 新キービジュアル＆PV公開 主題歌も発表 : ニュース",
-      "summary": "",
-      "url": "https://anime.eiga.com/news/127898/",
-      "image": "https://media.eiga.com/images/anime/news/127898/photo/419e079fa7893b73/640.jpg",
-      "leadSource": "アニメハック",
-      "publishedAt": "2026-11-21T11:00:00.000Z",
-      "sourceCount": 2,
-      "articleCount": 2,
-      "categories": [
-        "anime"
-      ],
-      "keywords": [
-        "マンチキン",
-        "放送開始"
-      ],
-      "articles": [
-        {
-          "title": "TVアニメ『異世界マンチキン』、2027年1月7日に放送開始 OPはLIL LEAGUE、EDはZAQ",
-          "url": "https://www.at-s.com/media/articles/anime/isekai-munchkin-broadcast-op-ed-2027/",
-          "source": "アットエス",
-          "publishedAt": "2026-11-20T10:07:47.000Z",
-          "isPR": false
-        }
-      ]
     }
   ],
   "churn": {
-    "previousAt": "2026-11-22T16:30:21.478Z",
-    "previousCount": 91,
-    "newCount": 0
+    "previousAt": "2026-11-22T17:00:23.490Z",
+    "previousCount": 90,
+    "newCount": 4
   },
   "updateGapMin": 30,
-  "nextUpdateAt": "2026-11-22T17:30:23.490Z",
+  "nextUpdateAt": "2026-11-22T18:00:21.250Z",
   "items": [
     {
+      "id": "351eac414f28",
+      "title": "転生した大聖女は、聖女であることをひた隠す 第8話",
+      "url": "https://lemino.docomo.ne.jp/contents/Y3JpZDovL3BsYWxhLmlwdHZmLmpwL3ZvZC8wMDAwMDAwMDAwX2Uzc3p0bGNsanI",
+      "host": "lemino.docomo.ne.jp",
+      "source": "Lemino",
+      "summary": "",
+      "publishedAt": "2026-11-22T17:00:20.000Z",
+      "image": "https://img.lemino.docomo.ne.jp/cms/a14f16a/a14f16a_w1.jpg",
+      "categories": [
+        "anime"
+      ],
+      "works": [],
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": true
+    },
+    {
       "id": "a27cad043768",
-      "title": "その者。のちに…＞“なろう系”人気作 テレビアニメ化 2027年放送 伊東健人、小倉唯出演（MANTANWEB）",
-      "url": "https://news.yahoo.co.jp/articles/8a273d25a1317f1d2dcb0fd08f91517c313b01b7?page",
+      "title": "その者。のちに…＞“なろう系”人気作 テレビアニメ化 2027年放送 伊東健人、小倉唯出演 (MANTANWEB)",
+      "url": "https://news.yahoo.co.jp/articles/8a273d25a1317f1d2dcb0fd08f91517c313b01b7/images/000",
       "host": "news.yahoo.co.jp",
       "source": "Yahoo!ニュース",
       "summary": "",
       "publishedAt": "2026-11-22T11:04:00.000Z",
-      "image": "",
+      "image": "https://news-pctr.c.yimg.jp/uUzvQ3lML_bkIqyakc1vFhNrRI0RUQxg5aFkrX0xDg1_T0wXrbEJjtNGtrf1o9y32aKHaE9S6KKOAHNM7AL26lx2ZgIS0sQI-xIBmwMVoVZDMps6pBj8nwDE4XKjCQcXZKlH-yzvBkDZxbpUQdLak1XwChyOKDWHWWFuw4mXGUI-pPqJiNuUUAoyuB7HlXhHf6k2A3keUdFk887xNt-t8g==",
       "categories": [
         "anime",
         "web"
@@ -1051,9 +1069,9 @@
       "isNew": false
     },
     {
-      "id": "32dc81bd9864",
-      "title": "「ぷちげき『劇場版 薬屋のひとりごと 亡妃の秘宝』壬氏」 [画像ギャラリー 4/4]",
-      "url": "https://natalie.mu/comic/gallery/news/698865/3023163",
+      "id": "cb04d2e28f9b",
+      "title": "「ぷちげき『劇場版 薬屋のひとりごと 亡妃の秘宝』猫猫」 [画像ギャラリー 3/4]",
+      "url": "https://natalie.mu/comic/gallery/news/698865/3023162",
       "host": "natalie.mu",
       "source": "ナタリー",
       "summary": "",
@@ -1068,7 +1086,7 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": false
+      "isNew": true
     },
     {
       "id": "16e68ec61a40",
@@ -1303,6 +1321,24 @@
       "viaGoogle": false,
       "sourceKind": "news",
       "isNew": false
+    },
+    {
+      "id": "2ad07850223d",
+      "title": "『ロードス島戦記』から始まった日本ファンタジーの現在地 水野良が語る異世界ブームとウェブトゥーンへの新たな挑戦",
+      "url": "https://www.sanyonews.jp/article/1975520",
+      "host": "sanyonews.jp",
+      "source": "山陽新聞",
+      "summary": "",
+      "publishedAt": "2026-11-21T15:00:04.000Z",
+      "image": "https://static.sanyonews.jp/image/article/size1/0/a/3/e/0a3e76ca196d52783e60786d55cf77ad_1.jpg",
+      "categories": [
+        "other"
+      ],
+      "works": [],
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": true
     },
     {
       "id": "6cd07de10990",
@@ -1553,6 +1589,24 @@
       "viaGoogle": false,
       "sourceKind": "news",
       "isNew": false
+    },
+    {
+      "id": "27c3fdc0b5fa",
+      "title": "『世界最高の暗殺者、異世界貴族に転生する』2期の配信はいつから？1期はDMM TVで見放題",
+      "url": "https://pixela.co.jp/delivery/sekai-saikou-no-ansatsusha-2-streaming/",
+      "host": "pixela.co.jp",
+      "source": "株式会社ピクセラ",
+      "summary": "",
+      "publishedAt": "2026-11-21T00:45:26.000Z",
+      "image": "https://pixela.co.jp/delivery/wp-content/uploads/sekai-saikou-no-ansatsusha-2-streaming-eyecatch.jpg",
+      "categories": [
+        "anime"
+      ],
+      "works": [],
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": true
     },
     {
       "id": "549df7908e09",
@@ -2510,153 +2564,6 @@
       ],
       "works": [
         "mushoku"
-      ],
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": false
-    },
-    {
-      "id": "6ea710545c6d",
-      "title": "画像ページ (3/10) AmazonのAudible（オーディブル）3ヵ月99円キャンペーン実施中。『無職転生』『オーバーロード』『本好きの下剋上』など数十万冊以上が聴き放題に",
-      "url": "https://www.famitsu.com/article/images/202611/94514/936073",
-      "host": "famitsu.com",
-      "source": "ファミ通",
-      "summary": "",
-      "publishedAt": "2026-11-19T17:05:06.000Z",
-      "image": "https://cimg.kgl-systems.io/camion/files/famitsu/94514/a799bad5a3b514f096e69bbc4a7896cd9.jpg?x=1280",
-      "categories": [
-        "other"
-      ],
-      "works": [
-        "mushoku",
-        "honzuki"
-      ],
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": false
-    },
-    {
-      "id": "0de194acb61c",
-      "title": "画像ページ (7/10) AmazonのAudible（オーディブル）3ヵ月99円キャンペーン実施中。『無職転生』『オーバーロード』『本好きの下剋上』など数十万冊以上が聴き放題に",
-      "url": "https://www.famitsu.com/article/images/202611/94514/936077",
-      "host": "famitsu.com",
-      "source": "ファミ通",
-      "summary": "",
-      "publishedAt": "2026-11-19T17:05:00.000Z",
-      "image": "https://cimg.kgl-systems.io/camion/files/famitsu/94514/afe5df232cafa4c4e0f1a0294418e5660.jpg?x=1280",
-      "categories": [
-        "other"
-      ],
-      "works": [
-        "mushoku",
-        "honzuki"
-      ],
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": false
-    },
-    {
-      "id": "d291e4e3b5c3",
-      "title": "画像ページ (6/10) AmazonのAudible（オーディブル）3ヵ月99円キャンペーン実施中。『無職転生』『オーバーロード』『本好きの下剋上』など数十万冊以上が聴き放題に",
-      "url": "https://www.famitsu.com/article/images/202611/94514/936076",
-      "host": "famitsu.com",
-      "source": "ファミ通",
-      "summary": "",
-      "publishedAt": "2026-11-19T17:04:52.000Z",
-      "image": "https://cimg.kgl-systems.io/camion/files/famitsu/94514/a18e2999891374a475d0687ca9f989d83.jpg?x=1280",
-      "categories": [
-        "other"
-      ],
-      "works": [
-        "mushoku",
-        "honzuki"
-      ],
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": false
-    },
-    {
-      "id": "52de7283f0b3",
-      "title": "画像ページ (1/10) AmazonのAudible（オーディブル）3ヵ月99円キャンペーン実施中。『無職転生』『オーバーロード』『本好きの下剋上』など数十万冊以上が聴き放題に",
-      "url": "https://www.famitsu.com/article/images/202611/94514/936071",
-      "host": "famitsu.com",
-      "source": "ファミ通",
-      "summary": "",
-      "publishedAt": "2026-11-19T17:04:44.000Z",
-      "image": "https://cimg.kgl-systems.io/camion/files/famitsu/94514/af3ccdd27d2000e3f9255a7e3e2c48800.jpg?x=1280",
-      "categories": [
-        "other"
-      ],
-      "works": [
-        "mushoku",
-        "honzuki"
-      ],
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": false
-    },
-    {
-      "id": "f6560f6212f7",
-      "title": "画像ページ (8/10) AmazonのAudible（オーディブル）3ヵ月99円キャンペーン実施中。『無職転生』『オーバーロード』『本好きの下剋上』など数十万冊以上が聴き放題に",
-      "url": "https://www.famitsu.com/article/images/202611/94514/936078",
-      "host": "famitsu.com",
-      "source": "ファミ通",
-      "summary": "",
-      "publishedAt": "2026-11-19T17:04:35.000Z",
-      "image": "https://cimg.kgl-systems.io/camion/files/famitsu/94514/a8cda81fc7ad906927144235dda5fdf15.jpg?x=1280",
-      "categories": [
-        "other"
-      ],
-      "works": [
-        "mushoku",
-        "honzuki"
-      ],
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": false
-    },
-    {
-      "id": "37ec32d5f79e",
-      "title": "画像ページ (10/10) AmazonのAudible（オーディブル）3ヵ月99円キャンペーン実施中。『無職転生』『オーバーロード』『本好きの下剋上』など数十万冊以上が聴き放題に",
-      "url": "https://www.famitsu.com/article/images/202611/94514/936080",
-      "host": "famitsu.com",
-      "source": "ファミ通",
-      "summary": "",
-      "publishedAt": "2026-11-19T17:04:13.000Z",
-      "image": "https://cimg.kgl-systems.io/camion/files/famitsu/94514/aae566253288191ce5d879e51dae1d8c3.jpg?x=1280",
-      "categories": [
-        "other"
-      ],
-      "works": [
-        "mushoku",
-        "honzuki"
-      ],
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": false
-    },
-    {
-      "id": "7a6b894ad692",
-      "title": "画像ページ (9/10) AmazonのAudible（オーディブル）3ヵ月99円キャンペーン実施中。『無職転生』『オーバーロード』『本好きの下剋上』など数十万冊以上が聴き放題に",
-      "url": "https://www.famitsu.com/article/images/202611/94514/936079",
-      "host": "famitsu.com",
-      "source": "ファミ通",
-      "summary": "",
-      "publishedAt": "2026-11-19T17:02:47.000Z",
-      "image": "https://cimg.kgl-systems.io/camion/files/famitsu/94514/a30e62fddc14c05988b44e7c02788e187.jpg?x=1280",
-      "categories": [
-        "other"
-      ],
-      "works": [
-        "mushoku",
-        "honzuki"
       ],
       "isPR": false,
       "viaGoogle": false,
