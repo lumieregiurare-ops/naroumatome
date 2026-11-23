@@ -1,18 +1,18 @@
 {
-  "updatedAt": "2026-11-23T04:00:18.582Z",
+  "updatedAt": "2026-11-23T04:30:19.812Z",
   "site": {
     "title": "なろう系まとめ",
     "tagline": "小説家になろう発の作品のアニメ化・コミカライズ・書籍化のニュースと、なろうのランキングをまとめています。",
     "url": "https://naroumatome.gamelab.website/",
     "contactUrl": "https://docs.google.com/forms/d/e/1FAIpQLSesWyhmZ6sRS_ve-c3X2KqF_wC5PK2TgwgQbTKmnQltSlg5Jw/viewform"
   },
-  "total": 92,
-  "todayCount": 10,
+  "total": 89,
+  "todayCount": 11,
   "categories": [
     {
       "id": "anime",
       "label": "アニメ",
-      "count": 65
+      "count": 67
     },
     {
       "id": "comic",
@@ -42,7 +42,7 @@
     {
       "id": "other",
       "label": "そのほか",
-      "count": 16
+      "count": 11
     }
   ],
   "works": [
@@ -62,7 +62,7 @@
       "id": "rezero",
       "title": "Re:ゼロから始める異世界生活",
       "short": "リゼロ",
-      "count": 12
+      "count": 8
     },
     {
       "id": "honzuki",
@@ -74,13 +74,13 @@
       "id": "kusuriya",
       "title": "薬屋のひとりごと",
       "short": "薬屋",
-      "count": 34
+      "count": 35
     },
     {
       "id": "kagejitsu",
       "title": "陰の実力者になりたくて！",
       "short": "陰の実力者",
-      "count": 2
+      "count": 1
     },
     {
       "id": "tate",
@@ -254,7 +254,7 @@
       "id": "tensei-kizoku",
       "title": "転生貴族、鑑定スキルで成り上がる",
       "short": "転生貴族",
-      "count": 2
+      "count": 3
     },
     {
       "id": "kuro-no-shokanshi",
@@ -296,27 +296,27 @@
   "sources": [
     {
       "name": "Yahoo!ニュース",
-      "count": 15
+      "count": 14
     },
     {
       "name": "ラノベニュースオンライン",
       "count": 11
     },
     {
-      "name": "GameWith",
-      "count": 7
-    },
-    {
       "name": "山陽新聞",
-      "count": 7
+      "count": 6
     },
     {
       "name": "アニメ！アニメ！",
       "count": 4
     },
     {
+      "name": "Infoseek",
+      "count": 4
+    },
+    {
       "name": "ナタリー",
-      "count": 3
+      "count": 4
     },
     {
       "name": "ABEMA TIMES",
@@ -327,11 +327,15 @@
       "count": 3
     },
     {
-      "name": "WEBザテレビジョン",
+      "name": "GameWith",
       "count": 2
     },
     {
       "name": "ABEMA",
+      "count": 2
+    },
+    {
+      "name": "Lemino",
       "count": 2
     },
     {
@@ -340,10 +344,6 @@
     },
     {
       "name": "アニメイトタイムズ",
-      "count": 2
-    },
-    {
-      "name": "Infoseek",
       "count": 2
     },
     {
@@ -371,6 +371,10 @@
       "count": 1
     },
     {
+      "name": "WEBザテレビジョン",
+      "count": 1
+    },
+    {
       "name": "グルメ Watch",
       "count": 1
     },
@@ -383,7 +387,7 @@
       "count": 1
     },
     {
-      "name": "Lemino",
+      "name": "TBSテレビ",
       "count": 1
     },
     {
@@ -453,7 +457,7 @@
       "leadSource": "Yahoo!ニュース",
       "publishedAt": "2026-11-23T01:01:21.000Z",
       "sourceCount": 5,
-      "articleCount": 5,
+      "articleCount": 6,
       "categories": [
         "anime",
         "goods"
@@ -476,6 +480,13 @@
           "url": "https://ln-news.com/articles/127257",
           "source": "ラノベニュースオンライン",
           "publishedAt": "2026-11-22T07:00:00.000Z",
+          "isPR": false
+        },
+        {
+          "title": "「ぷちげき『劇場版 薬屋のひとりごと 亡妃の秘宝』壬氏」 [画像ギャラリー 4/4]",
+          "url": "https://natalie.mu/comic/gallery/news/698865/3023163",
+          "source": "ナタリー",
+          "publishedAt": "2026-11-22T05:18:30.000Z",
           "isPR": false
         },
         {
@@ -576,6 +587,76 @@
           "url": "https://news.yahoo.co.jp/articles/795dd0a2c39c8c9d1b8c6c5b9b0a84f9b027049d",
           "source": "Yahoo!ニュース",
           "publishedAt": "2026-11-22T09:00:00.000Z",
+          "isPR": false
+        }
+      ]
+    },
+    {
+      "id": "351eac414f28",
+      "title": "転生した大聖女は、聖女であることをひた隠す 第8話",
+      "summary": "",
+      "url": "https://lemino.docomo.ne.jp/contents/Y3JpZDovL3BsYWxhLmlwdHZmLmpwL3ZvZC8wMDAwMDAwMDAwX2Uzc3p0bGNsanI",
+      "image": "https://img.lemino.docomo.ne.jp/cms/a14f16a/a14f16a_w1.jpg",
+      "leadSource": "Lemino",
+      "publishedAt": "2026-11-22T17:00:20.000Z",
+      "sourceCount": 3,
+      "articleCount": 3,
+      "categories": [
+        "anime"
+      ],
+      "keywords": [
+        "大聖女",
+        "聖女",
+        "サザランド"
+      ],
+      "articles": [
+        {
+          "title": "アニメ『転生した大聖女は、聖女であることをひた隠す』サザランド編突入記念ビジュアルが解禁",
+          "url": "https://ln-news.com/articles/127283",
+          "source": "ラノベニュースオンライン",
+          "publishedAt": "2026-11-22T10:00:00.000Z",
+          "isPR": false
+        },
+        {
+          "title": "TVアニメ「転生した大聖女は、聖女であることをひた隠す」キービジュアル第2弾【サザランド編突入記念ビジュアル】公開！",
+          "url": "https://prtimes.jp/main/html/rd/p/000000169.000084062.html",
+          "source": "PR TIMES",
+          "publishedAt": "2026-11-21T13:30:01.000Z",
+          "isPR": true
+        }
+      ]
+    },
+    {
+      "id": "dcc5058b2710",
+      "title": "TVアニメ『転生貴族、鑑定スキルで成り上がる 第3期』新章「刺客編」突入！PV第4弾、追加キャスト情報など新規情報を公開！",
+      "summary": "",
+      "url": "https://animeanime.jp/release/prtimes/20261122/328869.html",
+      "image": "https://animeanime.jp/release/imgs/list/576393.png",
+      "leadSource": "アニメ！アニメ！",
+      "publishedAt": "2026-11-22T10:30:00.000Z",
+      "sourceCount": 3,
+      "articleCount": 3,
+      "categories": [
+        "anime"
+      ],
+      "keywords": [
+        "転生貴族",
+        "スキル",
+        "鑑定"
+      ],
+      "articles": [
+        {
+          "title": "転生貴族、鑑定スキルで成り上がる 第３期 [字] ＃３４【アガルアニメ】",
+          "url": "https://www.tbs.co.jp/tv/20261129_C75C.html",
+          "source": "TBSテレビ",
+          "publishedAt": "2026-11-21T19:13:34.000Z",
+          "isPR": false
+        },
+        {
+          "title": "アニメ『転生貴族、鑑定スキルで成り上がる 第3期』第33話「積年の想い」のあらすじ＆先行カット解禁",
+          "url": "https://ln-news.com/articles/127270",
+          "source": "ラノベニュースオンライン",
+          "publishedAt": "2026-11-21T04:00:00.000Z",
           "isPR": false
         }
       ]
@@ -724,10 +805,10 @@
     },
     {
       "id": "a27cad043768",
-      "title": "その者。のちに…＞“なろう系”人気作 テレビアニメ化 2027年放送 伊東健人、小倉唯出演（MANTANWEB）",
+      "title": "その者。のちに…＞“なろう系”人気作 テレビアニメ化 2027年放送 伊東健人、小倉唯出演 (MANTANWEB)",
       "summary": "",
-      "url": "https://news.yahoo.co.jp/articles/8a273d25a1317f1d2dcb0fd08f91517c313b01b7",
-      "image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20261122-00000052-mantan-000-1-view.jpg?exp=10800",
+      "url": "https://news.yahoo.co.jp/articles/8a273d25a1317f1d2dcb0fd08f91517c313b01b7/images/000",
+      "image": "https://news-pctr.c.yimg.jp/uUzvQ3lML_bkIqyakc1vFhNrRI0RUQxg5aFkrX0xDg1_T0wXrbEJjtNGtrf1o9y32aKHaE9S6KKOAHNM7AL26lx2ZgIS0sQI-xIBmwMVoVZDMps6pBj8nwDE4XKjCQcXZKlH-yzvBkDZxbpUQdLak1XwChyOKDWHWWFuw4mXGUI-pPqJiNuUUAoyuB7HlXhHf6k2A3keUdFk887xNt-t8g==",
       "leadSource": "Yahoo!ニュース",
       "publishedAt": "2026-11-22T11:04:00.000Z",
       "sourceCount": 2,
@@ -747,90 +828,6 @@
           "url": "https://mantan-web.jp/article/20261122dog00m200020000a.html",
           "source": "Mantan Web",
           "publishedAt": "2026-11-22T11:00:00.000Z",
-          "isPR": false
-        }
-      ]
-    },
-    {
-      "id": "dcc5058b2710",
-      "title": "TVアニメ『転生貴族、鑑定スキルで成り上がる 第3期』新章「刺客編」突入！PV第4弾、追加キャスト情報など新規情報を公開！",
-      "summary": "",
-      "url": "https://animeanime.jp/release/prtimes/20261122/328869.html",
-      "image": "https://animeanime.jp/release/imgs/list/576393.png",
-      "leadSource": "アニメ！アニメ！",
-      "publishedAt": "2026-11-22T10:30:00.000Z",
-      "sourceCount": 2,
-      "articleCount": 2,
-      "categories": [
-        "anime"
-      ],
-      "keywords": [
-        "転生貴族",
-        "スキル",
-        "鑑定"
-      ],
-      "articles": [
-        {
-          "title": "アニメ『転生貴族、鑑定スキルで成り上がる 第3期』第33話「積年の想い」のあらすじ＆先行カット解禁",
-          "url": "https://ln-news.com/articles/127270",
-          "source": "ラノベニュースオンライン",
-          "publishedAt": "2026-11-21T04:00:00.000Z",
-          "isPR": false
-        }
-      ]
-    },
-    {
-      "id": "049af093199b",
-      "title": "アニメ『転生した大聖女は、聖女であることをひた隠す』サザランド編突入記念ビジュアルが解禁",
-      "summary": "",
-      "url": "https://ln-news.com/articles/127283",
-      "image": "https://assets.ln-news.com/images/medias/b62257636fde44238a17d93f2cc34c21.jpg",
-      "leadSource": "ラノベニュースオンライン",
-      "publishedAt": "2026-11-22T10:00:00.000Z",
-      "sourceCount": 2,
-      "articleCount": 2,
-      "categories": [
-        "anime"
-      ],
-      "keywords": [
-        "サザランド",
-        "ビジュアル",
-        "大聖女"
-      ],
-      "articles": [
-        {
-          "title": "TVアニメ「転生した大聖女は、聖女であることをひた隠す」キービジュアル第2弾【サザランド編突入記念ビジュアル】公開！",
-          "url": "https://prtimes.jp/main/html/rd/p/000000169.000084062.html",
-          "source": "PR TIMES",
-          "publishedAt": "2026-11-21T13:30:01.000Z",
-          "isPR": true
-        }
-      ]
-    },
-    {
-      "id": "f9ca5a6c9075",
-      "title": "『世界最高の暗殺者、異世界貴族に転生する』第2期、来年1月放送 PV解禁で新キャラ役は上坂すみれ・外崎友亮",
-      "summary": "",
-      "url": "https://www.sanyonews.jp/article/1983625?kw",
-      "image": "https://static.sanyonews.jp/image/article/size1/9/6/d/7/96d7783e018c5b9195a0bb396345595f_1.jpg",
-      "leadSource": "山陽新聞",
-      "publishedAt": "2026-11-22T04:54:51.000Z",
-      "sourceCount": 2,
-      "articleCount": 2,
-      "categories": [
-        "anime"
-      ],
-      "keywords": [
-        "世界最高",
-        "暗殺者",
-        "異世界貴族"
-      ],
-      "articles": [
-        {
-          "title": "『世界最高の暗殺者、異世界貴族に転生する』2期の配信はいつから？1期はDMM TVで見放題",
-          "url": "https://pixela.co.jp/delivery/sekai-saikou-no-ansatsusha-2-streaming/",
-          "source": "株式会社ピクセラ",
-          "publishedAt": "2026-11-21T00:45:26.000Z",
           "isPR": false
         }
       ]
@@ -863,15 +860,44 @@
           "isPR": false
         }
       ]
+    },
+    {
+      "id": "2a54fb5a48e7",
+      "title": "『薬屋のひとりごと』猫猫＆壬氏の激動を“5分で総復習” シリーズ屈指の名場面と2人の関係性の変化を凝縮",
+      "summary": "",
+      "url": "https://www.sanyonews.jp/article/2024545?kw",
+      "image": "https://static.sanyonews.jp/image/article/size1/8/5/8/8/85884a3e9b2890c1d35f73e74055e23a_1.jpg",
+      "leadSource": "山陽新聞",
+      "publishedAt": "2026-11-21T16:36:28.000Z",
+      "sourceCount": 2,
+      "articleCount": 2,
+      "categories": [
+        "other",
+        "anime"
+      ],
+      "keywords": [
+        "薬屋",
+        "シリーズ",
+        "凝縮"
+      ],
+      "articles": [
+        {
+          "title": "アニメシリーズ第2期までを凝縮 『薬屋のひとりごと』が“5分でわかる”振り返り映像公開（リアルサウンド）",
+          "url": "https://news.yahoo.co.jp/articles/7923b35bbc1af56b355246a7daa9455c0d85c319",
+          "source": "Yahoo!ニュース",
+          "publishedAt": "2026-11-20T05:50:23.000Z",
+          "isPR": false
+        }
+      ]
     }
   ],
   "churn": {
-    "previousAt": "2026-11-23T03:30:20.306Z",
+    "previousAt": "2026-11-23T04:00:18.582Z",
     "previousCount": 92,
-    "newCount": 6
+    "newCount": 5
   },
   "updateGapMin": 30,
-  "nextUpdateAt": "2026-11-23T04:30:18.582Z",
+  "nextUpdateAt": "2026-11-23T05:00:19.812Z",
   "items": [
     {
       "id": "d651675afa4a",
@@ -891,7 +917,7 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "31052367bbca",
@@ -1053,6 +1079,24 @@
       "isNew": false
     },
     {
+      "id": "351eac414f28",
+      "title": "転生した大聖女は、聖女であることをひた隠す 第8話",
+      "url": "https://lemino.docomo.ne.jp/contents/Y3JpZDovL3BsYWxhLmlwdHZmLmpwL3ZvZC8wMDAwMDAwMDAwX2Uzc3p0bGNsanI",
+      "host": "lemino.docomo.ne.jp",
+      "source": "Lemino",
+      "summary": "",
+      "publishedAt": "2026-11-22T17:00:20.000Z",
+      "image": "https://img.lemino.docomo.ne.jp/cms/a14f16a/a14f16a_w1.jpg",
+      "categories": [
+        "anime"
+      ],
+      "works": [],
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": true
+    },
+    {
       "id": "86c279374abe",
       "title": "異世界・ファンタジーアニメ5チャンネル | 無料で放送中の番組や配信中の話題作が見放題",
       "url": "https://abema.tv/now-on-air/isekai-anime-5",
@@ -1071,32 +1115,14 @@
       "isNew": false
     },
     {
-      "id": "3a8a1146b0f3",
-      "title": "第8話 転生ゴブリンだけど質問ある？",
-      "url": "https://thetv.jp/program/0001077857/9/",
-      "host": "thetv.jp",
-      "source": "WEBザテレビジョン",
-      "summary": "",
-      "publishedAt": "2026-11-22T12:38:29.000Z",
-      "image": "",
-      "categories": [
-        "anime"
-      ],
-      "works": [],
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": true
-    },
-    {
       "id": "a27cad043768",
-      "title": "その者。のちに…＞“なろう系”人気作 テレビアニメ化 2027年放送 伊東健人、小倉唯出演（MANTANWEB）",
-      "url": "https://news.yahoo.co.jp/articles/8a273d25a1317f1d2dcb0fd08f91517c313b01b7",
+      "title": "その者。のちに…＞“なろう系”人気作 テレビアニメ化 2027年放送 伊東健人、小倉唯出演 (MANTANWEB)",
+      "url": "https://news.yahoo.co.jp/articles/8a273d25a1317f1d2dcb0fd08f91517c313b01b7/images/000",
       "host": "news.yahoo.co.jp",
       "source": "Yahoo!ニュース",
       "summary": "",
       "publishedAt": "2026-11-22T11:04:00.000Z",
-      "image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20261122-00000052-mantan-000-1-view.jpg?exp=10800",
+      "image": "https://news-pctr.c.yimg.jp/uUzvQ3lML_bkIqyakc1vFhNrRI0RUQxg5aFkrX0xDg1_T0wXrbEJjtNGtrf1o9y32aKHaE9S6KKOAHNM7AL26lx2ZgIS0sQI-xIBmwMVoVZDMps6pBj8nwDE4XKjCQcXZKlH-yzvBkDZxbpUQdLak1XwChyOKDWHWWFuw4mXGUI-pPqJiNuUUAoyuB7HlXhHf6k2A3keUdFk887xNt-t8g==",
       "categories": [
         "anime",
         "web"
@@ -1287,6 +1313,26 @@
       "isNew": false
     },
     {
+      "id": "32dc81bd9864",
+      "title": "「ぷちげき『劇場版 薬屋のひとりごと 亡妃の秘宝』壬氏」 [画像ギャラリー 4/4]",
+      "url": "https://natalie.mu/comic/gallery/news/698865/3023163",
+      "host": "natalie.mu",
+      "source": "ナタリー",
+      "summary": "",
+      "publishedAt": "2026-11-22T05:18:30.000Z",
+      "image": "",
+      "categories": [
+        "anime"
+      ],
+      "works": [
+        "kusuriya"
+      ],
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": true
+    },
+    {
       "id": "cb04d2e28f9b",
       "title": "「ぷちげき『劇場版 薬屋のひとりごと 亡妃の秘宝』猫猫」 [画像ギャラリー 3/4]",
       "url": "https://natalie.mu/comic/gallery/news/698865/3023162",
@@ -1325,24 +1371,6 @@
       "viaGoogle": false,
       "sourceKind": "news",
       "isNew": false
-    },
-    {
-      "id": "f9ca5a6c9075",
-      "title": "『世界最高の暗殺者、異世界貴族に転生する』第2期、来年1月放送 PV解禁で新キャラ役は上坂すみれ・外崎友亮",
-      "url": "https://www.sanyonews.jp/article/1983625?kw",
-      "host": "sanyonews.jp",
-      "source": "山陽新聞",
-      "summary": "",
-      "publishedAt": "2026-11-22T04:54:51.000Z",
-      "image": "https://static.sanyonews.jp/image/article/size1/9/6/d/7/96d7783e018c5b9195a0bb396345595f_1.jpg",
-      "categories": [
-        "anime"
-      ],
-      "works": [],
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": true
     },
     {
       "id": "a64d88ad8081",
@@ -1457,6 +1485,26 @@
       "viaGoogle": false,
       "sourceKind": "news",
       "isNew": false
+    },
+    {
+      "id": "01371568aec8",
+      "title": "転生貴族、鑑定スキルで成り上がる 第３期 [字] ＃３４【アガルアニメ】",
+      "url": "https://www.tbs.co.jp/tv/20261129_C75C.html",
+      "host": "tbs.co.jp",
+      "source": "TBSテレビ",
+      "summary": "",
+      "publishedAt": "2026-11-21T19:13:34.000Z",
+      "image": "https://www.tbs.co.jp/ro/img/ogp.png",
+      "categories": [
+        "anime"
+      ],
+      "works": [
+        "tensei-kizoku"
+      ],
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": true
     },
     {
       "id": "9879fb93949d",
@@ -1651,13 +1699,13 @@
     },
     {
       "id": "319f9ef471c4",
-      "title": "『無職転生』第3期で描かれたルーデウス一家“団らん”が微笑ましい…Blu-rayの新ビジュアル解禁（オタク総研）",
-      "url": "https://news.yahoo.co.jp/articles/edb10376925422eda45e1272d926edd3d90502ed",
-      "host": "news.yahoo.co.jp",
-      "source": "Yahoo!ニュース",
+      "title": "『無職転生』第3期で描かれたルーデウス一家“団らん”が微笑ましい…Blu-rayの新ビジュアル解禁",
+      "url": "https://news.infoseek.co.jp/amp/article/otakulab_214835/",
+      "host": "news.infoseek.co.jp",
+      "source": "Infoseek",
       "summary": "",
-      "publishedAt": "2026-11-21T08:52:00.000Z",
-      "image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20261121-00175200-otakulab-000-1-view.jpg?exp=10800",
+      "publishedAt": "2026-11-21T08:50:59.000Z",
+      "image": "https://media.image.infoseek.co.jp/isnews/photos/otakulab/otakulab_214835_0-enlarge.jpg",
       "categories": [
         "anime",
         "goods"
@@ -2024,14 +2072,14 @@
       "isNew": false
     },
     {
-      "id": "de44fb35eecf",
-      "title": "アニメ「薬屋のひとりごと」里樹妃（リーシュヒ）の声優・キャラ情報まとめ｜猫猫との関係は？ | アニメニュース | アニメフリークス",
-      "url": "https://times.abema.tv/articles/-/10102557",
+      "id": "1585a5a61ca3",
+      "title": "アニメ「薬屋のひとりごと」翠苓（すいれい）の正体や目的は？性別や陰謀を暴かれたその後について解説",
+      "url": "https://times.abema.tv/articles/-/10113685",
       "host": "times.abema.tv",
       "source": "ABEMA TIMES",
       "summary": "",
-      "publishedAt": "2026-11-20T15:56:00.000Z",
-      "image": "https://times-abema.ismcdn.jp/mwimgs/a/8/1200w/img_a81331dc3418c6e22ac7feaf22f2bf4d84785.jpg",
+      "publishedAt": "2026-11-20T15:53:00.000Z",
+      "image": "https://times-abema.ismcdn.jp/mwimgs/3/f/1200w/img_3f67c4148de3df32c6e402debab9b30f47350.jpg",
       "categories": [
         "anime"
       ],
@@ -2123,7 +2171,7 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "54faa7525557",
@@ -2300,6 +2348,24 @@
       "viaGoogle": false,
       "sourceKind": "news",
       "isNew": false
+    },
+    {
+      "id": "466feb7196e5",
+      "title": "冬アニメ『転生エルフ』12月30日夜24時よりABEMAで地上波1週間先行配信がスタート",
+      "url": "https://news.infoseek.co.jp/article/abematimes_10290924/",
+      "host": "news.infoseek.co.jp",
+      "source": "Infoseek",
+      "summary": "",
+      "publishedAt": "2026-11-20T09:45:00.000Z",
+      "image": "https://media.image.infoseek.co.jp/isnews/photos/abematimes/abematimes_10290924_0-enlarge.jpg",
+      "categories": [
+        "anime"
+      ],
+      "works": [],
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": true
     },
     {
       "id": "a391b7b183c5",
@@ -2514,7 +2580,7 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "773c6f7df60c",
@@ -2531,106 +2597,6 @@
       ],
       "works": [
         "kusuriya"
-      ],
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": false
-    },
-    {
-      "id": "9ab5faa84713",
-      "title": "【グラクロ】双子メイドの姉ラム(リゼロ)の評価とおすすめ装備【七つの大罪】",
-      "url": "https://gamewith.jp/7taizai/article/show/263670",
-      "host": "gamewith.jp",
-      "source": "GameWith",
-      "summary": "",
-      "publishedAt": "2026-11-20T04:18:19.000Z",
-      "image": "https://img.gamewith.jp/article/thumbnail/rectangle/263670.png?date=1616990237",
-      "categories": [
-        "other"
-      ],
-      "works": [
-        "rezero"
-      ],
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": false
-    },
-    {
-      "id": "39b1e24ae19e",
-      "title": "【グラクロ】盟主シャドウ(陰の実力者)の評価とおすすめ装備【七つの大罪】",
-      "url": "https://gamewith.jp/7taizai/article/show/494901",
-      "host": "gamewith.jp",
-      "source": "GameWith",
-      "summary": "",
-      "publishedAt": "2026-11-20T04:16:49.000Z",
-      "image": "https://img.gamewith.jp/article/thumbnail/rectangle/494901.png?date=1745413271",
-      "categories": [
-        "other"
-      ],
-      "works": [
-        "kagejitsu"
-      ],
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": false
-    },
-    {
-      "id": "3211db93c83b",
-      "title": "【グラクロ】スバル&ベアトリス(リゼロ)の評価とおすすめ装備【七つの大罪】",
-      "url": "https://gamewith.jp/7taizai/article/show/557264",
-      "host": "gamewith.jp",
-      "source": "GameWith",
-      "summary": "",
-      "publishedAt": "2026-11-20T04:16:26.000Z",
-      "image": "https://img.gamewith.jp/article/thumbnail/rectangle/557264.png?date=1776861394",
-      "categories": [
-        "other"
-      ],
-      "works": [
-        "rezero"
-      ],
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": false
-    },
-    {
-      "id": "355f0c9f591d",
-      "title": "【グラクロ】氷結の魔女エミリア(リゼロ)の評価とおすすめ装備【七つの大罪】",
-      "url": "https://gamewith.jp/7taizai/article/show/557263",
-      "host": "gamewith.jp",
-      "source": "GameWith",
-      "summary": "",
-      "publishedAt": "2026-11-20T04:16:26.000Z",
-      "image": "https://img.gamewith.jp/article/thumbnail/rectangle/557263.png?date=1776861381",
-      "categories": [
-        "other"
-      ],
-      "works": [
-        "rezero"
-      ],
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": false
-    },
-    {
-      "id": "cba0e0bf9b34",
-      "title": "【グラクロ】太陽姫プリシラ(リゼロ)の評価とおすすめ装備【七つの大罪】",
-      "url": "https://gamewith.jp/7taizai/article/show/557265",
-      "host": "gamewith.jp",
-      "source": "GameWith",
-      "summary": "",
-      "publishedAt": "2026-11-20T04:16:25.000Z",
-      "image": "https://img.gamewith.jp/article/thumbnail/rectangle/557265.png?date=1776861377",
-      "categories": [
-        "other"
-      ],
-      "works": [
-        "rezero"
       ],
       "isPR": false,
       "viaGoogle": false,
