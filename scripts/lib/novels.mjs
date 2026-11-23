@@ -9,6 +9,24 @@ import { readJson, writeJson } from "./util.mjs";
 import { fetchNarou, RANK_TYPES } from "./narou.mjs";
 
 const MIN_INTERVAL_H = 12;
+const HISTORY_MAX = 800;
+
+function jstDay(iso) {
+  return new Date(new Date(iso).getTime() + 9 * 3600000).toISOString().slice(0, 10);
+}
+
+// history の 1 日分を 1 行にして書く（リポジトリの差分が膨らまないように）
+export function novelText(obj) {
+  return JSON.stringify(obj, null, 1).replace(/\[\s*("\d{4}-\d\d-\d\d"),\s*(\d+),\s*(\d+),\s*(\d+)\s*\]/g, "[$1,$2,$3,$4]");
+}
+
+// history は [日付, 総合ポイント, ブックマーク, 話数] の並び（古い順・1 日 1 件。同じ日は後の値で上書き）
+export function addHistory(history, day, info) {
+  const h = (history || []).filter((x) => x[0] !== day);
+  h.push([day, info.points || 0, info.bookmarks || 0, info.episodes || 0]);
+  h.sort((a, b) => (a[0] < b[0] ? -1 : 1));
+  return h.slice(-HISTORY_MAX);
+}
 
 export async function updateNarou(root, config, now, { log = () => {}, force = false } = {}) {
   const dir = join(root, "data", "novels");
@@ -45,8 +63,11 @@ export async function updateNarou(root, config, now, { log = () => {}, force = f
         lastDate: r.date,
       };
     }
-    const next = { ...info, workId: workByNcode.get(ncode) || null, ranks, firstSeenAt: prev.firstSeenAt || now.toISOString(), fetchedAt: now.toISOString() };
-    const text = JSON.stringify(next, null, 1);
+    const workId = workByNcode.get(ncode) || null;
+    const next = { ...info, workId, ranks, firstSeenAt: prev.firstSeenAt || now.toISOString(), fetchedAt: now.toISOString() };
+    // 作品ページに載せる作品だけ、日ごとのポイント・ブックマーク・話数を残す（作品ページの「人気の推移」）
+    if (workId) next.history = addHistory(prev.history, jstDay(now.toISOString()), info);
+    const text = novelText(next);
     if (text !== prevText) {
       await writeFile(file, text, "utf8");
       written++;

@@ -398,6 +398,149 @@ export async function renderPages(root, { log = () => {} } = {}) {
   }
   const statusOf = (n) => (n ? (n.short ? "短編" : n.finished ? "完結済み" : "連載中") : "");
 
+  // ---------- 作品ページだけの集計（人気の推移・メディア展開の動き・報道の内訳） ----------
+  // どれも集めたデータから作る、このサイトにしか無い情報。見出しとリンクだけのページにしないため
+  const mdj = (day) => {
+    const p = dayParts(day);
+    return `${p.m}月${p.d}日`;
+  };
+  const daysBetween = (a, b) => Math.round((Date.parse(b) - Date.parse(a)) / 86400000);
+  const signed = (v) => `${v >= 0 ? "+" : ""}${num(v)}`;
+  // history（古い順）から、最新の値と days 日前（無ければいちばん古い値）を取る
+  function historyWindow(h, days) {
+    if (!h?.length) return null;
+    const last = h[h.length - 1];
+    const from = new Date(Date.parse(last[0]) - days * 86400000).toISOString().slice(0, 10);
+    const first = h.find((x) => x[0] >= from) || h[0];
+    return first === last ? null : { first, last, days: daysBetween(first[0], last[0]) };
+  }
+  // この 30 日のブックマークの増え方を作品どうしで比べる
+  const bmGain = new Map();
+  for (const w of works) {
+    const win = historyWindow(w.novel?.history, 30);
+    if (win) bmGain.set(w.id, win.last[2] - win.first[2]);
+  }
+  const bmOrder = [...bmGain].sort((a, b) => b[1] - a[1]).map(([id]) => id);
+
+  function sparkline(h) {
+    const pts = h.map((x) => x[2]);
+    const min = Math.min(...pts);
+    const max = Math.max(...pts);
+    const W = 600;
+    const H = 80;
+    const line = pts
+      .map((v, i) => `${((i / Math.max(1, pts.length - 1)) * W).toFixed(1)},${(H - 6 - ((v - min) / Math.max(1, max - min)) * (H - 12)).toFixed(1)}`)
+      .join(" ");
+    return `<figure class="spark-fig"><svg class="spark" viewBox="0 0 ${W} ${H}" preserveAspectRatio="none" role="img" aria-label="ブックマーク数の推移（${mdj(h[0][0])}〜${mdj(h[h.length - 1][0])}）">
+      <polygon points="0,${H} ${line} ${W},${H}" class="spark-area"/><polyline points="${line}" class="spark-line" vector-effect="non-scaling-stroke"/></svg>
+      <figcaption class="spark-axis"><span>${mdj(h[0][0])} ${num(min)}</span><span>ブックマーク数</span><span>${mdj(h[h.length - 1][0])} ${num(max)}</span></figcaption></figure>`;
+  }
+  function trendHtml(w, n) {
+    const h = n?.history;
+    if (!h || h.length < 3) return "";
+    const all = historyWindow(h, 100000);
+    if (!all) return "";
+    const m = historyWindow(h, 30);
+    const bm = all.last[2] - all.first[2];
+    const pt = all.last[1] - all.first[1];
+    const ep = all.last[3] - all.first[3];
+    const lines = [
+      `${mdj(all.first[0])}から${mdj(all.last[0])}までの${all.days}日間で、ブックマークは${signed(bm)}件（1日あたり約${num(Math.round(bm / Math.max(1, all.days)))}件）、総合ポイントは${signed(pt)}ptでした。`,
+    ];
+    if (ep > 0) lines.push(`この間に${num(ep)}話が更新されています。`);
+    else if (!n.finished && !n.short && n.lastUp) lines.push(`この間に新しい話は出ていません（最終掲載は${jpDate(n.lastUp)}）。`);
+    const rank = bmOrder.indexOf(w.id);
+    if (m && rank >= 0) lines.push(`直近${m.days}日のブックマークの増え方は、このサイトで扱う${bmOrder.length}作品のうち${rank + 1}位です（${signed(bmGain.get(w.id))}件）。`);
+    // 1 週間ごとの表（新しい順・最大 9 行）
+    const rows = [];
+    for (let i = h.length - 1; i >= 0 && rows.length < 9; i -= 7) rows.push(h[i]);
+    const table = `<table class="trend"><thead><tr><th>日付</th><th>ブックマーク</th><th>前の週から</th><th>総合ポイント</th>${n.short ? "" : "<th>話数</th>"}</tr></thead><tbody>${rows
+      .map((r, i) => {
+        const prev = rows[i + 1];
+        return `<tr><td>${mdj(r[0])}</td><td>${num(r[2])}</td><td>${prev ? signed(r[2] - prev[2]) : "—"}</td><td>${num(r[1])}</td>${n.short ? "" : `<td>${num(r[3])}</td>`}</tr>`;
+      })
+      .join("")}</tbody></table>`;
+    return `<h2 class="sec-title">人気の推移<span class="sec-n">小説家になろう</span></h2>
+      <p class="data-lead">${lines.join("")}</p>${sparkline(h)}<div class="trend-wrap">${table}</div>
+      <p class="data-note">小説家になろうの公開APIの値を、このサイトが1日1回記録しています。</p>`;
+  }
+
+  // 見出しから「何が起きたか」を分ける。上から順に当てる
+  const MILESTONES = [
+    ["movie", "劇場版", (t) => /劇場版|映画/.test(t) && /公開|決定|興行|動員|上映|特報|予告/.test(t) && !/コラボ|グッズ|くじ|限定|キャンペーン|POP ?UP|ショップ|通販|販売/i.test(t)],
+    ["anime", "アニメ化・新シリーズ", (t) => /アニメ化|製作|制作|続編|新シリーズ|第[0-9０-９一二三四五六七八九十]+期/.test(t) && /決定|発表|始動/.test(t)],
+    ["air", "放送・配信", (t) => /(放送|配信)(開始|日|時期|決定|スタート|が決定)|(放送|配信)を?スタート|最終回/.test(t)],
+    ["pv", "PV・ビジュアル", (t) => /PV|ティザー|予告|キービジュアル|ビジュアル(公開|解禁)|特報/.test(t)],
+    ["cast", "キャスト・主題歌", (t) => /キャスト|声優|出演決定|主題歌|オープニング|エンディング/.test(t)],
+    ["comic", "コミカライズ", (t) => /コミカライズ|コミックス|漫画版|マンガ版|連載開始/.test(t)],
+    ["book", "書籍", (t) => /書籍化|[0-9０-９]+巻|最新刊|文庫/.test(t) && /発売|刊行|決定|重版|部/.test(t)],
+    ["stage", "舞台・ゲーム", (t) => /舞台|ミュージカル|朗読劇|ゲーム化|スマホゲーム|アプリ/.test(t)],
+    ["collab", "コラボ・グッズ", (t) => /コラボ|ポップアップ|くじ|グッズ|フェア|カフェ|展/.test(t)],
+  ];
+  function milestoneOf(it) {
+    const t = it.title || "";
+    for (const [id, label, test] of MILESTONES) if (test(t)) return { id, label };
+    return null;
+  }
+  function timelineHtml(newsItems) {
+    // 同じ種類の出来事が 3 日のうちに続いたら、同じ発表を各媒体が報じたものとしてまとめる
+    const groups = [];
+    const asc = [...newsItems].sort((a, b) => (a.publishedAt < b.publishedAt ? -1 : 1));
+    for (const it of asc) {
+      const ms = milestoneOf(it);
+      if (!ms) continue;
+      const g = groups.find((x) => x.ms.id === ms.id && Date.parse(it.publishedAt) - Date.parse(x.items[0].publishedAt) < 3 * 86400000);
+      if (g) g.items.push(it);
+      else groups.push({ ms, items: [it] });
+    }
+    if (!groups.length) return "";
+    const kinds = {};
+    for (const g of groups) kinds[g.ms.label] = (kinds[g.ms.label] || 0) + 1;
+    const top = Object.entries(kinds).sort((a, b) => b[1] - a[1]);
+    const lead = `${mdj(jstDay(groups[0].items[0].publishedAt))}からの動きを、発表の種類ごとにまとめました（${groups.length}件）。多いのは${top
+      .slice(0, 3)
+      .map(([k, v]) => `「${k}」${v}件`)
+      .join("、")}です。同じ発表を複数の媒体が報じたものは1件にしています。`;
+    const rows = groups
+      .slice(-15)
+      .reverse()
+      .map((g) => {
+        const first = g.items[0];
+        const srcs = new Set(g.items.map((x) => x.source).filter(Boolean));
+        return `<li><time datetime="${esc(first.publishedAt)}">${mdj(jstDay(first.publishedAt))}</time><span class="ms ms-${g.ms.id}">${g.ms.label}</span><span class="ms-t"><a href="${esc(first.url)}" target="_blank" rel="noopener">${esc(truncate(first.title, 70))}</a>${srcs.size > 1 ? `<span class="ms-n">${srcs.size}媒体</span>` : ""}</span></li>`;
+      })
+      .join("");
+    return `<h2 class="sec-title">メディア展開の動き</h2><p class="data-lead">${lead}</p><ol class="milestones">${rows}</ol>`;
+  }
+  function coverageHtml(newsItems) {
+    if (newsItems.length < 3) return "";
+    const bySrc = new Map();
+    const byMonth = new Map();
+    for (const it of newsItems) {
+      if (it.source) bySrc.set(it.source, (bySrc.get(it.source) || 0) + 1);
+      const k = jstDay(it.publishedAt).slice(0, 7);
+      byMonth.set(k, (byMonth.get(k) || 0) + 1);
+    }
+    const srcs = [...bySrc].sort((a, b) => b[1] - a[1]);
+    const months = [...byMonth].sort((a, b) => (a[0] < b[0] ? -1 : 1));
+    const oldest = newsItems.reduce((a, it) => (it.publishedAt < a ? it.publishedAt : a), newsItems[0].publishedAt);
+    const recent = newsItems.filter((it) => Date.parse(it.publishedAt) >= now.getTime() - 30 * 86400000).length;
+    const lead = `${jpDate(oldest)}から${newsItems.length}件のニュースを集めました（${bySrc.size}媒体）。この30日は${recent}件です。${
+      srcs.length ? `いちばん多く報じたのは${esc(srcs[0][0])}（${srcs[0][1]}件）でした。` : ""
+    }`;
+    const max = Math.max(...months.map((x) => x[1]));
+    const bars = months
+      .map(([k, v]) => `<li><span class="bar-k">${Number(k.slice(0, 4))}年${Number(k.slice(5))}月</span><span class="bar"><i style="width:${Math.max(2, (v / max) * 100).toFixed(0)}%"></i></span><span class="bar-v">${v}件</span></li>`)
+      .join("");
+    const srcList = srcs
+      .slice(0, 6)
+      .map(([k, v]) => `<li>${esc(k)}<span class="n">${v}件</span></li>`)
+      .join("");
+    return `<div class="coverage"><p class="data-lead">${lead}</p>
+      <div class="coverage-cols"><div><h3 class="sub-title">月ごとの件数</h3><ul class="bars">${bars}</ul></div>
+      <div><h3 class="sub-title">報じた媒体</h3><ul class="src-list">${srcList}</ul></div></div></div>`;
+  }
+
   // ---------- 作品ページ ----------
   const index = {};
   const workNews = new Map(works.map((w) => [w.id, all.filter((it) => (it.works || []).includes(w.id))]));
@@ -440,8 +583,11 @@ export async function renderPages(root, { log = () => {} } = {}) {
         </div>
       </div>
       ${pvHtml ? `<h2 class="sec-title">PV</h2>${pvHtml}` : ""}
+      ${timelineHtml(allNews)}
+      ${trendHtml(w, n)}
       ${n?.story ? `<h2 class="sec-title">あらすじ</h2>${storyHtml(n)}${tagsHtml(n)}` : ""}
       <h2 class="sec-title">ニュース${allNews.length ? `<span class="sec-n">${allNews.length}件</span>` : ""}</h2>
+      ${coverageHtml(allNews)}
       ${catSummary ? `<p class="cat-summary">${catSummary}</p>` : ""}
       ${items.length ? groupedHtml(items, "h3", { skipWork: w.id }) : `<p class="empty">まだニュースはありません。</p>`}
       ${commentsHtml(w.id, w.title)}`;
@@ -675,6 +821,8 @@ export async function renderPages(root, { log = () => {} } = {}) {
   }
 
   // ---------- 過去のニュース（日別・月別） ----------
+  // リンクの一覧だけのページなので検索には出さない（noindex, follow）。サイトマップにも入れない。
+  // 薄いページが多いとサイト全体がインデックスされにくくなるため（2026-11 に全ページが未登録だった）
   const months = new Map();
   for (const d of archive) {
     const k = d.day.slice(0, 7);
@@ -706,8 +854,9 @@ export async function renderPages(root, { log = () => {} } = {}) {
           { name: `${p.d}日`, path },
         ],
         jsonld: [itemList(d.items, `${jpDay(d.day)}のなろう系ニュース`)],
+        noindex: true,
       }),
-      { lastmod: lastOf(d.items) }
+      { index: false }
     );
   }
   for (const [k, days] of months) {
@@ -735,8 +884,9 @@ export async function renderPages(root, { log = () => {} } = {}) {
           { name: "過去のニュース", path: "/archive/" },
           { name: `${y}年${m}月`, path },
         ],
+        noindex: true,
       }),
-      { lastmod: lastOf(days.flatMap((d) => d.items)) }
+      { index: false }
     );
   }
   await out(
@@ -755,8 +905,9 @@ export async function renderPages(root, { log = () => {} } = {}) {
             .join("")}</ul>`
         : '<p class="empty">まだありません。</p>',
       crumbs: [{ name: "過去のニュース", path: "/archive/" }],
+      noindex: true,
     }),
-    { lastmod: archive[0] ? lastOf(archive[0].items) : undefined }
+    { index: false }
   );
 
   // ---------- このサイトについて ----------
