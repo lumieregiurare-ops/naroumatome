@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-24T17:00:20.642Z",
+  "updatedAt": "2026-11-24T17:30:20.004Z",
   "site": {
     "title": "なろう系まとめ",
     "tagline": "小説家になろう発の作品のアニメ化・コミカライズ・書籍化のニュースと、なろうのランキングをまとめています。",
@@ -12,12 +12,12 @@
     {
       "id": "anime",
       "label": "アニメ",
-      "count": 50
+      "count": 49
     },
     {
       "id": "comic",
       "label": "コミカライズ",
-      "count": 6
+      "count": 7
     },
     {
       "id": "book",
@@ -50,7 +50,7 @@
       "id": "tensura",
       "title": "転生したらスライムだった件",
       "short": "転スラ",
-      "count": 2
+      "count": 1
     },
     {
       "id": "mushoku",
@@ -300,11 +300,11 @@
     },
     {
       "name": "Yahoo!ニュース",
-      "count": 11
+      "count": 12
     },
     {
       "name": "山陽新聞",
-      "count": 8
+      "count": 7
     },
     {
       "name": "アニメ！アニメ！",
@@ -312,7 +312,7 @@
     },
     {
       "name": "WEBザテレビジョン",
-      "count": 5
+      "count": 6
     },
     {
       "name": "ABEMA",
@@ -324,7 +324,7 @@
     },
     {
       "name": "オリコンニュース",
-      "count": 4
+      "count": 3
     },
     {
       "name": "PR TIMES",
@@ -648,6 +648,42 @@
       ]
     },
     {
+      "id": "6649e9a88077",
+      "title": "『本好きの下剋上』×『とんがり帽子のアトリエ』コラボPV公開",
+      "summary": "",
+      "url": "https://www.sanyonews.jp/article/1949720?rct",
+      "image": "https://static.sanyonews.jp/image/article/size1/e/5/7/0/e570d79e466750271e82fed45aa52368_1.jpg",
+      "leadSource": "山陽新聞",
+      "publishedAt": "2026-11-22T16:53:54.000Z",
+      "sourceCount": 3,
+      "articleCount": 3,
+      "categories": [
+        "anime",
+        "goods"
+      ],
+      "keywords": [
+        "本好き",
+        "本好",
+        "下剋上"
+      ],
+      "articles": [
+        {
+          "title": "『本好きの下剋上 領主の養女』が描く成長と切なさ――本を愛するマインが夢と引き換えに手放したもの【松井玲奈】",
+          "url": "https://jmagazine.myjcom.jp/category/anime/post001907/",
+          "source": "J:magazine!",
+          "publishedAt": "2026-11-22T08:00:00.000Z",
+          "isPR": false
+        },
+        {
+          "title": "本好きの下剋上 #25〜36【無料ビデオ1週間】",
+          "url": "https://abema.tv/channels/isekai-anime-3/slots/9rEvPEXSxeQseF",
+          "source": "ABEMA",
+          "publishedAt": "2026-11-22T08:00:00.000Z",
+          "isPR": false
+        }
+      ]
+    },
+    {
       "id": "6b81e875ed87",
       "title": "『リゼロ』TVアニメ「3rd season」（第3期）製作決定│ビジュアルほか公開",
       "summary": "",
@@ -715,42 +751,6 @@
           "url": "https://lemino.docomo.ne.jp/contents/Y3JpZDovL3BsYWxhLmlwdHZmLmpwL3ZvZC8wMDAwMDAwMDAwX2Uzc3p0bGNsanI",
           "source": "Lemino",
           "publishedAt": "2026-11-22T17:00:20.000Z",
-          "isPR": false
-        }
-      ]
-    },
-    {
-      "id": "68ec04eb58c7",
-      "title": "花織さんは転生しても喧嘩がしたい #1〜12【無料ビデオ3日間】",
-      "summary": "",
-      "url": "https://abema.tv/channels/lovecomedy-anime/slots/91ZoJSvWxkqYQX",
-      "image": "https://static.sanyonews.jp/image/article/size1/e/5/7/0/e570d79e466750271e82fed45aa52368_1.jpg",
-      "leadSource": "ABEMA",
-      "publishedAt": "2026-11-24T04:50:18.000Z",
-      "sourceCount": 2,
-      "articleCount": 3,
-      "categories": [
-        "other",
-        "anime"
-      ],
-      "keywords": [
-        "本好き",
-        "ビデオ",
-        "無料"
-      ],
-      "articles": [
-        {
-          "title": "本好きの下剋上 #25〜36【無料ビデオ1週間】",
-          "url": "https://abema.tv/channels/isekai-anime-3/slots/9rEvQkLCC2vJmm",
-          "source": "ABEMA",
-          "publishedAt": "2026-11-23T01:12:05.000Z",
-          "isPR": false
-        },
-        {
-          "title": "『本好きの下剋上』×『とんがり帽子のアトリエ』コラボPV公開",
-          "url": "https://www.sanyonews.jp/article/1949720?rct",
-          "source": "山陽新聞",
-          "publishedAt": "2026-11-22T16:53:54.000Z",
           "isPR": false
         }
       ]
@@ -907,12 +907,12 @@
     }
   ],
   "churn": {
-    "previousAt": "2026-11-24T16:30:20.472Z",
-    "previousCount": 89,
-    "newCount": 3
+    "previousAt": "2026-11-24T17:00:20.642Z",
+    "previousCount": 88,
+    "newCount": 1
   },
   "updateGapMin": 30,
-  "nextUpdateAt": "2026-11-24T17:30:20.642Z",
+  "nextUpdateAt": "2026-11-24T18:00:20.004Z",
   "items": [
     {
       "id": "6abddb6dea26",
@@ -981,7 +981,7 @@
       "source": "GAME Watch",
       "summary": "",
       "publishedAt": "2026-11-24T09:50:07.000Z",
-      "image": "",
+      "image": "https://game.watch.impress.co.jp/img/gmw/list/2158/865/1.jpg",
       "categories": [
         "goods"
       ],
@@ -1487,26 +1487,6 @@
       "isNew": false
     },
     {
-      "id": "862c684d5b99",
-      "title": "【きょうから】『薬屋のひとりごと』×ファミマ、SCRAP監修の本格謎解き 猫猫&壬氏の限定景品、グッズ、一番くじも",
-      "url": "https://www.oricon.co.jp/news/2494077/",
-      "host": "oricon.co.jp",
-      "source": "オリコンニュース",
-      "summary": "",
-      "publishedAt": "2026-11-24T02:35:45.000Z",
-      "image": "https://contents.oricon.co.jp/upimg/news/2495000/2494077/20261119_161411_p_o_94439441.jpg",
-      "categories": [
-        "goods"
-      ],
-      "works": [
-        "kusuriya"
-      ],
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": false
-    },
-    {
       "id": "392b468f41d3",
       "title": "「薬屋のひとりごと」×「リンデロンVs」猫猫＆壬氏がARで皮膚トラブルケアをレクチャー (コミックナタリー)",
       "url": "https://news.yahoo.co.jp/articles/b58f8c9d8735222e4fdc0f7a217278e57bc39bde/images/000",
@@ -1647,6 +1627,26 @@
       "isNew": false
     },
     {
+      "id": "862c684d5b99",
+      "title": "【きょうから】『薬屋のひとりごと』×ファミマ、SCRAP監修の本格謎解き 猫猫＆壬氏の限定景品、グッズ、一番くじも（オリコン）",
+      "url": "https://news.yahoo.co.jp/articles/40d270ece29d370eb84a616491b01ed08d780182",
+      "host": "news.yahoo.co.jp",
+      "source": "Yahoo!ニュース",
+      "summary": "",
+      "publishedAt": "2026-11-23T22:05:00.000Z",
+      "image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20261124-00000307-oric-000-1-view.jpg?exp=10800",
+      "categories": [
+        "goods"
+      ],
+      "works": [
+        "kusuriya"
+      ],
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": false
+    },
+    {
       "id": "7fa161c25800",
       "title": "第9話 転生したら剣でしたII",
       "url": "https://thetv.jp/program/0001064066/9/",
@@ -1664,7 +1664,7 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "aa3f22594054",
@@ -1722,26 +1722,6 @@
       ],
       "works": [
         "mushoku"
-      ],
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": false
-    },
-    {
-      "id": "45beed357751",
-      "title": "「Re:ゼロ」全シリーズ「幼女戦記」第1期・第2期ほか、異世界アニメ3作品をABEMAで全話無料一挙放送",
-      "url": "https://thetv.jp/news/detail/1459682/19253177/",
-      "host": "thetv.jp",
-      "source": "WEBザテレビジョン",
-      "summary": "",
-      "publishedAt": "2026-11-23T16:20:47.000Z",
-      "image": "https://thetv.jp/i/nw/1459682/19253177.jpg?w=1284",
-      "categories": [
-        "anime"
-      ],
-      "works": [
-        "rezero"
       ],
       "isPR": false,
       "viaGoogle": false,
@@ -2037,24 +2017,22 @@
       "isNew": false
     },
     {
-      "id": "51d35cbb309d",
-      "title": "本好きの下剋上 #25〜36【無料ビデオ1週間】",
-      "url": "https://abema.tv/channels/isekai-anime-3/slots/9rEvQkLCC2vJmm",
-      "host": "abema.tv",
-      "source": "ABEMA",
+      "id": "7f1263b08fba",
+      "title": "アラサー独身女子が異世界の“ワケあり女の子”に…“小人さん”として生きていく様子に「可愛すぎて疲れがぶっ飛ぶ」【漫画】",
+      "url": "https://thetv.jp/news/detail/1450942/18895819/",
+      "host": "thetv.jp",
+      "source": "WEBザテレビジョン",
       "summary": "",
-      "publishedAt": "2026-11-23T01:12:05.000Z",
-      "image": "",
+      "publishedAt": "2026-11-23T01:03:16.000Z",
+      "image": "https://thetv.jp/i/nw/1450942/18895819.jpg?w=1284",
       "categories": [
-        "other"
+        "comic"
       ],
-      "works": [
-        "honzuki"
-      ],
+      "works": [],
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": false
+      "isNew": true
     },
     {
       "id": "dcc5058b2710",
@@ -2212,6 +2190,26 @@
       "isNew": false
     },
     {
+      "id": "45beed357751",
+      "title": "「Re:ゼロ」全シリーズ「幼女戦記」第1期・第2期ほか、異世界アニメ3作品をABEMAで全話無料一挙放送",
+      "url": "https://thetv.jp/news/detail/1459682/landing/",
+      "host": "thetv.jp",
+      "source": "WEBザテレビジョン",
+      "summary": "",
+      "publishedAt": "2026-11-22T10:00:13.000Z",
+      "image": "",
+      "categories": [
+        "anime"
+      ],
+      "works": [
+        "rezero"
+      ],
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": false
+    },
+    {
       "id": "049af093199b",
       "title": "アニメ『転生した大聖女は、聖女であることをひた隠す』サザランド編突入記念ビジュアルが解禁",
       "url": "https://ln-news.com/articles/127283",
@@ -2308,6 +2306,26 @@
       "isNew": false
     },
     {
+      "id": "51d35cbb309d",
+      "title": "本好きの下剋上 #25〜36【無料ビデオ1週間】",
+      "url": "https://abema.tv/channels/isekai-anime-3/slots/9rEvPEXSxeQseF",
+      "host": "abema.tv",
+      "source": "ABEMA",
+      "summary": "",
+      "publishedAt": "2026-11-22T08:00:00.000Z",
+      "image": "",
+      "categories": [
+        "other"
+      ],
+      "works": [
+        "honzuki"
+      ],
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": false
+    },
+    {
       "id": "5f1c2711e417",
       "title": "映画『劇場版 薬屋のひとりごと 亡妃の秘宝』×「ばかうけ」のコラボレーション商品が登場",
       "url": "https://ln-news.com/articles/127257",
@@ -2384,7 +2402,7 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "a64d88ad8081",
@@ -2476,7 +2494,7 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "a4d4fe9ec01b",
@@ -2551,26 +2569,6 @@
       ],
       "works": [
         "mushoku"
-      ],
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": false
-    },
-    {
-      "id": "bbe0dbb21a99",
-      "title": "『転スラ』ミリム、友達は倒せず…リムルは混沌竜の魂を保護 第83話あらすじ＆場面カット解禁",
-      "url": "https://www.sanyonews.jp/article/1938886?rct",
-      "host": "sanyonews.jp",
-      "source": "山陽新聞",
-      "summary": "",
-      "publishedAt": "2026-11-21T17:12:19.000Z",
-      "image": "https://static.sanyonews.jp/image/article/size1/c/4/6/5/c4655b762512c09aca85d283309470c2_1.jpg",
-      "categories": [
-        "anime"
-      ],
-      "works": [
-        "tensura"
       ],
       "isPR": false,
       "viaGoogle": false,
