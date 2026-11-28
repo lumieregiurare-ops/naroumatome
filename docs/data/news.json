@@ -1,18 +1,18 @@
 {
-  "updatedAt": "2026-11-28T11:30:23.635Z",
+  "updatedAt": "2026-11-28T12:00:17.630Z",
   "site": {
     "title": "なろう系まとめ",
     "tagline": "小説家になろう発の作品のアニメ化・コミカライズ・書籍化のニュースと、なろうのランキングをまとめています。",
     "url": "https://naroumatome.gamelab.website/",
     "contactUrl": "https://docs.google.com/forms/d/e/1FAIpQLSesWyhmZ6sRS_ve-c3X2KqF_wC5PK2TgwgQbTKmnQltSlg5Jw/viewform"
   },
-  "total": 145,
-  "todayCount": 61,
+  "total": 142,
+  "todayCount": 60,
   "categories": [
     {
       "id": "anime",
       "label": "アニメ",
-      "count": 71
+      "count": 72
     },
     {
       "id": "comic",
@@ -22,7 +22,7 @@
     {
       "id": "book",
       "label": "書籍・ラノベ",
-      "count": 15
+      "count": 12
     },
     {
       "id": "web",
@@ -37,12 +37,12 @@
     {
       "id": "goods",
       "label": "グッズ・イベント",
-      "count": 21
+      "count": 19
     },
     {
       "id": "other",
       "label": "そのほか",
-      "count": 41
+      "count": 39
     }
   ],
   "works": [
@@ -50,13 +50,13 @@
       "id": "tensura",
       "title": "転生したらスライムだった件",
       "short": "転スラ",
-      "count": 34
+      "count": 33
     },
     {
       "id": "mushoku",
       "title": "無職転生 ～異世界行ったら本気だす～",
       "short": "無職転生",
-      "count": 13
+      "count": 12
     },
     {
       "id": "rezero",
@@ -80,7 +80,7 @@
       "id": "kagejitsu",
       "title": "陰の実力者になりたくて！",
       "short": "陰の実力者",
-      "count": 14
+      "count": 13
     },
     {
       "id": "tate",
@@ -296,15 +296,19 @@
   "sources": [
     {
       "name": "AppMedia",
-      "count": 29
+      "count": 28
     },
     {
       "name": "Yahoo!ニュース",
-      "count": 16
+      "count": 14
     },
     {
       "name": "アニメ！アニメ！",
       "count": 12
+    },
+    {
+      "name": "電撃オンライン",
+      "count": 9
     },
     {
       "name": "GameWith",
@@ -312,14 +316,6 @@
     },
     {
       "name": "ナタリー",
-      "count": 8
-    },
-    {
-      "name": "電撃オンライン",
-      "count": 8
-    },
-    {
-      "name": "ニコニコニュース",
       "count": 6
     },
     {
@@ -328,6 +324,10 @@
     },
     {
       "name": "オリコンニュース",
+      "count": 4
+    },
+    {
+      "name": "ニコニコニュース",
       "count": 4
     },
     {
@@ -355,11 +355,31 @@
       "count": 2
     },
     {
+      "name": "Mantan Web",
+      "count": 2
+    },
+    {
+      "name": "山陽新聞",
+      "count": 2
+    },
+    {
       "name": "千葉テレビ放送",
       "count": 2
     },
     {
       "name": "eeo",
+      "count": 2
+    },
+    {
+      "name": "エンタメ特化型情報メディア スパイス",
+      "count": 2
+    },
+    {
+      "name": "エンタのおはなし",
+      "count": 2
+    },
+    {
+      "name": "Infoseek",
       "count": 2
     },
     {
@@ -395,14 +415,6 @@
       "count": 1
     },
     {
-      "name": "Mantan Web",
-      "count": 1
-    },
-    {
-      "name": "tenki.jp",
-      "count": 1
-    },
-    {
       "name": "時事ドットコム",
       "count": 1
     },
@@ -415,10 +427,6 @@
       "count": 1
     },
     {
-      "name": "アットプレス",
-      "count": 1
-    },
-    {
       "name": "読売テレビ",
       "count": 1
     },
@@ -427,15 +435,7 @@
       "count": 1
     },
     {
-      "name": "エンタのおはなし",
-      "count": 1
-    },
-    {
-      "name": "エンタメ特化型情報メディア スパイス",
-      "count": 1
-    },
-    {
-      "name": "Infoseek",
+      "name": "https://comic-report.com/",
       "count": 1
     },
     {
@@ -443,7 +443,15 @@
       "count": 1
     },
     {
+      "name": "WEBザテレビジョン",
+      "count": 1
+    },
+    {
       "name": "アニメイトタイムズ",
+      "count": 1
+    },
+    {
+      "name": "インサイド",
       "count": 1
     },
     {
@@ -451,23 +459,7 @@
       "count": 1
     },
     {
-      "name": "ウォーカープラス",
-      "count": 1
-    },
-    {
-      "name": "ciatr[シアター]",
-      "count": 1
-    },
-    {
       "name": "Gamerch",
-      "count": 1
-    },
-    {
-      "name": "山陽新聞",
-      "count": 1
-    },
-    {
-      "name": "PR TIMES",
       "count": 1
     },
     {
@@ -485,7 +477,7 @@
       "leadSource": "アニメ！アニメ！",
       "publishedAt": "2026-11-28T09:00:00.000Z",
       "sourceCount": 12,
-      "articleCount": 13,
+      "articleCount": 15,
       "categories": [
         "anime",
         "comic"
@@ -493,7 +485,7 @@
       "keywords": [
         "異世界喰滅",
         "化決定",
-        "コメント"
+        "特報"
       ],
       "articles": [
         {
@@ -525,6 +517,13 @@
           "isPR": false
         },
         {
+          "title": "「【画像】『異世界喰滅のサメ』TVアニメ化決定！特報映像＆ビジュアル公開！原作者、スタッフ、さらにサメ映像関係者からの応援コメントも到着」の画像2/2 | SPICE - エンタメ特化型情報メディア スパイス",
+          "url": "https://spice.eplus.jp/articles/350727/images/1444093",
+          "source": "エンタメ特化型情報メディア スパイス",
+          "publishedAt": "2026-11-27T02:16:55.000Z",
+          "isPR": false
+        },
+        {
           "title": "『異世界喰滅のサメ』TVアニメ化決定！ 異世界ファンタジーとサメ映画が融合",
           "url": "https://entametalk.com/news/212689/",
           "source": "エンタのおはなし",
@@ -544,13 +543,6 @@
           "source": "おた☆スケ",
           "publishedAt": "2026-11-27T02:09:00.000Z",
           "isPR": false
-        },
-        {
-          "title": "サメ映画界も「サメでとう」 漫画「異世界喰滅のサメ」TVアニメ化決定",
-          "url": "https://otakuma.net/archives/2026112702.html",
-          "source": "おたくま経済新聞",
-          "publishedAt": "2026-11-27T00:10:00.000Z",
-          "isPR": false
         }
       ]
     },
@@ -563,10 +555,9 @@
       "leadSource": "PASH! PLUS",
       "publishedAt": "2026-11-28T10:54:41.000Z",
       "sourceCount": 7,
-      "articleCount": 11,
+      "articleCount": 10,
       "categories": [
-        "anime",
-        "book"
+        "anime"
       ],
       "keywords": [
         "陰の実力者",
@@ -582,8 +573,8 @@
           "isPR": false
         },
         {
-          "title": "「劇場版 陰の実力者になりたくて！ 残響編」予告映像より [画像・動画ギャラリー 2/16]",
-          "url": "https://natalie.mu/comic/gallery/news/700129/3030749",
+          "title": "「劇場版 陰の実力者になりたくて！ 残響編」予告映像より [画像・動画ギャラリー 8/16]",
+          "url": "https://natalie.mu/comic/gallery/news/700129/3030752",
           "source": "ナタリー",
           "publishedAt": "2026-11-28T09:06:24.000Z",
           "isPR": false
@@ -624,10 +615,10 @@
           "isPR": false
         },
         {
-          "title": "「異世界喰滅のサメ」1巻 [画像・動画ギャラリー 2/4]",
-          "url": "https://natalie.mu/comic/gallery/news/699846/1598557?ref",
+          "title": "TVアニメ「異世界喰滅のサメ」ティザーPV [画像・動画ギャラリー 4/4]",
+          "url": "https://natalie.mu/comic/gallery/news/699846/media/145120",
           "source": "ナタリー",
-          "publishedAt": "2026-11-26T15:41:38.000Z",
+          "publishedAt": "2026-11-26T15:03:17.000Z",
           "isPR": false
         }
       ]
@@ -690,6 +681,63 @@
       ]
     },
     {
+      "id": "a12263913f69",
+      "title": "「壬氏さま激おこ案件」「馬閃終了のお知らせw」…「薬屋のひとりごと」馬閃のやらかし大賞にSNS大爆笑!! 不憫すぎる里樹妃には「なんでこんな辛いの」「本当にかわいそう」の声も【第57話ネタバレあり反応まとめ】",
+      "summary": "TVアニメ『薬屋のひとりごと』第57話「積み重なる問題」が2026年11月27日（金）に放送。里樹妃の複雑な過去や事情が明かされ、重い空気が流れた一方、ラストに馬閃が最大規模の失態を犯し、SNSは爆笑の嵐となった。",
+      "url": "https://animeanime.jp/article/2026/11/28/105165.html",
+      "image": "https://animeanime.jp/imgs/rss/961217.jpg",
+      "leadSource": "アニメ！アニメ！",
+      "publishedAt": "2026-11-28T07:15:40.000Z",
+      "sourceCount": 5,
+      "articleCount": 6,
+      "categories": [
+        "anime",
+        "web"
+      ],
+      "keywords": [
+        "薬屋",
+        "里樹妃",
+        "カット"
+      ],
+      "articles": [
+        {
+          "title": "薬屋のひとりごと＞盗賊に襲撃された阿多や里樹妃 第57話「積み重なる問題」カット公開 (MANTANWEB)",
+          "url": "https://news.yahoo.co.jp/articles/a94b05d37ea488615a2381b562284aa1b03a7c29/images/000",
+          "source": "Yahoo!ニュース",
+          "publishedAt": "2026-11-26T10:03:00.000Z",
+          "isPR": false
+        },
+        {
+          "title": "TVアニメ『薬屋のひとりごと』3期9話のあらすじ公開！ 猫猫は里樹妃からある相談を持ち掛けられ…",
+          "url": "https://eeo.today/media/2026/11/26/416340/",
+          "source": "eeo",
+          "publishedAt": "2026-11-26T09:08:40.000Z",
+          "isPR": false
+        },
+        {
+          "title": "壬氏の奥方選び候補である里樹妃から、猫猫は相談を持ち掛けられ…アニメ『薬屋のひとりごと』第57話あらすじ・先行カット公開",
+          "url": "https://news.yahoo.co.jp/articles/19a9b9c4665434c38a002ec1b3220b0b32341768/images/000",
+          "source": "Yahoo!ニュース",
+          "publishedAt": "2026-11-26T09:00:36.000Z",
+          "isPR": false
+        },
+        {
+          "title": "薬屋のひとりごと：盗賊に襲撃された阿多や里樹妃 第57話「積み重なる問題」カット公開",
+          "url": "https://mantan-web.jp/article/20261126dog00m200065000a.html",
+          "source": "Mantan Web",
+          "publishedAt": "2026-11-26T09:00:00.000Z",
+          "isPR": false
+        },
+        {
+          "title": "『薬屋のひとりごと』壬氏の“奥方選び”が判明…里樹妃も候補に 第57話あらすじ＆場面カット公開",
+          "url": "https://www.oricon.co.jp/news/2495440/full/",
+          "source": "オリコンニュース",
+          "publishedAt": "2026-11-26T09:00:00.000Z",
+          "isPR": false
+        }
+      ]
+    },
+    {
       "id": "fecbb089b1e4",
       "title": "『無職転生』スマホゲームに“サンタ姿”エリスが実装！クリスマスに「聖夜の看板娘」新登場",
       "summary": "",
@@ -697,8 +745,8 @@
       "image": "https://0115765.com/wp-content/uploads/2026/11/20261127-hc1jb0my-1024x576.jpg",
       "leadSource": "オタク総研",
       "publishedAt": "2026-11-27T09:42:16.000Z",
-      "sourceCount": 5,
-      "articleCount": 5,
+      "sourceCount": 4,
+      "articleCount": 4,
       "categories": [
         "game",
         "other"
@@ -724,102 +772,10 @@
           "isPR": false
         },
         {
-          "title": "『無職転生 〜異世界行ったら本気だす〜 クロニクル・オブ・エコーズ』、[聖夜の看板娘] エリスが期間限定で登場＆シナリオイベント「ウェンポート繁盛記」開催！",
-          "url": "https://prtimes.jp/main/html/rd/p/000000205.000090815.html",
-          "source": "PR TIMES",
-          "publishedAt": "2026-11-25T12:30:01.000Z",
-          "isPR": true
-        },
-        {
           "title": "『無職転生 ～異世界行ったら本気だす～ クロニクル・オブ・エコーズ』、[聖夜の看板娘] エリスが期間限定で登場＆シナリオイベント「ウェンポート繁盛記」開催！ (2026年11月25日掲載)",
           "url": "https://news.livedoor.com/pr_topics/detail/32903897/",
           "source": "ライブドアニュース",
           "publishedAt": "2026-11-25T12:30:00.000Z",
-          "isPR": false
-        }
-      ]
-    },
-    {
-      "id": "a12263913f69",
-      "title": "「壬氏さま激おこ案件」「馬閃終了のお知らせw」…「薬屋のひとりごと」馬閃のやらかし大賞にSNS大爆笑!! 不憫すぎる里樹妃には「なんでこんな辛いの」「本当にかわいそう」の声も【第57話ネタバレあり反応まとめ】",
-      "summary": "TVアニメ『薬屋のひとりごと』第57話「積み重なる問題」が2026年11月27日（金）に放送。里樹妃の複雑な過去や事情が明かされ、重い空気が流れた一方、ラストに馬閃が最大規模の失態を犯し、SNSは爆笑の嵐となった。",
-      "url": "https://animeanime.jp/article/2026/11/28/105165.html",
-      "image": "https://animeanime.jp/imgs/rss/961217.jpg",
-      "leadSource": "アニメ！アニメ！",
-      "publishedAt": "2026-11-28T07:15:40.000Z",
-      "sourceCount": 4,
-      "articleCount": 5,
-      "categories": [
-        "anime",
-        "web"
-      ],
-      "keywords": [
-        "薬屋",
-        "里樹妃",
-        "壬氏"
-      ],
-      "articles": [
-        {
-          "title": "薬屋のひとりごと＞盗賊に襲撃された阿多や里樹妃 第57話「積み重なる問題」カット公開（MANTANWEB）",
-          "url": "https://news.yahoo.co.jp/articles/a94b05d37ea488615a2381b562284aa1b03a7c29",
-          "source": "Yahoo!ニュース",
-          "publishedAt": "2026-11-26T10:03:00.000Z",
-          "isPR": false
-        },
-        {
-          "title": "TVアニメ『薬屋のひとりごと』3期9話のあらすじ公開！ 猫猫は里樹妃からある相談を持ち掛けられ…",
-          "url": "https://eeo.today/media/2026/11/26/416340/",
-          "source": "eeo",
-          "publishedAt": "2026-11-26T09:08:40.000Z",
-          "isPR": false
-        },
-        {
-          "title": "壬氏の奥方選び候補である里樹妃から、猫猫は相談を持ち掛けられ…アニメ『薬屋のひとりごと』第57話あらすじ・先行カット公開",
-          "url": "https://news.yahoo.co.jp/articles/19a9b9c4665434c38a002ec1b3220b0b32341768/images/000",
-          "source": "Yahoo!ニュース",
-          "publishedAt": "2026-11-26T09:00:36.000Z",
-          "isPR": false
-        },
-        {
-          "title": "『薬屋のひとりごと』壬氏の“奥方選び”が判明…里樹妃も候補に 第57話あらすじ＆場面カット公開",
-          "url": "https://www.oricon.co.jp/news/2495440/full/",
-          "source": "オリコンニュース",
-          "publishedAt": "2026-11-26T09:00:00.000Z",
-          "isPR": false
-        }
-      ]
-    },
-    {
-      "id": "8a11f7de6d92",
-      "title": "REIRIE、新曲「ヨーロレヨーエン」がTVアニメ『おデブ悪女に転生したら、なぜかラスボス王子様に執着されています』OPテーマに決定！",
-      "summary": "",
-      "url": "http://www.excite.co.jp/news/article/Lisani_0000323110/",
-      "image": "https://s.eximg.jp/exnews/feed/Lisani/95/Lisani_0000323110/Lisani_0000323110_1.jpg",
-      "leadSource": "Excite エキサイト",
-      "publishedAt": "2026-11-28T08:38:00.000Z",
-      "sourceCount": 3,
-      "articleCount": 3,
-      "categories": [
-        "anime"
-      ],
-      "keywords": [
-        "ラスボス",
-        "悪女",
-        "王子様"
-      ],
-      "articles": [
-        {
-          "title": "TVアニメ「おデブ悪女に転生したら、なぜかラスボス王子様に執着されています」",
-          "url": "https://news.nicovideo.jp/watch/nw20037364?news_ref",
-          "source": "ニコニコニュース",
-          "publishedAt": "2026-11-26T23:15:20.000Z",
-          "isPR": false
-        },
-        {
-          "title": "TVアニメ「おデブ悪女に転生したら、なぜかラスボス王子様に執着されています」メインPV [画像・動画ギャラリー 25/25]",
-          "url": "https://natalie.mu/comic/gallery/news/699794/media/145101",
-          "source": "ナタリー",
-          "publishedAt": "2026-11-26T09:03:31.000Z",
           "isPR": false
         }
       ]
@@ -905,6 +861,34 @@
           "url": "https://ln-news.com/articles/127294",
           "source": "ラノベニュースオンライン",
           "publishedAt": "2026-11-25T10:00:00.000Z",
+          "isPR": false
+        }
+      ]
+    },
+    {
+      "id": "8a11f7de6d92",
+      "title": "REIRIE、新曲「ヨーロレヨーエン」がTVアニメ『おデブ悪女に転生したら、なぜかラスボス王子様に執着されています』OPテーマに決定！",
+      "summary": "",
+      "url": "http://www.excite.co.jp/news/article/Lisani_0000323110/",
+      "image": "https://www.inside-games.jp/release/imgs/list/560237.jpg",
+      "leadSource": "Excite エキサイト",
+      "publishedAt": "2026-11-28T08:38:00.000Z",
+      "sourceCount": 2,
+      "articleCount": 2,
+      "categories": [
+        "anime"
+      ],
+      "keywords": [
+        "ラスボス",
+        "悪女",
+        "王子様"
+      ],
+      "articles": [
+        {
+          "title": "TVアニメ「おデブ悪女に転生したら、なぜかラスボス王子様に執着されています」 最速放送・配信は1月1日(金)地上波放送は2027年1月8日(金)に決定！最速先行配信情報も公開！",
+          "url": "https://www.inside-games.jp/release/prtimes/20261126/320402.html",
+          "source": "インサイド",
+          "publishedAt": "2026-11-26T09:00:00.000Z",
           "isPR": false
         }
       ]
@@ -1024,12 +1008,12 @@
     }
   ],
   "churn": {
-    "previousAt": "2026-11-28T11:00:20.660Z",
-    "previousCount": 151,
+    "previousAt": "2026-11-28T11:30:23.635Z",
+    "previousCount": 145,
     "newCount": 9
   },
   "updateGapMin": 30,
-  "nextUpdateAt": "2026-11-28T12:00:23.635Z",
+  "nextUpdateAt": "2026-11-28T12:30:17.630Z",
   "items": [
     {
       "id": "c14422cb429c",
@@ -1045,26 +1029,6 @@
       ],
       "works": [
         "kagejitsu"
-      ],
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": false
-    },
-    {
-      "id": "7e151f3a2eca",
-      "title": "【まおりゅう】紅覇ギィ[紅覇ノ魔王]の評価とスキル【転スラ】",
-      "url": "https://appmedia.jp/ten-sura-m/80521657",
-      "host": "appmedia.jp",
-      "source": "AppMedia",
-      "summary": "",
-      "publishedAt": "2026-11-28T10:19:37.000Z",
-      "image": "https://appmedia.jp/wp-content/uploads/2026/10/164338_ojb92.webp",
-      "categories": [
-        "other"
-      ],
-      "works": [
-        "tensura"
       ],
       "isPR": false,
       "viaGoogle": false,
@@ -1089,7 +1053,7 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "e36f6917a412",
@@ -1211,9 +1175,9 @@
       "isNew": false
     },
     {
-      "id": "90c46816cb90",
-      "title": "「劇場版 陰の実力者になりたくて！ 残響編」予告映像より [画像・動画ギャラリー 2/16]",
-      "url": "https://natalie.mu/comic/gallery/news/700129/3030749",
+      "id": "a7844b97e70c",
+      "title": "「劇場版 陰の実力者になりたくて！ 残響編」予告映像より [画像・動画ギャラリー 8/16]",
+      "url": "https://natalie.mu/comic/gallery/news/700129/3030752",
       "host": "natalie.mu",
       "source": "ナタリー",
       "summary": "",
@@ -1396,7 +1360,7 @@
       "source": "Excite エキサイト",
       "summary": "",
       "publishedAt": "2026-11-28T08:38:00.000Z",
-      "image": "https://s.eximg.jp/exnews/feed/Lisani/95/Lisani_0000323110/Lisani_0000323110_1.jpg",
+      "image": "",
       "categories": [
         "anime"
       ],
@@ -1746,7 +1710,7 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "2124f42a4e98",
@@ -1806,7 +1770,7 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "83aab6c2696e",
@@ -1887,21 +1851,18 @@
       "isNew": false
     },
     {
-      "id": "3b6d7b2bc3d7",
-      "title": "【期間限定】『薬屋のひとりごと』原作小説カフェ @TOKYOの今日・明日の天気 週末の天気・紫外線情報【お出かけスポット天気】",
-      "url": "https://tenki.jp/leisure/3/16/93/187094/",
-      "host": "tenki.jp",
-      "source": "tenki.jp",
+      "id": "81a32e3a3b98",
+      "title": "『バキ外伝 烈海王は異世界転生しても一向にかまわんッッ』アニメ化決定 PV解禁で制作はトムス・エンタテインメント",
+      "url": "https://www.sanyonews.jp/article/1980851?kw",
+      "host": "sanyonews.jp",
+      "source": "山陽新聞",
       "summary": "",
-      "publishedAt": "2026-11-27T20:34:07.000Z",
-      "image": "https://d2goguvysdoarq.cloudfront.net/system/facility_photos/photos/307024/normal.jpg?1777519463&w=640&h=640&t=r",
+      "publishedAt": "2026-11-27T20:40:35.000Z",
+      "image": "https://static.sanyonews.jp/image/article/size1/4/c/2/a/4c2ad1497cee93cc8093e32cdc6473c2_1.jpg",
       "categories": [
-        "book",
-        "goods"
+        "anime"
       ],
-      "works": [
-        "kusuriya"
-      ],
+      "works": [],
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
@@ -2366,26 +2327,6 @@
       "isNew": false
     },
     {
-      "id": "a1e90a927e62",
-      "title": "「薬屋のひとりごと」ドラマ化の反応は？ 反発目立つ背景を考察 #エキスパートトピ(河村鳴紘)へのコメント",
-      "url": "https://news.yahoo.co.jp/profile/expert/comments/39be72b2-a2a0-4997-b9d9-199582b27aa5",
-      "host": "news.yahoo.co.jp",
-      "source": "Yahoo!ニュース",
-      "summary": "",
-      "publishedAt": "2026-11-27T13:52:42.000Z",
-      "image": "https://s.yimg.jp/images/news-web/versions/20261127-93b9b54/all/images/ogp_user_commentPerma.jpg",
-      "categories": [
-        "other"
-      ],
-      "works": [
-        "kusuriya"
-      ],
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": false
-    },
-    {
       "id": "649b704173f6",
       "title": "【#コンパス】 『陰の実力者になりたくて！』コラボカード＆コスチューム一挙紹介！豊富な【周】カードや新効果の【癒】カードが目玉!!",
       "url": "https://games.app-liv.jp/archives/573775",
@@ -2393,7 +2334,7 @@
       "source": "Appliv Games",
       "summary": "",
       "publishedAt": "2026-11-27T11:47:59.000Z",
-      "image": "https://games.app-liv.jp/images/articles/2025/07/gd_573775_-26.jpg",
+      "image": "",
       "categories": [
         "goods"
       ],
@@ -2544,25 +2485,6 @@
       "viaGoogle": false,
       "sourceKind": "news",
       "isNew": false
-    },
-    {
-      "id": "eabb09e8fb37",
-      "title": "【オーバーラップ文庫オールスター大集結SP 2027 第１弾】2027年もやります!! 1月10日ABEMAで生放送！今クールアニメ「信者ゼロの女神サマと始める異世界攻略」振り返り大特集！その他メディアミックス作品初解禁情報など盛りだくさ…",
-      "url": "https://www.atpress.ne.jp/news/653724",
-      "host": "atpress.ne.jp",
-      "source": "アットプレス",
-      "summary": "",
-      "publishedAt": "2026-11-27T09:00:00.000Z",
-      "image": "https://www.atpress.ne.jp/attachments/HMnBTzZmJgpl9Av54qYw.png",
-      "categories": [
-        "anime",
-        "book"
-      ],
-      "works": [],
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": true
     },
     {
       "id": "11a4b5b9238e",
@@ -2716,7 +2638,7 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "471821631672",
@@ -2833,20 +2755,18 @@
       "isNew": false
     },
     {
-      "id": "88caeea6707c",
-      "title": "2026年秋アニメED主題歌、どの曲が好き？ 3位「生徒会にも穴はある！」ナナヲアカリ、2位「魔法少女育成計画restart」Daisy×Daisy、1位は…「薬屋のひとりごと」Eve",
-      "url": "https://news.yahoo.co.jp/articles/e18873caeec961ce0f7a32e56114762e2786691f",
-      "host": "news.yahoo.co.jp",
-      "source": "Yahoo!ニュース",
+      "id": "2325aff2b907",
+      "title": "漫画『どう見ても悪役令嬢なので婚約解消してください』無料rawで読める？ネタバレと感想もご紹介！ - https://comic-report.com/",
+      "url": "https://comic-report.com/doumitemo/",
+      "host": "comic-report.com",
+      "source": "https://comic-report.com/",
       "summary": "",
-      "publishedAt": "2026-11-27T03:05:02.000Z",
-      "image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20261127-00000003-anmanmv-000-1-view.jpg?exp=10800",
+      "publishedAt": "2026-11-27T03:10:53.000Z",
+      "image": "https://comic-report.com/wp-content/uploads/2026/11/『どう見ても悪役令嬢なので婚約解消してください』無料rawで読める？ネタバレと感想もご紹介！.png",
       "categories": [
-        "anime"
+        "comic"
       ],
-      "works": [
-        "kusuriya"
-      ],
+      "works": [],
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
@@ -2871,6 +2791,24 @@
       "viaGoogle": false,
       "sourceKind": "news",
       "isNew": false
+    },
+    {
+      "id": "d2af146a49f3",
+      "title": "「【画像】『異世界喰滅のサメ』TVアニメ化決定！特報映像＆ビジュアル公開！原作者、スタッフ、さらにサメ映像関係者からの応援コメントも到着」の画像2/2 | SPICE - エンタメ特化型情報メディア スパイス",
+      "url": "https://spice.eplus.jp/articles/350727/images/1444093",
+      "host": "spice.eplus.jp",
+      "source": "エンタメ特化型情報メディア スパイス",
+      "summary": "",
+      "publishedAt": "2026-11-27T02:16:55.000Z",
+      "image": "",
+      "categories": [
+        "anime"
+      ],
+      "works": [],
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": true
     },
     {
       "id": "49a880a030b4",
@@ -2898,7 +2836,7 @@
       "source": "エンタメ特化型情報メディア スパイス",
       "summary": "",
       "publishedAt": "2026-11-27T02:13:24.000Z",
-      "image": "https://spice.eplus.jp/images/sWazBvBQV0XqD25pg7A5WIBkxiQjwxdVBiEv8qZkbxqfCtQbpAPpTFivz9Evyv8z",
+      "image": "",
       "categories": [
         "anime"
       ],
@@ -2925,6 +2863,24 @@
       "viaGoogle": false,
       "sourceKind": "news",
       "isNew": false
+    },
+    {
+      "id": "e0bdffc4356f",
+      "title": "【特報映像】TVアニメ「異世界喰滅のサメ」ティザーPV",
+      "url": "https://entametalk.com/gallery/212686",
+      "host": "entametalk.com",
+      "source": "エンタのおはなし",
+      "summary": "",
+      "publishedAt": "2026-11-27T01:57:08.000Z",
+      "image": "https://entametalk.com/wp-content/uploads/2026/11/84eeb45fe812e201e2e35c281384d2f3.jpg",
+      "categories": [
+        "anime"
+      ],
+      "works": [],
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": true
     },
     {
       "id": "2c8e66ab320a",
@@ -2986,22 +2942,24 @@
       "isNew": false
     },
     {
-      "id": "4173bfa3e20d",
-      "title": "TVアニメ「おデブ悪女に転生したら、なぜかラスボス王子様に執着されています」",
-      "url": "https://news.nicovideo.jp/watch/nw20037364?news_ref",
-      "host": "news.nicovideo.jp",
-      "source": "ニコニコニュース",
+      "id": "4f0eea5dcfb7",
+      "title": "アニメ『薬屋のひとりごと』3期9話“積み重なる問題”。盗賊騒ぎのあとも問題は山積み。さらに白蛇のごとき謎の仙女の影がふたたびちらつく",
+      "url": "https://dengekionline.com/article/202611/95238",
+      "host": "dengekionline.com",
+      "source": "電撃オンライン",
       "summary": "",
-      "publishedAt": "2026-11-26T23:15:20.000Z",
-      "image": "",
+      "publishedAt": "2026-11-26T22:20:00.000Z",
+      "image": "https://cimg.kgl-systems.io/camion/files/95238/ogp_gOUj.jpg?x=1280",
       "categories": [
         "anime"
       ],
-      "works": [],
+      "works": [
+        "kusuriya"
+      ],
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": false
+      "isNew": true
     },
     {
       "id": "9d6b4bfc5df0",
@@ -3044,42 +3002,6 @@
       "isNew": false
     },
     {
-      "id": "1f4be7917f7d",
-      "title": "「異世界喰滅のサメ」1巻 [画像・動画ギャラリー 2/4]",
-      "url": "https://natalie.mu/comic/gallery/news/699846/1598557?ref",
-      "host": "natalie.mu",
-      "source": "ナタリー",
-      "summary": "",
-      "publishedAt": "2026-11-26T15:41:38.000Z",
-      "image": "",
-      "categories": [
-        "book"
-      ],
-      "works": [],
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": false
-    },
-    {
-      "id": "8a0ec16d4266",
-      "title": "TVアニメ「異世界喰滅のサメ」ティザーPV [画像・動画ギャラリー 4/4]",
-      "url": "https://natalie.mu/comic/gallery/news/699846/media/145120?ref",
-      "host": "natalie.mu",
-      "source": "ナタリー",
-      "summary": "",
-      "publishedAt": "2026-11-26T15:39:42.000Z",
-      "image": "",
-      "categories": [
-        "anime"
-      ],
-      "works": [],
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": false
-    },
-    {
       "id": "f3d5efad31e9",
       "title": "くぼけん「異世界喰滅のサメ」TVアニメ化、落ちこぼれ召喚士と“殺滅（サメ）”の冒険譚 (コミックナタリー)",
       "url": "https://news.yahoo.co.jp/articles/d08f3691157b7b3d63cae5091f016582aafe5018/images/000",
@@ -3091,6 +3013,24 @@
       "categories": [
         "anime",
         "comic"
+      ],
+      "works": [],
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": false
+    },
+    {
+      "id": "8a0ec16d4266",
+      "title": "TVアニメ「異世界喰滅のサメ」ティザーPV [画像・動画ギャラリー 4/4]",
+      "url": "https://natalie.mu/comic/gallery/news/699846/media/145120",
+      "host": "natalie.mu",
+      "source": "ナタリー",
+      "summary": "",
+      "publishedAt": "2026-11-26T15:03:17.000Z",
+      "image": "",
+      "categories": [
+        "anime"
       ],
       "works": [],
       "isPR": false,
@@ -3172,23 +3112,24 @@
       "isNew": false
     },
     {
-      "id": "68065b1b6edc",
-      "title": "オタ可愛いダークエルフと異世界でラノベ創作!?『ダークエルフはラノベが書きたい！』の連載がスタート！謎に包まれた種族",
-      "url": "https://news.nicovideo.jp/watch/nw20036122?from",
-      "host": "news.nicovideo.jp",
-      "source": "ニコニコニュース",
+      "id": "11ff5432d9b8",
+      "title": "＜薬屋のひとりごと＞壬氏初の“猫猫”名前呼びに「刺激が強すぎる」とファン悶絶、幽霊の正体も明らかに【第38話】",
+      "url": "https://thetv.jp/news/detail/1445408/18697258/",
+      "host": "thetv.jp",
+      "source": "WEBザテレビジョン",
       "summary": "",
-      "publishedAt": "2026-11-26T14:30:39.000Z",
-      "image": "",
+      "publishedAt": "2026-11-26T14:28:26.000Z",
+      "image": "https://thetv.jp/i/nw/1445408/18697258.jpg?w=1284",
       "categories": [
-        "comic",
-        "book"
+        "anime"
       ],
-      "works": [],
+      "works": [
+        "kusuriya"
+      ],
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": false
+      "isNew": true
     },
     {
       "id": "e8fadd8c6b4d",
@@ -3252,13 +3193,13 @@
     },
     {
       "id": "bc745162722c",
-      "title": "薬屋のひとりごと＞盗賊に襲撃された阿多や里樹妃 第57話「積み重なる問題」カット公開（MANTANWEB）",
-      "url": "https://news.yahoo.co.jp/articles/a94b05d37ea488615a2381b562284aa1b03a7c29",
+      "title": "薬屋のひとりごと＞盗賊に襲撃された阿多や里樹妃 第57話「積み重なる問題」カット公開 (MANTANWEB)",
+      "url": "https://news.yahoo.co.jp/articles/a94b05d37ea488615a2381b562284aa1b03a7c29/images/000",
       "host": "news.yahoo.co.jp",
       "source": "Yahoo!ニュース",
       "summary": "",
       "publishedAt": "2026-11-26T10:03:00.000Z",
-      "image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20261126-00000062-mantan-000-1-view.jpg?exp=10800",
+      "image": "https://news-pctr.c.yimg.jp/uUzvQ3lML_bkIqyakc1vFhNrRI0RUQxg5aFkrX0xDg1_T0wXrbEJjtNGtrf1o9y32aKHaE9S6KKOAHNM7AL26te7DtxtGlqkmPZTTEz2-cW8GyQ-DwftVcPhUtM4snXumbjCeFOJABacvu3PlV-7V3_yoqpXyvpVKU90zHf9zZthf2d2xX36V4exxXGnnyaHB_Ku5ITtPLAZL0rU49F4dw==",
       "categories": [
         "anime"
       ],
@@ -3331,24 +3272,6 @@
       "isNew": false
     },
     {
-      "id": "7a8998da1d4e",
-      "title": "TVアニメ「おデブ悪女に転生したら、なぜかラスボス王子様に執着されています」メインPV [画像・動画ギャラリー 25/25]",
-      "url": "https://natalie.mu/comic/gallery/news/699794/media/145101",
-      "host": "natalie.mu",
-      "source": "ナタリー",
-      "summary": "",
-      "publishedAt": "2026-11-26T09:03:31.000Z",
-      "image": "",
-      "categories": [
-        "anime"
-      ],
-      "works": [],
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": false
-    },
-    {
       "id": "21030b4a5d3f",
       "title": "TVアニメ『薬屋のひとりごと』第57話先行カット公開 壬氏の奥方選びをめぐる会合へ（リアルサウンド）",
       "url": "https://news.yahoo.co.jp/articles/0cdb7aa4925f5165ed4e7ceb0778a2e72b411b7a",
@@ -3387,6 +3310,44 @@
       "viaGoogle": false,
       "sourceKind": "news",
       "isNew": false
+    },
+    {
+      "id": "3e24e450006f",
+      "title": "薬屋のひとりごと：盗賊に襲撃された阿多や里樹妃 第57話「積み重なる問題」カット公開",
+      "url": "https://mantan-web.jp/article/20261126dog00m200065000a.html",
+      "host": "mantan-web.jp",
+      "source": "Mantan Web",
+      "summary": "",
+      "publishedAt": "2026-11-26T09:00:00.000Z",
+      "image": "https://storage.mantan-web.jp/w=1280,h=720,icr=0:0.1:1:1,a=2,g=2,f=webp:auto/images/2026/11/26/20261126dog00m200065000a/001.jpg",
+      "categories": [
+        "anime"
+      ],
+      "works": [
+        "kusuriya"
+      ],
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": true
+    },
+    {
+      "id": "98488e2ab0d1",
+      "title": "TVアニメ「おデブ悪女に転生したら、なぜかラスボス王子様に執着されています」 最速放送・配信は1月1日(金)地上波放送は2027年1月8日(金)に決定！最速先行配信情報も公開！",
+      "url": "https://www.inside-games.jp/release/prtimes/20261126/320402.html",
+      "host": "inside-games.jp",
+      "source": "インサイド",
+      "summary": "",
+      "publishedAt": "2026-11-26T09:00:00.000Z",
+      "image": "https://www.inside-games.jp/release/imgs/list/560237.jpg",
+      "categories": [
+        "anime"
+      ],
+      "works": [],
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": true
     },
     {
       "id": "ccd3c9bf48a0",
@@ -3469,26 +3430,6 @@
       "isNew": false
     },
     {
-      "id": "f6f5b132f70c",
-      "title": "KADOKAWAグループ作品6万点以上に使える最大60％OFFクーポン配布！「陰の実力者」「聖剣学院の魔剣使い」など秋アニメ作品もお得に",
-      "url": "https://www.walkerplus.com/article/1163318/",
-      "host": "walkerplus.com",
-      "source": "ウォーカープラス",
-      "summary": "",
-      "publishedAt": "2026-11-26T08:00:00.000Z",
-      "image": "https://news.walkerplus.com/article/1163318/12301909_615.jpg",
-      "categories": [
-        "anime"
-      ],
-      "works": [
-        "kagejitsu"
-      ],
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": false
-    },
-    {
       "id": "ca9b1e6b510e",
       "title": "『陰の実力者になりたくて！マスターオブガーデン』クリスマスイベント「ぱやっと！完璧サンタと特別任務！」開催！",
       "url": "https://gamewith.jp/gamedb/8388/articles/66312",
@@ -3503,6 +3444,25 @@
       "works": [
         "kagejitsu"
       ],
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": false
+    },
+    {
+      "id": "68065b1b6edc",
+      "title": "オタ可愛いダークエルフと異世界でラノベ創作!?『ダークエルフはラノベが書きたい！』の連載がスタート！謎に包まれた種族、ダークエルフ――その正体はオタ活に全振り!?陰キャ可愛い創作ラブコメディ、開幕！",
+      "url": "https://news.infoseek.co.jp/article/prtimes_000001062_000049835/",
+      "host": "news.infoseek.co.jp",
+      "source": "Infoseek",
+      "summary": "",
+      "publishedAt": "2026-11-26T06:45:26.000Z",
+      "image": "https://media.image.infoseek.co.jp/isnews/pc/img/noimage_203x120_busi-econ-1.0.png",
+      "categories": [
+        "comic",
+        "book"
+      ],
+      "works": [],
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
@@ -3647,25 +3607,6 @@
       "isNew": false
     },
     {
-      "id": "c8fba49f3a93",
-      "title": "漫画『異世界転生したら、推しの敵役のメイドになりました』あらすじネタバレ・無料配信情報！rawやpdfで読むのはやめよう",
-      "url": "https://ciatr.jp/topics/340563",
-      "host": "ciatr.jp",
-      "source": "ciatr[シアター]",
-      "summary": "",
-      "publishedAt": "2026-11-26T02:23:55.000Z",
-      "image": "https://images.ciatr.jp/2026/11/w_828/LPTzo2weEt8s4BLeizxZVM61qcb4HDOntcHyS3gt.jpg",
-      "categories": [
-        "anime",
-        "comic"
-      ],
-      "works": [],
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": false
-    },
-    {
       "id": "2a8cd5fcf54d",
       "title": "MFブックス2026年11月刊行のラインナップをご紹介。『無職転生 ～蛇足編～ 4』『赤ん坊の異世界ハイハイ奮闘録7』など6冊",
       "url": "https://ln-news.com/articles/127308",
@@ -3804,26 +3745,6 @@
       "viaGoogle": false,
       "sourceKind": "news",
       "isNew": false
-    },
-    {
-      "id": "8a111665b831",
-      "title": "『無職転生 〜異世界行ったら本気だす〜 クロニクル・オブ・エコーズ』、[聖夜の看板娘] エリスが期間限定で登場＆シナリオイベント「ウェンポート繁盛記」開催！",
-      "url": "https://prtimes.jp/main/html/rd/p/000000205.000090815.html",
-      "host": "prtimes.jp",
-      "source": "PR TIMES",
-      "summary": "",
-      "publishedAt": "2026-11-25T12:30:01.000Z",
-      "image": "https://prcdn.freetls.fastly.net/release_image/90815/205/90815-205-bda15f4c28448bdbab0ea66f60dca553-1920x1080.jpg?format=jpeg&auto=webp&fit=bounds&width=2400&height=1260",
-      "categories": [
-        "goods"
-      ],
-      "works": [
-        "mushoku"
-      ],
-      "isPR": true,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": true
     },
     {
       "id": "61c2677f3b5a",
